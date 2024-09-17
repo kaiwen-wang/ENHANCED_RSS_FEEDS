@@ -14,7 +14,7 @@ async function scrape() {
     const res = await fetch(url);
     const html = await res.text();
     const $ = cheerio.load(html);
-    const $mostReads = $('.most-read');
+    const $mostReads = $('.MostRead_mostRead__X1tM2');
 
     const today = new Date();
     const options = {
@@ -42,10 +42,10 @@ async function scrape() {
         articles: []
     };
 
-    $mostReads.find('.slot--most-read-item').each((index, element) => {
-        const $article = $(element).find('.collection-article');
-        const href = $article.find('a').attr('href');
-        let text = $article.find('a').text().trim();
+    $mostReads.find('.MostRead_mostReadSlot__DkZmG').each((index, element) => {
+        const $article = $(element).find('a');
+        const href = $article.attr('href');
+        let text = $article.find('h2').text().trim();
         const link = `<a href="${url}${href}">${text}</a>`;
         RSSElement.description += `${index + 1}. ${link}<br>`;
         mostReadHtml += `<li class="text-blue-500 hover:text-blue-200">${link}</li>`;
