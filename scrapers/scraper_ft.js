@@ -12,7 +12,17 @@ const url = 'https://ft.com';
 
 async function scrape() {
     const res = await fetch(url);
+
+
+    // const blob = await res.blob();
+    // blob.arrayBuffer().then(buffer => {
+    //     const uint8Array = new Uint8Array(buffer);
+    //     console.log(uint8Array);
+    // });
+
+
     const html = await res.text();
+    console.log(html)
     const $ = cheerio.load(html);
     const $mostReads = $('.o-header__mega-column--articles');
     const $frontRead = $('.list__items-wrapper').first();

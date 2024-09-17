@@ -99,13 +99,14 @@
 		class="flex justify-between items-center px-2 py-1.5 border-b border-gray-800"
 	>
 		<div>
-			<p class="uppercase text-xs">
-				Last updated: <span>{articles[activeTab].date}</span>
+			<p class="uppercase text-xs whitespace-nowrap">
+				<span class="hidden md:inline">Last updated: </span>
+				<span>{articles[activeTab].date}</span>
 			</p>
 		</div>
 
 		<a
-			class="uppercase text-xs group"
+			class="uppercase text-xs group whitespace-nowrap"
 			href={`src/lib/rss/rss_${activeTab}.xml`}
 			target="_blank"
 		>
