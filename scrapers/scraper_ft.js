@@ -22,7 +22,6 @@ async function scrape() {
 
 
     const html = await res.text();
-    console.log(html)
     const $ = cheerio.load(html);
     const $mostReads = $('.o-header__mega-column--articles');
     const $frontRead = $('.list__items-wrapper').first();
