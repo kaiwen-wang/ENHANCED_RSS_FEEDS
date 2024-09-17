@@ -75,8 +75,7 @@
 	>
 		<div class="flex overflow-scroll">
 			{#each tabs as tab}
-				<a
-					href="#"
+				<button
 					class="flex gap-1 items-center justify-center w-fit py-1.5 px-2 font-semibold text-sm
 					hover:bg-[#1a1a1a]
 					border-t-2
@@ -91,7 +90,7 @@
 				>
 					<img src={tab.logo} alt={tab.label} class="w-4 h-4" />
 					{tab.label}
-				</a>
+				</button>
 			{/each}
 		</div>
 	</nav>
@@ -105,14 +104,14 @@
 			</p>
 		</div>
 
-		<a
+		<!-- <a
 			class="uppercase text-xs group whitespace-nowrap"
 			href={`src/lib/rss/rss_${activeTab}.xml`}
 			target="_blank"
 		>
 			<div class="inline group-hover:underline">Subscribe with RSS</div>
 			<kbd class="border px-0.5 rounded-sm">R</kbd>
-		</a>
+		</a> -->
 	</div>
 
 	<section class="flex-grow h-screen relative isolate overflow-scroll">
