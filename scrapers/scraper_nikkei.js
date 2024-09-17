@@ -62,14 +62,14 @@ async function scrape() {
 
     feed.item(RSSElement);
     let xml = feed.xml();
-    fs.writeFile("src/lib/rss/rss_nikkei.xml", xml, function (err) {
+    fs.writeFile("static/rss/rss_nikkei.xml", xml, function (err) {
         if (err) {
             return console.log(err);
         }
         console.log("RSS feed saved");
     });
 
-    fs.writeFile("src/lib/json/nikkei_top_stories.json", JSON.stringify(jsonData, null, 2), function (err) {
+    fs.writeFile("static/json/nikkei_top_stories.json", JSON.stringify(jsonData, null, 2), function (err) {
         if (err) {
             return console.log(err);
         }

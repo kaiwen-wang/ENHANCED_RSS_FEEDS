@@ -70,7 +70,7 @@ async function scrape() {
     let xml = feed.xml();
 
     // Save RSS feed
-    fs.writeFile("src/lib/rss/rss_hn.xml", xml, function (err) {
+    fs.writeFile("static/rss/rss_hn.xml", xml, function (err) {
         if (err) {
             return console.log(err);
         }
@@ -78,7 +78,7 @@ async function scrape() {
     });
 
     // Save JSON data
-    fs.writeFile("src/lib/json/hn_top_stories.json", JSON.stringify(jsonData, null, 2), function (err) {
+    fs.writeFile("static/json/hn_top_stories.json", JSON.stringify(jsonData, null, 2), function (err) {
         if (err) {
             return console.log(err);
         }

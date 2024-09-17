@@ -68,14 +68,14 @@ async function scrape() {
 
     feed.item(RSSElement);
     let xml = feed.xml();
-    fs.writeFile("src/lib/rss/rss_lobsters.xml", xml, function (err) {
+    fs.writeFile("static/rss/rss_lobsters.xml", xml, function (err) {
         if (err) {
             return console.log(err);
         }
         console.log("RSS feed saved");
     });
 
-    fs.writeFile("src/lib/json/lobsters_top_stories.json", JSON.stringify(jsonData, null, 2), function (err) {
+    fs.writeFile("static/json/lobsters_top_stories.json", JSON.stringify(jsonData, null, 2), function (err) {
         if (err) {
             return console.log(err);
         }
@@ -84,4 +84,3 @@ async function scrape() {
 }
 
 scrape();
-

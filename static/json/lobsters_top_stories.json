@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, September 17, 2024 at 7:55 AM GMT-5",
+  "date": "Tuesday, September 17, 2024 at 8:05 AM GMT-5",
   "articles": [
-    {
-      "title": "Oracle, it’s time to free JavaScript",
-      "href": "https://javascript.tm/",
-      "points": "44",
-      "comments": "\n              16 comments",
-      "index": 1
-    },
     {
       "title": "Towards Modified Condition/Decision Coverage of Rust",
       "href": "https://arxiv.org/abs/2409.08708",
-      "points": "5",
+      "points": "6",
       "comments": "\n              1 comment",
+      "index": 1
+    },
+    {
+      "title": "Oracle, it’s time to free JavaScript",
+      "href": "https://javascript.tm/",
+      "points": "45",
+      "comments": "\n              17 comments",
       "index": 2
     },
     {
@@ -25,43 +25,43 @@
     {
       "title": "The terminal for Kubernetes",
       "href": "https://github.com/grampelberg/kty",
-      "points": "18",
+      "points": "19",
       "comments": "\n              10 comments",
       "index": 4
+    },
+    {
+      "title": "Master hexagonal architecture in Rust",
+      "href": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust",
+      "points": "5",
+      "comments": "\n              1 comment",
+      "index": 5
     },
     {
       "title": "Blog: Clapping music for two flip-disc displays",
       "href": "https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/",
       "points": "15",
       "comments": "\n              1 comment",
-      "index": 5
+      "index": 6
+    },
+    {
+      "title": "Update on Native Matrix interoperability with WhatsApp",
+      "href": "https://matrix.org/blog/2024/09/whatsapp-dma/",
+      "points": "5",
+      "comments": "\n              no comments",
+      "index": 7
     },
     {
       "title": "FreeBSD 13.4-RELEASE Announcement",
       "href": "https://www.freebsd.org/releases/13.4R/announce/",
       "points": "12",
       "comments": "\n              4 comments",
-      "index": 6
-    },
-    {
-      "title": "Master hexagonal architecture in Rust",
-      "href": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust",
-      "points": "4",
-      "comments": "\n              1 comment",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Blindsided by Rust's Subtyping and Variance",
       "href": "https://nullderef.com/blog/rust-variance/",
       "points": "4",
       "comments": "\n              1 comment",
-      "index": 8
-    },
-    {
-      "title": "Update on Native Matrix interoperability with WhatsApp",
-      "href": "https://matrix.org/blog/2024/09/whatsapp-dma/",
-      "points": "4",
-      "comments": "\n              no comments",
       "index": 9
     },
     {
