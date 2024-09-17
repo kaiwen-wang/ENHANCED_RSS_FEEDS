@@ -17,10 +17,10 @@
 
 	onMount(async () => {
 		const sources = [
-			{ name: "hn", url: "src/lib/json/hn_top_stories.json" },
-			{ name: "ft", url: "src/lib/json/ft_top_stories.json" },
-			{ name: "lobsters", url: "src/lib/json/lobsters_top_stories.json" },
-			{ name: "nikkei", url: "src/lib/json/nikkei_top_stories.json" },
+			{ name: "hn", url: "/json/hn_top_stories.json" },
+			{ name: "ft", url: "/json/ft_top_stories.json" },
+			{ name: "lobsters", url: "/json/lobsters_top_stories.json" },
+			{ name: "nikkei", url: "/json/nikkei_top_stories.json" },
 		];
 
 		const fetchPromises = sources.map(async (source) => {
@@ -104,14 +104,14 @@
 			</p>
 		</div>
 
-		<!-- <a
+		<a
 			class="uppercase text-xs group whitespace-nowrap"
-			href={`src/lib/rss/rss_${activeTab}.xml`}
+			href={`/rss/rss_${activeTab}.xml`}
 			target="_blank"
 		>
 			<div class="inline group-hover:underline">Subscribe with RSS</div>
 			<kbd class="border px-0.5 rounded-sm">R</kbd>
-		</a> -->
+		</a>
 	</div>
 
 	<section class="flex-grow h-screen relative isolate overflow-scroll">
