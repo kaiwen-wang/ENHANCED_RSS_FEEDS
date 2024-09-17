@@ -110,7 +110,7 @@
 			target="_blank"
 		>
 			<div class="inline group-hover:underline">Subscribe with RSS</div>
-			<kbd class="border px-0.5 rounded-sm">R</kbd>
+			<!-- <kbd class="border px-0.5 rounded-sm">R</kbd> -->
 		</a>
 	</div>
 
