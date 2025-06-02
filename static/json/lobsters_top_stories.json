@@ -1,5 +1,5 @@
 {
-  "date": "Monday, June 2, 2025 at 4:20 PM GMT-5",
+  "date": "Monday, June 2, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "Gleam v1.11.0 released",
@@ -12,21 +12,21 @@
       "title": "A tour of upcoming RFCs for the Hare programming language",
       "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              15 comments",
       "index": 2
-    },
-    {
-      "title": "Our Grafana and Loki installs have quietly become 'legacy software' here",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 3
     },
     {
       "title": "Google Logo Ligature Bug",
       "href": "https://www.jefftk.com/p/google-logo-ligature-bug",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
+      "index": 3
+    },
+    {
+      "title": "Our Grafana and Loki installs have quietly become 'legacy software' here",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere",
+      "points": "",
+      "comments": "\n              19 comments",
       "index": 4
     },
     {
@@ -37,10 +37,10 @@
       "index": 5
     },
     {
-      "title": "WhisperD: linux voice-to-text using OpenAI whisper-1 transcription",
-      "href": "https://github.com/icholy/whisperd/",
+      "title": "GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)",
+      "href": "https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              2 comments",
       "index": 6
     },
     {
@@ -58,66 +58,66 @@
       "index": 8
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/usvbn9/what_are_you_doing_this_week",
+      "title": "public/protected/private is an unnecessary feature",
+      "href": "https://catern.com/private.html",
       "points": "",
-      "comments": "\n              31 comments",
+      "comments": "\n              2 comments",
       "index": 9
     },
     {
-      "title": "GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)",
-      "href": "https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates",
+      "title": "My AI Skeptic Friends Are All Nuts",
+      "href": "https://fly.io/blog/youre-all-nuts/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 10
     },
     {
-      "title": "Designing Error Types in Rust Libraries",
-      "href": "https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html",
+      "title": "WhisperD: linux voice-to-text using OpenAI whisper-1 transcription",
+      "href": "https://github.com/icholy/whisperd/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              3 comments",
       "index": 11
     },
     {
-      "title": "The DuckLake Manifesto: SQL as a Lakehouse Format",
-      "href": "https://ducklake.select/manifesto/",
+      "title": "What are you doing this week?",
+      "href": "/s/usvbn9/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              32 comments",
       "index": 12
-    },
-    {
-      "title": "Can a chrome extension host a terminal emulator?",
-      "href": "https://blog.pomdtr.me/posts/integrated-terminal/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
     },
     {
       "title": "Is It JavaScript?",
       "href": "https://blog.jim-nielsen.com/2025/is-it-javascript/",
       "points": "",
       "comments": "\n              13 comments",
+      "index": 13
+    },
+    {
+      "title": "Designing Error Types in Rust Libraries",
+      "href": "https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 14
     },
     {
       "title": "How to deal with Rust dependencies",
       "href": "https://notgull.net/rust-dependencies/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 15
     },
     {
-      "title": "public/protected/private is an unnecessary feature",
-      "href": "https://catern.com/private.html",
+      "title": "The DuckLake Manifesto: SQL as a Lakehouse Format",
+      "href": "https://ducklake.select/manifesto/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 16
     },
     {
-      "title": "My idea of how a modern mailing service should work (2011)",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/spam/ModernMailingServiceIdea",
+      "title": "Can a chrome extension host a terminal emulator?",
+      "href": "https://blog.pomdtr.me/posts/integrated-terminal/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
-      "title": "In POSIX, you can theoretically use inode zero",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode",
+      "title": "My idea of how a modern mailing service should work (2011)",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/spam/ModernMailingServiceIdea",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 19
-    },
-    {
-      "title": "Hypervisors for Memory Introspection and Reverse Engineering",
-      "href": "https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "CVE 2025-31200 CoreAudio bug exploited in the wild",
-      "href": "https://blog.noahhw.dev/posts/cve-2025-31200/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
     },
     {
       "title": "Reducing Cargo target directory size with -Zno-embed-metadata",
       "href": "https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "In POSIX, you can theoretically use inode zero",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Tests should not contain logic",
+      "href": "https://blog.snork.dev/posts/tests-should-not-contain-logic.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 22
     },
     {
-      "title": "How I like to install NixOS (declaratively)",
-      "href": "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/",
+      "title": "Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog",
+      "href": "https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "RSS 2.0 Specification (2009)",
-      "href": "https://www.rssboard.org/rss-specification",
+      "title": "Hypervisors for Memory Introspection and Reverse Engineering",
+      "href": "https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "What technology to use for a small NGO website?",
-      "href": "/s/qmtc8m/what_technology_use_for_small_ngo_website",
+      "title": "CVE 2025-31200 CoreAudio bug exploited in the wild",
+      "href": "https://blog.noahhw.dev/posts/cve-2025-31200/",
       "points": "",
-      "comments": "\n              37 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
