@@ -1,5 +1,5 @@
 {
-  "date": "Monday, June 2, 2025 at 12:15 PM GMT-5",
+  "date": "Monday, June 2, 2025 at 1:30 PM GMT-5",
   "articles": [
     {
       "title": "Gleam v1.11.0 released",
@@ -12,14 +12,14 @@
       "title": "A tour of upcoming RFCs for the Hare programming language",
       "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 2
     },
     {
       "title": "Is the transition to IPv6 inevitable?",
       "href": "https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              29 comments",
       "index": 3
     },
     {
@@ -33,28 +33,28 @@
       "title": "What are you doing this week?",
       "href": "/s/usvbn9/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              25 comments",
       "index": 5
-    },
-    {
-      "title": "Designing Error Types in Rust Libraries",
-      "href": "https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 6
     },
     {
       "title": "WhisperD: linux voice-to-text using OpenAI whisper-1 transcription",
       "href": "https://github.com/icholy/whisperd/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
+      "title": "Designing Error Types in Rust Libraries",
+      "href": "https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 7
     },
     {
-      "title": "Practical /dev/tcp in the HTTPS Era",
-      "href": "https://blog.pkgforge.dev/https-via-http",
+      "title": "Faster route propagation by rewriting our Traefik gateway in Rust",
+      "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              1 comment",
       "index": 8
     },
     {
@@ -65,31 +65,31 @@
       "index": 9
     },
     {
+      "title": "Practical /dev/tcp in the HTTPS Era",
+      "href": "https://blog.pkgforge.dev/https-via-http",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 10
+    },
+    {
       "title": "Is It JavaScript?",
       "href": "https://blog.jim-nielsen.com/2025/is-it-javascript/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 10
+      "index": 11
     },
     {
-      "title": "Faster route propagation by rewriting our Traefik gateway in Rust",
-      "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust",
+      "title": "My idea of how a modern mailing service should work (2011)",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/spam/ModernMailingServiceIdea",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 11
+      "comments": "\n              3 comments",
+      "index": 12
     },
     {
       "title": "Can a chrome extension host a terminal emulator?",
       "href": "https://blog.pomdtr.me/posts/integrated-terminal/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "How I like to install NixOS (declaratively)",
-      "href": "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 13
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "What technology to use for a small NGO website?",
-      "href": "/s/qmtc8m/what_technology_use_for_small_ngo_website",
+      "title": "How I like to install NixOS (declaratively)",
+      "href": "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/",
       "points": "",
-      "comments": "\n              34 comments",
+      "comments": "\n              11 comments",
       "index": 15
     },
     {
@@ -114,24 +114,24 @@
       "index": 16
     },
     {
-      "title": "My idea of how a modern mailing service should work (2011)",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/spam/ModernMailingServiceIdea",
+      "title": "What technology to use for a small NGO website?",
+      "href": "/s/qmtc8m/what_technology_use_for_small_ngo_website",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              34 comments",
       "index": 17
-    },
-    {
-      "title": "wl-kbptr: Control the mouse pointer with the keyboard on Wayland",
-      "href": "https://github.com/moverest/wl-kbptr",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 18
     },
     {
       "title": "Reducing Cargo target directory size with -Zno-embed-metadata",
       "href": "https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "wl-kbptr: Control the mouse pointer with the keyboard on Wayland",
+      "href": "https://github.com/moverest/wl-kbptr",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 19
     },
     {
@@ -166,7 +166,7 @@
       "title": "Tools built on tree-sitter's concrete syntax trees",
       "href": "https://www.scannedinavian.com/tools-built-on-tree-sitters-concrete-syntax-trees.html",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              24 comments",
       "index": 24
     },
     {
