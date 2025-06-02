@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, June 1, 2025 at 8:45 PM GMT-5",
+  "date": "Sunday, June 1, 2025 at 10:20 PM GMT-5",
   "articles": [
+    {
+      "title": "The Princeton INTERCAL Compiler's source code",
+      "href": "https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code",
+      "points": "24 points",
+      "comments": "1 comment",
+      "index": 1
+    },
     {
       "title": "The Visual World of 'Samurai Jack'",
       "href": "https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack",
-      "points": "155 points",
-      "comments": "29 comments",
-      "index": 1
+      "points": "197 points",
+      "comments": "35 comments",
+      "index": 2
     },
     {
       "title": "Root shell on a credit card terminal",
       "href": "https://stefan-gloor.ch/yomani-hack",
-      "points": "548 points",
-      "comments": "149 comments",
-      "index": 2
+      "points": "575 points",
+      "comments": "165 comments",
+      "index": 3
     },
     {
       "title": "LibriVox",
       "href": "https://librivox.org/",
-      "points": "79 points",
-      "comments": "24 comments",
-      "index": 3
+      "points": "99 points",
+      "comments": "27 comments",
+      "index": 4
+    },
+    {
+      "title": "I Made a Chair",
+      "href": "https://milofultz.com/2025-05-27-i-made-a-chair.html",
+      "points": "33 points",
+      "comments": "7 comments",
+      "index": 5
     },
     {
       "title": "Cinematography of “Andor”",
       "href": "https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html",
-      "points": "316 points",
-      "comments": "310 comments",
-      "index": 4
-    },
-    {
-      "title": "How Generative Engine Optimization (GEO) rewrites the rules of search",
-      "href": "https://a16z.com/geo-over-seo/",
-      "points": "22 points",
-      "comments": "11 comments",
-      "index": 5
-    },
-    {
-      "title": "Nitrogen Triiodide (2016)",
-      "href": "https://www.fourmilab.ch/documents/chemistry/NI3/",
-      "points": "51 points",
-      "comments": "30 comments",
+      "points": "331 points",
+      "comments": "319 comments",
       "index": 6
     },
     {
-      "title": "Estimating Logarithms",
-      "href": "https://obrhubr.org/logarithm-estimation",
-      "points": "62 points",
-      "comments": "13 comments",
+      "title": "TPDE: A Fast Adaptable Compiler Back-End Framework",
+      "href": "https://arxiv.org/abs/2505.22610",
+      "points": "5 points",
+      "comments": "discuss",
       "index": 7
     },
     {
-      "title": "A new generation of Tailscale access controls",
-      "href": "https://tailscale.com/blog/grants-ga",
-      "points": "159 points",
-      "comments": "36 comments",
+      "title": "Exponential Functions and Euler's Formula",
+      "href": "http://www.deaneyang.com//blog/blog/math/exponential-function/euler-formula/2025/05/29/ExponentialFunctions.html",
+      "points": "7 points",
+      "comments": "discuss",
       "index": 8
-    },
-    {
-      "title": "What works (and doesn't) selling formal methods",
-      "href": "https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods",
-      "points": "22 points",
-      "comments": "1 comment",
-      "index": 9
     },
     {
       "title": "HeidiSQL Available Also for Linux",
       "href": "https://www.heidisql.com/forum.php?t=44068",
-      "points": "12 points",
-      "comments": "4 comments",
+      "points": "32 points",
+      "comments": "9 comments",
+      "index": 9
+    },
+    {
+      "title": "Nitrogen Triiodide (2016)",
+      "href": "https://www.fourmilab.ch/documents/chemistry/NI3/",
+      "points": "65 points",
+      "comments": "35 comments",
       "index": 10
     },
     {
-      "title": "Progressive JSON",
-      "href": "https://overreacted.io/progressive-json/",
-      "points": "460 points",
-      "comments": "195 comments",
+      "title": "What works (and doesn't) selling formal methods",
+      "href": "https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods",
+      "points": "32 points",
+      "comments": "3 comments",
       "index": 11
+    },
+    {
+      "title": "Estimating Logarithms",
+      "href": "https://obrhubr.org/logarithm-estimation",
+      "points": "68 points",
+      "comments": "17 comments",
+      "index": 12
+    },
+    {
+      "title": "A new generation of Tailscale access controls",
+      "href": "https://tailscale.com/blog/grants-ga",
+      "points": "165 points",
+      "comments": "41 comments",
+      "index": 13
+    },
+    {
+      "title": "How Generative Engine Optimization (GEO) rewrites the rules of search",
+      "href": "https://a16z.com/geo-over-seo/",
+      "points": "33 points",
+      "comments": "28 comments",
+      "index": 14
+    },
+    {
+      "title": "Show HN: Moon Phase Algorithms for C, Lua, Awk, JavaScript, etc.",
+      "href": "https://github.com/oliverkwebb/moonphase",
+      "points": "8 points",
+      "comments": "discuss",
+      "index": 15
     },
     {
       "title": "When Fine-Tuning Makes Sense: A Developer's Guide",
       "href": "https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started",
-      "points": "107 points",
-      "comments": "44 comments",
-      "index": 12
+      "points": "118 points",
+      "comments": "46 comments",
+      "index": 16
+    },
+    {
+      "title": "Progressive JSON",
+      "href": "https://overreacted.io/progressive-json/",
+      "points": "468 points",
+      "comments": "197 comments",
+      "index": 17
+    },
+    {
+      "title": "Writing your own C++ standard library part 2",
+      "href": "https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html",
+      "points": "6 points",
+      "comments": "discuss",
+      "index": 18
     },
     {
       "title": "Atari Means Business with the Mega ST",
       "href": "https://www.goto10retro.com/p/atari-means-business-with-the-mega",
-      "points": "136 points",
-      "comments": "101 comments",
-      "index": 13
+      "points": "138 points",
+      "comments": "102 comments",
+      "index": 19
     },
     {
       "title": "Google AI Edge – On-device cross-platform AI deployment",
       "href": "https://ai.google.dev/edge",
-      "points": "172 points",
-      "comments": "30 comments",
-      "index": 14
-    },
-    {
-      "title": "Making maps with noise functions (2022)",
-      "href": "https://www.redblobgames.com/maps/terrain-from-noise/",
-      "points": "21 points",
-      "comments": "2 comments",
-      "index": 15
-    },
-    {
-      "title": "M8.2 solar flare, Strong G4 geomagnetic storm watch",
-      "href": "https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html",
-      "points": "166 points",
-      "comments": "40 comments",
-      "index": 16
+      "points": "178 points",
+      "comments": "31 comments",
+      "index": 20
     },
     {
       "title": "How I like to install NixOS (declaratively)",
       "href": "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/",
-      "points": "103 points",
-      "comments": "109 comments",
-      "index": 17
+      "points": "113 points",
+      "comments": "114 comments",
+      "index": 21
     },
     {
       "title": "RenderFormer: Neural rendering of triangle meshes with global illumination",
       "href": "https://microsoft.github.io/renderformer/",
-      "points": "245 points",
-      "comments": "49 comments",
-      "index": 18
+      "points": "249 points",
+      "comments": "50 comments",
+      "index": 22
     },
     {
-      "title": "“Bugs are 100x more expensive to fix in production” study might not exist (2021)",
-      "href": "https://www.theregister.com/2021/07/22/bugs_expense_bs/",
-      "points": "40 points",
-      "comments": "33 comments",
-      "index": 19
+      "title": "Making maps with noise functions (2022)",
+      "href": "https://www.redblobgames.com/maps/terrain-from-noise/",
+      "points": "23 points",
+      "comments": "2 comments",
+      "index": 23
     },
     {
-      "title": "Ukraine destroys more than 40 military aircraft in drone attack deep in Russia",
-      "href": "https://www.npr.org/2025/06/01/nx-s1-5419509/ukraine-destroys-military-aircraft-attack-inside-russia-planes",
-      "points": "214 points",
-      "comments": "239 comments",
-      "index": 20
-    },
-    {
-      "title": "Figma Slides Is a Beautiful Disaster",
-      "href": "https://allenpike.com/2025/figma-slides-beautiful-disaster",
-      "points": "355 points",
-      "comments": "209 comments",
-      "index": 21
+      "title": "M8.2 solar flare, Strong G4 geomagnetic storm watch",
+      "href": "https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html",
+      "points": "173 points",
+      "comments": "44 comments",
+      "index": 24
     },
     {
       "title": "Toying with the Lambda Calculus",
       "href": "https://github.com/WinVector/Examples/blob/main/lambda_calculus/toying_with_the_lambda_calculus.ipynb",
-      "points": "10 points",
+      "points": "16 points",
       "comments": "1 comment",
-      "index": 22
+      "index": 25
     },
     {
       "title": "Why DeepSeek is cheap at scale but expensive to run locally",
       "href": "https://www.seangoedecke.com/inference-batching-and-deepseek/",
-      "points": "277 points",
-      "comments": "162 comments",
-      "index": 23
+      "points": "284 points",
+      "comments": "166 comments",
+      "index": 26
     },
     {
-      "title": "Structured Errors in Go (2022)",
-      "href": "https://southcla.ws/structured-errors-in-go",
-      "points": "119 points",
-      "comments": "42 comments",
-      "index": 24
+      "title": "Figma Slides Is a Beautiful Disaster",
+      "href": "https://allenpike.com/2025/figma-slides-beautiful-disaster",
+      "points": "367 points",
+      "comments": "215 comments",
+      "index": 27
     },
     {
       "title": "Codex CLI is going native",
       "href": "https://github.com/openai/codex/discussions/1174",
-      "points": "85 points",
-      "comments": "77 comments",
-      "index": 25
+      "points": "95 points",
+      "comments": "85 comments",
+      "index": 28
     },
     {
-      "title": "Father Ted Kilnettle Shrine Tape Dispenser",
-      "href": "https://stephencoyle.net/kilnettle",
-      "points": "200 points",
-      "comments": "51 comments",
-      "index": 26
-    },
-    {
-      "title": "Why Blender Changing to Vulkan Is Groundbreaking [video]",
-      "href": "https://www.youtube.com/watch?v=7cta91Y53gs",
-      "points": "28 points",
-      "comments": "24 comments",
-      "index": 27
+      "title": "Structured Errors in Go (2022)",
+      "href": "https://southcla.ws/structured-errors-in-go",
+      "points": "121 points",
+      "comments": "44 comments",
+      "index": 29
     },
     {
       "title": "Show HN: Patio – Rent tools, learn DIY, reduce waste",
       "href": "https://patio.so",
-      "points": "211 points",
-      "comments": "137 comments",
-      "index": 28
-    },
-    {
-      "title": "New adaptive optics shows details of our star's atmosphere",
-      "href": "https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/",
-      "points": "156 points",
-      "comments": "25 comments",
-      "index": 29
-    },
-    {
-      "title": "Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex",
-      "href": "https://github.com/einaregilsson/Redirector",
-      "points": "78 points",
-      "comments": "35 comments",
+      "points": "218 points",
+      "comments": "143 comments",
       "index": 30
     }
   ]
