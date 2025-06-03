@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, June 3, 2025 at 1:30 AM GMT-5",
+  "date": "Tuesday, June 3, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "Gleam v1.11.0 released",
@@ -12,28 +12,28 @@
       "title": "Google Logo Ligature Bug",
       "href": "https://www.jefftk.com/p/google-logo-ligature-bug",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 2
-    },
-    {
-      "title": "GenAI is Our Polyester",
-      "href": "https://culture.ghost.io/genai-is-our-polyester/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 3
-    },
-    {
-      "title": "A tour of upcoming RFCs for the Hare programming language",
-      "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/",
-      "points": "",
-      "comments": "\n              24 comments",
-      "index": 4
     },
     {
       "title": "Beachpatrol: CLI to automate your everyday web browser",
       "href": "https://github.com/sebastiancarlos/beachpatrol",
       "points": "",
       "comments": "\n              no comments",
+      "index": 3
+    },
+    {
+      "title": "GenAI is Our Polyester",
+      "href": "https://culture.ghost.io/genai-is-our-polyester/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 4
+    },
+    {
+      "title": "A tour of upcoming RFCs for the Hare programming language",
+      "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/",
+      "points": "",
+      "comments": "\n              26 comments",
       "index": 5
     },
     {
@@ -61,7 +61,7 @@
       "title": "My AI Skeptic Friends Are All Nuts",
       "href": "https://fly.io/blog/youre-all-nuts/",
       "points": "",
-      "comments": "\n              41 comments",
+      "comments": "\n              46 comments",
       "index": 9
     },
     {
@@ -79,24 +79,24 @@
       "index": 11
     },
     {
+      "title": "Faster route propagation by rewriting our Traefik gateway in Rust",
+      "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 12
+    },
+    {
       "title": "Practical /dev/tcp in the HTTPS Era",
       "href": "https://blog.pkgforge.dev/https-via-http",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "public/protected/private is an unnecessary feature",
       "href": "https://catern.com/private.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 13
-    },
-    {
-      "title": "Faster route propagation by rewriting our Traefik gateway in Rust",
-      "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 14
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
-      "title": "WhisperD: linux voice-to-text using OpenAI whisper-1 transcription",
-      "href": "https://github.com/icholy/whisperd/",
+      "title": "Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems",
+      "href": "https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 19
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/usvbn9/what_are_you_doing_this_week",
+      "title": "AI didn’t kill Stack Overflow",
+      "href": "https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html",
       "points": "",
-      "comments": "\n              37 comments",
+      "comments": "\n              9 comments",
       "index": 20
-    },
-    {
-      "title": "Designing Error Types in Rust Libraries",
-      "href": "https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 21
     },
     {
       "title": "The DuckLake Manifesto: SQL as a Lakehouse Format",
       "href": "https://ducklake.select/manifesto/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "WhisperD: linux voice-to-text using OpenAI whisper-1 transcription",
+      "href": "https://github.com/icholy/whisperd/",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 22
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/usvbn9/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              37 comments",
+      "index": 23
+    },
+    {
+      "title": "Designing Error Types in Rust Libraries",
+      "href": "https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 24
     },
     {
       "title": "How to deal with Rust dependencies",
       "href": "https://notgull.net/rust-dependencies/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 23
-    },
-    {
-      "title": "AI didn’t kill Stack Overflow",
-      "href": "https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 24
-    },
-    {
-      "title": "Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems",
-      "href": "https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
