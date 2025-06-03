@@ -1,39 +1,39 @@
 {
-  "date": "Tuesday, June 3, 2025 at 2:20 AM GMT-5",
+  "date": "Tuesday, June 3, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "Gleam v1.11.0 released",
       "href": "https://gleam.run/news/gleam-javascript-gets-30-percent-faster/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              21 comments",
       "index": 1
     },
     {
       "title": "Google Logo Ligature Bug",
       "href": "https://www.jefftk.com/p/google-logo-ligature-bug",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              11 comments",
       "index": 2
+    },
+    {
+      "title": "GenAI is Our Polyester",
+      "href": "https://culture.ghost.io/genai-is-our-polyester/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 3
     },
     {
       "title": "Beachpatrol: CLI to automate your everyday web browser",
       "href": "https://github.com/sebastiancarlos/beachpatrol",
       "points": "",
       "comments": "\n              no comments",
-      "index": 3
-    },
-    {
-      "title": "GenAI is Our Polyester",
-      "href": "https://culture.ghost.io/genai-is-our-polyester/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 4
     },
     {
       "title": "A tour of upcoming RFCs for the Hare programming language",
       "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              27 comments",
       "index": 5
     },
     {
@@ -54,56 +54,56 @@
       "title": "GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)",
       "href": "https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 8
+    },
+    {
+      "title": "Swift at Apple: migrating the Password Monitoring service from Java",
+      "href": "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 9
     },
     {
       "title": "My AI Skeptic Friends Are All Nuts",
       "href": "https://fly.io/blog/youre-all-nuts/",
       "points": "",
-      "comments": "\n              46 comments",
-      "index": 9
+      "comments": "\n              48 comments",
+      "index": 10
     },
     {
       "title": "Tests should not contain logic",
       "href": "https://blog.snork.dev/posts/tests-should-not-contain-logic.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 10
-    },
-    {
-      "title": "Is the transition to IPv6 inevitable?",
-      "href": "https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/",
-      "points": "",
-      "comments": "\n              36 comments",
       "index": 11
-    },
-    {
-      "title": "Faster route propagation by rewriting our Traefik gateway in Rust",
-      "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 12
     },
     {
       "title": "Practical /dev/tcp in the HTTPS Era",
       "href": "https://blog.pkgforge.dev/https-via-http",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 12
+    },
+    {
+      "title": "Is the transition to IPv6 inevitable?",
+      "href": "https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/",
+      "points": "",
+      "comments": "\n              36 comments",
       "index": 13
+    },
+    {
+      "title": "Faster route propagation by rewriting our Traefik gateway in Rust",
+      "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 14
     },
     {
       "title": "public/protected/private is an unnecessary feature",
       "href": "https://catern.com/private.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 14
-    },
-    {
-      "title": "Swift at Apple: migrating the Password Monitoring service from Java",
-      "href": "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 15
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "tpde: A fast framework for writing baseline compiler back-ends in C++",
+      "href": "https://github.com/tpde2/tpde",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 19
+    },
+    {
       "title": "Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems",
       "href": "https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
+    },
+    {
+      "title": "Example of Splitting a PR",
+      "href": "https://www.jefftk.com/p/example-of-splitting-a-pr",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/usvbn9/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              38 comments",
+      "index": 22
     },
     {
       "title": "AI didn’t kill Stack Overflow",
       "href": "https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 20
+      "index": 23
     },
     {
       "title": "The DuckLake Manifesto: SQL as a Lakehouse Format",
       "href": "https://ducklake.select/manifesto/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 24
     },
     {
       "title": "WhisperD: linux voice-to-text using OpenAI whisper-1 transcription",
       "href": "https://github.com/icholy/whisperd/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 22
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/usvbn9/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              37 comments",
-      "index": 23
-    },
-    {
-      "title": "Designing Error Types in Rust Libraries",
-      "href": "https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 24
-    },
-    {
-      "title": "How to deal with Rust dependencies",
-      "href": "https://notgull.net/rust-dependencies/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 25
     }
   ]
