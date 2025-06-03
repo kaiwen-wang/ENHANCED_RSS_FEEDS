@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, June 3, 2025 at 10:20 AM GMT-5",
+  "date": "Tuesday, June 3, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "Gleam v1.11.0 released",
@@ -19,21 +19,21 @@
       "title": "GenAI is Our Polyester",
       "href": "https://culture.ghost.io/genai-is-our-polyester/",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              24 comments",
       "index": 3
+    },
+    {
+      "title": "Vibe coding case study: ScubaDuck",
+      "href": "https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 4
     },
     {
       "title": "Beachpatrol: CLI to automate your everyday web browser",
       "href": "https://github.com/sebastiancarlos/beachpatrol",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 4
-    },
-    {
-      "title": "Vibe coding case study: ScubaDuck",
-      "href": "https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 5
     },
     {
@@ -51,129 +51,129 @@
       "index": 7
     },
     {
+      "title": "Interfacing MCP with Combinatorial, Convex, and SMT Solvers",
+      "href": "https://www.stephendiehl.com/posts/smt_and_mcp_solvers/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
       "title": "Swift at Apple: migrating the Password Monitoring service from Java",
       "href": "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 8
+      "comments": "\n              4 comments",
+      "index": 9
     },
     {
       "title": "Page Magic: A Chrome extension that uses AI to customize the appearance of any web page",
       "href": "https://github.com/khaledh/pagemagic",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "A tour of upcoming RFCs for the Hare programming language",
       "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/",
       "points": "",
       "comments": "\n              32 comments",
-      "index": 10
+      "index": 11
     },
     {
-      "title": "Our Grafana and Loki installs have quietly become 'legacy software' here",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere",
+      "title": "Tests should not contain logic",
+      "href": "https://blog.snork.dev/posts/tests-should-not-contain-logic.html",
       "points": "",
-      "comments": "\n              37 comments",
-      "index": 11
+      "comments": "\n              8 comments",
+      "index": 12
     },
     {
       "title": "GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)",
       "href": "https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 12
-    },
-    {
-      "title": "Tests should not contain logic",
-      "href": "https://blog.snork.dev/posts/tests-should-not-contain-logic.html",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 13
     },
     {
-      "title": "Interfacing MCP with Combinatorial, Convex, and SMT Solvers",
-      "href": "https://www.stephendiehl.com/posts/smt_and_mcp_solvers/",
+      "title": "Our Grafana and Loki installs have quietly become 'legacy software' here",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              37 comments",
       "index": 14
+    },
+    {
+      "title": "My AI Skeptic Friends Are All Nuts",
+      "href": "https://fly.io/blog/youre-all-nuts/",
+      "points": "",
+      "comments": "\n              85 comments",
+      "index": 15
     },
     {
       "title": "Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog",
       "href": "https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
+      "index": 16
+    },
+    {
+      "title": "Example of Splitting a PR",
+      "href": "https://www.jefftk.com/p/example-of-splitting-a-pr",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 17
     },
     {
       "title": "tpde: A fast framework for writing baseline compiler back-ends in C++",
       "href": "https://github.com/tpde2/tpde",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 16
-    },
-    {
-      "title": "My AI Skeptic Friends Are All Nuts",
-      "href": "https://fly.io/blog/youre-all-nuts/",
-      "points": "",
-      "comments": "\n              79 comments",
-      "index": 17
-    },
-    {
-      "title": "Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems",
-      "href": "https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 18
     },
     {
-      "title": "Example of Splitting a PR",
-      "href": "https://www.jefftk.com/p/example-of-splitting-a-pr",
+      "title": "AI coding assistants destroy the virtue of laziness (and possibly impatience too)",
+      "href": "https://slophole.net/post/two-virtues/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 19
-    },
-    {
-      "title": "Faster route propagation by rewriting our Traefik gateway in Rust",
-      "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 20
     },
     {
       "title": "public/protected/private is an unnecessary feature",
       "href": "https://catern.com/private.html",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 20
+    },
+    {
+      "title": "Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems",
+      "href": "https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 21
+    },
+    {
+      "title": "Faster route propagation by rewriting our Traefik gateway in Rust",
+      "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 22
+    },
+    {
+      "title": "Where did <random> go wrong?",
+      "href": "https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Practical /dev/tcp in the HTTPS Era",
       "href": "https://blog.pkgforge.dev/https-via-http",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Is the transition to IPv6 inevitable?",
       "href": "https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/",
       "points": "",
-      "comments": "\n              48 comments",
-      "index": 23
-    },
-    {
-      "title": "How to build a high-performance network fuzzer with LibAFL and libdesock",
-      "href": "https://lolcads.github.io/posts/2025/05/high_performance_network_fuzzing/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Can a chrome extension host a terminal emulator?",
-      "href": "https://blog.pomdtr.me/posts/integrated-terminal/",
-      "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              49 comments",
       "index": 25
     }
   ]
