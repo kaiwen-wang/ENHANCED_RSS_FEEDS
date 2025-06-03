@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, June 3, 2025 at 1:30 PM GMT-5",
+  "date": "Tuesday, June 3, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
-      "title": "[ On | No ] syntactic support for error handling - The Go Programming Language",
+      "title": "[ On | No ] syntactic support for error handling",
       "href": "https://go.dev/blog/error-syntax",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              10 comments",
       "index": 1
+    },
+    {
+      "title": "Don't McBlock me",
+      "href": "https://www.schneems.com/2025/06/03/dont-mcblock-me/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 2
     },
     {
       "title": "Gleam v1.11.0 released",
       "href": "https://gleam.run/news/gleam-javascript-gets-30-percent-faster/",
       "points": "",
       "comments": "\n              33 comments",
-      "index": 2
-    },
-    {
-      "title": "Vibe coding case study: ScubaDuck",
-      "href": "https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
+      "title": "Vibe coding case study: ScubaDuck",
+      "href": "https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 5
+    },
+    {
       "title": "Google Logo Ligature Bug",
       "href": "https://www.jefftk.com/p/google-logo-ligature-bug",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 5
-    },
-    {
-      "title": "Don't McBlock me",
-      "href": "https://www.schneems.com/2025/06/03/dont-mcblock-me/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "Beachpatrol: CLI to automate your everyday web browser",
-      "href": "https://github.com/sebastiancarlos/beachpatrol",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 8
-    },
-    {
       "title": "Interfacing MCP with Combinatorial, Convex, and SMT Solvers",
       "href": "https://www.stephendiehl.com/posts/smt_and_mcp_solvers/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
+      "title": "Beachpatrol: CLI to automate your everyday web browser",
+      "href": "https://github.com/sebastiancarlos/beachpatrol",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 9
     },
     {
@@ -82,98 +82,98 @@
       "title": "Page Magic: A Chrome extension that uses AI to customize the appearance of any web page",
       "href": "https://github.com/khaledh/pagemagic",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 12
     },
     {
       "title": "Swift at Apple: migrating the Password Monitoring service from Java",
       "href": "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 13
-    },
-    {
-      "title": "Why GUIs are built at least 2.5 times",
-      "href": "https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "A tour of upcoming RFCs for the Hare programming language",
-      "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/",
-      "points": "",
-      "comments": "\n              32 comments",
-      "index": 15
-    },
-    {
-      "title": "Tests should not contain logic",
-      "href": "https://blog.snork.dev/posts/tests-should-not-contain-logic.html",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 16
-    },
-    {
-      "title": "Building Industrial Strength Software without Unit Tests",
-      "href": "https://chrispenner.ca/posts/transcript-tests",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)",
-      "href": "https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 18
-    },
-    {
-      "title": "Our Grafana and Loki installs have quietly become 'legacy software' here",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere",
-      "points": "",
-      "comments": "\n              37 comments",
-      "index": 19
     },
     {
       "title": "What Happens If We Inline Everything?",
       "href": "https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Why GUIs are built at least 2.5 times",
+      "href": "https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "A tour of upcoming RFCs for the Hare programming language",
+      "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/",
+      "points": "",
+      "comments": "\n              33 comments",
+      "index": 16
+    },
+    {
+      "title": "Tests should not contain logic",
+      "href": "https://blog.snork.dev/posts/tests-should-not-contain-logic.html",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 17
+    },
+    {
+      "title": "Web Developer's Guide to Midjourney",
+      "href": "https://www.skeptrune.com/posts/how-to-use-midjourney/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Building Industrial Strength Software without Unit Tests",
+      "href": "https://chrispenner.ca/posts/transcript-tests",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)",
+      "href": "https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 20
+    },
+    {
+      "title": "Artificial Power: 2025 Landscape Report",
+      "href": "https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
     },
     {
       "title": "tpde: A fast framework for writing baseline compiler back-ends in C++",
       "href": "https://github.com/tpde2/tpde",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 21
-    },
-    {
-      "title": "My AI Skeptic Friends Are All Nuts",
-      "href": "https://fly.io/blog/youre-all-nuts/",
-      "points": "",
-      "comments": "\n              95 comments",
       "index": 22
     },
     {
-      "title": "Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog",
-      "href": "https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs",
+      "title": "Our Grafana and Loki installs have quietly become 'legacy software' here",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              37 comments",
       "index": 23
     },
     {
       "title": "Example of Splitting a PR",
       "href": "https://www.jefftk.com/p/example-of-splitting-a-pr",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 24
     },
     {
-      "title": "public/protected/private is an unnecessary feature",
-      "href": "https://catern.com/private.html",
+      "title": "My AI Skeptic Friends Are All Nuts",
+      "href": "https://fly.io/blog/youre-all-nuts/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              98 comments",
       "index": 25
     }
   ]
