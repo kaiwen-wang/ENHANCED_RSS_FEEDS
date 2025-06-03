@@ -1,11 +1,11 @@
 {
-  "date": "Monday, June 2, 2025 at 10:15 PM GMT-5",
+  "date": "Monday, June 2, 2025 at 11:25 PM GMT-5",
   "articles": [
     {
       "title": "Gleam v1.11.0 released",
       "href": "https://gleam.run/news/gleam-javascript-gets-30-percent-faster/",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              17 comments",
       "index": 1
     },
     {
@@ -19,21 +19,21 @@
       "title": "A tour of upcoming RFCs for the Hare programming language",
       "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              22 comments",
       "index": 3
-    },
-    {
-      "title": "Our Grafana and Loki installs have quietly become 'legacy software' here",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere",
-      "points": "",
-      "comments": "\n              24 comments",
-      "index": 4
     },
     {
       "title": "Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog",
       "href": "https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 4
+    },
+    {
+      "title": "Our Grafana and Loki installs have quietly become 'legacy software' here",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere",
+      "points": "",
+      "comments": "\n              26 comments",
       "index": 5
     },
     {
@@ -44,52 +44,52 @@
       "index": 6
     },
     {
+      "title": "GenAI is Our Polyester",
+      "href": "https://culture.ghost.io/genai-is-our-polyester/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 7
+    },
+    {
       "title": "My AI Skeptic Friends Are All Nuts",
       "href": "https://fly.io/blog/youre-all-nuts/",
       "points": "",
-      "comments": "\n              27 comments",
-      "index": 7
+      "comments": "\n              32 comments",
+      "index": 8
     },
     {
       "title": "Is the transition to IPv6 inevitable?",
       "href": "https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/",
       "points": "",
-      "comments": "\n              34 comments",
-      "index": 8
+      "comments": "\n              36 comments",
+      "index": 9
     },
     {
       "title": "Practical /dev/tcp in the HTTPS Era",
       "href": "https://blog.pkgforge.dev/https-via-http",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Tests should not contain logic",
       "href": "https://blog.snork.dev/posts/tests-should-not-contain-logic.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Faster route propagation by rewriting our Traefik gateway in Rust",
       "href": "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "public/protected/private is an unnecessary feature",
       "href": "https://catern.com/private.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 12
-    },
-    {
-      "title": "GenAI is Our Polyester",
-      "href": "https://culture.ghost.io/genai-is-our-polyester/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 13
     },
     {
@@ -107,17 +107,17 @@
       "index": 15
     },
     {
+      "title": "Swift at Apple: migrating the Password Monitoring service from Java",
+      "href": "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
       "title": "WhisperD: linux voice-to-text using OpenAI whisper-1 transcription",
       "href": "https://github.com/icholy/whisperd/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 16
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/usvbn9/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              33 comments",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "What's higher-order about so-called higher-order references?",
+      "href": "https://www.williamjbowman.com/blog/2025/06/02/what-s-higher-order-about-so-called-higher-order-references/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/usvbn9/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              36 comments",
+      "index": 20
+    },
+    {
       "title": "The DuckLake Manifesto: SQL as a Lakehouse Format",
       "href": "https://ducklake.select/manifesto/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "How to deal with Rust dependencies",
       "href": "https://notgull.net/rust-dependencies/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 20
-    },
-    {
-      "title": "Swift at Apple: migrating the Password Monitoring service from Java",
-      "href": "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "AI didn’t kill Stack Overflow",
       "href": "https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 22
+      "comments": "\n              8 comments",
+      "index": 23
+    },
+    {
+      "title": "Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems",
+      "href": "https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "DPS8M Performance",
       "href": "https://dps8m.gitlab.io/blog/posts/20250602_Performance/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "In POSIX, you can theoretically use inode zero",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "My idea of how a modern mailing service should work (2011)",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/spam/ModernMailingServiceIdea",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 25
     }
   ]
