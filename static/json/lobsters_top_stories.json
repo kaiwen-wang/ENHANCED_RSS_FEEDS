@@ -1,53 +1,53 @@
 {
-  "date": "Wednesday, June 4, 2025 at 12:20 PM GMT-5",
+  "date": "Wednesday, June 4, 2025 at 1:25 PM GMT-5",
   "articles": [
     {
       "title": "jujutsu on tangled",
       "href": "https://blog.tangled.sh/stacking",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              29 comments",
       "index": 1
     },
     {
       "title": "What's your go-to message queue in 2025?",
       "href": "/s/uwp2hd/what_s_your_go_message_queue_2025",
       "points": "",
-      "comments": "\n              30 comments",
+      "comments": "\n              33 comments",
       "index": 2
+    },
+    {
+      "title": "jujutsu v0.30.0 released",
+      "href": "https://github.com/jj-vcs/jj/releases/tag/v0.30.0",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 3
     },
     {
       "title": "AI Changes Everything",
       "href": "https://lucumr.pocoo.org/2025/6/4/changes/",
       "points": "",
-      "comments": "\n              46 comments",
-      "index": 3
-    },
-    {
-      "title": "[ On | No ] syntactic support for error handling",
-      "href": "https://go.dev/blog/error-syntax",
-      "points": "",
-      "comments": "\n              48 comments",
+      "comments": "\n              59 comments",
       "index": 4
     },
     {
       "title": "Physicality: the new age of UI",
       "href": "https://www.lux.camera/physicality-the-new-age-of-ui/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              13 comments",
       "index": 5
     },
     {
       "title": "Days since last Rust Minecraft server",
       "href": "https://dayssincelastrustmcserver.com/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 6
     },
     {
-      "title": "jujutsu v0.30.0 released",
-      "href": "https://github.com/jj-vcs/jj/releases/tag/v0.30.0",
+      "title": "[ On | No ] syntactic support for error handling",
+      "href": "https://go.dev/blog/error-syntax",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              51 comments",
       "index": 7
     },
     {
@@ -65,66 +65,66 @@
       "index": 9
     },
     {
-      "title": "DiffX - Next-Generation Extensible Diff Format",
-      "href": "https://diffx.org/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 10
-    },
-    {
       "title": "DejaGNU (2011)",
       "href": "https://www.airs.com/blog/archives/499/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 11
+      "index": 10
     },
     {
-      "title": "Where did <random> go wrong?",
-      "href": "https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf",
+      "title": "DiffX - Next-Generation Extensible Diff Format",
+      "href": "https://diffx.org/",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 12
+      "comments": "\n              7 comments",
+      "index": 11
     },
     {
       "title": "yet another LLM",
       "href": "https://www.yetanotherllm.com/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 12
+    },
+    {
+      "title": "When memory was measured in kilobytes: The art of efficient vision",
+      "href": "https://www.softwareheritage.org/2025/06/04/history_computer_vision/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 13
+    },
+    {
+      "title": "Where did <random> go wrong?",
+      "href": "https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 14
     },
     {
       "title": "Interfacing MCP with Combinatorial, Convex, and SMT Solvers",
       "href": "https://www.stephendiehl.com/posts/smt_and_mcp_solvers/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Mapping latitude and longitude to country, state, or city",
       "href": "https://austinhenley.com/blog/coord2state.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 15
+      "index": 16
+    },
+    {
+      "title": "No More Shading Languages: Compiling C++ to Vulkan Shaders",
+      "href": "https://xol.io/random/vcc-paper.pdf",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "Goblinville: A Spring Lisp Game Jam 2025 retrospective",
       "href": "https://spritely.institute/news/goblinville-a-spring-lisp-game-jam-2025-retrospective.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Vibe coding case study: ScubaDuck",
-      "href": "https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 17
-    },
-    {
-      "title": "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
-      "href": "https://www.inferara.com/en/blog/rust-tagless-final-gadt/",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
-      "title": "How Reladiff Works - A Journey Through the Challenges and Techniques of Data Engineering with SQL",
-      "href": "https://eshsoft.com/blog/how-reladiff-works",
+      "title": "Streams as web resources with access controls",
+      "href": "https://s2.dev/blog/access-control",
       "points": "",
       "comments": "\n              no comments",
       "index": 20
     },
     {
-      "title": "How Compiler Explorer Works in 2025",
-      "href": "https://xania.org/202506/how-compiler-explorer-works",
+      "title": "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
+      "href": "https://www.inferara.com/en/blog/rust-tagless-final-gadt/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              7 comments",
       "index": 21
     },
     {
-      "title": "No More Shading Languages: Compiling C++ to Vulkan Shaders",
-      "href": "https://xol.io/random/vcc-paper.pdf",
+      "title": "Vibe coding case study: ScubaDuck",
+      "href": "https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              10 comments",
       "index": 22
     },
     {
       "title": "Deep learning gets the glory, deep fact checking gets ignored",
       "href": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 23
     },
     {
-      "title": "What Happens If We Inline Everything?",
-      "href": "https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html",
+      "title": "How Compiler Explorer Works in 2025",
+      "href": "https://xania.org/202506/how-compiler-explorer-works",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Building Industrial Strength Software without Unit Tests",
-      "href": "https://chrispenner.ca/posts/transcript-tests",
+      "title": "How Reladiff Works - A Journey Through the Challenges and Techniques of Data Engineering with SQL",
+      "href": "https://eshsoft.com/blog/how-reladiff-works",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
