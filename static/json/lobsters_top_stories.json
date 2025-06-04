@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, June 3, 2025 at 11:25 PM GMT-5",
+  "date": "Wednesday, June 4, 2025 at 12:20 AM GMT-5",
   "articles": [
     {
       "title": "jujutsu on tangled",
@@ -26,7 +26,7 @@
       "title": "Where did <random> go wrong?",
       "href": "https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 4
     },
     {
@@ -44,38 +44,38 @@
       "index": 6
     },
     {
-      "title": "Mapping latitude and longitude to country, state, or city",
-      "href": "https://austinhenley.com/blog/coord2state.html",
+      "title": "DiffX - Next-Generation Extensible Diff Format",
+      "href": "https://diffx.org/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 7
-    },
-    {
-      "title": "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
-      "href": "https://www.inferara.com/en/blog/rust-tagless-final-gadt/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 8
     },
     {
       "title": "Building Industrial Strength Software without Unit Tests",
       "href": "https://chrispenner.ca/posts/transcript-tests",
       "points": "",
       "comments": "\n              8 comments",
+      "index": 8
+    },
+    {
+      "title": "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
+      "href": "https://www.inferara.com/en/blog/rust-tagless-final-gadt/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 9
+    },
+    {
+      "title": "Mapping latitude and longitude to country, state, or city",
+      "href": "https://austinhenley.com/blog/coord2state.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
     },
     {
       "title": "Gleam v1.11.0 released",
       "href": "https://gleam.run/news/gleam-javascript-gets-30-percent-faster/",
       "points": "",
       "comments": "\n              33 comments",
-      "index": 10
-    },
-    {
-      "title": "DiffX - Next-Generation Extensible Diff Format",
-      "href": "https://diffx.org/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 11
     },
     {
@@ -100,31 +100,31 @@
       "index": 14
     },
     {
+      "title": "Deep learning gets the glory, deep fact checking gets ignored",
+      "href": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
       "title": "Claude Code is My Computer",
       "href": "https://steipete.me/posts/2025/claude-code-is-my-computer",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "GenAI is Our Polyester",
       "href": "https://culture.ghost.io/genai-is-our-polyester/",
       "points": "",
       "comments": "\n              28 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Beachpatrol: CLI to automate your everyday web browser",
       "href": "https://github.com/sebastiancarlos/beachpatrol",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
-    },
-    {
-      "title": "Deep learning gets the glory, deep fact checking gets ignored",
-      "href": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
-      "title": "Web Developer's Guide to Midjourney",
-      "href": "https://www.skeptrune.com/posts/how-to-use-midjourney/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 20
-    },
-    {
       "title": "Handling bidirectional control flow",
       "href": "https://dl.acm.org/doi/10.1145/3428207",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 20
     },
     {
       "title": "Things are different between system and application monitoring",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SystemVsApplicationMonitoring",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 21
     },
     {
       "title": "swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI",
       "href": "https://github.com/stackotter/swift-cross-ui",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 22
     },
     {
       "title": "Why GUIs are built at least 2.5 times",
       "href": "https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
+      "index": 23
     },
     {
       "title": "Red Language Reference Manual",
       "href": "https://www.iment.com/maida/computer/redref/index.htm",
       "points": "",
       "comments": "\n              no comments",
+      "index": 24
+    },
+    {
+      "title": "Swift at Apple: migrating the Password Monitoring service from Java",
+      "href": "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 25
     }
   ]
