@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, June 4, 2025 at 2:20 AM GMT-5",
+  "date": "Wednesday, June 4, 2025 at 3:25 AM GMT-5",
   "articles": [
     {
       "title": "jujutsu on tangled",
@@ -12,42 +12,42 @@
       "title": "[ On | No ] syntactic support for error handling",
       "href": "https://go.dev/blog/error-syntax",
       "points": "",
-      "comments": "\n              38 comments",
+      "comments": "\n              39 comments",
       "index": 2
     },
     {
       "title": "Don't McBlock me",
       "href": "https://www.schneems.com/2025/06/03/dont-mcblock-me/",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
       "index": 3
-    },
-    {
-      "title": "Where did <random> go wrong?",
-      "href": "https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 4
     },
     {
       "title": "Interfacing MCP with Combinatorial, Convex, and SMT Solvers",
       "href": "https://www.stephendiehl.com/posts/smt_and_mcp_solvers/",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 4
+    },
+    {
+      "title": "Where did <random> go wrong?",
+      "href": "https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 5
+    },
+    {
+      "title": "DiffX - Next-Generation Extensible Diff Format",
+      "href": "https://diffx.org/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 6
     },
     {
       "title": "Vibe coding case study: ScubaDuck",
       "href": "https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 6
-    },
-    {
-      "title": "DiffX - Next-Generation Extensible Diff Format",
-      "href": "https://diffx.org/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 7
     },
     {
@@ -65,38 +65,38 @@
       "index": 9
     },
     {
-      "title": "Building Industrial Strength Software without Unit Tests",
-      "href": "https://chrispenner.ca/posts/transcript-tests",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 10
-    },
-    {
       "title": "What Happens If We Inline Everything?",
       "href": "https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
+      "title": "Building Industrial Strength Software without Unit Tests",
+      "href": "https://chrispenner.ca/posts/transcript-tests",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 11
-    },
-    {
-      "title": "How Compiler Explorer Works in 2025",
-      "href": "https://xania.org/202506/how-compiler-explorer-works",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "Gleam v1.11.0 released",
-      "href": "https://gleam.run/news/gleam-javascript-gets-30-percent-faster/",
-      "points": "",
-      "comments": "\n              34 comments",
-      "index": 13
     },
     {
       "title": "Physicality: the new age of UI",
       "href": "https://www.lux.camera/physicality-the-new-age-of-ui/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "How Compiler Explorer Works in 2025",
+      "href": "https://xania.org/202506/how-compiler-explorer-works",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "Gleam v1.11.0 released",
+      "href": "https://gleam.run/news/gleam-javascript-gets-30-percent-faster/",
+      "points": "",
+      "comments": "\n              34 comments",
       "index": 14
     },
     {
@@ -124,14 +124,14 @@
       "title": "GenAI is Our Polyester",
       "href": "https://culture.ghost.io/genai-is-our-polyester/",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              29 comments",
       "index": 18
     },
     {
       "title": "Claude Code is My Computer",
       "href": "https://steipete.me/posts/2025/claude-code-is-my-computer",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 19
     },
     {
@@ -142,24 +142,24 @@
       "index": 20
     },
     {
+      "title": "Coding Through Chaos: Addiction, Recovery and Acceptance",
+      "href": "https://corecursive.com/coding-through-chaos-with-john-walker/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
       "title": "Handling bidirectional control flow",
       "href": "https://dl.acm.org/doi/10.1145/3428207",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Why GUIs are built at least 2.5 times",
       "href": "https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Things are different between system and application monitoring",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SystemVsApplicationMonitoring",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 23
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Red Language Reference Manual",
-      "href": "https://www.iment.com/maida/computer/redref/index.htm",
+      "title": "Things are different between system and application monitoring",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SystemVsApplicationMonitoring",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
