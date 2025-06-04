@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, June 4, 2025 at 12:20 AM GMT-5",
+  "date": "Wednesday, June 4, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "jujutsu on tangled",
       "href": "https://blog.tangled.sh/stacking",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              19 comments",
       "index": 1
     },
     {
       "title": "[ On | No ] syntactic support for error handling",
       "href": "https://go.dev/blog/error-syntax",
       "points": "",
-      "comments": "\n              35 comments",
+      "comments": "\n              38 comments",
       "index": 2
     },
     {
@@ -40,7 +40,7 @@
       "title": "Vibe coding case study: ScubaDuck",
       "href": "https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 6
     },
     {
@@ -51,10 +51,10 @@
       "index": 7
     },
     {
-      "title": "Building Industrial Strength Software without Unit Tests",
-      "href": "https://chrispenner.ca/posts/transcript-tests",
+      "title": "Mapping latitude and longitude to country, state, or city",
+      "href": "https://austinhenley.com/blog/coord2state.html",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              1 comment",
       "index": 8
     },
     {
@@ -65,31 +65,31 @@
       "index": 9
     },
     {
-      "title": "Mapping latitude and longitude to country, state, or city",
-      "href": "https://austinhenley.com/blog/coord2state.html",
+      "title": "Building Industrial Strength Software without Unit Tests",
+      "href": "https://chrispenner.ca/posts/transcript-tests",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              10 comments",
       "index": 10
-    },
-    {
-      "title": "Gleam v1.11.0 released",
-      "href": "https://gleam.run/news/gleam-javascript-gets-30-percent-faster/",
-      "points": "",
-      "comments": "\n              33 comments",
-      "index": 11
-    },
-    {
-      "title": "What Happens If We Inline Everything?",
-      "href": "https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
     },
     {
       "title": "How Compiler Explorer Works in 2025",
       "href": "https://xania.org/202506/how-compiler-explorer-works",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "Gleam v1.11.0 released",
+      "href": "https://gleam.run/news/gleam-javascript-gets-30-percent-faster/",
+      "points": "",
+      "comments": "\n              33 comments",
+      "index": 12
+    },
+    {
+      "title": "What Happens If We Inline Everything?",
+      "href": "https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 13
     },
     {
@@ -100,38 +100,38 @@
       "index": 14
     },
     {
+      "title": "Covert Web-to-App Tracking via Localhost on Android",
+      "href": "https://localmess.github.io/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
       "title": "Deep learning gets the glory, deep fact checking gets ignored",
       "href": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Claude Code is My Computer",
       "href": "https://steipete.me/posts/2025/claude-code-is-my-computer",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 16
+      "comments": "\n              5 comments",
+      "index": 17
     },
     {
       "title": "GenAI is Our Polyester",
       "href": "https://culture.ghost.io/genai-is-our-polyester/",
       "points": "",
       "comments": "\n              28 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Beachpatrol: CLI to automate your everyday web browser",
       "href": "https://github.com/sebastiancarlos/beachpatrol",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 18
-    },
-    {
-      "title": "Covert Web-to-App Tracking via Localhost on Android",
-      "href": "https://localmess.github.io/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 19
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "Why GUIs are built at least 2.5 times",
+      "href": "https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Physicality: the new age of UI",
+      "href": "https://www.lux.camera/physicality-the-new-age-of-ui/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "Things are different between system and application monitoring",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SystemVsApplicationMonitoring",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 23
     },
     {
       "title": "swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI",
       "href": "https://github.com/stackotter/swift-cross-ui",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Why GUIs are built at least 2.5 times",
-      "href": "https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Red Language Reference Manual",
       "href": "https://www.iment.com/maida/computer/redref/index.htm",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Swift at Apple: migrating the Password Monitoring service from Java",
-      "href": "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 25
     }
   ]
