@@ -1,32 +1,32 @@
 {
-  "date": "Tuesday, June 3, 2025 at 6:20 PM GMT-5",
+  "date": "Tuesday, June 3, 2025 at 8:40 PM GMT-5",
   "articles": [
     {
       "title": "jujutsu on tangled",
       "href": "https://blog.tangled.sh/stacking",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              13 comments",
       "index": 1
     },
     {
       "title": "[ On | No ] syntactic support for error handling",
       "href": "https://go.dev/blog/error-syntax",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              34 comments",
       "index": 2
     },
     {
       "title": "Don't McBlock me",
       "href": "https://www.schneems.com/2025/06/03/dont-mcblock-me/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              14 comments",
       "index": 3
     },
     {
       "title": "Where did <random> go wrong?",
       "href": "https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 4
     },
     {
@@ -40,140 +40,140 @@
       "title": "Interfacing MCP with Combinatorial, Convex, and SMT Solvers",
       "href": "https://www.stephendiehl.com/posts/smt_and_mcp_solvers/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 6
+    },
+    {
+      "title": "Building Industrial Strength Software without Unit Tests",
+      "href": "https://chrispenner.ca/posts/transcript-tests",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 7
     },
     {
       "title": "Gleam v1.11.0 released",
       "href": "https://gleam.run/news/gleam-javascript-gets-30-percent-faster/",
       "points": "",
       "comments": "\n              33 comments",
-      "index": 7
+      "index": 8
     },
     {
-      "title": "Building Industrial Strength Software without Unit Tests",
-      "href": "https://chrispenner.ca/posts/transcript-tests",
+      "title": "Mapping latitude and longitude to country, state, or city",
+      "href": "https://austinhenley.com/blog/coord2state.html",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 8
+      "comments": "\n              1 comment",
+      "index": 9
     },
     {
       "title": "Google Logo Ligature Bug",
       "href": "https://www.jefftk.com/p/google-logo-ligature-bug",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 9
+      "index": 10
+    },
+    {
+      "title": "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
+      "href": "https://www.inferara.com/en/blog/rust-tagless-final-gadt/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 11
     },
     {
       "title": "GenAI is Our Polyester",
       "href": "https://culture.ghost.io/genai-is-our-polyester/",
       "points": "",
-      "comments": "\n              27 comments",
-      "index": 10
+      "comments": "\n              28 comments",
+      "index": 12
     },
     {
       "title": "Beachpatrol: CLI to automate your everyday web browser",
       "href": "https://github.com/sebastiancarlos/beachpatrol",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 11
-    },
-    {
-      "title": "Covert Web-to-App Tracking via Localhost on Android",
-      "href": "https://localmess.github.io/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
+      "index": 13
     },
     {
       "title": "What Happens If We Inline Everything?",
       "href": "https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Web Developer's Guide to Midjourney",
-      "href": "https://www.skeptrune.com/posts/how-to-use-midjourney/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 14
     },
     {
-      "title": "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
-      "href": "https://www.inferara.com/en/blog/rust-tagless-final-gadt/",
+      "title": "Covert Web-to-App Tracking via Localhost on Android",
+      "href": "https://localmess.github.io/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 15
-    },
-    {
-      "title": "swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI",
-      "href": "https://github.com/stackotter/swift-cross-ui",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
     },
     {
       "title": "Claude Code is My Computer",
       "href": "https://steipete.me/posts/2025/claude-code-is-my-computer",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 16
+    },
+    {
+      "title": "Deep learning gets the glory, deep fact checking gets ignored",
+      "href": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 17
     },
     {
-      "title": "Swift at Apple: migrating the Password Monitoring service from Java",
-      "href": "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/",
+      "title": "Web Developer's Guide to Midjourney",
+      "href": "https://www.skeptrune.com/posts/how-to-use-midjourney/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              4 comments",
       "index": 18
+    },
+    {
+      "title": "Things are different between system and application monitoring",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SystemVsApplicationMonitoring",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI",
+      "href": "https://github.com/stackotter/swift-cross-ui",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "Why GUIs are built at least 2.5 times",
       "href": "https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
-      "title": "Page Magic: A Chrome extension that uses AI to customize the appearance of any web page",
-      "href": "https://github.com/khaledh/pagemagic",
+      "title": "Coding Through Chaos: Addiction, Recovery and Acceptance",
+      "href": "https://corecursive.com/coding-through-chaos-with-john-walker/",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 20
+      "comments": "\n              1 comment",
+      "index": 22
     },
     {
       "title": "From Prometheus to RRDtool graphs",
       "href": "https://phala.isatty.net/~amber/hacks/promgraph",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Mapping latitude and longitude to country, state, or city",
-      "href": "https://austinhenley.com/blog/coord2state.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Artificial Power: 2025 Landscape Report",
-      "href": "https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 23
     },
     {
-      "title": "garlic: Java decompiler written in C",
-      "href": "https://github.com/neocanable/garlic",
+      "title": "Swift at Apple: migrating the Password Monitoring service from Java",
+      "href": "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              5 comments",
       "index": 24
     },
     {
-      "title": "A tour of upcoming RFCs for the Hare programming language",
-      "href": "https://harelang.org/blog/2025-06-02-planned-breaking-changes/",
+      "title": "Handling bidirectional control flow",
+      "href": "https://dl.acm.org/doi/10.1145/3428207",
       "points": "",
-      "comments": "\n              36 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
