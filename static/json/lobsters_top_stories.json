@@ -1,5 +1,5 @@
 {
-  "date": "Friday, June 6, 2025 at 5:20 PM GMT-5",
+  "date": "Friday, June 6, 2025 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "Jepsen: TigerBeetle 0.16.11",
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
-      "title": "Sharing everything I could understand about gradient noise",
-      "href": "https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 7
-    },
-    {
       "title": "The next phase of jank's C++ interop",
       "href": "https://jank-lang.org/blog/2025-06-06-next-phase-of-interop/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 7
+    },
+    {
+      "title": "Sharing everything I could understand about gradient noise",
+      "href": "https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 8
     },
     {
@@ -72,52 +72,52 @@
       "index": 10
     },
     {
-      "title": "Introducing facet: Reflection for Rust",
-      "href": "https://youtu.be/0mqFCqw_XvI",
+      "title": "Hacking is Necessary",
+      "href": "https://scharenbroch.dev/blog/hacking-is-necessary/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              no comments",
       "index": 11
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/bgytib/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 12
+    },
+    {
+      "title": "Introducing facet: Reflection for Rust",
+      "href": "https://youtu.be/0mqFCqw_XvI",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 13
     },
     {
       "title": "AI is a gamechanger for TLA+ users",
       "href": "https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/",
       "points": "",
-      "comments": "\n              15 comments",
-      "index": 13
+      "comments": "\n              16 comments",
+      "index": 14
     },
     {
       "title": "Conventional Commit message generator using local LLMs",
       "href": "https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Analyzing Metastable Failures in Distributed Systems",
       "href": "http://muratbuffalo.blogspot.com/2025/06/analyzing-metastable-failures-in.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
+      "index": 16
     },
     {
       "title": "I Let ChatGPT Make All My Architectural Decisions for a Month: The Surprising Results",
       "href": "https://medium.com/@sohail_saifi/i-let-chatgpt-make-all-my-architectural-decisions-for-a-month-the-surprising-results-e21f1254c74c",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 16
-    },
-    {
-      "title": "Hacking is Necessary",
-      "href": "https://scharenbroch.dev/blog/hacking-is-necessary/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -128,50 +128,50 @@
       "index": 18
     },
     {
+      "title": "CLIPS: An Elevator Pitch",
+      "href": "https://ryjo.codes/articles/clips-elevator-pitch.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
       "title": "APL Interpreter in Haskell (2024)",
       "href": "https://scharenbroch.dev/projects/apl-interpreter/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 20
     },
     {
       "title": "In which I have Opinions about parsing and grammars",
       "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/",
       "points": "",
       "comments": "\n              28 comments",
-      "index": 20
-    },
-    {
-      "title": "I Learned Rust In 24 Hours To Eat Free Pizza Morally",
-      "href": "https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 21
-    },
-    {
-      "title": "CLIPS: An Elevator Pitch",
-      "href": "https://ryjo.codes/articles/clips-elevator-pitch.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Recovering control flow structures without CFGs",
-      "href": "https://purplesyringa.moe/blog/recovering-control-flow-structures-without-cfgs/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
     },
     {
       "title": "Smalltalk, Haskell and Lisp (2011)",
       "href": "https://storytotell.org/smalltalk-haskell-and-lisp",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "I Learned Rust In 24 Hours To Eat Free Pizza Morally",
+      "href": "https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 23
+    },
+    {
+      "title": "An Earnest Guide to Symbols in Common Lisp",
+      "href": "https://kevingal.com/blog/cl-symbols.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Supercharging GCP Navigation with Alfred",
-      "href": "https://dineshgowda.com/posts/supercharging-gcp-navigation-with-alfred/",
+      "title": "Recovering control flow structures without CFGs",
+      "href": "https://purplesyringa.moe/blog/recovering-control-flow-structures-without-cfgs/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
