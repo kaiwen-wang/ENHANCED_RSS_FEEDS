@@ -1,5 +1,5 @@
 {
-  "date": "Friday, June 6, 2025 at 2:15 PM GMT-5",
+  "date": "Friday, June 6, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Jepsen: TigerBeetle 0.16.11",
@@ -12,21 +12,21 @@
       "title": "Small Programs and Languages",
       "href": "https://ratfactor.com/cards/pl-small",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 2
-    },
-    {
-      "title": "Just fucking code",
-      "href": "https://www.justfuckingcode.com/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 3
     },
     {
       "title": "Curate your shell history",
       "href": "https://esham.io/2025/05/shell-history",
       "points": "",
       "comments": "\n              7 comments",
+      "index": 3
+    },
+    {
+      "title": "Just fucking code",
+      "href": "https://www.justfuckingcode.com/",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 4
     },
     {
@@ -40,42 +40,42 @@
       "title": "magic namerefs",
       "href": "https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              9 comments",
       "index": 6
-    },
-    {
-      "title": "Fuzzer Blind Spots (Meet Jepsen!)",
-      "href": "https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 7
     },
     {
       "title": "Sharing everything I could understand about gradient noise",
       "href": "https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "Fuzzer Blind Spots (Meet Jepsen!)",
+      "href": "https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 8
     },
     {
       "title": "I Think I’m Done Thinking About genAI For Now",
       "href": "https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html",
       "points": "",
-      "comments": "\n              61 comments",
+      "comments": "\n              63 comments",
       "index": 9
+    },
+    {
+      "title": "The next phase of jank's C++ interop",
+      "href": "https://jank-lang.org/blog/2025-06-06-next-phase-of-interop/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
     },
     {
       "title": "Conventional Commit message generator using local LLMs",
       "href": "https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 10
-    },
-    {
-      "title": "AI is a gamechanger for TLA+ users",
-      "href": "https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/",
-      "points": "",
-      "comments": "\n              15 comments",
       "index": 11
     },
     {
@@ -86,10 +86,10 @@
       "index": 12
     },
     {
-      "title": "Analyzing Metastable Failures in Distributed Systems",
-      "href": "http://muratbuffalo.blogspot.com/2025/06/analyzing-metastable-failures-in.html",
+      "title": "AI is a gamechanger for TLA+ users",
+      "href": "https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              15 comments",
       "index": 13
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "In which I have Opinions about parsing and grammars",
-      "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/",
+      "title": "Analyzing Metastable Failures in Distributed Systems",
+      "href": "http://muratbuffalo.blogspot.com/2025/06/analyzing-metastable-failures-in.html",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              1 comment",
       "index": 15
     },
     {
@@ -114,38 +114,38 @@
       "index": 16
     },
     {
-      "title": "The next phase of jank's C++ interop",
-      "href": "https://jank-lang.org/blog/2025-06-06-next-phase-of-interop/",
+      "title": "In which I have Opinions about parsing and grammars",
+      "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              28 comments",
       "index": 17
-    },
-    {
-      "title": "I Learned Rust In 24 Hours To Eat Free Pizza Morally",
-      "href": "https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 18
-    },
-    {
-      "title": "Supercharging GCP Navigation with Alfred",
-      "href": "https://dineshgowda.com/posts/supercharging-gcp-navigation-with-alfred/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
     },
     {
       "title": "Binary Lambda Calculus",
       "href": "https://gist.github.com/tromp/86b3184f852f65bfb814e3ab0987d861",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Recovering control flow structures without CFGs",
+      "href": "https://purplesyringa.moe/blog/recovering-control-flow-structures-without-cfgs/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "I Learned Rust In 24 Hours To Eat Free Pizza Morally",
+      "href": "https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 20
     },
     {
-      "title": "Announcing the Bonfire Social 1.0 Release Candidate",
-      "href": "https://bonfirenetworks.org//posts/bonfire_social_rc/",
+      "title": "Supercharging GCP Navigation with Alfred",
+      "href": "https://dineshgowda.com/posts/supercharging-gcp-navigation-with-alfred/",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              no comments",
       "index": 21
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
-      "title": "APL Interpreter in Haskell (2024)",
-      "href": "https://scharenbroch.dev/projects/apl-interpreter/",
+      "title": "CLIPS: An Elevator Pitch",
+      "href": "https://ryjo.codes/articles/clips-elevator-pitch.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "DNS4EU For Public is available",
-      "href": "https://www.joindns4.eu/for-public",
+      "title": "APL Interpreter in Haskell (2024)",
+      "href": "https://scharenbroch.dev/projects/apl-interpreter/",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Recovering control flow structures without CFGs",
-      "href": "https://purplesyringa.moe/blog/recovering-control-flow-structures-without-cfgs/",
+      "title": "Announcing the Bonfire Social 1.0 Release Candidate",
+      "href": "https://bonfirenetworks.org//posts/bonfire_social_rc/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              24 comments",
       "index": 25
     }
   ]
