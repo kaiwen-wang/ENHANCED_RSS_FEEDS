@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, June 8, 2025 at 4:20 AM GMT-5",
+  "date": "Sunday, June 8, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
-      "title": "<Blink> and <Marquee> (2020)",
-      "href": "https://danq.me/2020/11/11/blink-and-marquee/",
-      "points": "96 points",
-      "comments": "63 comments",
+      "title": "A look at Cloudflare's AI-coded OAuth library",
+      "href": "https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/",
+      "points": "27 points",
+      "comments": "3 comments",
       "index": 1
-    },
-    {
-      "title": "Joining Apple Computer (2018)",
-      "href": "https://www.folklore.org/Joining_Apple_Computer.html",
-      "points": "271 points",
-      "comments": "61 comments",
-      "index": 2
-    },
-    {
-      "title": "YouTuber claims to have received an offer to buy the Commodore brand",
-      "href": "https://www.amiga-news.de/en/news/AN-2025-06-00029-EN.html",
-      "points": "23 points",
-      "comments": "8 comments",
-      "index": 3
     },
     {
       "title": "Reverse engineering Claude Code (April 2025)",
       "href": "https://kirshatrov.com/posts/claude-code-internals",
-      "points": "20 points",
-      "comments": "2 comments",
+      "points": "54 points",
+      "comments": "5 comments",
+      "index": 2
+    },
+    {
+      "title": "Why not use DNS over HTTPS (DoH)?",
+      "href": "https://www.bsdhowto.ch/doh.html",
+      "points": "16 points",
+      "comments": "6 comments",
+      "index": 3
+    },
+    {
+      "title": "Joining Apple Computer (2018)",
+      "href": "https://www.folklore.org/Joining_Apple_Computer.html",
+      "points": "283 points",
+      "comments": "62 comments",
       "index": 4
     },
     {
-      "title": "Convert photos to Atkinson dithering",
-      "href": "https://gazs.github.io/canvas-atkinson-dither/",
-      "points": "326 points",
-      "comments": "36 comments",
+      "title": "Gaussian Integration Is Cool",
+      "href": "https://rohangautam.github.io/blog/chebyshev_gauss/",
+      "points": "6 points",
+      "comments": "discuss",
       "index": 5
-    },
-    {
-      "title": "Bill Atkinson has died",
-      "href": "https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip",
-      "points": "1268 points",
-      "comments": "227 comments",
-      "index": 6
-    },
-    {
-      "title": "Self-Host and Tech Independence: The Joy of Building Your Own",
-      "href": "https://www.ssp.sh/blog/self-host-self-independence/",
-      "points": "240 points",
-      "comments": "103 comments",
-      "index": 7
     },
     {
       "title": "Fray: A Controlled Concurrency Testing Framework for the JVM",
       "href": "https://github.com/cmu-pasta/fray",
-      "points": "11 points",
+      "points": "21 points",
       "comments": "1 comment",
+      "index": 6
+    },
+    {
+      "title": "YouTuber claims to have received an offer to buy the Commodore brand",
+      "href": "https://www.amiga-news.de/en/news/AN-2025-06-00029-EN.html",
+      "points": "33 points",
+      "comments": "12 comments",
+      "index": 7
+    },
+    {
+      "title": "Convert photos to Atkinson dithering",
+      "href": "https://gazs.github.io/canvas-atkinson-dither/",
+      "points": "339 points",
+      "comments": "36 comments",
       "index": 8
+    },
+    {
+      "title": "Bill Atkinson has died",
+      "href": "https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip",
+      "points": "1291 points",
+      "comments": "229 comments",
+      "index": 9
+    },
+    {
+      "title": "Self-Host and Tech Independence: The Joy of Building Your Own",
+      "href": "https://www.ssp.sh/blog/self-host-self-independence/",
+      "points": "254 points",
+      "comments": "113 comments",
+      "index": 10
     },
     {
       "title": "My experiment living in a tent in Hong Kong's jungle",
       "href": "https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment",
-      "points": "311 points",
-      "comments": "109 comments",
-      "index": 9
+      "points": "326 points",
+      "comments": "120 comments",
+      "index": 11
     },
     {
-      "title": "Maintaining an Android app in Google Play Store is a lot of work",
-      "href": "https://ashishb.net/programming/maintaining-android-app/",
-      "points": "69 points",
-      "comments": "29 comments",
-      "index": 10
+      "title": "<Blink> and <Marquee> (2020)",
+      "href": "https://danq.me/2020/11/11/blink-and-marquee/",
+      "points": "106 points",
+      "comments": "78 comments",
+      "index": 12
+    },
+    {
+      "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
+      "href": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
+      "points": "10 points",
+      "comments": "1 comment",
+      "index": 13
     },
     {
       "title": "Coventry Very Light Rail",
       "href": "https://www.coventry.gov.uk/coventry-light-rail",
-      "points": "85 points",
-      "comments": "119 comments",
-      "index": 11
+      "points": "91 points",
+      "comments": "123 comments",
+      "index": 14
     },
     {
       "title": "BorgBackup 2 has no server-side append-only anymore",
       "href": "https://github.com/borgbackup/borg/pull/8798",
-      "points": "147 points",
-      "comments": "88 comments",
-      "index": 12
-    },
-    {
-      "title": "Installing Microsoft Windows 98 in DOSBox-X",
-      "href": "https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to",
-      "points": "33 points",
-      "comments": "5 comments",
-      "index": 13
-    },
-    {
-      "title": "FAA to eliminate floppy disks used in air traffic control systems",
-      "href": "https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems",
-      "points": "20 points",
-      "comments": "5 comments",
-      "index": 14
-    },
-    {
-      "title": "Louis Rossmann: We've started a foundation to bring back ownership [video]",
-      "href": "https://www.youtube.com/watch?v=WBG6Vw3nxZs",
-      "points": "130 points",
-      "comments": "28 comments",
+      "points": "149 points",
+      "comments": "90 comments",
       "index": 15
-    },
-    {
-      "title": "Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray",
-      "href": "https://aoli.al/blogs/jdk-bug/",
-      "points": "104 points",
-      "comments": "12 comments",
-      "index": 16
-    },
-    {
-      "title": "Why Understanding Software Cycle Time Is Messy, Not Magic",
-      "href": "https://arxiv.org/abs/2503.05040",
-      "points": "42 points",
-      "comments": "5 comments",
-      "index": 17
-    },
-    {
-      "title": "What was Radiant AI, anyway?",
-      "href": "https://blog.paavo.me/radiant-ai/",
-      "points": "170 points",
-      "comments": "102 comments",
-      "index": 18
-    },
-    {
-      "title": "Researchers develop ‘transparent paper’ as alternative to plastics",
-      "href": "https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/",
-      "points": "397 points",
-      "comments": "250 comments",
-      "index": 19
     },
     {
       "title": "Knowledge Management in the Age of AI",
       "href": "https://ericgardner.info/notes/knowledge-management-june-2025",
-      "points": "11 points",
-      "comments": "2 comments",
+      "points": "17 points",
+      "comments": "7 comments",
+      "index": 16
+    },
+    {
+      "title": "FAA to eliminate floppy disks used in air traffic control systems",
+      "href": "https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems",
+      "points": "28 points",
+      "comments": "13 comments",
+      "index": 17
+    },
+    {
+      "title": "Installing Microsoft Windows 98 in DOSBox-X",
+      "href": "https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_windows_editions_this_guide_applies_to",
+      "points": "36 points",
+      "comments": "8 comments",
+      "index": 18
+    },
+    {
+      "title": "Louis Rossmann: We've started a foundation to bring back ownership [video]",
+      "href": "https://www.youtube.com/watch?v=WBG6Vw3nxZs",
+      "points": "145 points",
+      "comments": "32 comments",
+      "index": 19
+    },
+    {
+      "title": "Why Understanding Software Cycle Time Is Messy, Not Magic",
+      "href": "https://arxiv.org/abs/2503.05040",
+      "points": "46 points",
+      "comments": "7 comments",
       "index": 20
+    },
+    {
+      "title": "Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray",
+      "href": "https://aoli.al/blogs/jdk-bug/",
+      "points": "109 points",
+      "comments": "13 comments",
+      "index": 21
+    },
+    {
+      "title": "Maintaining an Android app in Google Play Store is a lot of work",
+      "href": "https://ashishb.net/programming/maintaining-android-app/",
+      "points": "84 points",
+      "comments": "44 comments",
+      "index": 22
+    },
+    {
+      "title": "What was Radiant AI, anyway?",
+      "href": "https://blog.paavo.me/radiant-ai/",
+      "points": "176 points",
+      "comments": "104 comments",
+      "index": 23
+    },
+    {
+      "title": "Researchers develop ‘transparent paper’ as alternative to plastics",
+      "href": "https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/",
+      "points": "402 points",
+      "comments": "253 comments",
+      "index": 24
     },
     {
       "title": "Field Notes from Shipping Real Code with Claude",
       "href": "https://diwank.space/field-notes-from-shipping-real-code-with-claude",
-      "points": "98 points",
-      "comments": "35 comments",
-      "index": 21
+      "points": "104 points",
+      "comments": "38 comments",
+      "index": 25
     },
     {
       "title": "Why We're Moving on from Nix",
       "href": "https://blog.railway.com/p/introducing-railpack",
-      "points": "227 points",
-      "comments": "100 comments",
-      "index": 22
+      "points": "233 points",
+      "comments": "103 comments",
+      "index": 26
+    },
+    {
+      "title": "A tool for burning visible pictures on a compact disc surface (2022)",
+      "href": "https://github.com/arduinocelentano/cdimage",
+      "points": "164 points",
+      "comments": "50 comments",
+      "index": 27
     },
     {
       "title": "Low-Level Optimization with Zig",
       "href": "https://alloc.dev/2025/06/07/zig_optimization",
       "points": "264 points",
-      "comments": "144 comments",
-      "index": 23
-    },
-    {
-      "title": "Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)",
-      "href": "https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex",
-      "points": "352 points",
-      "comments": "224 comments",
-      "index": 24
-    },
-    {
-      "title": "A tool for burning visible pictures on a compact disc surface (2022)",
-      "href": "https://github.com/arduinocelentano/cdimage",
-      "points": "160 points",
-      "comments": "50 comments",
-      "index": 25
+      "comments": "146 comments",
+      "index": 28
     },
     {
       "title": "Getting Past Procrastination",
       "href": "https://spectrum.ieee.org/getting-past-procastination",
-      "points": "342 points",
-      "comments": "148 comments",
-      "index": 26
-    },
-    {
-      "title": "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
-      "href": "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/",
-      "points": "540 points",
-      "comments": "222 comments",
-      "index": 27
-    },
-    {
-      "title": "A year of funded FreeBSD development",
-      "href": "https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html",
-      "points": "357 points",
-      "comments": "119 comments",
-      "index": 28
-    },
-    {
-      "title": "I read all of Cloudflare's Claude-generated commits",
-      "href": "https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/",
-      "points": "254 points",
-      "comments": "231 comments",
+      "points": "348 points",
+      "comments": "149 comments",
       "index": 29
     },
     {
-      "title": "The FAIR Package Manager: Decentralized WordPress infrastructure",
-      "href": "https://joost.blog/path-forward-for-wordpress/",
-      "points": "197 points",
-      "comments": "44 comments",
+      "title": "Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)",
+      "href": "https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex",
+      "points": "367 points",
+      "comments": "229 comments",
       "index": 30
     }
   ]
