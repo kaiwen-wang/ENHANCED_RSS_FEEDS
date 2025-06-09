@@ -1,25 +1,25 @@
 {
-  "date": "Monday, June 9, 2025 at 3:20 PM GMT-5",
+  "date": "Monday, June 9, 2025 at 4:20 PM GMT-5",
   "articles": [
+    {
+      "title": "Is Rust faster than C?",
+      "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 1
+    },
     {
       "title": "Apple WWDC 2025",
       "href": "https://www.apple.com/apple-events/",
       "points": "",
-      "comments": "\n              17 comments",
-      "index": 1
+      "comments": "\n              20 comments",
+      "index": 2
     },
     {
       "title": "Zig's self-hosted x86 backend is now default in Debug mode",
       "href": "https://ziglang.org/devlog/2025/?unique/#2025-06-08",
       "points": "",
-      "comments": "\n              23 comments",
-      "index": 2
-    },
-    {
-      "title": "Is Rust faster than C?",
-      "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/",
-      "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              24 comments",
       "index": 3
     },
     {
@@ -54,54 +54,54 @@
       "title": "The high-level OS challenge",
       "href": "https://ochagavia.nl/blog/the-high-level-os-challenge/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 8
-    },
-    {
-      "title": "Your Phoenix application, directly on your Tailnet",
-      "href": "https://gist.github.com/Munksgaard/9102f0be2562f7ba1eca32b7e0da643e",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 9
     },
     {
       "title": "Why doesn’t Rust care more about compiler performance?",
       "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "Your Phoenix application, directly on your Tailnet",
+      "href": "https://gist.github.com/Munksgaard/9102f0be2562f7ba1eca32b7e0da643e",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 10
-    },
-    {
-      "title": "Ish: Grep-like text search with optimal alignment, built with Mojo",
-      "href": "https://github.com/BioRadOpenSource/ish",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "Bruteforcing the phone number of any Google user",
-      "href": "https://brutecat.com/articles/leaking-google-phones",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/nrxya6/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 13
     },
     {
       "title": "Qwen3 embedding models",
       "href": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 11
+    },
+    {
+      "title": "Ish: Grep-like text search with optimal alignment, built with Mojo",
+      "href": "https://github.com/BioRadOpenSource/ish",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Bruteforcing the phone number of any Google user",
+      "href": "https://brutecat.com/articles/leaking-google-phones",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "killing X11",
+      "href": "https://flak.tedunangst.com/post/killing-X11",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 14
     },
     {
-      "title": "Pijul - Elpe. Yaks big. Razors bigger",
-      "href": "https://pijul.org/posts/2025-06-08-elpe/",
+      "title": "What are you doing this week?",
+      "href": "/s/nrxya6/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              15 comments",
       "index": 15
@@ -114,50 +114,50 @@
       "index": 16
     },
     {
+      "title": "Munal OS: A graphical experimental OS with WASM sandboxing",
+      "href": "https://github.com/Askannz/munal-os",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Pijul - Elpe. Yaks big. Razors bigger",
+      "href": "https://pijul.org/posts/2025-06-08-elpe/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 18
+    },
+    {
       "title": "Sway 1.11 Released With New Wayland Protocols & More",
       "href": "https://www.phoronix.com/news/Sway-1.11-Released",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "How I program with Agents",
       "href": "https://crawshaw.io/blog/programming-with-agents",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "killing X11",
-      "href": "https://flak.tedunangst.com/post/killing-X11",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Radeon Software For Linux Dropping AMD's Proprietary OpenGL/Vulkan Drivers",
       "href": "https://www.phoronix.com/news/Radeon-Software-Drop-Prop-GL-VK",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown",
-      "href": "https://zoo.dev/blog/polyglot-makefile-markdown",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 21
     },
     {
-      "title": "Munal OS: A graphical experimental OS with WASM sandboxing",
-      "href": "https://github.com/Askannz/munal-os",
+      "title": "Cross-compiling Zig on an old Kindle",
+      "href": "https://samkhawase.com/blog/zig-kindle-gdb/",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
     },
     {
-      "title": "Cross-compiling Zig on an old Kindle",
-      "href": "https://samkhawase.com/blog/zig-kindle-gdb/",
+      "title": "Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown",
+      "href": "https://zoo.dev/blog/polyglot-makefile-markdown",
       "points": "",
       "comments": "\n              no comments",
       "index": 23
@@ -170,8 +170,8 @@
       "index": 24
     },
     {
-      "title": "Unlocking the Motorola G23 (and some words on Motorola)",
-      "href": "https://shomy.is-a.dev/blog/article/unlocking-the-motorola-g23",
+      "title": "Push Science",
+      "href": "https://paulrcohen.github.io/papers/pushScience.pdf",
       "points": "",
       "comments": "\n              1 comment",
       "index": 25
