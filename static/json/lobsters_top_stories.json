@@ -1,32 +1,32 @@
 {
-  "date": "Monday, June 9, 2025 at 7:40 AM GMT-5",
+  "date": "Monday, June 9, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "Zig's self-hosted x86 backend is now default in Debug mode",
       "href": "https://ziglang.org/devlog/2025/?unique/#2025-06-08",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 1
+    },
+    {
+      "title": "LLMs are cheap",
+      "href": "https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 2
     },
     {
       "title": "A Low-Impact Keybase Impersonation Issue on Lobsters",
       "href": "https://www.naff.dev/blog/lobsters-keybase-impersonation",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 2
+      "index": 3
     },
     {
       "title": "Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms",
       "href": "https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 3
-    },
-    {
-      "title": "LLMs are cheap",
-      "href": "https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 4
     },
     {
@@ -40,56 +40,56 @@
       "title": "Pijul - Elpe. Yaks big. Razors bigger",
       "href": "https://pijul.org/posts/2025-06-08-elpe/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              10 comments",
       "index": 6
+    },
+    {
+      "title": "How I program with Agents",
+      "href": "https://crawshaw.io/blog/programming-with-agents",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 7
     },
     {
       "title": "Ditching HAProxy (in my homelab)",
       "href": "https://arch.dog/bark/ditching-haproxy",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/nrxya6/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 8
+      "comments": "\n              3 comments",
+      "index": 9
     },
     {
       "title": "Unlocking the Motorola G23 (and some words on Motorola)",
       "href": "https://shomy.is-a.dev/blog/article/unlocking-the-motorola-g23",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 9
+      "index": 10
     },
     {
       "title": "The high-level OS challenge",
       "href": "https://ochagavia.nl/blog/the-high-level-os-challenge/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "What next after vibe coding",
       "href": "https://mastodon.social/@nixCraft/114649024218795319",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "105 vibe-coded tools",
       "href": "https://tools.simonwillison.net/colophon",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 12
-    },
-    {
-      "title": "Poison everywhere: No output from your MCP server is safe",
-      "href": "https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 13
     },
     {
@@ -103,77 +103,77 @@
       "title": "Lisp Machines' Computer’s Boom and Bust",
       "href": "https://www.youtube.com/watch?v=sV7C6Ezl35A",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 15
     },
     {
-      "title": "How I program with Agents",
-      "href": "https://crawshaw.io/blog/programming-with-agents",
+      "title": "Poison everywhere: No output from your MCP server is safe",
+      "href": "https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 16
+    },
+    {
+      "title": "Ruby Gem Naming: The Art of Delightful Obscurity",
+      "href": "https://stevengharms.com/posts/2025-06-07-the-delightful-art-of-rubys-impenetrable-naming/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 17
+    },
+    {
+      "title": "FFS optimizations with dirhash",
+      "href": "https://rsadowski.de/posts/2025/ffs-optimizations-dirhash/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
     },
     {
       "title": "The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity",
       "href": "https://machinelearning.apple.com/research/illusion-of-thinking",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Bill Atkinson Dies From Cancer at 74",
       "href": "https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip",
       "points": "",
-      "comments": "\n              9 comments",
-      "index": 18
+      "comments": "\n              10 comments",
+      "index": 20
     },
     {
       "title": "Analyzing ipv4 trades with gnuplot",
       "href": "https://ipv4a-5539ad.gitlab.io/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Field Notes From Shipping Real Code With Claude",
       "href": "https://diwank.space/field-notes-from-shipping-real-code-with-claude",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Tesseract Open Source OCR [optical character recognition] Engine",
       "href": "https://github.com/tesseract-ocr/tesseract",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 23
     },
     {
       "title": "xq: Query XML data using XPath",
       "href": "https://github.com/linkdd/xq",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Getting started with Qt, without the nonsense",
       "href": "https://sebastiano.tronto.net/blog/2025-04-04-qt-minimal/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 23
-    },
-    {
-      "title": "If Virtual Threads are the solution, what is the problem? (2023)",
-      "href": "https://webtide.com/if-virtual-threads-are-the-solution-what-is-the-problem/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "A plan for SIMD",
-      "href": "https://linebender.org/blog/a-plan-for-simd/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 25
     }
   ]
