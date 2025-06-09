@@ -1,5 +1,5 @@
 {
-  "date": "Monday, June 9, 2025 at 12:15 PM GMT-5",
+  "date": "Monday, June 9, 2025 at 1:30 PM GMT-5",
   "articles": [
     {
       "title": "Zig's self-hosted x86 backend is now default in Debug mode",
@@ -12,21 +12,21 @@
       "title": "LLMs are cheap",
       "href": "https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 2
     },
     {
       "title": "Apple WWDC 2025",
       "href": "https://www.apple.com/apple-events/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              13 comments",
       "index": 3
     },
     {
       "title": "A Low-Impact Keybase Impersonation Issue on Lobsters",
       "href": "https://www.naff.dev/blog/lobsters-keybase-impersonation",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 4
     },
     {
@@ -40,77 +40,77 @@
       "title": "The high-level OS challenge",
       "href": "https://ochagavia.nl/blog/the-high-level-os-challenge/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 6
+    },
+    {
+      "title": "Your Phoenix application, directly on your Tailnet",
+      "href": "https://gist.github.com/Munksgaard/9102f0be2562f7ba1eca32b7e0da643e",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 7
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/nrxya6/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 8
     },
     {
       "title": "AI Angst",
       "href": "https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 7
+      "index": 9
     },
     {
-      "title": "Pijul - Elpe. Yaks big. Razors bigger",
-      "href": "https://pijul.org/posts/2025-06-08-elpe/",
+      "title": "Is Rust faster than C?",
+      "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 8
+      "comments": "\n              no comments",
+      "index": 10
     },
     {
       "title": "Ish: Grep-like text search with optimal alignment, built with Mojo",
       "href": "https://github.com/BioRadOpenSource/ish",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
+      "index": 11
+    },
+    {
+      "title": "Pijul - Elpe. Yaks big. Razors bigger",
+      "href": "https://pijul.org/posts/2025-06-08-elpe/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 12
     },
     {
       "title": "Sway 1.11 Released With New Wayland Protocols & More",
       "href": "https://www.phoronix.com/news/Sway-1.11-Released",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 10
+      "index": 13
     },
     {
       "title": "Bruteforcing the phone number of any Google user",
       "href": "https://brutecat.com/articles/leaking-google-phones",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/nrxya6/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 12
-    },
-    {
-      "title": "Your Phoenix application, directly on your Tailnet",
-      "href": "https://gist.github.com/Munksgaard/9102f0be2562f7ba1eca32b7e0da643e",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "How I program with Agents",
       "href": "https://crawshaw.io/blog/programming-with-agents",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
-      "title": "Cross-compiling Zig on an old Kindle",
-      "href": "https://samkhawase.com/blog/zig-kindle-gdb/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 15
     },
     {
-      "title": "The Illusion of Thinking (paper from Apple research)",
+      "title": "The Illusion of Thinking",
       "href": "https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 16
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
-      "title": "Ditching HAProxy (in my homelab)",
-      "href": "https://arch.dog/bark/ditching-haproxy",
+      "title": "Qwen3 embedding models",
+      "href": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              no comments",
       "index": 18
+    },
+    {
+      "title": "Cross-compiling Zig on an old Kindle",
+      "href": "https://samkhawase.com/blog/zig-kindle-gdb/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "Unlocking the Motorola G23 (and some words on Motorola)",
       "href": "https://shomy.is-a.dev/blog/article/unlocking-the-motorola-g23",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 20
+    },
+    {
+      "title": "Ditching HAProxy (in my homelab)",
+      "href": "https://arch.dog/bark/ditching-haproxy",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 21
+    },
+    {
+      "title": "Why doesn’t Rust care more about compiler performance?",
+      "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "105 vibe-coded tools",
       "href": "https://tools.simonwillison.net/colophon",
       "points": "",
-      "comments": "\n              21 comments",
-      "index": 20
+      "comments": "\n              22 comments",
+      "index": 23
     },
     {
       "title": "Ruby Gem Naming: The Art of Delightful Obscurity",
       "href": "https://stevengharms.com/posts/2025-06-07-the-delightful-art-of-rubys-impenetrable-naming/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "What next after vibe coding",
-      "href": "https://mastodon.social/@nixCraft/114649024218795319",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 22
-    },
-    {
-      "title": "Lisp Machines' Computer’s Boom and Bust",
-      "href": "https://www.youtube.com/watch?v=sV7C6Ezl35A",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 23
-    },
-    {
-      "title": "Pocket to linkhut",
-      "href": "https://gist.github.com/gsquire/f2b572da529e7aed1227c51fee1cc130",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 24
     },
     {
-      "title": "Poison everywhere: No output from your MCP server is safe",
-      "href": "https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe",
+      "title": "Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown",
+      "href": "https://zoo.dev/blog/polyglot-makefile-markdown",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
