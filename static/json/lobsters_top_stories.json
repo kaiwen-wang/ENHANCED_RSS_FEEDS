@@ -1,53 +1,53 @@
 {
-  "date": "Tuesday, June 10, 2025 at 11:25 AM GMT-5",
+  "date": "Tuesday, June 10, 2025 at 12:15 PM GMT-5",
   "articles": [
-    {
-      "title": "Is Rust faster than C?",
-      "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/",
-      "points": "",
-      "comments": "\n              35 comments",
-      "index": 1
-    },
     {
       "title": "A tale of two Claudes",
       "href": "https://steveklabnik.com/writing/a-tale-of-two-claudes/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              8 comments",
+      "index": 1
+    },
+    {
+      "title": "Is Rust faster than C?",
+      "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/",
+      "points": "",
+      "comments": "\n              37 comments",
       "index": 2
-    },
-    {
-      "title": "Why doesn’t Rust care more about compiler performance?",
-      "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 3
-    },
-    {
-      "title": "Apple WWDC 2025",
-      "href": "https://www.apple.com/apple-events/",
-      "points": "",
-      "comments": "\n              41 comments",
-      "index": 4
-    },
-    {
-      "title": "Implementing DOES> in Forth, the entire reason I started this mess",
-      "href": "https://boston.conman.org/2025/06/09.1",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 5
-    },
-    {
-      "title": "Zig's self-hosted x86 backend is now default in Debug mode",
-      "href": "https://ziglang.org/devlog/2025/?unique/#2025-06-08",
-      "points": "",
-      "comments": "\n              30 comments",
-      "index": 6
     },
     {
       "title": "Malleable software: Restoring user agency in a world of locked-down apps",
       "href": "https://www.inkandswitch.com/essay/malleable-software/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 3
+    },
+    {
+      "title": "Why doesn’t Rust care more about compiler performance?",
+      "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 4
+    },
+    {
+      "title": "Apple WWDC 2025",
+      "href": "https://www.apple.com/apple-events/",
+      "points": "",
+      "comments": "\n              41 comments",
+      "index": 5
+    },
+    {
+      "title": "Quarkdown - Markdown with superpowers",
+      "href": "https://quarkdown.com/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
+      "title": "Implementing DOES> in Forth, the entire reason I started this mess",
+      "href": "https://boston.conman.org/2025/06/09.1",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 7
     },
     {
@@ -58,24 +58,24 @@
       "index": 8
     },
     {
+      "title": "Zig's self-hosted x86 backend is now default in Debug mode",
+      "href": "https://ziglang.org/devlog/2025/?unique/#2025-06-08",
+      "points": "",
+      "comments": "\n              30 comments",
+      "index": 9
+    },
+    {
       "title": "AI-assisted coding for teams that can't get away with vibes",
       "href": "https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 9
-    },
-    {
-      "title": "Quarkdown - Markdown with superpowers",
-      "href": "https://quarkdown.com/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 10
     },
     {
-      "title": "LLMs are cheap",
-      "href": "https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/",
+      "title": "Droneboy: Drone music application for Gameboy",
+      "href": "https://github.com/purefunktion/Droneboy",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              no comments",
       "index": 11
     },
     {
@@ -86,94 +86,94 @@
       "index": 12
     },
     {
-      "title": "Droneboy: Drone music application for Gameboy",
-      "href": "https://github.com/purefunktion/Droneboy",
+      "title": "LLMs are cheap",
+      "href": "https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 13
+    },
+    {
+      "title": "Zig-style generics are not well-suited for most languages (2022)",
+      "href": "https://typesanitizer.com/blog/zig-generics.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "AI Angst",
       "href": "https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 14
+      "index": 15
+    },
+    {
+      "title": "Why We’re Moving on From Nix",
+      "href": "https://blog.railway.com/p/introducing-railpack",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
     },
     {
       "title": "CVE-2025-47934 - Spoofing OpenPGP.js signature verification",
       "href": "https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 17
+    },
+    {
+      "title": "A history of the Internet, part 2: The high-tech gold rush begins",
+      "href": "https://arstechnica.com/gadgets/2025/06/a-history-of-the-internet-part-2-the-high-tech-gold-rush-begins/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
     },
     {
       "title": "Munal OS: A graphical experimental OS with WASM sandboxing",
       "href": "https://github.com/Askannz/munal-os",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 19
     },
     {
       "title": "The high-level OS challenge",
       "href": "https://ochagavia.nl/blog/the-high-level-os-challenge/",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 17
+      "comments": "\n              12 comments",
+      "index": 20
+    },
+    {
+      "title": "Building a Debugger: Write a Native x64 Debugger From Scratch",
+      "href": "https://nostarch.com/building-a-debugger",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
     },
     {
       "title": "Qwen3 embedding models",
       "href": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 18
+      "index": 22
     },
     {
-      "title": "Why We’re Moving on From Nix",
-      "href": "https://blog.railway.com/p/introducing-railpack",
+      "title": "Green threads explained",
+      "href": "https://c9x.me/articles/gthreads/intro.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 23
+    },
+    {
+      "title": "Handles are the better pointers (2018)",
+      "href": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "killing X11",
       "href": "https://flak.tedunangst.com/post/killing-X11",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 20
-    },
-    {
-      "title": "A Low-Impact Keybase Impersonation Issue on Lobsters",
-      "href": "https://www.naff.dev/blog/lobsters-keybase-impersonation",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 21
-    },
-    {
-      "title": "Auto-Pentest-GPT-AI: LLM Powered Pentesting for your software",
-      "href": "https://github.com/Armur-Ai/Auto-Pentest-GPT-AI",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "News from WWDC25: WebKit in Safari 26 beta",
-      "href": "https://webkit.org/blog/16993/news-from-wwdc25-web-technology-coming-this-fall-in-safari-26-beta/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "The Gap Through Which We Praise the Machine",
-      "href": "https://ferd.ca/the-gap-through-which-we-praise-the-machine.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms",
-      "href": "https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 25
     }
   ]
