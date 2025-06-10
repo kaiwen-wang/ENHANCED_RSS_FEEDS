@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, June 10, 2025 at 2:15 PM GMT-5",
+  "date": "Tuesday, June 10, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "A tale of two Claudes",
       "href": "https://steveklabnik.com/writing/a-tale-of-two-claudes/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              25 comments",
       "index": 1
-    },
-    {
-      "title": "Is Rust faster than C?",
-      "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/",
-      "points": "",
-      "comments": "\n              39 comments",
-      "index": 2
     },
     {
       "title": "Malleable software: Restoring user agency in a world of locked-down apps",
       "href": "https://www.inkandswitch.com/essay/malleable-software/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 2
+    },
+    {
+      "title": "Is Rust faster than C?",
+      "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/",
+      "points": "",
+      "comments": "\n              40 comments",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
+      "title": "Zig-style generics are not well-suited for most languages (2022)",
+      "href": "https://typesanitizer.com/blog/zig-generics.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 5
+    },
+    {
       "title": "AI-assisted coding for teams that can't get away with vibes",
       "href": "https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 5
-    },
-    {
-      "title": "Why doesn’t Rust care more about compiler performance?",
-      "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
-      "points": "",
-      "comments": "\n              24 comments",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "Zig-style generics are not well-suited for most languages (2022)",
-      "href": "https://typesanitizer.com/blog/zig-generics.html",
+      "title": "Why doesn’t Rust care more about compiler performance?",
+      "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              25 comments",
       "index": 8
     },
     {
       "title": "Implementing DOES> in Forth, the entire reason I started this mess",
       "href": "https://boston.conman.org/2025/06/09.1",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              5 comments",
       "index": 9
     },
     {
@@ -72,24 +72,24 @@
       "index": 10
     },
     {
-      "title": "Apple WWDC 2025",
-      "href": "https://www.apple.com/apple-events/",
-      "points": "",
-      "comments": "\n              41 comments",
-      "index": 11
-    },
-    {
       "title": "Why agents are bad pair programmers",
       "href": "https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
+      "index": 11
     },
     {
       "title": "Droneboy: Drone music application for Gameboy",
       "href": "https://github.com/purefunktion/Droneboy",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Apple WWDC 2025",
+      "href": "https://www.apple.com/apple-events/",
+      "points": "",
+      "comments": "\n              41 comments",
       "index": 13
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "Partial Keyframes",
+      "href": "https://www.joshwcomeau.com/animation/partial-keyframes/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
       "title": "AI Angst",
       "href": "https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Why We’re Moving on From Nix",
       "href": "https://blog.railway.com/p/introducing-railpack",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 21
+      "comments": "\n              2 comments",
+      "index": 22
+    },
+    {
+      "title": "Android 16 is here",
+      "href": "https://blog.google/products/android/android-16/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Munal OS: A graphical experimental OS with WASM sandboxing",
       "href": "https://github.com/Askannz/munal-os",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "The high-level OS challenge",
       "href": "https://ochagavia.nl/blog/the-high-level-os-challenge/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 23
-    },
-    {
-      "title": "A history of the Internet, part 2: The high-tech gold rush begins",
-      "href": "https://arstechnica.com/gadgets/2025/06/a-history-of-the-internet-part-2-the-high-tech-gold-rush-begins/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Qwen3 embedding models",
-      "href": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 25
     }
   ]
