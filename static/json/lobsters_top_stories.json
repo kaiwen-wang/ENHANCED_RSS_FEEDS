@@ -1,18 +1,18 @@
 {
-  "date": "Friday, June 13, 2025 at 5:20 PM GMT-5",
+  "date": "Friday, June 13, 2025 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "OxCaml, Jane Street's extension of OCaml is now open-source",
       "href": "https://oxcaml.org",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
       "index": 1
     },
     {
       "title": "jemalloc Postmortem",
       "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 2
     },
     {
@@ -30,136 +30,136 @@
       "index": 4
     },
     {
+      "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
+      "href": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 5
+    },
+    {
       "title": "Cursor YOLO deleted everything in my computer",
       "href": "https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131",
       "points": "",
       "comments": "\n              29 comments",
-      "index": 5
-    },
-    {
-      "title": "Asterinas: A Linux ABI-compatible, Rust-based framekernel OS",
-      "href": "https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 6
-    },
-    {
-      "title": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
-      "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 7
     },
     {
       "title": "Introducing the twom database format",
       "href": "https://www.fastmail.com/blog/introducing-twom/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 7
+    },
+    {
+      "title": "Asterinas: A Linux ABI-compatible, Rust-based framekernel OS",
+      "href": "https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 8
     },
     {
-      "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
-      "href": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
+      "title": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
+      "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              6 comments",
       "index": 9
-    },
-    {
-      "title": "Modularizing George Cave's eInk Energy Dashboard",
-      "href": "https://slipway.co/blog/eink-energy-dashboard",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
     },
     {
       "title": "The fastest way to detect a vowel in a string",
       "href": "https://austinhenley.com/blog/vowels.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 11
-    },
-    {
-      "title": "Next.js 15.1+ is unusable outside of Vercel",
-      "href": "https://omarabid.com/nextjs-vercel",
-      "points": "",
-      "comments": "\n              37 comments",
-      "index": 12
-    },
-    {
-      "title": "Frequent reauth doesn't make you more secure",
-      "href": "https://tailscale.com/blog/frequent-reath-security",
-      "points": "",
-      "comments": "\n              44 comments",
-      "index": 13
-    },
-    {
-      "title": "100 years of Zermelo’s axiom of choice: What was the problem with it?",
-      "href": "https://research.mietek.io/mi.MartinLof2006.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 14
+      "index": 10
     },
     {
       "title": "strace tips for better debugging",
       "href": "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
+      "index": 11
     },
     {
-      "title": "HTML WARDen (an HTML-based wiki)",
-      "href": "https://ratfactor.com/htmlwarden/",
+      "title": "100 years of Zermelo’s axiom of choice: What was the problem with it?",
+      "href": "https://research.mietek.io/mi.MartinLof2006.html",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
+      "comments": "\n              3 comments",
+      "index": 12
+    },
+    {
+      "title": "Modularizing George Cave's eInk Energy Dashboard",
+      "href": "https://slipway.co/blog/eink-energy-dashboard",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "Next.js 15.1+ is unusable outside of Vercel",
+      "href": "https://omarabid.com/nextjs-vercel",
+      "points": "",
+      "comments": "\n              37 comments",
+      "index": 14
+    },
+    {
+      "title": "Frequent reauth doesn't make you more secure",
+      "href": "https://tailscale.com/blog/frequent-reath-security",
+      "points": "",
+      "comments": "\n              47 comments",
+      "index": 15
     },
     {
       "title": "macOS Tahoe brings a new disk image format",
       "href": "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 16
+    },
+    {
+      "title": "HTML WARDen (an HTML-based wiki)",
+      "href": "https://ratfactor.com/htmlwarden/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 17
-    },
-    {
-      "title": "Rendering crispy text on the GPU",
-      "href": "https://osor.io/text",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 18
-    },
-    {
-      "title": "Rumour: Google intends to discontinue the Android Open Source Project",
-      "href": "https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/",
-      "points": "",
-      "comments": "\n              29 comments",
-      "index": 19
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/dicru5/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              19 comments",
-      "index": 20
+      "comments": "\n              20 comments",
+      "index": 18
     },
     {
       "title": "StarMalloc: verified memory allocator",
       "href": "https://dl.acm.org/doi/10.1145/3689773",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 19
     },
     {
-      "title": "The Hat, the Spectre and SAT solvers",
-      "href": "https://www.nhatcher.com/post/on-hats-and-sats/",
+      "title": "Rumour: Google intends to discontinue the Android Open Source Project",
+      "href": "https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 22
+      "comments": "\n              29 comments",
+      "index": 20
+    },
+    {
+      "title": "Rendering crispy text on the GPU",
+      "href": "https://osor.io/text",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 21
     },
     {
       "title": "Three Algorithms for YSH Syntax Highlighting",
       "href": "https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 22
+    },
+    {
+      "title": "The Hat, the Spectre and SAT solvers",
+      "href": "https://www.nhatcher.com/post/on-hats-and-sats/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 23
     },
     {
