@@ -1,32 +1,32 @@
 {
-  "date": "Friday, June 13, 2025 at 3:20 PM GMT-5",
+  "date": "Friday, June 13, 2025 at 4:20 PM GMT-5",
   "articles": [
-    {
-      "title": "jemalloc Postmortem",
-      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 1
-    },
     {
       "title": "OxCaml, Jane Street's extension of OCaml is now open-source",
       "href": "https://oxcaml.org",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 2
+      "comments": "\n              15 comments",
+      "index": 1
     },
     {
-      "title": "Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge",
-      "href": "https://radicle.xyz/desktop",
+      "title": "jemalloc Postmortem",
+      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 3
+      "comments": "\n              15 comments",
+      "index": 2
     },
     {
       "title": "Tattoy: a text-based terminal compositor",
       "href": "https://tattoy.sh/",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 3
+    },
+    {
+      "title": "Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge",
+      "href": "https://radicle.xyz/desktop",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 4
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
-      "title": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
-      "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 7
-    },
-    {
       "title": "Introducing the twom database format",
       "href": "https://www.fastmail.com/blog/introducing-twom/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 7
+    },
+    {
+      "title": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
+      "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 8
     },
     {
@@ -72,38 +72,38 @@
       "index": 10
     },
     {
-      "title": "Frequent reauth doesn't make you more secure",
-      "href": "https://tailscale.com/blog/frequent-reath-security",
-      "points": "",
-      "comments": "\n              32 comments",
-      "index": 11
-    },
-    {
       "title": "Next.js 15.1+ is unusable outside of Vercel",
       "href": "https://omarabid.com/nextjs-vercel",
       "points": "",
       "comments": "\n              37 comments",
+      "index": 11
+    },
+    {
+      "title": "Frequent reauth doesn't make you more secure",
+      "href": "https://tailscale.com/blog/frequent-reath-security",
+      "points": "",
+      "comments": "\n              41 comments",
       "index": 12
-    },
-    {
-      "title": "HTML WARDen (an HTML-based wiki)",
-      "href": "https://ratfactor.com/htmlwarden/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "100 years of Zermelo’s axiom of choice: What was the problem with it?",
-      "href": "https://research.mietek.io/mi.MartinLof2006.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 14
     },
     {
       "title": "macOS Tahoe brings a new disk image format",
       "href": "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 13
+    },
+    {
+      "title": "HTML WARDen (an HTML-based wiki)",
+      "href": "https://ratfactor.com/htmlwarden/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
+      "title": "100 years of Zermelo’s axiom of choice: What was the problem with it?",
+      "href": "https://research.mietek.io/mi.MartinLof2006.html",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 15
     },
     {
@@ -114,52 +114,52 @@
       "index": 16
     },
     {
+      "title": "Rendering crispy text on the GPU",
+      "href": "https://osor.io/text",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 17
+    },
+    {
+      "title": "strace tips for better debugging",
+      "href": "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
       "title": "What are you doing this weekend?",
       "href": "/s/dicru5/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              18 comments",
-      "index": 17
+      "comments": "\n              19 comments",
+      "index": 19
     },
     {
       "title": "StarMalloc: verified memory allocator",
       "href": "https://dl.acm.org/doi/10.1145/3689773",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "The fastest way to detect a vowel in a string",
       "href": "https://austinhenley.com/blog/vowels.html",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 19
-    },
-    {
-      "title": "Rendering crispy text on the GPU",
-      "href": "https://osor.io/text",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 20
+      "comments": "\n              4 comments",
+      "index": 21
     },
     {
       "title": "The Hat, the Spectre and SAT solvers",
       "href": "https://www.nhatcher.com/post/on-hats-and-sats/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Three Algorithms for YSH Syntax Highlighting",
       "href": "https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 22
-    },
-    {
-      "title": "User-space interrupts (2021)",
-      "href": "https://lwn.net/Articles/871113/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 23
     },
     {
@@ -170,8 +170,8 @@
       "index": 24
     },
     {
-      "title": "strace tips for better debugging",
-      "href": "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/",
+      "title": "User-space interrupts (2021)",
+      "href": "https://lwn.net/Articles/871113/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
