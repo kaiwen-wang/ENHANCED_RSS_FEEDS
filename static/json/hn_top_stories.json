@@ -1,207 +1,207 @@
 {
-  "date": "Friday, June 13, 2025 at 5:20 AM GMT-5",
+  "date": "Friday, June 13, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "Jemalloc Postmortem",
       "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
-      "points": "450 points",
-      "comments": "118 comments",
+      "points": "482 points",
+      "comments": "126 comments",
       "index": 1
+    },
+    {
+      "title": "If the moon were only 1 pixel: A tediously accurate solar system model",
+      "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+      "points": "39 points",
+      "comments": "2 comments",
+      "index": 2
     },
     {
       "title": "Frequent reauth doesn't make you more secure",
       "href": "https://tailscale.com/blog/frequent-reath-security",
-      "points": "877 points",
-      "comments": "380 comments",
-      "index": 2
+      "points": "893 points",
+      "comments": "394 comments",
+      "index": 3
     },
     {
       "title": "Rendering Crispy Text on the GPU",
       "href": "https://osor.io/text",
-      "points": "206 points",
-      "comments": "68 comments",
-      "index": 3
+      "points": "229 points",
+      "comments": "72 comments",
+      "index": 4
     },
     {
       "title": "A receipt printer cured my procrastination",
       "href": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
-      "points": "920 points",
-      "comments": "484 comments",
-      "index": 4
+      "points": "939 points",
+      "comments": "494 comments",
+      "index": 5
     },
     {
       "title": "A Dark Adtech Empire Fed by Fake CAPTCHAs",
       "href": "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/",
-      "points": "158 points",
-      "comments": "53 comments",
-      "index": 5
+      "points": "165 points",
+      "comments": "58 comments",
+      "index": 6
     },
     {
       "title": "iPhone 11 emulation done in QEMU",
       "href": "https://github.com/ChefKissInc/QEMUAppleSilicon",
-      "points": "303 points",
-      "comments": "26 comments",
-      "index": 6
-    },
-    {
-      "title": "Show HN: Tritium – The Legal IDE in Rust",
-      "href": "https://tritium.legal/preview",
-      "points": "205 points",
-      "comments": "118 comments",
+      "points": "309 points",
+      "comments": "28 comments",
       "index": 7
     },
     {
       "title": "Slow and steady, this poem will win your heart",
       "href": "https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html",
-      "points": "31 points",
-      "comments": "18 comments",
+      "points": "35 points",
+      "comments": "20 comments",
       "index": 8
+    },
+    {
+      "title": "Show HN: Tritium – The Legal IDE in Rust",
+      "href": "https://tritium.legal/preview",
+      "points": "210 points",
+      "comments": "118 comments",
+      "index": 9
     },
     {
       "title": "Three Algorithms for YSH Syntax Highlighting",
       "href": "https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md",
-      "points": "23 points",
-      "comments": "8 comments",
-      "index": 9
+      "points": "28 points",
+      "comments": "9 comments",
+      "index": 10
     },
     {
       "title": "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
       "href": "https://arxiv.org/abs/2504.06932",
-      "points": "246 points",
-      "comments": "230 comments",
-      "index": 10
+      "points": "248 points",
+      "comments": "232 comments",
+      "index": 11
     },
     {
       "title": "Show HN: McWig – A modal, Vim-like text editor written in Go",
       "href": "https://github.com/firstrow/mcwig",
-      "points": "118 points",
-      "comments": "12 comments",
-      "index": 11
-    },
-    {
-      "title": "Rust compiler performance",
-      "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
-      "points": "216 points",
-      "comments": "175 comments",
+      "points": "123 points",
+      "comments": "13 comments",
       "index": 12
-    },
-    {
-      "title": "Worldwide power grid with glass insulated HVDC cables",
-      "href": "https://omattos.com/2025/06/12/glass-hvdc-cables.html",
-      "points": "89 points",
-      "comments": "58 comments",
-      "index": 13
     },
     {
       "title": "Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)",
       "href": "https://github.com/hunterirving/pico-crossing",
-      "points": "108 points",
+      "points": "116 points",
       "comments": "15 comments",
+      "index": 13
+    },
+    {
+      "title": "Rust compiler performance",
+      "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
+      "points": "219 points",
+      "comments": "181 comments",
       "index": 14
     },
     {
       "title": "Why does my ripped CD have messed up track names? And why is one track missing?",
       "href": "https://www.akpain.net/blog/inside-a-cd/",
-      "points": "133 points",
+      "points": "134 points",
       "comments": "119 comments",
       "index": 15
     },
     {
-      "title": "Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore",
-      "href": "https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores",
-      "points": "32 points",
-      "comments": "5 comments",
+      "title": "Worldwide power grid with glass insulated HVDC cables",
+      "href": "https://omattos.com/2025/06/12/glass-hvdc-cables.html",
+      "points": "91 points",
+      "comments": "59 comments",
       "index": 16
     },
     {
       "title": "Chatterbox TTS",
       "href": "https://github.com/resemble-ai/chatterbox",
-      "points": "615 points",
-      "comments": "181 comments",
+      "points": "620 points",
+      "comments": "182 comments",
       "index": 17
+    },
+    {
+      "title": "Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore",
+      "href": "https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores",
+      "points": "34 points",
+      "comments": "5 comments",
+      "index": 18
     },
     {
       "title": "Microsoft Office migration from Source Depot to Git",
       "href": "https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/",
-      "points": "329 points",
-      "comments": "255 comments",
-      "index": 18
-    },
-    {
-      "title": "Solving LinkedIn Queens with SMT",
-      "href": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
-      "points": "110 points",
-      "comments": "35 comments",
+      "points": "331 points",
+      "comments": "257 comments",
       "index": 19
     },
     {
       "title": "The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins",
       "href": "https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins",
-      "points": "52 points",
+      "points": "55 points",
       "comments": "18 comments",
       "index": 20
     },
     {
-      "title": "Show HN: I wrote a BitTorrent Client from scratch",
-      "href": "https://github.com/piyushgupta53/go-torrent-client",
-      "points": "109 points",
+      "title": "Solving LinkedIn Queens with SMT",
+      "href": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
+      "points": "113 points",
       "comments": "36 comments",
       "index": 21
     },
     {
-      "title": "Show HN: GetHooky – a language-agnostic Git hook manager",
-      "href": "https://ezpieco.github.io/GetHooky/",
-      "points": "10 points",
-      "comments": "2 comments",
+      "title": "Dancing brainwaves: How sound reshapes your brain networks in real time",
+      "href": "https://www.sciencedaily.com/releases/2025/06/250602155001.htm",
+      "points": "164 points",
+      "comments": "58 comments",
       "index": 22
     },
     {
-      "title": "Andrew Ng says vibe coding is a bad name for a real and exhausting job",
-      "href": "https://www.businessinsider.com/andrew-ng-vibe-coding-unfortunate-term-exhausting-job-2025-6",
-      "points": "9 points",
-      "comments": "9 comments",
+      "title": "Show HN: I wrote a BitTorrent Client from scratch",
+      "href": "https://github.com/piyushgupta53/go-torrent-client",
+      "points": "115 points",
+      "comments": "35 comments",
       "index": 23
     },
     {
-      "title": "First thoughts on o3 pro",
-      "href": "https://www.latent.space/p/o3-pro",
-      "points": "153 points",
-      "comments": "143 comments",
+      "title": "Show HN: GetHooky – a language-agnostic Git hook manager",
+      "href": "https://ezpieco.github.io/GetHooky/",
+      "points": "11 points",
+      "comments": "3 comments",
       "index": 24
-    },
-    {
-      "title": "Dancing brainwaves: How sound reshapes your brain networks in real time",
-      "href": "https://www.sciencedaily.com/releases/2025/06/250602155001.htm",
-      "points": "160 points",
-      "comments": "52 comments",
-      "index": 25
     },
     {
       "title": "Helion: A modern fast paced Doom FPS engine in C#",
       "href": "https://github.com/Helion-Engine/Helion",
-      "points": "158 points",
+      "points": "160 points",
       "comments": "59 comments",
+      "index": 25
+    },
+    {
+      "title": "First thoughts on o3 pro",
+      "href": "https://www.latent.space/p/o3-pro",
+      "points": "159 points",
+      "comments": "143 comments",
       "index": 26
     },
     {
       "title": "Quantum Computation Lecture Notes (2022)",
       "href": "https://math.mit.edu/~shor/435-LN/",
-      "points": "140 points",
+      "points": "144 points",
       "comments": "46 comments",
       "index": 27
     },
     {
       "title": "US-backed Israeli company's spyware used to target European journalists",
       "href": "https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb",
-      "points": "624 points",
-      "comments": "305 comments",
+      "points": "636 points",
+      "comments": "318 comments",
       "index": 28
     },
     {
-      "title": "Major sugar substitute found to impair brain blood vessel cell function",
-      "href": "https://medicalxpress.com/news/2025-06-major-sugar-substitute-impair-brain.html",
-      "points": "124 points",
-      "comments": "91 comments",
+      "title": "Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js",
+      "href": "https://sparkjs.dev/",
+      "points": "364 points",
+      "comments": "85 comments",
       "index": 29
     },
     {
