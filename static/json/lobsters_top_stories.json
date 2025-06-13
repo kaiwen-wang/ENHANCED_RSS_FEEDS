@@ -1,5 +1,5 @@
 {
-  "date": "Friday, June 13, 2025 at 2:20 AM GMT-5",
+  "date": "Friday, June 13, 2025 at 3:25 AM GMT-5",
   "articles": [
     {
       "title": "jemalloc Postmortem",
@@ -12,7 +12,7 @@
       "title": "Cursor YOLO deleted everything in my computer",
       "href": "https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              22 comments",
       "index": 2
     },
     {
@@ -26,7 +26,7 @@
       "title": "Rumour: Google intends to discontinue the Android Open Source Project",
       "href": "https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              20 comments",
       "index": 4
     },
     {
@@ -40,35 +40,35 @@
       "title": "Asterinas: A Linux ABI-compatible, Rust-based framekernel OS",
       "href": "https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 6
-    },
-    {
-      "title": "AI Boom Drives 150% Surge in Indirect Emissions at Major Tech Firms, UN Warns",
-      "href": "https://esgnews.com/ai-boom-drives-150-surge-in-indirect-emissions-at-major-tech-firms-un-warns/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 7
     },
     {
       "title": "Three Algorithms for YSH Syntax Highlighting",
       "href": "https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 7
+    },
+    {
+      "title": "AI Boom Drives 150% Surge in Indirect Emissions at Major Tech Firms, UN Warns",
+      "href": "https://esgnews.com/ai-boom-drives-150-surge-in-indirect-emissions-at-major-tech-firms-un-warns/",
+      "points": "",
+      "comments": "\n              20 comments",
       "index": 8
     },
     {
       "title": "Agentic Coding Recommendations",
       "href": "https://lucumr.pocoo.org/2025/6/12/agentic-coding/",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              22 comments",
       "index": 9
     },
     {
-      "title": "How much EU is in DNS4EU?",
-      "href": "https://techlog.jenslink.net/posts/dns4eu/",
+      "title": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
+      "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 10
     },
     {
@@ -79,99 +79,99 @@
       "index": 11
     },
     {
+      "title": "How much EU is in DNS4EU?",
+      "href": "https://techlog.jenslink.net/posts/dns4eu/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 12
+    },
+    {
+      "title": "Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge",
+      "href": "https://radicle.xyz/desktop",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
       "title": "Architecture Decision Records",
       "href": "https://www.beflagrant.com/blog/adrs",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
+      "comments": "\n              2 comments",
+      "index": 14
     },
     {
       "title": "Solving LinkedIn Queens with SMT",
       "href": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 13
-    },
-    {
-      "title": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
-      "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "“Localhost tracking” explained. It could cost Meta €32b",
-      "href": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could",
-      "points": "",
-      "comments": "\n              40 comments",
       "index": 15
+    },
+    {
+      "title": "What I talk about when I talk about IRs",
+      "href": "https://bernsteinbear.com/blog/irs/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
     },
     {
       "title": "The Case for Software Craftsmanship in the Era of Vibes",
       "href": "https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 17
     },
     {
-      "title": "What I talk about when I talk about IRs",
-      "href": "https://bernsteinbear.com/blog/irs/",
+      "title": "“Localhost tracking” explained. It could cost Meta €32b",
+      "href": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 17
+      "comments": "\n              40 comments",
+      "index": 18
     },
     {
       "title": "EU launches EU-based, privacy-focused DNS resolution service",
       "href": "https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 18
+      "index": 19
+    },
+    {
+      "title": "Rendering crispy text on the GPU",
+      "href": "https://osor.io/text",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel",
       "href": "https://www.phoronix.com/news/Linux-DAMON-By-Default-No",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research",
       "href": "http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Writing a Verified Postfix Calculator in Ada/SPARK",
       "href": "https://pyjarrett.github.io/2025/06/10/postfix-calculator.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 23
     },
     {
       "title": "The Python Language Summit 2025",
       "href": "https://pyfound.blogspot.com/2025/06/python-language-summit-2025.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "diceomatic: a DSL for making children's dice games",
       "href": "https://robertheaton.com/diceomatic/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Quantum Computing without the Linear Algebra",
-      "href": "https://eprint.iacr.org/2025/1091.pdf",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Rendering crispy text on the GPU",
-      "href": "https://osor.io/text",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
