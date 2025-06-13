@@ -1,214 +1,214 @@
 {
-  "date": "Friday, June 13, 2025 at 6:15 AM GMT-5",
+  "date": "Friday, June 13, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
-      "title": "Jemalloc Postmortem",
-      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
-      "points": "482 points",
-      "comments": "126 comments",
+      "title": "If the moon were only 1 pixel: A tediously accurate solar system model (2014)",
+      "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+      "points": "155 points",
+      "comments": "28 comments",
       "index": 1
     },
     {
-      "title": "If the moon were only 1 pixel: A tediously accurate solar system model",
-      "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
-      "points": "39 points",
-      "comments": "2 comments",
+      "title": "Jemalloc Postmortem",
+      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
+      "points": "522 points",
+      "comments": "146 comments",
       "index": 2
     },
     {
       "title": "Frequent reauth doesn't make you more secure",
       "href": "https://tailscale.com/blog/frequent-reath-security",
-      "points": "893 points",
-      "comments": "394 comments",
+      "points": "928 points",
+      "comments": "405 comments",
       "index": 3
+    },
+    {
+      "title": "The European public DNS that makes your Internet safer",
+      "href": "https://www.dns0.eu",
+      "points": "43 points",
+      "comments": "23 comments",
+      "index": 4
     },
     {
       "title": "Rendering Crispy Text on the GPU",
       "href": "https://osor.io/text",
-      "points": "229 points",
-      "comments": "72 comments",
-      "index": 4
+      "points": "259 points",
+      "comments": "80 comments",
+      "index": 5
+    },
+    {
+      "title": "The Missing Manual for Signals: State Management for Python Developers",
+      "href": "https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 6
+    },
+    {
+      "title": "Kyber (YC W23) Is Hiring a Technical Account Manager",
+      "href": "https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam",
+      "points": "",
+      "comments": "hide",
+      "index": 7
     },
     {
       "title": "A receipt printer cured my procrastination",
       "href": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
-      "points": "939 points",
-      "comments": "494 comments",
-      "index": 5
+      "points": "962 points",
+      "comments": "505 comments",
+      "index": 8
     },
     {
       "title": "A Dark Adtech Empire Fed by Fake CAPTCHAs",
       "href": "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/",
-      "points": "165 points",
-      "comments": "58 comments",
-      "index": 6
-    },
-    {
-      "title": "iPhone 11 emulation done in QEMU",
-      "href": "https://github.com/ChefKissInc/QEMUAppleSilicon",
-      "points": "309 points",
-      "comments": "28 comments",
-      "index": 7
+      "points": "175 points",
+      "comments": "69 comments",
+      "index": 9
     },
     {
       "title": "Slow and steady, this poem will win your heart",
       "href": "https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html",
-      "points": "35 points",
-      "comments": "20 comments",
-      "index": 8
+      "points": "49 points",
+      "comments": "23 comments",
+      "index": 10
+    },
+    {
+      "title": "iPhone 11 emulation done in QEMU",
+      "href": "https://github.com/ChefKissInc/QEMUAppleSilicon",
+      "points": "318 points",
+      "comments": "28 comments",
+      "index": 11
     },
     {
       "title": "Show HN: Tritium – The Legal IDE in Rust",
       "href": "https://tritium.legal/preview",
-      "points": "210 points",
-      "comments": "118 comments",
-      "index": 9
-    },
-    {
-      "title": "Three Algorithms for YSH Syntax Highlighting",
-      "href": "https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md",
-      "points": "28 points",
-      "comments": "9 comments",
-      "index": 10
+      "points": "224 points",
+      "comments": "125 comments",
+      "index": 12
     },
     {
       "title": "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
       "href": "https://arxiv.org/abs/2504.06932",
-      "points": "248 points",
-      "comments": "232 comments",
-      "index": 11
+      "points": "253 points",
+      "comments": "240 comments",
+      "index": 13
+    },
+    {
+      "title": "Three Algorithms for YSH Syntax Highlighting",
+      "href": "https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md",
+      "points": "32 points",
+      "comments": "9 comments",
+      "index": 14
+    },
+    {
+      "title": "Worldwide power grid with glass insulated HVDC cables",
+      "href": "https://omattos.com/2025/06/12/glass-hvdc-cables.html",
+      "points": "95 points",
+      "comments": "70 comments",
+      "index": 15
+    },
+    {
+      "title": "Rust compiler performance",
+      "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
+      "points": "224 points",
+      "comments": "195 comments",
+      "index": 16
+    },
+    {
+      "title": "Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)",
+      "href": "https://github.com/hunterirving/pico-crossing",
+      "points": "125 points",
+      "comments": "19 comments",
+      "index": 17
+    },
+    {
+      "title": "Zero-Shot Forecasting: Our Search for a Time-Series Foundation Model",
+      "href": "https://www.parseable.com/blog/zero-shot-forecasting",
+      "points": "26 points",
+      "comments": "8 comments",
+      "index": 18
     },
     {
       "title": "Show HN: McWig – A modal, Vim-like text editor written in Go",
       "href": "https://github.com/firstrow/mcwig",
       "points": "123 points",
       "comments": "13 comments",
-      "index": 12
-    },
-    {
-      "title": "Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)",
-      "href": "https://github.com/hunterirving/pico-crossing",
-      "points": "116 points",
-      "comments": "15 comments",
-      "index": 13
-    },
-    {
-      "title": "Rust compiler performance",
-      "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
-      "points": "219 points",
-      "comments": "181 comments",
-      "index": 14
+      "index": 19
     },
     {
       "title": "Why does my ripped CD have messed up track names? And why is one track missing?",
       "href": "https://www.akpain.net/blog/inside-a-cd/",
-      "points": "134 points",
-      "comments": "119 comments",
-      "index": 15
-    },
-    {
-      "title": "Worldwide power grid with glass insulated HVDC cables",
-      "href": "https://omattos.com/2025/06/12/glass-hvdc-cables.html",
-      "points": "91 points",
-      "comments": "59 comments",
-      "index": 16
+      "points": "138 points",
+      "comments": "121 comments",
+      "index": 20
     },
     {
       "title": "Chatterbox TTS",
       "href": "https://github.com/resemble-ai/chatterbox",
-      "points": "620 points",
+      "points": "623 points",
       "comments": "182 comments",
-      "index": 17
-    },
-    {
-      "title": "Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore",
-      "href": "https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores",
-      "points": "34 points",
-      "comments": "5 comments",
-      "index": 18
+      "index": 21
     },
     {
       "title": "Microsoft Office migration from Source Depot to Git",
       "href": "https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/",
-      "points": "331 points",
-      "comments": "257 comments",
-      "index": 19
+      "points": "334 points",
+      "comments": "259 comments",
+      "index": 22
     },
     {
-      "title": "The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins",
-      "href": "https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins",
-      "points": "55 points",
-      "comments": "18 comments",
-      "index": 20
+      "title": "Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore",
+      "href": "https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores",
+      "points": "36 points",
+      "comments": "6 comments",
+      "index": 23
     },
     {
       "title": "Solving LinkedIn Queens with SMT",
       "href": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
-      "points": "113 points",
+      "points": "118 points",
       "comments": "36 comments",
-      "index": 21
-    },
-    {
-      "title": "Dancing brainwaves: How sound reshapes your brain networks in real time",
-      "href": "https://www.sciencedaily.com/releases/2025/06/250602155001.htm",
-      "points": "164 points",
-      "comments": "58 comments",
-      "index": 22
-    },
-    {
-      "title": "Show HN: I wrote a BitTorrent Client from scratch",
-      "href": "https://github.com/piyushgupta53/go-torrent-client",
-      "points": "115 points",
-      "comments": "35 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Show HN: GetHooky – a language-agnostic Git hook manager",
       "href": "https://ezpieco.github.io/GetHooky/",
-      "points": "11 points",
+      "points": "14 points",
       "comments": "3 comments",
-      "index": 24
+      "index": 25
     },
     {
-      "title": "Helion: A modern fast paced Doom FPS engine in C#",
-      "href": "https://github.com/Helion-Engine/Helion",
-      "points": "160 points",
-      "comments": "59 comments",
-      "index": 25
+      "title": "The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins",
+      "href": "https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins",
+      "points": "60 points",
+      "comments": "18 comments",
+      "index": 26
+    },
+    {
+      "title": "Dancing brainwaves: How sound reshapes your brain networks in real time",
+      "href": "https://www.sciencedaily.com/releases/2025/06/250602155001.htm",
+      "points": "169 points",
+      "comments": "62 comments",
+      "index": 27
     },
     {
       "title": "First thoughts on o3 pro",
       "href": "https://www.latent.space/p/o3-pro",
-      "points": "159 points",
-      "comments": "143 comments",
-      "index": 26
+      "points": "166 points",
+      "comments": "153 comments",
+      "index": 28
     },
     {
       "title": "Quantum Computation Lecture Notes (2022)",
       "href": "https://math.mit.edu/~shor/435-LN/",
-      "points": "144 points",
+      "points": "147 points",
       "comments": "46 comments",
-      "index": 27
-    },
-    {
-      "title": "US-backed Israeli company's spyware used to target European journalists",
-      "href": "https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb",
-      "points": "636 points",
-      "comments": "318 comments",
-      "index": 28
-    },
-    {
-      "title": "Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js",
-      "href": "https://sparkjs.dev/",
-      "points": "364 points",
-      "comments": "85 comments",
       "index": 29
     },
     {
-      "title": "Roundtable (YC S23) Is Hiring a President / CRO",
-      "href": "https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding",
-      "points": "",
-      "comments": "hide",
+      "title": "They Asked an A.I. Chatbot Questions. The Answers Sent Them Spiraling",
+      "href": "https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html",
+      "points": "21 points",
+      "comments": "34 comments",
       "index": 30
     }
   ]
