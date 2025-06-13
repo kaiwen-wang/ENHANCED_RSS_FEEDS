@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, June 12, 2025 at 10:15 PM GMT-5",
+  "date": "Thursday, June 12, 2025 at 11:25 PM GMT-5",
   "articles": [
     {
-      "title": "Next.js 15.1+ is unusable outside of Vercel",
-      "href": "https://omarabid.com/nextjs-vercel",
+      "title": "jemalloc Postmortem",
+      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              1 comment",
       "index": 1
     },
     {
@@ -16,10 +16,10 @@
       "index": 2
     },
     {
-      "title": "jemalloc Postmortem",
-      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
+      "title": "Next.js 15.1+ is unusable outside of Vercel",
+      "href": "https://omarabid.com/nextjs-vercel",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              27 comments",
       "index": 3
     },
     {
@@ -40,7 +40,7 @@
       "title": "AI Boom Drives 150% Surge in Indirect Emissions at Major Tech Firms, UN Warns",
       "href": "https://esgnews.com/ai-boom-drives-150-surge-in-indirect-emissions-at-major-tech-firms-un-warns/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 6
     },
     {
@@ -79,24 +79,24 @@
       "index": 11
     },
     {
-      "title": "EU launches EU-based, privacy-focused DNS resolution service",
-      "href": "https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 12
-    },
-    {
       "title": "Three Algorithms for YSH Syntax Highlighting",
       "href": "https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 12
+    },
+    {
+      "title": "Asterinas: A Linux ABI-compatible, Rust-based framekernel OS",
+      "href": "https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 13
     },
     {
-      "title": "Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel",
-      "href": "https://www.phoronix.com/news/Linux-DAMON-By-Default-No",
+      "title": "EU launches EU-based, privacy-focused DNS resolution service",
+      "href": "https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel",
+      "href": "https://www.phoronix.com/news/Linux-DAMON-By-Default-No",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 16
+    },
+    {
+      "title": "macOS Tahoe brings a new disk image format",
+      "href": "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
       "title": "The Python Language Summit 2025",
       "href": "https://pyfound.blogspot.com/2025/06/python-language-summit-2025.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "What I talk about when I talk about IRs",
       "href": "https://bernsteinbear.com/blog/irs/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Writing a Verified Postfix Calculator in Ada/SPARK",
       "href": "https://pyjarrett.github.io/2025/06/10/postfix-calculator.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
+      "index": 20
     },
     {
       "title": "diceomatic: a DSL for making children's dice games",
       "href": "https://robertheaton.com/diceomatic/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Verse Language",
       "href": "https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Reflections on Sudoku, Or the Impossibility of Systematizing Thought",
       "href": "https://rjp.io/blog/2025-06-07-reflections-on-sudoku",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Whatever happened to sandboxfs?",
       "href": "https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research",
       "href": "http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Raku's \"core\"",
-      "href": "https://gist.github.com/raiph/849a4a9d8875542fb86df2b2eda89296",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 24
-    },
-    {
-      "title": "Avoiding generative models is the rational and responsible thing to do",
-      "href": "https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/",
-      "points": "",
-      "comments": "\n              85 comments",
       "index": 25
     }
   ]
