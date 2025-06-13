@@ -1,25 +1,25 @@
 {
-  "date": "Thursday, June 12, 2025 at 11:25 PM GMT-5",
+  "date": "Friday, June 13, 2025 at 12:20 AM GMT-5",
   "articles": [
     {
       "title": "jemalloc Postmortem",
       "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 1
     },
     {
       "title": "Cursor YOLO deleted everything in my computer",
       "href": "https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              15 comments",
       "index": 2
     },
     {
       "title": "Next.js 15.1+ is unusable outside of Vercel",
       "href": "https://omarabid.com/nextjs-vercel",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              29 comments",
       "index": 3
     },
     {
@@ -58,45 +58,45 @@
       "index": 8
     },
     {
+      "title": "Three Algorithms for YSH Syntax Highlighting",
+      "href": "https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
       "title": "Solving LinkedIn Queens with SMT",
       "href": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 9
+      "comments": "\n              3 comments",
+      "index": 10
     },
     {
       "title": "Architecture Decision Records",
       "href": "https://www.beflagrant.com/blog/adrs",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "“Localhost tracking” explained. It could cost Meta €32b",
-      "href": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could",
-      "points": "",
-      "comments": "\n              40 comments",
       "index": 11
-    },
-    {
-      "title": "Three Algorithms for YSH Syntax Highlighting",
-      "href": "https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
     },
     {
       "title": "Asterinas: A Linux ABI-compatible, Rust-based framekernel OS",
       "href": "https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "macOS Tahoe brings a new disk image format",
+      "href": "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 13
     },
     {
-      "title": "EU launches EU-based, privacy-focused DNS resolution service",
-      "href": "https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/",
+      "title": "“Localhost tracking” explained. It could cost Meta €32b",
+      "href": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              40 comments",
       "index": 14
     },
     {
@@ -107,17 +107,17 @@
       "index": 15
     },
     {
+      "title": "EU launches EU-based, privacy-focused DNS resolution service",
+      "href": "https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 16
+    },
+    {
       "title": "Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel",
       "href": "https://www.phoronix.com/news/Linux-DAMON-By-Default-No",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 16
-    },
-    {
-      "title": "macOS Tahoe brings a new disk image format",
-      "href": "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "diceomatic: a DSL for making children's dice games",
+      "href": "https://robertheaton.com/diceomatic/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
       "title": "What I talk about when I talk about IRs",
       "href": "https://bernsteinbear.com/blog/irs/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Writing a Verified Postfix Calculator in Ada/SPARK",
       "href": "https://pyjarrett.github.io/2025/06/10/postfix-calculator.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "diceomatic: a DSL for making children's dice games",
-      "href": "https://robertheaton.com/diceomatic/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 21
-    },
-    {
-      "title": "Verse Language",
-      "href": "https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 22
-    },
-    {
-      "title": "Reflections on Sudoku, Or the Impossibility of Systematizing Thought",
-      "href": "https://rjp.io/blog/2025-06-07-reflections-on-sudoku",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Whatever happened to sandboxfs?",
-      "href": "https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 24
     },
     {
       "title": "CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research",
       "href": "http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Verse Language",
+      "href": "https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference",
+      "points": "",
+      "comments": "\n              20 comments",
+      "index": 23
+    },
+    {
+      "title": "Reflections on Sudoku, Or the Impossibility of Systematizing Thought",
+      "href": "https://rjp.io/blog/2025-06-07-reflections-on-sudoku",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
+    },
+    {
+      "title": "Whatever happened to sandboxfs?",
+      "href": "https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 25
     }
   ]
