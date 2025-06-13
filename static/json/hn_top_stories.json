@@ -1,214 +1,214 @@
 {
-  "date": "Thursday, June 12, 2025 at 8:40 PM GMT-5",
+  "date": "Thursday, June 12, 2025 at 10:15 PM GMT-5",
   "articles": [
     {
-      "title": "Frequent reauth doesn't make you more secure",
-      "href": "https://tailscale.com/blog/frequent-reath-security",
-      "points": "597 points",
-      "comments": "270 comments",
+      "title": "Jemalloc Postmortem",
+      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
+      "points": "140 points",
+      "comments": "26 comments",
       "index": 1
     },
     {
-      "title": "jemalloc Postmortem",
-      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
-      "points": "4 points",
-      "comments": "discuss",
+      "title": "Frequent reauth doesn't make you more secure",
+      "href": "https://tailscale.com/blog/frequent-reath-security",
+      "points": "663 points",
+      "comments": "298 comments",
       "index": 2
+    },
+    {
+      "title": "Rendering Crispy Text on the GPU",
+      "href": "https://osor.io/text",
+      "points": "20 points",
+      "comments": "1 comment",
+      "index": 3
     },
     {
       "title": "A Dark Adtech Empire Fed by Fake CAPTCHAs",
       "href": "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/",
-      "points": "65 points",
-      "comments": "4 comments",
-      "index": 3
-    },
-    {
-      "title": "The Case for Software Craftsmanship in the Era of Vibes",
-      "href": "https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes",
-      "points": "34 points",
-      "comments": "6 comments",
+      "points": "86 points",
+      "comments": "13 comments",
       "index": 4
     },
     {
       "title": "A receipt printer cured my procrastination",
       "href": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
-      "points": "770 points",
-      "comments": "434 comments",
+      "points": "797 points",
+      "comments": "444 comments",
       "index": 5
+    },
+    {
+      "title": "Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore",
+      "href": "https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores",
+      "points": "8 points",
+      "comments": "1 comment",
+      "index": 6
     },
     {
       "title": "iPhone 11 emulation done in QEMU",
       "href": "https://github.com/ChefKissInc/QEMUAppleSilicon",
-      "points": "214 points",
-      "comments": "17 comments",
-      "index": 6
-    },
-    {
-      "title": "Being Full of Value‑Added Shit",
-      "href": "https://feld.com/archives/2025/06/being-full-of-value%e2%80%91added-shit/",
-      "points": "65 points",
-      "comments": "39 comments",
+      "points": "230 points",
+      "comments": "18 comments",
       "index": 7
     },
     {
       "title": "Show HN: Tritium – The Legal IDE in Rust",
       "href": "https://tritium.legal/preview",
-      "points": "130 points",
-      "comments": "66 comments",
+      "points": "150 points",
+      "comments": "71 comments",
       "index": 8
     },
     {
       "title": "The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins",
       "href": "https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins",
-      "points": "28 points",
-      "comments": "10 comments",
+      "points": "37 points",
+      "comments": "11 comments",
       "index": 9
     },
     {
       "title": "Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)",
       "href": "https://github.com/hunterirving/pico-crossing",
-      "points": "52 points",
-      "comments": "4 comments",
+      "points": "68 points",
+      "comments": "8 comments",
       "index": 10
     },
     {
       "title": "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
       "href": "https://arxiv.org/abs/2504.06932",
-      "points": "208 points",
-      "comments": "203 comments",
+      "points": "213 points",
+      "comments": "206 comments",
       "index": 11
-    },
-    {
-      "title": "Worldwide power grid with glass insulated HVDC cables",
-      "href": "https://omattos.com/2025/06/12/glass-hvdc-cables.html",
-      "points": "26 points",
-      "comments": "16 comments",
-      "index": 12
     },
     {
       "title": "Show HN: McWig – A modal, Vim-like text editor written in Go",
       "href": "https://github.com/firstrow/mcwig",
-      "points": "59 points",
+      "points": "74 points",
       "comments": "8 comments",
-      "index": 13
+      "index": 12
     },
     {
       "title": "Rust compiler performance",
       "href": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
-      "points": "159 points",
-      "comments": "126 comments",
+      "points": "168 points",
+      "comments": "130 comments",
+      "index": 13
+    },
+    {
+      "title": "Worldwide power grid with glass insulated HVDC cables",
+      "href": "https://omattos.com/2025/06/12/glass-hvdc-cables.html",
+      "points": "41 points",
+      "comments": "25 comments",
       "index": 14
+    },
+    {
+      "title": "Why does my ripped CD have messed up track names? And why is one track missing?",
+      "href": "https://www.akpain.net/blog/inside-a-cd/",
+      "points": "97 points",
+      "comments": "104 comments",
+      "index": 15
+    },
+    {
+      "title": "Solving LinkedIn Queens with SMT",
+      "href": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
+      "points": "89 points",
+      "comments": "32 comments",
+      "index": 16
     },
     {
       "title": "Roundtable (YC S23) Is Hiring a President / CRO",
       "href": "https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding",
       "points": "",
       "comments": "hide",
-      "index": 15
-    },
-    {
-      "title": "Solving LinkedIn Queens with SMT",
-      "href": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
-      "points": "85 points",
-      "comments": "31 comments",
-      "index": 16
-    },
-    {
-      "title": "Why does my ripped CD have messed up track names? And why is one track missing?",
-      "href": "https://www.akpain.net/blog/inside-a-cd/",
-      "points": "88 points",
-      "comments": "98 comments",
       "index": 17
     },
     {
       "title": "Microsoft Office migration from Source Depot to Git",
       "href": "https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/",
-      "points": "296 points",
-      "comments": "242 comments",
+      "points": "302 points",
+      "comments": "244 comments",
       "index": 18
     },
     {
-      "title": "Helion: A modern fast paced Doom FPS engine in C#",
-      "href": "https://github.com/Helion-Engine/Helion",
-      "points": "129 points",
-      "comments": "51 comments",
+      "title": "Chatterbox TTS",
+      "href": "https://github.com/resemble-ai/chatterbox",
+      "points": "585 points",
+      "comments": "174 comments",
       "index": 19
     },
     {
       "title": "First thoughts on o3 pro",
       "href": "https://www.latent.space/p/o3-pro",
-      "points": "102 points",
-      "comments": "90 comments",
+      "points": "117 points",
+      "comments": "98 comments",
       "index": 20
     },
     {
-      "title": "Chatterbox TTS",
-      "href": "https://github.com/resemble-ai/chatterbox",
-      "points": "578 points",
-      "comments": "172 comments",
+      "title": "Helion: A modern fast paced Doom FPS engine in C#",
+      "href": "https://github.com/Helion-Engine/Helion",
+      "points": "132 points",
+      "comments": "51 comments",
       "index": 21
-    },
-    {
-      "title": "Ask HN: Have you not accepted or left a job because it was immoral?",
-      "href": "item?id=44264754",
-      "points": "3 points",
-      "comments": "4 comments",
-      "index": 22
     },
     {
       "title": "Dancing brainwaves: How sound reshapes your brain networks in real time",
       "href": "https://www.sciencedaily.com/releases/2025/06/250602155001.htm",
-      "points": "136 points",
-      "comments": "34 comments",
+      "points": "139 points",
+      "comments": "38 comments",
+      "index": 22
+    },
+    {
+      "title": "The Case for Software Craftsmanship in the Era of Vibes",
+      "href": "https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes",
+      "points": "66 points",
+      "comments": "16 comments",
       "index": 23
     },
     {
       "title": "Quantum Computation Lecture Notes (2022)",
       "href": "https://math.mit.edu/~shor/435-LN/",
-      "points": "112 points",
+      "points": "116 points",
       "comments": "42 comments",
       "index": 24
     },
     {
-      "title": "Humans have nasal respiratory fingerprints",
-      "href": "https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4",
-      "points": "49 points",
-      "comments": "24 comments",
+      "title": "US-backed Israeli company's spyware used to target European journalists",
+      "href": "https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb",
+      "points": "495 points",
+      "comments": "234 comments",
       "index": 25
+    },
+    {
+      "title": "Being full of value‑added shit",
+      "href": "https://feld.com/archives/2025/06/being-full-of-value%e2%80%91added-shit/",
+      "points": "75 points",
+      "comments": "57 comments",
+      "index": 26
     },
     {
       "title": "Sorcerer (YC S24) raises $3.9M to launch more weather balloons",
       "href": "https://www.axios.com/pro/climate-deals/2025/06/12/sorcerer-seed-weather-balloons",
-      "points": "35 points",
-      "comments": "50 comments",
-      "index": 26
+      "points": "38 points",
+      "comments": "57 comments",
+      "index": 27
     },
     {
-      "title": "Ask HN: Can anybody clarify why OpenAI reasoning now shows non-English thoughts?",
-      "href": "item?id=44264325",
-      "points": "9 points",
-      "comments": "16 comments",
-      "index": 27
+      "title": "Humans have nasal respiratory fingerprints",
+      "href": "https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4",
+      "points": "53 points",
+      "comments": "24 comments",
+      "index": 28
     },
     {
       "title": "GCP Outage",
       "href": "https://status.cloud.google.com/",
-      "points": "1318 points",
-      "comments": "470 comments",
-      "index": 28
-    },
-    {
-      "title": "US-backed Israeli company's spyware used to target European journalists",
-      "href": "https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb",
-      "points": "467 points",
-      "comments": "224 comments",
+      "points": "1343 points",
+      "comments": "473 comments",
       "index": 29
     },
     {
       "title": "Seedance 1.0",
       "href": "https://seed.bytedance.com/en/seedance",
-      "points": "175 points",
-      "comments": "83 comments",
+      "points": "184 points",
+      "comments": "86 comments",
       "index": 30
     }
   ]

@@ -1,46 +1,46 @@
 {
-  "date": "Thursday, June 12, 2025 at 8:40 PM GMT-5",
+  "date": "Thursday, June 12, 2025 at 10:15 PM GMT-5",
   "articles": [
     {
       "title": "Next.js 15.1+ is unusable outside of Vercel",
       "href": "https://omarabid.com/nextjs-vercel",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              27 comments",
       "index": 1
     },
     {
       "title": "Cursor YOLO deleted everything in my computer",
       "href": "https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              13 comments",
       "index": 2
+    },
+    {
+      "title": "jemalloc Postmortem",
+      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 3
     },
     {
       "title": "Rumour: Google intends to discontinue the Android Open Source Project",
       "href": "https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 3
+      "comments": "\n              15 comments",
+      "index": 4
     },
     {
       "title": "Frequent reauth doesn't make you more secure",
       "href": "https://tailscale.com/blog/frequent-reath-security",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "AI Boom Drives 150% Surge in Indirect Emissions at Major Tech Firms, UN Warns",
       "href": "https://esgnews.com/ai-boom-drives-150-surge-in-indirect-emissions-at-major-tech-firms-un-warns/",
       "points": "",
-      "comments": "\n              16 comments",
-      "index": 5
-    },
-    {
-      "title": "How much EU is in DNS4EU?",
-      "href": "https://techlog.jenslink.net/posts/dns4eu/",
-      "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              17 comments",
       "index": 6
     },
     {
@@ -51,59 +51,59 @@
       "index": 7
     },
     {
+      "title": "How much EU is in DNS4EU?",
+      "href": "https://techlog.jenslink.net/posts/dns4eu/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 8
+    },
+    {
       "title": "Solving LinkedIn Queens with SMT",
       "href": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Architecture Decision Records",
       "href": "https://www.beflagrant.com/blog/adrs",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "“Localhost tracking” explained. It could cost Meta €32b",
       "href": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could",
       "points": "",
       "comments": "\n              40 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "EU launches EU-based, privacy-focused DNS resolution service",
       "href": "https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 11
+      "index": 12
+    },
+    {
+      "title": "Three Algorithms for YSH Syntax Highlighting",
+      "href": "https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 13
     },
     {
       "title": "Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel",
       "href": "https://www.phoronix.com/news/Linux-DAMON-By-Default-No",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 12
-    },
-    {
-      "title": "jemalloc Postmortem",
-      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
+      "comments": "\n              5 comments",
+      "index": 14
     },
     {
       "title": "The Case for Software Craftsmanship in the Era of Vibes",
       "href": "https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "Writing a Verified Postfix Calculator in Ada/SPARK",
-      "href": "https://pyjarrett.github.io/2025/06/10/postfix-calculator.html",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
+      "title": "What I talk about when I talk about IRs",
+      "href": "https://bernsteinbear.com/blog/irs/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Writing a Verified Postfix Calculator in Ada/SPARK",
+      "href": "https://pyjarrett.github.io/2025/06/10/postfix-calculator.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
       "title": "diceomatic: a DSL for making children's dice games",
       "href": "https://robertheaton.com/diceomatic/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Verse Language",
       "href": "https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 18
-    },
-    {
-      "title": "Whatever happened to sandboxfs?",
-      "href": "https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Reflections on Sudoku, Or the Impossibility of Systematizing Thought",
       "href": "https://rjp.io/blog/2025-06-07-reflections-on-sudoku",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Raku's \"core\"",
-      "href": "https://gist.github.com/raiph/849a4a9d8875542fb86df2b2eda89296",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 21
     },
     {
-      "title": "Avoiding generative models is the rational and responsible thing to do",
-      "href": "https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/",
+      "title": "Whatever happened to sandboxfs?",
+      "href": "https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs",
       "points": "",
-      "comments": "\n              85 comments",
+      "comments": "\n              9 comments",
       "index": 22
     },
     {
       "title": "CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research",
       "href": "http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "Analysing FIT data with Perl: producing PNG plots",
-      "href": "https://peateasea.de/analysing-fit-data-with-perl-producing-png-plots/",
+      "title": "Raku's \"core\"",
+      "href": "https://gist.github.com/raiph/849a4a9d8875542fb86df2b2eda89296",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              11 comments",
       "index": 24
     },
     {
-      "title": "Ruby on Rails Audit Complete",
-      "href": "https://ostif.org/ruby-on-rails-audit-complete/",
+      "title": "Avoiding generative models is the rational and responsible thing to do",
+      "href": "https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              85 comments",
       "index": 25
     }
   ]
