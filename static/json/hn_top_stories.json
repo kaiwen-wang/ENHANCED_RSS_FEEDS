@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, June 14, 2025 at 11:20 AM GMT-5",
+  "date": "Saturday, June 14, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
       "href": "https://github.com/yousef-rafat/miniDiffusion",
-      "points": "106 points",
-      "comments": "13 comments",
+      "points": "140 points",
+      "comments": "17 comments",
       "index": 1
     },
     {
       "title": "Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)",
       "href": "https://www.righto.com/2025/06/inside-apollo-fdai.html",
-      "points": "21 points",
-      "comments": "4 comments",
+      "points": "32 points",
+      "comments": "8 comments",
       "index": 2
     },
     {
       "title": "Unsupervised Elicitation of Language Models",
       "href": "https://arxiv.org/abs/2506.10139",
-      "points": "69 points",
+      "points": "81 points",
       "comments": "5 comments",
       "index": 3
     },
     {
       "title": "Solar Orbiter gets world-first views of the Sun's poles",
       "href": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
-      "points": "52 points",
-      "comments": "3 comments",
+      "points": "59 points",
+      "comments": "4 comments",
       "index": 4
     },
     {
       "title": "Peano arithmetic is enough, because Peano arithmetic  encodes computation",
       "href": "https://math.stackexchange.com/a/5075056/6708",
-      "points": "161 points",
-      "comments": "53 comments",
+      "points": "171 points",
+      "comments": "62 comments",
       "index": 5
     },
     {
       "title": "Last fifty years of integer linear programming: Recent practical advances",
       "href": "https://inria.hal.science/hal-04776866v1",
-      "points": "109 points",
-      "comments": "12 comments",
+      "points": "118 points",
+      "comments": "16 comments",
       "index": 6
     },
     {
       "title": "The Many Sides of Erik Satie",
       "href": "https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/",
-      "points": "82 points",
-      "comments": "15 comments",
+      "points": "88 points",
+      "comments": "20 comments",
       "index": 7
     },
     {
-      "title": "How to Build Conscious Machines",
-      "href": "https://osf.io/preprints/thesiscommons/wehmg_v1",
-      "points": "33 points",
-      "comments": "28 comments",
+      "title": "SSHTron: A multiplayer lightcycle game that runs through SSH",
+      "href": "https://github.com/zachlatta/sshtron",
+      "points": "15 points",
+      "comments": "2 comments",
       "index": 8
     },
     {
       "title": "SIMD-friendly algorithms for substring searching (2018)",
       "href": "http://0x80.pl/notesen/2016-11-28-simd-strfind.html",
-      "points": "151 points",
-      "comments": "26 comments",
+      "points": "155 points",
+      "comments": "27 comments",
       "index": 9
     },
     {
       "title": "Slowing the flow of core-dump-related CVEs",
       "href": "https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/",
-      "points": "56 points",
-      "comments": "8 comments",
+      "points": "58 points",
+      "comments": "9 comments",
       "index": 10
-    },
-    {
-      "title": "Endometriosis is an interesting disease",
-      "href": "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting",
-      "points": "244 points",
-      "comments": "128 comments",
-      "index": 11
-    },
-    {
-      "title": "Texting myself the weather every day",
-      "href": "https://bensilverman.co.uk/posts/daily-weather-sms/",
-      "points": "17 points",
-      "comments": "17 comments",
-      "index": 12
-    },
-    {
-      "title": "Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix",
-      "href": "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d",
-      "points": "101 points",
-      "comments": "66 comments",
-      "index": 13
-    },
-    {
-      "title": "Me an' Algernon – grappling with (temporary) cognitive decline",
-      "href": "https://tidyfirst.substack.com/p/me-an-algernon",
-      "points": "64 points",
-      "comments": "33 comments",
-      "index": 14
     },
     {
       "title": "Solidroad (YC W25) Is Hiring",
       "href": "https://solidroad.com/careers",
       "points": "",
       "comments": "hide",
-      "index": 15
+      "index": 11
+    },
+    {
+      "title": "Endometriosis is an interesting disease",
+      "href": "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting",
+      "points": "254 points",
+      "comments": "149 comments",
+      "index": 12
+    },
+    {
+      "title": "Writing a Truth Oracle in Lisp",
+      "href": "https://lambda-cove.net/posts/truth-oracle-lisp/",
+      "points": "20 points",
+      "comments": "2 comments",
+      "index": 13
+    },
+    {
+      "title": "Texting myself the weather every day",
+      "href": "https://bensilverman.co.uk/posts/daily-weather-sms/",
+      "points": "20 points",
+      "comments": "26 comments",
+      "index": 14
     },
     {
       "title": "TimeGuessr",
       "href": "https://timeguessr.com/",
-      "points": "169 points",
-      "comments": "34 comments",
+      "points": "175 points",
+      "comments": "35 comments",
+      "index": 15
+    },
+    {
+      "title": "\"Language and Image Minus Cognition.\" Leif Weatherby on LLMs",
+      "href": "https://www.jhiblog.org/2025/06/11/language-and-image-minus-cognition-an-interview-with-leif-weatherby/",
+      "points": "8 points",
+      "comments": "2 comments",
       "index": 16
     },
     {
       "title": "Filedb: Disk-based key-value store inspired by Bitcask",
       "href": "https://github.com/rajivharlalka/filedb",
-      "points": "89 points",
+      "points": "94 points",
       "comments": "9 comments",
       "index": 17
     },
     {
-      "title": "\"Language and Image Minus Cognition.\" Leif Weatherby on LLMs",
-      "href": "https://www.jhiblog.org/2025/06/11/language-and-image-minus-cognition-an-interview-with-leif-weatherby/",
-      "points": "5 points",
-      "comments": "discuss",
+      "title": "Liquid Glass – WWDC25 [video]",
+      "href": "https://developer.apple.com/videos/play/wwdc2025/219",
+      "points": "126 points",
+      "comments": "222 comments",
       "index": 18
     },
     {
-      "title": "Liquid Glass – WWDC25 [video]",
-      "href": "https://developer.apple.com/videos/play/wwdc2025/219",
-      "points": "116 points",
-      "comments": "211 comments",
+      "title": "Me an' Algernon – grappling with (temporary) cognitive decline",
+      "href": "https://tidyfirst.substack.com/p/me-an-algernon",
+      "points": "68 points",
+      "comments": "40 comments",
       "index": 19
     },
     {
       "title": "Implementing Logic Programming",
       "href": "https://btmc.substack.com/p/implementing-logic-programming",
-      "points": "161 points",
-      "comments": "51 comments",
+      "points": "163 points",
+      "comments": "52 comments",
       "index": 20
     },
     {
       "title": "Self-Adapting Language Models",
       "href": "https://arxiv.org/abs/2506.10943",
-      "points": "180 points",
+      "points": "185 points",
       "comments": "49 comments",
       "index": 21
     },
     {
-      "title": "Student discovers fungus predicted by Albert Hoffman",
-      "href": "https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor",
-      "points": "125 points",
-      "comments": "95 comments",
+      "title": "Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix",
+      "href": "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d",
+      "points": "104 points",
+      "comments": "71 comments",
       "index": 22
     },
     {
       "title": "Mollusk shell assemblages as a tool for identifying unaltered seagrass beds",
       "href": "https://www.int-res.com/abstracts/meps/v760/meps14839",
-      "points": "10 points",
+      "points": "11 points",
       "comments": "discuss",
       "index": 23
     },
     {
+      "title": "Student discovers fungus predicted by Albert Hoffman",
+      "href": "https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor",
+      "points": "129 points",
+      "comments": "101 comments",
+      "index": 24
+    },
+    {
       "title": "The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More",
       "href": "https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360",
-      "points": "146 points",
-      "comments": "151 comments",
-      "index": 24
+      "points": "156 points",
+      "comments": "153 comments",
+      "index": 25
     },
     {
       "title": "The international standard for identifying postal items",
       "href": "https://www.akpain.net/blog/s10-upu/",
-      "points": "79 points",
+      "points": "84 points",
       "comments": "17 comments",
-      "index": 25
+      "index": 26
     },
     {
       "title": "If the moon were only 1 pixel: A tediously accurate solar system model (2014)",
       "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
-      "points": "810 points",
-      "comments": "244 comments",
-      "index": 26
+      "points": "814 points",
+      "comments": "245 comments",
+      "index": 27
     },
     {
       "title": "Whatever Happened to Sandboxfs?",
       "href": "https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs",
-      "points": "62 points",
+      "points": "63 points",
       "comments": "8 comments",
-      "index": 27
-    },
-    {
-      "title": "Protecting your code from other people's bugs",
-      "href": "https://doi.org/10.1145/3733699",
-      "points": "18 points",
-      "comments": "2 comments",
       "index": 28
     },
     {
       "title": "I convinced HP's board to buy Palm and watched them kill it",
       "href": "https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm",
-      "points": "609 points",
-      "comments": "472 comments",
+      "points": "614 points",
+      "comments": "476 comments",
       "index": 29
     },
     {
-      "title": "Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh",
-      "href": "https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass",
-      "points": "296 points",
-      "comments": "299 comments",
+      "title": "What Is Open Source?",
+      "href": "https://werd.io/what-is-open-source/",
+      "points": "6 points",
+      "comments": "5 comments",
       "index": 30
     }
   ]
