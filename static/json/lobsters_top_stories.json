@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, June 14, 2025 at 1:25 PM GMT-5",
+  "date": "Saturday, June 14, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "todo.txt tasks in my TRMNL",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
-      "title": "OxCaml, Jane Street's extension of OCaml is now open-source",
-      "href": "https://oxcaml.org",
-      "points": "",
-      "comments": "\n              36 comments",
-      "index": 2
-    },
-    {
       "title": "Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming",
       "href": "https://contextgeneric.dev/blog/hypershell-release/",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 2
+    },
+    {
+      "title": "OxCaml, Jane Street's extension of OCaml is now open-source",
+      "href": "https://oxcaml.org",
+      "points": "",
+      "comments": "\n              38 comments",
       "index": 3
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
+      "title": "Datalog in Rust",
+      "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
+    },
+    {
       "title": "Tattoy: a text-based terminal compositor",
       "href": "https://tattoy.sh/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 8
-    },
-    {
-      "title": "The fastest way to detect a vowel in a string",
-      "href": "https://austinhenley.com/blog/vowels.html",
-      "points": "",
-      "comments": "\n              15 comments",
       "index": 9
     },
     {
@@ -72,108 +72,108 @@
       "index": 10
     },
     {
-      "title": "Datalog in Rust",
-      "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
+      "title": "The fastest way to detect a vowel in a string",
+      "href": "https://austinhenley.com/blog/vowels.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              15 comments",
       "index": 11
     },
     {
       "title": "Implementing Logic Programming",
       "href": "https://btmc.substack.com/p/implementing-logic-programming",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 12
     },
     {
       "title": "C2y: Hitting the Ground Running",
       "href": "https://thephd.dev/c2y-hitting-the-ground-running",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 13
+    },
+    {
+      "title": "Mosh: the mobile shell",
+      "href": "https://mosh.org",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)",
+      "href": "http://www.righto.com/2025/06/inside-apollo-fdai.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
     },
     {
       "title": "Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix",
       "href": "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 14
+      "index": 16
     },
     {
       "title": "APL Style: Patterns/Anti-patterns",
       "href": "https://sway.cloud.microsoft/b1pRwmzuGjqB30On",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 15
+      "index": 17
     },
     {
       "title": "filedb: Disk Based Key-Value Store Inspired by Bitcask",
       "href": "https://github.com/rajivharlalka/filedb",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "\"Exploring the Amiga\" blog series (2018)",
       "href": "https://www.thedigitalcatonline.com/categories/amiga/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 19
+    },
+    {
+      "title": "How the Final Cartridge III Freezer works",
+      "href": "https://www.pagetable.com/?p=1810",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "Self-referential abstractions: A quick look at the wacky epistemology of analog circuitry",
       "href": "https://lcamtuf.coredump.cx/blog/abstractions/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 21
     },
     {
       "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
       "href": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 22
     },
     {
       "title": "A meta-analysis of three different notions of software complexity",
       "href": "https://typesanitizer.com/blog/complexity-definitions.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Introducing the twom database format",
       "href": "https://www.fastmail.com/blog/introducing-twom/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 21
+      "index": 24
     },
     {
       "title": "Asterinas: A Linux ABI-compatible, Rust-based framekernel OS",
       "href": "https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 22
-    },
-    {
-      "title": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
-      "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 23
-    },
-    {
-      "title": "Cursor YOLO deleted everything in my computer",
-      "href": "https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131",
-      "points": "",
-      "comments": "\n              31 comments",
-      "index": 24
-    },
-    {
-      "title": "100 years of Zermelo’s axiom of choice: What was the problem with it?",
-      "href": "https://research.mietek.io/mi.MartinLof2006.html",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 25
     }
   ]
