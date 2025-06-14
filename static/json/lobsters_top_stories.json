@@ -1,11 +1,11 @@
 {
-  "date": "Friday, June 13, 2025 at 8:40 PM GMT-5",
+  "date": "Friday, June 13, 2025 at 10:10 PM GMT-5",
   "articles": [
     {
       "title": "OxCaml, Jane Street's extension of OCaml is now open-source",
       "href": "https://oxcaml.org",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              20 comments",
       "index": 1
     },
     {
@@ -33,147 +33,147 @@
       "title": "strace tips for better debugging",
       "href": "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 5
+    },
+    {
+      "title": "Solving LinkedIn Queens with APL",
+      "href": "https://pitr.ca/2025-06-14-queens",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 6
     },
     {
       "title": "Introducing the twom database format",
       "href": "https://www.fastmail.com/blog/introducing-twom/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 6
+      "index": 7
+    },
+    {
+      "title": "Asterinas: A Linux ABI-compatible, Rust-based framekernel OS",
+      "href": "https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 8
     },
     {
       "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
       "href": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 7
+      "index": 9
+    },
+    {
+      "title": "The fastest way to detect a vowel in a string",
+      "href": "https://austinhenley.com/blog/vowels.html",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 10
     },
     {
       "title": "Cursor YOLO deleted everything in my computer",
       "href": "https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131",
       "points": "",
       "comments": "\n              30 comments",
-      "index": 8
-    },
-    {
-      "title": "Asterinas: A Linux ABI-compatible, Rust-based framekernel OS",
-      "href": "https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 9
+      "index": 11
     },
     {
       "title": "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
       "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 10
-    },
-    {
-      "title": "The fastest way to detect a vowel in a string",
-      "href": "https://austinhenley.com/blog/vowels.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "100 years of Zermelo’s axiom of choice: What was the problem with it?",
       "href": "https://research.mietek.io/mi.MartinLof2006.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Modularizing George Cave's eInk Energy Dashboard",
       "href": "https://slipway.co/blog/eink-energy-dashboard",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Next.js 15.1+ is unusable outside of Vercel",
       "href": "https://omarabid.com/nextjs-vercel",
       "points": "",
       "comments": "\n              37 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Frequent reauth doesn't make you more secure",
       "href": "https://tailscale.com/blog/frequent-reath-security",
       "points": "",
-      "comments": "\n              49 comments",
-      "index": 15
+      "comments": "\n              53 comments",
+      "index": 16
+    },
+    {
+      "title": "filedb: Disk Based Key-Value Store Inspired by Bitcask",
+      "href": "https://github.com/rajivharlalka/filedb",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "macOS Tahoe brings a new disk image format",
       "href": "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "HTML WARDen (an HTML-based wiki)",
       "href": "https://ratfactor.com/htmlwarden/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "Solving LinkedIn Queens with APL",
-      "href": "https://pitr.ca/2025-06-14-queens",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Rendering crispy text on the GPU",
-      "href": "https://osor.io/text",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 19
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/dicru5/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              23 comments",
-      "index": 20
-    },
-    {
-      "title": "Rumour: Google intends to discontinue the Android Open Source Project",
-      "href": "https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/",
-      "points": "",
-      "comments": "\n              29 comments",
-      "index": 21
     },
     {
       "title": "StarMalloc: verified memory allocator",
       "href": "https://dl.acm.org/doi/10.1145/3689773",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "C2y: Hitting the Ground Running",
+      "href": "https://thephd.dev/c2y-hitting-the-ground-running",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Rendering crispy text on the GPU",
+      "href": "https://osor.io/text",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 22
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/dicru5/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              24 comments",
+      "index": 23
+    },
+    {
+      "title": "Rumour: Google intends to discontinue the Android Open Source Project",
+      "href": "https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/",
+      "points": "",
+      "comments": "\n              29 comments",
+      "index": 24
     },
     {
       "title": "Three Algorithms for YSH Syntax Highlighting",
       "href": "https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 23
-    },
-    {
-      "title": "The Hat, the Spectre and SAT solvers",
-      "href": "https://www.nhatcher.com/post/on-hats-and-sats/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "We Live In a Golden Age of Interoperability",
-      "href": "https://borretti.me/article/we-live-in-a-golden-age-of-interoperability",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 25
     }
   ]
