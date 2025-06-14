@@ -1,213 +1,213 @@
 {
-  "date": "Saturday, June 14, 2025 at 9:15 AM GMT-5",
+  "date": "Saturday, June 14, 2025 at 10:20 AM GMT-5",
   "articles": [
+    {
+      "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
+      "href": "https://github.com/yousef-rafat/miniDiffusion",
+      "points": "58 points",
+      "comments": "7 comments",
+      "index": 1
+    },
     {
       "title": "Unsupervised Elicitation of Language Models",
       "href": "https://arxiv.org/abs/2506.10139",
-      "points": "40 points",
-      "comments": "1 comment",
-      "index": 1
+      "points": "61 points",
+      "comments": "5 comments",
+      "index": 2
     },
     {
       "title": "Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix",
       "href": "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d",
-      "points": "62 points",
-      "comments": "25 comments",
-      "index": 2
+      "points": "84 points",
+      "comments": "39 comments",
+      "index": 3
     },
     {
-      "title": "\"Exploring the Amiga\" blog series (2018)",
-      "href": "https://www.thedigitalcatonline.com/categories/amiga/",
-      "points": "17 points",
+      "title": "Solar Orbiter gets world-first views of the Sun's poles",
+      "href": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
+      "points": "28 points",
       "comments": "2 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Peano arithmetic is enough, because Peano arithmetic  encodes computation",
       "href": "https://math.stackexchange.com/a/5075056/6708",
-      "points": "134 points",
-      "comments": "42 comments",
-      "index": 4
-    },
-    {
-      "title": "Cray versus Raspberry Pi",
-      "href": "https://www.aardvark.co.nz/daily/2025/0611.shtml",
-      "points": "34 points",
-      "comments": "35 comments",
+      "points": "146 points",
+      "comments": "44 comments",
       "index": 5
     },
     {
       "title": "Last fifty years of integer linear programming: Recent practical advances",
       "href": "https://inria.hal.science/hal-04776866v1",
-      "points": "79 points",
-      "comments": "1 comment",
+      "points": "93 points",
+      "comments": "8 comments",
       "index": 6
     },
     {
-      "title": "Solar Orbiter gets world-first views of the Sun's poles",
-      "href": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
-      "points": "11 points",
-      "comments": "1 comment",
+      "title": "The Many Sides of Erik Satie",
+      "href": "https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/",
+      "points": "64 points",
+      "comments": "12 comments",
       "index": 7
     },
     {
-      "title": "SIMD-friendly algorithms for substring searching",
+      "title": "SIMD-friendly algorithms for substring searching (2018)",
       "href": "http://0x80.pl/notesen/2016-11-28-simd-strfind.html",
-      "points": "126 points",
+      "points": "135 points",
       "comments": "20 comments",
       "index": 8
+    },
+    {
+      "title": "How to Build Conscious Machines",
+      "href": "https://osf.io/preprints/thesiscommons/wehmg_v1",
+      "points": "18 points",
+      "comments": "7 comments",
+      "index": 9
+    },
+    {
+      "title": "Slowing the flow of core-dump-related CVEs",
+      "href": "https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/",
+      "points": "44 points",
+      "comments": "7 comments",
+      "index": 10
     },
     {
       "title": "Solidroad (YC W25) Is Hiring",
       "href": "https://solidroad.com/careers",
       "points": "",
       "comments": "hide",
-      "index": 9
-    },
-    {
-      "title": "The Many Sides of Erik Satie",
-      "href": "https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/",
-      "points": "47 points",
-      "comments": "10 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Endometriosis is an interesting disease",
       "href": "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting",
-      "points": "214 points",
-      "comments": "102 comments",
-      "index": 11
-    },
-    {
-      "title": "Slowing the flow of core-dump-related CVEs",
-      "href": "https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/",
-      "points": "35 points",
-      "comments": "4 comments",
+      "points": "228 points",
+      "comments": "116 comments",
       "index": 12
     },
     {
-      "title": "Me an' Algernon – grappling with (temporary) cognitive decline",
-      "href": "https://tidyfirst.substack.com/p/me-an-algernon",
-      "points": "42 points",
-      "comments": "24 comments",
+      "title": "Texting myself the weather every day",
+      "href": "https://bensilverman.co.uk/posts/daily-weather-sms/",
+      "points": "11 points",
+      "comments": "4 comments",
       "index": 13
-    },
-    {
-      "title": "Filedb: Disk-based key-value store inspired by Bitcask",
-      "href": "https://github.com/rajivharlalka/filedb",
-      "points": "77 points",
-      "comments": "7 comments",
-      "index": 14
     },
     {
       "title": "TimeGuessr",
       "href": "https://timeguessr.com/",
-      "points": "141 points",
+      "points": "156 points",
       "comments": "31 comments",
+      "index": 14
+    },
+    {
+      "title": "Filedb: Disk-based key-value store inspired by Bitcask",
+      "href": "https://github.com/rajivharlalka/filedb",
+      "points": "85 points",
+      "comments": "8 comments",
       "index": 15
+    },
+    {
+      "title": "Me an' Algernon – grappling with (temporary) cognitive decline",
+      "href": "https://tidyfirst.substack.com/p/me-an-algernon",
+      "points": "49 points",
+      "comments": "31 comments",
+      "index": 16
     },
     {
       "title": "Implementing Logic Programming",
       "href": "https://btmc.substack.com/p/implementing-logic-programming",
-      "points": "153 points",
-      "comments": "47 comments",
-      "index": 16
-    },
-    {
-      "title": "Self-Adapting Language Models",
-      "href": "https://arxiv.org/abs/2506.10943",
-      "points": "165 points",
-      "comments": "47 comments",
+      "points": "159 points",
+      "comments": "49 comments",
       "index": 17
     },
     {
       "title": "Liquid Glass – WWDC25 [video]",
       "href": "https://developer.apple.com/videos/play/wwdc2025/219",
-      "points": "96 points",
-      "comments": "182 comments",
+      "points": "105 points",
+      "comments": "198 comments",
       "index": 18
     },
     {
-      "title": "The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More",
-      "href": "https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360",
-      "points": "120 points",
-      "comments": "125 comments",
+      "title": "Self-Adapting Language Models",
+      "href": "https://arxiv.org/abs/2506.10943",
+      "points": "170 points",
+      "comments": "48 comments",
       "index": 19
+    },
+    {
+      "title": "Mollusk shell assemblages as a tool for identifying unaltered seagrass beds",
+      "href": "https://www.int-res.com/abstracts/meps/v760/meps14839",
+      "points": "9 points",
+      "comments": "discuss",
+      "index": 20
     },
     {
       "title": "Student discovers fungus predicted by Albert Hoffman",
       "href": "https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor",
-      "points": "119 points",
-      "comments": "82 comments",
-      "index": 20
-    },
-    {
-      "title": "How to Build Conscious Machines",
-      "href": "https://osf.io/preprints/thesiscommons/wehmg_v1",
-      "points": "3 points",
-      "comments": "1 comment",
+      "points": "122 points",
+      "comments": "92 comments",
       "index": 21
     },
     {
-      "title": "The international standard for identifying postal items",
-      "href": "https://www.akpain.net/blog/s10-upu/",
-      "points": "68 points",
-      "comments": "17 comments",
+      "title": "The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More",
+      "href": "https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360",
+      "points": "129 points",
+      "comments": "135 comments",
       "index": 22
     },
     {
       "title": "How I uncovered a potential ancient Rome wine scam",
       "href": "https://phys.org/news/2025-06-uncovered-potential-ancient-rome-wine.html",
-      "points": "27 points",
-      "comments": "21 comments",
+      "points": "31 points",
+      "comments": "22 comments",
       "index": 23
     },
     {
-      "title": "Mollusk shell assemblages as a tool for identifying unaltered seagrass beds",
-      "href": "https://www.int-res.com/abstracts/meps/v760/meps14839",
-      "points": "7 points",
-      "comments": "discuss",
+      "title": "The international standard for identifying postal items",
+      "href": "https://www.akpain.net/blog/s10-upu/",
+      "points": "72 points",
+      "comments": "17 comments",
       "index": 24
     },
     {
       "title": "If the moon were only 1 pixel: A tediously accurate solar system model (2014)",
       "href": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
-      "points": "790 points",
-      "comments": "239 comments",
+      "points": "801 points",
+      "comments": "241 comments",
       "index": 25
     },
     {
       "title": "Protecting your code from other people's bugs",
       "href": "https://doi.org/10.1145/3733699",
-      "points": "13 points",
+      "points": "18 points",
       "comments": "2 comments",
       "index": 26
     },
     {
       "title": "Whatever Happened to Sandboxfs?",
       "href": "https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs",
-      "points": "55 points",
+      "points": "58 points",
       "comments": "8 comments",
       "index": 27
     },
     {
       "title": "I convinced HP's board to buy Palm and watched them kill it",
       "href": "https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm",
-      "points": "586 points",
-      "comments": "463 comments",
+      "points": "595 points",
+      "comments": "468 comments",
       "index": 28
     },
     {
       "title": "Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh",
       "href": "https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass",
-      "points": "274 points",
-      "comments": "285 comments",
+      "points": "286 points",
+      "comments": "294 comments",
       "index": 29
     },
     {
       "title": "100 years of Zermelo's axiom of choice: What was the problem with it? (2006)",
       "href": "https://research.mietek.io/mi.MartinLof2006.html",
-      "points": "110 points",
+      "points": "112 points",
       "comments": "118 comments",
       "index": 30
     }
