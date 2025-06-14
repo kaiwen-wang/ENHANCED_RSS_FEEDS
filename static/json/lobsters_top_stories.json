@@ -1,107 +1,107 @@
 {
-  "date": "Saturday, June 14, 2025 at 10:20 AM GMT-5",
+  "date": "Saturday, June 14, 2025 at 11:20 AM GMT-5",
   "articles": [
     {
       "title": "OxCaml, Jane Street's extension of OCaml is now open-source",
       "href": "https://oxcaml.org",
       "points": "",
-      "comments": "\n              32 comments",
+      "comments": "\n              33 comments",
       "index": 1
     },
     {
-      "title": "jemalloc Postmortem",
-      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
+      "title": "Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming",
+      "href": "https://contextgeneric.dev/blog/hypershell-release/",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              3 comments",
       "index": 2
     },
     {
       "title": "strace tips for better debugging",
       "href": "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 3
     },
     {
-      "title": "Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming",
-      "href": "https://contextgeneric.dev/blog/hypershell-release/",
+      "title": "jemalloc Postmortem",
+      "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              19 comments",
       "index": 4
-    },
-    {
-      "title": "Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge",
-      "href": "https://radicle.xyz/desktop",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 5
-    },
-    {
-      "title": "Tattoy: a text-based terminal compositor",
-      "href": "https://tattoy.sh/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 6
-    },
-    {
-      "title": "The fastest way to detect a vowel in a string",
-      "href": "https://austinhenley.com/blog/vowels.html",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 7
     },
     {
       "title": "HTML spec change: escaping < and > in attributes",
       "href": "https://developer.chrome.com/blog/escape-attributes",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 5
+    },
+    {
+      "title": "The fastest way to detect a vowel in a string",
+      "href": "https://austinhenley.com/blog/vowels.html",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 6
+    },
+    {
+      "title": "Tattoy: a text-based terminal compositor",
+      "href": "https://tattoy.sh/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 7
+    },
+    {
+      "title": "Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge",
+      "href": "https://radicle.xyz/desktop",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 8
-    },
-    {
-      "title": "Implementing Logic Programming",
-      "href": "https://btmc.substack.com/p/implementing-logic-programming",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 9
-    },
-    {
-      "title": "C2y: Hitting the Ground Running",
-      "href": "https://thephd.dev/c2y-hitting-the-ground-running",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 10
-    },
-    {
-      "title": "Datalog in Rust",
-      "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
     },
     {
       "title": "Adding public transport data to Transitous",
       "href": "https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
+      "index": 9
     },
     {
-      "title": "APL Style: Patterns/Anti-patterns",
-      "href": "https://sway.cloud.microsoft/b1pRwmzuGjqB30On",
+      "title": "Implementing Logic Programming",
+      "href": "https://btmc.substack.com/p/implementing-logic-programming",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 13
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "C2y: Hitting the Ground Running",
+      "href": "https://thephd.dev/c2y-hitting-the-ground-running",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 11
+    },
+    {
+      "title": "Datalog in Rust",
+      "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
     },
     {
       "title": "Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix",
       "href": "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
+      "title": "APL Style: Patterns/Anti-patterns",
+      "href": "https://sway.cloud.microsoft/b1pRwmzuGjqB30On",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 14
     },
     {
-      "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
-      "href": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
+      "title": "\"Exploring the Amiga\" blog series (2018)",
+      "href": "https://www.thedigitalcatonline.com/categories/amiga/",
       "points": "",
       "comments": "\n              no comments",
       "index": 15
@@ -114,8 +114,8 @@
       "index": 16
     },
     {
-      "title": "\"Exploring the Amiga\" blog series (2018)",
-      "href": "https://www.thedigitalcatonline.com/categories/amiga/",
+      "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
+      "href": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
       "points": "",
       "comments": "\n              no comments",
       "index": 17
@@ -149,17 +149,17 @@
       "index": 21
     },
     {
+      "title": "100 years of Zermelo’s axiom of choice: What was the problem with it?",
+      "href": "https://research.mietek.io/mi.MartinLof2006.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 22
+    },
+    {
       "title": "A meta-analysis of three different notions of software complexity",
       "href": "https://typesanitizer.com/blog/complexity-definitions.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "100 years of Zermelo’s axiom of choice: What was the problem with it?",
-      "href": "https://research.mietek.io/mi.MartinLof2006.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 23
     },
     {
