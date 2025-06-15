@@ -1,25 +1,25 @@
 {
-  "date": "Sunday, June 15, 2025 at 10:20 AM GMT-5",
+  "date": "Sunday, June 15, 2025 at 11:20 AM GMT-5",
   "articles": [
-    {
-      "title": "Breaking my Security Assignments",
-      "href": "https://www.akpain.net/blog/breaking-secnet-assignments/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 1
-    },
     {
       "title": "Why SSL was renamed to TLS in late 90s (2014)",
       "href": "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 1
+    },
+    {
+      "title": "Breaking my Security Assignments",
+      "href": "https://www.akpain.net/blog/breaking-secnet-assignments/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 2
     },
     {
       "title": "Mosh: the mobile shell",
       "href": "https://mosh.org",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              28 comments",
       "index": 3
     },
     {
@@ -30,31 +30,31 @@
       "index": 4
     },
     {
-      "title": "A SQLite VFS for remote SQLite databases via gRPC",
+      "title": "A SQLite VFS for remote databases via gRPC",
       "href": "https://github.com/danthegoodman1/gRPSQLite",
       "points": "",
       "comments": "\n              no comments",
       "index": 5
     },
     {
+      "title": "The Art of Lisp & Writing",
+      "href": "https://www.dreamsongs.com/ArtOfLisp.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 6
+    },
+    {
       "title": "HTML spec change: escaping < and > in attributes",
       "href": "https://developer.chrome.com/blog/escape-attributes",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming",
       "href": "https://contextgeneric.dev/blog/hypershell-release/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 7
-    },
-    {
-      "title": "The Art of Lisp & Writing",
-      "href": "https://www.dreamsongs.com/ArtOfLisp.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 8
     },
     {
@@ -65,17 +65,17 @@
       "index": 9
     },
     {
+      "title": "Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)",
+      "href": "http://www.righto.com/2025/06/inside-apollo-fdai.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
       "title": "OxCaml, Jane Street's extension of OCaml is now open-source",
       "href": "https://oxcaml.org",
       "points": "",
       "comments": "\n              48 comments",
-      "index": 10
-    },
-    {
-      "title": "Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)",
-      "href": "http://www.righto.com/2025/06/inside-apollo-fdai.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 11
     },
     {
@@ -89,7 +89,7 @@
       "title": "A meta-analysis of three different notions of software complexity",
       "href": "https://typesanitizer.com/blog/complexity-definitions.html",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 13
     },
     {
@@ -135,31 +135,31 @@
       "index": 19
     },
     {
+      "title": "C2y: Hitting the Ground Running",
+      "href": "https://thephd.dev/c2y-hitting-the-ground-running",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 20
+    },
+    {
       "title": "jemalloc Postmortem",
       "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 20
-    },
-    {
-      "title": "C2y: Hitting the Ground Running",
-      "href": "https://thephd.dev/c2y-hitting-the-ground-running",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 21
-    },
-    {
-      "title": "Tattoy: a text-based terminal compositor",
-      "href": "https://tattoy.sh/",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 22
     },
     {
       "title": "\"Exploring the Amiga\" blog series (2018)",
       "href": "https://www.thedigitalcatonline.com/categories/amiga/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Tattoy: a text-based terminal compositor",
+      "href": "https://tattoy.sh/",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 23
     },
     {
