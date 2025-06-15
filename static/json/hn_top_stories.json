@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, June 15, 2025 at 9:15 AM GMT-5",
+  "date": "Sunday, June 15, 2025 at 10:20 AM GMT-5",
   "articles": [
+    {
+      "title": "Canyon.mid",
+      "href": "https://canyonmid.com/",
+      "points": "53 points",
+      "comments": "22 comments",
+      "index": 1
+    },
     {
       "title": "Datalog in Rust",
       "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
-      "points": "84 points",
-      "comments": "7 comments",
-      "index": 1
+      "points": "123 points",
+      "comments": "11 comments",
+      "index": 2
     },
     {
       "title": "How to modify Starlink Mini to run without the built-in WiFi router",
       "href": "https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/",
-      "points": "47 points",
-      "comments": "10 comments",
-      "index": 2
+      "points": "77 points",
+      "comments": "18 comments",
+      "index": 3
     },
     {
       "title": "Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI",
       "href": "https://github.com/Kuberwastaken/meow",
-      "points": "32 points",
-      "comments": "14 comments",
-      "index": 3
-    },
-    {
-      "title": "Canyon.mid",
-      "href": "https://canyonmid.com/",
-      "points": "11 points",
-      "comments": "4 comments",
+      "points": "55 points",
+      "comments": "33 comments",
       "index": 4
     },
     {
       "title": "1k year old 3 sisters crop farm found in Northern Michigan",
       "href": "https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/",
-      "points": "26 points",
-      "comments": "1 comment",
+      "points": "55 points",
+      "comments": "19 comments",
       "index": 5
-    },
-    {
-      "title": "Competitive Hormone Supplementation Is Shaping America's Future Business Titans",
-      "href": "https://letter.palladiummag.com/p/competitive-hormone-supplementation",
-      "points": "4 points",
-      "comments": "discuss",
-      "index": 6
-    },
-    {
-      "title": "Ruby on Rails Audit Complete",
-      "href": "https://ostif.org/ruby-on-rails-audit-complete/",
-      "points": "92 points",
-      "comments": "29 comments",
-      "index": 7
-    },
-    {
-      "title": "The Art of Lisp and Writing",
-      "href": "https://www.dreamsongs.com/ArtOfLisp.html",
-      "points": "92 points",
-      "comments": "28 comments",
-      "index": 8
     },
     {
       "title": "An origin trial for a new HTML <permission> element",
       "href": "https://developer.chrome.com/blog/permission-element-origin-trial",
-      "points": "32 points",
-      "comments": "20 comments",
+      "points": "50 points",
+      "comments": "26 comments",
+      "index": 6
+    },
+    {
+      "title": "The Art of Lisp and Writing",
+      "href": "https://www.dreamsongs.com/ArtOfLisp.html",
+      "points": "105 points",
+      "comments": "35 comments",
+      "index": 7
+    },
+    {
+      "title": "Ruby on Rails Audit Complete",
+      "href": "https://ostif.org/ruby-on-rails-audit-complete/",
+      "points": "106 points",
+      "comments": "43 comments",
+      "index": 8
+    },
+    {
+      "title": "The Keyset",
+      "href": "https://dougengelbart.org/content/view/273/",
+      "points": "5 points",
+      "comments": "1 comment",
       "index": 9
     },
     {
-      "title": "Q-learning is not yet scalable",
-      "href": "https://seohong.me/blog/q-learning-is-not-yet-scalable/",
-      "points": "165 points",
-      "comments": "26 comments",
+      "title": "That 'unsubscribe' button may be a scam",
+      "href": "https://www.popsci.com/technology/email-unsubscribe-scam/",
+      "points": "17 points",
+      "comments": "27 comments",
       "index": 10
+    },
+    {
+      "title": "Childhood leukemia: how a deadly cancer became treatable",
+      "href": "https://ourworldindata.org/childhood-leukemia-treatment-history",
+      "points": "6 points",
+      "comments": "discuss",
+      "index": 11
     },
     {
       "title": "Tiny-diffusion: A minimal implementation of probabilistic diffusion models",
       "href": "https://github.com/tanelp/tiny-diffusion",
-      "points": "21 points",
+      "points": "33 points",
       "comments": "1 comment",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)",
       "href": "https://github.com/SakanaAI/text-to-lora",
-      "points": "23 points",
+      "points": "34 points",
       "comments": "discuss",
-      "index": 12
+      "index": 13
     },
     {
-      "title": "Infinite Grid of Resistors",
-      "href": "https://www.mathpages.com/home/kmath668/kmath668.htm",
-      "points": "184 points",
-      "comments": "95 comments",
-      "index": 13
+      "title": "Q-learning is not yet scalable",
+      "href": "https://seohong.me/blog/q-learning-is-not-yet-scalable/",
+      "points": "171 points",
+      "comments": "30 comments",
+      "index": 14
     },
     {
       "title": "CI/CD Observability with OpenTelemetry Step by Step Guide",
       "href": "https://signoz.io/blog/cicd-observability-with-opentelemetry/",
-      "points": "76 points",
-      "comments": "24 comments",
-      "index": 14
+      "points": "84 points",
+      "comments": "26 comments",
+      "index": 15
     },
     {
       "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
       "href": "https://github.com/yousef-rafat/miniDiffusion",
-      "points": "428 points",
+      "points": "433 points",
       "comments": "71 comments",
-      "index": 15
-    },
-    {
-      "title": "Notes on the History of the Map Tile",
-      "href": "https://placing.technology/notes-on-the-history-of-the-map-tile",
-      "points": "13 points",
-      "comments": "discuss",
       "index": 16
     },
     {
-      "title": "Meta-analysis of three different notions of software complexity",
-      "href": "https://typesanitizer.com/blog/complexity-definitions.html",
-      "points": "55 points",
-      "comments": "6 comments",
+      "title": "Infinite Grid of Resistors",
+      "href": "https://www.mathpages.com/home/kmath668/kmath668.htm",
+      "points": "189 points",
+      "comments": "96 comments",
       "index": 17
     },
     {
-      "title": "Waymo rides cost more than Uber or Lyft and people are paying anyway",
-      "href": "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/",
-      "points": "407 points",
-      "comments": "705 comments",
+      "title": "Foundations of Computer Vision",
+      "href": "https://visionbook.mit.edu",
+      "points": "12 points",
+      "comments": "discuss",
       "index": 18
-    },
-    {
-      "title": "Breaking My Security Assignments",
-      "href": "https://www.akpain.net/blog/breaking-secnet-assignments/",
-      "points": "65 points",
-      "comments": "12 comments",
-      "index": 19
     },
     {
       "title": "The Talented Ms. Highsmith",
       "href": "https://yalereview.org/article/working-for-patricia-highsmith",
-      "points": "9 points",
+      "points": "14 points",
+      "comments": "1 comment",
+      "index": 19
+    },
+    {
+      "title": "Nvidia CEO criticizes Anthropic boss over his statements on AI",
+      "href": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-slams-anthropic-chief-over-claims-of-job-eliminations-says-many-jobs-are-going-to-be-created",
+      "points": "3 points",
       "comments": "discuss",
       "index": 20
     },
     {
+      "title": "Waymo rides cost more than Uber or Lyft and people are paying anyway",
+      "href": "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/",
+      "points": "422 points",
+      "comments": "731 comments",
+      "index": 21
+    },
+    {
+      "title": "Notes on the History of the Map Tile",
+      "href": "https://placing.technology/notes-on-the-history-of-the-map-tile",
+      "points": "18 points",
+      "comments": "1 comment",
+      "index": 22
+    },
+    {
+      "title": "Cloud outage knocks out internet services across the globe",
+      "href": "https://www.zdnet.com/article/massive-cloud-outage-knocks-out-internet-services-across-the-globe/",
+      "points": "20 points",
+      "comments": "3 comments",
+      "index": 23
+    },
+    {
+      "title": "Breaking My Security Assignments",
+      "href": "https://www.akpain.net/blog/breaking-secnet-assignments/",
+      "points": "69 points",
+      "comments": "12 comments",
+      "index": 24
+    },
+    {
       "title": "AMD's AI Future Is Rack Scale 'Helios'",
       "href": "https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios",
-      "points": "102 points",
-      "comments": "52 comments",
-      "index": 21
+      "points": "105 points",
+      "comments": "57 comments",
+      "index": 25
+    },
+    {
+      "title": "Meta-analysis of three different notions of software complexity",
+      "href": "https://typesanitizer.com/blog/complexity-definitions.html",
+      "points": "59 points",
+      "comments": "8 comments",
+      "index": 26
     },
     {
       "title": "The Algebra of an Infinite Grid of Resistors",
       "href": "https://www.mathpages.com/home/kmath669/kmath669.htm",
-      "points": "33 points",
-      "comments": "6 comments",
-      "index": 22
-    },
-    {
-      "title": "Solar Orbiter gets world-first views of the Sun's poles",
-      "href": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
-      "points": "248 points",
-      "comments": "28 comments",
-      "index": 23
+      "points": "36 points",
+      "comments": "8 comments",
+      "index": 27
     },
     {
       "title": "Chicken Eyeglasses",
       "href": "https://en.wikipedia.org/wiki/Chicken_eyeglasses",
-      "points": "125 points",
-      "comments": "39 comments",
-      "index": 24
+      "points": "130 points",
+      "comments": "46 comments",
+      "index": 28
+    },
+    {
+      "title": "Solar Orbiter gets world-first views of the Sun's poles",
+      "href": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
+      "points": "255 points",
+      "comments": "28 comments",
+      "index": 29
     },
     {
       "title": "Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)",
       "href": "https://www.righto.com/2025/06/inside-apollo-fdai.html",
-      "points": "153 points",
+      "points": "154 points",
       "comments": "31 comments",
-      "index": 25
-    },
-    {
-      "title": "Bioprospectors mine microbial genomes for antibiotic gold",
-      "href": "https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06",
-      "points": "20 points",
-      "comments": "2 comments",
-      "index": 26
-    },
-    {
-      "title": "Large language models often know when they are being evaluated",
-      "href": "https://arxiv.org/abs/2505.23836",
-      "points": "59 points",
-      "comments": "73 comments",
-      "index": 27
-    },
-    {
-      "title": "Last fifty years of integer linear programming: Recent practical advances",
-      "href": "https://inria.hal.science/hal-04776866v1",
-      "points": "204 points",
-      "comments": "66 comments",
-      "index": 28
-    },
-    {
-      "title": "How multiplication is defined in Peano arithmetic",
-      "href": "http://devlinsangle.blogspot.com/2011/11/how-multiplication-is-really-defined-in.html",
-      "points": "28 points",
-      "comments": "4 comments",
-      "index": 29
-    },
-    {
-      "title": "Debunking HDR [video]",
-      "href": "https://yedlin.net/DebunkingHDR/index.html",
-      "points": "111 points",
-      "comments": "55 comments",
       "index": 30
     }
   ]
