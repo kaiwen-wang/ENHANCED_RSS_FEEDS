@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, June 15, 2025 at 12:15 PM GMT-5",
+  "date": "Sunday, June 15, 2025 at 1:25 PM GMT-5",
   "articles": [
     {
       "title": "Why SSL was renamed to TLS in late 90s (2014)",
       "href": "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 1
     },
     {
@@ -23,15 +23,15 @@
       "index": 3
     },
     {
-      "title": "todo.txt tasks in my TRMNL",
-      "href": "https://akselmo.dev/posts/todotxt-in-my-trmnl/",
+      "title": "A SQLite VFS for remote databases via gRPC",
+      "href": "https://github.com/danthegoodman1/gRPSQLite",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 4
     },
     {
-      "title": "A SQLite VFS for remote databases via gRPC",
-      "href": "https://github.com/danthegoodman1/gRPSQLite",
+      "title": "Simplest C++ callback, from SumatraPDF",
+      "href": "https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 5
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
-      "title": "HTML spec change: escaping < and > in attributes",
-      "href": "https://developer.chrome.com/blog/escape-attributes",
+      "title": "todo.txt tasks in my TRMNL",
+      "href": "https://akselmo.dev/posts/todotxt-in-my-trmnl/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              2 comments",
       "index": 7
     },
     {
-      "title": "Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming",
-      "href": "https://contextgeneric.dev/blog/hypershell-release/",
+      "title": "Modifying an HDMI dummy plug’s EDID using a Raspberry Pi",
+      "href": "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              no comments",
       "index": 8
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
+      "title": "HTML spec change: escaping < and > in attributes",
+      "href": "https://developer.chrome.com/blog/escape-attributes",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 10
+    },
+    {
+      "title": "Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming",
+      "href": "https://contextgeneric.dev/blog/hypershell-release/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 11
+    },
+    {
       "title": "How the Final Cartridge III Freezer works",
       "href": "https://www.pagetable.com/?p=1810",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 10
+      "index": 12
     },
     {
       "title": "Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)",
       "href": "http://www.righto.com/2025/06/inside-apollo-fdai.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 11
+      "index": 13
     },
     {
       "title": "OxCaml, Jane Street's extension of OCaml is now open-source",
       "href": "https://oxcaml.org",
       "points": "",
       "comments": "\n              48 comments",
-      "index": 12
-    },
-    {
-      "title": "Modular: What about the MLIR compiler infrastructure? (Democratizing AI Compute, Part 8)",
-      "href": "https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "A meta-analysis of three different notions of software complexity",
       "href": "https://typesanitizer.com/blog/complexity-definitions.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 14
+      "index": 15
+    },
+    {
+      "title": "Modular: What about the MLIR compiler infrastructure? (Democratizing AI Compute, Part 8)",
+      "href": "https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Datalog in Rust",
+      "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 17
     },
     {
       "title": "Adding public transport data to Transitous",
       "href": "https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Datalog in Rust",
-      "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "Self-referential abstractions: A quick look at the wacky epistemology of analog circuitry",
       "href": "https://lcamtuf.coredump.cx/blog/abstractions/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
+      "index": 19
     },
     {
       "title": "strace tips for better debugging",
       "href": "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix",
       "href": "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Implementing Logic Programming",
       "href": "https://btmc.substack.com/p/implementing-logic-programming",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "C2y: Hitting the Ground Running",
       "href": "https://thephd.dev/c2y-hitting-the-ground-running",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "jemalloc Postmortem",
       "href": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "\"Exploring the Amiga\" blog series (2018)",
       "href": "https://www.thedigitalcatonline.com/categories/amiga/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Tattoy: a text-based terminal compositor",
-      "href": "https://tattoy.sh/",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 24
-    },
-    {
-      "title": "The fastest way to detect a vowel in a string",
-      "href": "https://austinhenley.com/blog/vowels.html",
-      "points": "",
-      "comments": "\n              20 comments",
       "index": 25
     }
   ]
