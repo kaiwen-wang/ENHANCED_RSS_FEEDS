@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, June 15, 2025 at 7:35 AM GMT-5",
+  "date": "Sunday, June 15, 2025 at 8:25 AM GMT-5",
   "articles": [
     {
       "title": "Datalog in Rust",
       "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
-      "points": "37 points",
-      "comments": "4 comments",
+      "points": "65 points",
+      "comments": "6 comments",
       "index": 1
     },
     {
-      "title": "The Art of Lisp and Writing",
-      "href": "https://www.dreamsongs.com/ArtOfLisp.html",
-      "points": "73 points",
-      "comments": "18 comments",
+      "title": "Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI",
+      "href": "https://github.com/Kuberwastaken/meow",
+      "points": "12 points",
+      "comments": "2 comments",
       "index": 2
+    },
+    {
+      "title": "How to modify Starlink Mini to run without the built-in WiFi router",
+      "href": "https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 3
     },
     {
       "title": "Ruby on Rails Audit Complete",
       "href": "https://ostif.org/ruby-on-rails-audit-complete/",
-      "points": "53 points",
-      "comments": "7 comments",
-      "index": 3
-    },
-    {
-      "title": "Q-learning is not yet scalable",
-      "href": "https://seohong.me/blog/q-learning-is-not-yet-scalable/",
-      "points": "153 points",
-      "comments": "25 comments",
+      "points": "75 points",
+      "comments": "13 comments",
       "index": 4
     },
     {
-      "title": "CI/CD Observability with OpenTelemetry Step by Step Guide",
-      "href": "https://signoz.io/blog/cicd-observability-with-opentelemetry/",
-      "points": "62 points",
-      "comments": "19 comments",
+      "title": "The Art of Lisp and Writing",
+      "href": "https://www.dreamsongs.com/ArtOfLisp.html",
+      "points": "81 points",
+      "comments": "23 comments",
       "index": 5
     },
     {
       "title": "An origin trial for a new HTML <permission> element",
       "href": "https://developer.chrome.com/blog/permission-element-origin-trial",
-      "points": "4 points",
-      "comments": "discuss",
+      "points": "25 points",
+      "comments": "8 comments",
       "index": 6
+    },
+    {
+      "title": "Q-learning is not yet scalable",
+      "href": "https://seohong.me/blog/q-learning-is-not-yet-scalable/",
+      "points": "162 points",
+      "comments": "24 comments",
+      "index": 7
+    },
+    {
+      "title": "CI/CD Observability with OpenTelemetry Step by Step Guide",
+      "href": "https://signoz.io/blog/cicd-observability-with-opentelemetry/",
+      "points": "69 points",
+      "comments": "21 comments",
+      "index": 8
     },
     {
       "title": "Infinite Grid of Resistors",
       "href": "https://www.mathpages.com/home/kmath668/kmath668.htm",
       "points": "177 points",
-      "comments": "77 comments",
-      "index": 7
-    },
-    {
-      "title": "The Algebra of an Infinite Grid of Resistors",
-      "href": "https://www.mathpages.com/home/kmath669/kmath669.htm",
-      "points": "29 points",
-      "comments": "3 comments",
-      "index": 8
+      "comments": "82 comments",
+      "index": 9
     },
     {
       "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
       "href": "https://github.com/yousef-rafat/miniDiffusion",
-      "points": "422 points",
-      "comments": "70 comments",
-      "index": 9
-    },
-    {
-      "title": "Breaking My Security Assignments",
-      "href": "https://www.akpain.net/blog/breaking-secnet-assignments/",
-      "points": "56 points",
-      "comments": "10 comments",
+      "points": "425 points",
+      "comments": "71 comments",
       "index": 10
     },
     {
       "title": "Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)",
       "href": "https://github.com/SakanaAI/text-to-lora",
-      "points": "9 points",
+      "points": "15 points",
       "comments": "discuss",
       "index": 11
     },
     {
-      "title": "Waymo rides cost more than Uber or Lyft and people are paying anyway",
-      "href": "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/",
-      "points": "381 points",
-      "comments": "666 comments",
+      "title": "Notes on the History of the Map Tile",
+      "href": "https://placing.technology/notes-on-the-history-of-the-map-tile",
+      "points": "12 points",
+      "comments": "discuss",
       "index": 12
-    },
-    {
-      "title": "AMD's AI Future Is Rack Scale 'Helios'",
-      "href": "https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios",
-      "points": "94 points",
-      "comments": "46 comments",
-      "index": 13
-    },
-    {
-      "title": "Meta-analysis of three different notions of software complexity",
-      "href": "https://typesanitizer.com/blog/complexity-definitions.html",
-      "points": "41 points",
-      "comments": "6 comments",
-      "index": 14
-    },
-    {
-      "title": "Chicken Eyeglasses",
-      "href": "https://en.wikipedia.org/wiki/Chicken_eyeglasses",
-      "points": "118 points",
-      "comments": "37 comments",
-      "index": 15
-    },
-    {
-      "title": "Solar Orbiter gets world-first views of the Sun's poles",
-      "href": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
-      "points": "239 points",
-      "comments": "28 comments",
-      "index": 16
-    },
-    {
-      "title": "Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)",
-      "href": "https://www.righto.com/2025/06/inside-apollo-fdai.html",
-      "points": "148 points",
-      "comments": "28 comments",
-      "index": 17
-    },
-    {
-      "title": "How multiplication is defined in Peano arithmetic",
-      "href": "http://devlinsangle.blogspot.com/2011/11/how-multiplication-is-really-defined-in.html",
-      "points": "23 points",
-      "comments": "2 comments",
-      "index": 18
-    },
-    {
-      "title": "Bioprospectors mine microbial genomes for antibiotic gold",
-      "href": "https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06",
-      "points": "15 points",
-      "comments": "2 comments",
-      "index": 19
-    },
-    {
-      "title": "Last fifty years of integer linear programming: Recent practical advances",
-      "href": "https://inria.hal.science/hal-04776866v1",
-      "points": "198 points",
-      "comments": "61 comments",
-      "index": 20
-    },
-    {
-      "title": "Debunking HDR [video]",
-      "href": "https://yedlin.net/DebunkingHDR/index.html",
-      "points": "102 points",
-      "comments": "53 comments",
-      "index": 21
-    },
-    {
-      "title": "Cray versus Raspberry Pi",
-      "href": "https://www.aardvark.co.nz/daily/2025/0611.shtml",
-      "points": "119 points",
-      "comments": "84 comments",
-      "index": 22
-    },
-    {
-      "title": "Dance Captcha",
-      "href": "https://dance-captcha.vercel.app/",
-      "points": "61 points",
-      "comments": "19 comments",
-      "index": 23
     },
     {
       "title": "Tiny-diffusion: A minimal implementation of probabilistic diffusion models",
       "href": "https://github.com/tanelp/tiny-diffusion",
-      "points": "3 points",
+      "points": "9 points",
       "comments": "discuss",
+      "index": 13
+    },
+    {
+      "title": "Breaking My Security Assignments",
+      "href": "https://www.akpain.net/blog/breaking-secnet-assignments/",
+      "points": "62 points",
+      "comments": "12 comments",
+      "index": 14
+    },
+    {
+      "title": "Waymo rides cost more than Uber or Lyft and people are paying anyway",
+      "href": "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/",
+      "points": "396 points",
+      "comments": "687 comments",
+      "index": 15
+    },
+    {
+      "title": "The Algebra of an Infinite Grid of Resistors",
+      "href": "https://www.mathpages.com/home/kmath669/kmath669.htm",
+      "points": "32 points",
+      "comments": "3 comments",
+      "index": 16
+    },
+    {
+      "title": "The Talented Ms. Highsmith",
+      "href": "https://yalereview.org/article/working-for-patricia-highsmith",
+      "points": "5 points",
+      "comments": "discuss",
+      "index": 17
+    },
+    {
+      "title": "AMD's AI Future Is Rack Scale 'Helios'",
+      "href": "https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios",
+      "points": "97 points",
+      "comments": "49 comments",
+      "index": 18
+    },
+    {
+      "title": "Meta-analysis of three different notions of software complexity",
+      "href": "https://typesanitizer.com/blog/complexity-definitions.html",
+      "points": "45 points",
+      "comments": "6 comments",
+      "index": 19
+    },
+    {
+      "title": "Chicken Eyeglasses",
+      "href": "https://en.wikipedia.org/wiki/Chicken_eyeglasses",
+      "points": "122 points",
+      "comments": "38 comments",
+      "index": 20
+    },
+    {
+      "title": "Solar Orbiter gets world-first views of the Sun's poles",
+      "href": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
+      "points": "242 points",
+      "comments": "28 comments",
+      "index": 21
+    },
+    {
+      "title": "Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)",
+      "href": "https://www.righto.com/2025/06/inside-apollo-fdai.html",
+      "points": "152 points",
+      "comments": "30 comments",
+      "index": 22
+    },
+    {
+      "title": "Bioprospectors mine microbial genomes for antibiotic gold",
+      "href": "https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06",
+      "points": "19 points",
+      "comments": "2 comments",
+      "index": 23
+    },
+    {
+      "title": "How multiplication is defined in Peano arithmetic",
+      "href": "http://devlinsangle.blogspot.com/2011/11/how-multiplication-is-really-defined-in.html",
+      "points": "27 points",
+      "comments": "3 comments",
       "index": 24
     },
     {
-      "title": "Have a damaged painting? Restore it in just hours with an AI-generated “mask”",
-      "href": "https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611",
-      "points": "71 points",
-      "comments": "45 comments",
+      "title": "Last fifty years of integer linear programming: Recent practical advances",
+      "href": "https://inria.hal.science/hal-04776866v1",
+      "points": "202 points",
+      "comments": "64 comments",
       "index": 25
+    },
+    {
+      "title": "Debunking HDR [video]",
+      "href": "https://yedlin.net/DebunkingHDR/index.html",
+      "points": "108 points",
+      "comments": "53 comments",
+      "index": 26
+    },
+    {
+      "title": "Cray versus Raspberry Pi",
+      "href": "https://www.aardvark.co.nz/daily/2025/0611.shtml",
+      "points": "125 points",
+      "comments": "86 comments",
+      "index": 27
+    },
+    {
+      "title": "Dance Captcha",
+      "href": "https://dance-captcha.vercel.app/",
+      "points": "63 points",
+      "comments": "20 comments",
+      "index": 28
     },
     {
       "title": "Endometriosis is an interesting disease",
       "href": "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting",
-      "points": "364 points",
-      "comments": "243 comments",
-      "index": 26
+      "points": "370 points",
+      "comments": "245 comments",
+      "index": 29
     },
     {
       "title": "Fixing the mechanics of my bullet chess",
       "href": "https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/",
-      "points": "39 points",
-      "comments": "30 comments",
-      "index": 27
-    },
-    {
-      "title": "The Many Sides of Erik Satie",
-      "href": "https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/",
-      "points": "153 points",
-      "comments": "36 comments",
-      "index": 28
-    },
-    {
-      "title": "SIMD-friendly algorithms for substring searching (2016)",
-      "href": "http://0x80.pl/notesen/2016-11-28-simd-strfind.html",
-      "points": "215 points",
+      "points": "40 points",
       "comments": "33 comments",
-      "index": 29
-    },
-    {
-      "title": "Unsupervised Elicitation of Language Models",
-      "href": "https://arxiv.org/abs/2506.10139",
-      "points": "128 points",
-      "comments": "18 comments",
       "index": 30
     }
   ]
