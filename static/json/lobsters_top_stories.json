@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, June 15, 2025 at 4:15 PM GMT-5",
+  "date": "Sunday, June 15, 2025 at 5:15 PM GMT-5",
   "articles": [
-    {
-      "title": "Why SSL was renamed to TLS in late 90s (2014)",
-      "href": "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 1
-    },
     {
       "title": "Writing Toy Software Is A Joy",
       "href": "https://www.jsbarretto.com/blog/software-is-joy/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 1
+    },
+    {
+      "title": "Why SSL was renamed to TLS in late 90s (2014)",
+      "href": "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 2
     },
     {
@@ -26,82 +26,82 @@
       "title": "A SQLite VFS for remote databases via gRPC",
       "href": "https://github.com/danthegoodman1/gRPSQLite",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 4
+    },
+    {
+      "title": "1x Forth (1999)",
+      "href": "https://www.ultratechnology.com/1xforth.htm",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 5
     },
     {
       "title": "Simplest C++ callback, from SumatraPDF",
       "href": "https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 5
-    },
-    {
-      "title": "Mosh: the mobile shell",
-      "href": "https://mosh.org",
-      "points": "",
-      "comments": "\n              32 comments",
       "index": 6
-    },
-    {
-      "title": "The Elixir Pipe Operator",
-      "href": "https://dev.to/adolfont/the-elixir-pipe-operator-38fa",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 7
-    },
-    {
-      "title": "The Art of Lisp & Writing",
-      "href": "https://www.dreamsongs.com/ArtOfLisp.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 8
-    },
-    {
-      "title": "Modifying an HDMI dummy plug’s EDID using a Raspberry Pi",
-      "href": "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 9
-    },
-    {
-      "title": "How fast can the RPython GC allocate?",
-      "href": "https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
     },
     {
       "title": "Quick takes on the GCP public incident write-up",
       "href": "https://surfingcomplexity.blog/2025/06/14/quick-takes-on-the-gcp-public-incident-write-up/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "Mosh: the mobile shell",
+      "href": "https://mosh.org",
+      "points": "",
+      "comments": "\n              32 comments",
+      "index": 8
+    },
+    {
+      "title": "The Elixir Pipe Operator",
+      "href": "https://dev.to/adolfont/the-elixir-pipe-operator-38fa",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 9
+    },
+    {
+      "title": "Modifying an HDMI dummy plug’s EDID using a Raspberry Pi",
+      "href": "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "The Art of Lisp & Writing",
+      "href": "https://www.dreamsongs.com/ArtOfLisp.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 11
     },
     {
-      "title": "1x Forth (1999)",
-      "href": "https://www.ultratechnology.com/1xforth.htm",
+      "title": "How fast can the RPython GC allocate?",
+      "href": "https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 12
+    },
+    {
+      "title": "Datalog in Minikanren",
+      "href": "https://deosjr.github.io/dynamicland/datalog.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
     },
     {
       "title": "todo.txt tasks in my TRMNL",
       "href": "https://akselmo.dev/posts/todotxt-in-my-trmnl/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Breaking down ‘EchoLeak’, the First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365 Copilot",
       "href": "https://www.aim.security/lp/aim-labs-echoleak-blogpost",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "Datalog in Minikanren",
-      "href": "https://deosjr.github.io/dynamicland/datalog.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 15
@@ -142,24 +142,24 @@
       "index": 20
     },
     {
+      "title": "Modular: What about the MLIR compiler infrastructure? (Democratizing AI Compute, Part 8)",
+      "href": "https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
       "title": "A meta-analysis of three different notions of software complexity",
       "href": "https://typesanitizer.com/blog/complexity-definitions.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Datalog in Rust",
       "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 22
-    },
-    {
-      "title": "Modular: What about the MLIR compiler infrastructure? (Democratizing AI Compute, Part 8)",
-      "href": "https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 23
     },
     {
