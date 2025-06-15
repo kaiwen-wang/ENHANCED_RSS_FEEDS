@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, June 15, 2025 at 2:20 AM GMT-5",
+  "date": "Sunday, June 15, 2025 at 3:25 AM GMT-5",
   "articles": [
+    {
+      "title": "The Art of Lisp and Writing",
+      "href": "https://www.dreamsongs.com/ArtOfLisp.html",
+      "points": "9 points",
+      "comments": "discuss",
+      "index": 1
+    },
     {
       "title": "Q-learning is not yet scalable",
       "href": "https://seohong.me/blog/q-learning-is-not-yet-scalable/",
-      "points": "91 points",
-      "comments": "18 comments",
-      "index": 1
+      "points": "109 points",
+      "comments": "19 comments",
+      "index": 2
     },
     {
       "title": "Infinite Grid of Resistors",
       "href": "https://www.mathpages.com/home/kmath668/kmath668.htm",
-      "points": "136 points",
-      "comments": "55 comments",
-      "index": 2
+      "points": "146 points",
+      "comments": "59 comments",
+      "index": 3
     },
     {
       "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
       "href": "https://github.com/yousef-rafat/miniDiffusion",
-      "points": "389 points",
-      "comments": "68 comments",
-      "index": 3
+      "points": "398 points",
+      "comments": "69 comments",
+      "index": 4
     },
     {
       "title": "Breaking My Security Assignments",
       "href": "https://www.akpain.net/blog/breaking-secnet-assignments/",
-      "points": "25 points",
-      "comments": "discuss",
-      "index": 4
-    },
-    {
-      "title": "AMD's AI Future Is Rack Scale 'Helios'",
-      "href": "https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios",
-      "points": "60 points",
-      "comments": "29 comments",
+      "points": "37 points",
+      "comments": "5 comments",
       "index": 5
-    },
-    {
-      "title": "Have a damaged painting? Restore it in just hours with an AI-generated “mask”",
-      "href": "https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611",
-      "points": "53 points",
-      "comments": "32 comments",
-      "index": 6
-    },
-    {
-      "title": "Chicken Eyeglasses",
-      "href": "https://en.wikipedia.org/wiki/Chicken_eyeglasses",
-      "points": "86 points",
-      "comments": "24 comments",
-      "index": 7
-    },
-    {
-      "title": "Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)",
-      "href": "https://www.righto.com/2025/06/inside-apollo-fdai.html",
-      "points": "140 points",
-      "comments": "26 comments",
-      "index": 8
-    },
-    {
-      "title": "Solar Orbiter gets world-first views of the Sun's poles",
-      "href": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
-      "points": "211 points",
-      "comments": "27 comments",
-      "index": 9
     },
     {
       "title": "Dance Captcha",
       "href": "https://dance-captcha.vercel.app/",
-      "points": "14 points",
-      "comments": "4 comments",
+      "points": "28 points",
+      "comments": "6 comments",
+      "index": 6
+    },
+    {
+      "title": "AMD's AI Future Is Rack Scale 'Helios'",
+      "href": "https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios",
+      "points": "67 points",
+      "comments": "31 comments",
+      "index": 7
+    },
+    {
+      "title": "CI/CD Observability with OpenTelemetry Step by Step Guide",
+      "href": "https://signoz.io/blog/cicd-observability-with-opentelemetry/",
+      "points": "11 points",
+      "comments": "discuss",
+      "index": 8
+    },
+    {
+      "title": "Chicken Eyeglasses",
+      "href": "https://en.wikipedia.org/wiki/Chicken_eyeglasses",
+      "points": "94 points",
+      "comments": "30 comments",
+      "index": 9
+    },
+    {
+      "title": "Solar Orbiter gets world-first views of the Sun's poles",
+      "href": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
+      "points": "217 points",
+      "comments": "29 comments",
       "index": 10
     },
     {
       "title": "Waymo rides cost more than Uber or Lyft and people are paying anyway",
       "href": "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/",
-      "points": "321 points",
-      "comments": "570 comments",
+      "points": "338 points",
+      "comments": "585 comments",
       "index": 11
+    },
+    {
+      "title": "Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)",
+      "href": "https://www.righto.com/2025/06/inside-apollo-fdai.html",
+      "points": "141 points",
+      "comments": "26 comments",
+      "index": 12
+    },
+    {
+      "title": "The Algebra of an Infinite Grid of Resistors",
+      "href": "https://www.mathpages.com/home/kmath669/kmath669.htm",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 13
+    },
+    {
+      "title": "Have a damaged painting? Restore it in just hours with an AI-generated “mask”",
+      "href": "https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611",
+      "points": "58 points",
+      "comments": "34 comments",
+      "index": 14
     },
     {
       "title": "Wrong ways to use the databases, when the pendulum swung too far",
       "href": "https://www.luu.io/posts/2025-database-pendulum",
-      "points": "66 points",
-      "comments": "34 comments",
-      "index": 12
-    },
-    {
-      "title": "Iconic icons to showcase your skills",
-      "href": "https://github.com/YuheshPandian/ICONIC",
-      "points": "23 points",
-      "comments": "10 comments",
-      "index": 13
-    },
-    {
-      "title": "Debunking HDR [video]",
-      "href": "https://yedlin.net/DebunkingHDR/index.html",
-      "points": "75 points",
-      "comments": "44 comments",
-      "index": 14
+      "points": "76 points",
+      "comments": "40 comments",
+      "index": 15
     },
     {
       "title": "Last fifty years of integer linear programming: Recent practical advances",
       "href": "https://inria.hal.science/hal-04776866v1",
-      "points": "187 points",
+      "points": "190 points",
       "comments": "55 comments",
-      "index": 15
+      "index": 16
+    },
+    {
+      "title": "Debunking HDR [video]",
+      "href": "https://yedlin.net/DebunkingHDR/index.html",
+      "points": "82 points",
+      "comments": "45 comments",
+      "index": 17
     },
     {
       "title": "Fixing the mechanics of my bullet chess",
       "href": "https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/",
-      "points": "28 points",
-      "comments": "17 comments",
-      "index": 16
+      "points": "31 points",
+      "comments": "18 comments",
+      "index": 18
     },
     {
       "title": "Unsupervised Elicitation of Language Models",
       "href": "https://arxiv.org/abs/2506.10139",
-      "points": "125 points",
+      "points": "126 points",
       "comments": "16 comments",
-      "index": 17
-    },
-    {
-      "title": "Large language models often know when they are being evaluated",
-      "href": "https://arxiv.org/abs/2505.23836",
-      "points": "47 points",
-      "comments": "57 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Cray versus Raspberry Pi",
       "href": "https://www.aardvark.co.nz/daily/2025/0611.shtml",
-      "points": "84 points",
-      "comments": "63 comments",
-      "index": 19
-    },
-    {
-      "title": "Seven replies to the viral Apple reasoning paper and why they fall short",
-      "href": "https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple",
-      "points": "267 points",
-      "comments": "204 comments",
+      "points": "94 points",
+      "comments": "73 comments",
       "index": 20
     },
     {
-      "title": "SIMD-friendly algorithms for substring searching (2016)",
-      "href": "http://0x80.pl/notesen/2016-11-28-simd-strfind.html",
-      "points": "207 points",
-      "comments": "31 comments",
+      "title": "Bioprospectors mine microbial genomes for antibiotic gold",
+      "href": "https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06",
+      "points": "8 points",
+      "comments": "discuss",
       "index": 21
     },
     {
       "title": "Endometriosis is an interesting disease",
       "href": "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting",
-      "points": "337 points",
-      "comments": "232 comments",
+      "points": "342 points",
+      "comments": "236 comments",
       "index": 22
     },
     {
-      "title": "Bioprospectors mine microbial genomes for antibiotic gold",
-      "href": "https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06",
-      "points": "5 points",
-      "comments": "discuss",
+      "title": "Seven replies to the viral Apple reasoning paper and why they fall short",
+      "href": "https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple",
+      "points": "276 points",
+      "comments": "208 comments",
       "index": 23
+    },
+    {
+      "title": "SIMD-friendly algorithms for substring searching (2016)",
+      "href": "http://0x80.pl/notesen/2016-11-28-simd-strfind.html",
+      "points": "210 points",
+      "comments": "32 comments",
+      "index": 24
     },
     {
       "title": "The Many Sides of Erik Satie",
       "href": "https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/",
-      "points": "141 points",
-      "comments": "31 comments",
-      "index": 24
+      "points": "144 points",
+      "comments": "32 comments",
+      "index": 25
     },
     {
       "title": "How to Build Conscious Machines",
       "href": "https://osf.io/preprints/thesiscommons/wehmg_v1",
-      "points": "68 points",
-      "comments": "71 comments",
-      "index": 25
+      "points": "76 points",
+      "comments": "75 comments",
+      "index": 26
     },
     {
       "title": "Clinical knowledge in LLMs does not translate to human interactions",
       "href": "https://arxiv.org/pdf/2504.18919",
-      "points": "75 points",
+      "points": "79 points",
       "comments": "32 comments",
-      "index": 26
-    },
-    {
-      "title": "Sperm are very different from all other cells",
-      "href": "https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm",
-      "points": "36 points",
-      "comments": "22 comments",
       "index": 27
-    },
-    {
-      "title": "We investigated Amsterdam's attempt to build a 'fair' fraud detection model",
-      "href": "https://www.lighthousereports.com/methodology/amsterdam-fairness/",
-      "points": "65 points",
-      "comments": "54 comments",
-      "index": 28
     },
     {
       "title": "TimeGuessr",
       "href": "https://timeguessr.com/",
-      "points": "279 points",
+      "points": "283 points",
       "comments": "58 comments",
+      "index": 28
+    },
+    {
+      "title": "Sperm are very different from all other cells",
+      "href": "https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm",
+      "points": "41 points",
+      "comments": "30 comments",
       "index": 29
     },
     {
-      "title": "Slowing the flow of core-dump-related CVEs",
-      "href": "https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/",
-      "points": "81 points",
-      "comments": "14 comments",
+      "title": "Iconic icons to showcase your skills",
+      "href": "https://github.com/YuheshPandian/ICONIC",
+      "points": "27 points",
+      "comments": "12 comments",
       "index": 30
     }
   ]
