@@ -1,53 +1,53 @@
 {
-  "date": "Monday, June 16, 2025 at 10:20 AM GMT-5",
+  "date": "Monday, June 16, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "Writing Toy Software Is A Joy",
       "href": "https://www.jsbarretto.com/blog/software-is-joy/",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              30 comments",
       "index": 1
     },
     {
       "title": "CSS Classes considered harmful",
       "href": "https://www.keithcirkel.co.uk/css-classes-considered-harmful/",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              19 comments",
       "index": 2
-    },
-    {
-      "title": "DevTUI - A Swiss-army app for developers",
-      "href": "https://devtui.com",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 3
-    },
-    {
-      "title": "Start your own Internet Resiliency Club",
-      "href": "https://bowshock.nl/irc/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 4
     },
     {
       "title": "Working on databases from prison: How I got here, part 2",
       "href": "https://turso.tech/blog/working-on-databases-from-prison",
       "points": "",
       "comments": "\n              no comments",
-      "index": 5
+      "index": 3
     },
     {
-      "title": "Why SSL was renamed to TLS in late 90s (2014)",
-      "href": "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html",
+      "title": "Start your own Internet Resiliency Club",
+      "href": "https://bowshock.nl/irc/",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 6
+      "comments": "\n              7 comments",
+      "index": 4
     },
     {
       "title": "rgSQL: A test suite to help you build your own database engine",
       "href": "https://technicaldeft.com/posts/rgsql-a-test-suite-for-database-engines",
       "points": "",
       "comments": "\n              no comments",
+      "index": 5
+    },
+    {
+      "title": "DevTUI - A Swiss-army app for developers",
+      "href": "https://devtui.com",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 6
+    },
+    {
+      "title": "Why SSL was renamed to TLS in late 90s (2014)",
+      "href": "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 7
     },
     {
@@ -58,122 +58,122 @@
       "index": 8
     },
     {
-      "title": "Debugging tricks for IntelliJ",
-      "href": "https://andreabergia.com/blog/2025/06/debugging-tricks-for-intellij/",
+      "title": "Selfish reasons for building accessible UIs",
+      "href": "https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/",
       "points": "",
       "comments": "\n              no comments",
       "index": 9
     },
     {
-      "title": "1x Forth (1999)",
-      "href": "https://www.ultratechnology.com/1xforth.htm",
+      "title": "Goodbye Dark Inc. - Hello Darklang Inc",
+      "href": "https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              1 comment",
       "index": 10
+    },
+    {
+      "title": "Debugging tricks for IntelliJ",
+      "href": "https://andreabergia.com/blog/2025/06/debugging-tricks-for-intellij/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
     },
     {
       "title": "Changes to Kubernetes Slack",
       "href": "https://www.kubernetes.dev/blog/2025/06/16/changes-to-kubernetes-slack-2025/",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 11
+      "comments": "\n              2 comments",
+      "index": 12
+    },
+    {
+      "title": "1x Forth (1999)",
+      "href": "https://www.ultratechnology.com/1xforth.htm",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 13
     },
     {
       "title": "Jokes and Humour in the public Android API",
       "href": "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "Breaking my Security Assignments",
-      "href": "https://www.akpain.net/blog/breaking-secnet-assignments/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 13
-    },
-    {
-      "title": "Datalog in Minikanren",
-      "href": "https://deosjr.github.io/dynamicland/datalog.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
-    },
-    {
-      "title": "A SQLite VFS for remote databases via gRPC",
-      "href": "https://github.com/danthegoodman1/gRPSQLite",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 15
-    },
-    {
-      "title": "An Architectural Approach to Decentralization",
-      "href": "https://www.infocentral.org/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Quick takes on the GCP public incident write-up",
-      "href": "https://surfingcomplexity.blog/2025/06/14/quick-takes-on-the-gcp-public-incident-write-up/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Selfish reasons for building accessible UIs",
-      "href": "https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Simplest C++ callback, from SumatraPDF",
-      "href": "https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
     },
     {
       "title": "The lethal trifecta for AI agents: private data, untrusted content, and external communication",
       "href": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 15
     },
     {
       "title": "Mathematical Illustrations: A Manual of Geometry and PostScript",
       "href": "https://personal.math.ubc.ca/~cass/graphics/text/www/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Datalog in Minikanren",
+      "href": "https://deosjr.github.io/dynamicland/datalog.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Breaking my Security Assignments",
+      "href": "https://www.akpain.net/blog/breaking-secnet-assignments/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 18
+    },
+    {
+      "title": "A SQLite VFS for remote databases via gRPC",
+      "href": "https://github.com/danthegoodman1/gRPSQLite",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 19
+    },
+    {
+      "title": "Quick takes on the GCP public incident write-up",
+      "href": "https://surfingcomplexity.blog/2025/06/14/quick-takes-on-the-gcp-public-incident-write-up/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Robotics",
+      "href": "https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
     },
     {
-      "title": "The Elixir Pipe Operator",
-      "href": "https://dev.to/adolfont/the-elixir-pipe-operator-38fa",
+      "title": "Simplest C++ callback, from SumatraPDF",
+      "href": "https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              2 comments",
       "index": 22
+    },
+    {
+      "title": "An Architectural Approach to Decentralization",
+      "href": "https://www.infocentral.org/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "How fast can the RPython GC allocate?",
       "href": "https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "What happened to the lobste.rs top rss feed?",
-      "href": "/s/2ivvof/what_happened_lobste_rs_top_rss_feed",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Building software on top of Large Language Models",
-      "href": "https://simonwillison.net/2025/May/15/building-on-llms/",
+      "title": "The Elixir Pipe Operator",
+      "href": "https://dev.to/adolfont/the-elixir-pipe-operator-38fa",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              9 comments",
       "index": 25
     }
   ]
