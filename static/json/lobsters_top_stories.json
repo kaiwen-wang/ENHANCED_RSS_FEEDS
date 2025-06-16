@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, June 15, 2025 at 6:15 PM GMT-5",
+  "date": "Sunday, June 15, 2025 at 8:45 PM GMT-5",
   "articles": [
     {
       "title": "Writing Toy Software Is A Joy",
       "href": "https://www.jsbarretto.com/blog/software-is-joy/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 1
     },
     {
@@ -23,31 +23,31 @@
       "index": 3
     },
     {
-      "title": "A SQLite VFS for remote databases via gRPC",
-      "href": "https://github.com/danthegoodman1/gRPSQLite",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 4
-    },
-    {
       "title": "1x Forth (1999)",
       "href": "https://www.ultratechnology.com/1xforth.htm",
       "points": "",
+      "comments": "\n              7 comments",
+      "index": 4
+    },
+    {
+      "title": "A SQLite VFS for remote databases via gRPC",
+      "href": "https://github.com/danthegoodman1/gRPSQLite",
+      "points": "",
       "comments": "\n              5 comments",
       "index": 5
+    },
+    {
+      "title": "Datalog in Minikanren",
+      "href": "https://deosjr.github.io/dynamicland/datalog.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 6
     },
     {
       "title": "Simplest C++ callback, from SumatraPDF",
       "href": "https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 6
-    },
-    {
-      "title": "Mosh: the mobile shell",
-      "href": "https://mosh.org",
-      "points": "",
-      "comments": "\n              32 comments",
       "index": 7
     },
     {
@@ -58,29 +58,29 @@
       "index": 8
     },
     {
-      "title": "Datalog in Minikanren",
-      "href": "https://deosjr.github.io/dynamicland/datalog.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 9
-    },
-    {
       "title": "The Elixir Pipe Operator",
       "href": "https://dev.to/adolfont/the-elixir-pipe-operator-38fa",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 10
+      "index": 9
     },
     {
       "title": "Modifying an HDMI dummy plug’s EDID using a Raspberry Pi",
       "href": "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
+      "title": "Mosh: the mobile shell",
+      "href": "https://mosh.org",
+      "points": "",
+      "comments": "\n              32 comments",
       "index": 11
     },
     {
-      "title": "The Art of Lisp & Writing",
-      "href": "https://www.dreamsongs.com/ArtOfLisp.html",
+      "title": "DevTUI - A Swiss-army app for developers",
+      "href": "https://devtui.com",
       "points": "",
       "comments": "\n              no comments",
       "index": 12
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
-      "title": "todo.txt tasks in my TRMNL",
-      "href": "https://akselmo.dev/posts/todotxt-in-my-trmnl/",
+      "title": "Building software on top of Large Language Models",
+      "href": "https://simonwillison.net/2025/May/15/building-on-llms/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 14
+    },
+    {
+      "title": "The Art of Lisp & Writing",
+      "href": "https://www.dreamsongs.com/ArtOfLisp.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Jokes and Humour in the public Android API",
+      "href": "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
     },
     {
       "title": "Breaking down ‘EchoLeak’, the First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365 Copilot",
       "href": "https://www.aim.security/lp/aim-labs-echoleak-blogpost",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 17
+    },
+    {
+      "title": "todo.txt tasks in my TRMNL",
+      "href": "https://akselmo.dev/posts/todotxt-in-my-trmnl/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 18
     },
     {
       "title": "HTML spec change: escaping < and > in attributes",
       "href": "https://developer.chrome.com/blog/escape-attributes",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 16
+      "index": 19
+    },
+    {
+      "title": "How the Final Cartridge III Freezer works",
+      "href": "https://www.pagetable.com/?p=1810",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 20
     },
     {
       "title": "Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming",
       "href": "https://contextgeneric.dev/blog/hypershell-release/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 17
-    },
-    {
-      "title": "How the Final Cartridge III Freezer works",
-      "href": "https://www.pagetable.com/?p=1810",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
+      "index": 21
     },
     {
       "title": "Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)",
       "href": "http://www.righto.com/2025/06/inside-apollo-fdai.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
-    },
-    {
-      "title": "OxCaml, Jane Street's extension of OCaml is now open-source",
-      "href": "https://oxcaml.org",
-      "points": "",
-      "comments": "\n              48 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Modular: What about the MLIR compiler infrastructure? (Democratizing AI Compute, Part 8)",
       "href": "https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 23
+    },
+    {
+      "title": "OxCaml, Jane Street's extension of OCaml is now open-source",
+      "href": "https://oxcaml.org",
+      "points": "",
+      "comments": "\n              48 comments",
+      "index": 24
     },
     {
       "title": "A meta-analysis of three different notions of software complexity",
       "href": "https://typesanitizer.com/blog/complexity-definitions.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 22
-    },
-    {
-      "title": "Datalog in Rust",
-      "href": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 23
-    },
-    {
-      "title": "Adding public transport data to Transitous",
-      "href": "https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Self-referential abstractions: A quick look at the wacky epistemology of analog circuitry",
-      "href": "https://lcamtuf.coredump.cx/blog/abstractions/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
