@@ -1,18 +1,18 @@
 {
-  "date": "Monday, June 16, 2025 at 10:15 PM GMT-5",
+  "date": "Monday, June 16, 2025 at 11:30 PM GMT-5",
   "articles": [
-    {
-      "title": "Goodbye Dark Inc. - Hello Darklang Inc",
-      "href": "https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 1
-    },
     {
       "title": "phkmalloc",
       "href": "https://phk.freebsd.dk/sagas/phkmalloc/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 1
+    },
+    {
+      "title": "Goodbye Dark Inc. - Hello Darklang Inc",
+      "href": "https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/",
+      "points": "",
+      "comments": "\n              17 comments",
       "index": 2
     },
     {
@@ -65,17 +65,17 @@
       "index": 9
     },
     {
-      "title": "rgSQL: A test suite to help you build your own database engine",
-      "href": "https://technicaldeft.com/posts/rgsql-a-test-suite-for-database-engines",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 10
-    },
-    {
       "title": "Xmake v3.0 released, Improve c++ modules and jobgraph support",
       "href": "https://github.com/xmake-io/xmake/releases/tag/v3.0.0",
       "points": "",
       "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "rgSQL: A test suite to help you build your own database engine",
+      "href": "https://technicaldeft.com/posts/rgsql-a-test-suite-for-database-engines",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 11
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "Changes to Kubernetes Slack",
-      "href": "https://www.kubernetes.dev/blog/2025/06/16/changes-to-kubernetes-slack-2025/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 15
-    },
-    {
       "title": "The lethal trifecta for AI agents: private data, untrusted content, and external communication",
       "href": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Changes to Kubernetes Slack",
+      "href": "https://www.kubernetes.dev/blog/2025/06/16/changes-to-kubernetes-slack-2025/",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 16
+    },
+    {
+      "title": "Comment on The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity",
+      "href": "https://arxiv.org/pdf/2506.09250",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 17
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/joykng/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Mathematical Illustrations: A Manual of Geometry and PostScript",
       "href": "https://personal.math.ubc.ca/~cass/graphics/text/www/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Debugging tricks for IntelliJ",
       "href": "https://andreabergia.com/blog/2025/06/debugging-tricks-for-intellij/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 20
     },
     {
       "title": "CSS Classes considered harmful",
       "href": "https://www.keithcirkel.co.uk/css-classes-considered-harmful/",
       "points": "",
       "comments": "\n              28 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Why SSL was renamed to TLS in late 90s (2014)",
       "href": "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 21
+      "index": 22
     },
     {
-      "title": "Comment on The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity",
-      "href": "https://arxiv.org/pdf/2506.09250",
+      "title": "The Nuanced Reality of Throttling: It's Not Just About Preventing Abuse",
+      "href": "https://blog.joemag.dev/2025/06/the-nuanced-reality-of-throttling-its.html",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Why Generative AI Coding Tools and Agents Do Not Work For Me",
+      "href": "https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "Jokes and Humour in the public Android API",
       "href": "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Suppressions of Suppressions",
-      "href": "https://overreacted.io/suppressions-of-suppressions/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "1x Forth (1999)",
-      "href": "https://www.ultratechnology.com/1xforth.htm",
-      "points": "",
-      "comments": "\n              21 comments",
       "index": 25
     }
   ]
