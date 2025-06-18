@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, June 18, 2025 at 12:20 AM GMT-5",
+  "date": "Wednesday, June 18, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "KiCad and Wayland Support",
       "href": "https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              17 comments",
       "index": 1
     },
     {
@@ -33,14 +33,14 @@
       "title": "is it really FOSS?",
       "href": "https://isitreallyfoss.com/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 5
     },
     {
       "title": "Building JSON on the Command Line is Obnoxious",
       "href": "https://blog.stulta.dev/posts/annoying_json/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              11 comments",
       "index": 6
     },
     {
@@ -65,31 +65,31 @@
       "index": 9
     },
     {
+      "title": "Why I Won't Use AI",
+      "href": "https://agentultra.com/blog/why-i-wont-use-ai/index.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "I wrote a compiler",
+      "href": "https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 11
+    },
+    {
       "title": "Triaging security issues reported by third parties (#913) · Issues · GNOME / libxml2 ·",
       "href": "https://gitlab.gnome.org/GNOME/libxml2/-/issues/913",
       "points": "",
       "comments": "\n              25 comments",
-      "index": 10
+      "index": 12
     },
     {
       "title": "zb beta released",
       "href": "https://www.zombiezen.com/blog/2025/06/zb-beta-release/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 11
-    },
-    {
-      "title": "IndexedDB is Weird",
-      "href": "https://qsantos.fr/2025/03/03/indexeddb-is-weird/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "Why I Won't Use AI",
-      "href": "https://agentultra.com/blog/why-i-wont-use-ai/index.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 13
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "Why Generative AI Coding Tools and Agents Do Not Work For Me",
-      "href": "https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me",
+      "title": "IndexedDB is Weird",
+      "href": "https://qsantos.fr/2025/03/03/indexeddb-is-weird/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              1 comment",
       "index": 15
     },
     {
@@ -114,10 +114,10 @@
       "index": 16
     },
     {
-      "title": "Goodbye Dark Inc. - Hello Darklang Inc",
-      "href": "https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/",
+      "title": "Why Generative AI Coding Tools and Agents Do Not Work For Me",
+      "href": "https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              14 comments",
       "index": 17
     },
     {
@@ -128,17 +128,17 @@
       "index": 18
     },
     {
-      "title": "Is Documentation Like Pineapple on Pizza?",
-      "href": "https://l.idaszak.com/l-docs-like-pineapple-on-pizza",
+      "title": "Goodbye Dark Inc. - Hello Darklang Inc",
+      "href": "https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              26 comments",
       "index": 19
     },
     {
-      "title": "I wrote a compiler",
-      "href": "https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/",
+      "title": "Is Documentation Like Pineapple on Pizza?",
+      "href": "https://l.idaszak.com/l-docs-like-pineapple-on-pizza",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              11 comments",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
-      "title": "Type Inference Zoo",
-      "href": "https://zoo.cuichen.cc/",
+      "title": "Using Microsoft's New CLI Text Editor on Ubuntu",
+      "href": "https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 22
-    },
-    {
-      "title": "retrobootstrapping rust for some reason",
-      "href": "https://graydon2.dreamwidth.org/317484.html",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 23
     },
     {
       "title": "Monads are not like burritos",
       "href": "https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Type Inference Zoo",
+      "href": "https://zoo.cuichen.cc/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 24
     },
     {
-      "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
-      "href": "https://www.smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
+      "title": "retrobootstrapping rust for some reason",
+      "href": "https://graydon2.dreamwidth.org/317484.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              9 comments",
       "index": 25
     }
   ]
