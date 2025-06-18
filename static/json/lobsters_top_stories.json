@@ -1,25 +1,25 @@
 {
-  "date": "Wednesday, June 18, 2025 at 3:25 AM GMT-5",
+  "date": "Wednesday, June 18, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "KiCad and Wayland Support",
       "href": "https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              37 comments",
       "index": 1
     },
     {
       "title": "Resurrecting a dead torrent tracker and finding 3 million peers",
       "href": "https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 2
     },
     {
-      "title": "bzip2 crate switches from C to 100% rust",
-      "href": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/",
+      "title": "Why I Won't Use AI",
+      "href": "https://agentultra.com/blog/why-i-wont-use-ai/index.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 3
     },
     {
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
+      "title": "bzip2 crate switches from C to 100% rust",
+      "href": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 5
+    },
+    {
       "title": "Double-Entry Ledgers: The Missing Primitive in Modern Software",
       "href": "https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "is it really FOSS?",
       "href": "https://isitreallyfoss.com/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 6
-    },
-    {
-      "title": "Why I Won't Use AI",
-      "href": "https://agentultra.com/blog/why-i-wont-use-ai/index.html",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 7
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
+      "title": "Your Brain on ChatGPT",
+      "href": "https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 9
+    },
+    {
       "title": "KDE Plasma 6.4 released",
       "href": "https://kde.org/announcements/plasma/6/6.4.0/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
-    },
-    {
-      "title": "phkmalloc",
-      "href": "https://phk.freebsd.dk/sagas/phkmalloc/",
-      "points": "",
-      "comments": "\n              24 comments",
       "index": 10
     },
     {
@@ -79,45 +79,45 @@
       "index": 11
     },
     {
+      "title": "phkmalloc",
+      "href": "https://phk.freebsd.dk/sagas/phkmalloc/",
+      "points": "",
+      "comments": "\n              25 comments",
+      "index": 12
+    },
+    {
       "title": "Triaging security issues reported by third parties (#913) · Issues · GNOME / libxml2 ·",
       "href": "https://gitlab.gnome.org/GNOME/libxml2/-/issues/913",
       "points": "",
-      "comments": "\n              29 comments",
-      "index": 12
+      "comments": "\n              31 comments",
+      "index": 13
     },
     {
       "title": "zb beta released",
       "href": "https://www.zombiezen.com/blog/2025/06/zb-beta-release/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Why Claude Code feels like magic?",
       "href": "https://omarabid.com/claude-magic",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Query Your Postgres Database Using Plain English",
       "href": "https://medium.com/@benderv/query-your-postgres-database-using-plain-english-febd2c50a158",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "IndexedDB is Weird",
       "href": "https://qsantos.fr/2025/03/03/indexeddb-is-weird/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "Monads are not like burritos",
-      "href": "https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "Monads are not like burritos",
+      "href": "https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
       "title": "Why Generative AI Coding Tools and Agents Do Not Work For Me",
       "href": "https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Locally hosting an internet-connected server",
       "href": "https://mjg59.dreamwidth.org/72095.html",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Using Microsoft's New CLI Text Editor on Ubuntu",
       "href": "https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Is Documentation Like Pineapple on Pizza?",
       "href": "https://l.idaszak.com/l-docs-like-pineapple-on-pizza",
       "points": "",
-      "comments": "\n              12 comments",
-      "index": 22
+      "comments": "\n              14 comments",
+      "index": 23
     },
     {
       "title": "Goodbye Dark Inc. - Hello Darklang Inc",
       "href": "https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/",
       "points": "",
       "comments": "\n              26 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Slint 1.12 Released with WGPU Support, iOS Port, and Figma Variables Integration",
       "href": "https://slint.dev/blog/slint-1.12-released",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "Type Inference Zoo",
-      "href": "https://zoo.cuichen.cc/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
