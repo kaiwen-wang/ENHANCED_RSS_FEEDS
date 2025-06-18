@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, June 18, 2025 at 9:20 AM GMT-5",
+  "date": "Wednesday, June 18, 2025 at 10:20 AM GMT-5",
   "articles": [
     {
       "title": "Why I Won't Use AI",
       "href": "https://agentultra.com/blog/why-i-wont-use-ai/index.html",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              25 comments",
       "index": 1
     },
     {
       "title": "KiCad and Wayland Support",
       "href": "https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/",
       "points": "",
-      "comments": "\n              59 comments",
+      "comments": "\n              61 comments",
       "index": 2
     },
     {
@@ -26,35 +26,35 @@
       "title": "Building JSON on the Command Line is Obnoxious",
       "href": "https://blog.stulta.dev/posts/annoying_json/",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              21 comments",
       "index": 4
+    },
+    {
+      "title": "The Server Doesn't Render Anything",
+      "href": "https://unplannedobsolescence.com/blog/the-server-doesnt-render/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 5
     },
     {
       "title": "Double-Entry Ledgers: The Missing Primitive in Modern Software",
       "href": "https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "is it really FOSS?",
       "href": "https://isitreallyfoss.com/",
       "points": "",
-      "comments": "\n              18 comments",
-      "index": 6
+      "comments": "\n              19 comments",
+      "index": 7
     },
     {
       "title": "bzip2 crate switches from C to 100% rust",
       "href": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 7
-    },
-    {
-      "title": "What Google Translate Can Tell Us About Vibecoding",
-      "href": "https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/",
-      "points": "",
-      "comments": "\n              10 comments",
       "index": 8
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
+      "title": "What Google Translate Can Tell Us About Vibecoding",
+      "href": "https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 10
+    },
+    {
       "title": "KDE Plasma 6.4 released",
       "href": "https://kde.org/announcements/plasma/6/6.4.0/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 10
-    },
-    {
-      "title": "I wrote a compiler",
-      "href": "https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 11
-    },
-    {
-      "title": "phkmalloc",
-      "href": "https://phk.freebsd.dk/sagas/phkmalloc/",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 12
-    },
-    {
-      "title": "IndexedDB is Weird",
-      "href": "https://qsantos.fr/2025/03/03/indexeddb-is-weird/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
-    },
-    {
-      "title": "Monads are not like burritos",
-      "href": "https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
     },
     {
       "title": "Shadow: A browser engine from scratch in Javascript",
       "href": "https://shadow.goose.icu",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 12
     },
     {
-      "title": "The Server Doesn't Render Anything",
-      "href": "https://unplannedobsolescence.com/blog/the-server-doesnt-render/",
+      "title": "IndexedDB is Weird",
+      "href": "https://qsantos.fr/2025/03/03/indexeddb-is-weird/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 16
+      "comments": "\n              3 comments",
+      "index": 13
     },
     {
-      "title": "Using Microsoft's New CLI Text Editor on Ubuntu",
-      "href": "https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu",
+      "title": "I wrote a compiler",
+      "href": "https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 17
+      "comments": "\n              6 comments",
+      "index": 14
     },
     {
       "title": "hammurabi: A Rust recreation of the classic 1968 BASIC game",
       "href": "https://github.com/stjepangolemac/hammurabi",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "phkmalloc",
+      "href": "https://phk.freebsd.dk/sagas/phkmalloc/",
+      "points": "",
+      "comments": "\n              25 comments",
+      "index": 16
+    },
+    {
+      "title": "Monads are not like burritos",
+      "href": "https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 17
+    },
+    {
+      "title": "Moving on from Nix",
+      "href": "https://carlosbecker.com/posts/bye-nix/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 18
-    },
-    {
-      "title": "zb beta released",
-      "href": "https://www.zombiezen.com/blog/2025/06/zb-beta-release/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 19
-    },
-    {
-      "title": "Triaging security issues reported by third parties (#913) · Issues · GNOME / libxml2 ·",
-      "href": "https://gitlab.gnome.org/GNOME/libxml2/-/issues/913",
-      "points": "",
-      "comments": "\n              34 comments",
-      "index": 20
-    },
-    {
-      "title": "Why Claude Code feels like magic?",
-      "href": "https://omarabid.com/claude-magic",
-      "points": "",
-      "comments": "\n              21 comments",
-      "index": 21
-    },
-    {
-      "title": "Anime.js v4 is a lightweight JavaScript animation library with a simple, yet powerful API",
-      "href": "https://animejs.com",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 22
     },
     {
       "title": "Notes on retries",
       "href": "https://justinblank.com/notebooks/retries.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 19
     },
     {
       "title": "The plight of the misunderstood memory ordering",
       "href": "https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Using Microsoft's New CLI Text Editor on Ubuntu",
+      "href": "https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "zb beta released",
+      "href": "https://www.zombiezen.com/blog/2025/06/zb-beta-release/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 22
+    },
+    {
+      "title": "Triaging security issues reported by third parties (#913) · Issues · GNOME / libxml2 ·",
+      "href": "https://gitlab.gnome.org/GNOME/libxml2/-/issues/913",
+      "points": "",
+      "comments": "\n              34 comments",
+      "index": 23
+    },
+    {
+      "title": "Getting Lustre upstream",
+      "href": "https://lwn.net/SubscriberLink/1025268/1d60e7f20fcd5bc2/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Locally hosting an internet-connected server",
-      "href": "https://mjg59.dreamwidth.org/72095.html",
+      "title": "Why Claude Code feels like magic?",
+      "href": "https://omarabid.com/claude-magic",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              21 comments",
       "index": 25
     }
   ]
