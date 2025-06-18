@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, June 18, 2025 at 11:25 AM GMT-5",
+  "date": "Wednesday, June 18, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "Why I Won't Use AI",
       "href": "https://agentultra.com/blog/why-i-wont-use-ai/index.html",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              32 comments",
       "index": 1
     },
     {
@@ -19,49 +19,49 @@
       "title": "KiCad and Wayland Support",
       "href": "https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/",
       "points": "",
-      "comments": "\n              61 comments",
+      "comments": "\n              63 comments",
       "index": 3
     },
     {
-      "title": "Resurrecting a dead torrent tracker and finding 3 million peers",
-      "href": "https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html",
+      "title": "Cock.li email provider data leak from roundcube",
+      "href": "https://mail.cock.li/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              2 comments",
       "index": 4
+    },
+    {
+      "title": "Moving on from Nix",
+      "href": "https://carlosbecker.com/posts/bye-nix/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 5
     },
     {
       "title": "Building JSON on the Command Line is Obnoxious",
       "href": "https://blog.stulta.dev/posts/annoying_json/",
       "points": "",
       "comments": "\n              22 comments",
-      "index": 5
+      "index": 6
     },
     {
-      "title": "Cock.li email provider data leak from roundcube",
-      "href": "https://mail.cock.li/",
+      "title": "Resurrecting a dead torrent tracker and finding 3 million peers",
+      "href": "https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 6
+      "comments": "\n              4 comments",
+      "index": 7
     },
     {
       "title": "Double-Entry Ledgers: The Missing Primitive in Modern Software",
       "href": "https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/",
       "points": "",
-      "comments": "\n              18 comments",
-      "index": 7
+      "comments": "\n              19 comments",
+      "index": 8
     },
     {
       "title": "is it really FOSS?",
       "href": "https://isitreallyfoss.com/",
       "points": "",
-      "comments": "\n              20 comments",
-      "index": 8
-    },
-    {
-      "title": "Moving on from Nix",
-      "href": "https://carlosbecker.com/posts/bye-nix/",
-      "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              22 comments",
       "index": 9
     },
     {
@@ -86,59 +86,59 @@
       "index": 12
     },
     {
+      "title": "LLM Agents Are Breaking Your Platform, Not Your Architecture",
+      "href": "https://www.junctionlabs.io/blog/llm-agents-are-breaking-your-platform-not-your-architecture",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
       "title": "KDE Plasma 6.4 released",
       "href": "https://kde.org/announcements/plasma/6/6.4.0/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "Monads are not like burritos",
-      "href": "https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 14
-    },
-    {
-      "title": "Shadow: A browser engine from scratch in Javascript",
-      "href": "https://shadow.goose.icu",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "IndexedDB is Weird",
-      "href": "https://qsantos.fr/2025/03/03/indexeddb-is-weird/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 16
-    },
-    {
-      "title": "I wrote a compiler",
-      "href": "https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 17
     },
     {
       "title": "Using Microsoft's New CLI Text Editor on Ubuntu",
       "href": "https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
+      "comments": "\n              2 comments",
+      "index": 15
     },
     {
       "title": "The plight of the misunderstood memory ordering",
       "href": "https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Monads are not like burritos",
+      "href": "https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 17
+    },
+    {
+      "title": "I wrote a compiler",
+      "href": "https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 18
+    },
+    {
+      "title": "Shadow: A browser engine from scratch in Javascript",
+      "href": "https://shadow.goose.icu",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 19
     },
     {
-      "title": "hammurabi: A Rust recreation of the classic 1968 BASIC game",
-      "href": "https://github.com/stjepangolemac/hammurabi",
+      "title": "IndexedDB is Weird",
+      "href": "https://qsantos.fr/2025/03/03/indexeddb-is-weird/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 20
     },
     {
@@ -149,8 +149,8 @@
       "index": 21
     },
     {
-      "title": "LLM Agents Are Breaking Your Platform, Not Your Architecture",
-      "href": "https://www.junctionlabs.io/blog/llm-agents-are-breaking-your-platform-not-your-architecture",
+      "title": "hammurabi: A Rust recreation of the classic 1968 BASIC game",
+      "href": "https://github.com/stjepangolemac/hammurabi",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
+      "title": "zb beta released",
+      "href": "https://www.zombiezen.com/blog/2025/06/zb-beta-release/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 24
+    },
+    {
       "title": "The Unreasonable Effectiveness of Fuzzing for Porting Programs",
       "href": "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "zb beta released",
-      "href": "https://www.zombiezen.com/blog/2025/06/zb-beta-release/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 25
     }
   ]
