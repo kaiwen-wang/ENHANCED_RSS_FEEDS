@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, June 18, 2025 at 6:15 AM GMT-5",
+  "date": "Wednesday, June 18, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "Why I Won't Use AI",
       "href": "https://agentultra.com/blog/why-i-wont-use-ai/index.html",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
       "title": "KiCad and Wayland Support",
       "href": "https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/",
       "points": "",
-      "comments": "\n              54 comments",
+      "comments": "\n              56 comments",
       "index": 2
     },
     {
@@ -30,45 +30,45 @@
       "index": 4
     },
     {
-      "title": "Your Brain on ChatGPT",
-      "href": "https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 5
-    },
-    {
       "title": "Double-Entry Ledgers: The Missing Primitive in Modern Software",
       "href": "https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/",
       "points": "",
-      "comments": "\n              16 comments",
-      "index": 6
+      "comments": "\n              17 comments",
+      "index": 5
     },
     {
       "title": "bzip2 crate switches from C to 100% rust",
       "href": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 7
+      "index": 6
     },
     {
       "title": "is it really FOSS?",
       "href": "https://isitreallyfoss.com/",
       "points": "",
-      "comments": "\n              12 comments",
-      "index": 8
+      "comments": "\n              15 comments",
+      "index": 7
     },
     {
       "title": "What Google Translate Can Tell Us About Vibecoding",
       "href": "https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 9
+      "comments": "\n              9 comments",
+      "index": 8
     },
     {
       "title": "KDE Plasma 6.4 released",
       "href": "https://kde.org/announcements/plasma/6/6.4.0/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "Programming Language Design in the Era of LLMs: A Return to Mediocrity?",
+      "href": "https://kirancodes.me/posts/log-lang-design-llms.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 10
     },
     {
@@ -86,38 +86,38 @@
       "index": 12
     },
     {
-      "title": "Programming Language Design in the Era of LLMs: A Return to Mediocrity?",
-      "href": "https://kirancodes.me/posts/log-lang-design-llms.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
       "title": "IndexedDB is Weird",
       "href": "https://qsantos.fr/2025/03/03/indexeddb-is-weird/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 14
+      "index": 13
     },
     {
       "title": "hammurabi: A Rust recreation of the classic 1968 BASIC game",
       "href": "https://github.com/stjepangolemac/hammurabi",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Monads are not like burritos",
+      "href": "https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 15
     },
     {
       "title": "Triaging security issues reported by third parties (#913) · Issues · GNOME / libxml2 ·",
       "href": "https://gitlab.gnome.org/GNOME/libxml2/-/issues/913",
       "points": "",
-      "comments": "\n              32 comments",
+      "comments": "\n              34 comments",
       "index": 16
     },
     {
       "title": "zb beta released",
       "href": "https://www.zombiezen.com/blog/2025/06/zb-beta-release/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              4 comments",
       "index": 17
     },
     {
@@ -128,31 +128,31 @@
       "index": 18
     },
     {
+      "title": "Using Microsoft's New CLI Text Editor on Ubuntu",
+      "href": "https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Locally hosting an internet-connected server",
+      "href": "https://mjg59.dreamwidth.org/72095.html",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 20
+    },
+    {
       "title": "Query Your Postgres Database Using Plain English",
       "href": "https://medium.com/@benderv/query-your-postgres-database-using-plain-english-febd2c50a158",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Anime.js v4 is a lightweight JavaScript animation library with a simple, yet powerful API",
       "href": "https://animejs.com",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 20
-    },
-    {
-      "title": "Monads are not like burritos",
-      "href": "https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Locally hosting an internet-connected server",
-      "href": "https://mjg59.dreamwidth.org/72095.html",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "Using Microsoft's New CLI Text Editor on Ubuntu",
-      "href": "https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu",
+      "title": "Shadow: A browser engine from scratch in Javascript",
+      "href": "https://shadow.goose.icu",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Is Documentation Like Pineapple on Pizza?",
-      "href": "https://l.idaszak.com/l-docs-like-pineapple-on-pizza",
+      "title": "Is there a Half-Life for the Success Rates of AI Agents?",
+      "href": "https://www.tobyord.com/writing/half-life",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
