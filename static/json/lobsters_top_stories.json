@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, June 19, 2025 at 7:40 AM GMT-5",
+  "date": "Thursday, June 19, 2025 at 8:30 AM GMT-5",
   "articles": [
-    {
-      "title": "The Server Doesn't Render Anything",
-      "href": "https://unplannedobsolescence.com/blog/the-server-doesnt-render/",
-      "points": "",
-      "comments": "\n              44 comments",
-      "index": 1
-    },
     {
       "title": "What Would a Kubernetes 2.0 Look Like",
       "href": "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              4 comments",
+      "index": 1
+    },
+    {
+      "title": "The Server Doesn't Render Anything",
+      "href": "https://unplannedobsolescence.com/blog/the-server-doesnt-render/",
+      "points": "",
+      "comments": "\n              45 comments",
       "index": 2
     },
     {
@@ -30,66 +30,66 @@
       "index": 4
     },
     {
-      "title": "I feel open source has turned into two worlds",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSourceTwoWorlds",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 5
-    },
-    {
       "title": "Quick notes on a brief agentic coding experience",
       "href": "https://olano.dev/blog/agentic-coding-experience/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 5
+    },
+    {
+      "title": "Moving on from Nix",
+      "href": "https://carlosbecker.com/posts/bye-nix/",
+      "points": "",
+      "comments": "\n              40 comments",
       "index": 6
     },
     {
       "title": "Why I Won't Use AI",
       "href": "https://agentultra.com/blog/why-i-wont-use-ai/index.html",
       "points": "",
-      "comments": "\n              39 comments",
+      "comments": "\n              40 comments",
       "index": 7
-    },
-    {
-      "title": "Moving on from Nix",
-      "href": "https://carlosbecker.com/posts/bye-nix/",
-      "points": "",
-      "comments": "\n              39 comments",
-      "index": 8
-    },
-    {
-      "title": "GCC, glibc, stack unwinding and relocations – A war story",
-      "href": "https://blog.sergiodj.net/posts/gcc-glibc-stack-unwinding-relocations-bug/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 9
-    },
-    {
-      "title": "It’s True, “We” Don’t Care About Accessibility on Linux",
-      "href": "https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 10
-    },
-    {
-      "title": "Lisp: Icing or Cake?",
-      "href": "https://dthompson.us/posts/lisp-icing-or-cake.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 11
-    },
-    {
-      "title": "Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads",
-      "href": "https://boydkane.com/projects/crates-download-ratio",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 12
     },
     {
       "title": "Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust",
       "href": "https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 8
+    },
+    {
+      "title": "Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads",
+      "href": "https://boydkane.com/projects/crates-download-ratio",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 9
+    },
+    {
+      "title": "Lisp: Icing or Cake?",
+      "href": "https://dthompson.us/posts/lisp-icing-or-cake.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
+      "title": "It’s True, “We” Don’t Care About Accessibility on Linux",
+      "href": "https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 11
+    },
+    {
+      "title": "GCC, glibc, stack unwinding and relocations – A war story",
+      "href": "https://blog.sergiodj.net/posts/gcc-glibc-stack-unwinding-relocations-bug/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 12
+    },
+    {
+      "title": "Elliptic curves as art",
+      "href": "https://elliptic-curves.art/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 13
     },
     {
@@ -121,8 +121,8 @@
       "index": 17
     },
     {
-      "title": "More Frontend Web Tricks",
-      "href": "https://kaiwenwang.com/writing/more-frontend-web-tricks",
+      "title": "files: In-repository file generation flake-parts module",
+      "href": "https://github.com/mightyiam/files",
       "points": "",
       "comments": "\n              no comments",
       "index": 18
@@ -135,8 +135,8 @@
       "index": 19
     },
     {
-      "title": "Elliptic curves as art",
-      "href": "https://elliptic-curves.art/",
+      "title": "More Frontend Web Tricks",
+      "href": "https://kaiwenwang.com/writing/more-frontend-web-tricks",
       "points": "",
       "comments": "\n              no comments",
       "index": 20
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "files: In-repository file generation flake-parts module",
-      "href": "https://github.com/mightyiam/files",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
       "title": "The plight of the misunderstood memory ordering",
       "href": "https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
+      "index": 24
+    },
+    {
+      "title": "Resurrecting a dead torrent tracker and finding 3 million peers",
+      "href": "https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 25
     }
   ]
