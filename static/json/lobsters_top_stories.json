@@ -1,46 +1,46 @@
 {
-  "date": "Thursday, June 19, 2025 at 2:15 PM GMT-5",
+  "date": "Thursday, June 19, 2025 at 3:25 PM GMT-5",
   "articles": [
     {
       "title": "What Would a Kubernetes 2.0 Look Like",
       "href": "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              27 comments",
       "index": 1
     },
     {
       "title": "2048 with only 64 bits of state",
       "href": "https://github.com/izabera/bitwise-challenge-2048",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              8 comments",
       "index": 2
+    },
+    {
+      "title": "I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice",
+      "href": "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 3
     },
     {
       "title": "charmbracelet/fang: The CLI starter kit",
       "href": "https://github.com/charmbracelet/fang",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 3
-    },
-    {
-      "title": "I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice — fireborn",
-      "href": "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 4
-    },
-    {
-      "title": "The Server Doesn't Render Anything",
-      "href": "https://unplannedobsolescence.com/blog/the-server-doesnt-render/",
-      "points": "",
-      "comments": "\n              63 comments",
-      "index": 5
     },
     {
       "title": "Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust",
       "href": "https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
+      "index": 5
+    },
+    {
+      "title": "The Server Doesn't Render Anything",
+      "href": "https://unplannedobsolescence.com/blog/the-server-doesnt-render/",
+      "points": "",
+      "comments": "\n              68 comments",
       "index": 6
     },
     {
@@ -54,7 +54,7 @@
       "title": "A Dynamic Graph Approach to Immediate Cycle Collection",
       "href": "https://dl.acm.org/doi/10.1145/3735950.3735953",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 8
     },
     {
@@ -65,17 +65,17 @@
       "index": 9
     },
     {
+      "title": "Homegrown closures for Uxn",
+      "href": "https://krzysckh.org/b/Homegrown-closures-for-uxn.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
       "title": "The Zed Debugger is Here",
       "href": "https://zed.dev/blog/debugger",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 10
-    },
-    {
-      "title": "Elliptic curves as art",
-      "href": "https://elliptic-curves.art/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 11
     },
     {
@@ -86,92 +86,92 @@
       "index": 12
     },
     {
+      "title": "Elliptic curves as art",
+      "href": "https://elliptic-curves.art/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
       "title": "Moving on from Nix",
       "href": "https://carlosbecker.com/posts/bye-nix/",
       "points": "",
       "comments": "\n              50 comments",
-      "index": 13
-    },
-    {
-      "title": "Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads",
-      "href": "https://boydkane.com/projects/crates-download-ratio",
-      "points": "",
-      "comments": "\n              12 comments",
       "index": 14
-    },
-    {
-      "title": "Homegrown closures for Uxn",
-      "href": "https://krzysckh.org/b/Homegrown-closures-for-uxn.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "s7 scheme",
-      "href": "https://ccrma.stanford.edu/software/snd/snd/s7.html",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 16
-    },
-    {
-      "title": "Why I Won't Use AI",
-      "href": "https://agentultra.com/blog/why-i-wont-use-ai/index.html",
-      "points": "",
-      "comments": "\n              48 comments",
-      "index": 17
-    },
-    {
-      "title": "Lisp: Icing or Cake?",
-      "href": "https://dthompson.us/posts/lisp-icing-or-cake.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 18
-    },
-    {
-      "title": "New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions",
-      "href": "https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 19
-    },
-    {
-      "title": "Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone",
-      "href": "https://linmob.net/liberux-nexx-an-interview-with-liberux/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "GCC, glibc, stack unwinding and relocations – A war story",
-      "href": "https://blog.sergiodj.net/posts/gcc-glibc-stack-unwinding-relocations-bug/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 21
     },
     {
       "title": "Bibliography of Scheme-related Research (2012)",
       "href": "https://web.archive.org/web/20180625085633/http://library.readscheme.org/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
+      "title": "Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads",
+      "href": "https://boydkane.com/projects/crates-download-ratio",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 16
+    },
+    {
+      "title": "s7 scheme",
+      "href": "https://ccrma.stanford.edu/software/snd/snd/s7.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 17
+    },
+    {
+      "title": "Why I Won't Use AI",
+      "href": "https://agentultra.com/blog/why-i-wont-use-ai/index.html",
+      "points": "",
+      "comments": "\n              49 comments",
+      "index": 18
+    },
+    {
+      "title": "Lisp: Icing or Cake?",
+      "href": "https://dthompson.us/posts/lisp-icing-or-cake.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 19
+    },
+    {
+      "title": "New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions",
+      "href": "https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 20
+    },
+    {
+      "title": "Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone",
+      "href": "https://linmob.net/liberux-nexx-an-interview-with-liberux/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "GCC, glibc, stack unwinding and relocations – A war story",
+      "href": "https://blog.sergiodj.net/posts/gcc-glibc-stack-unwinding-relocations-bug/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 22
+    },
+    {
+      "title": "The 16-billion-record data breach that no one’s ever heard of",
+      "href": "https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Should we design for iffy internet?",
       "href": "https://bytes.zone/posts/should-we-design-for-iffy-internet/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Accessibility Programming Doesn't Feel Accessible",
       "href": "https://acidiclight.dev/blog/accessibility-does-not-feel-accessible/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "The 16-billion-record data breach that no one’s ever heard of",
-      "href": "https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
