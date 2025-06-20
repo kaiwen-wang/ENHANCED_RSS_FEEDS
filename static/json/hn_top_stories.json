@@ -1,214 +1,214 @@
 {
-  "date": "Friday, June 20, 2025 at 8:30 AM GMT-5",
+  "date": "Friday, June 20, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
-      "title": "Hurl: Run and test HTTP requests with plain text",
-      "href": "https://github.com/Orange-OpenSource/hurl",
-      "points": "259 points",
-      "comments": "71 comments",
+      "title": "Show HN: Ts-SSH – SSH over Tailscale without running the daemon",
+      "href": "https://github.com/derekg/ts-ssh",
+      "points": "20 points",
+      "comments": "discuss",
       "index": 1
     },
     {
-      "title": "Makefile Style Guide",
-      "href": "https://clarkgrubb.com/makefile-style-guide",
-      "points": "8 points",
-      "comments": "discuss",
+      "title": "Hurl: Run and test HTTP requests with plain text",
+      "href": "https://github.com/Orange-OpenSource/hurl",
+      "points": "282 points",
+      "comments": "74 comments",
       "index": 2
-    },
-    {
-      "title": "College baseball, venture capital, and the long maybe",
-      "href": "https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/",
-      "points": "20 points",
-      "comments": "4 comments",
-      "index": 3
-    },
-    {
-      "title": "Show HN: I wrote a new BitTorrent tracker in Elixir",
-      "href": "https://github.com/Dahrkael/ExTracker",
-      "points": "310 points",
-      "comments": "50 comments",
-      "index": 4
-    },
-    {
-      "title": "Asterinas: A new Linux-compatible kernel project",
-      "href": "https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/",
-      "points": "101 points",
-      "comments": "29 comments",
-      "index": 5
-    },
-    {
-      "title": "ELIZA Reanimated: Restoring the Mother of All Chatbots",
-      "href": "https://www.computer.org/csdl/magazine/an/2025/02/11030922/27sQDLuL7Uc",
-      "points": "44 points",
-      "comments": "7 comments",
-      "index": 6
-    },
-    {
-      "title": "Compiling LLMs into a MegaKernel: A path to low-latency inference",
-      "href": "https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17",
-      "points": "251 points",
-      "comments": "69 comments",
-      "index": 7
-    },
-    {
-      "title": "The Right Chemistry: How Jean Harlow became a 'platinum blond' (2020)",
-      "href": "https://montrealgazette.com/opinion/columnists/article249177.html",
-      "points": "6 points",
-      "comments": "discuss",
-      "index": 8
-    },
-    {
-      "title": "Open source can't coordinate",
-      "href": "https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html",
-      "points": "123 points",
-      "comments": "135 comments",
-      "index": 9
-    },
-    {
-      "title": "The Ecosystem Dynamics That Can Make or Break an Invasion",
-      "href": "https://www.quantamagazine.org/the-ecosystem-dynamics-that-can-make-or-break-an-invasion-20250616/",
-      "points": "21 points",
-      "comments": "discuss",
-      "index": 10
-    },
-    {
-      "title": "My A11y Journey",
-      "href": "https://mjg59.dreamwidth.org/72379.html",
-      "points": "9 points",
-      "comments": "4 comments",
-      "index": 11
     },
     {
       "title": "Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor",
       "href": "https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor",
+      "points": "30 points",
+      "comments": "2 comments",
+      "index": 3
+    },
+    {
+      "title": "College baseball, venture capital, and the long maybe",
+      "href": "https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/",
+      "points": "39 points",
+      "comments": "12 comments",
+      "index": 4
+    },
+    {
+      "title": "Show HN: I wrote a new BitTorrent tracker in Elixir",
+      "href": "https://github.com/Dahrkael/ExTracker",
+      "points": "320 points",
+      "comments": "51 comments",
+      "index": 5
+    },
+    {
+      "title": "Asterinas: A new Linux-compatible kernel project",
+      "href": "https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/",
+      "points": "115 points",
+      "comments": "33 comments",
+      "index": 6
+    },
+    {
+      "title": "Show HN: SnapQL – Desktop app to query Postgres with AI",
+      "href": "https://github.com/NickTikhonov/snap-ql",
+      "points": "10 points",
+      "comments": "3 comments",
+      "index": 7
+    },
+    {
+      "title": "ELIZA Reanimated: Restoring the Mother of All Chatbots",
+      "href": "https://www.computer.org/csdl/magazine/an/2025/02/11030922/27sQDLuL7Uc",
+      "points": "55 points",
+      "comments": "8 comments",
+      "index": 8
+    },
+    {
+      "title": "The Right Chemistry: How Jean Harlow became a ‘platinum blond’ (2020)",
+      "href": "https://montrealgazette.com/opinion/columnists/article249177.html",
+      "points": "11 points",
+      "comments": "discuss",
+      "index": 9
+    },
+    {
+      "title": "My A11y Journey",
+      "href": "https://mjg59.dreamwidth.org/72379.html",
+      "points": "15 points",
+      "comments": "11 comments",
+      "index": 10
+    },
+    {
+      "title": "Compiling LLMs into a MegaKernel: A path to low-latency inference",
+      "href": "https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17",
+      "points": "258 points",
+      "comments": "69 comments",
+      "index": 11
+    },
+    {
+      "title": "BBC threatens AI firm with legal action over unauthorised content use",
+      "href": "https://www.bbc.co.uk/news/articles/cy7ndgylzzmo",
+      "points": "30 points",
+      "comments": "5 comments",
+      "index": 12
+    },
+    {
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Robotics",
+      "href": "https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong",
       "points": "7 points",
       "comments": "discuss",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Virtual cells",
       "href": "https://udara.io/science/virtual-cells/",
-      "points": "72 points",
+      "points": "79 points",
       "comments": "13 comments",
-      "index": 13
+      "index": 14
+    },
+    {
+      "title": "Open source can't coordinate",
+      "href": "https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html",
+      "points": "138 points",
+      "comments": "148 comments",
+      "index": 15
+    },
+    {
+      "title": "AI is going to hack Jira",
+      "href": "https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira",
+      "points": "51 points",
+      "comments": "30 comments",
+      "index": 16
     },
     {
       "title": "Qfex (YC X25) – Back End Engineer for a 24/7 Stock Exchange",
       "href": "https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer",
       "points": "",
       "comments": "hide",
-      "index": 14
-    },
-    {
-      "title": "Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy",
-      "href": "https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy",
-      "points": "108 points",
-      "comments": "32 comments",
-      "index": 15
-    },
-    {
-      "title": "Andrej Karpathy: Software in the era of AI [video]",
-      "href": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
-      "points": "1274 points",
-      "comments": "708 comments",
-      "index": 16
-    },
-    {
-      "title": "Show HN: Tool to Automatically Create Organized Commits for PRs",
-      "href": "https://github.com/edverma/git-smart-squash",
-      "points": "65 points",
-      "comments": "38 comments",
       "index": 17
-    },
-    {
-      "title": "Chimpanzees yawn when observing an Android yawn",
-      "href": "https://www.nature.com/articles/s41598-025-98639-z",
-      "points": "37 points",
-      "comments": "26 comments",
-      "index": 18
-    },
-    {
-      "title": "A '70s performance artist who became a hero to 'garbage men'",
-      "href": "https://www.nytimes.com/2025/06/14/nyregion/maintenance-artist-mierle-laderman-ukeles.html",
-      "points": "19 points",
-      "comments": "3 comments",
-      "index": 19
-    },
-    {
-      "title": "Wayland Is Growing Up. and Now We Don't Have a Choice",
-      "href": "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/",
-      "points": "28 points",
-      "comments": "24 comments",
-      "index": 20
-    },
-    {
-      "title": "AI is going to hack Jira",
-      "href": "https://thoughtfuleng.substack.com/p/ai-is-going-to-hack-jira",
-      "points": "19 points",
-      "comments": "6 comments",
-      "index": 21
     },
     {
       "title": "NASA Scientists Find Ties Between Earth's Oxygen and Magnetic Field",
       "href": "https://science.nasa.gov/earth/earth-oxygen-magnetic-field-linked/",
-      "points": "3 points",
+      "points": "10 points",
+      "comments": "1 comment",
+      "index": 18
+    },
+    {
+      "title": "Giant, all-seeing telescope is set to revolutionize astronomy",
+      "href": "https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy",
+      "points": "118 points",
+      "comments": "33 comments",
+      "index": 19
+    },
+    {
+      "title": "Andrej Karpathy: Software in the era of AI [video]",
+      "href": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "points": "1284 points",
+      "comments": "714 comments",
+      "index": 20
+    },
+    {
+      "title": "The Ecosystem Dynamics That Can Make or Break an Invasion",
+      "href": "https://www.quantamagazine.org/the-ecosystem-dynamics-that-can-make-or-break-an-invasion-20250616/",
+      "points": "23 points",
       "comments": "discuss",
+      "index": 21
+    },
+    {
+      "title": "A '70s performance artist who became a hero to 'garbage men'",
+      "href": "https://www.nytimes.com/2025/06/14/nyregion/maintenance-artist-mierle-laderman-ukeles.html",
+      "points": "22 points",
+      "comments": "8 comments",
       "index": 22
     },
     {
-      "title": "Pipelined State Machine Corruption",
-      "href": "https://flak.tedunangst.com/post/pipelined-state-machine-corruption",
-      "points": "29 points",
-      "comments": "1 comment",
+      "title": "Meta announces Oakley smart glasses",
+      "href": "https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date",
+      "points": "9 points",
+      "comments": "12 comments",
       "index": 23
-    },
-    {
-      "title": "Literate programming tool for any language",
-      "href": "https://github.com/zyedidia/Literate",
-      "points": "109 points",
-      "comments": "55 comments",
-      "index": 24
     },
     {
       "title": "Sunsonic 986-II – A Thai Famicom clone with keyboard and mini CRT built-in",
       "href": "https://mastodon.gamedev.place/@pikuma/114711138512697712",
-      "points": "71 points",
+      "points": "75 points",
       "comments": "11 comments",
+      "index": 24
+    },
+    {
+      "title": "Chimpanzees yawn when observing an android yawn",
+      "href": "https://www.nature.com/articles/s41598-025-98639-z",
+      "points": "37 points",
+      "comments": "30 comments",
       "index": 25
+    },
+    {
+      "title": "Literate programming tool for any language",
+      "href": "https://github.com/zyedidia/Literate",
+      "points": "114 points",
+      "comments": "55 comments",
+      "index": 26
+    },
+    {
+      "title": "Pipelined State Machine Corruption",
+      "href": "https://flak.tedunangst.com/post/pipelined-state-machine-corruption",
+      "points": "30 points",
+      "comments": "1 comment",
+      "index": 27
     },
     {
       "title": "Octobass",
       "href": "https://www.atlasobscura.com/places/octobass",
-      "points": "77 points",
+      "points": "82 points",
       "comments": "20 comments",
-      "index": 26
-    },
-    {
-      "title": "Learn Makefiles",
-      "href": "https://makefiletutorial.com/",
-      "points": "177 points",
-      "comments": "91 comments",
-      "index": 27
+      "index": 28
     },
     {
       "title": "Infinite Mac OS X",
       "href": "https://blog.persistent.info/2025/03/infinite-mac-os-x.html",
-      "points": "233 points",
-      "comments": "93 comments",
-      "index": 28
-    },
-    {
-      "title": "Show HN: Sexprs – Lisp dialect written in Rust",
-      "href": "https://github.com/gabrielfalcao/sexprs",
-      "points": "17 points",
-      "comments": "7 comments",
+      "points": "236 points",
+      "comments": "98 comments",
       "index": 29
     },
     {
-      "title": "Show HN: A DOS-like hobby OS written in Rust and x86 assembly",
-      "href": "https://github.com/krustowski/rou2exOS",
-      "points": "184 points",
-      "comments": "53 comments",
+      "title": "Learn Makefiles",
+      "href": "https://makefiletutorial.com/",
+      "points": "192 points",
+      "comments": "101 comments",
       "index": 30
     }
   ]
