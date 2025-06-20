@@ -1,18 +1,18 @@
 {
-  "date": "Friday, June 20, 2025 at 11:25 AM GMT-5",
+  "date": "Friday, June 20, 2025 at 12:15 PM GMT-5",
   "articles": [
-    {
-      "title": "I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice",
-      "href": "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/",
-      "points": "",
-      "comments": "\n              52 comments",
-      "index": 1
-    },
     {
       "title": "Infinite Mac OS X",
       "href": "https://blog.persistent.info/2025/03/infinite-mac-os-x.html",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 1
+    },
+    {
+      "title": "I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice",
+      "href": "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/",
+      "points": "",
+      "comments": "\n              54 comments",
       "index": 2
     },
     {
@@ -23,24 +23,24 @@
       "index": 3
     },
     {
+      "title": "What are you doing this weekend?",
+      "href": "/s/4iglq1/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 4
+    },
+    {
       "title": "What Would a Kubernetes 2.0 Look Like",
       "href": "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/",
       "points": "",
       "comments": "\n              38 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "2048 with only 64 bits of state",
       "href": "https://github.com/izabera/bitwise-challenge-2048",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 5
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/4iglq1/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 6
     },
     {
@@ -58,122 +58,122 @@
       "index": 8
     },
     {
+      "title": "Reworking Memory Management in CRuby: A Practitioner Report",
+      "href": "https://blog.peterzhu.ca/assets/ismm_2025.pdf",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 9
+    },
+    {
       "title": "JavaScript broke the web (and called it progress)",
       "href": "https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 9
+      "comments": "\n              8 comments",
+      "index": 10
     },
     {
       "title": "pipelined state machine corruption",
       "href": "https://flak.tedunangst.com/post/pipelined-state-machine-corruption",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Finding Peter Putnam",
       "href": "https://nautil.us/finding-peter-putnam-1218035/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Homegrown closures for Uxn",
       "href": "https://krzysckh.org/b/Homegrown-closures-for-uxn.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "Reworking Memory Management in CRuby: A Practitioner Report",
-      "href": "https://blog.peterzhu.ca/assets/ismm_2025.pdf",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 13
-    },
-    {
-      "title": "A Dynamic Graph Approach to Immediate Cycle Collection",
-      "href": "https://dl.acm.org/doi/10.1145/3735950.3735953",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 14
-    },
-    {
-      "title": "2025 Stack Overflow Developer Survey",
-      "href": "https://stackoverflow.az1.qualtrics.com/jfe/form/SV_1MNG2CYTY2AzkAm",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 15
-    },
-    {
-      "title": "charmbracelet/fang: The CLI starter kit",
-      "href": "https://github.com/charmbracelet/fang",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 16
-    },
-    {
-      "title": "Gulaschprogrammiernacht 23",
-      "href": "https://media.ccc.de/c/gpn23",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust",
-      "href": "https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 18
-    },
-    {
-      "title": "Metaobject Protocols: Why we want them and what else they can do (1993)",
-      "href": "https://cseweb.ucsd.edu/%7Evahdat/papers/mop.pdf",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Hail the Maintainers (2016)",
-      "href": "https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
     },
     {
       "title": "Adapting nnue-pytorch's binary position format for Lichess",
       "href": "https://lichess.org/@/revoof/blog/adapting-nnue-pytorchs-binary-position-format-for-lichess/cpeeAMeY",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "A Dynamic Graph Approach to Immediate Cycle Collection",
+      "href": "https://dl.acm.org/doi/10.1145/3735950.3735953",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 15
+    },
+    {
+      "title": "Hail the Maintainers (2016)",
+      "href": "https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Phoenix.new – The Remote AI Runtime for Phoenix",
+      "href": "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "2025 Stack Overflow Developer Survey",
+      "href": "https://stackoverflow.az1.qualtrics.com/jfe/form/SV_1MNG2CYTY2AzkAm",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 18
+    },
+    {
+      "title": "charmbracelet/fang: The CLI starter kit",
+      "href": "https://github.com/charmbracelet/fang",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 19
+    },
+    {
+      "title": "Gulaschprogrammiernacht 23",
+      "href": "https://media.ccc.de/c/gpn23",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust",
+      "href": "https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 21
+    },
+    {
+      "title": "Metaobject Protocols: Why we want them and what else they can do (1993)",
+      "href": "https://cseweb.ucsd.edu/%7Evahdat/papers/mop.pdf",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Let’s All Write Good Software",
       "href": "https://youtu.be/eZ1mmqlq-mY",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion",
       "href": "https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Elliptic curves as art",
       "href": "https://elliptic-curves.art/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "The Less Humble Programmer (2023)",
-      "href": "https://digitalhumanities.org/dhq/vol/17/2/000698/000698.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
