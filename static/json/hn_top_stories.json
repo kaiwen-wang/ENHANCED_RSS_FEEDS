@@ -1,214 +1,214 @@
 {
-  "date": "Thursday, June 19, 2025 at 6:20 PM GMT-5",
+  "date": "Thursday, June 19, 2025 at 8:40 PM GMT-5",
   "articles": [
+    {
+      "title": "Show HN: I wrote a new BitTorrent tracker in Elixir",
+      "href": "https://github.com/Dahrkael/ExTracker",
+      "points": "91 points",
+      "comments": "5 comments",
+      "index": 1
+    },
     {
       "title": "Compiling LLMs into a MegaKernel: A path to low-latency inference",
       "href": "https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17",
-      "points": "103 points",
-      "comments": "26 comments",
-      "index": 1
+      "points": "153 points",
+      "comments": "43 comments",
+      "index": 2
     },
     {
       "title": "Literate programming tool for any language",
       "href": "https://github.com/zyedidia/Literate",
-      "points": "13 points",
-      "comments": "3 comments",
-      "index": 2
-    },
-    {
-      "title": "Curved-Crease Sculpture",
-      "href": "https://erikdemaine.org/curved/",
-      "points": "148 points",
-      "comments": "21 comments",
+      "points": "44 points",
+      "comments": "26 comments",
       "index": 3
     },
     {
-      "title": "Homegrown Closures for Uxn",
-      "href": "https://krzysckh.org/b/Homegrown-closures-for-uxn.html",
-      "points": "56 points",
+      "title": "Infinite Mac OS X",
+      "href": "https://blog.persistent.info/2025/03/infinite-mac-os-x.html",
+      "points": "19 points",
       "comments": "2 comments",
       "index": 4
     },
     {
       "title": "Andrej Karpathy: Software in the era of AI [video]",
       "href": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
-      "points": "1065 points",
-      "comments": "589 comments",
+      "points": "1113 points",
+      "comments": "622 comments",
       "index": 5
+    },
+    {
+      "title": "Curved-Crease Sculpture",
+      "href": "https://erikdemaine.org/curved/",
+      "points": "157 points",
+      "comments": "27 comments",
+      "index": 6
     },
     {
       "title": "Show HN: EnrichMCP – A Python ORM for Agents",
       "href": "https://github.com/featureform/enrichmcp",
-      "points": "71 points",
-      "comments": "21 comments",
-      "index": 6
-    },
-    {
-      "title": "How OpenElections uses LLMs",
-      "href": "https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html",
-      "points": "75 points",
-      "comments": "23 comments",
+      "points": "88 points",
+      "comments": "25 comments",
       "index": 7
     },
     {
       "title": "Show HN: A DOS-like hobby OS written in Rust and x86 assembly",
       "href": "https://github.com/krustowski/rou2exOS",
-      "points": "135 points",
-      "comments": "26 comments",
+      "points": "147 points",
+      "comments": "35 comments",
       "index": 8
     },
     {
-      "title": "Show HN: RM2000 Tape Recorder, an audio sampler for macOS",
-      "href": "https://rm2000.app",
-      "points": "15 points",
-      "comments": "4 comments",
+      "title": "Octobass",
+      "href": "https://www.atlasobscura.com/places/octobass",
+      "points": "10 points",
+      "comments": "1 comment",
       "index": 9
     },
     {
-      "title": "Extracting memorized pieces of books from open-weight language models",
-      "href": "https://arxiv.org/abs/2505.12546",
-      "points": "34 points",
-      "comments": "16 comments",
+      "title": "How OpenElections uses LLMs",
+      "href": "https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html",
+      "points": "84 points",
+      "comments": "34 comments",
       "index": 10
-    },
-    {
-      "title": "Star Quakes and Monster Shock Waves",
-      "href": "https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves",
-      "points": "30 points",
-      "comments": "4 comments",
-      "index": 11
     },
     {
       "title": "Guess I'm a Rationalist Now",
       "href": "https://scottaaronson.blog/?p=8908",
-      "points": "201 points",
-      "comments": "576 comments",
+      "points": "221 points",
+      "comments": "639 comments",
+      "index": 11
+    },
+    {
+      "title": "String Interpolation in C++ Using Glaze Stencil/Mustache",
+      "href": "https://stephenberry.github.io/glaze/stencil-mustache/",
+      "points": "18 points",
+      "comments": "discuss",
       "index": 12
     },
     {
-      "title": "Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs",
-      "href": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
-      "points": "180 points",
-      "comments": "101 comments",
+      "title": "Homegrown Closures for Uxn",
+      "href": "https://krzysckh.org/b/Homegrown-closures-for-uxn.html",
+      "points": "71 points",
+      "comments": "9 comments",
       "index": 13
     },
     {
-      "title": "What would a Kubernetes 2.0 look like",
-      "href": "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/",
-      "points": "122 points",
-      "comments": "192 comments",
+      "title": "Show HN: RM2000 Tape Recorder, an audio sampler for macOS",
+      "href": "https://rm2000.app",
+      "points": "30 points",
+      "comments": "9 comments",
       "index": 14
     },
     {
       "title": "Show HN: Unregistry – “docker push” directly to servers without a registry",
       "href": "https://github.com/psviderski/unregistry",
-      "points": "614 points",
-      "comments": "135 comments",
+      "points": "632 points",
+      "comments": "139 comments",
       "index": 15
+    },
+    {
+      "title": "Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs",
+      "href": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
+      "points": "195 points",
+      "comments": "108 comments",
+      "index": 16
     },
     {
       "title": "DNA floating in the air tracks wildlife, viruses, even drugs",
       "href": "https://www.sciencedaily.com/releases/2025/06/250603114822.htm",
-      "points": "59 points",
-      "comments": "53 comments",
-      "index": 16
+      "points": "72 points",
+      "comments": "60 comments",
+      "index": 17
     },
     {
-      "title": "Testing a Robust Netcode with Godot",
-      "href": "https://studios.ptilouk.net/little-brats/blog/2024-10-23_netcode.html",
-      "points": "24 points",
-      "comments": "6 comments",
-      "index": 17
+      "title": "Public/protected/private is an unnecessary feature",
+      "href": "https://catern.com/private.html",
+      "points": "53 points",
+      "comments": "51 comments",
+      "index": 18
+    },
+    {
+      "title": "What would a Kubernetes 2.0 look like",
+      "href": "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/",
+      "points": "141 points",
+      "comments": "223 comments",
+      "index": 19
+    },
+    {
+      "title": "We Can Just Measure Things",
+      "href": "https://lucumr.pocoo.org/2025/6/17/measuring/",
+      "points": "61 points",
+      "comments": "47 comments",
+      "index": 20
+    },
+    {
+      "title": "Sunsonic 986-II. A Thai Famicom clone with keyboard and mini CRT built-in",
+      "href": "https://mastodon.gamedev.place/@pikuma/114711138512697712",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 21
     },
     {
       "title": "Flowspace (YC S17) Is Hiring Software Engineers",
       "href": "https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II",
       "points": "",
       "comments": "hide",
-      "index": 18
+      "index": 22
     },
     {
-      "title": "Posit floating point numbers: thin triangles and other tricks (2019)",
-      "href": "http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html",
-      "points": "45 points",
-      "comments": "29 comments",
-      "index": 19
+      "title": "Star Quakes and Monster Shock Waves",
+      "href": "https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves",
+      "points": "35 points",
+      "comments": "4 comments",
+      "index": 23
     },
     {
-      "title": "String Interpolation in C++ Using Glaze Stencil/Mustache",
-      "href": "https://stephenberry.github.io/glaze/stencil-mustache/",
+      "title": "Testing a Robust Netcode with Godot",
+      "href": "https://studios.ptilouk.net/little-brats/blog/2024-10-23_netcode.html",
+      "points": "31 points",
+      "comments": "10 comments",
+      "index": 24
+    },
+    {
+      "title": "Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy",
+      "href": "https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy",
       "points": "6 points",
-      "comments": "discuss",
-      "index": 20
+      "comments": "1 comment",
+      "index": 25
     },
     {
       "title": "Visual History of the Latin Alphabet",
       "href": "https://uclab.fh-potsdam.de/arete/en",
-      "points": "102 points",
-      "comments": "64 comments",
-      "index": 21
-    },
-    {
-      "title": "Estrogen: A Trip Report",
-      "href": "https://smoothbrains.net/posts/2025-06-15-estrogen.html",
-      "points": "114 points",
-      "comments": "76 comments",
-      "index": 22
-    },
-    {
-      "title": "Why do we need DNSSEC?",
-      "href": "https://howdnssec.works/why-do-we-need-dnssec/",
-      "points": "73 points",
-      "comments": "110 comments",
-      "index": 23
+      "points": "113 points",
+      "comments": "66 comments",
+      "index": 26
     },
     {
       "title": "Munich from a Hamburger's perspective",
       "href": "https://mertbulan.com/2025/06/14/munich-from-a-hamburgers-perspective/",
-      "points": "99 points",
-      "comments": "82 comments",
-      "index": 24
+      "points": "108 points",
+      "comments": "88 comments",
+      "index": 27
+    },
+    {
+      "title": "Posit floating point numbers: thin triangles and other tricks (2019)",
+      "href": "http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html",
+      "points": "47 points",
+      "comments": "33 comments",
+      "index": 28
     },
     {
       "title": "From LLM to AI Agent: What's the Real Journey Behind AI System Development?",
       "href": "https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent",
-      "points": "113 points",
-      "comments": "35 comments",
-      "index": 25
-    },
-    {
-      "title": "Juneteenth in Photos",
-      "href": "https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/",
-      "points": "174 points",
-      "comments": "124 comments",
-      "index": 26
+      "points": "120 points",
+      "comments": "37 comments",
+      "index": 29
     },
     {
       "title": "Getting Started Strudel",
       "href": "https://strudel.cc/workshop/getting-started/",
-      "points": "125 points",
-      "comments": "48 comments",
-      "index": 27
-    },
-    {
-      "title": "Elliptic Curves as Art",
-      "href": "https://elliptic-curves.art/",
-      "points": "197 points",
-      "comments": "24 comments",
-      "index": 28
-    },
-    {
-      "title": "My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server",
-      "href": "https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/",
-      "points": "422 points",
-      "comments": "177 comments",
-      "index": 29
-    },
-    {
-      "title": "Geochronology supports LGM age for human tracks at White Sands, New Mexico",
-      "href": "https://www.science.org/doi/10.1126/sciadv.adv4951",
-      "points": "33 points",
-      "comments": "14 comments",
+      "points": "142 points",
+      "comments": "50 comments",
       "index": 30
     }
   ]
