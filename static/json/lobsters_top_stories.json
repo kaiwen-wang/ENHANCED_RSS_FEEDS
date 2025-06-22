@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, June 21, 2025 at 6:20 PM GMT-5",
+  "date": "Saturday, June 21, 2025 at 8:50 PM GMT-5",
   "articles": [
     {
       "title": "Unexpected security footguns in Go's parsers",
@@ -9,31 +9,31 @@
       "index": 1
     },
     {
-      "title": "More Undervalued Hardware Companions",
-      "href": "https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 2
-    },
-    {
-      "title": "YouTube’s new anti-adblock measures",
-      "href": "https://iter.ca/post/yt-adblock/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 3
-    },
-    {
       "title": "Remaking Celeste's Lighting",
       "href": "https://noelberry.ca/posts/celeste_lighting/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 4
+      "index": 2
+    },
+    {
+      "title": "More Undervalued Hardware Companions",
+      "href": "https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/",
+      "points": "",
+      "comments": "\n              28 comments",
+      "index": 3
     },
     {
       "title": "my website is one binary",
       "href": "https://j3s.sh/thought/my-website-is-one-binary.html",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              21 comments",
+      "index": 4
+    },
+    {
+      "title": "YouTube’s new anti-adblock measures",
+      "href": "https://iter.ca/post/yt-adblock/",
+      "points": "",
+      "comments": "\n              20 comments",
       "index": 5
     },
     {
@@ -47,40 +47,40 @@
       "title": "Cosmoe: BeOS Class Library on top of Wayland",
       "href": "https://cosmoe.org/index.html",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
       "index": 7
+    },
+    {
+      "title": "Adding linear-time lookbehinds to RE2",
+      "href": "https://systemf.epfl.ch/blog/re2-lookbehinds/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
     },
     {
       "title": "Why computational reproducibility matters",
       "href": "https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 8
+      "comments": "\n              10 comments",
+      "index": 9
+    },
+    {
+      "title": "See Jane 128 by Arktronics run (featuring Magic Desk, 3-Plus-1 and the Thomson MO5)",
+      "href": "http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
     },
     {
       "title": "All roads lead to disaster",
       "href": "https://blog.jsbarretto.com/post/all-roads-lead-to-disaster",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 9
-    },
-    {
-      "title": "In Praise of “Normal” Engineers",
-      "href": "https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 10
-    },
-    {
-      "title": "Mozilla is killing its Pocket and Fakespot services to focus on Firefox",
-      "href": "https://arstechnica.com/gadgets/2025/05/mozilla-is-killing-its-pocket-and-fakespot-services-to-focus-on-firefox/",
-      "points": "",
-      "comments": "\n              18 comments",
       "index": 11
     },
     {
-      "title": "Good at the Job, Bad at the Interview: Time to Rethink Hiring",
-      "href": "https://www.linkedin.com/pulse/good-job-bad-interview-time-rethink-hiring-christopher-robertson-jdnie",
+      "title": "Balatro for the Nintendo E-Reader",
+      "href": "https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/",
       "points": "",
       "comments": "\n              no comments",
       "index": 12
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
-      "title": "Balatro for the Nintendo E-Reader",
-      "href": "https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/",
+      "title": "Good at the Job, Bad at the Interview: Time to Rethink Hiring",
+      "href": "https://www.linkedin.com/pulse/good-job-bad-interview-time-rethink-hiring-christopher-robertson-jdnie",
       "points": "",
       "comments": "\n              no comments",
       "index": 14
     },
     {
-      "title": "Adding linear-time lookbehinds to RE2",
-      "href": "https://systemf.epfl.ch/blog/re2-lookbehinds/",
+      "title": "In Praise of “Normal” Engineers",
+      "href": "https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 15
     },
     {
-      "title": "Open Dylan 2025.1 - Open Dylan Release",
-      "href": "https://opendylan.org/release-notes/2025.1.html",
+      "title": "Mozilla is killing its Pocket and Fakespot services to focus on Firefox",
+      "href": "https://arstechnica.com/gadgets/2025/05/mozilla-is-killing-its-pocket-and-fakespot-services-to-focus-on-firefox/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              18 comments",
       "index": 16
-    },
-    {
-      "title": "Hare 0.25.2 released",
-      "href": "https://harelang.org/blog/2025-06-21-hare-0.25.2-released/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Scaling our Observability platform beyond 100 Petabytes by embracing wide events and replacing OTel",
-      "href": "https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
     },
     {
       "title": "Writing a basic Linux device driver when you know nothing about Linux drivers or USB",
       "href": "https://crescentro.se/posts/writing-drivers/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
-    },
-    {
-      "title": "Rolling the ladder up behind us",
-      "href": "https://xeiaso.net/blog/2025/rolling-ladder-behind-us/",
-      "points": "",
-      "comments": "\n              35 comments",
-      "index": 20
-    },
-    {
-      "title": "So you want to serialize some DER?",
-      "href": "https://alexgaynor.net/2025/jun/20/serialize-some-der/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 21
-    },
-    {
-      "title": "Application First - Media over QUIC",
-      "href": "https://quic.video/blog/application-first",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
+      "index": 17
     },
     {
       "title": "Rhapsody OS: Installing Apple’s Lost x86 OS from 1998 on a 3.4 Ghz i7 CPU & SSD",
       "href": "https://www.youtube.com/watch?v=uE6qp94InBM",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Open Dylan 2025.1 - Open Dylan Release",
+      "href": "https://opendylan.org/release-notes/2025.1.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 19
+    },
+    {
+      "title": "Application First - Media over QUIC",
+      "href": "https://quic.video/blog/application-first",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Hare 0.25.2 released",
+      "href": "https://harelang.org/blog/2025-06-21-hare-0.25.2-released/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Scaling our Observability platform beyond 100 Petabytes by embracing wide events and replacing OTel",
+      "href": "https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 22
+    },
+    {
+      "title": "To Bind and Loose a Reference (2020)",
+      "href": "https://thephd.dev/to-bind-and-loose-a-reference-optional",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "Of Course ML Has Monads! (2011)",
-      "href": "https://existentialtype.wordpress.com/2011/05/01/of-course-ml-has-monads/",
+      "title": "Rolling the ladder up behind us",
+      "href": "https://xeiaso.net/blog/2025/rolling-ladder-behind-us/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              34 comments",
       "index": 24
     },
     {
-      "title": "Color Everything in CSS",
-      "href": "https://css-tricks.com/color-everything-in-css/",
+      "title": "So you want to serialize some DER?",
+      "href": "https://alexgaynor.net/2025/jun/20/serialize-some-der/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 25
     }
   ]
