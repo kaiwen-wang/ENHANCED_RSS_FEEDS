@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, June 22, 2025 at 3:20 PM GMT-5",
+  "date": "Sunday, June 22, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "My First Impressions of Gleam",
       "href": "https://mtlynch.io/notes/gleam-first-impressions/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 1
     },
     {
       "title": "Announcing the Clippy feature freeze",
       "href": "https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 2
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "postmarketOS v25.06: the one with systemd",
-      "href": "https://postmarketos.org/blog/2025/06/22/v25.06-release/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 4
-    },
-    {
       "title": "Announcing LogTape 1.0.0",
       "href": "https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 4
+    },
+    {
+      "title": "postmarketOS v25.06: the one with systemd",
+      "href": "https://postmarketos.org/blog/2025/06/22/v25.06-release/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 5
     },
     {
@@ -58,122 +58,122 @@
       "index": 8
     },
     {
-      "title": "FreeBSD Kernel Modules pkg(8) Repositories",
-      "href": "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/",
+      "title": "A Macro Story",
+      "href": "https://courses.cs.northwestern.edu/325/readings/macro-lesson.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 9
-    },
-    {
-      "title": "Unexpected security footguns in Go's parsers",
-      "href": "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 10
-    },
-    {
-      "title": "Remaking Celeste's Lighting (2017)",
-      "href": "https://noelberry.ca/posts/celeste_lighting/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 11
     },
     {
       "title": "Basic facts about GPUs",
       "href": "https://damek.github.io/random/basic-facts-about-gpus/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
+      "title": "Unexpected security footguns in Go's parsers",
+      "href": "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 11
+    },
+    {
+      "title": "FreeBSD Kernel Modules pkg(8) Repositories",
+      "href": "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 12
     },
     {
-      "title": "tayga: Simple, no-fuss NAT64 for Linux",
-      "href": "https://github.com/apalrd/tayga",
+      "title": "Remaking Celeste's Lighting (2017)",
+      "href": "https://noelberry.ca/posts/celeste_lighting/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 13
+    },
+    {
+      "title": "I wrote my PhD Thesis in Typst",
+      "href": "https://fransskarman.com/phd_thesis_in_typst.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
     },
     {
       "title": "Adding linear-time lookbehinds to RE2",
       "href": "https://systemf.epfl.ch/blog/re2-lookbehinds/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "my website is one binary",
-      "href": "https://j3s.sh/thought/my-website-is-one-binary.html",
-      "points": "",
-      "comments": "\n              34 comments",
       "index": 15
     },
     {
-      "title": "A Macro Story",
-      "href": "https://courses.cs.northwestern.edu/325/readings/macro-lesson.html",
+      "title": "tayga: Simple, no-fuss NAT64 for Linux",
+      "href": "https://github.com/apalrd/tayga",
       "points": "",
       "comments": "\n              no comments",
       "index": 16
     },
     {
-      "title": "you are what you launch: how software became a lifestyle brand",
-      "href": "https://omeru.bearblog.dev/lifestyle/",
+      "title": "How fast are Linux pipes anyway? (2022)",
+      "href": "https://mazzo.li/posts/fast-pipes.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 17
     },
     {
       "title": "The Mental Model of Server Components",
       "href": "https://saewitz.com/the-mental-model-of-server-components",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 18
     },
     {
-      "title": "B compiler written in Crust",
-      "href": "https://github.com/tsoding/b",
+      "title": "my website is one binary",
+      "href": "https://j3s.sh/thought/my-website-is-one-binary.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              34 comments",
       "index": 19
+    },
+    {
+      "title": "you are what you launch: how software became a lifestyle brand",
+      "href": "https://omeru.bearblog.dev/lifestyle/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "GEM: GPU-Accelerated Emulator-Inspired RTL Simulation | Research",
       "href": "https://research.nvidia.com/publication/2025-06_gem-gpu-accelerated-emulator-inspired-rtl-simulation",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 21
+    },
+    {
+      "title": "B compiler written in Crust",
+      "href": "https://github.com/tsoding/b",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 22
+    },
+    {
+      "title": "Building my own paper tape punch",
+      "href": "https://unimplementedtrap.com/paper-tape-punch",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "More Undervalued Hardware Companions",
       "href": "https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/",
       "points": "",
       "comments": "\n              33 comments",
-      "index": 21
+      "index": 24
     },
     {
       "title": "Balatro for the Nintendo E-Reader",
       "href": "https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "YouTube’s new anti-adblock measures",
-      "href": "https://iter.ca/post/yt-adblock/",
-      "points": "",
-      "comments": "\n              27 comments",
-      "index": 23
-    },
-    {
-      "title": "Trip report: June 2025 ISO C++ standards meeting",
-      "href": "https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 24
-    },
-    {
-      "title": "About Plasma’s X11 session",
-      "href": "https://pointieststick.com/2025/06/21/about-plasmas-x11-session/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 25
     }
   ]
