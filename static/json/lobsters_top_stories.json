@@ -1,39 +1,39 @@
 {
-  "date": "Monday, June 23, 2025 at 11:25 AM GMT-5",
+  "date": "Monday, June 23, 2025 at 12:20 PM GMT-5",
   "articles": [
+    {
+      "title": "Making TRAMP go Brrrr…",
+      "href": "https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 1
+    },
     {
       "title": "I wrote my PhD Thesis in Typst",
       "href": "https://fransskarman.com/phd_thesis_in_typst.html",
       "points": "",
       "comments": "\n              49 comments",
-      "index": 1
+      "index": 2
     },
     {
       "title": "My First Impressions of Gleam",
       "href": "https://mtlynch.io/notes/gleam-first-impressions/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 2
+      "index": 3
     },
     {
       "title": "A family of OpenSSL forks",
       "href": "https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 3
-    },
-    {
-      "title": "Making TRAMP go Brrrr…",
-      "href": "https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 4
     },
     {
       "title": "Solving LinkedIn Queens using MiniZinc",
       "href": "https://zayenz.se/blog/post/linkedin-queens/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 5
     },
     {
@@ -51,101 +51,101 @@
       "index": 7
     },
     {
+      "title": "Telescopes Are Tries: A Dependent Type Shellac on SQLite",
+      "href": "https://www.philipzucker.com/telescope_tries/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
+    },
+    {
       "title": "Asterinas: a new Linux-compatible kernel project",
       "href": "https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 8
+      "comments": "\n              4 comments",
+      "index": 9
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/lrtenu/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 9
+      "index": 10
     },
     {
-      "title": "Telescopes Are Tries: A Dependent Type Shellac on SQLite",
-      "href": "https://www.philipzucker.com/telescope_tries/",
+      "title": "RedMonk Top 20 Languages Over Time: January 2025",
+      "href": "https://redmonk.com/rstephens/2025/06/18/top20-jan2025/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 10
+      "comments": "\n              3 comments",
+      "index": 11
     },
     {
       "title": "Whitesmiths C compiler: One of the earliest commercial C compilers available",
       "href": "https://github.com/hansake/Whitesmiths-C-compiler",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Announcing the Clippy feature freeze",
       "href": "https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 12
+      "index": 13
+    },
+    {
+      "title": "Makefile formatter and linter",
+      "href": "https://github.com/EbodShojaei/bake",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 14
     },
     {
       "title": "SATySFi: A statically-typed, functional typesetting system",
       "href": "https://github.com/gfngfn/SATySFi",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
+      "index": 15
     },
     {
       "title": "Modeling the World in 280 Characters",
       "href": "https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 16
     },
     {
       "title": "Discover C++26’s compile-time reflection",
       "href": "https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 15
-    },
-    {
-      "title": "Makefile formatter and linter",
-      "href": "https://github.com/EbodShojaei/bake",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Building my own paper tape punch",
       "href": "https://unimplementedtrap.com/paper-tape-punch",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "Go should be more opinionated",
+      "href": "https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "A Retrospective on the Source Code Control System",
       "href": "https://www.mrochkind.com/mrochkind/docs/SCCSretro2.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "FreeBSD Kernel Modules pkg(8) Repositories",
       "href": "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 19
-    },
-    {
-      "title": "RedMonk Top 20 Languages Over Time: January 2025",
-      "href": "https://redmonk.com/rstephens/2025/06/18/top20-jan2025/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 20
-    },
-    {
-      "title": "Compressing for the browser in Go",
-      "href": "https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 21
     },
     {
@@ -156,22 +156,22 @@
       "index": 22
     },
     {
+      "title": "Compressing for the browser in Go",
+      "href": "https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 23
+    },
+    {
       "title": "postmarketOS v25.06: the one with systemd",
       "href": "https://postmarketos.org/blog/2025/06/22/v25.06-release/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "A new JavaScript-inspired package manager for Rust",
       "href": "https://github.com/realchonk/bsget",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Go should be more opinionated",
-      "href": "https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
