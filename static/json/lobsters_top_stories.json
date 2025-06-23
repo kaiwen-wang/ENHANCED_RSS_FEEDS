@@ -1,25 +1,25 @@
 {
-  "date": "Monday, June 23, 2025 at 3:30 AM GMT-5",
+  "date": "Monday, June 23, 2025 at 4:25 AM GMT-5",
   "articles": [
     {
       "title": "My First Impressions of Gleam",
       "href": "https://mtlynch.io/notes/gleam-first-impressions/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 1
     },
     {
       "title": "I wrote my PhD Thesis in Typst",
       "href": "https://fransskarman.com/phd_thesis_in_typst.html",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              21 comments",
       "index": 2
     },
     {
       "title": "Asterinas: a new Linux-compatible kernel project",
       "href": "https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 3
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
-      "title": "Discover C++26’s compile-time reflection",
-      "href": "https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 6
-    },
-    {
       "title": "Compressing for the browser in Go",
       "href": "https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
+      "index": 6
+    },
+    {
+      "title": "Discover C++26’s compile-time reflection",
+      "href": "https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 7
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
+      "title": "tabiew: A TUI for viewing & querying CSV, TSV, JSON, SQLITE, and more",
+      "href": "https://github.com/shshemi/tabiew",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
       "title": "postmarketOS v25.06: the one with systemd",
       "href": "https://postmarketos.org/blog/2025/06/22/v25.06-release/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 9
-    },
-    {
-      "title": "tabiew: A TUI for viewing & querying CSV, TSV, JSON, SQLITE, and more",
-      "href": "https://github.com/shshemi/tabiew",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 10
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "FreeBSD Kernel Modules pkg(8) Repositories",
+      "href": "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "What are you doing this week?",
       "href": "/s/lrtenu/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "you are what you launch: how software became a lifestyle brand",
       "href": "https://omeru.bearblog.dev/lifestyle/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Polystate: Composable Finite State Machines",
       "href": "https://github.com/sdzx-1/polystate",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "tayga: Simple, no-fuss NAT64 for Linux",
-      "href": "https://github.com/apalrd/tayga",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
