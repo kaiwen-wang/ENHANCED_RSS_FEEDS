@@ -1,11 +1,11 @@
 {
-  "date": "Monday, June 23, 2025 at 3:20 PM GMT-5",
+  "date": "Monday, June 23, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "Making TRAMP go Brrrr…",
       "href": "https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              13 comments",
       "index": 1
     },
     {
@@ -26,28 +26,28 @@
       "title": "My First Impressions of Gleam",
       "href": "https://mtlynch.io/notes/gleam-first-impressions/",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              21 comments",
       "index": 4
     },
     {
       "title": "how i use my terminal",
       "href": "https://jyn.dev/how-i-use-my-terminal/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 5
+    },
+    {
+      "title": "Solving LinkedIn Queens using MiniZinc",
+      "href": "https://zayenz.se/blog/post/linkedin-queens/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 6
     },
     {
       "title": "Go should be more opinionated",
       "href": "https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 6
-    },
-    {
-      "title": "Solving LinkedIn Queens using MiniZinc",
-      "href": "https://zayenz.se/blog/post/linkedin-queens/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 7
     },
     {
@@ -75,21 +75,21 @@
       "title": "RedMonk Top 20 Languages Over Time: January 2025",
       "href": "https://redmonk.com/rstephens/2025/06/18/top20-jan2025/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              7 comments",
       "index": 11
-    },
-    {
-      "title": "JSON evolution in Go: from v1 to v2",
-      "href": "https://antonz.org/go-json-v2/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/lrtenu/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              13 comments",
+      "index": 12
+    },
+    {
+      "title": "alden: detachable terminal sessions without breaking scrollback",
+      "href": "https://ansuz.sooke.bc.ca/entry/389",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 13
     },
     {
@@ -107,17 +107,17 @@
       "index": 15
     },
     {
+      "title": "JSON evolution in Go: from v1 to v2",
+      "href": "https://antonz.org/go-json-v2/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
       "title": "Whitesmiths C compiler: One of the earliest commercial C compilers available",
       "href": "https://github.com/hansake/Whitesmiths-C-compiler",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Makefile formatter and linter",
-      "href": "https://github.com/EbodShojaei/bake",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 17
     },
     {
@@ -128,50 +128,50 @@
       "index": 18
     },
     {
-      "title": "Modeling the World in 280 Characters",
-      "href": "https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/",
+      "title": "Makefile formatter and linter",
+      "href": "https://github.com/EbodShojaei/bake",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              5 comments",
       "index": 19
-    },
-    {
-      "title": "Announcing the Clippy feature freeze",
-      "href": "https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 20
     },
     {
       "title": "Compressing for the browser in Go",
       "href": "https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html",
       "points": "",
       "comments": "\n              8 comments",
+      "index": 20
+    },
+    {
+      "title": "Modeling the World in 280 Characters",
+      "href": "https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
+    },
+    {
+      "title": "Announcing the Clippy feature freeze",
+      "href": "https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 22
     },
     {
       "title": "A Retrospective on the Source Code Control System",
       "href": "https://www.mrochkind.com/mrochkind/docs/SCCSretro2.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Discover C++26’s compile-time reflection",
       "href": "https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/",
       "points": "",
-      "comments": "\n              21 comments",
-      "index": 23
+      "comments": "\n              22 comments",
+      "index": 24
     },
     {
       "title": "Building my own paper tape punch",
       "href": "https://unimplementedtrap.com/paper-tape-punch",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "tabiew: A TUI for viewing & querying CSV, TSV, JSON, SQLITE, and more",
-      "href": "https://github.com/shshemi/tabiew",
       "points": "",
       "comments": "\n              1 comment",
       "index": 25
