@@ -1,11 +1,11 @@
 {
-  "date": "Monday, June 23, 2025 at 1:30 PM GMT-5",
+  "date": "Monday, June 23, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Making TRAMP go Brrrr…",
       "href": "https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              7 comments",
       "index": 1
     },
     {
@@ -47,7 +47,7 @@
       "title": "how i use my terminal",
       "href": "https://jyn.dev/how-i-use-my-terminal/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 7
     },
     {
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
-      "title": "RedMonk Top 20 Languages Over Time: January 2025",
-      "href": "https://redmonk.com/rstephens/2025/06/18/top20-jan2025/",
+      "title": "Call by Meaning (2014)",
+      "href": "https://tinlizzie.org/VPRIPapers/tr2014003_callbymeaning.pdf",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              2 comments",
       "index": 12
     },
     {
-      "title": "Makefile formatter and linter",
-      "href": "https://github.com/EbodShojaei/bake",
+      "title": "Moonbase Alpha: That time NASA made a meme video game",
+      "href": "https://www.spacebar.news/moonbase-alpha-nasa-video-game/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              1 comment",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "Announcing the Clippy feature freeze",
-      "href": "https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/",
+      "title": "RedMonk Top 20 Languages Over Time: January 2025",
+      "href": "https://redmonk.com/rstephens/2025/06/18/top20-jan2025/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              4 comments",
       "index": 15
     },
     {
-      "title": "SATySFi: A statically-typed, functional typesetting system",
-      "href": "https://github.com/gfngfn/SATySFi",
+      "title": "Makefile formatter and linter",
+      "href": "https://github.com/EbodShojaei/bake",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              5 comments",
       "index": 16
-    },
-    {
-      "title": "A Retrospective on the Source Code Control System",
-      "href": "https://www.mrochkind.com/mrochkind/docs/SCCSretro2.pdf",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
     },
     {
       "title": "Modeling the World in 280 Characters",
       "href": "https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Announcing the Clippy feature freeze",
+      "href": "https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 18
-    },
-    {
-      "title": "Discover C++26’s compile-time reflection",
-      "href": "https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 19
-    },
-    {
-      "title": "Building my own paper tape punch",
-      "href": "https://unimplementedtrap.com/paper-tape-punch",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
     },
     {
       "title": "Compressing for the browser in Go",
       "href": "https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html",
       "points": "",
       "comments": "\n              8 comments",
+      "index": 19
+    },
+    {
+      "title": "JSON evolution in Go: from v1 to v2",
+      "href": "https://antonz.org/go-json-v2/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "SATySFi: A statically-typed, functional typesetting system",
+      "href": "https://github.com/gfngfn/SATySFi",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 21
+    },
+    {
+      "title": "A Retrospective on the Source Code Control System",
+      "href": "https://www.mrochkind.com/mrochkind/docs/SCCSretro2.pdf",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Discover C++26’s compile-time reflection",
+      "href": "https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/",
+      "points": "",
+      "comments": "\n              20 comments",
+      "index": 23
+    },
+    {
+      "title": "Building my own paper tape punch",
+      "href": "https://unimplementedtrap.com/paper-tape-punch",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 24
     },
     {
       "title": "tabiew: A TUI for viewing & querying CSV, TSV, JSON, SQLITE, and more",
       "href": "https://github.com/shshemi/tabiew",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "FreeBSD Kernel Modules pkg(8) Repositories",
-      "href": "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 23
-    },
-    {
-      "title": "postmarketOS v25.06: the one with systemd",
-      "href": "https://postmarketos.org/blog/2025/06/22/v25.06-release/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "A Macro Story",
-      "href": "https://courses.cs.northwestern.edu/325/readings/macro-lesson.html",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 25
     }
   ]
