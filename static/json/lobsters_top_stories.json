@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, June 22, 2025 at 8:50 PM GMT-5",
+  "date": "Sunday, June 22, 2025 at 10:25 PM GMT-5",
   "articles": [
     {
       "title": "My First Impressions of Gleam",
@@ -12,7 +12,7 @@
       "title": "I wrote my PhD Thesis in Typst",
       "href": "https://fransskarman.com/phd_thesis_in_typst.html",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 2
     },
     {
@@ -26,21 +26,21 @@
       "title": "Discover C++26’s compile-time reflection",
       "href": "https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 4
-    },
-    {
-      "title": "postmarketOS v25.06: the one with systemd",
-      "href": "https://postmarketos.org/blog/2025/06/22/v25.06-release/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 5
     },
     {
       "title": "A Macro Story",
       "href": "https://courses.cs.northwestern.edu/325/readings/macro-lesson.html",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 5
+    },
+    {
+      "title": "postmarketOS v25.06: the one with systemd",
+      "href": "https://postmarketos.org/blog/2025/06/22/v25.06-release/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "Announcing LogTape 1.0.0",
-      "href": "https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 8
-    },
-    {
       "title": "Building my own paper tape punch",
       "href": "https://unimplementedtrap.com/paper-tape-punch",
       "points": "",
       "comments": "\n              no comments",
+      "index": 8
+    },
+    {
+      "title": "Announcing LogTape 1.0.0",
+      "href": "https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 9
     },
     {
@@ -72,80 +72,80 @@
       "index": 10
     },
     {
-      "title": "you are what you launch: how software became a lifestyle brand",
-      "href": "https://omeru.bearblog.dev/lifestyle/",
+      "title": "Finding a billion factorials in 60 ms with SIMD",
+      "href": "https://codeforces.com/blog/entry/143279",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 11
-    },
-    {
-      "title": "FreeBSD Kernel Modules pkg(8) Repositories",
-      "href": "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "CDP Retirement in Firefox",
-      "href": "https://fxdx.dev/cdp-retirement-in-firefox/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Basic facts about GPUs",
-      "href": "https://damek.github.io/random/basic-facts-about-gpus/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 14
     },
     {
       "title": "How fast are Linux pipes anyway? (2022)",
       "href": "https://mazzo.li/posts/fast-pipes.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 12
+    },
+    {
+      "title": "Asterinas: a new Linux-compatible kernel project",
+      "href": "https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "Allocators are Monkeys With Typewriters",
+      "href": "https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "you are what you launch: how software became a lifestyle brand",
+      "href": "https://omeru.bearblog.dev/lifestyle/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 15
+    },
+    {
+      "title": "FreeBSD Kernel Modules pkg(8) Repositories",
+      "href": "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "CDP Retirement in Firefox",
+      "href": "https://fxdx.dev/cdp-retirement-in-firefox/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Basic facts about GPUs",
+      "href": "https://damek.github.io/random/basic-facts-about-gpus/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 18
+    },
+    {
+      "title": "B compiler written in Crust",
+      "href": "https://github.com/tsoding/b",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 19
+    },
+    {
+      "title": "tabiew: A TUI for viewing & querying CSV, TSV, JSON, SQLITE, and more",
+      "href": "https://github.com/shshemi/tabiew",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "tayga: Simple, no-fuss NAT64 for Linux",
       "href": "https://github.com/apalrd/tayga",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Finding a billion factorials in 60 ms with SIMD",
-      "href": "https://codeforces.com/blog/entry/143279",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "B compiler written in Crust",
-      "href": "https://github.com/tsoding/b",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 18
-    },
-    {
-      "title": "Unexpected security footguns in Go's parsers",
-      "href": "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 19
-    },
-    {
-      "title": "Adding linear-time lookbehinds to RE2",
-      "href": "https://systemf.epfl.ch/blog/re2-lookbehinds/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Remaking Celeste's Lighting (2017)",
-      "href": "https://noelberry.ca/posts/celeste_lighting/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 21
     },
     {
@@ -156,22 +156,22 @@
       "index": 22
     },
     {
-      "title": "my website is one binary",
-      "href": "https://j3s.sh/thought/my-website-is-one-binary.html",
+      "title": "Unexpected security footguns in Go's parsers",
+      "href": "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/",
       "points": "",
-      "comments": "\n              32 comments",
+      "comments": "\n              12 comments",
       "index": 23
     },
     {
-      "title": "GEM: GPU-Accelerated Emulator-Inspired RTL Simulation | Research",
-      "href": "https://research.nvidia.com/publication/2025-06_gem-gpu-accelerated-emulator-inspired-rtl-simulation",
+      "title": "Makefile formatter and linter",
+      "href": "https://github.com/EbodShojaei/bake",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Balatro for the Nintendo E-Reader",
-      "href": "https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/",
+      "title": "Fixing Letrec (Reloaded)",
+      "href": "https://legacy.cs.indiana.edu/~dyb/pubs/letrec-reloaded.pdf",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
