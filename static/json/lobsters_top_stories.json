@@ -1,32 +1,32 @@
 {
-  "date": "Monday, June 23, 2025 at 6:20 AM GMT-5",
+  "date": "Monday, June 23, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "I wrote my PhD Thesis in Typst",
       "href": "https://fransskarman.com/phd_thesis_in_typst.html",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              36 comments",
       "index": 1
     },
     {
       "title": "My First Impressions of Gleam",
       "href": "https://mtlynch.io/notes/gleam-first-impressions/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              16 comments",
       "index": 2
-    },
-    {
-      "title": "Telescopes Are Tries: A Dependent Type Shellac on SQLite",
-      "href": "https://www.philipzucker.com/telescope_tries/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 3
     },
     {
       "title": "Asterinas: a new Linux-compatible kernel project",
       "href": "https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 3
+    },
+    {
+      "title": "Telescopes Are Tries: A Dependent Type Shellac on SQLite",
+      "href": "https://www.philipzucker.com/telescope_tries/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 4
     },
     {
@@ -40,14 +40,14 @@
       "title": "Compressing for the browser in Go",
       "href": "https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 6
     },
     {
       "title": "Discover C++26’s compile-time reflection",
       "href": "https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              14 comments",
       "index": 7
     },
     {
@@ -58,52 +58,52 @@
       "index": 8
     },
     {
-      "title": "Makefile formatter and linter",
-      "href": "https://github.com/EbodShojaei/bake",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 9
-    },
-    {
       "title": "tabiew: A TUI for viewing & querying CSV, TSV, JSON, SQLITE, and more",
       "href": "https://github.com/shshemi/tabiew",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 10
+      "index": 9
     },
     {
       "title": "postmarketOS v25.06: the one with systemd",
       "href": "https://postmarketos.org/blog/2025/06/22/v25.06-release/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
+      "title": "Makefile formatter and linter",
+      "href": "https://github.com/EbodShojaei/bake",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 11
+    },
+    {
+      "title": "Modeling the World in 280 Characters",
+      "href": "https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
     },
     {
       "title": "FreeBSD Kernel Modules pkg(8) Repositories",
       "href": "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "A Macro Story",
-      "href": "https://courses.cs.northwestern.edu/325/readings/macro-lesson.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 13
-    },
-    {
-      "title": "Pallene Language",
-      "href": "https://github.com/pallene-lang/pallene",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 14
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/lrtenu/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
+      "index": 14
+    },
+    {
+      "title": "Implicit is better than explicit",
+      "href": "https://sophiabits.com/blog/implicit-is-better-than-explicit",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "Implicit is better than explicit",
-      "href": "https://sophiabits.com/blog/implicit-is-better-than-explicit",
+      "title": "A Macro Story",
+      "href": "https://courses.cs.northwestern.edu/325/readings/macro-lesson.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 17
+    },
+    {
+      "title": "Pallene Language",
+      "href": "https://github.com/pallene-lang/pallene",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 18
     },
     {
       "title": "Finding a billion factorials in 60 ms with SIMD",
       "href": "https://codeforces.com/blog/entry/143279",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "CDP Retirement in Firefox",
-      "href": "https://fxdx.dev/cdp-retirement-in-firefox/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 19
-    },
-    {
-      "title": "Generating Musical Scales",
-      "href": "https://petecorey.com/blog/2025/06/22/generating-musical-scales/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Modeling the World in 280 Characters",
-      "href": "https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Announcing LogTape 1.0.0",
-      "href": "https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 22
-    },
-    {
-      "title": "How fast are Linux pipes anyway? (2022)",
-      "href": "https://mazzo.li/posts/fast-pipes.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 23
     },
     {
       "title": "Fixing Letrec (Reloaded)",
       "href": "https://legacy.cs.indiana.edu/~dyb/pubs/letrec-reloaded.pdf",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Introduction to the DCJ11 , PDP-11 on a Chip",
+      "href": "https://www.5volts.ch/pages/dcj11sbc/010-dcj11-introduction/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "CDP Retirement in Firefox",
+      "href": "https://fxdx.dev/cdp-retirement-in-firefox/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Generating Musical Scales",
+      "href": "https://petecorey.com/blog/2025/06/22/generating-musical-scales/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Announcing LogTape 1.0.0",
+      "href": "https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 24
     },
     {
-      "title": "Allocators are Monkeys With Typewriters",
-      "href": "https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/",
+      "title": "How fast are Linux pipes anyway? (2022)",
+      "href": "https://mazzo.li/posts/fast-pipes.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
