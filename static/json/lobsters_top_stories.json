@@ -1,5 +1,5 @@
 {
-  "date": "Monday, June 23, 2025 at 10:20 PM GMT-5",
+  "date": "Monday, June 23, 2025 at 11:30 PM GMT-5",
   "articles": [
     {
       "title": "Making TRAMP go Brrrr…",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
-      "title": "A family of OpenSSL forks",
-      "href": "https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 2
-    },
-    {
       "title": "how i use my terminal",
       "href": "https://jyn.dev/how-i-use-my-terminal/",
       "points": "",
       "comments": "\n              7 comments",
+      "index": 2
+    },
+    {
+      "title": "A family of OpenSSL forks",
+      "href": "https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 3
     },
     {
@@ -44,136 +44,136 @@
       "index": 6
     },
     {
-      "title": "Solving LinkedIn Queens using MiniZinc",
-      "href": "https://zayenz.se/blog/post/linkedin-queens/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 7
-    },
-    {
       "title": "alden: detachable terminal sessions without breaking scrollback",
       "href": "https://ansuz.sooke.bc.ca/entry/389",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 8
+      "index": 7
     },
     {
-      "title": "How to store Go pointers from assembly",
-      "href": "https://mazzo.li/posts/go-asm-pointers.html",
+      "title": "Solving LinkedIn Queens using MiniZinc",
+      "href": "https://zayenz.se/blog/post/linkedin-queens/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 9
+      "comments": "\n              3 comments",
+      "index": 8
     },
     {
       "title": "Interesting Bits of Postgres Grammar",
       "href": "https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "How to store Go pointers from assembly",
+      "href": "https://mazzo.li/posts/go-asm-pointers.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 10
-    },
-    {
-      "title": "Whitesmiths C compiler: One of the earliest commercial C compilers available",
-      "href": "https://github.com/hansake/Whitesmiths-C-compiler",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 11
-    },
-    {
-      "title": "JSON evolution in Go: from v1 to v2",
-      "href": "https://antonz.org/go-json-v2/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
     },
     {
       "title": "IWP9 talk recordings",
       "href": "https://youtube.com/playlist?list=PLEZEb6vVXSE-CV_vti2I6tJQNBn6f9swB",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "Whitesmiths C compiler: One of the earliest commercial C compilers available",
+      "href": "https://github.com/hansake/Whitesmiths-C-compiler",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 12
+    },
+    {
+      "title": "JSON evolution in Go: from v1 to v2",
+      "href": "https://antonz.org/go-json-v2/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 13
+    },
+    {
+      "title": "Monotone Functions and Cache Lines",
+      "href": "https://buttondown.com/jaffray/archive/monotone-functions-and-cache-lines/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
+      "title": "Moonbase Alpha: That time NASA made a meme video game",
+      "href": "https://www.spacebar.news/moonbase-alpha-nasa-video-game/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 15
     },
     {
       "title": "Telescopes Are Tries: A Dependent Type Shellac on SQLite",
       "href": "https://www.philipzucker.com/telescope_tries/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 16
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/lrtenu/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 15
-    },
-    {
-      "title": "Moonbase Alpha: That time NASA made a meme video game",
-      "href": "https://www.spacebar.news/moonbase-alpha-nasa-video-game/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 16
-    },
-    {
-      "title": "RedMonk Top 20 Languages Over Time: January 2025",
-      "href": "https://redmonk.com/rstephens/2025/06/18/top20-jan2025/",
-      "points": "",
-      "comments": "\n              9 comments",
       "index": 17
-    },
-    {
-      "title": "Asterinas: a new Linux-compatible kernel project",
-      "href": "https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 18
     },
     {
       "title": "Call by Meaning (2014)",
       "href": "https://tinlizzie.org/VPRIPapers/tr2014003_callbymeaning.pdf",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 18
+    },
+    {
+      "title": "RedMonk Top 20 Languages Over Time: January 2025",
+      "href": "https://redmonk.com/rstephens/2025/06/18/top20-jan2025/",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 19
     },
     {
-      "title": "Monotone Functions and Cache Lines",
-      "href": "https://buttondown.com/jaffray/archive/monotone-functions-and-cache-lines/",
+      "title": "Asterinas: a new Linux-compatible kernel project",
+      "href": "https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 20
+    },
+    {
+      "title": "Skip the Design Patterns Architecting with Nouns and Verbs",
+      "href": "https://www.youtube.com/watch?v=v-N6r8lcsNc",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Google donates A2A to Linux Foundation",
       "href": "https://developers.googleblog.com/en/google-cloud-donates-a2a-to-linux-foundation/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 22
     },
     {
       "title": "SATySFi: A statically-typed, functional typesetting system",
       "href": "https://github.com/gfngfn/SATySFi",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Makefile formatter and linter",
       "href": "https://github.com/EbodShojaei/bake",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Modeling the World in 280 Characters",
       "href": "https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Compressing for the browser in Go",
-      "href": "https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 25
     }
   ]
