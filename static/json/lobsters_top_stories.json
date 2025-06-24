@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, June 24, 2025 at 11:25 AM GMT-5",
+  "date": "Tuesday, June 24, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "Everyone should copy Thunderbird's donation model",
       "href": "https://blog.cyrneko.eu/everyone-should-copy-thunderbird",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
       "title": "Bazel’s Original Sins",
       "href": "https://fzakaria.com/2025/06/22/bazel-s-original-sins",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 2
     },
     {
@@ -44,31 +44,31 @@
       "index": 6
     },
     {
-      "title": "how i use my terminal",
-      "href": "https://jyn.dev/how-i-use-my-terminal/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 7
-    },
-    {
       "title": "Nix Development Setup for Factor",
       "href": "https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "Porting GPU shaders to Rust GPU 30x faster with AI",
+      "href": "https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 8
+    },
+    {
+      "title": "how i use my terminal",
+      "href": "https://jyn.dev/how-i-use-my-terminal/",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 9
     },
     {
       "title": "Onion Services: Design, Protocol and Implementation",
       "href": "https://media.ccc.de/v/gpn23-52-onion-services-design-protocol-and-implementation",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
-    },
-    {
-      "title": "Skip the Design Patterns Architecting with Nouns and Verbs",
-      "href": "https://www.youtube.com/watch?v=v-N6r8lcsNc",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 10
     },
     {
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
-      "title": "If you're building a JavaScript library and need logging, you'll probably love LogTape",
-      "href": "https://hackers.pub/@hongminhee/2025/logtape-for-libraries",
+      "title": "Skip the Design Patterns Architecting with Nouns and Verbs",
+      "href": "https://www.youtube.com/watch?v=v-N6r8lcsNc",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 12
-    },
-    {
-      "title": "A family of OpenSSL forks",
-      "href": "https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 13
-    },
-    {
-      "title": "Waiting for SQL:202y: Vectors",
-      "href": "http://peter.eisentraut.org/blog/2025/06/24/waiting-for-sql-202y-vectors",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
     },
     {
       "title": "The Bitter Lesson is coming for Tokenization",
       "href": "https://lucalp.dev/bitter-lesson-tokenization-and-blt",
       "points": "",
       "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "A family of OpenSSL forks",
+      "href": "https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 14
+    },
+    {
+      "title": "Waiting for SQL:202y: Vectors",
+      "href": "http://peter.eisentraut.org/blog/2025/06/24/waiting-for-sql-202y-vectors",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 15
     },
     {
-      "title": "Solving LinkedIn Queens using MiniZinc",
-      "href": "https://zayenz.se/blog/post/linkedin-queens/",
+      "title": "The one-more-re-nightmare compiler (2021)",
+      "href": "https://applied-langua.ge/posts/omrn-compiler.html",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 16
-    },
-    {
-      "title": "Go should be more opinionated",
-      "href": "https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 17
     },
     {
       "title": "Interesting Bits of Postgres Grammar",
       "href": "https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Solving LinkedIn Queens using MiniZinc",
+      "href": "https://zayenz.se/blog/post/linkedin-queens/",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 18
+    },
+    {
+      "title": "Go should be more opinionated",
+      "href": "https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 19
     },
     {
       "title": "Blockdiff: How we built our own file format for VM disk snapshots",
       "href": "https://cognition.ai/blog/blockdiff",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "alden: detachable terminal sessions without breaking scrollback",
       "href": "https://ansuz.sooke.bc.ca/entry/389",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 20
-    },
-    {
-      "title": "I wrote my PhD Thesis in Typst",
-      "href": "https://fransskarman.com/phd_thesis_in_typst.html",
-      "points": "",
-      "comments": "\n              60 comments",
       "index": 21
-    },
-    {
-      "title": "Moonbase Alpha: That time NASA made a meme video game",
-      "href": "https://www.spacebar.news/moonbase-alpha-nasa-video-game/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 22
     },
     {
       "title": "Lifetime Dispersion and Generational GC: An Intellectual Abstract",
       "href": "https://dl.acm.org/doi/10.1145/3735950.3735958",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "I wrote my PhD Thesis in Typst",
+      "href": "https://fransskarman.com/phd_thesis_in_typst.html",
+      "points": "",
+      "comments": "\n              61 comments",
       "index": 23
+    },
+    {
+      "title": "Moonbase Alpha: That time NASA made a meme video game",
+      "href": "https://www.spacebar.news/moonbase-alpha-nasa-video-game/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 24
     },
     {
       "title": "My First Impressions of Gleam",
       "href": "https://mtlynch.io/notes/gleam-first-impressions/",
       "points": "",
-      "comments": "\n              26 comments",
-      "index": 24
-    },
-    {
-      "title": "How to store Go pointers from assembly",
-      "href": "https://mazzo.li/posts/go-asm-pointers.html",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              27 comments",
       "index": 25
     }
   ]
