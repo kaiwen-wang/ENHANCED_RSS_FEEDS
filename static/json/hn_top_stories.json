@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, June 25, 2025 at 1:30 PM GMT-5",
+  "date": "Wednesday, June 25, 2025 at 2:15 PM GMT-5",
   "articles": [
-    {
-      "title": "A new PNG spec",
-      "href": "https://www.programmax.net/articles/png-is-back/",
-      "points": "333 points",
-      "comments": "390 comments",
-      "index": 1
-    },
     {
       "title": "Gemini CLI",
       "href": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
-      "points": "577 points",
-      "comments": "335 comments",
+      "points": "631 points",
+      "comments": "370 comments",
+      "index": 1
+    },
+    {
+      "title": "A new PNG spec",
+      "href": "https://www.programmax.net/articles/png-is-back/",
+      "points": "349 points",
+      "comments": "413 comments",
       "index": 2
     },
     {
-      "title": "OpenAI Charges by the Minute, So Make the Minutes Shorter",
-      "href": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
-      "points": "270 points",
-      "comments": "79 comments",
+      "title": "What Problems to Solve – By Richard Feynman",
+      "href": "http://genius.cat-v.org/richard-feynman/writtings/letters/problems",
+      "points": "95 points",
+      "comments": "8 comments",
       "index": 3
     },
     {
       "title": "Getting ready to issue IP address certificates",
       "href": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
-      "points": "77 points",
-      "comments": "26 comments",
+      "points": "101 points",
+      "comments": "46 comments",
       "index": 4
-    },
-    {
-      "title": "What Problems to Solve – By Richard Feynman",
-      "href": "http://genius.cat-v.org/richard-feynman/writtings/letters/problems",
-      "points": "51 points",
-      "comments": "5 comments",
-      "index": 5
     },
     {
       "title": "LM Studio is now an MCP Host",
       "href": "https://lmstudio.ai/blog/lmstudio-v0.3.17",
-      "points": "39 points",
-      "comments": "11 comments",
-      "index": 6
+      "points": "57 points",
+      "comments": "21 comments",
+      "index": 5
     },
     {
-      "title": "Web Embeddable Common Lisp",
-      "href": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
-      "points": "47 points",
-      "comments": "18 comments",
-      "index": 7
+      "title": "OpenAI Charges by the Minute, So Make the Minutes Shorter",
+      "href": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
+      "points": "292 points",
+      "comments": "88 comments",
+      "index": 6
     },
     {
       "title": "Build and Host AI-Powered Apps with Claude – No Deployment Needed",
       "href": "https://www.anthropic.com/news/claude-powered-artifacts",
-      "points": "28 points",
-      "comments": "3 comments",
+      "points": "50 points",
+      "comments": "15 comments",
+      "index": 7
+    },
+    {
+      "title": "Iroh: A library to establish direct connection between peers",
+      "href": "https://github.com/n0-computer/iroh",
+      "points": "43 points",
+      "comments": "7 comments",
       "index": 8
+    },
+    {
+      "title": "DeepSpeech Is Discontinued",
+      "href": "https://github.com/mozilla/DeepSpeech",
+      "points": "21 points",
+      "comments": "5 comments",
+      "index": 9
     },
     {
       "title": "FurtherAI (YC W24) Is Hiring for Software and AI Roles",
       "href": "https://www.ycombinator.com/companies/furtherai/jobs",
       "points": "",
       "comments": "hide",
-      "index": 9
-    },
-    {
-      "title": "Interstellar Flight: Perspectives and Patience",
-      "href": "https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/",
-      "points": "22 points",
-      "comments": "17 comments",
       "index": 10
     },
     {
-      "title": "DeepSpeech Is Discontinued",
-      "href": "https://github.com/mozilla/DeepSpeech",
-      "points": "9 points",
-      "comments": "3 comments",
+      "title": "Writing a basic Linux device driver when you know nothing about Linux drivers",
+      "href": "https://crescentro.se/posts/writing-drivers/",
+      "points": "18 points",
+      "comments": "discuss",
       "index": 11
     },
     {
-      "title": "Iroh: A library to establish direct connection between peers",
-      "href": "https://github.com/n0-computer/iroh",
-      "points": "23 points",
-      "comments": "4 comments",
+      "title": "Web Embeddable Common Lisp",
+      "href": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
+      "points": "53 points",
+      "comments": "21 comments",
       "index": 12
     },
     {
       "title": "Bot or Human? Creating the Invisible Turing Test for the Internet",
       "href": "https://research.roundtable.ai/proof-of-human/",
-      "points": "56 points",
-      "comments": "59 comments",
+      "points": "63 points",
+      "comments": "69 comments",
       "index": 13
     },
     {
       "title": "Reading NFC Passport Chips in Linux",
       "href": "https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/",
-      "points": "228 points",
-      "comments": "78 comments",
+      "points": "233 points",
+      "comments": "84 comments",
       "index": 14
     },
     {
       "title": "Third places and neighborhood entrepreneurship (2024)",
       "href": "https://www.nber.org/papers/w32604",
-      "points": "79 points",
-      "comments": "105 comments",
+      "points": "82 points",
+      "comments": "114 comments",
       "index": 15
-    },
-    {
-      "title": "Show HN: Elelem, a tool-calling CLI for Ollama and DeepSeek in C",
-      "href": "https://codeberg.org/politebot/elelem",
-      "points": "19 points",
-      "comments": "discuss",
-      "index": 16
-    },
-    {
-      "title": "Microsoft Edit",
-      "href": "https://github.com/microsoft/edit",
-      "points": "425 points",
-      "comments": "253 comments",
-      "index": 17
-    },
-    {
-      "title": "Thnickels",
-      "href": "https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e",
-      "points": "429 points",
-      "comments": "95 comments",
-      "index": 18
     },
     {
       "title": "Deep Down the Rabbit Hole: Bash, OverlayFS, and a 30-Year-Old Surprise",
       "href": "https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/",
-      "points": "28 points",
+      "points": "40 points",
       "comments": "4 comments",
+      "index": 16
+    },
+    {
+      "title": "I built an app to backup Live Photos from iPhone to external hard drives",
+      "href": "item?id=44352476",
+      "points": "21 points",
+      "comments": "8 comments",
+      "index": 17
+    },
+    {
+      "title": "Show HN: Elelem, a tool-calling CLI for Ollama and DeepSeek in C",
+      "href": "https://codeberg.org/politebot/elelem",
+      "points": "20 points",
+      "comments": "1 comment",
+      "index": 18
+    },
+    {
+      "title": "Microsoft Edit",
+      "href": "https://github.com/microsoft/edit",
+      "points": "432 points",
+      "comments": "260 comments",
       "index": 19
     },
     {
-      "title": "Introducing Qodo Gen CLI: Build and Run Coding Agents Anywhere in the SDLC",
-      "href": "https://www.qodo.ai/blog/introducing-qodo-gen-cli-build-run-and-automate-agents-anywhere-in-your-sdlc/",
-      "points": "36 points",
-      "comments": "6 comments",
+      "title": "Thnickels",
+      "href": "https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e",
+      "points": "449 points",
+      "comments": "96 comments",
       "index": 20
     },
     {
       "title": "Fun with uv and PEP 723",
       "href": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
-      "points": "579 points",
-      "comments": "198 comments",
+      "points": "583 points",
+      "comments": "201 comments",
       "index": 21
     },
     {
-      "title": "I built an app to backup Live Photos from iPhone to external hard drives",
-      "href": "item?id=44352476",
-      "points": "9 points",
-      "comments": "3 comments",
+      "title": "Introducing Qodo Gen CLI: Build and Run Coding Agents Anywhere in the SDLC",
+      "href": "https://www.qodo.ai/blog/introducing-qodo-gen-cli-build-run-and-automate-agents-anywhere-in-your-sdlc/",
+      "points": "38 points",
+      "comments": "6 comments",
       "index": 22
     },
     {
       "title": "Bill Atkinson: Polaroids Showing the Evolution of the Lisa GUI [video]",
       "href": "https://www.youtube.com/watch?v=Qg0mHFcB510",
-      "points": "96 points",
-      "comments": "25 comments",
+      "points": "103 points",
+      "comments": "31 comments",
       "index": 23
     },
     {
       "title": "Show HN: Scream to Unlock – Blocks social media until you scream “I'm a loser”",
       "href": "item?id=44375761",
-      "points": "166 points",
-      "comments": "90 comments",
+      "points": "179 points",
+      "comments": "94 comments",
       "index": 24
-    },
-    {
-      "title": "Microsoft opens a free tier for Windows 10 extended updates",
-      "href": "https://www.theregister.com/2025/06/25/microsoft_free_esu_tier/",
-      "points": "22 points",
-      "comments": "22 comments",
-      "index": 25
-    },
-    {
-      "title": "Is Lovable getting monetization wrong?",
-      "href": "https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut",
-      "points": "72 points",
-      "comments": "41 comments",
-      "index": 26
     },
     {
       "title": "The probability of a hash collision (2022)",
       "href": "https://kevingal.com/blog/collisions.html",
-      "points": "116 points",
-      "comments": "24 comments",
-      "index": 27
+      "points": "119 points",
+      "comments": "27 comments",
+      "index": 25
+    },
+    {
+      "title": "A Dictionary of the Language of Myst's D'ni",
+      "href": "http://www.eldalamberon.com/dni_dict.htm",
+      "points": "46 points",
+      "comments": "18 comments",
+      "index": 26
     },
     {
       "title": "ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry",
       "href": "https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry",
-      "points": "287 points",
-      "comments": "316 comments",
+      "points": "289 points",
+      "comments": "321 comments",
+      "index": 27
+    },
+    {
+      "title": "Interstellar Flight: Perspectives and Patience",
+      "href": "https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/",
+      "points": "33 points",
+      "comments": "41 comments",
       "index": 28
     },
     {
       "title": "Information has been permanently deleted, for small values of permanently",
       "href": "https://devblogs.microsoft.com/oldnewthing/20250625-01/?p=111308",
-      "points": "32 points",
-      "comments": "19 comments",
+      "points": "45 points",
+      "comments": "27 comments",
       "index": 29
     },
     {
-      "title": "A Dictionary of the Language of Myst's D'ni",
-      "href": "http://www.eldalamberon.com/dni_dict.htm",
-      "points": "40 points",
-      "comments": "18 comments",
+      "title": "Thoughts on Asunción, Paraguay",
+      "href": "https://cpsi.media/p/thoughts-on-asuncion-paraguay",
+      "points": "72 points",
+      "comments": "39 comments",
       "index": 30
     }
   ]
