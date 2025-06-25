@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, June 25, 2025 at 11:25 AM GMT-5",
+  "date": "Wednesday, June 25, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "Abusing copyright strings to trick software into thinking it's running on your competitor's PC",
@@ -19,21 +19,21 @@
       "title": "Gemini CLI: your open-source AI agent",
       "href": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
       "index": 3
-    },
-    {
-      "title": "forbidden secrets of ancient X11 scaling technology revealed",
-      "href": "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed",
-      "points": "",
-      "comments": "\n              63 comments",
-      "index": 4
     },
     {
       "title": "How to Write Compelling Release Announcements",
       "href": "https://refactoringenglish.com/chapters/release-announcements/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 4
+    },
+    {
+      "title": "forbidden secrets of ancient X11 scaling technology revealed",
+      "href": "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed",
+      "points": "",
+      "comments": "\n              64 comments",
       "index": 5
     },
     {
@@ -51,127 +51,127 @@
       "index": 7
     },
     {
+      "title": "Fun with uv and PEP 723",
+      "href": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 8
+    },
+    {
       "title": "OpenAI Charges by the Minute, So Make the Minutes Shorter",
       "href": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
-    },
-    {
-      "title": "Fun with uv and PEP 723",
-      "href": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 9
-    },
-    {
-      "title": "Nix/NixOS is the new “dotfiles golf” - and that’s awesome",
-      "href": "https://whynot.fail/nixos/the-new-dotfile-golf/",
-      "points": "",
-      "comments": "\n              38 comments",
-      "index": 10
     },
     {
       "title": "What's new in Gleam 1.11",
       "href": "https://www.youtube.com/watch?v=AKIZG0Dq3Bc",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 10
     },
     {
-      "title": "Inspecting Service Traffic with mirrord dump",
-      "href": "https://metalbear.co/blog/mirrord-dump/",
+      "title": "Nix/NixOS is the new “dotfiles golf” - and that’s awesome",
+      "href": "https://whynot.fail/nixos/the-new-dotfile-golf/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 12
+      "comments": "\n              38 comments",
+      "index": 11
     },
     {
       "title": "Web Embeddable Common Lisp",
       "href": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Nix Development Setup for Factor",
-      "href": "https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 14
-    },
-    {
-      "title": "Build your first iOS app on Linux / Windows",
-      "href": "https://xtool.sh/tutorials/xtool/first-app",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 15
-    },
-    {
-      "title": "How keys are used in FileVault and encryption",
-      "href": "https://eclecticlight.co/2025/06/25/how-keys-are-used-in-filevault-and-encryption/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Bazel’s Original Sins",
-      "href": "https://fzakaria.com/2025/06/22/bazel-s-original-sins",
-      "points": "",
-      "comments": "\n              30 comments",
-      "index": 17
-    },
-    {
-      "title": "Finding a 27-year-old easter egg in the Power Mac G3 ROM",
-      "href": "https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 18
-    },
-    {
-      "title": "A Lisp adventure on the calm waters of the dead C",
-      "href": "https://mihaiolteanu.me/language-abstractions",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 19
-    },
-    {
-      "title": "Interactive Handbook on Data Structures and Algorithms",
-      "href": "https://cartesian.app/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Fixes for five Lix CVEs",
-      "href": "https://lix.systems/blog/2025-06-24-lix-cves/",
-      "points": "",
       "comments": "\n              1 comment",
-      "index": 21
-    },
-    {
-      "title": "Firefox 140 Released With \"Unload Tab\", CSS Custom Highlighting API",
-      "href": "https://www.phoronix.com/news/Firefox-140",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 22
+      "index": 12
     },
     {
       "title": "Getting ready to issue IP address certificates",
       "href": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 13
     },
     {
-      "title": "What The Heck Just Happened?",
-      "href": "https://code.thheller.com/blog/shadow-cljs/2025/06/24/what-the-heck-just-happened.html",
+      "title": "Inspecting Service Traffic with mirrord dump",
+      "href": "https://metalbear.co/blog/mirrord-dump/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
+      "index": 14
+    },
+    {
+      "title": "Nix Development Setup for Factor",
+      "href": "https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 15
+    },
+    {
+      "title": "Build your first iOS app on Linux / Windows",
+      "href": "https://xtool.sh/tutorials/xtool/first-app",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 16
+    },
+    {
+      "title": "How keys are used in FileVault and encryption",
+      "href": "https://eclecticlight.co/2025/06/25/how-keys-are-used-in-filevault-and-encryption/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Bazel’s Original Sins",
+      "href": "https://fzakaria.com/2025/06/22/bazel-s-original-sins",
+      "points": "",
+      "comments": "\n              30 comments",
+      "index": 18
     },
     {
       "title": "Coding Independent Code Points (cICP) in PNG, explained",
       "href": "https://svgees.us/blog/cICP.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Deep down the rabbit hole: Bash, OverlayFS, and a 30-year-old surprise",
+      "href": "https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Finding a 27-year-old easter egg in the Power Mac G3 ROM",
+      "href": "https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 21
+    },
+    {
+      "title": "A Lisp adventure on the calm waters of the dead C",
+      "href": "https://mihaiolteanu.me/language-abstractions",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 22
+    },
+    {
+      "title": "Interactive Handbook on Data Structures and Algorithms",
+      "href": "https://cartesian.app/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Fixes for five Lix CVEs",
+      "href": "https://lix.systems/blog/2025-06-24-lix-cves/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 24
+    },
+    {
+      "title": "gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal",
+      "href": "https://github.com/google-gemini/gemini-cli",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
