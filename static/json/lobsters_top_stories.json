@@ -1,39 +1,39 @@
 {
-  "date": "Thursday, June 26, 2025 at 11:25 AM GMT-5",
+  "date": "Thursday, June 26, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "PNG is back",
       "href": "https://www.programmax.net/articles/png-is-back/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
       "title": "RSS Server Side Reader",
       "href": "https://matklad.github.io/2025/06/26/rssssr.html",
       "points": "",
-      "comments": "\n              9 comments",
-      "index": 2
-    },
-    {
-      "title": "Why Go Rocks for Building a Lua Interpreter",
-      "href": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
-      "points": "",
       "comments": "\n              14 comments",
-      "index": 3
+      "index": 2
     },
     {
       "title": "You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine",
       "href": "https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/",
       "points": "",
-      "comments": "\n              16 comments",
-      "index": 4
+      "comments": "\n              23 comments",
+      "index": 3
     },
     {
       "title": "Ticket-Driven Development: The Fastest Way to Go Nowhere",
       "href": "https://thecynical.dev/posts/ticket-driven-development/",
       "points": "",
       "comments": "\n              9 comments",
+      "index": 4
+    },
+    {
+      "title": "Why Go Rocks for Building a Lua Interpreter",
+      "href": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
+      "points": "",
+      "comments": "\n              16 comments",
       "index": 5
     },
     {
@@ -51,129 +51,129 @@
       "index": 7
     },
     {
-      "title": "Abusing copyright strings to trick software into thinking it's running on your competitor's PC",
-      "href": "https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299",
+      "title": "GCC 15 Continuously Improving AArch64",
+      "href": "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              no comments",
       "index": 8
-    },
-    {
-      "title": "How to Write Compelling Release Announcements",
-      "href": "https://refactoringenglish.com/chapters/release-announcements/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 9
     },
     {
       "title": "Weird expressions in rust",
       "href": "https://www.wakunguma.com/blog/rust-weird-expr",
       "points": "",
       "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "Abusing copyright strings to trick software into thinking it's running on your competitor's PC",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 10
-    },
-    {
-      "title": "GCC 15 Continuously Improving AArch64",
-      "href": "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "Notes on type inference and polymorphism",
-      "href": "https://blog.snork.dev/posts/notes-on-type-inference-and-polymorphism.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 12
-    },
-    {
-      "title": "How much code does that proc macro generate?",
-      "href": "https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Web Embeddable Common Lisp",
-      "href": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 14
-    },
-    {
-      "title": "Running a million-board chess MMO in a single process",
-      "href": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Swift Android Workgroup",
-      "href": "https://www.swift.org/android-workgroup/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 16
-    },
-    {
-      "title": "Gemini CLI: your open-source AI agent",
-      "href": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
-      "points": "",
-      "comments": "\n              21 comments",
-      "index": 17
     },
     {
       "title": "Cross-Compiling 10,000+ Rust CLI Crates Statically",
       "href": "https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 11
     },
     {
-      "title": "Printing the web: making webpages look good on paper",
-      "href": "https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/",
+      "title": "How to Write Compelling Release Announcements",
+      "href": "https://refactoringenglish.com/chapters/release-announcements/",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 19
-    },
-    {
-      "title": "The best interfaces we never built",
-      "href": "https://www.chrbutler.com/the-best-interfaces-we-never-built",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 20
-    },
-    {
-      "title": "Deep down the rabbit hole: Bash, OverlayFS, and a 30-year-old surprise",
-      "href": "https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 21
-    },
-    {
-      "title": "Reflecting JSON into C++ Objects at compile time",
-      "href": "https://brevzin.github.io/c++/2025/06/26/json-reflection/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
+      "comments": "\n              7 comments",
+      "index": 12
     },
     {
       "title": "A CRDT-based Messenger in 12 Lines of Bash Using a Synced Folder",
       "href": "https://holdtherobot.com/blog/crdt-messenger-in-12-lines-of-bash/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
+      "index": 13
     },
     {
-      "title": "Getting ready to issue IP address certificates",
-      "href": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
+      "title": "How much code does that proc macro generate?",
+      "href": "https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Gemini CLI: your open-source AI agent",
+      "href": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
+      "points": "",
+      "comments": "\n              21 comments",
+      "index": 15
+    },
+    {
+      "title": "Associated, unassociated alpha channel compositing",
+      "href": "https://medium.com/@giz51d/channeling-alpha-bd32afbfadfa",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Reflecting JSON into C++ Objects at compile time",
+      "href": "https://brevzin.github.io/c++/2025/06/26/json-reflection/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Notes on type inference and polymorphism",
+      "href": "https://blog.snork.dev/posts/notes-on-type-inference-and-polymorphism.html",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 18
+    },
+    {
+      "title": "Web Embeddable Common Lisp",
+      "href": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 24
+      "index": 19
+    },
+    {
+      "title": "Running a million-board chess MMO in a single process",
+      "href": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Swift Android Workgroup",
+      "href": "https://www.swift.org/android-workgroup/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 21
+    },
+    {
+      "title": "The best interfaces we never built",
+      "href": "https://www.chrbutler.com/the-best-interfaces-we-never-built",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 22
     },
     {
       "title": "Security Advisory: Airoha-based Bluetooth Headphones and Earbuds",
       "href": "https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 23
+    },
+    {
+      "title": "Deep down the rabbit hole: Bash, OverlayFS, and a 30-year-old surprise",
+      "href": "https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 24
+    },
+    {
+      "title": "Printing the web: making webpages look good on paper",
+      "href": "https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 25
     }
   ]
