@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, June 26, 2025 at 4:20 AM GMT-5",
+  "date": "Thursday, June 26, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
       "title": "Abusing copyright strings to trick software into thinking it's running on your competitor's PC",
       "href": "https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
-      "title": "How to Write Compelling Release Announcements",
-      "href": "https://refactoringenglish.com/chapters/release-announcements/",
+      "title": "Why Go Rocks for Building a Lua Interpreter",
+      "href": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              2 comments",
       "index": 2
     },
     {
@@ -23,66 +23,66 @@
       "index": 3
     },
     {
-      "title": "Gemini CLI: your open-source AI agent",
-      "href": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 4
-    },
-    {
-      "title": "Web Embeddable Common Lisp",
-      "href": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 5
-    },
-    {
       "title": "PNG is back",
       "href": "https://www.programmax.net/articles/png-is-back/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 6
+      "index": 4
     },
     {
-      "title": "Why Go Rocks for Building a Lua Interpreter",
-      "href": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
+      "title": "How to Write Compelling Release Announcements",
+      "href": "https://refactoringenglish.com/chapters/release-announcements/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 7
-    },
-    {
-      "title": "Printing the web: making webpages look good on paper",
-      "href": "https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 8
-    },
-    {
-      "title": "Deep down the rabbit hole: Bash, OverlayFS, and a 30-year-old surprise",
-      "href": "https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 9
+      "comments": "\n              5 comments",
+      "index": 5
     },
     {
       "title": "JavaScript Chose Violence",
       "href": "https://martinrue.com/javascript-chose-violence",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 10
-    },
-    {
-      "title": "Getting ready to issue IP address certificates",
-      "href": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 11
+      "comments": "\n              5 comments",
+      "index": 6
     },
     {
       "title": "Notes on type inference and polymorphism",
       "href": "https://blog.snork.dev/posts/notes-on-type-inference-and-polymorphism.html",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 7
+    },
+    {
+      "title": "Gemini CLI: your open-source AI agent",
+      "href": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 8
+    },
+    {
+      "title": "Web Embeddable Common Lisp",
+      "href": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 9
+    },
+    {
+      "title": "Printing the web: making webpages look good on paper",
+      "href": "https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 10
+    },
+    {
+      "title": "Deep down the rabbit hole: Bash, OverlayFS, and a 30-year-old surprise",
+      "href": "https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 11
+    },
+    {
+      "title": "Getting ready to issue IP address certificates",
+      "href": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 12
     },
     {
@@ -93,38 +93,38 @@
       "index": 13
     },
     {
-      "title": "Coding in a material world",
-      "href": "https://deadsimpletech.com/blog/material_girl",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
       "title": "Box combinators",
       "href": "https://mmapped.blog/posts/41-box-combinators",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "What's new in Gleam 1.11",
-      "href": "https://www.youtube.com/watch?v=AKIZG0Dq3Bc",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 16
+      "index": 14
     },
     {
       "title": "How much code does that proc macro generate?",
       "href": "https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 15
+    },
+    {
+      "title": "Coding in a material world",
+      "href": "https://deadsimpletech.com/blog/material_girl",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
     },
     {
       "title": "OpenAI Charges by the Minute, So Make the Minutes Shorter",
       "href": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
       "points": "",
       "comments": "\n              6 comments",
+      "index": 17
+    },
+    {
+      "title": "What's new in Gleam 1.11",
+      "href": "https://www.youtube.com/watch?v=AKIZG0Dq3Bc",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 18
     },
     {
@@ -142,24 +142,24 @@
       "index": 20
     },
     {
-      "title": "Docs for AI agents",
-      "href": "https://technicalwriting.dev/ai/agents/",
+      "title": "The Unbearable Anger of Broken Audio",
+      "href": "https://arunraghavan.net/2025/06/the-unbearable-anger-of-broken-audio/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 21
     },
     {
-      "title": "forbidden secrets of ancient X11 scaling technology revealed",
-      "href": "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed",
+      "title": "Docs for AI agents",
+      "href": "https://technicalwriting.dev/ai/agents/",
       "points": "",
-      "comments": "\n              78 comments",
+      "comments": "\n              1 comment",
       "index": 22
     },
     {
-      "title": "Speculative Optimizations for WebAssembly using Deopts and Inlining",
-      "href": "https://v8.dev/blog/wasm-speculative-optimizations",
+      "title": "forbidden secrets of ancient X11 scaling technology revealed",
+      "href": "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              79 comments",
       "index": 23
     },
     {
@@ -170,8 +170,8 @@
       "index": 24
     },
     {
-      "title": "Introducing Northguard and Xinfra: scalable log storage at LinkedIn",
-      "href": "https://www.linkedin.com/blog/engineering/infrastructure/introducing-northguard-and-xinfra",
+      "title": "Paragraph flowing as a fold",
+      "href": "https://www.sigwinch.xyz/cs/2024/flow-fold.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
