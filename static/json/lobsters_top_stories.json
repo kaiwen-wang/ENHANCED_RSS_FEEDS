@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, June 26, 2025 at 2:20 AM GMT-5",
+  "date": "Thursday, June 26, 2025 at 3:25 AM GMT-5",
   "articles": [
     {
       "title": "Abusing copyright strings to trick software into thinking it's running on your competitor's PC",
       "href": "https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 1
     },
     {
@@ -16,24 +16,24 @@
       "index": 2
     },
     {
+      "title": "QEMU: define policy forbidding use of AI code generators",
+      "href": "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 3
+    },
+    {
       "title": "Web Embeddable Common Lisp",
       "href": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Gemini CLI: your open-source AI agent",
       "href": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 4
-    },
-    {
-      "title": "QEMU: define policy forbidding use of AI code generators",
-      "href": "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 5
     },
     {
@@ -44,10 +44,10 @@
       "index": 6
     },
     {
-      "title": "Getting ready to issue IP address certificates",
-      "href": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
+      "title": "Why Go Rocks for Building a Lua Interpreter",
+      "href": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              no comments",
       "index": 7
     },
     {
@@ -58,120 +58,120 @@
       "index": 8
     },
     {
+      "title": "Getting ready to issue IP address certificates",
+      "href": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 9
+    },
+    {
       "title": "The best interfaces we never built",
       "href": "https://www.chrbutler.com/the-best-interfaces-we-never-built",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 9
+      "comments": "\n              1 comment",
+      "index": 10
     },
     {
       "title": "Coding in a material world",
       "href": "https://deadsimpletech.com/blog/material_girl",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 10
+      "index": 11
     },
     {
       "title": "What's new in Gleam 1.11",
       "href": "https://www.youtube.com/watch?v=AKIZG0Dq3Bc",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 11
+      "index": 12
+    },
+    {
+      "title": "JavaScript Chose Violence",
+      "href": "https://martinrue.com/javascript-chose-violence",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
     },
     {
       "title": "OpenAI Charges by the Minute, So Make the Minutes Shorter",
       "href": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 12
-    },
-    {
-      "title": "Swift Android Workgroup",
-      "href": "https://www.swift.org/android-workgroup/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Why Go Rocks for Building a Lua Interpreter",
-      "href": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
-    },
-    {
-      "title": "forbidden secrets of ancient X11 scaling technology revealed",
-      "href": "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed",
-      "points": "",
-      "comments": "\n              75 comments",
-      "index": 15
-    },
-    {
-      "title": "Speculative Optimizations for WebAssembly using Deopts and Inlining",
-      "href": "https://v8.dev/blog/wasm-speculative-optimizations",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Reading NFC Passport Chips in Linux",
-      "href": "https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Docs for AI agents",
-      "href": "https://technicalwriting.dev/ai/agents/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "Overview of Research Directions at Keen Technologies",
-      "href": "https://youtu.be/3pdlTMdo7pY",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
     },
     {
       "title": "PNG is back",
       "href": "https://www.programmax.net/articles/png-is-back/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Notes on type inference and polymorphism",
+      "href": "https://blog.snork.dev/posts/notes-on-type-inference-and-polymorphism.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Swift Android Workgroup",
+      "href": "https://www.swift.org/android-workgroup/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "forbidden secrets of ancient X11 scaling technology revealed",
+      "href": "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed",
+      "points": "",
+      "comments": "\n              78 comments",
+      "index": 18
+    },
+    {
+      "title": "Speculative Optimizations for WebAssembly using Deopts and Inlining",
+      "href": "https://v8.dev/blog/wasm-speculative-optimizations",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Reading NFC Passport Chips in Linux",
+      "href": "https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 20
     },
     {
-      "title": "Reverse Engineering the Microchip CLB Part 1: Background and Reverse Engineering the BLEs",
-      "href": "http://mcp-clb.markomo.me/P1-Background-and-RE/",
+      "title": "Docs for AI agents",
+      "href": "https://technicalwriting.dev/ai/agents/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 21
     },
     {
-      "title": "Fun with uv and PEP 723",
-      "href": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
+      "title": "A CRDT-based Messenger in 12 Lines of Bash Using a Synced Folder",
+      "href": "https://holdtherobot.com/blog/crdt-messenger-in-12-lines-of-bash/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              no comments",
       "index": 22
     },
     {
-      "title": "Coding Independent Code Points (cICP) in PNG, explained",
-      "href": "https://svgees.us/blog/cICP.html",
+      "title": "Box combinators",
+      "href": "https://mmapped.blog/posts/41-box-combinators",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "Scales as Multipermutations of 0 and 1 into Twelve Places",
-      "href": "https://petecorey.com/blog/2025/06/25/scales-as-multipermutations-of-0-and-1-into-twelve-places/",
+      "title": "How much code does that proc macro generate?",
+      "href": "https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Paragraph flowing as a fold",
-      "href": "https://www.sigwinch.xyz/cs/2024/flow-fold.html",
+      "title": "Overview of Research Directions at Keen Technologies",
+      "href": "https://youtu.be/3pdlTMdo7pY",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
