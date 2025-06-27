@@ -1,130 +1,130 @@
 {
-  "date": "Friday, June 27, 2025 at 1:30 PM GMT-5",
+  "date": "Friday, June 27, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Richard Feldman on new language adoption in the LLM age",
       "href": "https://youtu.be/ZsBHc-J9f8o",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 1
+    },
+    {
+      "title": "Conferences, Clarity, and Smokescreens",
+      "href": "https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 2
     },
     {
       "title": "Announcing Rust 1.88.0",
       "href": "https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 2
-    },
-    {
-      "title": "Conferences, Clarity, and Smokescreens",
-      "href": "https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 3
-    },
-    {
-      "title": "New zine: The Secret Rules of the Terminal",
-      "href": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 4
-    },
-    {
-      "title": "Simplifying Vulkan Synchronization",
-      "href": "https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 5
-    },
-    {
-      "title": "Apple announces sweeping App Store changes in the EU",
-      "href": "https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 6
-    },
-    {
-      "title": "LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA",
-      "href": "http://www.aviduratas.de/lisp/lispmfpga/index.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 7
-    },
-    {
-      "title": "Adding a trash can to Linux with trash-cli",
-      "href": "https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 8
-    },
-    {
-      "title": "Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot",
-      "href": "https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 9
-    },
-    {
-      "title": "My Lights Run on Bash",
-      "href": "https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "\"Why is the Rust compiler so slow?\"",
-      "href": "https://sharnoff.io/blog/why-rust-compiler-slow",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 11
     },
     {
       "title": "Parameterized types in C using the new tag compatibility rule",
       "href": "https://nullprogram.com/blog/2025/06/26/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 4
+    },
+    {
+      "title": "New zine: The Secret Rules of the Terminal",
+      "href": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 5
+    },
+    {
+      "title": "Simplifying Vulkan Synchronization",
+      "href": "https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
+      "title": "Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot",
+      "href": "https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "Apple announces sweeping App Store changes in the EU",
+      "href": "https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/",
+      "points": "",
+      "comments": "\n              20 comments",
+      "index": 8
+    },
+    {
+      "title": "LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA",
+      "href": "http://www.aviduratas.de/lisp/lispmfpga/index.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "Adding a trash can to Linux with trash-cli",
+      "href": "https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 10
+    },
+    {
+      "title": "My Lights Run on Bash",
+      "href": "https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "\"Why is the Rust compiler so slow?\"",
+      "href": "https://sharnoff.io/blog/why-rust-compiler-slow",
+      "points": "",
+      "comments": "\n              15 comments",
       "index": 12
-    },
-    {
-      "title": "RSS Server Side Reader",
-      "href": "https://matklad.github.io/2025/06/26/rssssr.html",
-      "points": "",
-      "comments": "\n              29 comments",
-      "index": 13
-    },
-    {
-      "title": "PNG is back",
-      "href": "https://www.programmax.net/articles/png-is-back/",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 14
     },
     {
       "title": "Slightly better named character reference tokenization than Chrome, Safari, and Firefox",
       "href": "https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 13
+    },
+    {
+      "title": "RSS Server Side Reader",
+      "href": "https://matklad.github.io/2025/06/26/rssssr.html",
+      "points": "",
+      "comments": "\n              30 comments",
+      "index": 14
+    },
+    {
+      "title": "PNG is back",
+      "href": "https://www.programmax.net/articles/png-is-back/",
+      "points": "",
+      "comments": "\n              16 comments",
       "index": 15
-    },
-    {
-      "title": "Ticket-Driven Development: The Fastest Way to Go Nowhere",
-      "href": "https://thecynical.dev/posts/ticket-driven-development/",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 16
-    },
-    {
-      "title": "You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine",
-      "href": "https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/",
-      "points": "",
-      "comments": "\n              72 comments",
-      "index": 17
     },
     {
       "title": "Transmitting data via ultrasound without any special equipment",
       "href": "https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Ticket-Driven Development: The Fastest Way to Go Nowhere",
+      "href": "https://thecynical.dev/posts/ticket-driven-development/",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 17
+    },
+    {
+      "title": "You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine",
+      "href": "https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/",
+      "points": "",
+      "comments": "\n              72 comments",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "Run coverage on tests",
+      "href": "https://hugovk.dev/blog/2025/run-coverage-on-tests/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
       "title": "Cross-Compiling 10,000+ Rust CLI Crates Statically",
       "href": "https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Box combinators",
       "href": "https://mmapped.blog/posts/41-box-combinators",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Go 1.25 interactive tour",
       "href": "https://antonz.org/go-1-25/",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
+      "comments": "\n              2 comments",
+      "index": 23
     },
     {
       "title": "Integrating Container-Use in WSL for Agentic Development",
       "href": "https://blog.techdecline.dev/integrating-container-use-in-wsl-for-agentic-development/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Confusing an accountant with Open Source funding",
       "href": "https://www.youtube.com/watch?v=VTY-lQ3S1gw",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "GCC 15 Continuously Improving AArch64",
-      "href": "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 25
     }
   ]
