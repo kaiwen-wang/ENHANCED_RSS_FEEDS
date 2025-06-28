@@ -1,109 +1,109 @@
 {
-  "date": "Friday, June 27, 2025 at 6:20 PM GMT-5",
+  "date": "Friday, June 27, 2025 at 8:40 PM GMT-5",
   "articles": [
+    {
+      "title": "Cross-compiling Common Lisp for Windows",
+      "href": "https://www.fosskers.ca/en/blog/cl-windows",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 1
+    },
     {
       "title": "Richard Feldman on new language adoption in the LLM age",
       "href": "https://youtu.be/ZsBHc-J9f8o",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 1
+      "comments": "\n              15 comments",
+      "index": 2
+    },
+    {
+      "title": "Go is an 80/20 language",
+      "href": "https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 3
     },
     {
       "title": "Parameterized types in C using the new tag compatibility rule",
       "href": "https://nullprogram.com/blog/2025/06/26/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 2
+      "index": 4
     },
     {
       "title": "Conferences, Clarity, and Smokescreens",
       "href": "https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 3
+      "index": 5
     },
     {
       "title": "Announcing Rust 1.88.0",
       "href": "https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 4
-    },
-    {
-      "title": "My Lights Run on Bash",
-      "href": "https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 5
-    },
-    {
-      "title": "Announcing Sniffnet v1.4: it’s 2X faster than Wireshark at processing PCAP files",
-      "href": "https://sniffnet.net/news/v1.4/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 6
-    },
-    {
-      "title": "Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot",
-      "href": "https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 7
     },
     {
       "title": "Structuring Arrays with Algebraic Shapes",
       "href": "https://dl.acm.org/doi/abs/10.1145/3736112.3736141",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "My Lights Run on Bash",
+      "href": "https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 8
     },
     {
-      "title": "New zine: The Secret Rules of the Terminal",
-      "href": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
+      "title": "Android phones could soon warn you of “Stingrays” snooping on your communications",
+      "href": "https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              1 comment",
       "index": 9
     },
     {
-      "title": "Transmitting data via ultrasound without any special equipment",
-      "href": "https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/",
+      "title": "Announcing Sniffnet v1.4: it’s 2X faster than Wireshark at processing PCAP files",
+      "href": "https://sniffnet.net/news/v1.4/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 10
-    },
-    {
-      "title": "Simplifying Vulkan Synchronization",
-      "href": "https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 11
     },
     {
       "title": "Python can run Mojo now",
       "href": "https://koaning.io/posts/giving-mojo-a-spin/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 11
+    },
+    {
+      "title": "Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot",
+      "href": "https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 12
+    },
+    {
+      "title": "New zine: The Secret Rules of the Terminal",
+      "href": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 13
     },
     {
       "title": "LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA",
       "href": "http://www.aviduratas.de/lisp/lispmfpga/index.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Apple announces sweeping App Store changes in the EU",
-      "href": "https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/",
-      "points": "",
-      "comments": "\n              20 comments",
       "index": 14
     },
     {
-      "title": "Adding a trash can to Linux with trash-cli",
-      "href": "https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/",
+      "title": "What are you doing this weekend?",
+      "href": "/s/kwrdic/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              2 comments",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "What are you doing this weekend?",
-      "href": "/s/kwrdic/what_are_you_doing_this_weekend",
+      "title": "Simplifying Vulkan Synchronization",
+      "href": "https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation",
       "points": "",
       "comments": "\n              2 comments",
       "index": 17
     },
     {
-      "title": "\"Why is the Rust compiler so slow?\"",
-      "href": "https://sharnoff.io/blog/why-rust-compiler-slow",
+      "title": "Guidelines for buildable and testable code examples",
+      "href": "https://pigweed.dev/docs/contributing/docs/examples.html",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              no comments",
       "index": 18
+    },
+    {
+      "title": "Transmitting data via ultrasound without any special equipment",
+      "href": "https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Apple announces sweeping App Store changes in the EU",
+      "href": "https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/",
+      "points": "",
+      "comments": "\n              21 comments",
+      "index": 20
+    },
+    {
+      "title": "Adding a trash can to Linux with trash-cli",
+      "href": "https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 21
     },
     {
       "title": "Slightly better named character reference tokenization than Chrome, Safari, and Firefox",
       "href": "https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 19
+      "index": 22
+    },
+    {
+      "title": "\"Why is the Rust compiler so slow?\"",
+      "href": "https://sharnoff.io/blog/why-rust-compiler-slow",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 23
     },
     {
       "title": "PNG is back",
       "href": "https://www.programmax.net/articles/png-is-back/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 20
-    },
-    {
-      "title": "Android phones could soon warn you of “Stingrays” snooping on your communications",
-      "href": "https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
+      "index": 24
     },
     {
       "title": "RSS Server Side Reader",
       "href": "https://matklad.github.io/2025/06/26/rssssr.html",
       "points": "",
       "comments": "\n              30 comments",
-      "index": 22
-    },
-    {
-      "title": "Ticket-Driven Development: The Fastest Way to Go Nowhere",
-      "href": "https://thecynical.dev/posts/ticket-driven-development/",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 23
-    },
-    {
-      "title": "alternate histories of computing (2018)",
-      "href": "https://archive.fosdem.org/2018/schedule/event/alternative_histories/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine",
-      "href": "https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/",
-      "points": "",
-      "comments": "\n              74 comments",
       "index": 25
     }
   ]
