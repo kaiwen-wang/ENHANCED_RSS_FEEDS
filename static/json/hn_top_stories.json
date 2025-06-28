@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, June 28, 2025 at 1:25 PM GMT-5",
+  "date": "Saturday, June 28, 2025 at 2:15 PM GMT-5",
   "articles": [
-    {
-      "title": "MCP: An (Accidentally) Universal Plugin System",
-      "href": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
-      "points": "270 points",
-      "comments": "123 comments",
-      "index": 1
-    },
     {
       "title": "BusyBeaver(6) Is Quite Large",
       "href": "https://scottaaronson.blog/?p=8972",
-      "points": "49 points",
-      "comments": "20 comments",
+      "points": "87 points",
+      "comments": "51 comments",
+      "index": 1
+    },
+    {
+      "title": "MCP: An (Accidentally) Universal Plugin System",
+      "href": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
+      "points": "305 points",
+      "comments": "135 comments",
       "index": 2
     },
     {
       "title": "Addictions Are Being Engineered",
       "href": "https://masonyarbrough.substack.com/p/engineered-addictions",
-      "points": "82 points",
-      "comments": "14 comments",
+      "points": "150 points",
+      "comments": "70 comments",
       "index": 3
     },
     {
       "title": "We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler",
       "href": "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/",
-      "points": "154 points",
-      "comments": "12 comments",
+      "points": "166 points",
+      "comments": "13 comments",
       "index": 4
     },
     {
-      "title": "Unheard works by Erik Satie to premiere 100 years after his death",
-      "href": "https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death",
-      "points": "135 points",
-      "comments": "27 comments",
+      "title": "BYU study: Why some people choose not to use artificial intelligence",
+      "href": "https://news.byu.edu/intellect/byu-study-finds-the-real-reasons-why-some-people-choose-not-to-use-artificial-intelligence",
+      "points": "15 points",
+      "comments": "5 comments",
       "index": 5
     },
     {
       "title": "Is being bilingual good for your brain?",
       "href": "https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain",
-      "points": "10 points",
-      "comments": "2 comments",
+      "points": "27 points",
+      "comments": "18 comments",
       "index": 6
     },
     {
-      "title": "Parsing JSON in Forty Lines of Awk",
-      "href": "https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk",
-      "points": "37 points",
-      "comments": "7 comments",
+      "title": "Unheard works by Erik Satie to premiere 100 years after his death",
+      "href": "https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death",
+      "points": "147 points",
+      "comments": "31 comments",
       "index": 7
     },
     {
-      "title": "Sirius: A GPU-native SQL engine",
-      "href": "https://github.com/sirius-db/sirius",
-      "points": "24 points",
-      "comments": "discuss",
+      "title": "Use Plain Text Email",
+      "href": "https://useplaintext.email/",
+      "points": "12 points",
+      "comments": "3 comments",
       "index": 8
-    },
-    {
-      "title": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
-      "href": "https://jameshard.ing/pilot",
-      "points": "1377 points",
-      "comments": "183 comments",
-      "index": 9
-    },
-    {
-      "title": "Republican governors oppose 10-year moratorium on state AI laws in GOP tax bill",
-      "href": "https://www.politico.com/live-updates/2025/06/27/congress/gop-govs-urge-thune-to-nix-ai-moratorium-00430083",
-      "points": "36 points",
-      "comments": "9 comments",
-      "index": 10
-    },
-    {
-      "title": "No One Is in Charge at the US Copyright Office",
-      "href": "https://www.wired.com/story/us-copyright-office-chaos-doge/",
-      "points": "21 points",
-      "comments": "1 comment",
-      "index": 11
     },
     {
       "title": "Show HN: A Go service that exposes a FIFO message queue in RAM",
       "href": "https://github.com/raiyanyahya/zapq",
-      "points": "3 points",
-      "comments": "discuss",
+      "points": "9 points",
+      "comments": "2 comments",
+      "index": 9
+    },
+    {
+      "title": "Sirius: A GPU-native SQL engine",
+      "href": "https://github.com/sirius-db/sirius",
+      "points": "34 points",
+      "comments": "3 comments",
+      "index": 10
+    },
+    {
+      "title": "Parsing JSON in Forty Lines of Awk",
+      "href": "https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk",
+      "points": "45 points",
+      "comments": "9 comments",
+      "index": 11
+    },
+    {
+      "title": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
+      "href": "https://jameshard.ing/pilot",
+      "points": "1381 points",
+      "comments": "183 comments",
       "index": 12
+    },
+    {
+      "title": "No One Is in Charge at the US Copyright Office",
+      "href": "https://www.wired.com/story/us-copyright-office-chaos-doge/",
+      "points": "50 points",
+      "comments": "10 comments",
+      "index": 13
     },
     {
       "title": "Lossless LLM 3x Throughput Increase by LMCache",
       "href": "https://github.com/LMCache/LMCache",
-      "points": "104 points",
-      "comments": "30 comments",
-      "index": 13
-    },
-    {
-      "title": "History of Cycling Maps",
-      "href": "https://cyclemaps.blogspot.com/",
-      "points": "66 points",
-      "comments": "7 comments",
+      "points": "114 points",
+      "comments": "31 comments",
       "index": 14
     },
     {
-      "title": "ZeQLplus: Terminal SQLite Database Browser",
-      "href": "https://github.com/ZetloStudio/ZeQLplus",
-      "points": "26 points",
-      "comments": "6 comments",
+      "title": "Engineer creates ad block for the real world with augmented reality glasses",
+      "href": "https://www.tomshardware.com/maker-stem/engineer-creates-ad-block-for-the-real-world-with-augmented-reality-glasses-no-more-products-or-branding-in-your-everyday-life",
+      "points": "177 points",
+      "comments": "113 comments",
       "index": 15
+    },
+    {
+      "title": "Verifiably Correct Lifting of Position-Independent x86-64 Binaries (2024)",
+      "href": "https://dl.acm.org/doi/10.1145/3658644.3690244",
+      "points": "13 points",
+      "comments": "2 comments",
+      "index": 16
     },
     {
       "title": "Lago (Open-Source Usage Based Billing) is hiring for ten roles",
       "href": "https://www.ycombinator.com/companies/lago/jobs",
       "points": "",
       "comments": "hide",
-      "index": 16
-    },
-    {
-      "title": "Boeing uses potatoes to test wi-fi",
-      "href": "https://www.bbc.com/news/technology-20813441",
-      "points": "9 points",
-      "comments": "3 comments",
       "index": 17
     },
     {
-      "title": "Engineer creates ad block for the real world with augmented reality glasses",
-      "href": "https://www.tomshardware.com/maker-stem/engineer-creates-ad-block-for-the-real-world-with-augmented-reality-glasses-no-more-products-or-branding-in-your-everyday-life",
-      "points": "161 points",
-      "comments": "110 comments",
+      "title": "ZeQLplus: Terminal SQLite Database Browser",
+      "href": "https://github.com/ZetloStudio/ZeQLplus",
+      "points": "29 points",
+      "comments": "7 comments",
       "index": 18
     },
     {
-      "title": "Verifiably Correct Lifting of Position-Independent x86-64 Binaries (2024)",
-      "href": "https://dl.acm.org/doi/10.1145/3658644.3690244",
-      "points": "10 points",
-      "comments": "discuss",
+      "title": "History of Cycling Maps",
+      "href": "https://cyclemaps.blogspot.com/",
+      "points": "67 points",
+      "comments": "8 comments",
       "index": 19
     },
     {
       "title": "US Justice Department settles antitrust case for HPE's $14B takeover of Juniper",
       "href": "https://www.reuters.com/business/us-doj-settles-antitrust-case-hpes-14-billion-takeover-juniper-2025-06-28/",
-      "points": "6 points",
-      "comments": "discuss",
+      "points": "14 points",
+      "comments": "1 comment",
       "index": 20
     },
     {
       "title": "LLMs Bring New Nature of Abstraction",
       "href": "https://martinfowler.com/articles/2025-nature-abstraction.html",
-      "points": "19 points",
-      "comments": "20 comments",
+      "points": "25 points",
+      "comments": "26 comments",
       "index": 21
+    },
+    {
+      "title": "Boeing uses potatoes to test wi-fi (2012)",
+      "href": "https://www.bbc.com/news/technology-20813441",
+      "points": "12 points",
+      "comments": "5 comments",
+      "index": 22
     },
     {
       "title": "JWST reveals its first direct image discovery of an exoplanet",
       "href": "https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/",
-      "points": "308 points",
+      "points": "311 points",
       "comments": "134 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "After successfully entering Earth's atmosphere, a European spacecraft is lost",
       "href": "https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/",
-      "points": "38 points",
-      "comments": "12 comments",
-      "index": 23
-    },
-    {
-      "title": "Lima Site 85: How a CIA Helicopter Defended a Secret U.S. Radar Facility",
-      "href": "https://www.aviacionline.com/lima-site-85-how-a-cia-helicopter-defended-a-secret-us-radar-facility",
-      "points": "11 points",
-      "comments": "5 comments",
+      "points": "40 points",
+      "comments": "14 comments",
       "index": 24
     },
     {
-      "title": "I deleted my second brain",
-      "href": "https://www.joanwestenberg.com/p/i-deleted-my-second-brain",
-      "points": "447 points",
-      "comments": "283 comments",
+      "title": "Republican governors oppose 10-year moratorium on state AI laws in GOP tax bill",
+      "href": "https://www.politico.com/live-updates/2025/06/27/congress/gop-govs-urge-thune-to-nix-ai-moratorium-00430083",
+      "points": "47 points",
+      "comments": "23 comments",
       "index": 25
-    },
-    {
-      "title": "Arrests of scientists over smuggled samples add to US border anxiety",
-      "href": "https://www.nature.com/articles/d41586-025-01958-4",
-      "points": "23 points",
-      "comments": "6 comments",
-      "index": 26
-    },
-    {
-      "title": "Reinforcement learning, explained with a minimum of math and jargon",
-      "href": "https://www.understandingai.org/p/reinforcement-learning-explained",
-      "points": "167 points",
-      "comments": "12 comments",
-      "index": 27
     },
     {
       "title": "C++ Seeding Surprises (2015)",
       "href": "https://www.pcg-random.org/posts/cpp-seeding-surprises.html",
-      "points": "19 points",
-      "comments": "15 comments",
-      "index": 28
+      "points": "23 points",
+      "comments": "18 comments",
+      "index": 26
     },
     {
-      "title": "Normalizing Flows Are Capable Generative Models",
-      "href": "https://machinelearning.apple.com/research/normalizing-flows",
-      "points": "157 points",
-      "comments": "40 comments",
-      "index": 29
+      "title": "I deleted my second brain",
+      "href": "https://www.joanwestenberg.com/p/i-deleted-my-second-brain",
+      "points": "458 points",
+      "comments": "290 comments",
+      "index": 27
+    },
+    {
+      "title": "Reinforcement learning, explained with a minimum of math and jargon",
+      "href": "https://www.understandingai.org/p/reinforcement-learning-explained",
+      "points": "172 points",
+      "comments": "12 comments",
+      "index": 28
     },
     {
       "title": "Untangling Lifetimes: The Arena Allocator",
       "href": "https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator",
-      "points": "29 points",
-      "comments": "8 comments",
+      "points": "32 points",
+      "comments": "10 comments",
+      "index": 29
+    },
+    {
+      "title": "Normalizing Flows Are Capable Generative Models",
+      "href": "https://machinelearning.apple.com/research/normalizing-flows",
+      "points": "160 points",
+      "comments": "40 comments",
       "index": 30
     }
   ]
