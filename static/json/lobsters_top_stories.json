@@ -1,18 +1,18 @@
 {
-  "date": "Saturday, June 28, 2025 at 11:20 AM GMT-5",
+  "date": "Saturday, June 28, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "I really like the Helix editor",
       "href": "https://herecomesthemoon.net/2025/06/i-like-helix/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 1
     },
     {
       "title": "Go is an 80/20 language",
       "href": "https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html",
       "points": "",
-      "comments": "\n              46 comments",
+      "comments": "\n              49 comments",
       "index": 2
     },
     {
@@ -30,52 +30,52 @@
       "index": 4
     },
     {
-      "title": "Cross-compiling Common Lisp for Windows",
-      "href": "https://www.fosskers.ca/en/blog/cl-windows",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 5
-    },
-    {
       "title": "Computer and coding books from Usborne (1982-1985)",
       "href": "https://usborne.com/us/books/computer-and-coding-books",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 5
+    },
+    {
+      "title": "Cross-compiling Common Lisp for Windows",
+      "href": "https://www.fosskers.ca/en/blog/cl-windows",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 6
     },
     {
       "title": "Android phones could soon warn you of “Stingrays” snooping on your communications",
       "href": "https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 7
-    },
-    {
-      "title": "Richard Feldman on new language adoption in the LLM age",
-      "href": "https://youtu.be/ZsBHc-J9f8o",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 8
-    },
-    {
-      "title": "omarchy: Opinionated Arch/Hyprland Setup",
-      "href": "https://github.com/basecamp/omarchy",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 9
     },
     {
       "title": "The Medley Interlisp Project: Reviving a Historical Software System",
       "href": "https://interlisp.org/documentation/young-ccece2025.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 8
+    },
+    {
+      "title": "Richard Feldman on new language adoption in the LLM age",
+      "href": "https://youtu.be/ZsBHc-J9f8o",
+      "points": "",
+      "comments": "\n              19 comments",
+      "index": 9
     },
     {
       "title": "AI Manager - The Future of Management",
       "href": "https://aimanagers.app",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
+      "title": "omarchy: Opinionated Arch/Hyprland Setup",
+      "href": "https://github.com/basecamp/omarchy",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 11
     },
     {
@@ -89,7 +89,7 @@
       "title": "What are you doing this weekend?",
       "href": "/s/kwrdic/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              17 comments",
       "index": 13
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts",
+      "href": "https://johnnymetz.com/posts/postgresql-failing-insert/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 18
+    },
+    {
       "title": "Announcing Rust 1.88.0",
       "href": "https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "My Lights Run on Bash",
       "href": "https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 20
     },
     {
       "title": "LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA",
       "href": "http://www.aviduratas.de/lisp/lispmfpga/index.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
+      "index": 21
     },
     {
-      "title": "Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts",
-      "href": "https://johnnymetz.com/posts/postgresql-failing-insert/",
+      "title": "Wait… Who’s the New CEO of Commodore?! • Let's Buy Commodore Part 2",
+      "href": "https://www.youtube.com/watch?v=ke-Ao-CpI7E",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 21
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Guidelines for buildable and testable code examples",
       "href": "https://pigweed.dev/docs/contributing/docs/examples.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot",
       "href": "https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "Run coverage on tests",
-      "href": "https://hugovk.dev/blog/2025/run-coverage-on-tests/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 24
     },
     {
-      "title": "New zine: The Secret Rules of the Terminal",
-      "href": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
+      "title": "Shell startup scripts (2020)",
+      "href": "https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
