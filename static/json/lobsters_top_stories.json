@@ -1,81 +1,81 @@
 {
-  "date": "Saturday, June 28, 2025 at 9:15 AM GMT-5",
+  "date": "Saturday, June 28, 2025 at 10:20 AM GMT-5",
   "articles": [
     {
       "title": "Go is an 80/20 language",
       "href": "https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html",
       "points": "",
-      "comments": "\n              34 comments",
+      "comments": "\n              41 comments",
       "index": 1
+    },
+    {
+      "title": "I really like the Helix editor",
+      "href": "https://herecomesthemoon.net/2025/06/i-like-helix/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 2
     },
     {
       "title": "A Newbie's First Contribution to (Rust for) Linux",
       "href": "https://blog.buenzli.dev/rust-for-linux-first-contrib/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 2
+      "index": 3
     },
     {
       "title": "Bcachefs may be headed out of the kernel",
       "href": "https://lwn.net/Articles/1027289/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Cross-compiling Common Lisp for Windows",
       "href": "https://www.fosskers.ca/en/blog/cl-windows",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 4
+      "comments": "\n              9 comments",
+      "index": 5
     },
     {
-      "title": "Android phones could soon warn you of “Stingrays” snooping on your communications",
-      "href": "https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/",
+      "title": "Computer and coding books from Usborne (1982-1985)",
+      "href": "https://usborne.com/us/books/computer-and-coding-books",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 5
+      "comments": "\n              2 comments",
+      "index": 6
     },
     {
       "title": "Richard Feldman on new language adoption in the LLM age",
       "href": "https://youtu.be/ZsBHc-J9f8o",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 6
-    },
-    {
-      "title": "Computer and coding books from Usborne (1982-1985)",
-      "href": "https://usborne.com/us/books/computer-and-coding-books",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 7
     },
     {
-      "title": "I really like the Helix editor",
-      "href": "https://herecomesthemoon.net/2025/06/i-like-helix/",
+      "title": "Android phones could soon warn you of “Stingrays” snooping on your communications",
+      "href": "https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              7 comments",
       "index": 8
+    },
+    {
+      "title": "omarchy: Opinionated Arch/Hyprland Setup",
+      "href": "https://github.com/basecamp/omarchy",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 9
     },
     {
       "title": "Parameterized types in C using the new tag compatibility rule",
       "href": "https://nullprogram.com/blog/2025/06/26/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "The Medley Interlisp Project: Reviving a Historical Software System",
       "href": "https://interlisp.org/documentation/young-ccece2025.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "omarchy: Opinionated Arch/Hyprland Setup",
-      "href": "https://github.com/basecamp/omarchy",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 11
     },
     {
@@ -121,22 +121,22 @@
       "index": 17
     },
     {
-      "title": "Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts",
-      "href": "https://johnnymetz.com/posts/postgresql-failing-insert/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
       "title": "LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA",
       "href": "http://www.aviduratas.de/lisp/lispmfpga/index.html",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
+      "comments": "\n              3 comments",
+      "index": 18
     },
     {
       "title": "Transmitting data via ultrasound without any special equipment",
       "href": "https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts",
+      "href": "https://johnnymetz.com/posts/postgresql-failing-insert/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 20
@@ -156,17 +156,17 @@
       "index": 22
     },
     {
+      "title": "New zine: The Secret Rules of the Terminal",
+      "href": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 23
+    },
+    {
       "title": "Shell startup scripts (2020)",
       "href": "https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "New zine: The Secret Rules of the Terminal",
-      "href": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 24
     },
     {
