@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, June 29, 2025 at 3:20 PM GMT-5",
+  "date": "Sunday, June 29, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "Solving `UK Passport Application` with Haskell",
@@ -16,17 +16,17 @@
       "index": 2
     },
     {
-      "title": "I really like the Helix editor",
-      "href": "https://herecomesthemoon.net/2025/06/i-like-helix/",
-      "points": "",
-      "comments": "\n              41 comments",
-      "index": 3
-    },
-    {
       "title": "Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers",
       "href": "https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 3
+    },
+    {
+      "title": "I really like the Helix editor",
+      "href": "https://herecomesthemoon.net/2025/06/i-like-helix/",
+      "points": "",
+      "comments": "\n              41 comments",
       "index": 4
     },
     {
@@ -40,7 +40,7 @@
       "title": "Generative AI’s crippling and widespread failure to induce robust models of the world",
       "href": "https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 6
     },
     {
@@ -61,21 +61,21 @@
       "title": "wayback: experimental X11 compatibility layer",
       "href": "https://github.com/kaniini/wayback",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              24 comments",
       "index": 9
-    },
-    {
-      "title": "Fil-C",
-      "href": "https://github.com/pizlonator/llvm-project-deluge",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 10
     },
     {
       "title": "I made my VM think it has a CPU fan",
       "href": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
+      "title": "Fil-C",
+      "href": "https://github.com/pizlonator/llvm-project-deluge",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 11
     },
     {
@@ -86,94 +86,94 @@
       "index": 12
     },
     {
-      "title": "Using the Internet without IPv4 connectivity",
-      "href": "https://jamesmcm.github.io/blog/no-ipv4/",
+      "title": "Tools I love: mise(-en-place)",
+      "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
       "points": "",
       "comments": "\n              no comments",
       "index": 13
     },
     {
-      "title": "Tools I love: mise(-en-place)",
-      "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
+      "title": "Agile Was Never Your Problem",
+      "href": "https://thecynical.dev/posts/agile-was-never-your-problem/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 14
     },
     {
-      "title": "WebAssembly Troubles part 4: Microwasm (2019)",
-      "href": "http://troubles.md/microwasm/",
+      "title": "Using the Internet without IPv4 connectivity",
+      "href": "https://jamesmcm.github.io/blog/no-ipv4/",
       "points": "",
       "comments": "\n              no comments",
       "index": 15
-    },
-    {
-      "title": "A brief history of web browsers",
-      "href": "https://eclecticlight.co/2025/06/28/a-brief-history-of-web-browsers/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 16
     },
     {
       "title": "Starlink, OpenWrt, and Eeros… Oh My",
       "href": "https://btxx.org/posts/starlink-openwrt/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "WebAssembly Troubles part 4: Microwasm (2019)",
+      "href": "http://troubles.md/microwasm/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 17
     },
     {
-      "title": "Agile Was Never Your Problem",
-      "href": "https://thecynical.dev/posts/agile-was-never-your-problem/",
+      "title": "On Error Handling in Rust",
+      "href": "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 18
+    },
+    {
+      "title": "A brief history of web browsers",
+      "href": "https://eclecticlight.co/2025/06/28/a-brief-history-of-web-browsers/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 19
     },
     {
       "title": "Computer and coding books from Usborne (1982-1985)",
       "href": "https://usborne.com/us/books/computer-and-coding-books",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Y Combinator (Math) Explained",
       "href": "https://anish.ink/posts/ycombinator.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "A Newbie's First Contribution to (Rust for) Linux",
       "href": "https://blog.buenzli.dev/rust-for-linux-first-contrib/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Bcachefs may be headed out of the kernel",
       "href": "https://lwn.net/Articles/1027289/",
       "points": "",
-      "comments": "\n              18 comments",
-      "index": 22
+      "comments": "\n              19 comments",
+      "index": 23
     },
     {
       "title": "Zero Trust for Bring Your Own Cloud (BYOC)",
       "href": "https://signoz.io/blog/zero-trust-bring-your-own-cloud",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Go is an 80/20 language",
       "href": "https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html",
       "points": "",
       "comments": "\n              87 comments",
-      "index": 24
-    },
-    {
-      "title": "EmacsConf 2025 Call for Participation",
-      "href": "https://emacsconf.org/2025/cfp/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 25
     }
   ]
