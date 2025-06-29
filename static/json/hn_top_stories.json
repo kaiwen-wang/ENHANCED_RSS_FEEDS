@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, June 29, 2025 at 3:25 AM GMT-5",
+  "date": "Sunday, June 29, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
-      "title": "JavaScript Trademark Update",
-      "href": "https://deno.com/blog/deno-v-oracle4",
-      "points": "696 points",
-      "comments": "230 comments",
+      "title": "Using the Internet without IPv4 connectivity",
+      "href": "https://jamesmcm.github.io/blog/no-ipv4/",
+      "points": "25 points",
+      "comments": "discuss",
       "index": 1
     },
     {
       "title": "The Unsustainability of Moore's Law",
       "href": "https://bzolang.blog/p/the-unsustainability-of-moores-law",
-      "points": "6 points",
-      "comments": "discuss",
+      "points": "20 points",
+      "comments": "4 comments",
       "index": 2
+    },
+    {
+      "title": "JavaScript Trademark Update",
+      "href": "https://deno.com/blog/deno-v-oracle4",
+      "points": "724 points",
+      "comments": "233 comments",
+      "index": 3
     },
     {
       "title": "Solving `Passport Application` with Haskell",
       "href": "https://jameshaydon.github.io/passport/",
-      "points": "163 points",
-      "comments": "47 comments",
-      "index": 3
+      "points": "173 points",
+      "comments": "58 comments",
+      "index": 4
     },
     {
-      "title": "Brave creates new TLD on the blockchain",
-      "href": "https://brave.com/blog/brave-tld/",
-      "points": "15 points",
-      "comments": "11 comments",
-      "index": 4
+      "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
+      "href": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
+      "points": "58 points",
+      "comments": "15 comments",
+      "index": 5
     },
     {
       "title": "MCP: An (Accidentally) Universal Plugin System",
       "href": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
-      "points": "592 points",
-      "comments": "262 comments",
-      "index": 5
-    },
-    {
-      "title": "The Death of the Middle-Class Musician",
-      "href": "https://thewalrus.ca/the-death-of-the-middle-class-musician/",
-      "points": "126 points",
-      "comments": "184 comments",
+      "points": "604 points",
+      "comments": "271 comments",
       "index": 6
     },
     {
-      "title": "Engineered Addictions",
-      "href": "https://masonyarbrough.substack.com/p/engineered-addictions",
-      "points": "527 points",
-      "comments": "322 comments",
+      "title": "Brave creates new TLD on the blockchain",
+      "href": "https://brave.com/blog/brave-tld/",
+      "points": "25 points",
+      "comments": "24 comments",
       "index": 7
     },
     {
       "title": "The Perils of 'Design Thinking'",
       "href": "https://www.theatlantic.com/books/archive/2025/06/invention-of-design-maggie-gram-book-review/683302/",
-      "points": "16 points",
-      "comments": "9 comments",
+      "points": "26 points",
+      "comments": "11 comments",
       "index": 8
     },
     {
-      "title": "Google Gemini is about to control your messages and calls, even if you say no",
-      "href": "https://www.laptopmag.com/ai/gemini-phone-access-update",
-      "points": "15 points",
-      "comments": "3 comments",
+      "title": "Engineered Addictions",
+      "href": "https://masonyarbrough.substack.com/p/engineered-addictions",
+      "points": "539 points",
+      "comments": "325 comments",
       "index": 9
     },
     {
       "title": "Improving River Simulation",
       "href": "https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html",
-      "points": "14 points",
+      "points": "19 points",
       "comments": "discuss",
       "index": 10
     },
     {
-      "title": "We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler (2020)",
-      "href": "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/",
-      "points": "252 points",
-      "comments": "24 comments",
+      "title": "Sequence and first differences together list all positive numbers exactly once",
+      "href": "https://oeis.org/A005228",
+      "points": "6 points",
+      "comments": "discuss",
       "index": 11
     },
     {
-      "title": "BusyBeaver(6) Is Quite Large",
-      "href": "https://scottaaronson.blog/?p=8972",
-      "points": "220 points",
-      "comments": "154 comments",
+      "title": "The Death of the Middle-Class Musician",
+      "href": "https://thewalrus.ca/the-death-of-the-middle-class-musician/",
+      "points": "135 points",
+      "comments": "217 comments",
       "index": 12
     },
     {
       "title": "Blackwell: Nvidia's GPU",
       "href": "https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu",
-      "points": "54 points",
-      "comments": "13 comments",
+      "points": "63 points",
+      "comments": "16 comments",
       "index": 13
+    },
+    {
+      "title": "We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler (2020)",
+      "href": "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/",
+      "points": "256 points",
+      "comments": "25 comments",
+      "index": 14
+    },
+    {
+      "title": "BusyBeaver(6) Is Quite Large",
+      "href": "https://scottaaronson.blog/?p=8972",
+      "points": "225 points",
+      "comments": "156 comments",
+      "index": 15
+    },
+    {
+      "title": "AI slop security reports submitted to curl",
+      "href": "https://gist.github.com/bagder/07f7581f6e3d78ef37dfbfc81fd1d1cd",
+      "points": "9 points",
+      "comments": "discuss",
+      "index": 16
     },
     {
       "title": "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
       "href": "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1",
-      "points": "136 points",
+      "points": "140 points",
       "comments": "15 comments",
-      "index": 14
-    },
-    {
-      "title": "Community Is Motivation on Tap",
-      "href": "https://alanwu.xyz/posts/community/",
-      "points": "72 points",
-      "comments": "23 comments",
-      "index": 15
-    },
-    {
-      "title": "Bazzite would shut down if Fedora goes ahead with removing 32-bit",
-      "href": "https://www.gamingonlinux.com/2025/06/bazzite-would-shut-down-if-fedora-goes-ahead-with-removing-32-bit/",
-      "points": "42 points",
-      "comments": "16 comments",
-      "index": 16
-    },
-    {
-      "title": "2025 ARRL Field Day",
-      "href": "https://www.arrl.org/field-day",
-      "points": "103 points",
-      "comments": "30 comments",
       "index": 17
     },
     {
-      "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
-      "href": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
-      "points": "11 points",
-      "comments": "2 comments",
+      "title": "Google Gemini is about to control your messages and calls, even if you say no",
+      "href": "https://www.laptopmag.com/ai/gemini-phone-access-update",
+      "points": "38 points",
+      "comments": "36 comments",
       "index": 18
     },
     {
       "title": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
       "href": "https://jameshard.ing/pilot",
-      "points": "1447 points",
+      "points": "1451 points",
       "comments": "192 comments",
       "index": 19
     },
     {
-      "title": "Group of investors represented by YouTuber Perifractic buys Commodore",
-      "href": "https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html",
-      "points": "56 points",
-      "comments": "18 comments",
+      "title": "Community Is Motivation on Tap",
+      "href": "https://alanwu.xyz/posts/community/",
+      "points": "74 points",
+      "comments": "24 comments",
       "index": 20
     },
     {
-      "title": "It's Known as 'The List'–and It's a Secret File of AI Geniuses",
-      "href": "https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc",
-      "points": "16 points",
-      "comments": "9 comments",
+      "title": "2025 ARRL Field Day",
+      "href": "https://www.arrl.org/field-day",
+      "points": "104 points",
+      "comments": "31 comments",
       "index": 21
     },
     {
-      "title": "Show HN: SVG Lined Tile Generator",
-      "href": "https://adpreese.github.io/svg-lined-tiles/",
-      "points": "16 points",
-      "comments": "2 comments",
+      "title": "Magnetic Tape Storage Technology: usage, history, and future outlook",
+      "href": "https://dl.acm.org/doi/10.1145/3708997",
+      "points": "6 points",
+      "comments": "discuss",
       "index": 22
     },
     {
-      "title": "Universal pre-training by iterated random computation",
-      "href": "https://arxiv.org/abs/2506.20057",
-      "points": "24 points",
-      "comments": "5 comments",
+      "title": "Group of investors represented by YouTuber Perifractic buys Commodore",
+      "href": "https://www.amiga-news.de/en/news/AN-2025-06-00123-EN.html",
+      "points": "67 points",
+      "comments": "20 comments",
       "index": 23
-    },
-    {
-      "title": "An Indoor Beehive in My Bedroom Wall",
-      "href": "https://www.keepingbackyardbees.com/an-indoor-beehive-zbwz1810zsau/",
-      "points": "93 points",
-      "comments": "45 comments",
-      "index": 24
     },
     {
       "title": "The European wood pigeon helped me appreciate its omnipresent city cousins",
       "href": "https://www.nytimes.com/2025/06/24/magazine/pigeons-city-nature.html",
-      "points": "16 points",
+      "points": "22 points",
       "comments": "1 comment",
+      "index": 24
+    },
+    {
+      "title": "An Indoor Beehive in My Bedroom Wall",
+      "href": "https://www.keepingbackyardbees.com/an-indoor-beehive-zbwz1810zsau/",
+      "points": "97 points",
+      "comments": "46 comments",
       "index": 25
+    },
+    {
+      "title": "Show HN: SVG Lined Tile Generator",
+      "href": "https://adpreese.github.io/svg-lined-tiles/",
+      "points": "19 points",
+      "comments": "4 comments",
+      "index": 26
+    },
+    {
+      "title": "Bazzite would shut down if Fedora goes ahead with removing 32-bit",
+      "href": "https://www.gamingonlinux.com/2025/06/bazzite-would-shut-down-if-fedora-goes-ahead-with-removing-32-bit/",
+      "points": "45 points",
+      "comments": "20 comments",
+      "index": 27
+    },
+    {
+      "title": "Universal pre-training by iterated random computation",
+      "href": "https://arxiv.org/abs/2506.20057",
+      "points": "25 points",
+      "comments": "5 comments",
+      "index": 28
+    },
+    {
+      "title": "It's Known as 'The List'–and It's a Secret File of AI Geniuses",
+      "href": "https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc",
+      "points": "22 points",
+      "comments": "14 comments",
+      "index": 29
     },
     {
       "title": "Tennis Scorigami",
       "href": "https://www.tennis-scorigami.com/",
-      "points": "35 points",
+      "points": "36 points",
       "comments": "3 comments",
-      "index": 26
-    },
-    {
-      "title": "Is being bilingual good for your brain?",
-      "href": "https://www.economist.com/science-and-technology/2025/06/27/is-being-bilingual-good-for-your-brain",
-      "points": "85 points",
-      "comments": "88 comments",
-      "index": 27
-    },
-    {
-      "title": "Show HN: AGL a toy language that compiles to Go",
-      "href": "https://github.com/alaingilbert/agl",
-      "points": "64 points",
-      "comments": "12 comments",
-      "index": 28
-    },
-    {
-      "title": "Sirius: A GPU-native SQL engine",
-      "href": "https://github.com/sirius-db/sirius",
-      "points": "105 points",
-      "comments": "15 comments",
-      "index": 29
-    },
-    {
-      "title": "Finding Peter Putnam",
-      "href": "https://nautil.us/finding-peter-putnam-1218035/",
-      "points": "84 points",
-      "comments": "64 comments",
       "index": 30
     }
   ]
