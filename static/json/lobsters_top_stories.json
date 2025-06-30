@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, June 29, 2025 at 8:45 PM GMT-5",
+  "date": "Sunday, June 29, 2025 at 10:25 PM GMT-5",
   "articles": [
     {
       "title": "Tools I love: mise(-en-place)",
       "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 1
     },
     {
@@ -26,21 +26,21 @@
       "title": "Generative AI’s crippling and widespread failure to induce robust models of the world",
       "href": "https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              16 comments",
       "index": 4
-    },
-    {
-      "title": "Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers",
-      "href": "https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 5
     },
     {
       "title": "I made my VM think it has a CPU fan",
       "href": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 5
+    },
+    {
+      "title": "Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers",
+      "href": "https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 6
     },
     {
@@ -54,7 +54,7 @@
       "title": "I really like the Helix editor",
       "href": "https://herecomesthemoon.net/2025/06/i-like-helix/",
       "points": "",
-      "comments": "\n              41 comments",
+      "comments": "\n              42 comments",
       "index": 8
     },
     {
@@ -68,7 +68,7 @@
       "title": "Agile Was Never Your Problem",
       "href": "https://thecynical.dev/posts/agile-was-never-your-problem/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 10
     },
     {
@@ -79,24 +79,24 @@
       "index": 11
     },
     {
+      "title": "Use keyword-only arguments in Python dataclasses",
+      "href": "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
       "title": "wayback: experimental X11 compatibility layer",
       "href": "https://github.com/kaniini/wayback",
       "points": "",
-      "comments": "\n              27 comments",
-      "index": 12
+      "comments": "\n              29 comments",
+      "index": 13
     },
     {
       "title": "Fil-C",
       "href": "https://github.com/pizlonator/llvm-project-deluge",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 13
-    },
-    {
-      "title": "Python GIL Removal Reveals Second, Stronger GIL Behind It",
-      "href": "https://medium.com/@sebastiancarlos/pythons-gil-removal-reveals-second-stronger-gil-behind-it-cdb5b9b4e2b3",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
     },
     {
@@ -114,15 +114,15 @@
       "index": 16
     },
     {
-      "title": "WebAssembly Troubles part 4: Microwasm (2019)",
-      "href": "http://troubles.md/microwasm/",
+      "title": "Python GIL Removal Reveals Second, Stronger GIL Behind It",
+      "href": "https://medium.com/@sebastiancarlos/pythons-gil-removal-reveals-second-stronger-gil-behind-it-cdb5b9b4e2b3",
       "points": "",
       "comments": "\n              no comments",
       "index": 17
     },
     {
-      "title": "Use keyword-only arguments in Python dataclasses",
-      "href": "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/",
+      "title": "WebAssembly Troubles part 4: Microwasm (2019)",
+      "href": "http://troubles.md/microwasm/",
       "points": "",
       "comments": "\n              no comments",
       "index": 18
