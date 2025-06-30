@@ -1,5 +1,5 @@
 {
-  "date": "Monday, June 30, 2025 at 1:30 PM GMT-5",
+  "date": "Monday, June 30, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Tools I love: mise(-en-place)",
@@ -9,24 +9,24 @@
       "index": 1
     },
     {
+      "title": "That boolean should probably be something else",
+      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 2
+    },
+    {
       "title": "Reverse Engineering Vercel's BotID",
       "href": "https://www.nullpt.rs/reversing-botid",
       "points": "",
       "comments": "\n              no comments",
-      "index": 2
+      "index": 3
     },
     {
       "title": "Critical correctness bug in Lix",
       "href": "https://lix.systems/blog/2025-06-27-lix-critical-bug/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 3
-    },
-    {
-      "title": "That boolean should probably be something else",
-      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 4
     },
     {
@@ -37,143 +37,143 @@
       "index": 5
     },
     {
+      "title": "History of UNIX Manpages",
+      "href": "https://manpages.bsd.lv/history.html",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 6
+    },
+    {
       "title": "The provenance memory model for C",
       "href": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 6
-    },
-    {
-      "title": "History of UNIX Manpages",
-      "href": "https://manpages.bsd.lv/history.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 7
-    },
-    {
-      "title": "Use keyword-only arguments in Python dataclasses",
-      "href": "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 8
     },
     {
       "title": "An update on improving passkey support in Linux",
       "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 9
+      "index": 8
     },
     {
       "title": "The role of the University is to resist AI",
       "href": "https://www.danmcquillan.org/cpct_seminar.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 9
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/ksacpj/what_are_you_doing_this_week",
+      "title": "Use keyword-only arguments in Python dataclasses",
+      "href": "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 11
+      "comments": "\n              7 comments",
+      "index": 10
     },
     {
       "title": "Agile Was Never Your Problem",
       "href": "https://thecynical.dev/posts/agile-was-never-your-problem/",
       "points": "",
       "comments": "\n              21 comments",
+      "index": 11
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/ksacpj/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 12
     },
     {
-      "title": "20 years of programming",
-      "href": "https://sidhion.com/blog/20_years/",
+      "title": "How I Write Type Safe Generic Data Structures in C",
+      "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              1 comment",
       "index": 13
-    },
-    {
-      "title": "Making Rails delegated_type’s clearer",
-      "href": "https://kaspth.com/posts/making-rails-delegated_types-clearer",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
     },
     {
       "title": "How often is the query plan optimal?",
       "href": "https://vondra.me/posts/how-often-is-the-query-plan-optimal/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "20 years of programming",
+      "href": "https://sidhion.com/blog/20_years/",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 15
+    },
+    {
+      "title": "Making Rails delegated_type’s clearer",
+      "href": "https://kaspth.com/posts/making-rails-delegated_types-clearer",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Caching is an Abstraction, not an Optimization",
+      "href": "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "Solving `UK Passport Application` with Haskell",
       "href": "https://jameshaydon.github.io/passport/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 16
-    },
-    {
-      "title": "How I Write Type Safe Generic Data Structures in C",
-      "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "SQL Noir: Learn SQL by Solving Crimes",
       "href": "https://www.sqlnoir.com/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "I made my VM think it has a CPU fan",
       "href": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Generative AI’s crippling and widespread failure to induce robust models of the world",
       "href": "https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread",
       "points": "",
       "comments": "\n              30 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Maestro now supports GCC",
       "href": "https://blog.lenot.re/a/compiler",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Zig Community Mirrors",
       "href": "https://ziglang.org/download/community-mirrors/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers",
       "href": "https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Bought myself an Ampere Altra system",
       "href": "https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 24
-    },
-    {
-      "title": "Pironman 5 Max, A fancy Raspberry Pi 5 Tower PC enclosure with dual M.2",
-      "href": "https://www.cnx-software.com/2025/06/29/pironman-5-max-review-a-fancy-raspberry-pi-5-tower-pc-enclosure-with-dual-m-2-pci-sockets-for-ssd-and-or-ai-accelerator/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
