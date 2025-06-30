@@ -1,23 +1,23 @@
 {
-  "date": "Monday, June 30, 2025 at 10:20 AM GMT-5",
+  "date": "Monday, June 30, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "Tools I love: mise(-en-place)",
       "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              29 comments",
       "index": 1
     },
     {
-      "title": "Critical correctness bug in Lix",
-      "href": "https://lix.systems/blog/2025-06-27-lix-critical-bug/",
+      "title": "Reverse Engineering Vercel's BotID",
+      "href": "https://www.nullpt.rs/reversing-botid",
       "points": "",
       "comments": "\n              no comments",
       "index": 2
     },
     {
-      "title": "Reverse Engineering Vercel's BotID",
-      "href": "https://www.nullpt.rs/reversing-botid",
+      "title": "Critical correctness bug in Lix",
+      "href": "https://lix.systems/blog/2025-06-27-lix-critical-bug/",
       "points": "",
       "comments": "\n              no comments",
       "index": 3
@@ -26,154 +26,154 @@
       "title": "The provenance memory model for C",
       "href": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 4
+    },
+    {
+      "title": "Tail Latency Might Matter More Than You Think",
+      "href": "https://brooker.co.za/blog/2021/04/19/latency.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 5
     },
     {
       "title": "History of UNIX Manpages",
       "href": "https://manpages.bsd.lv/history.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 5
-    },
-    {
-      "title": "Agile Was Never Your Problem",
-      "href": "https://thecynical.dev/posts/agile-was-never-your-problem/",
-      "points": "",
-      "comments": "\n              15 comments",
       "index": 6
     },
     {
       "title": "Use keyword-only arguments in Python dataclasses",
       "href": "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 7
+    },
+    {
+      "title": "Agile Was Never Your Problem",
+      "href": "https://thecynical.dev/posts/agile-was-never-your-problem/",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 8
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/ksacpj/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 9
     },
     {
       "title": "20 years of programming",
       "href": "https://sidhion.com/blog/20_years/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 8
-    },
-    {
-      "title": "Solving `UK Passport Application` with Haskell",
-      "href": "https://jameshaydon.github.io/passport/",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 9
-    },
-    {
-      "title": "Tail Latency Might Matter More Than You Think",
-      "href": "https://brooker.co.za/blog/2021/04/19/latency.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 10
-    },
-    {
-      "title": "Generative AI’s crippling and widespread failure to induce robust models of the world",
-      "href": "https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread",
-      "points": "",
-      "comments": "\n              26 comments",
-      "index": 11
-    },
-    {
-      "title": "I made my VM think it has a CPU fan",
-      "href": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 12
-    },
-    {
-      "title": "SQL Noir: Learn SQL by Solving Crimes",
-      "href": "https://www.sqlnoir.com/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 13
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/ksacpj/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 14
     },
     {
       "title": "That boolean should probably be something else",
       "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 11
     },
     {
-      "title": "Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers",
-      "href": "https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/",
+      "title": "Solving `UK Passport Application` with Haskell",
+      "href": "https://jameshaydon.github.io/passport/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 16
+      "comments": "\n              11 comments",
+      "index": 12
     },
     {
-      "title": "Bought myself an Ampere Altra system",
-      "href": "https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/",
+      "title": "SQL Noir: Learn SQL by Solving Crimes",
+      "href": "https://www.sqlnoir.com/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 17
-    },
-    {
-      "title": "I really like the Helix editor",
-      "href": "https://herecomesthemoon.net/2025/06/i-like-helix/",
-      "points": "",
-      "comments": "\n              49 comments",
-      "index": 18
-    },
-    {
-      "title": "How often is the query plan optimal?",
-      "href": "https://vondra.me/posts/how-often-is-the-query-plan-optimal/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
+      "comments": "\n              5 comments",
+      "index": 13
     },
     {
       "title": "Maestro now supports GCC",
       "href": "https://blog.lenot.re/a/compiler",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 14
     },
     {
-      "title": "RSS as my default web browser (for some stuff)",
-      "href": "https://neilzone.co.uk/2022/10/rss-as-my-default-web-browser-for-some-stuff/",
+      "title": "I made my VM think it has a CPU fan",
+      "href": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 15
+    },
+    {
+      "title": "Generative AI’s crippling and widespread failure to induce robust models of the world",
+      "href": "https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread",
+      "points": "",
+      "comments": "\n              28 comments",
+      "index": 16
+    },
+    {
+      "title": "Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers",
+      "href": "https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 17
+    },
+    {
+      "title": "Bought myself an Ampere Altra system",
+      "href": "https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 21
-    },
-    {
-      "title": "TypeSanitizer: a detector for strict type aliasing violations",
-      "href": "https://clang.llvm.org/docs/TypeSanitizer.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
+      "index": 18
     },
     {
       "title": "Tracking Anticheat Updates",
       "href": "https://not-matthias.github.io/posts/anticheat-update-tracking/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "An update on improving passkey support in Linux",
+      "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "I really like the Helix editor",
+      "href": "https://herecomesthemoon.net/2025/06/i-like-helix/",
+      "points": "",
+      "comments": "\n              49 comments",
+      "index": 21
+    },
+    {
+      "title": "Making Rails delegated_type’s clearer",
+      "href": "https://kaspth.com/posts/making-rails-delegated_types-clearer",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "How often is the query plan optimal?",
+      "href": "https://vondra.me/posts/how-often-is-the-query-plan-optimal/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "On Error Handling in Rust",
-      "href": "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html",
+      "title": "RSS as my default web browser (for some stuff)",
+      "href": "https://neilzone.co.uk/2022/10/rss-as-my-default-web-browser-for-some-stuff/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              6 comments",
       "index": 24
     },
     {
-      "title": "wayback: experimental X11 compatibility layer",
-      "href": "https://github.com/kaniini/wayback",
+      "title": "TypeSanitizer: a detector for strict type aliasing violations",
+      "href": "https://clang.llvm.org/docs/TypeSanitizer.html",
       "points": "",
-      "comments": "\n              31 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
