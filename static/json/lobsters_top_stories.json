@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, July 1, 2025 at 2:20 AM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 3:30 AM GMT-5",
   "articles": [
+    {
+      "title": "Doing My Day Job on Chimera Linux",
+      "href": "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 1
+    },
     {
       "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "href": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 1
-    },
-    {
-      "title": "Doing My Day Job on Chimera Linux",
-      "href": "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 2
     },
     {
       "title": "That boolean should probably be something else",
       "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 3
     },
     {
@@ -107,71 +107,71 @@
       "index": 15
     },
     {
+      "title": "Reflections on Haskell and Rust",
+      "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
       "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
       "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "The provenance memory model for C",
       "href": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Making Rails delegated_type’s clearer",
       "href": "https://kaspth.com/posts/making-rails-delegated_types-clearer",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
+      "index": 19
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/ksacpj/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 20
     },
     {
       "title": "What is isomorphism? | ugBASIC user manual",
       "href": "https://ugbasic.iwashere.eu/manual/isomorphism",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Maestro now supports GCC",
       "href": "https://blog.lenot.re/a/compiler",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/ksacpj/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Use keyword-only arguments in Python dataclasses",
       "href": "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Agile Was Never Your Problem",
       "href": "https://thecynical.dev/posts/agile-was-never-your-problem/",
       "points": "",
       "comments": "\n              27 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code",
       "href": "https://simonwillison.net/2025/Jun/30/llvm/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "`git stage` over `git add`",
-      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
