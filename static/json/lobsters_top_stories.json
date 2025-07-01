@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, July 1, 2025 at 3:20 PM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
@@ -9,10 +9,10 @@
       "index": 1
     },
     {
-      "title": "Helix language",
-      "href": "https://github.com/helixlang/helix-lang",
+      "title": "`git stage` over `git add`",
+      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              18 comments",
       "index": 2
     },
     {
@@ -23,15 +23,15 @@
       "index": 3
     },
     {
-      "title": "Reflections on Haskell and Rust",
-      "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
+      "title": "Helix language",
+      "href": "https://github.com/helixlang/helix-lang",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              7 comments",
       "index": 4
     },
     {
-      "title": "`git stage` over `git add`",
-      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
+      "title": "Reflections on Haskell and Rust",
+      "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
       "points": "",
       "comments": "\n              16 comments",
       "index": 5
@@ -40,77 +40,77 @@
       "title": "People Keep Inventing Prolly Trees",
       "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 6
+    },
+    {
+      "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
+      "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 7
     },
     {
       "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "href": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 7
-    },
-    {
-      "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
-      "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 8
-    },
-    {
-      "title": "Software engineering with LLMs in 2025: reality check",
-      "href": "https://www.youtube.com/watch?v=EO3_qN_Ynsk",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 9
-    },
-    {
-      "title": "Parsing Layout, or: Haskell's Syntax is a Mess",
-      "href": "https://amelia.how/posts/parsing-layout.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
     },
     {
       "title": "Types of Types: Common to Exotic",
       "href": "https://www.stephendiehl.com/posts/types_of_types/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 9
     },
     {
-      "title": "Google Developer Search Appliance – Proxmox Port",
-      "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
+      "title": "Software engineering with LLMs in 2025: reality check",
+      "href": "https://www.youtube.com/watch?v=EO3_qN_Ynsk",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 12
+      "comments": "\n              1 comment",
+      "index": 10
     },
     {
-      "title": "That boolean should probably be something else",
-      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 13
-    },
-    {
-      "title": "Finding and understanding bugs in C compilers (2011)",
-      "href": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
+      "title": "Parsing Layout, or: Haskell's Syntax is a Mess",
+      "href": "https://amelia.how/posts/parsing-layout.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 11
     },
     {
       "title": "Emoji Kitchen - Browse Google's unique emoji combinations",
       "href": "https://emojikitchen.dev/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 12
+    },
+    {
+      "title": "Google Developer Search Appliance – Proxmox Port",
+      "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 13
+    },
+    {
+      "title": "That boolean should probably be something else",
+      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 14
     },
     {
       "title": "How I Write Type Safe Generic Data Structures in C",
       "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
+      "index": 15
+    },
+    {
+      "title": "Finding and understanding bugs in C compilers (2011)",
+      "href": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 16
     },
     {
@@ -124,7 +124,7 @@
       "title": "The role of the University is to resist AI",
       "href": "https://www.danmcquillan.org/cpct_seminar.html",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 18
     },
     {
@@ -135,17 +135,17 @@
       "index": 19
     },
     {
-      "title": "FUZZING'25 Keynote: \"Are you sure you belong in academia?\"",
-      "href": "https://www.youtube.com/watch?v=qQGuQ_4V6WI",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
       "title": "An update on improving passkey support in Linux",
       "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 20
+    },
+    {
+      "title": "FUZZING'25 Keynote: \"Are you sure you belong in academia?\"",
+      "href": "https://www.youtube.com/watch?v=qQGuQ_4V6WI",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
     },
     {
@@ -166,7 +166,7 @@
       "title": "Zig Community Mirrors",
       "href": "https://ziglang.org/download/community-mirrors/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 24
     },
     {
