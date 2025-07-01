@@ -1,11 +1,11 @@
 {
-  "date": "Monday, June 30, 2025 at 11:40 PM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 12:25 AM GMT-5",
   "articles": [
     {
       "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "href": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
@@ -47,7 +47,7 @@
       "title": "Tools I love: mise(-en-place)",
       "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
       "points": "",
-      "comments": "\n              36 comments",
+      "comments": "\n              37 comments",
       "index": 7
     },
     {
@@ -72,108 +72,108 @@
       "index": 10
     },
     {
-      "title": "History of UNIX Manpages",
-      "href": "https://manpages.bsd.lv/history.html",
+      "title": "Google Developer Search Appliance – Proxmox Port",
+      "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              no comments",
       "index": 11
     },
     {
-      "title": "Caching is an Abstraction, not an Optimization",
-      "href": "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/",
+      "title": "History of UNIX Manpages",
+      "href": "https://manpages.bsd.lv/history.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              9 comments",
       "index": 12
     },
     {
       "title": "Zig Community Mirrors",
       "href": "https://ziglang.org/download/community-mirrors/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 13
+    },
+    {
+      "title": "Caching is an Abstraction, not an Optimization",
+      "href": "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
+      "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
     },
     {
       "title": "The provenance memory model for C",
       "href": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 14
-    },
-    {
-      "title": "Google Developer Search Appliance – Proxmox Port",
-      "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Making Rails delegated_type’s clearer",
       "href": "https://kaspth.com/posts/making-rails-delegated_types-clearer",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Maestro now supports GCC",
       "href": "https://blog.lenot.re/a/compiler",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/ksacpj/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Use keyword-only arguments in Python dataclasses",
       "href": "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code",
       "href": "https://simonwillison.net/2025/Jun/30/llvm/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Agile Was Never Your Problem",
       "href": "https://thecynical.dev/posts/agile-was-never-your-problem/",
       "points": "",
       "comments": "\n              25 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "How often is the query plan optimal?",
       "href": "https://vondra.me/posts/how-often-is-the-query-plan-optimal/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "VibeTunnel - access terminal from the browser to command agents",
       "href": "https://github.com/amantus-ai/vibetunnel",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Building Replication-Safe LSM Trees in Postgres",
       "href": "https://www.paradedb.com/blog/lsm_trees_in_postgres",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "20 years of programming",
-      "href": "https://sidhion.com/blog/20_years/",
-      "points": "",
-      "comments": "\n              13 comments",
       "index": 25
     }
   ]
