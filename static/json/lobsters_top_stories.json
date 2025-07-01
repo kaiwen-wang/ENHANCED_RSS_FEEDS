@@ -1,53 +1,53 @@
 {
-  "date": "Tuesday, July 1, 2025 at 10:20 AM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 11:25 AM GMT-5",
   "articles": [
+    {
+      "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
+      "href": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 1
+    },
     {
       "title": "Doing My Day Job on Chimera Linux",
       "href": "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 1
+      "comments": "\n              6 comments",
+      "index": 2
     },
     {
       "title": "Reflections on Haskell and Rust",
       "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 2
+      "comments": "\n              10 comments",
+      "index": 3
+    },
+    {
+      "title": "`git stage` over `git add`",
+      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 4
     },
     {
       "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "href": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 3
-    },
-    {
-      "title": "People Keep Inventing Prolly Trees",
-      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 4
-    },
-    {
-      "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
-      "href": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
-      "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              15 comments",
       "index": 5
     },
     {
       "title": "Helix language",
       "href": "https://github.com/helixlang/helix-lang",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 6
     },
     {
-      "title": "`git stage` over `git add`",
-      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
+      "title": "People Keep Inventing Prolly Trees",
+      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              2 comments",
       "index": 7
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
-      "title": "Google Developer Search Appliance – Proxmox Port",
-      "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 9
-    },
-    {
       "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
       "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
+      "title": "Google Developer Search Appliance – Proxmox Port",
+      "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 10
     },
     {
@@ -93,24 +93,24 @@
       "index": 13
     },
     {
+      "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
+      "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
       "title": "Reverse Engineering Vercel's BotID",
       "href": "https://www.nullpt.rs/reversing-botid",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "An update on improving passkey support in Linux",
       "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 15
-    },
-    {
-      "title": "input-branches: Workflow and flake-part for flake input patching using imported git branches",
-      "href": "https://github.com/mightyiam/input-branches",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 16
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
-      "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
-      "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
       "title": "Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction",
       "href": "https://github.com/topling/toplingdb",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 18
     },
     {
-      "title": "Tail Latency Might Matter More Than You Think",
+      "title": "Tail Latency Might Matter More Than You Think (2021)",
       "href": "https://brooker.co.za/blog/2021/04/19/latency.html",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 20
+      "comments": "\n              7 comments",
+      "index": 19
     },
     {
       "title": "Critical correctness bug in Lix",
       "href": "https://lix.systems/blog/2025-06-27-lix-critical-bug/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 21
+      "index": 20
     },
     {
       "title": "Tools I love: mise(-en-place)",
       "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
       "points": "",
       "comments": "\n              37 comments",
-      "index": 22
+      "index": 21
     },
     {
       "title": "Zig Community Mirrors",
       "href": "https://ziglang.org/download/community-mirrors/",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 22
+    },
+    {
+      "title": "Emoji Kitchen - Browse Google's unique emoji combinations",
+      "href": "https://emojikitchen.dev/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 23
+    },
+    {
+      "title": "Local LLM Tool Calling: Which LLM Should You Use?",
+      "href": "https://www.docker.com/blog/local-llm-tool-calling-a-practical-evaluation/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "Exception handling in rustc_codegen_cranelift",
       "href": "https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Caching is an Abstraction, not an Optimization",
-      "href": "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
