@@ -1,32 +1,32 @@
 {
-  "date": "Monday, June 30, 2025 at 8:50 PM GMT-5",
+  "date": "Monday, June 30, 2025 at 10:40 PM GMT-5",
   "articles": [
     {
       "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "href": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 1
-    },
-    {
-      "title": "That boolean should probably be something else",
-      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 2
-    },
-    {
-      "title": "How I Write Type Safe Generic Data Structures in C",
-      "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 3
     },
     {
       "title": "Doing My Day Job on Chimera Linux",
       "href": "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 2
+    },
+    {
+      "title": "That boolean should probably be something else",
+      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 3
+    },
+    {
+      "title": "How I Write Type Safe Generic Data Structures in C",
+      "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 4
     },
     {
@@ -107,17 +107,17 @@
       "index": 15
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/ksacpj/what_are_you_doing_this_week",
+      "title": "Maestro now supports GCC",
+      "href": "https://blog.lenot.re/a/compiler",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              no comments",
       "index": 16
     },
     {
-      "title": "llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code",
-      "href": "https://simonwillison.net/2025/Jun/30/llvm/",
+      "title": "What are you doing this week?",
+      "href": "/s/ksacpj/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              14 comments",
       "index": 17
     },
     {
@@ -128,22 +128,22 @@
       "index": 18
     },
     {
+      "title": "llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code",
+      "href": "https://simonwillison.net/2025/Jun/30/llvm/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
       "title": "Agile Was Never Your Problem",
       "href": "https://thecynical.dev/posts/agile-was-never-your-problem/",
       "points": "",
       "comments": "\n              25 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Google Developer Search Appliance – Proxmox Port",
       "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Maestro now supports GCC",
-      "href": "https://blog.lenot.re/a/compiler",
       "points": "",
       "comments": "\n              no comments",
       "index": 21
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Building Accurate Address Matching Systems",
-      "href": "https://www.robinlinacre.com/address_matching/",
+      "title": "20 years of programming",
+      "href": "https://sidhion.com/blog/20_years/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              13 comments",
       "index": 25
     }
   ]
