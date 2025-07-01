@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, July 1, 2025 at 4:20 PM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
       "href": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 1
     },
     {
       "title": "`git stage` over `git add`",
       "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              20 comments",
       "index": 2
     },
     {
@@ -33,35 +33,35 @@
       "title": "Reflections on Haskell and Rust",
       "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              18 comments",
       "index": 5
     },
     {
       "title": "People Keep Inventing Prolly Trees",
       "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 6
-    },
-    {
-      "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
-      "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 7
-    },
-    {
-      "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
-      "href": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 8
     },
     {
       "title": "Types of Types: Common to Exotic",
       "href": "https://www.stephendiehl.com/posts/types_of_types/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
+      "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 8
+    },
+    {
+      "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
+      "href": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
+      "points": "",
+      "comments": "\n              16 comments",
       "index": 9
     },
     {
@@ -103,77 +103,77 @@
       "title": "How I Write Type Safe Generic Data Structures in C",
       "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 15
+    },
+    {
+      "title": "Stream per agent session",
+      "href": "https://s2.dev/blog/agent-sessions",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
     },
     {
       "title": "Finding and understanding bugs in C compilers (2011)",
       "href": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Alternative Blanket Implementations for a Single Rust Trait",
       "href": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
+      "index": 18
     },
     {
       "title": "The role of the University is to resist AI",
       "href": "https://www.danmcquillan.org/cpct_seminar.html",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 18
+      "comments": "\n              7 comments",
+      "index": 19
     },
     {
       "title": "Reverse Engineering Vercel's BotID",
       "href": "https://www.nullpt.rs/reversing-botid",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
+    },
+    {
+      "title": "What should a native DOM templating API look like?",
+      "href": "https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
     },
     {
       "title": "An update on improving passkey support in Linux",
       "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "FUZZING'25 Keynote: \"Are you sure you belong in academia?\"",
       "href": "https://www.youtube.com/watch?v=qQGuQ_4V6WI",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
       "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction",
       "href": "https://github.com/topling/toplingdb",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "Zig Community Mirrors",
-      "href": "https://ziglang.org/download/community-mirrors/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 24
-    },
-    {
-      "title": "input-branches: Workflow and flake-part for flake input patching using imported git branches",
-      "href": "https://github.com/mightyiam/input-branches",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
