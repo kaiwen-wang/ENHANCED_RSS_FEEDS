@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, July 1, 2025 at 7:40 AM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 8:35 AM GMT-5",
   "articles": [
     {
       "title": "Doing My Day Job on Chimera Linux",
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "That boolean should probably be something else",
-      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 4
-    },
-    {
       "title": "People Keep Inventing Prolly Trees",
       "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 4
+    },
+    {
+      "title": "That boolean should probably be something else",
+      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 5
     },
     {
@@ -79,45 +79,45 @@
       "index": 11
     },
     {
+      "title": "Tail Latency Might Matter More Than You Think",
+      "href": "https://brooker.co.za/blog/2021/04/19/latency.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 12
+    },
+    {
       "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
       "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "Tail Latency Might Matter More Than You Think",
-      "href": "https://brooker.co.za/blog/2021/04/19/latency.html",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 13
-    },
-    {
-      "title": "Tools I love: mise(-en-place)",
-      "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
-      "points": "",
-      "comments": "\n              37 comments",
-      "index": 14
     },
     {
       "title": "Critical correctness bug in Lix",
       "href": "https://lix.systems/blog/2025-06-27-lix-critical-bug/",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 14
+    },
+    {
+      "title": "Tools I love: mise(-en-place)",
+      "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
+      "points": "",
+      "comments": "\n              37 comments",
       "index": 15
+    },
+    {
+      "title": "Zig Community Mirrors",
+      "href": "https://ziglang.org/download/community-mirrors/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 16
     },
     {
       "title": "History of UNIX Manpages",
       "href": "https://manpages.bsd.lv/history.html",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 16
-    },
-    {
-      "title": "Zig Community Mirrors",
-      "href": "https://ziglang.org/download/community-mirrors/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
+      "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
       "title": "`git stage` over `git add`",
       "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Making Rails delegated_type’s clearer",
       "href": "https://kaspth.com/posts/making-rails-delegated_types-clearer",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "Alternative Blanket Implementations for a Single Rust Trait",
-      "href": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 21
-    },
-    {
-      "title": "The provenance memory model for C",
-      "href": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 22
     },
     {
       "title": "llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code",
       "href": "https://simonwillison.net/2025/Jun/30/llvm/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 22
+    },
+    {
+      "title": "Alternative Blanket Implementations for a Single Rust Trait",
+      "href": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 23
+    },
+    {
+      "title": "The provenance memory model for C",
+      "href": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 24
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/ksacpj/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              19 comments",
-      "index": 24
-    },
-    {
-      "title": "Maestro now supports GCC",
-      "href": "https://blog.lenot.re/a/compiler",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              21 comments",
       "index": 25
     }
   ]
