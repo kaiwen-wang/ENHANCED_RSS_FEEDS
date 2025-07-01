@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, July 1, 2025 at 2:15 PM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
@@ -9,45 +9,45 @@
       "index": 1
     },
     {
+      "title": "Helix language",
+      "href": "https://github.com/helixlang/helix-lang",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 2
+    },
+    {
       "title": "Doing My Day Job on Chimera Linux",
       "href": "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 2
+      "index": 3
     },
     {
       "title": "Reflections on Haskell and Rust",
       "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 3
+      "comments": "\n              14 comments",
+      "index": 4
     },
     {
       "title": "`git stage` over `git add`",
       "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 4
+      "comments": "\n              16 comments",
+      "index": 5
     },
     {
-      "title": "Helix language",
-      "href": "https://github.com/helixlang/helix-lang",
+      "title": "People Keep Inventing Prolly Trees",
+      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 5
+      "comments": "\n              4 comments",
+      "index": 6
     },
     {
       "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "href": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 6
-    },
-    {
-      "title": "People Keep Inventing Prolly Trees",
-      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 7
     },
     {
@@ -65,31 +65,31 @@
       "index": 9
     },
     {
+      "title": "Parsing Layout, or: Haskell's Syntax is a Mess",
+      "href": "https://amelia.how/posts/parsing-layout.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "Types of Types: Common to Exotic",
+      "href": "https://www.stephendiehl.com/posts/types_of_types/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
       "title": "Google Developer Search Appliance – Proxmox Port",
       "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 10
+      "index": 12
     },
     {
       "title": "That boolean should probably be something else",
       "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 11
-    },
-    {
-      "title": "Emoji Kitchen - Browse Google's unique emoji combinations",
-      "href": "https://emojikitchen.dev/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "How I Write Type Safe Generic Data Structures in C",
-      "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 13
     },
     {
@@ -100,78 +100,78 @@
       "index": 14
     },
     {
+      "title": "Emoji Kitchen - Browse Google's unique emoji combinations",
+      "href": "https://emojikitchen.dev/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "How I Write Type Safe Generic Data Structures in C",
+      "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 16
+    },
+    {
       "title": "Alternative Blanket Implementations for a Single Rust Trait",
       "href": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
-    },
-    {
-      "title": "Parsing Layout, or: Haskell's Syntax is a Mess",
-      "href": "https://amelia.how/posts/parsing-layout.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "The role of the University is to resist AI",
       "href": "https://www.danmcquillan.org/cpct_seminar.html",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 17
-    },
-    {
-      "title": "An update on improving passkey support in Linux",
-      "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
-      "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              5 comments",
       "index": 18
-    },
-    {
-      "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
-      "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Types of Types: Common to Exotic",
-      "href": "https://www.stephendiehl.com/posts/types_of_types/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
     },
     {
       "title": "Reverse Engineering Vercel's BotID",
       "href": "https://www.nullpt.rs/reversing-botid",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "FUZZING'25 Keynote: \"Are you sure you belong in academia?\"",
+      "href": "https://www.youtube.com/watch?v=qQGuQ_4V6WI",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "An update on improving passkey support in Linux",
+      "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 21
     },
     {
-      "title": "input-branches: Workflow and flake-part for flake input patching using imported git branches",
-      "href": "https://github.com/mightyiam/input-branches",
+      "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
+      "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
     },
     {
-      "title": "Exception handling in rustc_codegen_cranelift",
-      "href": "https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift",
+      "title": "Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction",
+      "href": "https://github.com/topling/toplingdb",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              1 comment",
       "index": 23
     },
     {
-      "title": "Tail Latency Might Matter More Than You Think (2021)",
-      "href": "https://brooker.co.za/blog/2021/04/19/latency.html",
+      "title": "Zig Community Mirrors",
+      "href": "https://ziglang.org/download/community-mirrors/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 24
     },
     {
-      "title": "FUZZING'25 Keynote: \"Are you sure you belong in academia?\"",
-      "href": "https://www.youtube.com/watch?v=qQGuQ_4V6WI",
+      "title": "input-branches: Workflow and flake-part for flake input patching using imported git branches",
+      "href": "https://github.com/mightyiam/input-branches",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
