@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, July 1, 2025 at 1:30 AM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
@@ -12,14 +12,14 @@
       "title": "Doing My Day Job on Chimera Linux",
       "href": "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 2
     },
     {
       "title": "That boolean should probably be something else",
       "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "Google Developer Search Appliance – Proxmox Port",
       "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 5
     },
     {
@@ -75,28 +75,28 @@
       "title": "Tail Latency Might Matter More Than You Think",
       "href": "https://brooker.co.za/blog/2021/04/19/latency.html",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 11
+    },
+    {
+      "title": "People Keep Inventing Prolly Trees",
+      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 12
     },
     {
       "title": "History of UNIX Manpages",
       "href": "https://manpages.bsd.lv/history.html",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Zig Community Mirrors",
       "href": "https://ziglang.org/download/community-mirrors/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
-    },
-    {
-      "title": "`git stage` over `git add`",
-      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 14
     },
     {
@@ -121,17 +121,17 @@
       "index": 17
     },
     {
-      "title": "People Keep Inventing Prolly Trees",
-      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
+      "title": "Making Rails delegated_type’s clearer",
+      "href": "https://kaspth.com/posts/making-rails-delegated_types-clearer",
       "points": "",
       "comments": "\n              1 comment",
       "index": 18
     },
     {
-      "title": "Making Rails delegated_type’s clearer",
-      "href": "https://kaspth.com/posts/making-rails-delegated_types-clearer",
+      "title": "What is isomorphism? | ugBASIC user manual",
+      "href": "https://ugbasic.iwashere.eu/manual/isomorphism",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 19
     },
     {
@@ -152,26 +152,26 @@
       "title": "Use keyword-only arguments in Python dataclasses",
       "href": "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 22
+    },
+    {
+      "title": "Agile Was Never Your Problem",
+      "href": "https://thecynical.dev/posts/agile-was-never-your-problem/",
+      "points": "",
+      "comments": "\n              27 comments",
+      "index": 23
     },
     {
       "title": "llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code",
       "href": "https://simonwillison.net/2025/Jun/30/llvm/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Agile Was Never Your Problem",
-      "href": "https://thecynical.dev/posts/agile-was-never-your-problem/",
-      "points": "",
-      "comments": "\n              26 comments",
       "index": 24
     },
     {
-      "title": "How often is the query plan optimal?",
-      "href": "https://vondra.me/posts/how-often-is-the-query-plan-optimal/",
+      "title": "`git stage` over `git add`",
+      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
