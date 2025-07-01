@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, July 1, 2025 at 5:20 PM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
       "href": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              13 comments",
       "index": 1
     },
     {
@@ -33,28 +33,28 @@
       "title": "Reflections on Haskell and Rust",
       "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              20 comments",
       "index": 5
     },
     {
       "title": "People Keep Inventing Prolly Trees",
       "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 6
+    },
+    {
+      "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
+      "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 7
     },
     {
       "title": "Types of Types: Common to Exotic",
       "href": "https://www.stephendiehl.com/posts/types_of_types/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 7
-    },
-    {
-      "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
-      "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 8
     },
     {
@@ -65,17 +65,17 @@
       "index": 9
     },
     {
-      "title": "Software engineering with LLMs in 2025: reality check",
-      "href": "https://www.youtube.com/watch?v=EO3_qN_Ynsk",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 10
-    },
-    {
       "title": "Parsing Layout, or: Haskell's Syntax is a Mess",
       "href": "https://amelia.how/posts/parsing-layout.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "Software engineering with LLMs in 2025: reality check",
+      "href": "https://www.youtube.com/watch?v=EO3_qN_Ynsk",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 11
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "Finding and understanding bugs in C compilers (2011)",
-      "href": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
       "title": "Alternative Blanket Implementations for a Single Rust Trait",
       "href": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
+      "title": "Finding and understanding bugs in C compilers (2011)",
+      "href": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 18
+    },
+    {
+      "title": "What should a native DOM templating API look like?",
+      "href": "https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Exception handling in rustc_codegen_cranelift",
+      "href": "https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 20
     },
     {
       "title": "The role of the University is to resist AI",
       "href": "https://www.danmcquillan.org/cpct_seminar.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 19
-    },
-    {
-      "title": "Reverse Engineering Vercel's BotID",
-      "href": "https://www.nullpt.rs/reversing-botid",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "What should a native DOM templating API look like?",
-      "href": "https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 21
-    },
-    {
-      "title": "An update on improving passkey support in Linux",
-      "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 22
     },
     {
       "title": "FUZZING'25 Keynote: \"Are you sure you belong in academia?\"",
       "href": "https://www.youtube.com/watch?v=qQGuQ_4V6WI",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Animating Number Counters",
+      "href": "https://css-tricks.com/animating-number-counters/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 23
     },
     {
-      "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
-      "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
+      "title": "Reverse Engineering Vercel's BotID",
+      "href": "https://www.nullpt.rs/reversing-botid",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction",
-      "href": "https://github.com/topling/toplingdb",
+      "title": "An update on improving passkey support in Linux",
+      "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 25
     }
   ]
