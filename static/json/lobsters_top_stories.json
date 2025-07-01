@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, July 1, 2025 at 9:20 AM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 10:20 AM GMT-5",
   "articles": [
     {
       "title": "Doing My Day Job on Chimera Linux",
       "href": "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 1
     },
     {
       "title": "Reflections on Haskell and Rust",
       "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 2
     },
     {
@@ -30,150 +30,150 @@
       "index": 4
     },
     {
+      "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
+      "href": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 5
+    },
+    {
+      "title": "Helix language",
+      "href": "https://github.com/helixlang/helix-lang",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 6
+    },
+    {
+      "title": "`git stage` over `git add`",
+      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 7
+    },
+    {
       "title": "That boolean should probably be something else",
       "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 5
+      "index": 8
     },
     {
       "title": "Google Developer Search Appliance – Proxmox Port",
       "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 6
+      "index": 9
+    },
+    {
+      "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
+      "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
     },
     {
       "title": "How I Write Type Safe Generic Data Structures in C",
       "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 7
-    },
-    {
-      "title": "Reverse Engineering Vercel's BotID",
-      "href": "https://www.nullpt.rs/reversing-botid",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 8
-    },
-    {
-      "title": "An update on improving passkey support in Linux",
-      "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 9
+      "index": 11
     },
     {
       "title": "Finding and understanding bugs in C compilers (2011)",
       "href": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "input-branches: Workflow and flake-part for flake input patching using imported git branches",
-      "href": "https://github.com/mightyiam/input-branches",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "The role of the University is to resist AI",
-      "href": "https://www.danmcquillan.org/cpct_seminar.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 12
-    },
-    {
-      "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
-      "href": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Tail Latency Might Matter More Than You Think",
-      "href": "https://brooker.co.za/blog/2021/04/19/latency.html",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 14
-    },
-    {
-      "title": "Critical correctness bug in Lix",
-      "href": "https://lix.systems/blog/2025-06-27-lix-critical-bug/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 15
-    },
-    {
-      "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
-      "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Tools I love: mise(-en-place)",
-      "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
-      "points": "",
-      "comments": "\n              37 comments",
-      "index": 17
-    },
-    {
-      "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
-      "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Zig Community Mirrors",
-      "href": "https://ziglang.org/download/community-mirrors/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 19
     },
     {
       "title": "Alternative Blanket Implementations for a Single Rust Trait",
       "href": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
+      "title": "Reverse Engineering Vercel's BotID",
+      "href": "https://www.nullpt.rs/reversing-botid",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "An update on improving passkey support in Linux",
+      "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
+      "title": "input-branches: Workflow and flake-part for flake input patching using imported git branches",
+      "href": "https://github.com/mightyiam/input-branches",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "The role of the University is to resist AI",
+      "href": "https://www.danmcquillan.org/cpct_seminar.html",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 17
+    },
+    {
+      "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
+      "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction",
+      "href": "https://github.com/topling/toplingdb",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Tail Latency Might Matter More Than You Think",
+      "href": "https://brooker.co.za/blog/2021/04/19/latency.html",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 20
     },
     {
-      "title": "History of UNIX Manpages",
-      "href": "https://manpages.bsd.lv/history.html",
+      "title": "Critical correctness bug in Lix",
+      "href": "https://lix.systems/blog/2025-06-27-lix-critical-bug/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              4 comments",
       "index": 21
+    },
+    {
+      "title": "Tools I love: mise(-en-place)",
+      "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
+      "points": "",
+      "comments": "\n              37 comments",
+      "index": 22
+    },
+    {
+      "title": "Zig Community Mirrors",
+      "href": "https://ziglang.org/download/community-mirrors/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 23
+    },
+    {
+      "title": "Exception handling in rustc_codegen_cranelift",
+      "href": "https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "Caching is an Abstraction, not an Optimization",
       "href": "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "`git stage` over `git add`",
-      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Making Rails delegated_type’s clearer",
-      "href": "https://kaspth.com/posts/making-rails-delegated_types-clearer",
-      "points": "",
       "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code",
-      "href": "https://simonwillison.net/2025/Jun/30/llvm/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 25
     }
   ]
