@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, July 1, 2025 at 5:20 AM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "Doing My Day Job on Chimera Linux",
       "href": "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 1
     },
     {
       "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "href": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              11 comments",
       "index": 2
     },
     {
@@ -23,150 +23,150 @@
       "index": 3
     },
     {
+      "title": "Reflections on Haskell and Rust",
+      "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 4
+    },
+    {
       "title": "Google Developer Search Appliance – Proxmox Port",
       "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 4
+      "index": 5
+    },
+    {
+      "title": "People Keep Inventing Prolly Trees",
+      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 6
     },
     {
       "title": "How I Write Type Safe Generic Data Structures in C",
       "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 5
-    },
-    {
-      "title": "Reflections on Haskell and Rust",
-      "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Reverse Engineering Vercel's BotID",
       "href": "https://www.nullpt.rs/reversing-botid",
       "points": "",
       "comments": "\n              no comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "An update on improving passkey support in Linux",
       "href": "https://www.iinuwa.xyz/blog/linux-passkeys-update/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "The role of the University is to resist AI",
       "href": "https://www.danmcquillan.org/cpct_seminar.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Tools I love: mise(-en-place)",
       "href": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
       "points": "",
       "comments": "\n              37 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Tail Latency Might Matter More Than You Think",
       "href": "https://brooker.co.za/blog/2021/04/19/latency.html",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Critical correctness bug in Lix",
       "href": "https://lix.systems/blog/2025-06-27-lix-critical-bug/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 12
+      "index": 13
     },
     {
-      "title": "People Keep Inventing Prolly Trees",
-      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
+      "title": "Finding and understanding bugs in C compilers (2011)",
+      "href": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 13
+      "comments": "\n              no comments",
+      "index": 14
     },
     {
       "title": "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
       "href": "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "History of UNIX Manpages",
       "href": "https://manpages.bsd.lv/history.html",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Zig Community Mirrors",
       "href": "https://ziglang.org/download/community-mirrors/",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 16
+      "comments": "\n              4 comments",
+      "index": 17
     },
     {
       "title": "Caching is an Abstraction, not an Optimization",
       "href": "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "`git stage` over `git add`",
       "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
+    },
+    {
+      "title": "Alternative Blanket Implementations for a Single Rust Trait",
+      "href": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "The provenance memory model for C",
       "href": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Making Rails delegated_type’s clearer",
       "href": "https://kaspth.com/posts/making-rails-delegated_types-clearer",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 22
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/ksacpj/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              15 comments",
-      "index": 21
+      "comments": "\n              18 comments",
+      "index": 23
     },
     {
       "title": "llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code",
       "href": "https://simonwillison.net/2025/Jun/30/llvm/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "VibeTunnel - access terminal from the browser to command agents",
-      "href": "https://github.com/amantus-ai/vibetunnel",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 23
-    },
-    {
-      "title": "What is isomorphism?",
-      "href": "https://ugbasic.iwashere.eu/manual/isomorphism",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
