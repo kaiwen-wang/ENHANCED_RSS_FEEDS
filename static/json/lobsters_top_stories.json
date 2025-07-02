@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, July 1, 2025 at 8:40 PM GMT-5",
+  "date": "Tuesday, July 1, 2025 at 10:20 PM GMT-5",
   "articles": [
     {
       "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
       "href": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 1
     },
     {
@@ -16,87 +16,87 @@
       "index": 2
     },
     {
+      "title": "clamp / median / range",
+      "href": "https://dotat.at/@/2025-07-02-cmp.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 3
+    },
+    {
       "title": "`git stage` over `git add`",
       "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
       "points": "",
-      "comments": "\n              23 comments",
-      "index": 3
+      "comments": "\n              27 comments",
+      "index": 4
     },
     {
       "title": "Doing My Day Job on Chimera Linux",
       "href": "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Helix language",
       "href": "https://github.com/helixlang/helix-lang",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Reflections on Haskell and Rust",
       "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
       "points": "",
-      "comments": "\n              20 comments",
-      "index": 6
+      "comments": "\n              21 comments",
+      "index": 7
     },
     {
       "title": "People Keep Inventing Prolly Trees",
       "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "You MUST listen to RFC 2119",
       "href": "https://ericwbailey.website/published/you-must-listen-to-rfc-2119/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 8
+      "comments": "\n              1 comment",
+      "index": 9
     },
     {
       "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
       "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 9
+      "index": 10
+    },
+    {
+      "title": "Parsing Layout, or: Haskell's Syntax is a Mess",
+      "href": "https://amelia.how/posts/parsing-layout.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 11
     },
     {
       "title": "Types of Types: Common to Exotic",
       "href": "https://www.stephendiehl.com/posts/types_of_types/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 12
     },
     {
       "title": "Emoji Kitchen - Browse Google's unique emoji combinations",
       "href": "https://emojikitchen.dev/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 13
     },
     {
       "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "href": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 12
-    },
-    {
-      "title": "Parsing Layout, or: Haskell's Syntax is a Mess",
-      "href": "https://amelia.how/posts/parsing-layout.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Stream per agent session",
-      "href": "https://s2.dev/blog/agent-sessions",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "Stream per agent session",
+      "href": "https://s2.dev/blog/agent-sessions",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
       "title": "Alternative Blanket Implementations for a Single Rust Trait",
       "href": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "Google Developer Search Appliance – Proxmox Port",
-      "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 17
-    },
-    {
-      "title": "That boolean should probably be something else",
-      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 18
-    },
-    {
-      "title": "How I Write Type Safe Generic Data Structures in C",
-      "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 19
-    },
-    {
-      "title": "What should a native DOM templating API look like?",
-      "href": "https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "Finding and understanding bugs in C compilers (2011)",
-      "href": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "FUZZING'25 Keynote: \"Are you sure you belong in academia?\"",
-      "href": "https://www.youtube.com/watch?v=qQGuQ_4V6WI",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
     },
     {
       "title": "Animating Number Counters",
       "href": "https://css-tricks.com/animating-number-counters/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
+      "index": 18
+    },
+    {
+      "title": "Google Developer Search Appliance – Proxmox Port",
+      "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 19
+    },
+    {
+      "title": "That boolean should probably be something else",
+      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 20
+    },
+    {
+      "title": "How I Write Type Safe Generic Data Structures in C",
+      "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 21
+    },
+    {
+      "title": "Finding and understanding bugs in C compilers (2011)",
+      "href": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Exception handling in rustc_codegen_cranelift",
       "href": "https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 23
+    },
+    {
+      "title": "What should a native DOM templating API look like?",
+      "href": "https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 24
     },
     {
-      "title": "The role of the University is to resist AI",
-      "href": "https://www.danmcquillan.org/cpct_seminar.html",
+      "title": "FUZZING'25 Keynote: \"Are you sure you belong in academia?\"",
+      "href": "https://www.youtube.com/watch?v=qQGuQ_4V6WI",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
