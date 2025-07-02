@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, July 2, 2025 at 5:20 AM GMT-5",
+  "date": "Wednesday, July 2, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "using Sun Ray thin clients in 2025",
@@ -30,31 +30,31 @@
       "index": 4
     },
     {
+      "title": "clamp / median / range",
+      "href": "https://dotat.at/@/2025-07-02-cmp.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 5
+    },
+    {
       "title": "You MUST listen to RFC 2119",
       "href": "https://ericwbailey.website/published/you-must-listen-to-rfc-2119/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 5
-    },
-    {
-      "title": "clamp / median / range",
-      "href": "https://dotat.at/@/2025-07-02-cmp.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 6
-    },
-    {
-      "title": "`git stage` over `git add`",
-      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
-      "points": "",
-      "comments": "\n              35 comments",
-      "index": 7
     },
     {
       "title": "OpenBao, the community fork of Vault, released v2.3.1 with namespaces",
       "href": "https://github.com/openbao/openbao/releases/tag/v2.3.1",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "`git stage` over `git add`",
+      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
+      "points": "",
+      "comments": "\n              36 comments",
       "index": 8
     },
     {
@@ -79,38 +79,38 @@
       "index": 11
     },
     {
-      "title": "People Keep Inventing Prolly Trees",
-      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 12
-    },
-    {
-      "title": "Stream per agent session",
-      "href": "https://s2.dev/blog/agent-sessions",
+      "title": "How large are large language models? (2025)",
+      "href": "https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 12
     },
     {
       "title": "Parsing Layout, or: Haskell's Syntax is a Mess",
       "href": "https://amelia.how/posts/parsing-layout.html",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 13
+    },
+    {
+      "title": "People Keep Inventing Prolly Trees",
+      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 14
+    },
+    {
+      "title": "Stream per agent session",
+      "href": "https://s2.dev/blog/agent-sessions",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
     },
     {
       "title": "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
       "href": "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 15
-    },
-    {
-      "title": "The web's broken deal with AI companies",
-      "href": "https://dri.es/the-webs-broken-deal-with-ai-companies",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 16
     },
     {
@@ -121,8 +121,8 @@
       "index": 17
     },
     {
-      "title": "c2rust: Migrate C code to Rust",
-      "href": "https://github.com/immunant/c2rust",
+      "title": "The web's broken deal with AI companies",
+      "href": "https://dri.es/the-webs-broken-deal-with-ai-companies",
       "points": "",
       "comments": "\n              no comments",
       "index": 18
@@ -131,42 +131,42 @@
       "title": "Software engineering with LLMs in 2025: reality check",
       "href": "https://www.youtube.com/watch?v=EO3_qN_Ynsk",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 19
+    },
+    {
+      "title": "c2rust: Migrate C code to Rust",
+      "href": "https://github.com/immunant/c2rust",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "Types of Types: Common to Exotic",
       "href": "https://www.stephendiehl.com/posts/types_of_types/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 21
+    },
+    {
+      "title": "Animating Number Counters",
+      "href": "https://css-tricks.com/animating-number-counters/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 22
     },
     {
       "title": "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "href": "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Alternative Blanket Implementations for a Single Rust Trait",
       "href": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "Animating Number Counters",
-      "href": "https://css-tricks.com/animating-number-counters/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "Google Developer Search Appliance – Proxmox Port",
-      "href": "https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 24
     },
     {
