@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, July 2, 2025 at 12:20 AM GMT-5",
+  "date": "Wednesday, July 2, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "using Sun Ray thin clients in 2025",
@@ -19,28 +19,28 @@
       "title": "You should delete tests",
       "href": "https://andre.arko.net/2025/06/30/you-should-delete-tests/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 3
+    },
+    {
+      "title": "`git stage` over `git add`",
+      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
+      "points": "",
+      "comments": "\n              29 comments",
+      "index": 4
     },
     {
       "title": "clamp / median / range",
       "href": "https://dotat.at/@/2025-07-02-cmp.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "The Hell of FFIX Tetra Master",
       "href": "https://xvw.lol/en/articles/tetra-master.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 5
-    },
-    {
-      "title": "`git stage` over `git add`",
-      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
-      "points": "",
-      "comments": "\n              28 comments",
       "index": 6
     },
     {
@@ -54,7 +54,7 @@
       "title": "Doing My Day Job on Chimera Linux",
       "href": "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 8
     },
     {
@@ -68,21 +68,21 @@
       "title": "Reflections on Haskell and Rust",
       "href": "https://academy.fpblock.com/blog/rust-haskell-reflections/",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              22 comments",
       "index": 10
-    },
-    {
-      "title": "People Keep Inventing Prolly Trees",
-      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 11
     },
     {
       "title": "Stream per agent session",
       "href": "https://s2.dev/blog/agent-sessions",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "People Keep Inventing Prolly Trees",
+      "href": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 12
     },
     {
@@ -100,8 +100,8 @@
       "index": 14
     },
     {
-      "title": "Parsing Layout, or: Haskell's Syntax is a Mess",
-      "href": "https://amelia.how/posts/parsing-layout.html",
+      "title": "Software engineering with LLMs in 2025: reality check",
+      "href": "https://www.youtube.com/watch?v=EO3_qN_Ynsk",
       "points": "",
       "comments": "\n              1 comment",
       "index": 15
@@ -110,21 +110,21 @@
       "title": "Emoji Kitchen - Browse Google's unique emoji combinations",
       "href": "https://emojikitchen.dev/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 16
+    },
+    {
+      "title": "Parsing Layout, or: Haskell's Syntax is a Mess",
+      "href": "https://amelia.how/posts/parsing-layout.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 17
     },
     {
       "title": "Types of Types: Common to Exotic",
       "href": "https://www.stephendiehl.com/posts/types_of_types/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Software engineering with LLMs in 2025: reality check",
-      "href": "https://www.youtube.com/watch?v=EO3_qN_Ynsk",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 18
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
+      "title": "Finding and understanding bugs in C compilers (2011)",
+      "href": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
       "title": "That boolean should probably be something else",
       "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "How I Write Type Safe Generic Data Structures in C",
       "href": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 24
-    },
-    {
-      "title": "Finding and understanding bugs in C compilers (2011)",
-      "href": "https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
