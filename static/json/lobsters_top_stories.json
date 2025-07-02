@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, July 2, 2025 at 4:20 PM GMT-5",
+  "date": "Wednesday, July 2, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "A Higgs-bugson in the Linux Kernel",
       "href": "https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 1
     },
     {
@@ -19,21 +19,21 @@
       "title": "This Overly Long Variable Name Could Have Been a Comment",
       "href": "https://jonathan-frere.com/posts/names-vs-comments/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
       "index": 3
     },
     {
       "title": "Three Years of Nix and NixOS: The Good, the Bad, and the Ugly",
       "href": "https://pierrezemb.fr/posts/nixos-good-bad-ugly/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 4
     },
     {
       "title": "You should delete tests",
       "href": "https://andre.arko.net/2025/06/30/you-should-delete-tests/",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              31 comments",
       "index": 5
     },
     {
@@ -61,7 +61,7 @@
       "title": "500× faster: Four different ways to speed up your code",
       "href": "https://pythonspeed.com/articles/different-ways-speed/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 9
     },
     {
@@ -89,7 +89,7 @@
       "title": "Uncloud -  tool for deploying and managing containerised applications",
       "href": "https://github.com/psviderski/uncloud",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "Programming as Theory Building",
-      "href": "https://pablo.rauzy.name/dev/naur1985programming.pdf",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "OpenBao, the community fork of Vault, released v2.3.1 with namespaces",
-      "href": "https://github.com/openbao/openbao/releases/tag/v2.3.1",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
-      "href": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 17
-    },
-    {
-      "title": "Counterexamples of positivity implications in Kähler curvature tensors",
-      "href": "https://www.magnusson.io/post/curvature-examples/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 18
-    },
-    {
-      "title": "How large are large language models? (2025)",
-      "href": "https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Fail Faster: Staging and Fast Randomness for High-Performance Property-Based Testing",
-      "href": "https://www.youtube.com/watch?v=ux49IvxKQR8",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Deploying Python (Django) to Kubernetes: A practical guide with a complete DevOps Pipeline",
-      "href": "https://denibertovic.com/posts/deploying-python-django-to-kubernetes-a-practical-guide-with-a-complete-devops-pipeline/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
       "title": "Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data",
       "href": "https://blog.mgdproductions.com/ikko-activebuds/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 15
     },
     {
       "title": "sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains",
       "href": "https://github.com/i04n/sslcheck",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Fail Faster: Staging and Fast Randomness for High-Performance Property-Based Testing",
+      "href": "https://www.youtube.com/watch?v=ux49IvxKQR8",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Programming as Theory Building",
+      "href": "https://pablo.rauzy.name/dev/naur1985programming.pdf",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "OpenBao, the community fork of Vault, released v2.3.1 with namespaces",
+      "href": "https://github.com/openbao/openbao/releases/tag/v2.3.1",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
+      "href": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 20
+    },
+    {
+      "title": "jujutsu v0.31.0 released",
+      "href": "https://github.com/jj-vcs/jj/releases/tag/v0.31.0",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Counterexamples of positivity implications in Kähler curvature tensors",
+      "href": "https://www.magnusson.io/post/curvature-examples/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 22
+    },
+    {
+      "title": "How large are large language models? (2025)",
+      "href": "https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "Rapid Prototyping a Safe, Logless Reconfiguration Protocol for MongoDB with TLA+",
-      "href": "https://www.mongodb.com/blog/post/technical/rapid-prototyping-safe-logless-reconfiguration-protocol-mongodb-tla-plus",
+      "title": "Why I'm Dialing Back My LLM Usage",
+      "href": "https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "`git stage` over `git add`",
-      "href": "https://bhoot.dev/2025/git-stage-over-git-add/",
+      "title": "Deploying Python (Django) to Kubernetes: A practical guide with a complete DevOps Pipeline",
+      "href": "https://denibertovic.com/posts/deploying-python-django-to-kubernetes-a-practical-guide-with-a-complete-devops-pipeline/",
       "points": "",
-      "comments": "\n              38 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
