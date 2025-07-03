@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, July 3, 2025 at 3:25 AM GMT-5",
+  "date": "Thursday, July 3, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "A Higgs-bugson in the Linux Kernel",
@@ -12,28 +12,28 @@
       "title": "This Overly Long Variable Name Could Have Been a Comment",
       "href": "https://jonathan-frere.com/posts/names-vs-comments/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 2
     },
     {
       "title": "copyleft-next",
       "href": "https://next.copyleft.org/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 3
+    },
+    {
+      "title": "Yet another ZIP trick",
+      "href": "https://hackarcana.com/article/yet-another-zip-trick",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 4
     },
     {
       "title": "500× faster: Four different ways to speed up your code",
       "href": "https://pythonspeed.com/articles/different-ways-speed/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 4
-    },
-    {
-      "title": "Yet another ZIP trick",
-      "href": "https://hackarcana.com/article/yet-another-zip-trick",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 5
     },
     {
@@ -65,80 +65,80 @@
       "index": 9
     },
     {
+      "title": "Introducing the first alpha of Turso: The next evolution of SQLite",
+      "href": "https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
       "title": "You should delete tests",
       "href": "https://andre.arko.net/2025/06/30/you-should-delete-tests/",
       "points": "",
       "comments": "\n              41 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data",
       "href": "https://blog.mgdproductions.com/ikko-activebuds/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Programming as Theory Building",
       "href": "https://pablo.rauzy.name/dev/naur1985programming.pdf",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 12
+      "index": 13
+    },
+    {
+      "title": "Recreating Laravel Cloud’s range input with native HTML",
+      "href": "https://phare.io/blog/recreating-laravel-clouds-range-input-with-native-html/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
     },
     {
       "title": "The web's broken deal with AI companies",
       "href": "https://dri.es/the-webs-broken-deal-with-ai-companies",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 13
+      "index": 15
     },
     {
       "title": "clamp / median / range",
       "href": "https://dotat.at/@/2025-07-02-cmp.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 14
+      "index": 16
     },
     {
       "title": "The Hell of FFIX Tetra Master",
       "href": "https://xvw.lol/en/articles/tetra-master.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 15
+      "index": 17
     },
     {
       "title": "using Sun Ray thin clients in 2025",
       "href": "https://catstret.ch/202506/sun-ray-shenanigans/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 16
-    },
-    {
-      "title": "I Still Use Vim. I Also Use AI. It Still Feels Like Me",
-      "href": "https://www.godaddy.com/resources/news/i-still-use-vim-i-also-use-ai-it-still-feels-like-me",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "The Chapel Programming Language",
       "href": "https://chapel-lang.org/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 18
-    },
-    {
-      "title": "sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains",
-      "href": "https://github.com/i04n/sslcheck",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 19
     },
     {
-      "title": "Uncloud -  tool for deploying and managing containerised applications",
-      "href": "https://github.com/psviderski/uncloud",
+      "title": "I Still Use Vim. I Also Use AI. It Still Feels Like Me",
+      "href": "https://www.godaddy.com/resources/news/i-still-use-vim-i-also-use-ai-it-still-feels-like-me",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 20
     },
     {
@@ -149,10 +149,10 @@
       "index": 21
     },
     {
-      "title": "Introducing the first alpha of Turso: The next evolution of SQLite",
-      "href": "https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev",
+      "title": "How to manage configuration settings in Go web applications",
+      "href": "https://www.alexedwards.net/blog/how-to-manage-configuration-settings-in-go-web-applications",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "Fail Faster: Staging and Fast Randomness for High-Performance Property-Based Testing",
-      "href": "https://www.youtube.com/watch?v=ux49IvxKQR8",
+      "title": "sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains",
+      "href": "https://github.com/i04n/sslcheck",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "You MUST listen to RFC 2119",
-      "href": "https://ericwbailey.website/published/you-must-listen-to-rfc-2119/",
+      "title": "Uncloud -  tool for deploying and managing containerised applications",
+      "href": "https://github.com/psviderski/uncloud",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              5 comments",
       "index": 25
     }
   ]
