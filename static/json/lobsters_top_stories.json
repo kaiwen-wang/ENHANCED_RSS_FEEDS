@@ -1,60 +1,60 @@
 {
-  "date": "Thursday, July 3, 2025 at 2:20 AM GMT-5",
+  "date": "Thursday, July 3, 2025 at 3:25 AM GMT-5",
   "articles": [
     {
       "title": "A Higgs-bugson in the Linux Kernel",
       "href": "https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 1
     },
     {
       "title": "This Overly Long Variable Name Could Have Been a Comment",
       "href": "https://jonathan-frere.com/posts/names-vs-comments/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 2
+    },
+    {
+      "title": "copyleft-next",
+      "href": "https://next.copyleft.org/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 3
     },
     {
       "title": "500× faster: Four different ways to speed up your code",
       "href": "https://pythonspeed.com/articles/different-ways-speed/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Yet another ZIP trick",
       "href": "https://hackarcana.com/article/yet-another-zip-trick",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Why I'm Dialing Back My LLM Usage",
       "href": "https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "jujutsu v0.31.0 released",
       "href": "https://github.com/jj-vcs/jj/releases/tag/v0.31.0",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Three Years of Nix and NixOS: The Good, the Bad, and the Ugly",
       "href": "https://pierrezemb.fr/posts/nixos-good-bad-ugly/",
       "points": "",
-      "comments": "\n              23 comments",
-      "index": 7
-    },
-    {
-      "title": "copyleft-next",
-      "href": "https://next.copyleft.org/",
-      "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              24 comments",
       "index": 8
     },
     {
@@ -68,7 +68,7 @@
       "title": "You should delete tests",
       "href": "https://andre.arko.net/2025/06/30/you-should-delete-tests/",
       "points": "",
-      "comments": "\n              40 comments",
+      "comments": "\n              41 comments",
       "index": 10
     },
     {
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
-      "title": "The Hell of FFIX Tetra Master",
-      "href": "https://xvw.lol/en/articles/tetra-master.html",
+      "title": "Programming as Theory Building",
+      "href": "https://pablo.rauzy.name/dev/naur1985programming.pdf",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              2 comments",
       "index": 12
     },
     {
-      "title": "using Sun Ray thin clients in 2025",
-      "href": "https://catstret.ch/202506/sun-ray-shenanigans/",
+      "title": "The web's broken deal with AI companies",
+      "href": "https://dri.es/the-webs-broken-deal-with-ai-companies",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              5 comments",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "The web's broken deal with AI companies",
-      "href": "https://dri.es/the-webs-broken-deal-with-ai-companies",
+      "title": "The Hell of FFIX Tetra Master",
+      "href": "https://xvw.lol/en/articles/tetra-master.html",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 15
+    },
+    {
+      "title": "using Sun Ray thin clients in 2025",
+      "href": "https://catstret.ch/202506/sun-ray-shenanigans/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 16
+    },
+    {
+      "title": "I Still Use Vim. I Also Use AI. It Still Feels Like Me",
+      "href": "https://www.godaddy.com/resources/news/i-still-use-vim-i-also-use-ai-it-still-feels-like-me",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "The Chapel Programming Language",
       "href": "https://chapel-lang.org/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 16
-    },
-    {
-      "title": "Programming as Theory Building",
-      "href": "https://pablo.rauzy.name/dev/naur1985programming.pdf",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 17
-    },
-    {
-      "title": "Can we test it? Yes, we can",
-      "href": "https://youtu.be/MqC3tudPH6w",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 18
-    },
-    {
-      "title": "Uncloud -  tool for deploying and managing containerised applications",
-      "href": "https://github.com/psviderski/uncloud",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 19
     },
     {
       "title": "sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains",
       "href": "https://github.com/i04n/sslcheck",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Uncloud -  tool for deploying and managing containerised applications",
+      "href": "https://github.com/psviderski/uncloud",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 20
+    },
+    {
+      "title": "Can we test it? Yes, we can",
+      "href": "https://youtu.be/MqC3tudPH6w",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Introducing the first alpha of Turso: The next evolution of SQLite",
+      "href": "https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "The Amiga 3000 UNIX and Sun Microsystems: Deal or no deal?",
       "href": "https://www.datagubbe.se/amix/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "You MUST listen to RFC 2119",
-      "href": "https://ericwbailey.website/published/you-must-listen-to-rfc-2119/",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Fail Faster: Staging and Fast Randomness for High-Performance Property-Based Testing",
       "href": "https://www.youtube.com/watch?v=ux49IvxKQR8",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "OpenBao, the community fork of Vault, released v2.3.1 with namespaces",
-      "href": "https://github.com/openbao/openbao/releases/tag/v2.3.1",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
-      "href": "https://blog.cloudflare.com/introducing-pay-per-crawl/",
+      "title": "You MUST listen to RFC 2119",
+      "href": "https://ericwbailey.website/published/you-must-listen-to-rfc-2119/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              11 comments",
       "index": 25
     }
   ]
