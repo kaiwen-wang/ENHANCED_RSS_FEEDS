@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, July 3, 2025 at 5:20 PM GMT-5",
+  "date": "Thursday, July 3, 2025 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "Lucky 13 Lobsters",
@@ -16,24 +16,24 @@
       "index": 2
     },
     {
+      "title": "When AI Codes, What’s Left for me?",
+      "href": "https://corecursive.com/coding-agents/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 3
+    },
+    {
       "title": "Introducing the first alpha of Turso: The next evolution of SQLite",
       "href": "https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev",
       "points": "",
-      "comments": "\n              35 comments",
-      "index": 3
+      "comments": "\n              40 comments",
+      "index": 4
     },
     {
       "title": "Introducing tmux-rs",
       "href": "https://richardscollin.github.io/tmux-rs/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 4
-    },
-    {
-      "title": "When AI Codes, What’s Left for me?",
-      "href": "https://corecursive.com/coding-agents/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 5
     },
     {
@@ -54,7 +54,7 @@
       "title": "goHardDrive Leaked Personal Data for Thousands of Customers",
       "href": "https://mtlynch.io/goharddrive-leak/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 8
     },
     {
@@ -89,7 +89,7 @@
       "title": "copyleft-next",
       "href": "https://next.copyleft.org/",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
+      "title": "writing a little gosh",
+      "href": "https://flak.tedunangst.com/post/writing-a-gosh",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
       "title": "Why I'm Dialing Back My LLM Usage",
       "href": "https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Portability of tar features",
       "href": "https://mgorny.pl/articles/portability-of-tar-features.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
+      "index": 17
+    },
+    {
+      "title": "Project Vend: Can Claude run a small shop? (And why does that matter?)",
+      "href": "https://www.anthropic.com/research/project-vend-1",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Taming agentic engineering - Prompts are code, .json/.md files are state",
+      "href": "https://mariozechner.at/posts/2025-06-02-prompts-are-code/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 19
     },
     {
       "title": "Yet another ZIP trick",
       "href": "https://hackarcana.com/article/yet-another-zip-trick",
       "points": "",
       "comments": "\n              23 comments",
-      "index": 17
-    },
-    {
-      "title": "Taming agentic engineering - Prompts are code, .json/.md files are state",
-      "href": "https://mariozechner.at/posts/2025-06-02-prompts-are-code/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
+      "index": 20
     },
     {
       "title": "500× faster: Four different ways to speed up your code",
       "href": "https://pythonspeed.com/articles/different-ways-speed/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Factor Problem Solving",
       "href": "https://github.com/Bubbler-4/factor-problem-solving",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "How to manage configuration settings in Go web applications",
-      "href": "https://www.alexedwards.net/blog/how-to-manage-configuration-settings-in-go-web-applications",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 21
-    },
-    {
-      "title": "Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data",
-      "href": "https://blog.mgdproductions.com/ikko-activebuds/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 22
-    },
-    {
-      "title": "Inequality Union Finds: Baby Steps to Refinement E-graphs",
-      "href": "https://www.philipzucker.com/le_find/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 23
     },
     {
       "title": "Porting OpenBSD to RISC-V ISA (2020)",
       "href": "https://www.openbsd.org/papers/Porting_OpenBSD_to_RISCV_FinalReport.pdf",
       "points": "",
       "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data",
+      "href": "https://blog.mgdproductions.com/ikko-activebuds/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "writing a little gosh",
-      "href": "https://flak.tedunangst.com/post/writing-a-gosh",
+      "title": "How to manage configuration settings in Go web applications",
+      "href": "https://www.alexedwards.net/blog/how-to-manage-configuration-settings-in-go-web-applications",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              4 comments",
       "index": 25
     }
   ]
