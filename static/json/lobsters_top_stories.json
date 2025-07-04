@@ -1,5 +1,5 @@
 {
-  "date": "Friday, July 4, 2025 at 10:20 AM GMT-5",
+  "date": "Friday, July 4, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "Lucky 13 Lobsters",
@@ -9,66 +9,66 @@
       "index": 1
     },
     {
+      "title": "I want to leave tech: what do I do?",
+      "href": "https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 2
+    },
+    {
       "title": "Zig Roadmap 2026",
       "href": "https://www.youtube.com/watch?v=x3hOiOcbgeA",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 2
-    },
-    {
-      "title": "I want to leave tech: what do I do?",
-      "href": "https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 3
     },
     {
       "title": "The rise of Whatever",
       "href": "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 4
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/zixaut/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 5
+    },
+    {
+      "title": "Compression Dictionary Transport",
+      "href": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 6
     },
     {
       "title": "Introducing tmux-rs",
       "href": "https://richardscollin.github.io/tmux-rs/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "10 features of D that I love",
       "href": "https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "When AI Codes, What’s Left for me?",
       "href": "https://corecursive.com/coding-agents/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "writing a little gosh",
       "href": "https://flak.tedunangst.com/post/writing-a-gosh",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 9
-    },
-    {
-      "title": "Introducing the first alpha of Turso: The next evolution of SQLite",
-      "href": "https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev",
-      "points": "",
-      "comments": "\n              50 comments",
       "index": 10
     },
     {
@@ -79,10 +79,10 @@
       "index": 11
     },
     {
-      "title": "Compression Dictionary Transport",
-      "href": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport",
+      "title": "Introducing the first alpha of Turso: The next evolution of SQLite",
+      "href": "https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              53 comments",
       "index": 12
     },
     {
@@ -93,43 +93,43 @@
       "index": 13
     },
     {
-      "title": "The most mysterious bug I solved at work",
-      "href": "https://cadence.moe/blog/2025-07-02-the-most-mysterious-bug-i-solved-at-work",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 14
-    },
-    {
-      "title": "A catamorphic lambda-calculus interpreter",
-      "href": "https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html",
+      "title": "Getting extensions to work with free-threaded Python",
+      "href": "https://lwn.net/Articles/1025893/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 14
     },
     {
       "title": "Nonce CSP bypass using Disk Cache",
       "href": "https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "The most mysterious bug I solved at work",
+      "href": "https://cadence.moe/blog/2025-07-02-the-most-mysterious-bug-i-solved-at-work",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 16
     },
     {
-      "title": "One Billion Cells, Another Multiplayer Demo with Clojure",
-      "href": "https://cells.andersmurphy.com/",
+      "title": "A catamorphic lambda-calculus interpreter",
+      "href": "https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 17
     },
     {
-      "title": "A Higgs-bugson in the Linux Kernel",
-      "href": "https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/",
+      "title": "Tiny Great Languages: MOUSE",
+      "href": "https://zserge.com/posts/langs-mouse/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 18
     },
     {
-      "title": "Tiny Great Languages: MOUSE",
-      "href": "https://zserge.com/posts/langs-mouse/",
+      "title": "One Billion Cells, Another Multiplayer Demo with Clojure",
+      "href": "https://cells.andersmurphy.com/",
       "points": "",
       "comments": "\n              no comments",
       "index": 19
@@ -138,14 +138,14 @@
       "title": "goHardDrive Leaked Personal Data for Thousands of Customers",
       "href": "https://mtlynch.io/goharddrive-leak/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 20
     },
     {
-      "title": "Getting extensions to work with free-threaded Python",
-      "href": "https://lwn.net/Articles/1025893/",
+      "title": "A Higgs-bugson in the Linux Kernel",
+      "href": "https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              5 comments",
       "index": 21
     },
     {
