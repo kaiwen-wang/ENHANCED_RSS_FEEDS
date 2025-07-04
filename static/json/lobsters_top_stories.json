@@ -1,5 +1,5 @@
 {
-  "date": "Friday, July 4, 2025 at 3:20 PM GMT-5",
+  "date": "Friday, July 4, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "Lucky 13 Lobsters",
@@ -12,7 +12,7 @@
       "title": "I want to leave tech: what do I do?",
       "href": "https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              20 comments",
       "index": 2
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
+      "title": "Git experts should try Jujutsu",
+      "href": "https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 4
+    },
+    {
       "title": "Zig Roadmap 2026",
       "href": "https://www.youtube.com/watch?v=x3hOiOcbgeA",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 4
-    },
-    {
-      "title": "Git experts should try Jujutsu",
-      "href": "https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 5
     },
     {
@@ -44,24 +44,24 @@
       "index": 6
     },
     {
-      "title": "The rise of Whatever",
-      "href": "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 7
-    },
-    {
       "title": "mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk",
       "href": "https://codeberg.org/owl/mawkdown",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "The rise of Whatever",
+      "href": "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 8
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/zixaut/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 9
     },
     {
@@ -79,52 +79,52 @@
       "index": 11
     },
     {
+      "title": "Riff: LLMs are Software Diamonds",
+      "href": "https://www.evalapply.org/posts/llms-are-diamonds/index.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "A compact bitset implementation used in Ocarina of Time save files",
+      "href": "https://github.com/jb55/oot_bitset",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
       "title": "Getting extensions to work with free-threaded Python",
       "href": "https://lwn.net/Articles/1025893/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "When AI Codes, What’s Left for me?",
-      "href": "https://corecursive.com/coding-agents/",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "writing a little gosh",
       "href": "https://flak.tedunangst.com/post/writing-a-gosh",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 14
+      "index": 15
+    },
+    {
+      "title": "When AI Codes, What’s Left for me?",
+      "href": "https://corecursive.com/coding-agents/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 16
     },
     {
       "title": "The Eternal Mainframe",
       "href": "https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 17
     },
     {
       "title": "awesome-standards: A curated list of technical standards",
       "href": "https://github.com/donBarbos/awesome-standards",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Our Fullstack Architecture: Eta, HTMX, and Lit",
-      "href": "https://www.lorenstew.art/blog/eta-htmx-lit-stack",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 17
-    },
-    {
-      "title": "Introducing the first alpha of Turso: The next evolution of SQLite",
-      "href": "https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev",
-      "points": "",
-      "comments": "\n              56 comments",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "Our Fullstack Architecture: Eta, HTMX, and Lit",
+      "href": "https://www.lorenstew.art/blog/eta-htmx-lit-stack",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 20
+    },
+    {
+      "title": "iris: A neurosymbolic framework for vulnerability detection in code",
+      "href": "https://github.com/iris-sast/iris",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Introducing the first alpha of Turso: The next evolution of SQLite",
+      "href": "https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev",
+      "points": "",
+      "comments": "\n              56 comments",
+      "index": 22
+    },
+    {
       "title": "One Billion Cells, Another Multiplayer Demo with Clojure",
       "href": "https://cells.andersmurphy.com/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Writing Code Was Never The Bottleneck",
       "href": "https://ordep.dev/posts/writing-code-was-never-the-bottleneck",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 21
+      "index": 24
     },
     {
       "title": "The most mysterious bug I solved at work",
       "href": "https://cadence.moe/blog/2025-07-02-the-most-mysterious-bug-i-solved-at-work",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 22
-    },
-    {
-      "title": "Nonce CSP bypass using Disk Cache",
-      "href": "https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "A catamorphic lambda-calculus interpreter",
-      "href": "https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Tiny Great Languages: MOUSE",
-      "href": "https://zserge.com/posts/langs-mouse/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
