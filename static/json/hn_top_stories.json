@@ -1,214 +1,214 @@
 {
-  "date": "Friday, July 4, 2025 at 7:40 AM GMT-5",
+  "date": "Friday, July 4, 2025 at 8:30 AM GMT-5",
   "articles": [
+    {
+      "title": "Is an Intel N100 or N150 a better value than a Raspberry Pi?",
+      "href": "https://www.jeffgeerling.com/blog/2025/intel-n100-better-value-raspberry-pi",
+      "points": "38 points",
+      "comments": "25 comments",
+      "index": 1
+    },
+    {
+      "title": "Why I Left My Tech Job to Work on Chronic Pain",
+      "href": "https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on",
+      "points": "21 points",
+      "comments": "4 comments",
+      "index": 2
+    },
     {
       "title": "Writing a Game Boy Emulator in OCaml",
       "href": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/",
-      "points": "86 points",
-      "comments": "1 comment",
-      "index": 1
+      "points": "109 points",
+      "comments": "3 comments",
+      "index": 3
     },
     {
       "title": "Show HN: BunkerWeb – the open-source and cloud-native WAF",
       "href": "https://docs.bunkerweb.io/latest/",
-      "points": "10 points",
+      "points": "24 points",
+      "comments": "4 comments",
+      "index": 4
+    },
+    {
+      "title": "Show HN: I AI coded a tower defense game and documented the whole process",
+      "href": "https://github.com/maciej-trebacz/tower-of-time-game",
+      "points": "13 points",
+      "comments": "3 comments",
+      "index": 5
+    },
+    {
+      "title": "Serving 200M requests per day with a CGI-bin",
+      "href": "https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/",
+      "points": "3 points",
       "comments": "discuss",
-      "index": 2
+      "index": 6
+    },
+    {
+      "title": "A Rust-TypeScript integration",
+      "href": "https://github.com/beeeeep54/rust-typescript",
+      "points": "12 points",
+      "comments": "20 comments",
+      "index": 7
     },
     {
       "title": "Developing with GitHub Copilot Agent Mode and MCP",
       "href": "https://austen.info/blog/github-copilot-agent-mcp/",
-      "points": "48 points",
-      "comments": "15 comments",
-      "index": 3
-    },
-    {
-      "title": "DRM Panic QR code generator",
-      "href": "https://rust-for-linux.com/drm-panic-qr-code-generator",
-      "points": "30 points",
-      "comments": "16 comments",
-      "index": 4
-    },
-    {
-      "title": "Introducing tmux-rs",
-      "href": "https://richardscollin.github.io/tmux-rs/",
-      "points": "785 points",
-      "comments": "251 comments",
-      "index": 5
-    },
-    {
-      "title": "Type safe web stack with Rust and TypeScript",
-      "href": "https://github.com/beeeeep54/rust-typescript",
-      "points": "4 points",
-      "comments": "discuss",
-      "index": 6
+      "points": "64 points",
+      "comments": "26 comments",
+      "index": 8
     },
     {
       "title": "Enhanced Radar (YC W25) is hiring a founding engineer",
       "href": "item?id=44463773",
       "points": "",
       "comments": "hide",
-      "index": 7
-    },
-    {
-      "title": "Show HN: Fast Thermodynamic Calculations in Python",
-      "href": "https://dlr-institute-of-future-fuels.github.io/gaspype/",
-      "points": "7 points",
-      "comments": "discuss",
-      "index": 8
-    },
-    {
-      "title": "Killer whales groom each other with pieces of kelp",
-      "href": "https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp",
-      "points": "29 points",
-      "comments": "17 comments",
       "index": 9
     },
     {
-      "title": "Flounder Mode – Kevin Kelly on a different way to do great work",
-      "href": "https://joincolossus.com/article/flounder-mode/",
-      "points": "266 points",
-      "comments": "61 comments",
+      "title": "Introducing tmux-rs",
+      "href": "https://richardscollin.github.io/tmux-rs/",
+      "points": "795 points",
+      "comments": "260 comments",
       "index": 10
     },
     {
-      "title": "How to render a mesh gradient using RBF interpolation",
-      "href": "https://www.notion.so/Smooth-Mesh-Gradients-with-RBF-Interpolation-1ba8eeb5a3e68046b34cf997fe67d3c1?source=copy_link",
-      "points": "7 points",
-      "comments": "2 comments",
+      "title": "Lens: Lenses, Folds and Traversals",
+      "href": "https://hackage.haskell.org/package/lens",
+      "points": "9 points",
+      "comments": "discuss",
       "index": 11
+    },
+    {
+      "title": "Larry (cat)",
+      "href": "https://en.wikipedia.org/wiki/Larry_(cat)",
+      "points": "35 points",
+      "comments": "11 comments",
+      "index": 12
+    },
+    {
+      "title": "DRM Panic QR code generator",
+      "href": "https://rust-for-linux.com/drm-panic-qr-code-generator",
+      "points": "35 points",
+      "comments": "19 comments",
+      "index": 13
+    },
+    {
+      "title": "Is there a no-AI audience?",
+      "href": "https://thatshubham.com/blog/ai",
+      "points": "24 points",
+      "comments": "17 comments",
+      "index": 14
     },
     {
       "title": "How often is the query plan optimal?",
       "href": "https://vondra.me/posts/how-often-is-the-query-plan-optimal/",
-      "points": "9 points",
-      "comments": "6 comments",
-      "index": 12
+      "points": "15 points",
+      "comments": "12 comments",
+      "index": 15
+    },
+    {
+      "title": "Killer whales groom each other with pieces of kelp",
+      "href": "https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp",
+      "points": "34 points",
+      "comments": "22 comments",
+      "index": 16
+    },
+    {
+      "title": "Can Large Language Models Play Text Games Well?",
+      "href": "https://arxiv.org/abs/2304.02868",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 17
+    },
+    {
+      "title": "Show HN: Fast Thermodynamic Calculations in Python",
+      "href": "https://dlr-institute-of-future-fuels.github.io/gaspype/",
+      "points": "16 points",
+      "comments": "1 comment",
+      "index": 18
+    },
+    {
+      "title": "Flounder Mode – Kevin Kelly on a different way to do great work",
+      "href": "https://joincolossus.com/article/flounder-mode/",
+      "points": "273 points",
+      "comments": "61 comments",
+      "index": 19
+    },
+    {
+      "title": "LooksMapping",
+      "href": "https://looksmapping.com/",
+      "points": "71 points",
+      "comments": "44 comments",
+      "index": 20
     },
     {
       "title": "Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots",
       "href": "item?id=44456904",
-      "points": "196 points",
-      "comments": "86 comments",
-      "index": 13
-    },
-    {
-      "title": "Raphael discovery emerges from Vatican museum restoration",
-      "href": "https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624",
-      "points": "33 points",
-      "comments": "6 comments",
-      "index": 14
-    },
-    {
-      "title": "One Billion Cells – Another Multiplayer Demo with Clojure",
-      "href": "https://cells.andersmurphy.com/",
-      "points": "38 points",
-      "comments": "14 comments",
-      "index": 15
+      "points": "199 points",
+      "comments": "87 comments",
+      "index": 21
     },
     {
       "title": "Wind Knitting Factory",
       "href": "https://www.merelkarhof.nl/work/wind-knitting-factory",
-      "points": "154 points",
-      "comments": "44 comments",
-      "index": 16
+      "points": "162 points",
+      "comments": "47 comments",
+      "index": 22
+    },
+    {
+      "title": "Raphael discovery emerges from Vatican museum restoration",
+      "href": "https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624",
+      "points": "37 points",
+      "comments": "7 comments",
+      "index": 23
     },
     {
       "title": "AV1@Scale: Film Grain Synthesis, The Awakening",
       "href": "https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b",
-      "points": "225 points",
-      "comments": "185 comments",
-      "index": 17
-    },
-    {
-      "title": "Larry (Cat)",
-      "href": "https://en.wikipedia.org/wiki/Larry_(cat)",
-      "points": "12 points",
-      "comments": "2 comments",
-      "index": 18
-    },
-    {
-      "title": "Alternative Blanket Implementations for a Single Rust Trait",
-      "href": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
-      "points": "23 points",
-      "comments": "2 comments",
-      "index": 19
-    },
-    {
-      "title": "Peasant Railgun",
-      "href": "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/",
-      "points": "256 points",
-      "comments": "178 comments",
-      "index": 20
-    },
-    {
-      "title": "My open source project was relicensed by a YC company [license updated]",
-      "href": "https://twitter.com/soham_btw/status/1940952786491027886",
-      "points": "629 points",
-      "comments": "306 comments",
-      "index": 21
-    },
-    {
-      "title": "Context Engineering for Agents",
-      "href": "https://rlancemartin.github.io/2025/06/23/context_engineering/",
-      "points": "62 points",
-      "comments": "14 comments",
-      "index": 22
-    },
-    {
-      "title": "How AI on Microcontrollers Works: Operators and Kernels",
-      "href": "https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/",
-      "points": "60 points",
-      "comments": "3 comments",
-      "index": 23
-    },
-    {
-      "title": "The Rise of Whatever",
-      "href": "https://eev.ee/blog/2025/07/03/the-rise-of-whatever/",
-      "points": "423 points",
-      "comments": "328 comments",
+      "points": "231 points",
+      "comments": "187 comments",
       "index": 24
     },
     {
-      "title": "Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase",
-      "href": "https://github.com/zserge/pennybase",
-      "points": "185 points",
-      "comments": "111 comments",
+      "title": "How to render a mesh gradient using RBF interpolation",
+      "href": "https://www.notion.so/Smooth-Mesh-Gradients-with-RBF-Interpolation-1ba8eeb5a3e68046b34cf997fe67d3c1?source=copy_link",
+      "points": "10 points",
+      "comments": "2 comments",
       "index": 25
     },
     {
       "title": "Batteries and Buildings",
       "href": "https://mtende.blog/batteries-vs-no-batteries",
-      "points": "4 points",
+      "points": "8 points",
       "comments": "1 comment",
       "index": 26
     },
     {
-      "title": "Where is my von Braun wheel?",
-      "href": "https://angadh.com/wherevonbraunwheel",
-      "points": "169 points",
-      "comments": "117 comments",
+      "title": "Peasant Railgun",
+      "href": "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/",
+      "points": "257 points",
+      "comments": "178 comments",
       "index": 27
     },
     {
-      "title": "Ubuntu 25.10 Raises RISC-V Profile Requirements",
-      "href": "https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support",
-      "points": "114 points",
-      "comments": "31 comments",
+      "title": "Alternative Blanket Implementations for a Single Rust Trait",
+      "href": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
+      "points": "23 points",
+      "comments": "3 comments",
       "index": 28
     },
     {
-      "title": "Caching is an abstraction, not an optimization",
-      "href": "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/",
-      "points": "121 points",
-      "comments": "103 comments",
+      "title": "Context Engineering for Agents",
+      "href": "https://rlancemartin.github.io/2025/06/23/context_engineering/",
+      "points": "70 points",
+      "comments": "20 comments",
       "index": 29
     },
     {
-      "title": "LooksMapping",
-      "href": "https://looksmapping.com/",
-      "points": "70 points",
-      "comments": "43 comments",
+      "title": "My open source project was relicensed by a YC company [license updated]",
+      "href": "https://twitter.com/soham_btw/status/1940952786491027886",
+      "points": "671 points",
+      "comments": "344 comments",
       "index": 30
     }
   ]
