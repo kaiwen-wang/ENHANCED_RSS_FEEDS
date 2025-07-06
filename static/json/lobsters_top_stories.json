@@ -1,179 +1,179 @@
 {
-  "date": "Saturday, July 5, 2025 at 6:20 PM GMT-5",
+  "date": "Saturday, July 5, 2025 at 8:50 PM GMT-5",
   "articles": [
+    {
+      "title": "Why I got rid of all my neovim plugins",
+      "href": "https://yobibyte.github.io/vim.html",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 1
+    },
     {
       "title": "Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly",
       "href": "https://fidget-spinner.github.io/posts/jit-reflections.html",
       "points": "",
-      "comments": "\n              10 comments",
-      "index": 1
+      "comments": "\n              13 comments",
+      "index": 2
     },
     {
       "title": "Lucky 13 Lobsters",
       "href": "/s/8we4dn/lucky_13_lobsters",
       "points": "",
       "comments": "\n              25 comments",
-      "index": 2
-    },
-    {
-      "title": "Why I got rid of all my neovim plugins",
-      "href": "https://yobibyte.github.io/vim.html",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 3
     },
     {
       "title": "Anubis Pilot Project Report - June 2025",
       "href": "https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 4
     },
     {
       "title": "Recent Archive of Our Own outage was caused by integer exhaustion",
       "href": "https://otwarchive.atlassian.net/jira/software/c/projects/AO3/issues/AO3-7031?jql=project%20%3D%20%22AO3%22%20ORDER%20BY%20created%20DESC",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 5
-    },
-    {
-      "title": "What clever tools/workflows do you use to manage development environments?",
-      "href": "/s/zupgan/what_clever_tools_workflows_do_you_use",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 6
-    },
-    {
-      "title": "Git experts should try Jujutsu",
-      "href": "https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/",
-      "points": "",
-      "comments": "\n              58 comments",
-      "index": 7
     },
     {
       "title": "KDE Plasma 6.4 has landed in OpenBSD",
       "href": "https://undeadly.org/cgi?action=article;sid=20250705081711",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
-    },
-    {
-      "title": "Broken AI Discourse with Steve Klabnik",
-      "href": "https://www.youtube.com/watch?v=MrfiUMm2Qxk",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 9
+      "index": 6
     },
     {
       "title": "OpenMW 0.49.0 Released",
       "href": "https://openmw.org/2025/openmw-0-49-0-released/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 7
     },
     {
-      "title": "I want to leave tech: what do I do?",
-      "href": "https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a",
+      "title": "What clever tools/workflows do you use to manage development environments?",
+      "href": "/s/zupgan/what_clever_tools_workflows_do_you_use",
       "points": "",
-      "comments": "\n              39 comments",
-      "index": 11
+      "comments": "\n              20 comments",
+      "index": 8
+    },
+    {
+      "title": "Git experts should try Jujutsu",
+      "href": "https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/",
+      "points": "",
+      "comments": "\n              60 comments",
+      "index": 9
+    },
+    {
+      "title": "Broken AI Discourse with Steve Klabnik",
+      "href": "https://www.youtube.com/watch?v=MrfiUMm2Qxk",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 10
     },
     {
       "title": "The messy reality of SIMD (vector) functions",
       "href": "https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "I want to leave tech: what do I do?",
+      "href": "https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a",
+      "points": "",
+      "comments": "\n              41 comments",
       "index": 12
+    },
+    {
+      "title": "160 Core RISC-V supercluster on a single M.2",
+      "href": "https://www.youtube.com/watch?v=HRfbQJ6FdF0",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
     },
     {
       "title": "A supposedly worthwhile contract I'll never do again",
       "href": "https://ahelwer.ca/post/2025-07-04-tla-contracts/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk",
       "href": "https://codeberg.org/owl/mawkdown",
       "points": "",
-      "comments": "\n              9 comments",
-      "index": 14
+      "comments": "\n              10 comments",
+      "index": 15
     },
     {
       "title": "4096 colours and the blink attribute",
       "href": "https://research.exoticsilicon.com/articles/console_4096",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "bgcmd: let AI interact with any REPL",
-      "href": "https://github.com/izabera/bgcmd",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 16
-    },
-    {
-      "title": "Approach to LLMs and Other Reflections",
-      "href": "https://matttproud.com/blog/posts/approach-to-llm.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Making Language Models Play Baba is You",
-      "href": "https://fi-le.net/baba/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "A compact bitset implementation used in Ocarina of Time save files",
-      "href": "https://github.com/jb55/oot_bitset",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 19
-    },
-    {
-      "title": "The Calculator-on-a-Chip (2015)",
-      "href": "http://www.vintagecalculators.com/html/the_calculator-on-a-chip.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Fixing the Web?",
-      "href": "https://www.youtube.com/watch?v=9NDkOehZUGs",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Zig Roadmap 2026",
-      "href": "https://www.youtube.com/watch?v=x3hOiOcbgeA",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 22
-    },
-    {
-      "title": "NVIDIA is full of shit",
-      "href": "https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/",
-      "points": "",
-      "comments": "\n              22 comments",
-      "index": 23
     },
     {
       "title": "operators, not users and programmers",
       "href": "https://jyn.dev/operators-not-users-and-programmers/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
+      "title": "bgcmd: let AI interact with any REPL",
+      "href": "https://github.com/izabera/bgcmd",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 18
+    },
+    {
+      "title": "The Calculator-on-a-Chip (2015)",
+      "href": "http://www.vintagecalculators.com/html/the_calculator-on-a-chip.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Approach to LLMs and Other Reflections",
+      "href": "https://matttproud.com/blog/posts/approach-to-llm.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Making Language Models Play Baba is You",
+      "href": "https://fi-le.net/baba/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "A compact bitset implementation used in Ocarina of Time save files",
+      "href": "https://github.com/jb55/oot_bitset",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 22
+    },
+    {
+      "title": "Fixing the Web?",
+      "href": "https://www.youtube.com/watch?v=9NDkOehZUGs",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "NVIDIA is full of shit",
+      "href": "https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/",
+      "points": "",
+      "comments": "\n              23 comments",
       "index": 24
     },
     {
-      "title": "Compression Dictionary Transport",
-      "href": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport",
+      "title": "Zig Roadmap 2026",
+      "href": "https://www.youtube.com/watch?v=x3hOiOcbgeA",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              9 comments",
       "index": 25
     }
   ]
