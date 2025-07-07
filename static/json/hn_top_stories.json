@@ -1,214 +1,214 @@
 {
-  "date": "Monday, July 7, 2025 at 7:40 AM GMT-5",
+  "date": "Monday, July 7, 2025 at 8:35 AM GMT-5",
   "articles": [
     {
       "title": "François Chollet: The Arc Prize and How We Get to AGI [video]",
       "href": "https://www.youtube.com/watch?v=5QcCeSsNRks",
+      "points": "51 points",
+      "comments": "31 comments",
+      "index": 1
+    },
+    {
+      "title": "When Figma starts designing us",
+      "href": "https://designsystems.international/ideas/when-figma-starts-designing-us/",
+      "points": "34 points",
+      "comments": "11 comments",
+      "index": 2
+    },
+    {
+      "title": "Mercury: Ultra-Fast Language Models Based on Diffusion",
+      "href": "https://arxiv.org/abs/2506.17298",
       "points": "13 points",
       "comments": "4 comments",
-      "index": 1
+      "index": 3
     },
     {
       "title": "Bitchat – A decentralized messaging app that works over Bluetooth mesh networks",
       "href": "https://github.com/jackjackbits/bitchat",
-      "points": "462 points",
-      "comments": "190 comments",
-      "index": 2
-    },
-    {
-      "title": "Neanderthals operated prehistoric “fat factory” on German lakeshore",
-      "href": "https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/",
-      "points": "130 points",
-      "comments": "56 comments",
-      "index": 3
+      "points": "483 points",
+      "comments": "201 comments",
+      "index": 4
     },
     {
       "title": "Hymn to Babylon, missing for a millennium, has been discovered",
       "href": "https://phys.org/news/2025-07-hymn-babylon-millennium.html",
-      "points": "25 points",
-      "comments": "2 comments",
-      "index": 4
-    },
-    {
-      "title": "Intel's Lion Cove P-Core and Gaming Workloads",
-      "href": "https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming",
-      "points": "216 points",
-      "comments": "49 comments",
+      "points": "45 points",
+      "comments": "6 comments",
       "index": 5
     },
     {
-      "title": "The messy reality of SIMD (vector) functions",
-      "href": "https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/",
-      "points": "6 points",
-      "comments": "discuss",
+      "title": "Neanderthals operated prehistoric “fat factory” on German lakeshore",
+      "href": "https://archaeologymag.com/2025/07/neanderthals-operated-fat-factory-125000-years-ago/",
+      "points": "139 points",
+      "comments": "76 comments",
       "index": 6
     },
     {
       "title": "Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics",
       "href": "https://alpha.lisagui.com/",
-      "points": "384 points",
-      "comments": "113 comments",
+      "points": "394 points",
+      "comments": "114 comments",
       "index": 7
+    },
+    {
+      "title": "Intel's Lion Cove P-Core and Gaming Workloads",
+      "href": "https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming",
+      "points": "219 points",
+      "comments": "58 comments",
+      "index": 8
     },
     {
       "title": "A non-anthropomorphized view of LLMs",
       "href": "http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html",
-      "points": "225 points",
-      "comments": "241 comments",
-      "index": 8
-    },
-    {
-      "title": "What every programmer should know about how CPUs work [video]",
-      "href": "https://www.youtube.com/watch?v=-HNpim5x-IE",
-      "points": "105 points",
-      "comments": "9 comments",
+      "points": "252 points",
+      "comments": "262 comments",
       "index": 9
     },
     {
       "title": "Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI",
       "href": "https://github.com/ZaneH/piano-trainer",
-      "points": "96 points",
-      "comments": "27 comments",
+      "points": "106 points",
+      "comments": "31 comments",
       "index": 10
     },
     {
       "title": "Building the Rust Compiler with GCC",
       "href": "https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html",
-      "points": "182 points",
-      "comments": "34 comments",
+      "points": "186 points",
+      "comments": "41 comments",
       "index": 11
     },
     {
       "title": "Why English doesn't use accents",
       "href": "https://www.deadlanguagesociety.com/p/why-english-doesnt-use-accents",
-      "points": "174 points",
-      "comments": "228 comments",
+      "points": "186 points",
+      "comments": "256 comments",
       "index": 12
     },
     {
-      "title": "LLMs should not replace therapists",
-      "href": "https://arxiv.org/abs/2504.18412",
-      "points": "137 points",
-      "comments": "174 comments",
+      "title": "What every programmer should know about how CPUs work [video]",
+      "href": "https://www.youtube.com/watch?v=-HNpim5x-IE",
+      "points": "130 points",
+      "comments": "11 comments",
       "index": 13
-    },
-    {
-      "title": "High Performance Image Sensor Processing Using FPGAs [pdf]",
-      "href": "https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf",
-      "points": "57 points",
-      "comments": "3 comments",
-      "index": 14
-    },
-    {
-      "title": "The first time I was almost fired from Apple",
-      "href": "https://www.engineersneedart.com/blog/almostfired/almostfired.html",
-      "points": "248 points",
-      "comments": "99 comments",
-      "index": 15
-    },
-    {
-      "title": "Async Queue – One of my favorite programming interview questions",
-      "href": "https://davidgomes.com/async-queue-interview-ai/",
-      "points": "159 points",
-      "comments": "146 comments",
-      "index": 16
-    },
-    {
-      "title": "Opencode: AI coding agent, built for the terminal",
-      "href": "https://github.com/sst/opencode",
-      "points": "246 points",
-      "comments": "67 comments",
-      "index": 17
-    },
-    {
-      "title": "Thesis: Interesting work is less amenable to the use of AI",
-      "href": "https://remark.ing/rob/rob/Thesis-interesting-work-ie",
-      "points": "89 points",
-      "comments": "55 comments",
-      "index": 18
     },
     {
       "title": "The Cat's Meat Man: Feeding Felines in Victorian London",
       "href": "https://publicdomainreview.org/essay/the-cats-meat-man/",
-      "points": "18 points",
+      "points": "29 points",
+      "comments": "3 comments",
+      "index": 14
+    },
+    {
+      "title": "The messy reality of SIMD (vector) functions",
+      "href": "https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/",
+      "points": "11 points",
+      "comments": "1 comment",
+      "index": 15
+    },
+    {
+      "title": "LLMs should not replace therapists",
+      "href": "https://arxiv.org/abs/2504.18412",
+      "points": "148 points",
+      "comments": "189 comments",
+      "index": 16
+    },
+    {
+      "title": "cpparinfer: A C++23 implementation of the parinfer algorithm",
+      "href": "https://gitlab.com/w0utert/cpparinfer",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 17
+    },
+    {
+      "title": "Async Queue – One of my favorite programming interview questions",
+      "href": "https://davidgomes.com/async-queue-interview-ai/",
+      "points": "169 points",
+      "comments": "159 comments",
+      "index": 18
+    },
+    {
+      "title": "High Performance Image Sensor Processing Using FPGAs [pdf]",
+      "href": "https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf",
+      "points": "61 points",
       "comments": "3 comments",
       "index": 19
     },
     {
-      "title": "Uncommon Uses of Python in Commonly Used Libraries (2022)",
-      "href": "https://eugeneyan.com/writing/uncommon-python/",
-      "points": "48 points",
-      "comments": "5 comments",
+      "title": "The first time I was almost fired from Apple",
+      "href": "https://www.engineersneedart.com/blog/almostfired/almostfired.html",
+      "points": "257 points",
+      "comments": "105 comments",
       "index": 20
     },
     {
-      "title": "I extracted the safety filters from Apple Intelligence models",
-      "href": "https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted",
-      "points": "462 points",
-      "comments": "332 comments",
+      "title": "Opencode: AI coding agent, built for the terminal",
+      "href": "https://github.com/sst/opencode",
+      "points": "251 points",
+      "comments": "72 comments",
       "index": 21
+    },
+    {
+      "title": "Uncommon Uses of Python in Commonly Used Libraries (2022)",
+      "href": "https://eugeneyan.com/writing/uncommon-python/",
+      "points": "55 points",
+      "comments": "7 comments",
+      "index": 22
+    },
+    {
+      "title": "Thesis: Interesting work is less amenable to the use of AI",
+      "href": "https://remark.ing/rob/rob/Thesis-interesting-work-ie",
+      "points": "93 points",
+      "comments": "62 comments",
+      "index": 23
     },
     {
       "title": "Get the location of the ISS using DNS",
       "href": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
-      "points": "299 points",
+      "points": "304 points",
       "comments": "83 comments",
-      "index": 22
+      "index": 24
     },
     {
-      "title": "Backlog.md – Markdown‑native Task Manager and Kanban visualizer for any Git repo",
-      "href": "https://github.com/MrLesk/Backlog.md",
-      "points": "162 points",
-      "comments": "41 comments",
-      "index": 23
+      "title": "I extracted the safety filters from Apple Intelligence models",
+      "href": "https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted",
+      "points": "471 points",
+      "comments": "340 comments",
+      "index": 25
+    },
+    {
+      "title": "New quantum paradox clarifies where our views of reality go wrong (2018)",
+      "href": "https://www.quantamagazine.org/frauchiger-renner-paradox-clarifies-where-our-views-of-reality-go-wrong-20181203/",
+      "points": "19 points",
+      "comments": "7 comments",
+      "index": 26
     },
     {
       "title": "Swedish Campground (2004)",
       "href": "https://www.folklore.org/Swedish_Campground.html",
-      "points": "98 points",
-      "comments": "25 comments",
-      "index": 24
+      "points": "100 points",
+      "comments": "29 comments",
+      "index": 27
+    },
+    {
+      "title": "Backlog.md – Markdown‑native Task Manager and Kanban visualizer for any Git repo",
+      "href": "https://github.com/MrLesk/Backlog.md",
+      "points": "167 points",
+      "comments": "43 comments",
+      "index": 28
     },
     {
       "title": "Functions Are Vectors (2023)",
       "href": "https://thenumb.at/Functions-are-Vectors/",
-      "points": "206 points",
-      "comments": "104 comments",
-      "index": 25
-    },
-    {
-      "title": "Portability of Tar Features",
-      "href": "https://mgorny.pl/articles/portability-of-tar-features.html",
-      "points": "19 points",
-      "comments": "5 comments",
-      "index": 26
+      "points": "210 points",
+      "comments": "106 comments",
+      "index": 29
     },
     {
       "title": "Show HN: A Language Server Implementation for SystemD Unit Files",
       "href": "https://github.com/JFryy/systemd-lsp",
-      "points": "54 points",
+      "points": "57 points",
       "comments": "19 comments",
-      "index": 27
-    },
-    {
-      "title": "Deno 2.4",
-      "href": "https://deno.com/blog/v2.4",
-      "points": "98 points",
-      "comments": "48 comments",
-      "index": 28
-    },
-    {
-      "title": "The era of full stack chip designers",
-      "href": "https://chipinsights.substack.com/p/the-era-of-full-stack-chip-designers",
-      "points": "21 points",
-      "comments": "4 comments",
-      "index": 29
-    },
-    {
-      "title": "Show HN: Modernized file manager and program manager from Windows 3.x",
-      "href": "https://github.com/brianluft/heirloom",
-      "points": "44 points",
-      "comments": "7 comments",
       "index": 30
     }
   ]
