@@ -1,23 +1,23 @@
 {
-  "date": "Monday, July 7, 2025 at 2:15 PM GMT-5",
+  "date": "Monday, July 7, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "In Praise of the Contrarian Stack",
       "href": "https://hackers.pub/@hongminhee/2025/contrarian-stack/en",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              24 comments",
       "index": 1
     },
     {
       "title": "The Future of Forums is Lies, I Guess",
       "href": "https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              11 comments",
       "index": 2
     },
     {
-      "title": "You don't have to use Nix to manage your dotfiles",
-      "href": "https://jade.fyi/blog/use-nix-less/",
+      "title": "Stop putting nix setup in your checked-in .envrc files",
+      "href": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html",
       "points": "",
       "comments": "\n              11 comments",
       "index": 3
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
+      "title": "You don't have to use Nix to manage your dotfiles",
+      "href": "https://jade.fyi/blog/use-nix-less/",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 5
+    },
+    {
       "title": "Am I online?",
       "href": "https://antonz.org/is-online/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 5
-    },
-    {
-      "title": "Stop putting nix setup in your checked-in .envrc files",
-      "href": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 6
     },
     {
@@ -54,14 +54,14 @@
       "title": "Jepsen & TigerBeetle",
       "href": "https://open.substack.com/pub/dtornow/p/jepsen-and-tigerbeetle?showWelcomeOnShare=false",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 8
     },
     {
       "title": "Stop using nix-env",
       "href": "https://stop-using-nix-env.privatevoid.net/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 9
     },
     {
@@ -86,45 +86,45 @@
       "index": 12
     },
     {
+      "title": "Inverse Triangle Inequality",
+      "href": "https://matklad.github.io/2025/07/07/inverse-triangle-inequality.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
       "title": "Conventional Commits makes me sad",
       "href": "https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html",
       "points": "",
-      "comments": "\n              28 comments",
-      "index": 13
+      "comments": "\n              29 comments",
+      "index": 14
     },
     {
       "title": "Plasma 6.4 Wayland vs X11, processor and power benchmarks",
       "href": "https://www.dedoimedo.com/computers/plasma-6-4-performance-wayland-x11-power-cpu-kernel.html",
       "points": "",
-      "comments": "\n              25 comments",
-      "index": 14
-    },
-    {
-      "title": "Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]",
-      "href": "https://www.youtube.com/watch?v=hmq6veCFo0Y",
-      "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              27 comments",
       "index": 15
-    },
-    {
-      "title": "AfriNIC: Hope, Hijack, and the Harsh Lessons of African Multistakeholderism",
-      "href": "https://medium.com/@emmanuelvitus/afrinic-hope-hijack-and-the-harsh-lessons-of-african-multistakeholderism-8e8378797101",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 16
     },
     {
       "title": "Building personalized micro agents",
       "href": "https://blog.meain.io/2025/building-personalized-micro-agents/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]",
+      "href": "https://www.youtube.com/watch?v=hmq6veCFo0Y",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 17
     },
     {
-      "title": "Inverse Triangle Inequality",
-      "href": "https://matklad.github.io/2025/07/07/inverse-triangle-inequality.html",
+      "title": "AfriNIC: Hope, Hijack, and the Harsh Lessons of African Multistakeholderism",
+      "href": "https://medium.com/@emmanuelvitus/afrinic-hope-hijack-and-the-harsh-lessons-of-african-multistakeholderism-8e8378797101",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 18
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
-      "title": "What is OpenTelemetry? [a basic guide]",
-      "href": "https://signoz.io/blog/what-is-opentelemetry/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 23
-    },
-    {
       "title": "A non-anthropomorphized view of LLMs",
       "href": "http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 23
+    },
+    {
+      "title": "Case study of over-engineered C++ code",
+      "href": "https://blog.kowalczyk.info/a-aiow/case-study-of-over-engineered-c-code.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 24
     },
     {
-      "title": "Linux: a Portable Operating System (1997)",
-      "href": "https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf",
+      "title": "What is OpenTelemetry? [a basic guide]",
+      "href": "https://signoz.io/blog/what-is-opentelemetry/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              16 comments",
       "index": 25
     }
   ]
