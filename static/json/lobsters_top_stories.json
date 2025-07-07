@@ -1,18 +1,18 @@
 {
-  "date": "Monday, July 7, 2025 at 8:35 AM GMT-5",
+  "date": "Monday, July 7, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "In Praise of the Contrarian Stack",
       "href": "https://hackers.pub/@hongminhee/2025/contrarian-stack/en",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
       "title": "Belgium is unsafe for CVD",
       "href": "https://floort.net/posts/belgium-unsafe-for-cvd/",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              23 comments",
       "index": 2
     },
     {
@@ -23,38 +23,38 @@
       "index": 3
     },
     {
+      "title": "You don't have to use Nix to manage your dotfiles",
+      "href": "https://jade.fyi/blog/use-nix-less/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 4
+    },
+    {
+      "title": "Am I online?",
+      "href": "https://antonz.org/is-online/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 5
+    },
+    {
       "title": "Conventional Commits makes me sad",
       "href": "https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html",
       "points": "",
       "comments": "\n              28 comments",
-      "index": 4
-    },
-    {
-      "title": "You don't have to use Nix to manage your dotfiles",
-      "href": "https://jade.fyi/blog/use-nix-less/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Plasma 6.4 Wayland vs X11, processor and power benchmarks",
       "href": "https://www.dedoimedo.com/computers/plasma-6-4-performance-wayland-x11-power-cpu-kernel.html",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 6
+      "comments": "\n              9 comments",
+      "index": 7
     },
     {
       "title": "Stop using nix-env",
       "href": "https://stop-using-nix-env.privatevoid.net/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 7
-    },
-    {
-      "title": "Am I online?",
-      "href": "https://antonz.org/is-online/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 8
     },
     {
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
+      "title": "C mistakes among the vulnerabilities present in curl code",
+      "href": "https://mastodon.social/@bagder/114806766613678922",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 12
+    },
+    {
       "title": "What is OpenTelemetry? [a basic guide]",
       "href": "https://signoz.io/blog/what-is-opentelemetry/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 12
-    },
-    {
-      "title": "C mistakes among the vulnerabilities present in curl code",
-      "href": "https://mastodon.social/@bagder/114806766613678922",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 13
     },
     {
@@ -100,17 +100,17 @@
       "index": 14
     },
     {
-      "title": "Micro Common Lisp",
-      "href": "https://t3x.org/mcl/index.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 15
-    },
-    {
       "title": "Linux: a Portable Operating System (1997)",
       "href": "https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
+      "title": "Micro Common Lisp",
+      "href": "https://t3x.org/mcl/index.html",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 16
     },
     {
@@ -121,22 +121,22 @@
       "index": 17
     },
     {
-      "title": "Coalton: Toward safe, flexible, and efficient software in Common Lisp",
-      "href": "https://www.youtube.com/watch?v=of92m4XNgrM",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
       "title": "Building the Rust compiler with GCC",
       "href": "https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Coalton: Toward safe, flexible, and efficient software in Common Lisp",
+      "href": "https://www.youtube.com/watch?v=of92m4XNgrM",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 19
     },
     {
-      "title": "Deep Dive: Good Enough Programming",
-      "href": "https://danielbmarkham.com/deep-dive-good-enough-programming/",
+      "title": "A non-anthropomorphized view of LLMs",
+      "href": "http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html",
       "points": "",
       "comments": "\n              1 comment",
       "index": 20
