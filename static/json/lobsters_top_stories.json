@@ -1,25 +1,25 @@
 {
-  "date": "Sunday, July 6, 2025 at 6:20 PM GMT-5",
+  "date": "Sunday, July 6, 2025 at 8:45 PM GMT-5",
   "articles": [
     {
       "title": "Belgium is unsafe for CVD",
       "href": "https://floort.net/posts/belgium-unsafe-for-cvd/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
       "title": "Conventional Commits makes me sad",
       "href": "https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              18 comments",
       "index": 2
     },
     {
       "title": "The Real GenAI Issue",
       "href": "https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              4 comments",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
-      "title": "Serving 200 million requests per day with a cgi-bin",
-      "href": "https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 5
-    },
-    {
       "title": "What is OpenTelemetry? [a basic guide]",
       "href": "https://signoz.io/blog/what-is-opentelemetry/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 5
+    },
+    {
+      "title": "Serving 200 million requests per day with a cgi-bin",
+      "href": "https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/",
+      "points": "",
+      "comments": "\n              21 comments",
       "index": 6
     },
     {
@@ -58,31 +58,31 @@
       "index": 8
     },
     {
-      "title": "Why I got rid of all my neovim plugins",
-      "href": "https://yobibyte.github.io/vim.html",
-      "points": "",
-      "comments": "\n              46 comments",
-      "index": 9
-    },
-    {
       "title": "Micro Common Lisp",
       "href": "https://t3x.org/mcl/index.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
+      "title": "quickly converting djot to html+mathml",
+      "href": "https://www.unix.dog/~yosh/blog/djot-to-html-with-mathml.html",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 10
     },
     {
-      "title": "quickly converitng djot to html+mathml",
-      "href": "https://www.unix.dog/~yosh/blog/djot-to-html-with-mathml.html",
+      "title": "Why I got rid of all my neovim plugins",
+      "href": "https://yobibyte.github.io/vim.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              47 comments",
       "index": 11
     },
     {
-      "title": "Apple Pay vs. Alternative Payment Services",
-      "href": "https://www.taler.net/en/news/2025-05.html",
+      "title": "Progress report on rustc_codegen_cranelift (June 2025)",
+      "href": "https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              1 comment",
       "index": 12
     },
     {
@@ -93,80 +93,80 @@
       "index": 13
     },
     {
-      "title": "Progress report on rustc_codegen_cranelift (June 2025)",
-      "href": "https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html",
+      "title": "Apple Pay vs. Alternative Payment Services",
+      "href": "https://www.taler.net/en/news/2025-05.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 14
-    },
-    {
-      "title": "Anubis Pilot Project Report - June 2025",
-      "href": "https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content",
-      "points": "",
-      "comments": "\n              29 comments",
-      "index": 15
-    },
-    {
-      "title": "Readline v8.3 release",
-      "href": "https://lists.gnu.org/archive/html/bug-readline/2025-07/msg00004.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "Decker Fantasy Camp",
-      "href": "https://www.arraycast.com/episodes/episode109-deckerfantasycamp",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 17
     },
     {
       "title": "Building the Rust compiler with GCC",
       "href": "https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 15
     },
     {
-      "title": "160 Core RISC-V supercluster on a single M.2",
-      "href": "https://www.youtube.com/watch?v=HRfbQJ6FdF0",
+      "title": "Anubis Pilot Project Report - June 2025",
+      "href": "https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
+      "comments": "\n              30 comments",
+      "index": 16
+    },
+    {
+      "title": "Readline v8.3 release",
+      "href": "https://lists.gnu.org/archive/html/bug-readline/2025-07/msg00004.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 17
     },
     {
       "title": "theory building without a mentor",
       "href": "https://jyn.dev/theory-building-without-a-mentor/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 18
     },
     {
-      "title": "KDE Plasma 6.4 has landed in OpenBSD",
-      "href": "https://undeadly.org/cgi?action=article;sid=20250705081711",
+      "title": "Decker Fantasy Camp",
+      "href": "https://www.arraycast.com/episodes/episode109-deckerfantasycamp",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
-    },
-    {
-      "title": "Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly",
-      "href": "https://fidget-spinner.github.io/posts/jit-reflections.html",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 22
+      "index": 19
     },
     {
       "title": "Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]",
       "href": "https://www.youtube.com/watch?v=hmq6veCFo0Y",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "160 Core RISC-V supercluster on a single M.2",
+      "href": "https://www.youtube.com/watch?v=HRfbQJ6FdF0",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 21
+    },
+    {
+      "title": "KDE Plasma 6.4 has landed in OpenBSD",
+      "href": "https://undeadly.org/cgi?action=article;sid=20250705081711",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 22
+    },
+    {
+      "title": "Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly",
+      "href": "https://fidget-spinner.github.io/posts/jit-reflections.html",
+      "points": "",
+      "comments": "\n              16 comments",
       "index": 23
     },
     {
       "title": "Open WebUI changed its license to Open WebUI License with a CLA",
       "href": "https://github.com/open-webui/docs/blob/main/docs/license.mdx",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 24
     },
     {
