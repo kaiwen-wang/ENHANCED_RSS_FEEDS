@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, July 8, 2025 at 1:30 PM GMT-5",
+  "date": "Tuesday, July 8, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "How I build software quickly",
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
-      "title": "#[derive(Clone)] is broken",
-      "href": "https://rgbcu.be/blog/derive-broken/",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 5
-    },
-    {
       "title": "Announcing FOKS, the Federated Open Key Service",
       "href": "https://blog.foks.pub/posts/introducing/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 5
+    },
+    {
+      "title": "#[derive(Clone)] is broken",
+      "href": "https://rgbcu.be/blog/derive-broken/",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 6
     },
     {
       "title": "Stop putting nix setup in your checked-in .envrc files",
       "href": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html",
       "points": "",
-      "comments": "\n              71 comments",
+      "comments": "\n              76 comments",
       "index": 7
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
-      "title": "In Praise of the Contrarian Stack",
-      "href": "https://hackers.pub/@hongminhee/2025/contrarian-stack/en",
+      "title": "Customize your keyboard shortcuts in Chrome with a Chrome extension",
+      "href": "https://taupiqueur.github.io/chrome-shortcuts",
       "points": "",
-      "comments": "\n              54 comments",
+      "comments": "\n              no comments",
       "index": 9
     },
     {
-      "title": "The case against which-key: a polemic",
-      "href": "https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic",
+      "title": "In Praise of the Contrarian Stack",
+      "href": "https://hackers.pub/@hongminhee/2025/contrarian-stack/en",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              56 comments",
       "index": 10
     },
     {
@@ -79,59 +79,59 @@
       "index": 11
     },
     {
+      "title": "The case against which-key: a polemic",
+      "href": "https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
       "title": "How Janet's PEG module works",
       "href": "https://bakpakin.com/writing/how-janets-peg-works.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 12
-    },
-    {
-      "title": "Customize your keyboard shortcuts in Chrome with a Chrome extension",
-      "href": "https://taupiqueur.github.io/chrome-shortcuts",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 13
-    },
-    {
-      "title": "The Future of Forums is Lies, I Guess",
-      "href": "https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess",
-      "points": "",
-      "comments": "\n              75 comments",
-      "index": 14
-    },
-    {
-      "title": "All Programming Languages are Fast",
-      "href": "https://orgpad.info/blog/all-programming-langs-are-fast",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 15
-    },
-    {
-      "title": "Deterministic Simulation Testing in Rust: A Theater Of State Machines",
-      "href": "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "“Bad Apple!!” But It’s 3288 Lean Tactics Spamming VSCode",
-      "href": "https://unnamed.website/posts/bad-apple-lean-tactic/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
-      "href": "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
     },
     {
       "title": "Multiple vulnerabilities fixed in Git",
       "href": "https://www.openwall.com/lists/oss-security/2025/07/08/4",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "The Future of Forums is Lies, I Guess",
+      "href": "https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess",
+      "points": "",
+      "comments": "\n              76 comments",
+      "index": 15
+    },
+    {
+      "title": "All Programming Languages are Fast",
+      "href": "https://orgpad.info/blog/all-programming-langs-are-fast",
+      "points": "",
+      "comments": "\n              22 comments",
+      "index": 16
+    },
+    {
+      "title": "Deterministic Simulation Testing in Rust: A Theater Of State Machines",
+      "href": "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
+      "title": "“Bad Apple!!” But It’s 3288 Lean Tactics Spamming VSCode",
+      "href": "https://unnamed.website/posts/bad-apple-lean-tactic/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
+      "href": "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 19
     },
     {
@@ -156,17 +156,17 @@
       "index": 22
     },
     {
+      "title": "Enterprise Loop pattern in multiple languages",
+      "href": "https://github.com/eloop-congress/enterprise-patterns/wiki/Enterpriseloop-von-a-bis-z",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 23
+    },
+    {
       "title": "Mastering Postgres Replication Slots: Preventing WAL Bloat and Other Production Issues",
       "href": "https://www.morling.dev/blog/mastering-postgres-replication-slots/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "My first verified (imperative) program",
-      "href": "https://markushimmel.de/blog/my-first-verified-imperative-program/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 24
     },
     {
