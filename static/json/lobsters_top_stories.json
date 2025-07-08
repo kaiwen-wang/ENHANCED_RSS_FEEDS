@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, July 8, 2025 at 1:30 AM GMT-5",
+  "date": "Tuesday, July 8, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "The Future of Forums is Lies, I Guess",
@@ -19,7 +19,7 @@
       "title": "Stop putting nix setup in your checked-in .envrc files",
       "href": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html",
       "points": "",
-      "comments": "\n              34 comments",
+      "comments": "\n              35 comments",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "You Should Run a Certificate Transparency Log",
       "href": "https://words.filippo.io/run-sunlight/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 5
     },
     {
@@ -54,7 +54,7 @@
       "title": "You don't have to use Nix to manage your dotfiles",
       "href": "https://jade.fyi/blog/use-nix-less/",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              22 comments",
       "index": 8
     },
     {
@@ -72,31 +72,31 @@
       "index": 10
     },
     {
-      "title": "Jepsen & TigerBeetle",
-      "href": "https://open.substack.com/pub/dtornow/p/jepsen-and-tigerbeetle?showWelcomeOnShare=false",
+      "title": "CODE AND TRUST: vibrators to pacemakers",
+      "href": "https://punkx.org/jackdoe/code-and-trust.html",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              1 comment",
       "index": 11
-    },
-    {
-      "title": "Automatically Packaging a Haskell Library as a Swift Binary XCFramework",
-      "href": "https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
     },
     {
       "title": "Applied Cryptography: comprehensive, novel course materials released under Creative Commons",
       "href": "https://appliedcryptography.page",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Jepsen & TigerBeetle",
+      "href": "https://open.substack.com/pub/dtornow/p/jepsen-and-tigerbeetle?showWelcomeOnShare=false",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 13
     },
     {
-      "title": "CODE AND TRUST: vibrators to pacemakers",
-      "href": "https://punkx.org/jackdoe/code-and-trust.html",
+      "title": "Automatically Packaging a Haskell Library as a Swift Binary XCFramework",
+      "href": "https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 14
     },
     {
@@ -107,10 +107,10 @@
       "index": 15
     },
     {
-      "title": "The Real GenAI Issue",
-      "href": "https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto",
+      "title": "Programming Extensible Data Types in Rust with CGP - Part 1: Modular App Construction and Extensible Builders",
+      "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-1/",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              1 comment",
       "index": 16
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "The Real GenAI Issue",
+      "href": "https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto",
+      "points": "",
+      "comments": "\n              27 comments",
+      "index": 18
+    },
+    {
+      "title": "All Programming Languages are Fast",
+      "href": "https://orgpad.info/blog/all-programming-langs-are-fast",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
       "title": "Stop using nix-env",
       "href": "https://stop-using-nix-env.privatevoid.net/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "My first verified (imperative) program",
       "href": "https://markushimmel.de/blog/my-first-verified-imperative-program/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Building personalized micro agents",
       "href": "https://blog.meain.io/2025/building-personalized-micro-agents/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/fwmxc3/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]",
       "href": "https://www.youtube.com/watch?v=hmq6veCFo0Y",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/fwmxc3/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 24
     },
     {
       "title": "In defence of swap: common misconceptions (2018)",
       "href": "https://chrisdown.name/2018/01/02/in-defence-of-swap.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "Plasma 6.4 Wayland vs X11, processor and power benchmarks",
-      "href": "https://www.dedoimedo.com/computers/plasma-6-4-performance-wayland-x11-power-cpu-kernel.html",
-      "points": "",
-      "comments": "\n              32 comments",
-      "index": 24
-    },
-    {
-      "title": "AfriNIC: Hope, Hijack, and the Harsh Lessons of African Multistakeholderism",
-      "href": "https://medium.com/@emmanuelvitus/afrinic-hope-hijack-and-the-harsh-lessons-of-african-multistakeholderism-8e8378797101",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 25
     }
   ]
