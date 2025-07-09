@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, July 8, 2025 at 10:20 PM GMT-5",
+  "date": "Tuesday, July 8, 2025 at 11:35 PM GMT-5",
   "articles": [
     {
       "title": "How I build software quickly",
@@ -12,7 +12,7 @@
       "title": "systemd has been a complete, utter, unmitigated success",
       "href": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 2
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "#[derive(Clone)] is broken",
-      "href": "https://rgbcu.be/blog/derive-broken/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 8
-    },
-    {
       "title": "CVE-2025-48384: Breaking git with a carriage return and cloning RCE",
       "href": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 8
+    },
+    {
+      "title": "#[derive(Clone)] is broken",
+      "href": "https://rgbcu.be/blog/derive-broken/",
+      "points": "",
+      "comments": "\n              15 comments",
       "index": 9
     },
     {
@@ -75,63 +75,63 @@
       "title": "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
       "href": "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 11
+    },
+    {
+      "title": "Hippocratic License",
+      "href": "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 12
     },
     {
       "title": "C3 0.7.3 - Small improvements",
       "href": "https://c3-lang.org/blog/c3-0-7-3-small-improvements/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
+      "index": 13
     },
     {
       "title": "The case against which-key: a polemic",
       "href": "https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
+      "index": 14
     },
     {
       "title": "AoC 2021 Day 1 using Ivy (5m00)",
       "href": "https://www.youtube.com/watch?v=ek1yjc9sSag",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 14
+      "index": 15
+    },
+    {
+      "title": "Agents don't have agency",
+      "href": "https://kconner.com/2025/07/08/agents-dont-have-agency.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
     },
     {
       "title": "Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More",
       "href": "https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 15
+      "comments": "\n              3 comments",
+      "index": 17
     },
     {
       "title": "Stop putting nix setup in your checked-in .envrc files",
       "href": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html",
       "points": "",
       "comments": "\n              82 comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "Customize your keyboard shortcuts in Chrome with a Chrome extension",
       "href": "https://taupiqueur.github.io/chrome-shortcuts",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Hippocratic License",
-      "href": "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "All Programming Languages are Fast",
-      "href": "https://orgpad.info/blog/all-programming-langs-are-fast",
-      "points": "",
-      "comments": "\n              30 comments",
       "index": 19
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "All Programming Languages are Fast",
+      "href": "https://orgpad.info/blog/all-programming-langs-are-fast",
+      "points": "",
+      "comments": "\n              31 comments",
+      "index": 21
+    },
+    {
       "title": "You Should Run a Certificate Transparency Log",
       "href": "https://words.filippo.io/run-sunlight/",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Deterministic Simulation Testing in Rust: A Theater Of State Machines",
       "href": "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "Phrase origin: Why do we “call” functions?",
+      "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "In Praise of the Contrarian Stack",
       "href": "https://hackers.pub/@hongminhee/2025/contrarian-stack/en",
       "points": "",
       "comments": "\n              57 comments",
-      "index": 23
-    },
-    {
-      "title": "How Janet's PEG module works",
-      "href": "https://bakpakin.com/writing/how-janets-peg-works.html",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 24
-    },
-    {
-      "title": "The Future of Forums is Lies, I Guess",
-      "href": "https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess",
-      "points": "",
-      "comments": "\n              97 comments",
       "index": 25
     }
   ]
