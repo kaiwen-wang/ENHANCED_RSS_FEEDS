@@ -1,25 +1,25 @@
 {
-  "date": "Wednesday, July 9, 2025 at 1:30 AM GMT-5",
+  "date": "Wednesday, July 9, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "systemd has been a complete, utter, unmitigated success",
       "href": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              14 comments",
       "index": 1
     },
     {
       "title": "How I build software quickly",
       "href": "https://evanhahn.com/how-i-build-software-quickly/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 2
     },
     {
       "title": "Two weeks of wayback",
       "href": "https://ariadne.space/2025/07/07/two-weeks-of-wayback.html",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              25 comments",
       "index": 3
     },
     {
@@ -37,24 +37,24 @@
       "index": 5
     },
     {
+      "title": "Phrase origin: Why do we “call” functions?",
+      "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 6
+    },
+    {
       "title": "WebAssembly: Yes, but for What?",
       "href": "https://queue.acm.org/detail.cfm?id=3746171",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 6
+      "comments": "\n              14 comments",
+      "index": 7
     },
     {
       "title": "IBM Power11 hits the market this month",
       "href": "https://www.talospace.com/2025/07/power11-hits-market-this-month.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 7
-    },
-    {
-      "title": "Phrase origin: Why do we “call” functions?",
-      "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 8
     },
     {
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
+      "title": "Hippocratic License",
+      "href": "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 12
+    },
+    {
       "title": "toml v0.9",
       "href": "https://epage.github.io/blog/2025/07/toml-09/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
-      "href": "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 13
     },
     {
@@ -100,17 +100,17 @@
       "index": 14
     },
     {
+      "title": "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
+      "href": "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 15
+    },
+    {
       "title": "The case against which-key: a polemic",
       "href": "https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
-    },
-    {
-      "title": "Hippocratic License",
-      "href": "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 16
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
-      "title": "Customize your keyboard shortcuts in Chrome with a Chrome extension",
-      "href": "https://taupiqueur.github.io/chrome-shortcuts",
+      "title": "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
+      "href": "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/",
       "points": "",
       "comments": "\n              no comments",
       "index": 21
     },
     {
-      "title": "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
-      "href": "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/",
+      "title": "Customize your keyboard shortcuts in Chrome with a Chrome extension",
+      "href": "https://taupiqueur.github.io/chrome-shortcuts",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
-    },
-    {
-      "title": "All Programming Languages are Fast",
-      "href": "https://orgpad.info/blog/all-programming-langs-are-fast",
-      "points": "",
-      "comments": "\n              31 comments",
-      "index": 23
-    },
-    {
-      "title": "You Should Run a Certificate Transparency Log",
-      "href": "https://words.filippo.io/run-sunlight/",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 24
     },
     {
       "title": "Deterministic Simulation Testing in Rust: A Theater Of State Machines",
       "href": "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 23
+    },
+    {
+      "title": "All Programming Languages are Fast",
+      "href": "https://orgpad.info/blog/all-programming-langs-are-fast",
+      "points": "",
+      "comments": "\n              31 comments",
+      "index": 24
+    },
+    {
+      "title": "You Should Run a Certificate Transparency Log",
+      "href": "https://words.filippo.io/run-sunlight/",
+      "points": "",
+      "comments": "\n              14 comments",
       "index": 25
     }
   ]
