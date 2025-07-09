@@ -1,32 +1,32 @@
 {
-  "date": "Wednesday, July 9, 2025 at 3:30 AM GMT-5",
+  "date": "Wednesday, July 9, 2025 at 4:25 AM GMT-5",
   "articles": [
     {
       "title": "systemd has been a complete, utter, unmitigated success",
       "href": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              24 comments",
       "index": 1
     },
     {
       "title": "How I build software quickly",
       "href": "https://evanhahn.com/how-i-build-software-quickly/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              20 comments",
       "index": 2
+    },
+    {
+      "title": "Announcing FOKS, the Federated Open Key Service",
+      "href": "https://blog.foks.pub/posts/introducing/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 3
     },
     {
       "title": "Two weeks of wayback",
       "href": "https://ariadne.space/2025/07/07/two-weeks-of-wayback.html",
       "points": "",
       "comments": "\n              25 comments",
-      "index": 3
-    },
-    {
-      "title": "Announcing FOKS, the Federated Open Key Service",
-      "href": "https://blog.foks.pub/posts/introducing/",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 4
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
-      "title": "WebAssembly: Yes, but for What?",
-      "href": "https://queue.acm.org/detail.cfm?id=3746171",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 7
-    },
-    {
       "title": "IBM Power11 hits the market this month",
       "href": "https://www.talospace.com/2025/07/power11-hits-market-this-month.html",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 7
+    },
+    {
+      "title": "WebAssembly: Yes, but for What?",
+      "href": "https://queue.acm.org/detail.cfm?id=3746171",
+      "points": "",
+      "comments": "\n              14 comments",
       "index": 8
     },
     {
@@ -65,17 +65,17 @@
       "index": 9
     },
     {
-      "title": "Hippocratic License",
-      "href": "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 10
-    },
-    {
       "title": "toml v0.9",
       "href": "https://epage.github.io/blog/2025/07/toml-09/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
+      "title": "Hippocratic License",
+      "href": "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 11
     },
     {
@@ -96,84 +96,84 @@
       "title": "Agents don't have agency",
       "href": "https://kconner.com/2025/07/08/agents-dont-have-agency.html",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
-      "title": "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
-      "href": "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 15
-    },
-    {
-      "title": "AoC 2021 Day 1 using Ivy (5m00)",
-      "href": "https://www.youtube.com/watch?v=ek1yjc9sSag",
-      "points": "",
       "comments": "\n              2 comments",
-      "index": 16
-    },
-    {
-      "title": "C3 0.7.3 - Small improvements",
-      "href": "https://c3-lang.org/blog/c3-0-7-3-small-improvements/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "The case against which-key: a polemic",
-      "href": "https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More",
-      "href": "https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 19
-    },
-    {
-      "title": "Stop putting nix setup in your checked-in .envrc files",
-      "href": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html",
-      "points": "",
-      "comments": "\n              82 comments",
-      "index": 20
-    },
-    {
-      "title": "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
-      "href": "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Customize your keyboard shortcuts in Chrome with a Chrome extension",
-      "href": "https://taupiqueur.github.io/chrome-shortcuts",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
+      "index": 14
     },
     {
       "title": "The Tree Borrows paper is finally published",
       "href": "https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 15
+    },
+    {
+      "title": "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
+      "href": "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 16
     },
     {
       "title": "Supabase MCP can leak your entire SQL database",
       "href": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "AoC 2021 Day 1 using Ivy (5m00)",
+      "href": "https://www.youtube.com/watch?v=ek1yjc9sSag",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 18
+    },
+    {
+      "title": "C3 0.7.3 - Small improvements",
+      "href": "https://c3-lang.org/blog/c3-0-7-3-small-improvements/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "The case against which-key: a polemic",
+      "href": "https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "Infinite Mac Construction Set",
+      "href": "https://blog.persistent.info/2025/07/infinite-mac-embedding.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More",
+      "href": "https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 22
+    },
+    {
+      "title": "eSIM security",
+      "href": "https://security-explorations.com/esim-security.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Stop putting nix setup in your checked-in .envrc files",
+      "href": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html",
+      "points": "",
+      "comments": "\n              82 comments",
       "index": 24
     },
     {
-      "title": "Deterministic Simulation Testing in Rust: A Theater Of State Machines",
-      "href": "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust",
+      "title": "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
+      "href": "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
