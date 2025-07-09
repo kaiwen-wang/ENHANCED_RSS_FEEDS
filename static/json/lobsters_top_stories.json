@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, July 8, 2025 at 6:20 PM GMT-5",
+  "date": "Tuesday, July 8, 2025 at 8:45 PM GMT-5",
   "articles": [
     {
       "title": "How I build software quickly",
       "href": "https://evanhahn.com/how-i-build-software-quickly/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
-      "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
-      "href": "https://www.holovaty.com/writing/chatgpt-fake-feature/",
+      "title": "systemd has been a complete, utter, unmitigated success",
+      "href": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              4 comments",
       "index": 2
     },
     {
@@ -23,38 +23,38 @@
       "index": 3
     },
     {
+      "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
+      "href": "https://www.holovaty.com/writing/chatgpt-fake-feature/",
+      "points": "",
+      "comments": "\n              22 comments",
+      "index": 4
+    },
+    {
       "title": "Announcing FOKS, the Federated Open Key Service",
       "href": "https://blog.foks.pub/posts/introducing/",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 4
+      "comments": "\n              7 comments",
+      "index": 5
     },
     {
       "title": "WebAssembly: Yes, but for What?",
       "href": "https://queue.acm.org/detail.cfm?id=3746171",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 5
-    },
-    {
-      "title": "Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More",
-      "href": "https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 6
     },
     {
-      "title": "systemd has been a complete, utter, unmitigated success",
-      "href": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
+      "title": "IBM Power11 hits the market this month",
+      "href": "https://www.talospace.com/2025/07/power11-hits-market-this-month.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 7
     },
     {
       "title": "#[derive(Clone)] is broken",
       "href": "https://rgbcu.be/blog/derive-broken/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              15 comments",
       "index": 8
     },
     {
@@ -65,31 +65,31 @@
       "index": 9
     },
     {
-      "title": "IBM Power11 hits the market this month",
-      "href": "https://www.talospace.com/2025/07/power11-hits-market-this-month.html",
+      "title": "Multiple vulnerabilities fixed in Git",
+      "href": "https://www.openwall.com/lists/oss-security/2025/07/08/4",
       "points": "",
       "comments": "\n              no comments",
       "index": 10
     },
     {
-      "title": "Multiple vulnerabilities fixed in Git",
-      "href": "https://www.openwall.com/lists/oss-security/2025/07/08/4",
+      "title": "C3 0.7.3 - Small improvements",
+      "href": "https://c3-lang.org/blog/c3-0-7-3-small-improvements/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 11
     },
     {
-      "title": "Customize your keyboard shortcuts in Chrome with a Chrome extension",
-      "href": "https://taupiqueur.github.io/chrome-shortcuts",
+      "title": "AoC 2021 Day 1 using Ivy (5m00)",
+      "href": "https://www.youtube.com/watch?v=ek1yjc9sSag",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 12
     },
     {
-      "title": "Stop putting nix setup in your checked-in .envrc files",
-      "href": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html",
+      "title": "Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More",
+      "href": "https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/",
       "points": "",
-      "comments": "\n              79 comments",
+      "comments": "\n              2 comments",
       "index": 13
     },
     {
@@ -103,56 +103,56 @@
       "title": "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
       "href": "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 15
+    },
+    {
+      "title": "Customize your keyboard shortcuts in Chrome with a Chrome extension",
+      "href": "https://taupiqueur.github.io/chrome-shortcuts",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Stop putting nix setup in your checked-in .envrc files",
+      "href": "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html",
+      "points": "",
+      "comments": "\n              82 comments",
+      "index": 17
     },
     {
       "title": "All Programming Languages are Fast",
       "href": "https://orgpad.info/blog/all-programming-langs-are-fast",
       "points": "",
-      "comments": "\n              29 comments",
-      "index": 16
-    },
-    {
-      "title": "C3 0.7.3 - Small improvements",
-      "href": "https://c3-lang.org/blog/c3-0-7-3-small-improvements/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 17
+      "comments": "\n              30 comments",
+      "index": 18
     },
     {
       "title": "You Should Run a Certificate Transparency Log",
       "href": "https://words.filippo.io/run-sunlight/",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 18
-    },
-    {
-      "title": "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
-      "href": "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              14 comments",
       "index": 19
-    },
-    {
-      "title": "How Janet's PEG module works",
-      "href": "https://bakpakin.com/writing/how-janets-peg-works.html",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 20
     },
     {
       "title": "In Praise of the Contrarian Stack",
       "href": "https://hackers.pub/@hongminhee/2025/contrarian-stack/en",
       "points": "",
       "comments": "\n              57 comments",
+      "index": 20
+    },
+    {
+      "title": "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
+      "href": "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
     },
     {
-      "title": "The Future of Forums is Lies, I Guess",
-      "href": "https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess",
+      "title": "How Janet's PEG module works",
+      "href": "https://bakpakin.com/writing/how-janets-peg-works.html",
       "points": "",
-      "comments": "\n              96 comments",
+      "comments": "\n              7 comments",
       "index": 22
     },
     {
@@ -163,15 +163,15 @@
       "index": 23
     },
     {
-      "title": "AI Hallucination Cases Database",
-      "href": "https://www.damiencharlotin.com/hallucinations/",
+      "title": "The Future of Forums is Lies, I Guess",
+      "href": "https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              96 comments",
       "index": 24
     },
     {
-      "title": "How I ensure every Daily Q-less puzzle is solvable",
-      "href": "https://www.damiensnyder.com/blog/qless-solver/",
+      "title": "AI Hallucination Cases Database",
+      "href": "https://www.damiencharlotin.com/hallucinations/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
