@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, July 9, 2025 at 2:20 AM GMT-5",
+  "date": "Wednesday, July 9, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "systemd has been a complete, utter, unmitigated success",
       "href": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              17 comments",
       "index": 1
     },
     {
       "title": "How I build software quickly",
       "href": "https://evanhahn.com/how-i-build-software-quickly/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              17 comments",
       "index": 2
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
+      "title": "Announcing FOKS, the Federated Open Key Service",
+      "href": "https://blog.foks.pub/posts/introducing/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 4
+    },
+    {
       "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
       "href": "https://www.holovaty.com/writing/chatgpt-fake-feature/",
       "points": "",
       "comments": "\n              23 comments",
-      "index": 4
-    },
-    {
-      "title": "Announcing FOKS, the Federated Open Key Service",
-      "href": "https://blog.foks.pub/posts/introducing/",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 5
     },
     {
@@ -61,42 +61,42 @@
       "title": "CVE-2025-48384: Breaking git with a carriage return and cloning RCE",
       "href": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 9
-    },
-    {
-      "title": "#[derive(Clone)] is broken",
-      "href": "https://rgbcu.be/blog/derive-broken/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 10
-    },
-    {
-      "title": "Multiple vulnerabilities fixed in Git",
-      "href": "https://www.openwall.com/lists/oss-security/2025/07/08/4",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
     },
     {
       "title": "Hippocratic License",
       "href": "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 12
+      "comments": "\n              7 comments",
+      "index": 10
     },
     {
       "title": "toml v0.9",
       "href": "https://epage.github.io/blog/2025/07/toml-09/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "#[derive(Clone)] is broken",
+      "href": "https://rgbcu.be/blog/derive-broken/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 12
+    },
+    {
+      "title": "Multiple vulnerabilities fixed in Git",
+      "href": "https://www.openwall.com/lists/oss-security/2025/07/08/4",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 13
     },
     {
-      "title": "AoC 2021 Day 1 using Ivy (5m00)",
-      "href": "https://www.youtube.com/watch?v=ek1yjc9sSag",
+      "title": "Agents don't have agency",
+      "href": "https://kconner.com/2025/07/08/agents-dont-have-agency.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              1 comment",
       "index": 14
     },
     {
@@ -107,10 +107,10 @@
       "index": 15
     },
     {
-      "title": "The case against which-key: a polemic",
-      "href": "https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic",
+      "title": "AoC 2021 Day 1 using Ivy (5m00)",
+      "href": "https://www.youtube.com/watch?v=ek1yjc9sSag",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 16
     },
     {
@@ -121,10 +121,10 @@
       "index": 17
     },
     {
-      "title": "Agents don't have agency",
-      "href": "https://kconner.com/2025/07/08/agents-dont-have-agency.html",
+      "title": "The case against which-key: a polemic",
+      "href": "https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 18
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
+      "title": "The Tree Borrows paper is finally published",
+      "href": "https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Supabase MCP can leak your entire SQL database",
+      "href": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
+    },
+    {
       "title": "Deterministic Simulation Testing in Rust: A Theater Of State Machines",
       "href": "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "All Programming Languages are Fast",
-      "href": "https://orgpad.info/blog/all-programming-langs-are-fast",
-      "points": "",
-      "comments": "\n              31 comments",
-      "index": 24
-    },
-    {
-      "title": "You Should Run a Certificate Transparency Log",
-      "href": "https://words.filippo.io/run-sunlight/",
-      "points": "",
-      "comments": "\n              14 comments",
       "index": 25
     }
   ]
