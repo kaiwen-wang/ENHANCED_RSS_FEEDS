@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, July 9, 2025 at 9:20 AM GMT-5",
+  "date": "Wednesday, July 9, 2025 at 10:20 AM GMT-5",
   "articles": [
+    {
+      "title": "Tree Borrows",
+      "href": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html",
+      "points": "48 points",
+      "comments": "3 comments",
+      "index": 1
+    },
     {
       "title": "Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left",
       "href": "https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443",
-      "points": "60 points",
-      "comments": "25 comments",
-      "index": 1
+      "points": "91 points",
+      "comments": "48 comments",
+      "index": 2
     },
     {
       "title": "Ruby 3.4 frozen string literals: What Rails developers need to know",
       "href": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
-      "points": "102 points",
-      "comments": "39 comments",
-      "index": 2
-    },
-    {
-      "title": "Serving a half billion requests per day with Rust and CGI",
-      "href": "https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/",
-      "points": "46 points",
-      "comments": "27 comments",
+      "points": "120 points",
+      "comments": "53 comments",
       "index": 3
     },
     {
       "title": "Is the doc bot docs, or not?",
       "href": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
-      "points": "111 points",
-      "comments": "56 comments",
+      "points": "129 points",
+      "comments": "62 comments",
       "index": 4
+    },
+    {
+      "title": "Florida is letting companies make it harder for highly paid workers to swap jobs",
+      "href": "https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7",
+      "points": "31 points",
+      "comments": "16 comments",
+      "index": 5
+    },
+    {
+      "title": "A fast 3D collision detection algorithm",
+      "href": "https://cairno.substack.com/p/improvements-to-the-separating-axis",
+      "points": "27 points",
+      "comments": "1 comment",
+      "index": 6
+    },
+    {
+      "title": "Hugging Face just launched a $299 robot that could disrupt the robotics industry",
+      "href": "https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/",
+      "points": "73 points",
+      "comments": "60 comments",
+      "index": 7
     },
     {
       "title": "Helm local code execution via a malicious chart",
       "href": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
-      "points": "122 points",
-      "comments": "58 comments",
-      "index": 5
-    },
-    {
-      "title": "I Ported SAP to a 1976 CPU. It Wasn't That Slow",
-      "href": "https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md",
-      "points": "44 points",
-      "comments": "28 comments",
-      "index": 6
-    },
-    {
-      "title": "ESIM Security",
-      "href": "https://security-explorations.com/esim-security.html",
-      "points": "66 points",
-      "comments": "30 comments",
-      "index": 7
+      "points": "128 points",
+      "comments": "64 comments",
+      "index": 8
     },
     {
       "title": "Most RESTful APIs aren't really RESTful",
       "href": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
-      "points": "133 points",
-      "comments": "212 comments",
-      "index": 8
-    },
-    {
-      "title": "Using MPC for Anonymous and Private DNA Analysis",
-      "href": "https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/",
-      "points": "12 points",
-      "comments": "2 comments",
+      "points": "160 points",
+      "comments": "252 comments",
       "index": 9
-    },
-    {
-      "title": "Bootstrapping a side project into a profitable seven-figure business",
-      "href": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
-      "points": "619 points",
-      "comments": "153 comments",
-      "index": 10
     },
     {
       "title": "US Court nullifies FTC requirement for click-to-cancel",
       "href": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
-      "points": "261 points",
-      "comments": "266 comments",
+      "points": "314 points",
+      "comments": "305 comments",
+      "index": 10
+    },
+    {
+      "title": "Bootstrapping a side project into a profitable seven-figure business",
+      "href": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
+      "points": "647 points",
+      "comments": "164 comments",
       "index": 11
     },
     {
-      "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
-      "href": "https://www.7-zip.org/history.txt",
-      "points": "141 points",
-      "comments": "96 comments",
+      "title": "X Chief Says She Is Leaving the Social Media Platform",
+      "href": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
+      "points": "63 points",
+      "comments": "39 comments",
       "index": 12
     },
     {
-      "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
-      "href": "https://github.com/CyberTimon/RapidRAW",
-      "points": "199 points",
-      "comments": "82 comments",
+      "title": "Phrase origin: Why do we \"call\" functions?",
+      "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+      "points": "140 points",
+      "comments": "95 comments",
       "index": 13
     },
     {
       "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
       "href": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
-      "points": "152 points",
-      "comments": "82 comments",
+      "points": "199 points",
+      "comments": "104 comments",
       "index": 14
     },
     {
-      "title": "Phrase origin: Why do we \"call\" functions?",
-      "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
-      "points": "119 points",
-      "comments": "88 comments",
+      "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
+      "href": "https://github.com/CyberTimon/RapidRAW",
+      "points": "205 points",
+      "comments": "84 comments",
       "index": 15
+    },
+    {
+      "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
+      "href": "https://www.7-zip.org/history.txt",
+      "points": "151 points",
+      "comments": "105 comments",
+      "index": 16
     },
     {
       "title": "Astro is a return to the fundamentals of the web",
       "href": "https://websmith.studio/blog/astro-is-a-developers-dream/",
-      "points": "159 points",
-      "comments": "132 comments",
-      "index": 16
+      "points": "189 points",
+      "comments": "151 comments",
+      "index": 17
+    },
+    {
+      "title": "Using MPC for Anonymous and Private DNA Analysis",
+      "href": "https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/",
+      "points": "16 points",
+      "comments": "6 comments",
+      "index": 18
     },
     {
       "title": "Breaking Git with a carriage return and cloning RCE",
       "href": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
-      "points": "338 points",
-      "comments": "133 comments",
-      "index": 17
-    },
-    {
-      "title": "I'm Building LLM for Satellite Data EarthGPT.app",
-      "href": "https://www.earthgpt.app/",
-      "points": "73 points",
-      "comments": "9 comments",
-      "index": 18
-    },
-    {
-      "title": "Proposal: GUI-first, text-based mechanical CAD inspired by software engineering",
-      "href": "item?id=44474620",
-      "points": "25 points",
-      "comments": "38 comments",
+      "points": "346 points",
+      "comments": "136 comments",
       "index": 19
+    },
+    {
+      "title": "I Ported SAP to a 1976 CPU. It Wasn't That Slow",
+      "href": "https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md",
+      "points": "55 points",
+      "comments": "37 comments",
+      "index": 20
+    },
+    {
+      "title": "ESIM Security",
+      "href": "https://security-explorations.com/esim-security.html",
+      "points": "72 points",
+      "comments": "39 comments",
+      "index": 21
+    },
+    {
+      "title": "A Emoji Reverse Polish Notation Calculator Written in COBOL",
+      "href": "https://github.com/ghuntley/cobol-emoji-rpn-calculator",
+      "points": "7 points",
+      "comments": "discuss",
+      "index": 22
+    },
+    {
+      "title": "Serving a half billion requests per day with Rust and CGI",
+      "href": "https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/",
+      "points": "80 points",
+      "comments": "58 comments",
+      "index": 23
+    },
+    {
+      "title": "Systemd has been a complete, utter, unmitigated success",
+      "href": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
+      "points": "53 points",
+      "comments": "28 comments",
+      "index": 24
     },
     {
       "title": "Where can I see Hokusai's Great Wave today?",
       "href": "https://greatwavetoday.com/",
-      "points": "93 points",
-      "comments": "73 comments",
-      "index": 20
+      "points": "102 points",
+      "comments": "82 comments",
+      "index": 25
+    },
+    {
+      "title": "I'm Building LLM for Satellite Data EarthGPT.app",
+      "href": "https://www.earthgpt.app/",
+      "points": "84 points",
+      "comments": "11 comments",
+      "index": 26
     },
     {
       "title": "Frame of preference A history of Mac settings, 1984–2004",
       "href": "https://aresluna.org/frame-of-preference/",
-      "points": "139 points",
+      "points": "149 points",
       "comments": "20 comments",
-      "index": 21
+      "index": 27
     },
     {
       "title": "Supabase MCP can leak your entire SQL database",
       "href": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
-      "points": "766 points",
-      "comments": "412 comments",
-      "index": 22
+      "points": "774 points",
+      "comments": "418 comments",
+      "index": 28
     },
     {
       "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
       "href": "https://huggingface.co/blog/smollm3",
-      "points": "327 points",
-      "comments": "68 comments",
-      "index": 23
-    },
-    {
-      "title": "Libpostal: C library for parsing/normalizing street addresses around the world",
-      "href": "https://github.com/openvenues/libpostal",
-      "points": "75 points",
-      "comments": "21 comments",
-      "index": 24
-    },
-    {
-      "title": "Bug Stories",
-      "href": "https://500mile.email/",
-      "points": "30 points",
-      "comments": "9 comments",
-      "index": 25
-    },
-    {
-      "title": "SUSE launches new European digital sovereignty service to meet surging demand",
-      "href": "https://www.zdnet.com/article/suse-launches-new-european-digital-sovereignty-support-service-to-meet-surging-demand/",
-      "points": "105 points",
-      "comments": "42 comments",
-      "index": 26
+      "points": "338 points",
+      "comments": "70 comments",
+      "index": 29
     },
     {
       "title": "Zorin OS",
       "href": "https://zorin.com/os/",
-      "points": "124 points",
-      "comments": "121 comments",
-      "index": 27
-    },
-    {
-      "title": "Radium Music Editor",
-      "href": "http://users.notam02.no/~kjetism/radium/",
-      "points": "234 points",
-      "comments": "50 comments",
-      "index": 28
-    },
-    {
-      "title": "Show HN: I rewrote an outdated React Native map clustering library",
-      "href": "https://github.com/suwi-lanji/rn-maps-clustering",
-      "points": "26 points",
-      "comments": "7 comments",
-      "index": 29
-    },
-    {
-      "title": "Brut: A New Web Framework for Ruby",
-      "href": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
-      "points": "190 points",
-      "comments": "66 comments",
+      "points": "138 points",
+      "comments": "130 comments",
       "index": 30
     }
   ]
