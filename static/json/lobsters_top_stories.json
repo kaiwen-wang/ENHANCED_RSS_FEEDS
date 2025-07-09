@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, July 9, 2025 at 7:40 AM GMT-5",
+  "date": "Wednesday, July 9, 2025 at 8:35 AM GMT-5",
   "articles": [
     {
       "title": "systemd has been a complete, utter, unmitigated success",
       "href": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
       "points": "",
-      "comments": "\n              45 comments",
+      "comments": "\n              49 comments",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "Phrase origin: Why do we “call” functions?",
       "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
-      "title": "Two weeks of wayback",
-      "href": "https://ariadne.space/2025/07/07/two-weeks-of-wayback.html",
-      "points": "",
-      "comments": "\n              28 comments",
-      "index": 5
-    },
-    {
       "title": "The Tree Borrows paper is finally published",
       "href": "https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 5
+    },
+    {
+      "title": "Two weeks of wayback",
+      "href": "https://ariadne.space/2025/07/07/two-weeks-of-wayback.html",
+      "points": "",
+      "comments": "\n              28 comments",
       "index": 6
     },
     {
@@ -58,78 +58,78 @@
       "index": 8
     },
     {
+      "title": "Hippocratic License",
+      "href": "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 9
+    },
+    {
       "title": "CVE-2025-48384: Breaking git with a carriage return and cloning RCE",
       "href": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "IBM Power11 hits the market this month",
       "href": "https://www.talospace.com/2025/07/power11-hits-market-this-month.html",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "WebAssembly: Yes, but for What?",
       "href": "https://queue.acm.org/detail.cfm?id=3746171",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "toml v0.9",
       "href": "https://epage.github.io/blog/2025/07/toml-09/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Frame of preference – A history of Mac settings, 1984–2004",
       "href": "https://aresluna.org/frame-of-preference/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 13
+      "index": 14
     },
     {
-      "title": "Hippocratic License",
-      "href": "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt",
+      "title": "Brut: A New Web Framework for Ruby",
+      "href": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 14
+      "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
+      "title": "HyAB k-means for color quantization",
+      "href": "https://30fps.net/pages/hyab-kmeans/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
     },
     {
       "title": "Agents don't have agency",
       "href": "https://kconner.com/2025/07/08/agents-dont-have-agency.html",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 15
+      "comments": "\n              3 comments",
+      "index": 17
     },
     {
       "title": "C3 0.7.3 - Small improvements",
       "href": "https://c3-lang.org/blog/c3-0-7-3-small-improvements/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 16
-    },
-    {
-      "title": "Multiple vulnerabilities fixed in Git",
-      "href": "https://www.openwall.com/lists/oss-security/2025/07/08/4",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "Infinite Mac Construction Set",
-      "href": "https://blog.persistent.info/2025/07/infinite-mac-embedding.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 18
     },
     {
-      "title": "eSIM security",
-      "href": "https://security-explorations.com/esim-security.html",
+      "title": "Supabase MCP can leak your entire SQL database",
+      "href": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
       "points": "",
       "comments": "\n              no comments",
       "index": 19
@@ -142,36 +142,36 @@
       "index": 20
     },
     {
-      "title": "Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods",
-      "href": "https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php",
+      "title": "Multiple vulnerabilities fixed in Git",
+      "href": "https://www.openwall.com/lists/oss-security/2025/07/08/4",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 21
     },
     {
-      "title": "#[derive(Clone)] is broken",
-      "href": "https://rgbcu.be/blog/derive-broken/",
+      "title": "Just say no to broken JSON",
+      "href": "https://lemire.me/blog/2025/07/04/just-say-no-to-broken-json/",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              3 comments",
       "index": 22
     },
     {
-      "title": "Supabase MCP can leak your entire SQL database",
-      "href": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
+      "title": "Infinite Mac Construction Set",
+      "href": "https://blog.persistent.info/2025/07/infinite-mac-embedding.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
-      "href": "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md",
+      "title": "eSIM security",
+      "href": "https://security-explorations.com/esim-security.html",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Just say no to broken JSON",
-      "href": "https://lemire.me/blog/2025/07/04/just-say-no-to-broken-json/",
+      "title": "Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods",
+      "href": "https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
