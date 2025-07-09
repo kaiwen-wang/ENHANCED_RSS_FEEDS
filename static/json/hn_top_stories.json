@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, July 9, 2025 at 8:35 AM GMT-5",
+  "date": "Wednesday, July 9, 2025 at 9:20 AM GMT-5",
   "articles": [
-    {
-      "title": "4.6B Years On, the Sun Is Having a Moment",
-      "href": "https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment",
-      "points": "31 points",
-      "comments": "24 comments",
-      "index": 1
-    },
     {
       "title": "Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left",
       "href": "https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443",
-      "points": "44 points",
-      "comments": "11 comments",
-      "index": 2
+      "points": "60 points",
+      "comments": "25 comments",
+      "index": 1
     },
     {
       "title": "Ruby 3.4 frozen string literals: What Rails developers need to know",
       "href": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
-      "points": "77 points",
-      "comments": "34 comments",
+      "points": "102 points",
+      "comments": "39 comments",
+      "index": 2
+    },
+    {
+      "title": "Serving a half billion requests per day with Rust and CGI",
+      "href": "https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/",
+      "points": "46 points",
+      "comments": "27 comments",
       "index": 3
     },
     {
       "title": "Is the doc bot docs, or not?",
       "href": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
-      "points": "95 points",
-      "comments": "48 comments",
+      "points": "111 points",
+      "comments": "56 comments",
       "index": 4
     },
     {
       "title": "Helm local code execution via a malicious chart",
       "href": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
-      "points": "118 points",
-      "comments": "54 comments",
+      "points": "122 points",
+      "comments": "58 comments",
       "index": 5
     },
     {
-      "title": "Serving a half billion requests per day with Rust and CGI",
-      "href": "https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/",
-      "points": "18 points",
-      "comments": "11 comments",
+      "title": "I Ported SAP to a 1976 CPU. It Wasn't That Slow",
+      "href": "https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md",
+      "points": "44 points",
+      "comments": "28 comments",
       "index": 6
-    },
-    {
-      "title": "Most RESTful APIs aren't really RESTful",
-      "href": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
-      "points": "111 points",
-      "comments": "184 comments",
-      "index": 7
     },
     {
       "title": "ESIM Security",
       "href": "https://security-explorations.com/esim-security.html",
-      "points": "51 points",
-      "comments": "19 comments",
-      "index": 8
+      "points": "66 points",
+      "comments": "30 comments",
+      "index": 7
     },
     {
-      "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
-      "href": "https://www.7-zip.org/history.txt",
-      "points": "130 points",
-      "comments": "79 comments",
-      "index": 9
+      "title": "Most RESTful APIs aren't really RESTful",
+      "href": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
+      "points": "133 points",
+      "comments": "212 comments",
+      "index": 8
     },
     {
       "title": "Using MPC for Anonymous and Private DNA Analysis",
       "href": "https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/",
-      "points": "6 points",
-      "comments": "1 comment",
-      "index": 10
+      "points": "12 points",
+      "comments": "2 comments",
+      "index": 9
     },
     {
       "title": "Bootstrapping a side project into a profitable seven-figure business",
       "href": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
-      "points": "598 points",
-      "comments": "141 comments",
+      "points": "619 points",
+      "comments": "153 comments",
+      "index": 10
+    },
+    {
+      "title": "US Court nullifies FTC requirement for click-to-cancel",
+      "href": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
+      "points": "261 points",
+      "comments": "266 comments",
       "index": 11
     },
     {
-      "title": "Astro is a return to the fundamentals of the web",
-      "href": "https://websmith.studio/blog/astro-is-a-developers-dream/",
-      "points": "140 points",
-      "comments": "116 comments",
+      "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
+      "href": "https://www.7-zip.org/history.txt",
+      "points": "141 points",
+      "comments": "96 comments",
       "index": 12
     },
     {
       "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
       "href": "https://github.com/CyberTimon/RapidRAW",
-      "points": "191 points",
-      "comments": "79 comments",
+      "points": "199 points",
+      "comments": "82 comments",
       "index": 13
     },
     {
       "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
       "href": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
-      "points": "113 points",
-      "comments": "63 comments",
+      "points": "152 points",
+      "comments": "82 comments",
       "index": 14
-    },
-    {
-      "title": "US Court nullifies FTC requirement for click-to-cancel",
-      "href": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
-      "points": "225 points",
-      "comments": "237 comments",
-      "index": 15
     },
     {
       "title": "Phrase origin: Why do we \"call\" functions?",
       "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
-      "points": "106 points",
-      "comments": "78 comments",
+      "points": "119 points",
+      "comments": "88 comments",
+      "index": 15
+    },
+    {
+      "title": "Astro is a return to the fundamentals of the web",
+      "href": "https://websmith.studio/blog/astro-is-a-developers-dream/",
+      "points": "159 points",
+      "comments": "132 comments",
       "index": 16
     },
     {
       "title": "Breaking Git with a carriage return and cloning RCE",
       "href": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
-      "points": "336 points",
-      "comments": "132 comments",
+      "points": "338 points",
+      "comments": "133 comments",
       "index": 17
-    },
-    {
-      "title": "Proposal: GUI-first, text-based mechanical CAD inspired by software engineering",
-      "href": "item?id=44474620",
-      "points": "19 points",
-      "comments": "32 comments",
-      "index": 18
-    },
-    {
-      "title": "Where can I see Hokusai's Great Wave today?",
-      "href": "https://greatwavetoday.com/",
-      "points": "89 points",
-      "comments": "71 comments",
-      "index": 19
     },
     {
       "title": "I'm Building LLM for Satellite Data EarthGPT.app",
       "href": "https://www.earthgpt.app/",
-      "points": "68 points",
+      "points": "73 points",
       "comments": "9 comments",
+      "index": 18
+    },
+    {
+      "title": "Proposal: GUI-first, text-based mechanical CAD inspired by software engineering",
+      "href": "item?id=44474620",
+      "points": "25 points",
+      "comments": "38 comments",
+      "index": 19
+    },
+    {
+      "title": "Where can I see Hokusai's Great Wave today?",
+      "href": "https://greatwavetoday.com/",
+      "points": "93 points",
+      "comments": "73 comments",
       "index": 20
-    },
-    {
-      "title": "I Ported SAP to a 1976 CPU. It Wasn't That Slow",
-      "href": "https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md",
-      "points": "32 points",
-      "comments": "26 comments",
-      "index": 21
-    },
-    {
-      "title": "Million Times Million",
-      "href": "https://susam.net/million-times-million.html",
-      "points": "60 points",
-      "comments": "48 comments",
-      "index": 22
     },
     {
       "title": "Frame of preference A history of Mac settings, 1984–2004",
       "href": "https://aresluna.org/frame-of-preference/",
-      "points": "134 points",
-      "comments": "19 comments",
-      "index": 23
+      "points": "139 points",
+      "comments": "20 comments",
+      "index": 21
     },
     {
       "title": "Supabase MCP can leak your entire SQL database",
       "href": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
-      "points": "757 points",
-      "comments": "404 comments",
-      "index": 24
+      "points": "766 points",
+      "comments": "412 comments",
+      "index": 22
     },
     {
       "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
       "href": "https://huggingface.co/blog/smollm3",
-      "points": "323 points",
-      "comments": "67 comments",
-      "index": 25
-    },
-    {
-      "title": "Bug Stories",
-      "href": "https://500mile.email/",
-      "points": "26 points",
-      "comments": "9 comments",
-      "index": 26
-    },
-    {
-      "title": "Show HN: I rewrote an outdated React Native map clustering library",
-      "href": "https://github.com/suwi-lanji/rn-maps-clustering",
-      "points": "24 points",
-      "comments": "7 comments",
-      "index": 27
+      "points": "327 points",
+      "comments": "68 comments",
+      "index": 23
     },
     {
       "title": "Libpostal: C library for parsing/normalizing street addresses around the world",
       "href": "https://github.com/openvenues/libpostal",
-      "points": "70 points",
-      "comments": "18 comments",
-      "index": 28
+      "points": "75 points",
+      "comments": "21 comments",
+      "index": 24
+    },
+    {
+      "title": "Bug Stories",
+      "href": "https://500mile.email/",
+      "points": "30 points",
+      "comments": "9 comments",
+      "index": 25
     },
     {
       "title": "SUSE launches new European digital sovereignty service to meet surging demand",
       "href": "https://www.zdnet.com/article/suse-launches-new-european-digital-sovereignty-support-service-to-meet-surging-demand/",
-      "points": "92 points",
-      "comments": "29 comments",
-      "index": 29
+      "points": "105 points",
+      "comments": "42 comments",
+      "index": 26
+    },
+    {
+      "title": "Zorin OS",
+      "href": "https://zorin.com/os/",
+      "points": "124 points",
+      "comments": "121 comments",
+      "index": 27
     },
     {
       "title": "Radium Music Editor",
       "href": "http://users.notam02.no/~kjetism/radium/",
-      "points": "229 points",
-      "comments": "49 comments",
+      "points": "234 points",
+      "comments": "50 comments",
+      "index": 28
+    },
+    {
+      "title": "Show HN: I rewrote an outdated React Native map clustering library",
+      "href": "https://github.com/suwi-lanji/rn-maps-clustering",
+      "points": "26 points",
+      "comments": "7 comments",
+      "index": 29
+    },
+    {
+      "title": "Brut: A New Web Framework for Ruby",
+      "href": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
+      "points": "190 points",
+      "comments": "66 comments",
       "index": 30
     }
   ]
