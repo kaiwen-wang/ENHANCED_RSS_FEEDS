@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, July 9, 2025 at 12:20 PM GMT-5",
+  "date": "Wednesday, July 9, 2025 at 1:30 PM GMT-5",
   "articles": [
     {
       "title": "Tree Borrows",
       "href": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html",
-      "points": "172 points",
-      "comments": "18 comments",
+      "points": "224 points",
+      "comments": "30 comments",
       "index": 1
+    },
+    {
+      "title": "Show HN: FlopperZiro – A DIY open-source Flipper Zero clone",
+      "href": "https://github.com/lraton/FlopperZiro",
+      "points": "28 points",
+      "comments": "1 comment",
+      "index": 2
+    },
+    {
+      "title": "Evolution Mail Users Easily Trackable",
+      "href": "https://www.grepular.com/Evolution_Mail_Users_Easily_Trackable",
+      "points": "20 points",
+      "comments": "4 comments",
+      "index": 3
     },
     {
       "title": "Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left",
       "href": "https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443",
-      "points": "118 points",
-      "comments": "75 comments",
-      "index": 2
-    },
-    {
-      "title": "Ruby 3.4 frozen string literals: What Rails developers need to know",
-      "href": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
-      "points": "150 points",
-      "comments": "68 comments",
-      "index": 3
-    },
-    {
-      "title": "A fast 3D collision detection algorithm",
-      "href": "https://cairno.substack.com/p/improvements-to-the-separating-axis",
-      "points": "78 points",
-      "comments": "4 comments",
+      "points": "133 points",
+      "comments": "83 comments",
       "index": 4
     },
     {
-      "title": "Is the doc bot docs, or not?",
-      "href": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
-      "points": "153 points",
-      "comments": "79 comments",
+      "title": "The Architecture Behind Lovable and Bolt",
+      "href": "https://www.beam.cloud/blog/agentic-apps",
+      "points": "8 points",
+      "comments": "discuss",
       "index": 5
     },
     {
       "title": "Archaeologists unveil 3,500-year-old city in Peru",
       "href": "https://www.bbc.co.uk/news/articles/c07dmx38kyeo",
-      "points": "27 points",
-      "comments": "2 comments",
+      "points": "49 points",
+      "comments": "9 comments",
       "index": 6
     },
     {
-      "title": "Helm local code execution via a malicious chart",
-      "href": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
-      "points": "140 points",
-      "comments": "66 comments",
+      "title": "Ruby 3.4 frozen string literals: What Rails developers need to know",
+      "href": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
+      "points": "164 points",
+      "comments": "74 comments",
       "index": 7
-    },
-    {
-      "title": "Most RESTful APIs aren't really RESTful",
-      "href": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
-      "points": "201 points",
-      "comments": "314 comments",
-      "index": 8
-    },
-    {
-      "title": "US Court nullifies FTC requirement for click-to-cancel",
-      "href": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
-      "points": "392 points",
-      "comments": "375 comments",
-      "index": 9
-    },
-    {
-      "title": "X Chief Says She Is Leaving the Social Media Platform",
-      "href": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
-      "points": "197 points",
-      "comments": "231 comments",
-      "index": 10
-    },
-    {
-      "title": "Bootstrapping a side project into a profitable seven-figure business",
-      "href": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
-      "points": "687 points",
-      "comments": "178 comments",
-      "index": 11
-    },
-    {
-      "title": "Phrase origin: Why do we \"call\" functions?",
-      "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
-      "points": "176 points",
-      "comments": "123 comments",
-      "index": 12
     },
     {
       "title": "I Ported SAP to a 1976 CPU. It Wasn't That Slow",
       "href": "https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md",
-      "points": "76 points",
-      "comments": "41 comments",
-      "index": 13
+      "points": "89 points",
+      "comments": "44 comments",
+      "index": 8
+    },
+    {
+      "title": "Most RESTful APIs aren't really RESTful",
+      "href": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
+      "points": "225 points",
+      "comments": "349 comments",
+      "index": 9
+    },
+    {
+      "title": "A fast 3D collision detection algorithm",
+      "href": "https://cairno.substack.com/p/improvements-to-the-separating-axis",
+      "points": "94 points",
+      "comments": "12 comments",
+      "index": 10
+    },
+    {
+      "title": "US Court nullifies FTC requirement for click-to-cancel",
+      "href": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
+      "points": "441 points",
+      "comments": "424 comments",
+      "index": 11
     },
     {
       "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
       "href": "https://www.7-zip.org/history.txt",
-      "points": "189 points",
-      "comments": "132 comments",
+      "points": "210 points",
+      "comments": "140 comments",
+      "index": 12
+    },
+    {
+      "title": "Helm local code execution via a malicious chart",
+      "href": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
+      "points": "144 points",
+      "comments": "72 comments",
+      "index": 13
+    },
+    {
+      "title": "Bootstrapping a side project into a profitable seven-figure business",
+      "href": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
+      "points": "711 points",
+      "comments": "181 comments",
       "index": 14
+    },
+    {
+      "title": "Is the doc bot docs, or not?",
+      "href": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
+      "points": "169 points",
+      "comments": "94 comments",
+      "index": 15
+    },
+    {
+      "title": "Configuring Split Horizon DNS with Pi-Hole and Tailscale",
+      "href": "https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 16
+    },
+    {
+      "title": "X Chief Says She Is Leaving the Social Media Platform",
+      "href": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
+      "points": "243 points",
+      "comments": "316 comments",
+      "index": 17
+    },
+    {
+      "title": "Phrase origin: Why do we \"call\" functions?",
+      "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+      "points": "188 points",
+      "comments": "132 comments",
+      "index": 18
     },
     {
       "title": "A Emoji Reverse Polish Notation Calculator Written in COBOL",
       "href": "https://github.com/ghuntley/cobol-emoji-rpn-calculator",
-      "points": "17 points",
-      "comments": "1 comment",
-      "index": 15
+      "points": "22 points",
+      "comments": "3 comments",
+      "index": 19
     },
     {
       "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
       "href": "https://github.com/CyberTimon/RapidRAW",
-      "points": "216 points",
-      "comments": "96 comments",
-      "index": 16
-    },
-    {
-      "title": "Nvidia Becomes First Company to Reach $4T Market Cap",
-      "href": "https://www.cnbc.com/2025/07/09/nvidia-4-trillion.html",
-      "points": "49 points",
-      "comments": "39 comments",
-      "index": 17
+      "points": "227 points",
+      "comments": "99 comments",
+      "index": 20
     },
     {
       "title": "Breaking Git with a carriage return and cloning RCE",
       "href": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
-      "points": "350 points",
-      "comments": "146 comments",
-      "index": 18
-    },
-    {
-      "title": "Galiliean-invariant cosmological hydrodynamical simulations on a moving mesh",
-      "href": "https://wwwmpa.mpa-garching.mpg.de/~volker/arepo/",
-      "points": "7 points",
-      "comments": "2 comments",
-      "index": 19
-    },
-    {
-      "title": "Astro is a return to the fundamentals of the web",
-      "href": "https://websmith.studio/blog/astro-is-a-developers-dream/",
-      "points": "219 points",
-      "comments": "186 comments",
-      "index": 20
-    },
-    {
-      "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
-      "href": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
-      "points": "265 points",
-      "comments": "167 comments",
+      "points": "354 points",
+      "comments": "147 comments",
       "index": 21
-    },
-    {
-      "title": "ESIM Security",
-      "href": "https://security-explorations.com/esim-security.html",
-      "points": "95 points",
-      "comments": "41 comments",
-      "index": 22
     },
     {
       "title": "Using MPC for Anonymous and Private DNA Analysis",
       "href": "https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/",
-      "points": "19 points",
-      "comments": "8 comments",
+      "points": "25 points",
+      "comments": "11 comments",
+      "index": 22
+    },
+    {
+      "title": "ESIM Security",
+      "href": "https://security-explorations.com/esim-security.html",
+      "points": "102 points",
+      "comments": "42 comments",
       "index": 23
+    },
+    {
+      "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
+      "href": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
+      "points": "292 points",
+      "comments": "188 comments",
+      "index": 24
+    },
+    {
+      "title": "Astro is a return to the fundamentals of the web",
+      "href": "https://websmith.studio/blog/astro-is-a-developers-dream/",
+      "points": "235 points",
+      "comments": "192 comments",
+      "index": 25
     },
     {
       "title": "Where can I see Hokusai's Great Wave today?",
       "href": "https://greatwavetoday.com/",
-      "points": "113 points",
-      "comments": "83 comments",
-      "index": 24
+      "points": "116 points",
+      "comments": "88 comments",
+      "index": 26
     },
     {
-      "title": "Jurisdiction Is Nearly Irrelevant to the Security of Encrypted Messaging Apps",
-      "href": "https://soatok.blog/2025/07/09/jurisdiction-is-nearly-irrelevant-to-the-security-of-encrypted-messaging-apps/",
-      "points": "9 points",
-      "comments": "discuss",
-      "index": 25
+      "title": "Splice: Cable Harness Design Made Simple",
+      "href": "https://splice-cad.com",
+      "points": "5 points",
+      "comments": "1 comment",
+      "index": 27
     },
     {
       "title": "Frame of preference A history of Mac settings, 1984–2004",
       "href": "https://aresluna.org/frame-of-preference/",
-      "points": "164 points",
+      "points": "174 points",
       "comments": "23 comments",
-      "index": 26
-    },
-    {
-      "title": "I'm Building LLM for Satellite Data EarthGPT.app",
-      "href": "https://www.earthgpt.app/",
-      "points": "90 points",
-      "comments": "11 comments",
-      "index": 27
+      "index": 28
     },
     {
       "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
       "href": "https://huggingface.co/blog/smollm3",
-      "points": "351 points",
-      "comments": "70 comments",
-      "index": 28
-    },
-    {
-      "title": "Supabase MCP can leak your entire SQL database",
-      "href": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
-      "points": "789 points",
-      "comments": "427 comments",
+      "points": "356 points",
+      "comments": "71 comments",
       "index": 29
     },
     {
-      "title": "Zorin OS",
-      "href": "https://zorin.com/os/",
-      "points": "159 points",
-      "comments": "140 comments",
+      "title": "Galiliean-invariant cosmological hydrodynamical simulations on a moving mesh",
+      "href": "https://wwwmpa.mpa-garching.mpg.de/~volker/arepo/",
+      "points": "10 points",
+      "comments": "5 comments",
       "index": 30
     }
   ]
