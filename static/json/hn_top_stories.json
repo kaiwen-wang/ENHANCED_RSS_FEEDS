@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, July 9, 2025 at 5:20 AM GMT-5",
+  "date": "Wednesday, July 9, 2025 at 6:20 AM GMT-5",
   "articles": [
-    {
-      "title": "Astro is a return to the fundamentals of the web",
-      "href": "https://websmith.studio/blog/astro-is-a-developers-dream/",
-      "points": "30 points",
-      "comments": "28 comments",
-      "index": 1
-    },
     {
       "title": "Helm local code execution via a malicious chart",
       "href": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
-      "points": "94 points",
-      "comments": "29 comments",
-      "index": 2
+      "points": "107 points",
+      "comments": "43 comments",
+      "index": 1
     },
     {
       "title": "Is the doc bot docs, or not?",
       "href": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
-      "points": "46 points",
-      "comments": "10 comments",
+      "points": "61 points",
+      "comments": "22 comments",
+      "index": 2
+    },
+    {
+      "title": "Ruby 3.4 Frozen String Literals: What Rails Developers Need to Know",
+      "href": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
+      "points": "22 points",
+      "comments": "4 comments",
       "index": 3
     },
     {
       "title": "ESIM Security",
       "href": "https://security-explorations.com/esim-security.html",
-      "points": "12 points",
-      "comments": "2 comments",
+      "points": "29 points",
+      "comments": "5 comments",
       "index": 4
     },
     {
       "title": "Most RESTful APIs aren't really RESTful",
       "href": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
-      "points": "50 points",
-      "comments": "50 comments",
+      "points": "66 points",
+      "comments": "83 comments",
       "index": 5
-    },
-    {
-      "title": "The MCP hype is a distraction. AI Agents should just build their own tools",
-      "href": "https://www.rtrvr.ai/blog/on-the-fly-toolgen",
-      "points": "9 points",
-      "comments": "2 comments",
-      "index": 6
-    },
-    {
-      "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
-      "href": "https://github.com/CyberTimon/RapidRAW",
-      "points": "165 points",
-      "comments": "68 comments",
-      "index": 7
     },
     {
       "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
       "href": "https://www.7-zip.org/history.txt",
-      "points": "84 points",
-      "comments": "16 comments",
-      "index": 8
+      "points": "98 points",
+      "comments": "28 comments",
+      "index": 6
     },
     {
       "title": "Bootstrapping a side project into a profitable seven-figure business",
       "href": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
-      "points": "538 points",
-      "comments": "117 comments",
+      "points": "558 points",
+      "comments": "122 comments",
+      "index": 7
+    },
+    {
+      "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
+      "href": "https://github.com/CyberTimon/RapidRAW",
+      "points": "173 points",
+      "comments": "72 comments",
+      "index": 8
+    },
+    {
+      "title": "Astro is a return to the fundamentals of the web",
+      "href": "https://websmith.studio/blog/astro-is-a-developers-dream/",
+      "points": "71 points",
+      "comments": "59 comments",
       "index": 9
     },
     {
-      "title": "From AI to Agents to Agencies",
-      "href": "https://blog.nishantsoni.com/p/from-ai-to-agents-to-agencies-the",
-      "points": "6 points",
-      "comments": "discuss",
+      "title": "I'm Building LLM for Satellite Data EarthGPT.app",
+      "href": "https://www.earthgpt.app/",
+      "points": "49 points",
+      "comments": "4 comments",
       "index": 10
     },
     {
       "title": "Breaking Git with a carriage return and cloning RCE",
       "href": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
-      "points": "319 points",
-      "comments": "114 comments",
+      "points": "324 points",
+      "comments": "121 comments",
       "index": 11
-    },
-    {
-      "title": "I'm Building LLM for Satellite Data EarthGPT.app",
-      "href": "https://www.earthgpt.app/",
-      "points": "36 points",
-      "comments": "3 comments",
-      "index": 12
-    },
-    {
-      "title": "Show HN: I rewrote an outdated React Native map clustering library",
-      "href": "https://github.com/suwi-lanji/rn-maps-clustering",
-      "points": "16 points",
-      "comments": "4 comments",
-      "index": 13
-    },
-    {
-      "title": "Bug Stories",
-      "href": "https://500mile.email/",
-      "points": "16 points",
-      "comments": "3 comments",
-      "index": 14
     },
     {
       "title": "US Court nullifies FTC requirement for click-to-cancel",
       "href": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
-      "points": "120 points",
-      "comments": "140 comments",
-      "index": 15
+      "points": "140 points",
+      "comments": "165 comments",
+      "index": 12
+    },
+    {
+      "title": "Bug Stories",
+      "href": "https://500mile.email/",
+      "points": "19 points",
+      "comments": "4 comments",
+      "index": 13
+    },
+    {
+      "title": "Show HN: I rewrote an outdated React Native map clustering library",
+      "href": "https://github.com/suwi-lanji/rn-maps-clustering",
+      "points": "18 points",
+      "comments": "5 comments",
+      "index": 14
     },
     {
       "title": "Supabase MCP can leak your entire SQL database",
       "href": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
-      "points": "717 points",
-      "comments": "376 comments",
-      "index": 16
+      "points": "729 points",
+      "comments": "390 comments",
+      "index": 15
     },
     {
       "title": "Frame of preference A history of Mac settings, 1984–2004",
       "href": "https://aresluna.org/frame-of-preference/",
-      "points": "107 points",
-      "comments": "17 comments",
-      "index": 17
+      "points": "114 points",
+      "comments": "19 comments",
+      "index": 16
     },
     {
       "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
       "href": "https://huggingface.co/blog/smollm3",
-      "points": "298 points",
-      "comments": "58 comments",
+      "points": "306 points",
+      "comments": "59 comments",
+      "index": 17
+    },
+    {
+      "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
+      "href": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
+      "points": "22 points",
+      "comments": "11 comments",
       "index": 18
     },
     {
-      "title": "iPod Linux – Linux for Your iPod (2017)",
+      "title": "iPod Linux (2017)",
       "href": "http://www.ipodlinux.org/",
-      "points": "45 points",
-      "comments": "13 comments",
+      "points": "48 points",
+      "comments": "16 comments",
       "index": 19
     },
     {
       "title": "SUSE launches new European digital sovereignty service to meet surging demand",
       "href": "https://www.zdnet.com/article/suse-launches-new-european-digital-sovereignty-support-service-to-meet-surging-demand/",
-      "points": "45 points",
-      "comments": "7 comments",
+      "points": "58 points",
+      "comments": "15 comments",
       "index": 20
     },
     {
       "title": "Radium Music Editor",
       "href": "http://users.notam02.no/~kjetism/radium/",
-      "points": "207 points",
-      "comments": "45 comments",
+      "points": "214 points",
+      "comments": "46 comments",
       "index": 21
     },
     {
       "title": "Brut: A New Web Framework for Ruby",
       "href": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
-      "points": "178 points",
+      "points": "183 points",
       "comments": "62 comments",
       "index": 22
     },
     {
       "title": "The Capacity, Performance, and Reliability of MicroSD Cards",
       "href": "https://www.bahjeez.com/the-great-microsd-card-survey/",
-      "points": "17 points",
+      "points": "27 points",
       "comments": "2 comments",
       "index": 23
     },
     {
       "title": "Show HN: Dev atrophy test – Can you still code without AI?",
       "href": "item?id=44507369",
-      "points": "6 points",
-      "comments": "2 comments",
+      "points": "10 points",
+      "comments": "11 comments",
       "index": 24
     },
     {
       "title": "Springer Nature book on machine learning is full of made-up citations",
       "href": "https://retractionwatch.com/2025/06/30/springer-nature-book-on-machine-learning-is-full-of-made-up-citations/",
-      "points": "48 points",
-      "comments": "12 comments",
+      "points": "61 points",
+      "comments": "26 comments",
       "index": 25
     },
     {
       "title": "Libpostal: C library for parsing/normalizing street addresses around the world",
       "href": "https://github.com/openvenues/libpostal",
-      "points": "50 points",
-      "comments": "10 comments",
+      "points": "53 points",
+      "comments": "13 comments",
       "index": 26
-    },
-    {
-      "title": "AI, Power and Sociolinguistics [pdf]",
-      "href": "https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf",
-      "points": "24 points",
-      "comments": "2 comments",
-      "index": 27
     },
     {
       "title": "Taking over 60k spyware user accounts with SQL injection",
       "href": "https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/",
-      "points": "213 points",
+      "points": "218 points",
       "comments": "64 comments",
+      "index": 27
+    },
+    {
+      "title": "Show HN: OffChess – Offline chess puzzles app",
+      "href": "https://offchess.com",
+      "points": "332 points",
+      "comments": "147 comments",
       "index": 28
     },
     {
       "title": "Swahili on the Road",
       "href": "https://www.historytoday.com/archive/behind-times/swahili-road",
-      "points": "30 points",
-      "comments": "3 comments",
+      "points": "31 points",
+      "comments": "4 comments",
       "index": 29
     },
     {
-      "title": "Show HN: OffChess – Offline chess puzzles app",
-      "href": "https://offchess.com",
-      "points": "329 points",
-      "comments": "146 comments",
+      "title": "Dynamical origin of Theia, the last giant impactor on Earth",
+      "href": "https://arxiv.org/abs/2507.01826",
+      "points": "91 points",
+      "comments": "34 comments",
       "index": 30
     }
   ]
