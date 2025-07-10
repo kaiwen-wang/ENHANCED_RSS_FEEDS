@@ -1,25 +1,25 @@
 {
-  "date": "Thursday, July 10, 2025 at 9:20 AM GMT-5",
+  "date": "Thursday, July 10, 2025 at 10:20 AM GMT-5",
   "articles": [
     {
       "title": "Hare by Example",
       "href": "https://harebyexample.org",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              30 comments",
       "index": 1
     },
     {
       "title": "Monitoring my Homelab, Simply",
       "href": "https://b.tuxes.uk/simple-homelab-monitoring.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 2
     },
     {
       "title": "Kubernetes is not just for Black Friday",
       "href": "https://ergaster.org/posts/2025/07/09-kubernetes-black-friday/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              13 comments",
       "index": 3
     },
     {
@@ -33,77 +33,77 @@
       "title": "Using fs_usage to see what files a process is using",
       "href": "https://til.simonwillison.net/macos/fs-usage",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 5
     },
     {
       "title": "systemd has been a complete, utter, unmitigated success",
       "href": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
       "points": "",
-      "comments": "\n              112 comments",
+      "comments": "\n              124 comments",
       "index": 6
+    },
+    {
+      "title": "Multi-player Durable Stream Playground",
+      "href": "https://s2.dev/playground",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 7
     },
     {
       "title": "Variadic Generics ideas that won’t work for Rust",
       "href": "https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "MicroHs, a tiny Haskell Compiler",
       "href": "https://www.youtube.com/watch?v=SJwvPEq4Mok",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Unveiling the Open Source heroes that power our digital infrastructure",
       "href": "https://maintaine.rs/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 9
-    },
-    {
-      "title": "Get the location of the ISS using DNS",
-      "href": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 10
     },
     {
-      "title": "The Tree Borrows paper is finally published",
-      "href": "https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html",
+      "title": "What's //go:nosplit for?",
+      "href": "https://mcyoung.xyz/2025/07/07/nosplit/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              no comments",
       "index": 11
+    },
+    {
+      "title": "Lessons From Creating My First Text Adventure",
+      "href": "https://entropicthoughts.com/lessons-from-creating-first-text-adventure",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
     },
     {
       "title": "Closures for Hare",
       "href": "https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 12
-    },
-    {
-      "title": "(Quite) A Few Words About Async",
-      "href": "https://yoric.github.io/post/quite-a-few-words-about-async/",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 13
     },
     {
-      "title": "Vim Fugitive in action (2021)",
-      "href": "https://dzx.fr/blog/introduction-to-vim-fugitive/",
+      "title": "The Tree Borrows paper is finally published",
+      "href": "https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 14
     },
     {
-      "title": "Computer Scientists Figure Out How To Prove Lies",
-      "href": "https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/",
+      "title": "Get the location of the ISS using DNS",
+      "href": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              5 comments",
       "index": 15
     },
     {
@@ -114,64 +114,64 @@
       "index": 16
     },
     {
-      "title": "Brut: A New Web Framework for Ruby",
-      "href": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 17
-    },
-    {
-      "title": "How I build software quickly",
-      "href": "https://evanhahn.com/how-i-build-software-quickly/",
-      "points": "",
-      "comments": "\n              37 comments",
-      "index": 18
-    },
-    {
-      "title": "Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
-      "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-2/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
-    },
-    {
-      "title": "Phrase origin: Why do we “call” functions?",
-      "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+      "title": "(Quite) A Few Words About Async",
+      "href": "https://yoric.github.io/post/quite-a-few-words-about-async/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 20
-    },
-    {
-      "title": "Functional Functions - A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas for C",
-      "href": "https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functional%20Functions.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "HyAB k-means for color quantization",
-      "href": "https://30fps.net/pages/hyab-kmeans/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 22
-    },
-    {
-      "title": "Is the doc bot docs, or not?",
-      "href": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 23
+      "index": 17
     },
     {
       "title": "Haskell Lenses From Scratch (2021)",
       "href": "https://www.youtube.com/watch?v=3kduOmZ2Wxw",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Vim Fugitive in action (2021)",
+      "href": "https://dzx.fr/blog/introduction-to-vim-fugitive/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 19
+    },
+    {
+      "title": "Computer Scientists Figure Out How To Prove Lies",
+      "href": "https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Brut: A New Web Framework for Ruby",
+      "href": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 21
+    },
+    {
+      "title": "How I build software quickly",
+      "href": "https://evanhahn.com/how-i-build-software-quickly/",
+      "points": "",
+      "comments": "\n              37 comments",
+      "index": 22
+    },
+    {
+      "title": "Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
+      "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-2/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 23
+    },
+    {
+      "title": "Phrase origin: Why do we “call” functions?",
+      "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 24
     },
     {
-      "title": "Orca Build System",
-      "href": "https://orca-app.dev/posts/250710/orca_build_system.html",
+      "title": "Functional Functions - A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas for C",
+      "href": "https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functional%20Functions.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
