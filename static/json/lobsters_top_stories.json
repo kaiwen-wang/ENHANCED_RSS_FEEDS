@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, July 10, 2025 at 5:20 AM GMT-5",
+  "date": "Thursday, July 10, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "Hare by Example",
       "href": "https://harebyexample.org",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              21 comments",
       "index": 1
     },
     {
       "title": "Kubernetes is not just for Black Friday",
       "href": "https://ergaster.org/posts/2025/07/09-kubernetes-black-friday/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 2
     },
     {
@@ -51,38 +51,38 @@
       "index": 7
     },
     {
-      "title": "Get the location of the ISS using DNS",
-      "href": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
+      "title": "About Clew",
+      "href": "https://clew.se/about/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              1 comment",
       "index": 8
-    },
-    {
-      "title": "(Quite) A Few Words About Async",
-      "href": "https://yoric.github.io/post/quite-a-few-words-about-async/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 9
-    },
-    {
-      "title": "Closures for Hare",
-      "href": "https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 10
     },
     {
       "title": "Unveiling the Open Source heroes that power our digital infrastructure",
       "href": "https://maintaine.rs/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 9
+    },
+    {
+      "title": "Get the location of the ISS using DNS",
+      "href": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 10
+    },
+    {
+      "title": "Closures for Hare",
+      "href": "https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 11
     },
     {
-      "title": "Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
-      "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-2/",
+      "title": "(Quite) A Few Words About Async",
+      "href": "https://yoric.github.io/post/quite-a-few-words-about-async/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              6 comments",
       "index": 12
     },
     {
@@ -93,10 +93,10 @@
       "index": 13
     },
     {
-      "title": "How I build software quickly",
-      "href": "https://evanhahn.com/how-i-build-software-quickly/",
+      "title": "Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
+      "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-2/",
       "points": "",
-      "comments": "\n              33 comments",
+      "comments": "\n              1 comment",
       "index": 14
     },
     {
@@ -107,24 +107,24 @@
       "index": 15
     },
     {
-      "title": "HyAB k-means for color quantization",
-      "href": "https://30fps.net/pages/hyab-kmeans/",
+      "title": "How I build software quickly",
+      "href": "https://evanhahn.com/how-i-build-software-quickly/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              33 comments",
       "index": 16
-    },
-    {
-      "title": "Is the doc bot docs, or not?",
-      "href": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 17
     },
     {
       "title": "Writing a very simple JIT Compiler in about 1000 lines of C",
       "href": "https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "HyAB k-means for color quantization",
+      "href": "https://30fps.net/pages/hyab-kmeans/",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "Is the doc bot docs, or not?",
+      "href": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 20
+    },
+    {
       "title": "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux",
       "href": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Functional Functions - A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas for C",
       "href": "https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functional%20Functions.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "Optimizing a Math Expression Parser in Rust",
+      "href": "https://rpallas.xyz/math-parser/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods",
       "href": "https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Roll your own in-game UI with Clay and NanoVG",
       "href": "https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "Frame of preference – A history of Mac settings, 1984–2004",
-      "href": "https://aresluna.org/frame-of-preference/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 24
-    },
-    {
-      "title": "Summary of the May 2025 TC39 plenary",
-      "href": "https://blogs.igalia.com/compilers/2025/07/03/summary-of-the-may-2025-tc39-plenary/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 25
     }
   ]
