@@ -1,60 +1,60 @@
 {
-  "date": "Thursday, July 10, 2025 at 6:15 AM GMT-5",
+  "date": "Thursday, July 10, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "Hare by Example",
       "href": "https://harebyexample.org",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              23 comments",
       "index": 1
     },
     {
       "title": "Kubernetes is not just for Black Friday",
       "href": "https://ergaster.org/posts/2025/07/09-kubernetes-black-friday/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 2
+    },
+    {
+      "title": "Monitoring my Homelab, Simply",
+      "href": "https://b.tuxes.uk/simple-homelab-monitoring.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 3
+    },
+    {
+      "title": "About Clew",
+      "href": "https://clew.se/about/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 4
     },
     {
       "title": "systemd has been a complete, utter, unmitigated success",
       "href": "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/",
       "points": "",
-      "comments": "\n              104 comments",
-      "index": 3
+      "comments": "\n              108 comments",
+      "index": 5
     },
     {
       "title": "Using fs_usage to see what files a process is using",
       "href": "https://til.simonwillison.net/macos/fs-usage",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 4
+      "index": 6
     },
     {
       "title": "Variadic Generics ideas that won’t work for Rust",
       "href": "https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 5
+      "index": 7
     },
     {
       "title": "MicroHs, a tiny Haskell Compiler",
       "href": "https://www.youtube.com/watch?v=SJwvPEq4Mok",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 6
-    },
-    {
-      "title": "The Tree Borrows paper is finally published",
-      "href": "https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 7
-    },
-    {
-      "title": "About Clew",
-      "href": "https://clew.se/about/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 8
     },
     {
@@ -65,87 +65,87 @@
       "index": 9
     },
     {
+      "title": "The Tree Borrows paper is finally published",
+      "href": "https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 10
+    },
+    {
       "title": "Get the location of the ISS using DNS",
       "href": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Closures for Hare",
       "href": "https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "(Quite) A Few Words About Async",
       "href": "https://yoric.github.io/post/quite-a-few-words-about-async/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 12
+      "comments": "\n              9 comments",
+      "index": 13
+    },
+    {
+      "title": "Vim Fugitive in action (2021)",
+      "href": "https://dzx.fr/blog/introduction-to-vim-fugitive/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 14
     },
     {
       "title": "Brut: A New Web Framework for Ruby",
       "href": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 13
+      "index": 15
     },
     {
       "title": "Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
       "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-2/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 14
+      "index": 16
+    },
+    {
+      "title": "How I build software quickly",
+      "href": "https://evanhahn.com/how-i-build-software-quickly/",
+      "points": "",
+      "comments": "\n              37 comments",
+      "index": 17
     },
     {
       "title": "Phrase origin: Why do we “call” functions?",
       "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 15
-    },
-    {
-      "title": "How I build software quickly",
-      "href": "https://evanhahn.com/how-i-build-software-quickly/",
-      "points": "",
-      "comments": "\n              33 comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "Writing a very simple JIT Compiler in about 1000 lines of C",
       "href": "https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "HyAB k-means for color quantization",
       "href": "https://30fps.net/pages/hyab-kmeans/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 18
-    },
-    {
-      "title": "Vim Fugitive in action (2021)",
-      "href": "https://dzx.fr/blog/introduction-to-vim-fugitive/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Is the doc bot docs, or not?",
       "href": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 20
-    },
-    {
-      "title": "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux",
-      "href": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 21
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
-      "title": "Optimizing a Math Expression Parser in Rust",
-      "href": "https://rpallas.xyz/math-parser/",
+      "title": "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux",
+      "href": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 23
+    },
+    {
+      "title": "Essential and accidental configuration",
+      "href": "https://jfmengels.net/essential-and-accidental-configuration/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods",
       "href": "https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "Roll your own in-game UI with Clay and NanoVG",
-      "href": "https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
