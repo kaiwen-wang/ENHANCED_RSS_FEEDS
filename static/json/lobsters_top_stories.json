@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, July 9, 2025 at 8:45 PM GMT-5",
+  "date": "Wednesday, July 9, 2025 at 10:20 PM GMT-5",
   "articles": [
     {
       "title": "Hare by Example",
       "href": "https://harebyexample.org",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              14 comments",
       "index": 1
     },
     {
@@ -23,24 +23,24 @@
       "index": 3
     },
     {
+      "title": "Variadic Generics ideas that won’t work for Rust",
+      "href": "https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 4
+    },
+    {
       "title": "Brut: A New Web Framework for Ruby",
       "href": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "How I build software quickly",
       "href": "https://evanhahn.com/how-i-build-software-quickly/",
       "points": "",
       "comments": "\n              32 comments",
-      "index": 5
-    },
-    {
-      "title": "Get the location of the ISS using DNS",
-      "href": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 6
     },
     {
@@ -51,31 +51,31 @@
       "index": 7
     },
     {
+      "title": "Get the location of the ISS using DNS",
+      "href": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
       "title": "HyAB k-means for color quantization",
       "href": "https://30fps.net/pages/hyab-kmeans/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 8
+      "index": 9
     },
     {
-      "title": "Variadic Generics ideas that won’t work for Rust",
-      "href": "https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/",
+      "title": "(Quite) A Few Words About Async",
+      "href": "https://yoric.github.io/post/quite-a-few-words-about-async/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 9
+      "comments": "\n              3 comments",
+      "index": 10
     },
     {
       "title": "Is the doc bot docs, or not?",
       "href": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 10
-    },
-    {
-      "title": "(Quite) A Few Words About Async",
-      "href": "https://yoric.github.io/post/quite-a-few-words-about-async/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 11
     },
     {
@@ -93,10 +93,10 @@
       "index": 13
     },
     {
-      "title": "Roll your own in-game UI with Clay and NanoVG",
-      "href": "https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf",
+      "title": "Using fs_usage to see what files a process is using",
+      "href": "https://til.simonwillison.net/macos/fs-usage",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "Roll your own in-game UI with Clay and NanoVG",
+      "href": "https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
+      "title": "Writing a very simple JIT Compiler in about 1000 lines of C",
+      "href": "https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
       "title": "Client-side epub generation",
       "href": "https://little.webby.press/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods",
       "href": "https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "An online searchable reference tool for C intrinsics of all major SIMD engines",
       "href": "https://simd.info/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
+      "index": 20
     },
     {
       "title": "Announcing FOKS, the Federated Open Key Service",
       "href": "https://blog.foks.pub/posts/introducing/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 19
+      "index": 21
+    },
+    {
+      "title": "Closures for Hare",
+      "href": "https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 22
     },
     {
       "title": "Vim Fugitive in action (2021)",
       "href": "https://dzx.fr/blog/introduction-to-vim-fugitive/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Supabase MCP can leak your entire SQL database",
       "href": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Agents don't have agency",
-      "href": "https://kconner.com/2025/07/08/agents-dont-have-agency.html",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 22
-    },
-    {
-      "title": "Two weeks of wayback",
-      "href": "https://ariadne.space/2025/07/07/two-weeks-of-wayback.html",
-      "points": "",
-      "comments": "\n              30 comments",
-      "index": 23
-    },
-    {
-      "title": "Hippocratic License",
-      "href": "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt",
-      "points": "",
-      "comments": "\n              27 comments",
       "index": 24
     },
     {
-      "title": "toml v0.9",
-      "href": "https://epage.github.io/blog/2025/07/toml-09/",
+      "title": "Apple Vs The Law",
+      "href": "https://formularsumo.co.uk/blog/2025/apple-vs-the-law/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
