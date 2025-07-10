@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, July 9, 2025 at 11:30 PM GMT-5",
+  "date": "Thursday, July 10, 2025 at 12:25 AM GMT-5",
   "articles": [
     {
       "title": "Hare by Example",
@@ -19,7 +19,7 @@
       "title": "The Tree Borrows paper is finally published",
       "href": "https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 3
     },
     {
@@ -30,43 +30,43 @@
       "index": 4
     },
     {
+      "title": "Get the location of the ISS using DNS",
+      "href": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 5
+    },
+    {
       "title": "Brut: A New Web Framework for Ruby",
       "href": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 5
+      "index": 6
+    },
+    {
+      "title": "Using fs_usage to see what files a process is using",
+      "href": "https://til.simonwillison.net/macos/fs-usage",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 7
     },
     {
       "title": "How I build software quickly",
       "href": "https://evanhahn.com/how-i-build-software-quickly/",
       "points": "",
       "comments": "\n              32 comments",
-      "index": 6
-    },
-    {
-      "title": "Get the location of the ISS using DNS",
-      "href": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Phrase origin: Why do we “call” functions?",
       "href": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "HyAB k-means for color quantization",
       "href": "https://30fps.net/pages/hyab-kmeans/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 9
-    },
-    {
-      "title": "(Quite) A Few Words About Async",
-      "href": "https://yoric.github.io/post/quite-a-few-words-about-async/",
       "points": "",
       "comments": "\n              3 comments",
       "index": 10
@@ -79,10 +79,10 @@
       "index": 11
     },
     {
-      "title": "Using fs_usage to see what files a process is using",
-      "href": "https://til.simonwillison.net/macos/fs-usage",
+      "title": "(Quite) A Few Words About Async",
+      "href": "https://yoric.github.io/post/quite-a-few-words-about-async/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 12
     },
     {
@@ -93,31 +93,31 @@
       "index": 13
     },
     {
+      "title": "Vim Fugitive in action (2021)",
+      "href": "https://dzx.fr/blog/introduction-to-vim-fugitive/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
       "title": "Summary of the May 2025 TC39 plenary",
       "href": "https://blogs.igalia.com/compilers/2025/07/03/summary-of-the-may-2025-tc39-plenary/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Frame of preference – A history of Mac settings, 1984–2004",
       "href": "https://aresluna.org/frame-of-preference/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Roll your own in-game UI with Clay and NanoVG",
       "href": "https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "Vim Fugitive in action (2021)",
-      "href": "https://dzx.fr/blog/introduction-to-vim-fugitive/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -135,17 +135,17 @@
       "index": 19
     },
     {
-      "title": "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux",
-      "href": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
       "title": "Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods",
       "href": "https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 20
+    },
+    {
+      "title": "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux",
+      "href": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
     },
     {
@@ -170,8 +170,8 @@
       "index": 24
     },
     {
-      "title": "Supabase MCP can leak your entire SQL database",
-      "href": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
+      "title": "Functional Functions - A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas for C",
+      "href": "https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functional%20Functions.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
