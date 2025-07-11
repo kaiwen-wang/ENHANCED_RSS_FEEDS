@@ -1,11 +1,11 @@
 {
-  "date": "Friday, July 11, 2025 at 2:15 PM GMT-5",
+  "date": "Friday, July 11, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Anubis now supports non-JS challenges",
       "href": "https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              25 comments",
       "index": 1
     },
     {
@@ -37,24 +37,24 @@
       "index": 5
     },
     {
+      "title": "Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes",
+      "href": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/",
+      "points": "",
+      "comments": "\n              24 comments",
+      "index": 6
+    },
+    {
       "title": "A remembrance of Matthew S. Trout (mst)",
       "href": "https://curtispoe.org/blog/rip-mst.html",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Building a Simple Router with OpenBSD",
       "href": "https://btxx.org/posts/openbsd-router/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 7
-    },
-    {
-      "title": "Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes",
-      "href": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/",
-      "points": "",
-      "comments": "\n              24 comments",
       "index": 8
     },
     {
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
-      "title": "Postgres LISTEN/NOTIFY does not scale",
-      "href": "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale",
+      "title": "new Date(\"wtf\")",
+      "href": "https://jsdate.wtf/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 12
     },
     {
-      "title": "Cybersecurity Risk Assessment Request",
-      "href": "https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/",
+      "title": "Wasm the Hard Way: Porting the Chicory Compiler to Android",
+      "href": "https://blog.evacchi.dev/posts/2025/07/11/wasm-the-hard-way-porting-the-chicory-compiler-to-android/",
       "points": "",
       "comments": "\n              no comments",
       "index": 13
     },
     {
-      "title": "Jai Demo and Design Explanation",
-      "href": "https://www.youtube.com/watch?v=IdpD5QIVOKQ",
+      "title": "Postgres LISTEN/NOTIFY does not scale",
+      "href": "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              5 comments",
       "index": 14
-    },
-    {
-      "title": "Lessons From Creating My First Text Adventure",
-      "href": "https://entropicthoughts.com/lessons-from-creating-first-text-adventure",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 15
-    },
-    {
-      "title": "Not So Fast: AI Coding Tools Can Actually Reduce Productivity",
-      "href": "https://secondthoughts.ai/p/ai-coding-slowdown",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "Mill Build Tool v1.0.0 Release Highlights",
-      "href": "https://mill-build.org/blog/13-mill-build-tool-v1-0-0.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 17
-    },
-    {
-      "title": "Efficiency of a sparse hash table",
-      "href": "https://ashutoshpg.blogspot.com/2025/07/efficiency-of-sparse-hash-table.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
     },
     {
       "title": "EVTX Viewer - Windows Event Log Explorer",
       "href": "https://omerbenamram.github.io/evtx/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
+      "title": "Cybersecurity Risk Assessment Request",
+      "href": "https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Efficiency of a sparse hash table",
+      "href": "https://ashutoshpg.blogspot.com/2025/07/efficiency-of-sparse-hash-table.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Measuring power network frequency using junk you have in your closet",
+      "href": "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Placing functions",
+      "href": "https://blog.yoshuawuyts.com/placing-functions/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 19
+    },
+    {
+      "title": "Jai Demo and Design Explanation",
+      "href": "https://www.youtube.com/watch?v=IdpD5QIVOKQ",
+      "points": "",
+      "comments": "\n              30 comments",
+      "index": 20
+    },
+    {
+      "title": "Lessons From Creating My First Text Adventure",
+      "href": "https://entropicthoughts.com/lessons-from-creating-first-text-adventure",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "Not So Fast: AI Coding Tools Can Actually Reduce Productivity",
+      "href": "https://secondthoughts.ai/p/ai-coding-slowdown",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 22
+    },
+    {
+      "title": "Mill Build Tool v1.0.0 Release Highlights",
+      "href": "https://mill-build.org/blog/13-mill-build-tool-v1-0-0.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 23
     },
     {
       "title": "What's //go:nosplit for?",
       "href": "https://mcyoung.xyz/2025/07/07/nosplit/",
       "points": "",
-      "comments": "\n              10 comments",
-      "index": 20
+      "comments": "\n              11 comments",
+      "index": 24
     },
     {
       "title": "Vibe Coding Casino: Rise of programming by slot machine",
       "href": "https://evrim.zone/blog/opinion/vibes_casino",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 21
-    },
-    {
-      "title": "Writing an IR from Scratch and survive to write a post",
-      "href": "https://farena.in/compilers/programming/writing-an-ir-from-scratch/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Intermediaries in Network-based Ecosystems",
-      "href": "https://mydata.org/2025/07/04/intermediaries-in-network-based-ecosystems/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "About Clew",
-      "href": "https://clew.se/about/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 24
-    },
-    {
-      "title": "Hare by Example",
-      "href": "https://harebyexample.org",
-      "points": "",
-      "comments": "\n              36 comments",
       "index": 25
     }
   ]
