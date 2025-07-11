@@ -1,11 +1,11 @@
 {
-  "date": "Friday, July 11, 2025 at 8:30 AM GMT-5",
+  "date": "Friday, July 11, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Anubis now supports non-JS challenges",
       "href": "https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              13 comments",
       "index": 1
     },
     {
@@ -37,45 +37,45 @@
       "index": 5
     },
     {
+      "title": "Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes",
+      "href": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 6
+    },
+    {
       "title": "What are you doing this weekend?",
       "href": "/s/dtj5hr/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 6
+      "comments": "\n              9 comments",
+      "index": 7
+    },
+    {
+      "title": "Clustered PostgreSQL",
+      "href": "https://arch.dog/bark/clustered-postgresql",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
+    },
+    {
+      "title": "Jai Demo and Design Explanation",
+      "href": "https://www.youtube.com/watch?v=IdpD5QIVOKQ",
+      "points": "",
+      "comments": "\n              22 comments",
+      "index": 9
     },
     {
       "title": "Lessons From Creating My First Text Adventure",
       "href": "https://entropicthoughts.com/lessons-from-creating-first-text-adventure",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 7
-    },
-    {
-      "title": "Jai Demo and Design Explanation",
-      "href": "https://www.youtube.com/watch?v=IdpD5QIVOKQ",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 8
+      "index": 10
     },
     {
       "title": "What's //go:nosplit for?",
       "href": "https://mcyoung.xyz/2025/07/07/nosplit/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 9
-    },
-    {
-      "title": "Vibe Coding Casino: Rise of programming by slot machine",
-      "href": "https://evrim.zone/blog/opinion/vibes_casino",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 10
-    },
-    {
-      "title": "Postgres LISTEN/NOTIFY does not scale",
-      "href": "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 11
     },
     {
@@ -86,94 +86,94 @@
       "index": 12
     },
     {
-      "title": "AI integration services - no code rewrite",
-      "href": "https://keith-mifsud.me/ai-integration-services",
+      "title": "Postgres LISTEN/NOTIFY does not scale",
+      "href": "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 13
+    },
+    {
+      "title": "Vibe Coding Casino: Rise of programming by slot machine",
+      "href": "https://evrim.zone/blog/opinion/vibes_casino",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 14
+    },
+    {
+      "title": "Intermediaries in Network-based Ecosystems",
+      "href": "https://mydata.org/2025/07/04/intermediaries-in-network-based-ecosystems/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 15
     },
     {
       "title": "Writing an IR from Scratch and survive to write a post",
       "href": "https://farena.in/compilers/programming/writing-an-ir-from-scratch/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 16
     },
     {
       "title": "About Clew",
       "href": "https://clew.se/about/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 15
+      "index": 17
     },
     {
       "title": "Hare by Example",
       "href": "https://harebyexample.org",
       "points": "",
       "comments": "\n              36 comments",
-      "index": 16
-    },
-    {
-      "title": "Lossless float image compression",
-      "href": "https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Multi-player Durable Stream Playground",
-      "href": "https://s2.dev/playground",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 18
-    },
-    {
-      "title": "Concurrent Programming with Harmony",
-      "href": "https://harmony.cs.cornell.edu/book/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
-    },
-    {
-      "title": "Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes",
-      "href": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Kubernetes is not just for Black Friday",
-      "href": "https://ergaster.org/posts/2025/07/09-kubernetes-black-friday/",
-      "points": "",
-      "comments": "\n              26 comments",
-      "index": 21
     },
     {
       "title": "Mill Build Tool v1.0.0 Release Highlights",
       "href": "https://mill-build.org/blog/13-mill-build-tool-v1-0-0.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Lossless float image compression",
+      "href": "https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Multi-player Durable Stream Playground",
+      "href": "https://s2.dev/playground",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 21
+    },
+    {
+      "title": "Concurrent Programming with Harmony",
+      "href": "https://harmony.cs.cornell.edu/book/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 22
+    },
+    {
+      "title": "Kubernetes is not just for Black Friday",
+      "href": "https://ergaster.org/posts/2025/07/09-kubernetes-black-friday/",
+      "points": "",
+      "comments": "\n              26 comments",
+      "index": 23
     },
     {
       "title": "Computer Scientists Figure Out How To Prove Lies",
       "href": "https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "CoverDrop: Blowing the Whistle Through A News App",
       "href": "https://www.coverdrop.org/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "Not So Fast: AI Coding Tools Can Actually Reduce Productivity",
-      "href": "https://secondthoughts.ai/p/ai-coding-slowdown",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
