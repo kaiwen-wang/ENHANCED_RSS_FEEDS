@@ -1,53 +1,53 @@
 {
-  "date": "Saturday, July 12, 2025 at 5:20 AM GMT-5",
+  "date": "Saturday, July 12, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "new Date(\"wtf\")",
       "href": "https://jsdate.wtf/",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              30 comments",
       "index": 1
     },
     {
       "title": "jank is C++",
       "href": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 2
     },
     {
-      "title": "Anubis now supports non-JS challenges",
-      "href": "https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge",
+      "title": "Faking a JPEG",
+      "href": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              3 comments",
       "index": 3
+    },
+    {
+      "title": "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
+      "href": "https://github.com/vpetersson/dslf",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 4
     },
     {
       "title": "Building a Simple Router with OpenBSD",
       "href": "https://btxx.org/posts/openbsd-router/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 4
-    },
-    {
-      "title": "Faking a JPEG",
-      "href": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 5
     },
     {
-      "title": "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
-      "href": "https://github.com/vpetersson/dslf",
+      "title": "Anubis now supports non-JS challenges",
+      "href": "https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              27 comments",
       "index": 6
     },
     {
       "title": "Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes",
       "href": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/",
       "points": "",
-      "comments": "\n              39 comments",
+      "comments": "\n              43 comments",
       "index": 7
     },
     {
@@ -96,7 +96,7 @@
       "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
       "href": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
       "points": "",
-      "comments": "\n              42 comments",
+      "comments": "\n              43 comments",
       "index": 14
     },
     {
@@ -110,7 +110,7 @@
       "title": "Cybersecurity Risk Assessment Request",
       "href": "https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 16
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
-      "title": "Monitoring my Homelab, Simply",
-      "href": "https://b.tuxes.uk/simple-homelab-monitoring.html",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 19
-    },
-    {
-      "title": "Efficiency of a sparse hash table",
-      "href": "https://ashutoshpg.blogspot.com/2025/07/efficiency-of-sparse-hash-table.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "WatchWitch: Interoperability, Privacy, and Autonomy for the Apple Watch",
-      "href": "https://arxiv.org/abs/2507.07210",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Postgres LISTEN/NOTIFY does not scale",
-      "href": "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 22
-    },
-    {
       "title": "EVTX Viewer - Windows Event Log Explorer",
       "href": "https://omerbenamram.github.io/evtx/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
+      "index": 19
     },
     {
-      "title": "sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware",
-      "href": "https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware",
+      "title": "Monitoring my Homelab, Simply",
+      "href": "https://b.tuxes.uk/simple-homelab-monitoring.html",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 24
+      "comments": "\n              16 comments",
+      "index": 20
     },
     {
       "title": "Not So Fast: AI Coding Tools Can Actually Reduce Productivity",
       "href": "https://secondthoughts.ai/p/ai-coding-slowdown",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "Efficiency of a sparse hash table",
+      "href": "https://ashutoshpg.blogspot.com/2025/07/efficiency-of-sparse-hash-table.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Postgres LISTEN/NOTIFY does not scale",
+      "href": "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 23
+    },
+    {
+      "title": "WatchWitch: Interoperability, Privacy, and Autonomy for the Apple Watch",
+      "href": "https://arxiv.org/abs/2507.07210",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
+    },
+    {
+      "title": "sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware",
+      "href": "https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
