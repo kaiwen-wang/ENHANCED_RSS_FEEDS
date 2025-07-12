@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, July 12, 2025 at 4:20 AM GMT-5",
+  "date": "Saturday, July 12, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
       "title": "new Date(\"wtf\")",
       "href": "https://jsdate.wtf/",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              28 comments",
       "index": 1
     },
     {
@@ -37,24 +37,24 @@
       "index": 5
     },
     {
+      "title": "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
+      "href": "https://github.com/vpetersson/dslf",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
       "title": "Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes",
       "href": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/",
       "points": "",
-      "comments": "\n              38 comments",
-      "index": 6
+      "comments": "\n              39 comments",
+      "index": 7
     },
     {
       "title": "Clustered PostgreSQL",
       "href": "https://arch.dog/bark/clustered-postgresql",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 7
-    },
-    {
-      "title": "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
-      "href": "https://github.com/vpetersson/dslf",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 8
     },
     {
@@ -86,24 +86,24 @@
       "index": 12
     },
     {
+      "title": "Rethinking our Adoption Strategy",
+      "href": "https://www.youtube.com/watch?v=YPAaUFGrlEE",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 13
+    },
+    {
       "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
       "href": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
       "points": "",
-      "comments": "\n              40 comments",
-      "index": 13
+      "comments": "\n              42 comments",
+      "index": 14
     },
     {
       "title": "A remembrance of Matthew S. Trout (mst)",
       "href": "https://curtispoe.org/blog/rip-mst.html",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 14
-    },
-    {
-      "title": "Rethinking our Adoption Strategy",
-      "href": "https://www.youtube.com/watch?v=YPAaUFGrlEE",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 15
     },
     {
@@ -156,17 +156,17 @@
       "index": 22
     },
     {
-      "title": "sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware",
-      "href": "https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
       "title": "EVTX Viewer - Windows Event Log Explorer",
       "href": "https://omerbenamram.github.io/evtx/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 23
+    },
+    {
+      "title": "sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware",
+      "href": "https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
