@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, July 12, 2025 at 10:40 PM GMT-5",
+  "date": "Saturday, July 12, 2025 at 11:35 PM GMT-5",
   "articles": [
     {
       "title": "Zig's New Async I/O",
       "href": "https://kristoff.it/blog/zig-new-async-io/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 1
     },
     {
@@ -16,17 +16,17 @@
       "index": 2
     },
     {
-      "title": "new Date(\"wtf\")",
-      "href": "https://jsdate.wtf/",
-      "points": "",
-      "comments": "\n              48 comments",
-      "index": 3
-    },
-    {
       "title": "Simple live reload for developing static sites",
       "href": "https://leanrada.com/notes/simple-live-reload/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 3
+    },
+    {
+      "title": "new Date(\"wtf\")",
+      "href": "https://jsdate.wtf/",
+      "points": "",
+      "comments": "\n              48 comments",
       "index": 4
     },
     {
@@ -65,43 +65,43 @@
       "index": 9
     },
     {
+      "title": "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
+      "href": "https://github.com/vpetersson/dslf",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 10
+    },
+    {
       "title": "jank is C++",
       "href": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Faking a JPEG",
       "href": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 11
+      "index": 12
+    },
+    {
+      "title": "Haunted by Legacy: Discovering and Exploiting Vulnerable Tunnelling Hosts",
+      "href": "https://github.com/vanhoefm/tunneltester",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
     },
     {
       "title": "Hacking coroutines into C",
       "href": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
-      "href": "https://github.com/vpetersson/dslf",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "angr (open-source binary analysis platform for Python)",
       "href": "https://angr.io/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "Haunted by Legacy: Discovering and Exploiting Vulnerable Tunnelling Hosts",
-      "href": "https://github.com/vanhoefm/tunneltester",
       "points": "",
       "comments": "\n              no comments",
       "index": 15
@@ -110,7 +110,7 @@
       "title": "Building a Simple Router with OpenBSD",
       "href": "https://btxx.org/posts/openbsd-router/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 16
     },
     {
@@ -145,7 +145,7 @@
       "title": "Measuring power network frequency using junk you have in your closet",
       "href": "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 21
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "Placing functions",
-      "href": "https://blog.yoshuawuyts.com/placing-functions/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
       "title": "Cybersecurity Risk Assessment Request",
       "href": "https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/",
       "points": "",
       "comments": "\n              8 comments",
+      "index": 24
+    },
+    {
+      "title": "Placing functions",
+      "href": "https://blog.yoshuawuyts.com/placing-functions/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
