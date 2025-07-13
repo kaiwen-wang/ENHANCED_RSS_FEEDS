@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, July 13, 2025 at 6:15 AM GMT-5",
+  "date": "Sunday, July 13, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "Zig's New Async I/O",
@@ -12,7 +12,7 @@
       "title": "Migrating my NAS from CoreOS/Flatcar Linux to NixOS",
       "href": "https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
       "index": 2
     },
     {
@@ -33,19 +33,19 @@
       "title": "Don't animate height",
       "href": "https://www.granola.ai/blog/dont-animate-height",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 5
-    },
-    {
-      "title": "Working through ‘Writing A C Compiler’",
-      "href": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 6
     },
     {
       "title": "Easy dynamic dispatch using GLIBC Hardware Capabilities",
       "href": "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 6
+    },
+    {
+      "title": "Working through ‘Writing A C Compiler’",
+      "href": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/",
       "points": "",
       "comments": "\n              5 comments",
       "index": 7
@@ -65,10 +65,10 @@
       "index": 9
     },
     {
-      "title": "new Date(\"wtf\")",
-      "href": "https://jsdate.wtf/",
+      "title": "perldelta - what is new for perl v5.42.0",
+      "href": "https://perldoc.perl.org/perldelta",
       "points": "",
-      "comments": "\n              50 comments",
+      "comments": "\n              1 comment",
       "index": 10
     },
     {
@@ -79,24 +79,24 @@
       "index": 11
     },
     {
+      "title": "new Date(\"wtf\")",
+      "href": "https://jsdate.wtf/",
+      "points": "",
+      "comments": "\n              50 comments",
+      "index": 12
+    },
+    {
       "title": "dict-unpacking-at-home: can we have dict unpacking in python?",
       "href": "https://github.com/asottile/dict-unpacking-at-home",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "perldelta - what is new for perl v5.42.0",
-      "href": "https://perldoc.perl.org/perldelta",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 13
     },
     {
       "title": "Hacking coroutines into C",
       "href": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 14
     },
     {
@@ -114,29 +114,29 @@
       "index": 16
     },
     {
+      "title": "Haunted by Legacy: Discovering and Exploiting Vulnerable Tunnelling Hosts",
+      "href": "https://github.com/vanhoefm/tunneltester",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
       "title": "angr (open-source binary analysis platform for Python)",
       "href": "https://angr.io/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "jank is C++",
       "href": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
       "href": "https://github.com/aeron-io/aeron",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Haunted by Legacy: Discovering and Exploiting Vulnerable Tunnelling Hosts",
-      "href": "https://github.com/vanhoefm/tunneltester",
       "points": "",
       "comments": "\n              no comments",
       "index": 20
