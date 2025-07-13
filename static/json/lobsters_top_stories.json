@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, July 13, 2025 at 12:20 AM GMT-5",
+  "date": "Sunday, July 13, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "Zig's New Async I/O",
       "href": "https://kristoff.it/blog/zig-new-async-io/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 1
     },
     {
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
-      "title": "Dyson Sphere Program's new multithreading framework",
-      "href": "https://store.steampowered.com/news/app/1366540/view/543361383085900510",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 5
-    },
-    {
       "title": "How I found a bypass in Google's big anti-adblock update",
       "href": "https://0x44.xyz/blog/web-request-blocking/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 6
+      "index": 5
     },
     {
       "title": "Don't animate height",
       "href": "https://www.granola.ai/blog/dont-animate-height",
       "points": "",
       "comments": "\n              6 comments",
+      "index": 6
+    },
+    {
+      "title": "Dyson Sphere Program's new multithreading framework",
+      "href": "https://store.steampowered.com/news/app/1366540/view/543361383085900510",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 7
     },
     {
@@ -65,52 +65,52 @@
       "index": 9
     },
     {
+      "title": "Migrating my NAS from CoreOS/Flatcar Linux to NixOS",
+      "href": "https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "Hacking coroutines into C",
+      "href": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 11
+    },
+    {
       "title": "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
       "href": "https://github.com/vpetersson/dslf",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 10
+      "index": 12
     },
     {
       "title": "Faking a JPEG",
       "href": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 11
+      "index": 13
     },
     {
       "title": "jank is C++",
       "href": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 12
+      "index": 14
     },
     {
       "title": "Haunted by Legacy: Discovering and Exploiting Vulnerable Tunnelling Hosts",
       "href": "https://github.com/vanhoefm/tunneltester",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Hacking coroutines into C",
-      "href": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
+      "index": 15
     },
     {
       "title": "angr (open-source binary analysis platform for Python)",
       "href": "https://angr.io/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Building a Simple Router with OpenBSD",
-      "href": "https://btxx.org/posts/openbsd-router/",
-      "points": "",
-      "comments": "\n              14 comments",
       "index": 16
     },
     {
@@ -121,52 +121,52 @@
       "index": 17
     },
     {
+      "title": "Building a Simple Router with OpenBSD",
+      "href": "https://btxx.org/posts/openbsd-router/",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 18
+    },
+    {
       "title": "Hanami and the elephant in the room",
       "href": "https://hanamirb.org/blog/2025/07/11/hanami-and-the-elephant-in-the-room/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Anubis now supports non-JS challenges",
       "href": "https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge",
       "points": "",
       "comments": "\n              28 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "sca-fuzzer: Revizor - a fuzzer to search for microarchitectural leaks in CPUs",
       "href": "https://github.com/microsoft/sca-fuzzer",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Measuring power network frequency using junk you have in your closet",
       "href": "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes",
       "href": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/",
       "points": "",
       "comments": "\n              51 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Clustered PostgreSQL",
       "href": "https://arch.dog/bark/clustered-postgresql",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 23
-    },
-    {
-      "title": "Cybersecurity Risk Assessment Request",
-      "href": "https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/",
-      "points": "",
-      "comments": "\n              9 comments",
       "index": 24
     },
     {
