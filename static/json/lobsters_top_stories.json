@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, July 13, 2025 at 8:30 AM GMT-5",
+  "date": "Sunday, July 13, 2025 at 9:15 AM GMT-5",
   "articles": [
     {
       "title": "Zig's New Async I/O",
       "href": "https://kristoff.it/blog/zig-new-async-io/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              17 comments",
       "index": 1
     },
     {
       "title": "Migrating my NAS from CoreOS/Flatcar Linux to NixOS",
       "href": "https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 2
     },
     {
@@ -26,49 +26,49 @@
       "title": "Simple live reload for developing static sites",
       "href": "https://leanrada.com/notes/simple-live-reload/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 4
+    },
+    {
+      "title": "constrained languages are easier to optimize",
+      "href": "https://jyn.dev/constrained-languages-are-easier-to-optimize/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 5
     },
     {
       "title": "Don't animate height",
       "href": "https://www.granola.ai/blog/dont-animate-height",
       "points": "",
-      "comments": "\n              10 comments",
-      "index": 5
+      "comments": "\n              11 comments",
+      "index": 6
     },
     {
       "title": "The Design and Implementation of Extensible Records for Rust in CGP",
       "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-3/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 6
-    },
-    {
-      "title": "constrained languages are easier to optimize",
-      "href": "https://jyn.dev/constrained-languages-are-easier-to-optimize/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 7
-    },
-    {
-      "title": "Easy dynamic dispatch using GLIBC Hardware Capabilities",
-      "href": "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 8
-    },
-    {
-      "title": "Working through ‘Writing A C Compiler’",
-      "href": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 9
     },
     {
       "title": "perldelta - what is new for perl v5.42.0",
       "href": "https://perldoc.perl.org/perldelta",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
+      "title": "Easy dynamic dispatch using GLIBC Hardware Capabilities",
+      "href": "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 9
+    },
+    {
+      "title": "Working through ‘Writing A C Compiler’",
+      "href": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 10
     },
     {
@@ -82,14 +82,14 @@
       "title": "new Date(\"wtf\")",
       "href": "https://jsdate.wtf/",
       "points": "",
-      "comments": "\n              50 comments",
+      "comments": "\n              51 comments",
       "index": 12
     },
     {
       "title": "Hacking coroutines into C",
       "href": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
+      "title": "Local Chatbot RAG with FreeBSD Knowledge",
+      "href": "https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
       "title": "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
       "href": "https://github.com/vpetersson/dslf",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Faking a JPEG",
       "href": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Haunted by Legacy: Discovering and Exploiting Vulnerable Tunnelling Hosts",
       "href": "https://github.com/vanhoefm/tunneltester",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "angr (open-source binary analysis platform for Python)",
       "href": "https://angr.io/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "jank is C++",
       "href": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
       "href": "https://github.com/aeron-io/aeron",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Building a Simple Router with OpenBSD",
       "href": "https://btxx.org/posts/openbsd-router/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Hanami and the elephant in the room",
       "href": "https://hanamirb.org/blog/2025/07/11/hanami-and-the-elephant-in-the-room/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Measuring power network frequency using junk you have in your closet",
       "href": "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Anubis now supports non-JS challenges",
       "href": "https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge",
       "points": "",
       "comments": "\n              29 comments",
-      "index": 24
-    },
-    {
-      "title": "sca-fuzzer: Revizor - a fuzzer to search for microarchitectural leaks in CPUs",
-      "href": "https://github.com/microsoft/sca-fuzzer",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
