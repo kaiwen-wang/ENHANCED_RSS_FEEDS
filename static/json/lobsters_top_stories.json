@@ -1,25 +1,25 @@
 {
-  "date": "Monday, July 14, 2025 at 12:25 AM GMT-5",
+  "date": "Monday, July 14, 2025 at 1:35 AM GMT-5",
   "articles": [
     {
       "title": "Programming Language Theory has a public relations problem",
       "href": "https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              8 comments",
       "index": 1
     },
     {
       "title": "Store tags after payloads",
       "href": "https://www.scattered-thoughts.net/writing/store-tags-after-payloads/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 2
     },
     {
       "title": "Zig's New Async I/O",
       "href": "https://kristoff.it/blog/zig-new-async-io/",
       "points": "",
-      "comments": "\n              39 comments",
+      "comments": "\n              40 comments",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "Migrating my NAS from CoreOS/Flatcar Linux to NixOS",
       "href": "https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 5
     },
     {
@@ -51,59 +51,59 @@
       "index": 7
     },
     {
+      "title": "Improving AVIF in Open Source",
+      "href": "https://halide.cx/blog/improving-avif-in-open-source/index.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
+    },
+    {
       "title": "How I found a bypass in Google's big anti-adblock update",
       "href": "https://0x44.xyz/blog/web-request-blocking/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Notes on Graham's ANSI Common Lisp",
       "href": "https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: A RBTree Family Drama (Part One)",
       "href": "https://syst3mfailure.io/rbtree-family-drama/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Let's Learn x86-64 Assembly! Part 0 - Setup and First Steps",
       "href": "https://gpfault.net/posts/asm-tut-0.txt.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Simple live reload for developing static sites",
       "href": "https://leanrada.com/notes/simple-live-reload/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "perldelta - what is new for perl v5.42.0",
       "href": "https://perldoc.perl.org/5.42.0/perldelta",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "Haiku Activity & Contract Report, June 2025",
-      "href": "https://www.haiku-os.org/blog/waddlesplash/2025-07-12-haiku_activity_contract_report_june_2025/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
     },
     {
-      "title": "constrained languages are easier to optimize",
-      "href": "https://jyn.dev/constrained-languages-are-easier-to-optimize/",
+      "title": "How does a screen work?",
+      "href": "https://www.makingsoftware.com/chapters/how-a-screen-works",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              no comments",
       "index": 15
     },
     {
@@ -114,64 +114,64 @@
       "index": 16
     },
     {
+      "title": "constrained languages are easier to optimize",
+      "href": "https://jyn.dev/constrained-languages-are-easier-to-optimize/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 17
+    },
+    {
+      "title": "Haiku Activity & Contract Report, June 2025",
+      "href": "https://www.haiku-os.org/blog/waddlesplash/2025-07-12-haiku_activity_contract_report_june_2025/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Stepanov’s biggest blunder",
+      "href": "https://mmapped.blog/posts/43-stepanovs-biggest-blunder",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "C-: A Portable Assembly Language (1997)",
+      "href": "https://www.microsoft.com/en-us/research/publication/c-a-portable-assembly-language/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
       "title": "Don't animate height",
       "href": "https://www.granola.ai/blog/dont-animate-height",
       "points": "",
       "comments": "\n              21 comments",
-      "index": 17
+      "index": 21
+    },
+    {
+      "title": "FairLight TV #127, $D011 Mayhem",
+      "href": "https://www.youtube.com/watch?v=0KhH4YrUsXo",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "The Design and Implementation of Extensible Records for Rust in CGP",
       "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-3/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 18
-    },
-    {
-      "title": "Bringing Virtualization to the x86 Architecture with the Original VMware Workstation (2012)",
-      "href": "https://web.archive.org/web/20250603150137if_/http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
-    },
-    {
-      "title": "Local Chatbot RAG with FreeBSD Knowledge",
-      "href": "https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Linux Kernel Pipapo Set Double Free LPE",
       "href": "https://ssd-disclosure.com/ssd-advisory-linux-kernel-pipapo-set-double-free-lpe/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Working through ‘Writing A C Compiler’",
-      "href": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 22
-    },
-    {
-      "title": "Easy dynamic dispatch using GLIBC Hardware Capabilities",
-      "href": "https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 23
-    },
-    {
-      "title": "Hacking coroutines into C",
-      "href": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
-      "points": "",
-      "comments": "\n              10 comments",
       "index": 24
     },
     {
-      "title": "dict-unpacking-at-home: can we have dict unpacking in python?",
-      "href": "https://github.com/asottile/dict-unpacking-at-home",
+      "title": "Bringing Virtualization to the x86 Architecture with the Original VMware Workstation (2012)",
+      "href": "https://web.archive.org/web/20250603150137if_/http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf",
       "points": "",
       "comments": "\n              1 comment",
       "index": 25
