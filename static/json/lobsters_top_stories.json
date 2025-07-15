@@ -1,32 +1,32 @@
 {
-  "date": "Tuesday, July 15, 2025 at 11:25 AM GMT-5",
+  "date": "Tuesday, July 15, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "Death by a thousand slops",
       "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              5 comments",
       "index": 1
     },
     {
       "title": "OpenZFS Bug Ported to Zig",
       "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              10 comments",
       "index": 2
     },
     {
       "title": "Trying Guix: A Nixer's Impressions",
       "href": "https://tazj.in/blog/trying-guix",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 3
     },
     {
       "title": "How I keep up with AI progress",
       "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
       "index": 4
     },
     {
@@ -58,36 +58,36 @@
       "index": 8
     },
     {
+      "title": "Adding lookbehinds to rust-lang/regex",
+      "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
       "title": "Diving into Plasma Bigscreen",
       "href": "https://espi.dev/posts/2025/07/plasma-bigscreen/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 9
-    },
-    {
-      "title": "Using Elm in 2025",
-      "href": "https://engagesoftware.com/news/post/7033/using-elm-in-2025",
-      "points": "",
-      "comments": "\n              16 comments",
       "index": 10
     },
     {
-      "title": "Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang",
-      "href": "https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333",
+      "title": "Game of Trees Hub",
+      "href": "https://gothub.org/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 11
     },
     {
-      "title": "Ten years of running every day, visualized",
-      "href": "https://nodaysoff.run/",
+      "title": "Using Elm in 2025",
+      "href": "https://engagesoftware.com/news/post/7033/using-elm-in-2025",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              19 comments",
       "index": 12
     },
     {
-      "title": "Game of Trees Hub",
-      "href": "https://gothub.org/",
+      "title": "Poor man's bitemporal data system in SQLite and Clojure",
+      "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 13
@@ -96,84 +96,84 @@
       "title": "Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)",
       "href": "https://benbridle.com/projects/bedrock.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 14
     },
     {
-      "title": "The hunt for a perfect laptop continues",
-      "href": "https://pointieststick.com/2025/07/13/the-hunt-for-a-perfect-laptop-continues/",
+      "title": "Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang",
+      "href": "https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333",
       "points": "",
-      "comments": "\n              96 comments",
+      "comments": "\n              1 comment",
       "index": 15
     },
     {
-      "title": "Introducing TCP-in-UDP solution (eBPF)",
-      "href": "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html",
+      "title": "Ten years of running every day, visualized",
+      "href": "https://nodaysoff.run/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              21 comments",
       "index": 16
-    },
-    {
-      "title": "PHP RFC: Switching to 3-clause BSD licence",
-      "href": "https://wiki.php.net/rfc/php_license_update",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 17
-    },
-    {
-      "title": "A distributed systems reliability glossary",
-      "href": "https://antithesis.com/resources/reliability_glossary/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
     },
     {
       "title": "How to Get Foreign Keys Horribly Wrong",
       "href": "https://hakibenita.com/django-foreign-keys",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "The hunt for a perfect laptop continues",
+      "href": "https://pointieststick.com/2025/07/13/the-hunt-for-a-perfect-laptop-continues/",
+      "points": "",
+      "comments": "\n              96 comments",
+      "index": 18
+    },
+    {
+      "title": "Introducing TCP-in-UDP solution (eBPF)",
+      "href": "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 19
     },
     {
-      "title": "Poor man's bitemporal data system in SQLite and Clojure",
-      "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
+      "title": "PHP RFC: Switching to 3-clause BSD licence",
+      "href": "https://wiki.php.net/rfc/php_license_update",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 20
+    },
+    {
+      "title": "A distributed systems reliability glossary",
+      "href": "https://antithesis.com/resources/reliability_glossary/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Bash patch - Add shopt for implicit && in place of ; for functions end of lines",
       "href": "https://savannah.gnu.org/patch/?10534",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Store tags after payloads",
       "href": "https://www.scattered-thoughts.net/writing/store-tags-after-payloads/",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "you are in a box",
       "href": "https://jyn.dev/you-are-in-a-box/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Packages proxies",
       "href": "https://blog.garambrogne.net/packages-proxies-en.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Data alignment for speed: myth or reality? (2012)",
-      "href": "https://lemire.me/blog/2012/05/31/data-alignment-for-speed-myth-or-reality/",
-      "points": "",
-      "comments": "\n              22 comments",
       "index": 25
     }
   ]
