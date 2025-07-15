@@ -1,95 +1,95 @@
 {
-  "date": "Tuesday, July 15, 2025 at 10:20 AM GMT-5",
+  "date": "Tuesday, July 15, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
-      "title": "Trying Guix: A Nixer's Impressions",
-      "href": "https://tazj.in/blog/trying-guix",
+      "title": "Death by a thousand slops",
+      "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              3 comments",
       "index": 1
-    },
-    {
-      "title": "How I keep up with AI progress",
-      "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 2
     },
     {
       "title": "OpenZFS Bug Ported to Zig",
       "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              6 comments",
+      "index": 2
+    },
+    {
+      "title": "Trying Guix: A Nixer's Impressions",
+      "href": "https://tazj.in/blog/trying-guix",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 3
     },
     {
-      "title": "Death by a thousand slops",
-      "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
+      "title": "How I keep up with AI progress",
+      "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              7 comments",
       "index": 4
+    },
+    {
+      "title": "The sound of inevitability",
+      "href": "https://tomrenner.com/posts/llm-inevitabilism/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 5
     },
     {
       "title": "Automerge 3.0",
       "href": "https://automerge.github.io/blog/automerge-3/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Panasonic + OpenBSD = <3",
       "href": "https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "The Best C++ Library",
       "href": "https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 7
+      "comments": "\n              12 comments",
+      "index": 8
     },
     {
       "title": "Diving into Plasma Bigscreen",
       "href": "https://espi.dev/posts/2025/07/plasma-bigscreen/",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 8
+      "comments": "\n              4 comments",
+      "index": 9
     },
     {
       "title": "Using Elm in 2025",
       "href": "https://engagesoftware.com/news/post/7033/using-elm-in-2025",
       "points": "",
-      "comments": "\n              15 comments",
-      "index": 9
-    },
-    {
-      "title": "The sound of inevitability",
-      "href": "https://tomrenner.com/posts/llm-inevitabilism/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              16 comments",
       "index": 10
-    },
-    {
-      "title": "Ten years of running every day, visualized",
-      "href": "https://nodaysoff.run/",
-      "points": "",
-      "comments": "\n              21 comments",
-      "index": 11
     },
     {
       "title": "Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang",
       "href": "https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 11
+    },
+    {
+      "title": "Ten years of running every day, visualized",
+      "href": "https://nodaysoff.run/",
+      "points": "",
+      "comments": "\n              21 comments",
       "index": 12
     },
     {
-      "title": "The hunt for a perfect laptop continues",
-      "href": "https://pointieststick.com/2025/07/13/the-hunt-for-a-perfect-laptop-continues/",
+      "title": "Game of Trees Hub",
+      "href": "https://gothub.org/",
       "points": "",
-      "comments": "\n              96 comments",
+      "comments": "\n              no comments",
       "index": 13
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "PHP RFC: Switching to 3-clause BSD licence",
-      "href": "https://wiki.php.net/rfc/php_license_update",
+      "title": "The hunt for a perfect laptop continues",
+      "href": "https://pointieststick.com/2025/07/13/the-hunt-for-a-perfect-laptop-continues/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              96 comments",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "Game of Trees Hub",
-      "href": "https://gothub.org/",
+      "title": "PHP RFC: Switching to 3-clause BSD licence",
+      "href": "https://wiki.php.net/rfc/php_license_update",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 17
+    },
+    {
+      "title": "A distributed systems reliability glossary",
+      "href": "https://antithesis.com/resources/reliability_glossary/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "How to Get Foreign Keys Horribly Wrong",
       "href": "https://hakibenita.com/django-foreign-keys",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Poor man's bitemporal data system in SQLite and Clojure",
       "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Store tags after payloads",
-      "href": "https://www.scattered-thoughts.net/writing/store-tags-after-payloads/",
-      "points": "",
-      "comments": "\n              19 comments",
       "index": 20
     },
     {
       "title": "Bash patch - Add shopt for implicit && in place of ; for functions end of lines",
       "href": "https://savannah.gnu.org/patch/?10534",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              20 comments",
       "index": 21
+    },
+    {
+      "title": "Store tags after payloads",
+      "href": "https://www.scattered-thoughts.net/writing/store-tags-after-payloads/",
+      "points": "",
+      "comments": "\n              19 comments",
+      "index": 22
     },
     {
       "title": "you are in a box",
       "href": "https://jyn.dev/you-are-in-a-box/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Packages proxies",
       "href": "https://blog.garambrogne.net/packages-proxies-en.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Data alignment for speed: myth or reality? (2012)",
       "href": "https://lemire.me/blog/2012/05/31/data-alignment-for-speed-myth-or-reality/",
       "points": "",
-      "comments": "\n              21 comments",
-      "index": 24
-    },
-    {
-      "title": "Guessing the player's sunrise",
-      "href": "https://docs.getlost.gg/latest/blog/sun-time/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              22 comments",
       "index": 25
     }
   ]
