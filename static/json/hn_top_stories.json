@@ -1,214 +1,214 @@
 {
-  "date": "Tuesday, July 15, 2025 at 3:30 AM GMT-5",
+  "date": "Tuesday, July 15, 2025 at 4:30 AM GMT-5",
   "articles": [
     {
       "title": "LLM Inevitabilism",
       "href": "https://tomrenner.com/posts/llm-inevitabilism/",
-      "points": "403 points",
-      "comments": "376 comments",
+      "points": "481 points",
+      "comments": "458 comments",
       "index": 1
     },
     {
       "title": "Apple's MLX adding CUDA support",
       "href": "https://github.com/ml-explore/mlx/pull/1983",
-      "points": "342 points",
-      "comments": "137 comments",
+      "points": "357 points",
+      "comments": "143 comments",
       "index": 2
     },
     {
       "title": "LIGO detects most massive black hole merger to date",
       "href": "https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date",
-      "points": "254 points",
-      "comments": "119 comments",
+      "points": "258 points",
+      "comments": "128 comments",
       "index": 3
     },
     {
       "title": "Kiro: A new agentic IDE",
       "href": "https://kiro.dev/blog/introducing-kiro/",
-      "points": "812 points",
-      "comments": "347 comments",
+      "points": "827 points",
+      "comments": "353 comments",
       "index": 4
     },
     {
       "title": "Dog Walk: Blender Studio's official game project",
       "href": "https://blenderstudio.itch.io/dogwalk",
-      "points": "209 points",
-      "comments": "28 comments",
+      "points": "229 points",
+      "comments": "35 comments",
       "index": 5
-    },
-    {
-      "title": "Clashes between web and X11 colors in the CSS color scheme",
-      "href": "https://en.wikipedia.org/wiki/X11_color_names",
-      "points": "52 points",
-      "comments": "7 comments",
-      "index": 6
-    },
-    {
-      "title": "Show HN: CallFS – S3-style object store in one Go binary (MIT)",
-      "href": "https://github.com/ebogdum/callfs",
-      "points": "60 points",
-      "comments": "21 comments",
-      "index": 7
     },
     {
       "title": "RFC: PHP license update",
       "href": "https://wiki.php.net/rfc/php_license_update",
-      "points": "214 points",
-      "comments": "49 comments",
+      "points": "224 points",
+      "comments": "55 comments",
+      "index": 6
+    },
+    {
+      "title": "Clashes between web and X11 colors in the CSS color scheme",
+      "href": "https://en.wikipedia.org/wiki/X11_color_names",
+      "points": "53 points",
+      "comments": "9 comments",
+      "index": 7
+    },
+    {
+      "title": "When Sigterm Does Nothing: A Postgres Mystery",
+      "href": "https://clickhouse.com/blog/sigterm-postgres-mystery",
+      "points": "22 points",
+      "comments": "4 comments",
       "index": 8
     },
     {
-      "title": "Context Rot: How increasing input tokens impacts LLM performance",
-      "href": "https://research.trychroma.com/context-rot",
-      "points": "152 points",
-      "comments": "27 comments",
+      "title": "VHS, VCDs, and Laserdiscs in Southeast Asia",
+      "href": "https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/",
+      "points": "6 points",
+      "comments": "2 comments",
       "index": 9
+    },
+    {
+      "title": "We Tested 7 Languages Under Extreme Load and Only One Didn't Crash",
+      "href": "https://freedium.cfd/https:/medium.com/@codeperfect/we-tested-7-languages-under-extreme-load-and-only-one-didnt-crash-it-wasn-t-what-we-expected-67f84c79dc34",
+      "points": "8 points",
+      "comments": "3 comments",
+      "index": 10
     },
     {
       "title": "SQLite async connection pool for high-performance",
       "href": "https://github.com/slaily/aiosqlitepool",
-      "points": "109 points",
-      "comments": "38 comments",
-      "index": 10
+      "points": "115 points",
+      "comments": "40 comments",
+      "index": 11
+    },
+    {
+      "title": "Context Rot: How increasing input tokens impacts LLM performance",
+      "href": "https://research.trychroma.com/context-rot",
+      "points": "160 points",
+      "comments": "33 comments",
+      "index": 12
     },
     {
       "title": "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
       "href": "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/",
-      "points": "35 points",
-      "comments": "6 comments",
-      "index": 11
-    },
-    {
-      "title": "Transition to using 16 KB page sizes for Android apps and games",
-      "href": "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html",
-      "points": "52 points",
-      "comments": "35 comments",
-      "index": 12
-    },
-    {
-      "title": "Show HN: Bedrock – An 8-bit computing system for running programs anywhere",
-      "href": "https://benbridle.com/projects/bedrock.html",
-      "points": "126 points",
-      "comments": "30 comments",
+      "points": "41 points",
+      "comments": "7 comments",
       "index": 13
+    },
+    {
+      "title": "VMware Workstation: Bringing Virtualization to the x86 Architecture [pdf] (2012)",
+      "href": "https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf",
+      "points": "9 points",
+      "comments": "1 comment",
+      "index": 14
     },
     {
       "title": "Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri",
       "href": "https://www.ycombinator.com/companies/martin/jobs/",
       "points": "",
       "comments": "hide",
-      "index": 14
+      "index": 15
+    },
+    {
+      "title": "Show HN: Bedrock – An 8-bit computing system for running programs anywhere",
+      "href": "https://benbridle.com/projects/bedrock.html",
+      "points": "137 points",
+      "comments": "36 comments",
+      "index": 16
     },
     {
       "title": "I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor",
       "href": "https://thewalrus.ca/empress-of-ireland-survivor-mystery/",
-      "points": "60 points",
-      "comments": "19 comments",
-      "index": 15
-    },
-    {
-      "title": "Show HN: VS Code extension to edit the filesystem like a text buffer",
-      "href": "https://github.com/ahrm/voil",
-      "points": "17 points",
-      "comments": "11 comments",
-      "index": 16
-    },
-    {
-      "title": "Bringing Virtualization to the x86 Architecture with the Original VMware Workst [pdf]",
-      "href": "https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf",
-      "points": "5 points",
-      "comments": "discuss",
+      "points": "67 points",
+      "comments": "20 comments",
       "index": 17
     },
     {
       "title": "DEWLine Museum – The Distant Early Warning Radar Line",
       "href": "https://dewlinemuseum.com/",
-      "points": "51 points",
-      "comments": "14 comments",
+      "points": "52 points",
+      "comments": "15 comments",
       "index": 18
-    },
-    {
-      "title": "NeuralOS: An operating system powered by neural networks",
-      "href": "https://neural-os.com/",
-      "points": "134 points",
-      "comments": "41 comments",
-      "index": 19
-    },
-    {
-      "title": "When Sigterm Does Nothing: A Postgres Mystery",
-      "href": "https://clickhouse.com/blog/sigterm-postgres-mystery",
-      "points": "14 points",
-      "comments": "3 comments",
-      "index": 20
     },
     {
       "title": "Happy 20th Birthday, Django",
       "href": "https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/",
-      "points": "398 points",
-      "comments": "124 comments",
+      "points": "412 points",
+      "comments": "127 comments",
+      "index": 19
+    },
+    {
+      "title": "NeuralOS: An operating system powered by neural networks",
+      "href": "https://neural-os.com/",
+      "points": "137 points",
+      "comments": "43 comments",
+      "index": 20
+    },
+    {
+      "title": "Show HN: VS Code extension to edit the filesystem like a text buffer",
+      "href": "https://github.com/ahrm/voil",
+      "points": "22 points",
+      "comments": "14 comments",
       "index": 21
-    },
-    {
-      "title": "Cognition (Devin AI) to Acquire Windsurf",
-      "href": "https://cognition.ai/blog/windsurf",
-      "points": "409 points",
-      "comments": "321 comments",
-      "index": 22
-    },
-    {
-      "title": "AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]",
-      "href": "https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf",
-      "points": "70 points",
-      "comments": "49 comments",
-      "index": 23
     },
     {
       "title": "Replicube: 3D shader puzzle game, online demo",
       "href": "https://replicube.xyz/staging/",
-      "points": "118 points",
+      "points": "123 points",
       "comments": "20 comments",
-      "index": 24
+      "index": 22
+    },
+    {
+      "title": "Cognition (Devin AI) to Acquire Windsurf",
+      "href": "https://cognition.ai/blog/windsurf",
+      "points": "413 points",
+      "comments": "326 comments",
+      "index": 23
     },
     {
       "title": "Building Modular Rails Applications: A Deep Dive into Rails Engines",
       "href": "https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/",
-      "points": "150 points",
-      "comments": "32 comments",
-      "index": 25
+      "points": "155 points",
+      "comments": "34 comments",
+      "index": 24
     },
     {
       "title": "Strategies for Fast Lexers",
       "href": "https://xnacly.me/posts/2025/fast-lexer-strategies/",
-      "points": "148 points",
-      "comments": "57 comments",
-      "index": 26
+      "points": "154 points",
+      "comments": "58 comments",
+      "index": 25
     },
     {
       "title": "Cache Benchmarks",
       "href": "https://github.com/tidwall/cache-benchmarks",
-      "points": "14 points",
-      "comments": "2 comments",
-      "index": 27
-    },
-    {
-      "title": "East Asian aerosol cleanup has likely contributed to global warming",
-      "href": "https://www.nature.com/articles/s43247-025-02527-3",
-      "points": "198 points",
-      "comments": "219 comments",
-      "index": 28
+      "points": "21 points",
+      "comments": "5 comments",
+      "index": 26
     },
     {
       "title": "The Collapse of the FDA",
       "href": "https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html",
-      "points": "130 points",
-      "comments": "70 comments",
-      "index": 29
+      "points": "140 points",
+      "comments": "80 comments",
+      "index": 27
     },
     {
       "title": "Embedding user-defined indexes in Apache Parquet",
       "href": "https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/",
-      "points": "111 points",
+      "points": "120 points",
       "comments": "16 comments",
+      "index": 28
+    },
+    {
+      "title": "Japanese grandparents create life-size Totoro with bus stop for grandkids (2020)",
+      "href": "https://mymodernmet.com/totoro-sculpture-bus-stop/",
+      "points": "277 points",
+      "comments": "74 comments",
+      "index": 29
+    },
+    {
+      "title": "Cidco MailStation as a Z80 Development Platform (2019)",
+      "href": "https://jcs.org/2019/05/03/mailstation",
+      "points": "55 points",
+      "comments": "6 comments",
       "index": 30
     }
   ]
