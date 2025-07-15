@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, July 15, 2025 at 4:20 PM GMT-5",
+  "date": "Tuesday, July 15, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "Death by a thousand slops",
       "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              20 comments",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "Wikipedia outage report for May's Pope traffic spike",
       "href": "https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "The sound of inevitability",
       "href": "https://tomrenner.com/posts/llm-inevitabilism/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 5
     },
     {
@@ -44,10 +44,10 @@
       "index": 6
     },
     {
-      "title": "Adding lookbehinds to rust-lang/regex",
-      "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/",
+      "title": "Helix 25.07 Highlights",
+      "href": "https://helix-editor.com/news/release-25-07-highlights/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 7
     },
     {
@@ -58,113 +58,113 @@
       "index": 8
     },
     {
+      "title": "Adding lookbehinds to rust-lang/regex",
+      "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
       "title": "Automerge 3.0",
       "href": "https://automerge.github.io/blog/automerge-3/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Poor man's bitemporal data system in SQLite and Clojure",
       "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Panasonic + OpenBSD = <3",
       "href": "https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 11
-    },
-    {
-      "title": "The Best C++ Library",
-      "href": "https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people",
-      "points": "",
-      "comments": "\n              13 comments",
       "index": 12
-    },
-    {
-      "title": "Compiler bootstrapping in Nixpkgs",
-      "href": "https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Game of Trees Hub",
-      "href": "https://gothub.org/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 14
-    },
-    {
-      "title": "Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)",
-      "href": "https://benbridle.com/projects/bedrock.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 15
-    },
-    {
-      "title": "How to Get Foreign Keys Horribly Wrong",
-      "href": "https://hakibenita.com/django-foreign-keys",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "Encrypting Files with Passkeys and age",
-      "href": "https://words.filippo.io/passkey-encryption/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Diving into Plasma Bigscreen",
-      "href": "https://espi.dev/posts/2025/07/plasma-bigscreen/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 18
-    },
-    {
-      "title": "Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang",
-      "href": "https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
-    },
-    {
-      "title": "A distributed systems reliability glossary",
-      "href": "https://antithesis.com/resources/reliability_glossary/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
     },
     {
       "title": "Hazel: A live functional programming environment with typed holes",
       "href": "https://github.com/hazelgrove/hazel",
       "points": "",
       "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "The Best C++ Library",
+      "href": "https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 14
+    },
+    {
+      "title": "Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)",
+      "href": "https://benbridle.com/projects/bedrock.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 15
+    },
+    {
+      "title": "Encrypting Files with Passkeys and age",
+      "href": "https://words.filippo.io/passkey-encryption/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Compiler bootstrapping in Nixpkgs",
+      "href": "https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Game of Trees Hub",
+      "href": "https://gothub.org/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 18
+    },
+    {
+      "title": "How to Get Foreign Keys Horribly Wrong",
+      "href": "https://hakibenita.com/django-foreign-keys",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Diving into Plasma Bigscreen",
+      "href": "https://espi.dev/posts/2025/07/plasma-bigscreen/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 20
+    },
+    {
+      "title": "Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang",
+      "href": "https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 21
+    },
+    {
+      "title": "A distributed systems reliability glossary",
+      "href": "https://antithesis.com/resources/reliability_glossary/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Using Elm in 2025",
       "href": "https://engagesoftware.com/news/post/7033/using-elm-in-2025",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Packages proxies",
       "href": "https://blog.garambrogne.net/packages-proxies-en.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Helix 25.07 Highlights",
-      "href": "https://helix-editor.com/news/release-25-07-highlights/",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
