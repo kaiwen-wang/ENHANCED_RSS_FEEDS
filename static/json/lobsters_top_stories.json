@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, July 16, 2025 at 9:20 AM GMT-5",
+  "date": "Wednesday, July 16, 2025 at 10:25 AM GMT-5",
   "articles": [
     {
       "title": "OpenZFS Bug Ported to C",
@@ -12,7 +12,7 @@
       "title": "Death by a thousand slops",
       "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
       "points": "",
-      "comments": "\n              41 comments",
+      "comments": "\n              43 comments",
       "index": 2
     },
     {
@@ -30,52 +30,52 @@
       "index": 4
     },
     {
-      "title": "OpenZFS Bug Ported to Zig",
-      "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html",
-      "points": "",
-      "comments": "\n              30 comments",
-      "index": 5
-    },
-    {
       "title": "Reviving Genius",
       "href": "https://andrewshaw.nl/blog/reviving-genius",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 6
+      "index": 5
     },
     {
-      "title": "The sound of inevitability",
-      "href": "https://tomrenner.com/posts/llm-inevitabilism/",
+      "title": "OpenZFS Bug Ported to Zig",
+      "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 7
+      "comments": "\n              30 comments",
+      "index": 6
     },
     {
       "title": "Janet Feature Demos",
       "href": "https://github.com/sogaiu/janet-features-demos",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
+      "index": 7
+    },
+    {
+      "title": "The sound of inevitability",
+      "href": "https://tomrenner.com/posts/llm-inevitabilism/",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 8
+    },
+    {
+      "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
+      "href": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 9
     },
     {
       "title": "Introducing go-cdc-chunkers: chunk and deduplicate everything",
       "href": "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5",
       "href": "https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
-      "href": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 11
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
+      "title": "Kiro and the future of AI spec-driven software development",
+      "href": "https://kiro.dev/blog/kiro-and-the-future-of-software-development/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
       "title": "The FIPS 140-3 Go Cryptographic Module",
       "href": "https://go.dev/blog/fips140",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "How I keep up with AI progress",
       "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
       "points": "",
-      "comments": "\n              18 comments",
-      "index": 16
+      "comments": "\n              19 comments",
+      "index": 17
     },
     {
-      "title": "Geomys, a blueprint for a sustainable open source maintenance firm",
+      "title": "Geomys, a blueprint for a sustainable open source maintenance firm (2024)",
       "href": "https://words.filippo.io/geomys/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Hazel: A live functional programming environment with typed holes",
       "href": "https://github.com/hazelgrove/hazel",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 18
+      "index": 19
+    },
+    {
+      "title": "GPUHammer: Rowhammer Attacks on GPU Memories are Practical",
+      "href": "https://gpuhammer.com/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "Adding lookbehinds to rust-lang/regex",
       "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Encrypting Files with Passkeys and age",
       "href": "https://words.filippo.io/passkey-encryption/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 22
+    },
+    {
+      "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
+      "href": "https://matrix.org/blog/2025/07/security-predisclosure/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Poor man's bitemporal data system in SQLite and Clojure",
       "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 21
-    },
-    {
-      "title": "Automerge 3.0",
-      "href": "https://automerge.github.io/blog/automerge-3/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "Kiro and the future of AI spec-driven software development",
-      "href": "https://kiro.dev/blog/kiro-and-the-future-of-software-development/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Linear Matching of JavaScript Regular Expressions",
-      "href": "https://dl.acm.org/doi/10.1145/3656431",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)",
-      "href": "https://benbridle.com/projects/bedrock.html",
+      "title": "FGL: a functional graph library (2002)",
+      "href": "http://web.engr.oregonstate.edu/~erwig/fgl/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
