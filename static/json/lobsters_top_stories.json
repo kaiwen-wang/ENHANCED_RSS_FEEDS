@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, July 16, 2025 at 5:20 PM GMT-5",
+  "date": "Wednesday, July 16, 2025 at 6:20 PM GMT-5",
   "articles": [
+    {
+      "title": "Artisanal Handcrafted Git Repositories",
+      "href": "https://drew.silcock.dev/blog/artisanal-git/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 1
+    },
     {
       "title": "Underused Techniques for Effective Emails",
       "href": "https://refactoringenglish.com/chapters/techniques-for-writing-emails/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 1
-    },
-    {
-      "title": "Artisanal Handcrafted Git Repositories",
-      "href": "https://drew.silcock.dev/blog/artisanal-git/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 2
     },
     {
@@ -23,73 +23,73 @@
       "index": 3
     },
     {
+      "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
+      "href": "https://matrix.org/blog/2025/07/security-predisclosure/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 4
+    },
+    {
       "title": "Death by a thousand slops",
       "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
       "points": "",
       "comments": "\n              46 comments",
-      "index": 4
-    },
-    {
-      "title": "Cloudflare 1.1.1.1 incident postmortem for July 14, 2025",
-      "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 5
     },
     {
       "title": "Fedora SIG changes Python packaging strategy",
       "href": "https://lwn.net/SubscriberLink/1029354/8e707178c74ae2f8/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
       "index": 6
     },
     {
-      "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
-      "href": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
+      "title": "Cloudflare 1.1.1.1 incident postmortem for July 14, 2025",
+      "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              2 comments",
       "index": 7
     },
     {
-      "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
-      "href": "https://matrix.org/blog/2025/07/security-predisclosure/",
+      "title": "I'm unsatisfied with easing functions",
+      "href": "https://www.davepagurek.com/blog/easing-functions/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 8
     },
     {
       "title": "Janet Feature Demos",
       "href": "https://github.com/sogaiu/janet-features-demos",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              13 comments",
       "index": 9
+    },
+    {
+      "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
+      "href": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 10
     },
     {
       "title": "Geomys, a blueprint for a sustainable open source maintenance firm (2024)",
       "href": "https://words.filippo.io/geomys/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "I'm unsatisfied with easing functions",
-      "href": "https://www.davepagurek.com/blog/easing-functions/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 11
-    },
-    {
-      "title": "Helix 25.07 Highlights",
-      "href": "https://helix-editor.com/news/release-25-07-highlights/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 12
     },
     {
       "title": "gren-tui: Pure functional TUIs with The Elm Architecture",
       "href": "https://github.com/blaix/gren-tui",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Helix 25.07 Highlights",
+      "href": "https://helix-editor.com/news/release-25-07-highlights/",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 13
     },
     {
@@ -145,21 +145,21 @@
       "title": "Shipping WebGPU on Windows in Firefox 141",
       "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 21
-    },
-    {
-      "title": "Compiler bootstrapping in Nixpkgs",
-      "href": "https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 22
     },
     {
       "title": "The FIPS 140-3 Go Cryptographic Module",
       "href": "https://go.dev/blog/fips140",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 22
+    },
+    {
+      "title": "Compiler bootstrapping in Nixpkgs",
+      "href": "https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 23
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Trying Guix: A Nixer's Impressions",
-      "href": "https://tazj.in/blog/trying-guix",
+      "title": "Scientific Computing in Rust",
+      "href": "https://scientificcomputing.rs/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
