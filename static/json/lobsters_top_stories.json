@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, July 16, 2025 at 11:25 AM GMT-5",
+  "date": "Wednesday, July 16, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "Death by a thousand slops",
       "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
       "points": "",
-      "comments": "\n              44 comments",
+      "comments": "\n              45 comments",
       "index": 1
     },
     {
@@ -16,59 +16,59 @@
       "index": 2
     },
     {
+      "title": "Helix 25.07 Highlights",
+      "href": "https://helix-editor.com/news/release-25-07-highlights/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 3
+    },
+    {
       "title": "Wikipedia outage report for May's Pope traffic spike",
       "href": "https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 3
-    },
-    {
-      "title": "Helix 25.07 Highlights",
-      "href": "https://helix-editor.com/news/release-25-07-highlights/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 4
     },
     {
       "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
       "href": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 5
+    },
+    {
+      "title": "Janet Feature Demos",
+      "href": "https://github.com/sogaiu/janet-features-demos",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 6
     },
     {
       "title": "OpenZFS Bug Ported to C",
       "href": "https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C",
       "points": "",
-      "comments": "\n              9 comments",
-      "index": 6
-    },
-    {
-      "title": "OpenZFS Bug Ported to Zig",
-      "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html",
-      "points": "",
-      "comments": "\n              30 comments",
+      "comments": "\n              10 comments",
       "index": 7
     },
     {
       "title": "Underused Techniques for Effective Emails",
       "href": "https://refactoringenglish.com/chapters/techniques-for-writing-emails/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 8
     },
     {
-      "title": "Janet Feature Demos",
-      "href": "https://github.com/sogaiu/janet-features-demos",
+      "title": "OpenZFS Bug Ported to Zig",
+      "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              30 comments",
       "index": 9
     },
     {
-      "title": "The sound of inevitability",
-      "href": "https://tomrenner.com/posts/llm-inevitabilism/",
+      "title": "What people said about an OpenZFS bug",
+      "href": "https://despairlabs.com/blog/posts/2025-07-13-an-openzfs-bug-and-the-humans-that-made-it-comments/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              1 comment",
       "index": 10
     },
     {
@@ -79,31 +79,31 @@
       "index": 11
     },
     {
+      "title": "The sound of inevitability",
+      "href": "https://tomrenner.com/posts/llm-inevitabilism/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 12
+    },
+    {
       "title": "Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5",
       "href": "https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Introducing go-cdc-chunkers: chunk and deduplicate everything",
       "href": "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 13
+      "comments": "\n              8 comments",
+      "index": 14
     },
     {
       "title": "Kiro and the future of AI spec-driven software development",
       "href": "https://kiro.dev/blog/kiro-and-the-future-of-software-development/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 14
-    },
-    {
-      "title": "What people said about an OpenZFS bug",
-      "href": "https://despairlabs.com/blog/posts/2025-07-13-an-openzfs-bug-and-the-humans-that-made-it-comments/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
+      "title": "The FIPS 140-3 Go Cryptographic Module",
+      "href": "https://go.dev/blog/fips140",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
       "title": "Trying Guix: A Nixer's Impressions",
       "href": "https://tazj.in/blog/trying-guix",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Shipping WebGPU on Windows in Firefox 141",
       "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
+      "index": 19
     },
     {
       "title": "GPUHammer: Rowhammer Attacks on GPU Memories are Practical",
       "href": "https://gpuhammer.com/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "The FIPS 140-3 Go Cryptographic Module",
-      "href": "https://go.dev/blog/fips140",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 20
-    },
-    {
-      "title": "How I keep up with AI progress",
-      "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 21
     },
     {
       "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
       "href": "https://matrix.org/blog/2025/07/security-predisclosure/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "How to Test the Reliability of Durable Execution",
+      "href": "https://www.dbos.dev/blog/how-to-test-durable-execution",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 22
+    },
+    {
+      "title": "How I keep up with AI progress",
+      "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
+      "points": "",
+      "comments": "\n              20 comments",
+      "index": 23
+    },
+    {
+      "title": "CSS conditionals with the new if() function",
+      "href": "https://developer.chrome.com/blog/if-article",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "Hazel: A live functional programming environment with typed holes",
       "href": "https://github.com/hazelgrove/hazel",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 23
-    },
-    {
-      "title": "Adding lookbehinds to rust-lang/regex",
-      "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 24
-    },
-    {
-      "title": "Encrypting Files with Passkeys and age",
-      "href": "https://words.filippo.io/passkey-encryption/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
