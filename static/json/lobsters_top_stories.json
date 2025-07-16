@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, July 16, 2025 at 2:15 PM GMT-5",
+  "date": "Wednesday, July 16, 2025 at 3:25 PM GMT-5",
   "articles": [
+    {
+      "title": "Underused Techniques for Effective Emails",
+      "href": "https://refactoringenglish.com/chapters/techniques-for-writing-emails/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 1
+    },
     {
       "title": "Reviving Genius",
       "href": "https://andrewshaw.nl/blog/reviving-genius",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 1
-    },
-    {
-      "title": "Underused Techniques for Effective Emails",
-      "href": "https://refactoringenglish.com/chapters/techniques-for-writing-emails/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 2
     },
     {
@@ -23,108 +23,108 @@
       "index": 3
     },
     {
-      "title": "Janet Feature Demos",
-      "href": "https://github.com/sogaiu/janet-features-demos",
+      "title": "Artisanal Handcrafted Git Repositories",
+      "href": "https://drew.silcock.dev/blog/artisanal-git/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              1 comment",
       "index": 4
+    },
+    {
+      "title": "Cloudflare 1.1.1.1 incident postmortem for July 14, 2025",
+      "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 5
     },
     {
       "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
       "href": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 5
+      "index": 6
+    },
+    {
+      "title": "Janet Feature Demos",
+      "href": "https://github.com/sogaiu/janet-features-demos",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 7
     },
     {
       "title": "Helix 25.07 Highlights",
       "href": "https://helix-editor.com/news/release-25-07-highlights/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 6
-    },
-    {
-      "title": "Wikipedia outage report for May's Pope traffic spike",
-      "href": "https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
       "href": "https://matrix.org/blog/2025/07/security-predisclosure/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 8
+      "index": 9
+    },
+    {
+      "title": "Wikipedia outage report for May's Pope traffic spike",
+      "href": "https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 10
     },
     {
       "title": "Geomys, a blueprint for a sustainable open source maintenance firm (2024)",
       "href": "https://words.filippo.io/geomys/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
-    },
-    {
-      "title": "What people said about an OpenZFS bug",
-      "href": "https://despairlabs.com/blog/posts/2025-07-13-an-openzfs-bug-and-the-humans-that-made-it-comments/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 10
-    },
-    {
-      "title": "OpenZFS Bug Ported to C",
-      "href": "https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 11
     },
     {
-      "title": "OpenZFS Bug Ported to Zig",
-      "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html",
+      "title": "I'm unsatisfied with easing functions",
+      "href": "https://www.davepagurek.com/blog/easing-functions/",
       "points": "",
-      "comments": "\n              31 comments",
+      "comments": "\n              no comments",
       "index": 12
-    },
-    {
-      "title": "Kiro and the future of AI spec-driven software development",
-      "href": "https://kiro.dev/blog/kiro-and-the-future-of-software-development/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 13
     },
     {
       "title": "Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5",
       "href": "https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5",
       "points": "",
       "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "Kiro and the future of AI spec-driven software development",
+      "href": "https://kiro.dev/blog/kiro-and-the-future-of-software-development/",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 14
+    },
+    {
+      "title": "Introducing go-cdc-chunkers: chunk and deduplicate everything",
+      "href": "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 15
     },
     {
       "title": "The sound of inevitability",
       "href": "https://tomrenner.com/posts/llm-inevitabilism/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 15
-    },
-    {
-      "title": "Introducing go-cdc-chunkers: chunk and deduplicate everything",
-      "href": "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/",
-      "points": "",
-      "comments": "\n              10 comments",
       "index": 16
     },
     {
-      "title": "Cloudflare 1.1.1.1 incident postmortem for July 14, 2025",
-      "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
+      "title": "gren-tui: Pure functional TUIs with The Elm Architecture",
+      "href": "https://github.com/blaix/gren-tui",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 17
     },
     {
-      "title": "I'm unsatisfied with easing functions - Dave Pagurek",
-      "href": "https://www.davepagurek.com/blog/easing-functions/",
+      "title": "Fedora SIG changes Python packaging strategy",
+      "href": "https://lwn.net/SubscriberLink/1029354/8e707178c74ae2f8/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 18
     },
     {
@@ -142,17 +142,17 @@
       "index": 20
     },
     {
+      "title": "Shipping WebGPU on Windows in Firefox 141",
+      "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 21
+    },
+    {
       "title": "Compiler bootstrapping in Nixpkgs",
       "href": "https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 21
-    },
-    {
-      "title": "Shipping WebGPU on Windows in Firefox 141",
-      "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "How to Test the Reliability of Durable Execution",
-      "href": "https://www.dbos.dev/blog/how-to-test-durable-execution",
+      "title": "CSS conditionals with the new if() function",
+      "href": "https://developer.chrome.com/blog/if-article",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "How I keep up with AI progress",
-      "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
+      "title": "How to Test the Reliability of Durable Execution",
+      "href": "https://www.dbos.dev/blog/how-to-test-durable-execution",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
