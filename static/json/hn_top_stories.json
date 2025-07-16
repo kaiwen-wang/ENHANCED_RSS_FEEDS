@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, July 16, 2025 at 3:30 AM GMT-5",
+  "date": "Wednesday, July 16, 2025 at 4:25 AM GMT-5",
   "articles": [
-    {
-      "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
-      "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
-      "points": "200 points",
-      "comments": "91 comments",
-      "index": 1
-    },
     {
       "title": "Shipping WebGPU on Windows in Firefox 141",
       "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
-      "points": "39 points",
-      "comments": "9 comments",
+      "points": "68 points",
+      "comments": "16 comments",
+      "index": 1
+    },
+    {
+      "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
+      "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
+      "points": "220 points",
+      "comments": "116 comments",
       "index": 2
     },
     {
       "title": "Tilck: A Tiny Linux-Compatible Kernel",
       "href": "https://github.com/vvaltchev/tilck",
-      "points": "104 points",
-      "comments": "21 comments",
+      "points": "121 points",
+      "comments": "23 comments",
       "index": 3
     },
     {
       "title": "GPUHammer: Rowhammer attacks on GPU memories are practical",
       "href": "https://gpuhammer.com/",
-      "points": "165 points",
-      "comments": "49 comments",
+      "points": "172 points",
+      "comments": "53 comments",
       "index": 4
-    },
-    {
-      "title": "Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY",
-      "href": "https://blog.pupred.com/blog/puttyvsbitvise/",
-      "points": "28 points",
-      "comments": "11 comments",
-      "index": 5
     },
     {
       "title": "Six Years of Gemini",
       "href": "https://geminiprotocol.net/news/2025_06_20.gmi",
-      "points": "118 points",
-      "comments": "33 comments",
+      "points": "127 points",
+      "comments": "40 comments",
+      "index": 5
+    },
+    {
+      "title": "Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer",
+      "href": "https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/",
+      "points": "58 points",
+      "comments": "12 comments",
       "index": 6
     },
     {
       "title": "LLM Daydreaming",
       "href": "https://gwern.net/ai-daydreaming",
-      "points": "38 points",
-      "comments": "8 comments",
+      "points": "56 points",
+      "comments": "17 comments",
       "index": 7
     },
     {
-      "title": "I'm Switching to Python and Actually Liking It",
-      "href": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html",
-      "points": "6 points",
-      "comments": "2 comments",
+      "title": "Documenting what you're willing to support (and not)",
+      "href": "https://rachelbythebay.com/w/2025/07/07/support/",
+      "points": "18 points",
+      "comments": "1 comment",
       "index": 8
     },
     {
       "title": "Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL",
       "href": "https://www.matthieulc.com/posts/shoggoth-mini",
-      "points": "464 points",
+      "points": "473 points",
       "comments": "91 comments",
       "index": 9
     },
     {
       "title": "Reflections on OpenAI",
       "href": "https://calv.info/openai-reflections",
-      "points": "520 points",
-      "comments": "292 comments",
+      "points": "528 points",
+      "comments": "299 comments",
       "index": 10
-    },
-    {
-      "title": "Documenting what you're willing to support (and not)",
-      "href": "https://rachelbythebay.com/w/2025/07/07/support/",
-      "points": "7 points",
-      "comments": "discuss",
-      "index": 11
     },
     {
       "title": "NIST ion clock sets new record for most accurate clock",
       "href": "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world",
-      "points": "295 points",
+      "points": "296 points",
       "comments": "104 comments",
-      "index": 12
+      "index": 11
     },
     {
       "title": "Where's Firefox going next?",
       "href": "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094",
-      "points": "186 points",
-      "comments": "257 comments",
+      "points": "200 points",
+      "comments": "272 comments",
+      "index": 12
+    },
+    {
+      "title": "Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY",
+      "href": "https://blog.pupred.com/blog/puttyvsbitvise/",
+      "points": "34 points",
+      "comments": "24 comments",
       "index": 13
     },
     {
       "title": "Running a million-board chess MMO in a single process",
       "href": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/",
-      "points": "103 points",
-      "comments": "12 comments",
+      "points": "112 points",
+      "comments": "15 comments",
       "index": 14
     },
     {
       "title": "To be a better programmer, write little proofs in your head",
       "href": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
-      "points": "327 points",
+      "points": "334 points",
       "comments": "133 comments",
       "index": 15
     },
     {
       "title": "The FIPS 140-3 Go Cryptographic Module",
       "href": "https://go.dev/blog/fips140",
-      "points": "140 points",
-      "comments": "46 comments",
+      "points": "145 points",
+      "comments": "48 comments",
       "index": 16
     },
     {
       "title": "My Family and the Flood",
       "href": "https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/",
-      "points": "158 points",
-      "comments": "55 comments",
+      "points": "162 points",
+      "comments": "57 comments",
       "index": 17
     },
     {
-      "title": "Congress moves to reject bulk of White House's proposed NASA cuts",
-      "href": "https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/",
-      "points": "129 points",
-      "comments": "70 comments",
+      "title": "I'm Switching to Python and Actually Liking It",
+      "href": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html",
+      "points": "39 points",
+      "comments": "50 comments",
       "index": 18
     },
     {
-      "title": "Show HN: Reviving a 20 year old OS X App",
-      "href": "https://andrewshaw.nl/blog/reviving-genius",
-      "points": "45 points",
-      "comments": "21 comments",
-      "index": 19
-    },
-    {
-      "title": "Nextflow: System for creating scalable, portable, reproducible workflows",
-      "href": "https://github.com/nextflow-io/nextflow",
-      "points": "11 points",
+      "title": "The beauty entrepreneur who made the Jheri curl a sensation",
+      "href": "https://thehustle.co/originals/the-beauty-entrepreneur-who-made-the-jheri-curl-a-sensation",
+      "points": "4 points",
       "comments": "discuss",
-      "index": 20
+      "index": 19
     },
     {
       "title": "Algorithms for making interesting organic simulations",
       "href": "https://bleuje.com/physarum-explanation/",
-      "points": "53 points",
+      "points": "60 points",
       "comments": "6 comments",
+      "index": 20
+    },
+    {
+      "title": "Congress moves to reject bulk of White House's proposed NASA cuts",
+      "href": "https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/",
+      "points": "146 points",
+      "comments": "88 comments",
       "index": 21
     },
     {
       "title": "The Story of Mel, A Real Programmer, Annotated (1996)",
       "href": "https://users.cs.utah.edu/~elb/folklore/mel-annotated/node1.html#SECTION00010000000000000000",
-      "points": "97 points",
-      "comments": "28 comments",
+      "points": "102 points",
+      "comments": "31 comments",
       "index": 22
     },
     {
-      "title": "Plasma Bigscreen rises from the dead with a better UI",
-      "href": "https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/",
-      "points": "148 points",
-      "comments": "53 comments",
+      "title": "Show HN: Reviving a 20 year old OS X App",
+      "href": "https://andrewshaw.nl/blog/reviving-genius",
+      "points": "49 points",
+      "comments": "25 comments",
       "index": 23
     },
     {
-      "title": "Designing for the Eye: Optical corrections in architecture and typography",
-      "href": "https://www.nubero.ch/blog/015/",
-      "points": "154 points",
-      "comments": "24 comments",
+      "title": "Nextflow: System for creating scalable, portable, reproducible workflows",
+      "href": "https://github.com/nextflow-io/nextflow",
+      "points": "13 points",
+      "comments": "1 comment",
       "index": 24
     },
     {
       "title": "Mostly dead influential programming languages (2020)",
       "href": "https://www.hillelwayne.com/post/influential-dead-languages/",
-      "points": "143 points",
-      "comments": "94 comments",
+      "points": "156 points",
+      "comments": "98 comments",
       "index": 25
     },
     {
-      "title": "High-resolution imaging method details nerves across a mouse’s body",
-      "href": "https://www.nature.com/articles/d41586-025-02156-y",
-      "points": "8 points",
-      "comments": "1 comment",
+      "title": "Plasma Bigscreen rises from the dead with a better UI",
+      "href": "https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/",
+      "points": "154 points",
+      "comments": "58 comments",
       "index": 26
+    },
+    {
+      "title": "Designing for the Eye: Optical corrections in architecture and typography",
+      "href": "https://www.nubero.ch/blog/015/",
+      "points": "161 points",
+      "comments": "24 comments",
+      "index": 27
     },
     {
       "title": "Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding",
       "href": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/",
-      "points": "108 points",
-      "comments": "121 comments",
-      "index": 27
+      "points": "109 points",
+      "comments": "125 comments",
+      "index": 28
     },
     {
       "title": "Lorem Gibson",
       "href": "http://loremgibson.com/",
       "points": "137 points",
-      "comments": "29 comments",
-      "index": 28
-    },
-    {
-      "title": "Encrypting files with passkeys and age",
-      "href": "https://words.filippo.io/passkey-encryption/",
-      "points": "105 points",
-      "comments": "57 comments",
+      "comments": "30 comments",
       "index": 29
     },
     {
       "title": "LLM Inevitabilism",
       "href": "https://tomrenner.com/posts/llm-inevitabilism/",
-      "points": "1572 points",
-      "comments": "1478 comments",
+      "points": "1581 points",
+      "comments": "1489 comments",
       "index": 30
     }
   ]
