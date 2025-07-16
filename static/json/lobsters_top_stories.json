@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, July 16, 2025 at 12:25 AM GMT-5",
+  "date": "Wednesday, July 16, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "Death by a thousand slops",
       "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              26 comments",
       "index": 1
     },
     {
@@ -16,31 +16,31 @@
       "index": 2
     },
     {
+      "title": "OpenZFS Bug Ported to C",
+      "href": "https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 3
+    },
+    {
       "title": "OpenZFS Bug Ported to Zig",
       "href": "https://andrewkelley.me/post/openzfs-bug-ported-zig.html",
       "points": "",
-      "comments": "\n              27 comments",
-      "index": 3
+      "comments": "\n              29 comments",
+      "index": 4
     },
     {
       "title": "Helix 25.07 Highlights",
       "href": "https://helix-editor.com/news/release-25-07-highlights/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 4
-    },
-    {
-      "title": "OpenZFS Bug Ported to C",
-      "href": "https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 5
     },
     {
       "title": "Introducing go-cdc-chunkers: chunk and deduplicate everything",
       "href": "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              5 comments",
       "index": 6
     },
     {
@@ -54,14 +54,14 @@
       "title": "Trying Guix: A Nixer's Impressions",
       "href": "https://tazj.in/blog/trying-guix",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 8
     },
     {
       "title": "How I keep up with AI progress",
       "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 9
     },
     {
@@ -93,22 +93,22 @@
       "index": 13
     },
     {
+      "title": "Encrypting Files with Passkeys and age",
+      "href": "https://words.filippo.io/passkey-encryption/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
       "title": "Automerge 3.0",
       "href": "https://automerge.github.io/blog/automerge-3/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Poor man's bitemporal data system in SQLite and Clojure",
       "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Encrypting Files with Passkeys and age",
-      "href": "https://words.filippo.io/passkey-encryption/",
       "points": "",
       "comments": "\n              no comments",
       "index": 16
@@ -121,10 +121,10 @@
       "index": 17
     },
     {
-      "title": "Game of Trees Hub",
-      "href": "https://gothub.org/",
+      "title": "A distributed systems reliability glossary",
+      "href": "https://antithesis.com/resources/reliability_glossary/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 18
     },
     {
@@ -135,10 +135,10 @@
       "index": 19
     },
     {
-      "title": "A distributed systems reliability glossary",
-      "href": "https://antithesis.com/resources/reliability_glossary/",
+      "title": "Game of Trees Hub",
+      "href": "https://gothub.org/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Shipping WebGPU on Windows in Firefox 141",
+      "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "How to Get Foreign Keys Horribly Wrong",
       "href": "https://hakibenita.com/django-foreign-keys",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Diving into Plasma Bigscreen",
       "href": "https://espi.dev/posts/2025/07/plasma-bigscreen/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Google Wifi Pro: Glitching from Root to EL3: Part 1 - Characterization",
       "href": "https://raelize.com/blog/google-wifi-pro-glitching-from-root-to-el3-part-1-characterization/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang",
-      "href": "https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 25
     }
   ]
