@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, July 16, 2025 at 5:25 AM GMT-5",
+  "date": "Wednesday, July 16, 2025 at 6:20 AM GMT-5",
   "articles": [
-    {
-      "title": "Death by a thousand slops",
-      "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
-      "points": "",
-      "comments": "\n              32 comments",
-      "index": 1
-    },
     {
       "title": "OpenZFS Bug Ported to C",
       "href": "https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C",
       "points": "",
       "comments": "\n              8 comments",
+      "index": 1
+    },
+    {
+      "title": "Death by a thousand slops",
+      "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
+      "points": "",
+      "comments": "\n              32 comments",
       "index": 2
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
+      "title": "Where’s Firefox going next? You tell us",
+      "href": "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
       "title": "Introducing go-cdc-chunkers: chunk and deduplicate everything",
       "href": "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 6
-    },
-    {
-      "title": "Where’s Firefox going next? You tell us",
-      "href": "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 7
     },
     {
@@ -61,7 +61,7 @@
       "title": "Trying Guix: A Nixer's Impressions",
       "href": "https://tazj.in/blog/trying-guix",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
       "index": 9
     },
     {
@@ -72,66 +72,66 @@
       "index": 10
     },
     {
-      "title": "How I keep up with AI progress",
-      "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 11
-    },
-    {
       "title": "Compiler bootstrapping in Nixpkgs",
       "href": "https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 11
+    },
+    {
+      "title": "How I keep up with AI progress",
+      "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 12
-    },
-    {
-      "title": "The FIPS 140-3 Go Cryptographic Module",
-      "href": "https://go.dev/blog/fips140",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Hazel: A live functional programming environment with typed holes",
-      "href": "https://github.com/hazelgrove/hazel",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
-      "title": "Encrypting Files with Passkeys and age",
-      "href": "https://words.filippo.io/passkey-encryption/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Adding lookbehinds to rust-lang/regex",
-      "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
     },
     {
       "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
       "href": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
+      "title": "The FIPS 140-3 Go Cryptographic Module",
+      "href": "https://go.dev/blog/fips140",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Hazel: A live functional programming environment with typed holes",
+      "href": "https://github.com/hazelgrove/hazel",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
+      "title": "Encrypting Files with Passkeys and age",
+      "href": "https://words.filippo.io/passkey-encryption/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Adding lookbehinds to rust-lang/regex",
+      "href": "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 17
+    },
+    {
+      "title": "Shipping WebGPU on Windows in Firefox 141",
+      "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 18
     },
     {
       "title": "Automerge 3.0",
       "href": "https://automerge.github.io/blog/automerge-3/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "Reviving Genius",
-      "href": "https://andrewshaw.nl/blog/reviving-genius",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 19
     },
     {
@@ -142,31 +142,31 @@
       "index": 20
     },
     {
+      "title": "Reviving Genius",
+      "href": "https://andrewshaw.nl/blog/reviving-genius",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
       "title": "Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)",
       "href": "https://benbridle.com/projects/bedrock.html",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 21
-    },
-    {
-      "title": "Shipping WebGPU on Windows in Firefox 141",
-      "href": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 22
-    },
-    {
-      "title": "Game of Trees Hub",
-      "href": "https://gothub.org/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 23
     },
     {
       "title": "A distributed systems reliability glossary",
       "href": "https://antithesis.com/resources/reliability_glossary/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Game of Trees Hub",
+      "href": "https://gothub.org/",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 24
     },
     {
