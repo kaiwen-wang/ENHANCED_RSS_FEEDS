@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, July 17, 2025 at 2:20 AM GMT-5",
+  "date": "Thursday, July 17, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "Artisanal Handcrafted Git Repositories",
@@ -16,52 +16,52 @@
       "index": 2
     },
     {
-      "title": "Iris-WebP: Fast, efficient WebP encoder",
-      "href": "https://halide.cx/iris",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 3
-    },
-    {
       "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
       "href": "https://matrix.org/blog/2025/07/security-predisclosure/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 4
+      "index": 3
     },
     {
       "title": "Reviving Genius",
       "href": "https://andrewshaw.nl/blog/reviving-genius",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 5
+      "index": 4
     },
     {
       "title": "I'm unsatisfied with easing functions",
       "href": "https://www.davepagurek.com/blog/easing-functions/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 6
+      "index": 5
     },
     {
       "title": "Cloudflare 1.1.1.1 incident postmortem for July 14, 2025",
       "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
       "points": "",
       "comments": "\n              6 comments",
+      "index": 6
+    },
+    {
+      "title": "Iris-WebP: Fast, efficient WebP encoder",
+      "href": "https://halide.cx/iris",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 7
+    },
+    {
+      "title": "A Rust shaped hole",
+      "href": "https://mnvr.in/rust",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 8
     },
     {
       "title": "Death by a thousand slops",
       "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
       "points": "",
       "comments": "\n              48 comments",
-      "index": 8
-    },
-    {
-      "title": "A Rust shaped hole",
-      "href": "https://mnvr.in/rust",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 9
     },
     {
@@ -79,99 +79,99 @@
       "index": 11
     },
     {
+      "title": "Blender HDR and the reference white issue",
+      "href": "https://blog.sebastianwick.net/posts/blender-hdr-reference-white/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
       "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
       "href": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Janet Feature Demos",
       "href": "https://github.com/sogaiu/janet-features-demos",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 13
-    },
-    {
-      "title": "Blender HDR and the reference white issue",
-      "href": "https://blog.sebastianwick.net/posts/blender-hdr-reference-white/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
-    },
-    {
-      "title": "gren-tui: Pure functional TUIs with The Elm Architecture",
-      "href": "https://github.com/blaix/gren-tui",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Open Sesame: Poems with Entropy",
-      "href": "https://www.benwr.net/2025/07/16/opensesame.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Helix 25.07 Highlights",
-      "href": "https://helix-editor.com/news/release-25-07-highlights/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 17
     },
     {
       "title": "timep - trap-based profiler, flamegraph for bash",
       "href": "https://github.com/jkool702/timep",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 15
     },
     {
-      "title": "A Wide Reduction Trick (2022)",
-      "href": "https://words.filippo.io/wide-reduction/",
+      "title": "gren-tui: Pure functional TUIs with The Elm Architecture",
+      "href": "https://github.com/blaix/gren-tui",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 16
     },
     {
-      "title": "Wikipedia outage report for May's Pope traffic spike",
-      "href": "https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge",
+      "title": "Open Sesame: Poems with Entropy",
+      "href": "https://www.benwr.net/2025/07/16/opensesame.html",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 20
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Helix 25.07 Highlights",
+      "href": "https://helix-editor.com/news/release-25-07-highlights/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 18
     },
     {
       "title": "Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5",
       "href": "https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "A Wide Reduction Trick (2022)",
+      "href": "https://words.filippo.io/wide-reduction/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Wikipedia outage report for May's Pope traffic spike",
+      "href": "https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 21
     },
     {
-      "title": "Introducing go-cdc-chunkers: chunk and deduplicate everything",
-      "href": "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/",
+      "title": "Project SERVFAIL: one year in",
+      "href": "https://sdomi.pl/weblog/25-servfail-first-year/",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              no comments",
       "index": 22
-    },
-    {
-      "title": "CSS conditionals with the new if() function",
-      "href": "https://developer.chrome.com/blog/if-article",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 23
     },
     {
       "title": "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations",
       "href": "https://arxiv.org/abs/2503.04761",
       "points": "",
       "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "I was wrong about robots.txt",
+      "href": "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "When to make LODs",
-      "href": "https://medium.com/@jasonbooth_86226/when-to-make-lods-c3109c35b802",
+      "title": "\"Bypassing\" specialization in Rust or How I Learned to Stop Worrying and Love Function Pointers",
+      "href": "https://oakchris1955.eu/posts/bypassing_specialization/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
