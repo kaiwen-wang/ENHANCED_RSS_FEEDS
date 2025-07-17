@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, July 17, 2025 at 5:25 AM GMT-5",
+  "date": "Thursday, July 17, 2025 at 6:20 AM GMT-5",
   "articles": [
     {
       "title": "Artisanal Handcrafted Git Repositories",
@@ -33,7 +33,7 @@
       "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
       "href": "https://matrix.org/blog/2025/07/security-predisclosure/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 5
     },
     {
@@ -44,136 +44,136 @@
       "index": 6
     },
     {
+      "title": "\"Bypassing\" specialization in Rust or How I Learned to Stop Worrying and Love Function Pointers",
+      "href": "https://oakchris1955.eu/posts/bypassing_specialization/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 7
+    },
+    {
       "title": "Cloudflare 1.1.1.1 incident postmortem for July 14, 2025",
       "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 7
+      "comments": "\n              12 comments",
+      "index": 8
+    },
+    {
+      "title": "I was wrong about robots.txt",
+      "href": "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
+      "title": "Project SERVFAIL: one year in",
+      "href": "https://sdomi.pl/weblog/25-servfail-first-year/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
     },
     {
       "title": "Blender HDR and the reference white issue",
       "href": "https://blog.sebastianwick.net/posts/blender-hdr-reference-white/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 8
-    },
-    {
-      "title": "\"Bypassing\" specialization in Rust or How I Learned to Stop Worrying and Love Function Pointers",
-      "href": "https://oakchris1955.eu/posts/bypassing_specialization/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 9
-    },
-    {
-      "title": "Death by a thousand slops",
-      "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
-      "points": "",
-      "comments": "\n              51 comments",
-      "index": 10
-    },
-    {
-      "title": "I was wrong about robots.txt",
-      "href": "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 11
-    },
-    {
-      "title": "Geomys, a blueprint for a sustainable open source maintenance firm (2024)",
-      "href": "https://words.filippo.io/geomys/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
-      "href": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 13
-    },
-    {
-      "title": "Fedora SIG changes Python packaging strategy",
-      "href": "https://lwn.net/SubscriberLink/1029354/8e707178c74ae2f8/",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 14
-    },
-    {
-      "title": "Janet Feature Demos",
-      "href": "https://github.com/sogaiu/janet-features-demos",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 15
-    },
-    {
-      "title": "Iris-WebP: Fast, efficient WebP encoder",
-      "href": "https://halide.cx/iris",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 16
     },
     {
       "title": "C++ Trailing Return Types (2022)",
       "href": "https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Death by a thousand slops",
+      "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
+      "points": "",
+      "comments": "\n              51 comments",
+      "index": 13
+    },
+    {
+      "title": "Geomys, a blueprint for a sustainable open source maintenance firm (2024)",
+      "href": "https://words.filippo.io/geomys/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
+      "title": "North Korean XORIndex malware hidden in 67 malicious npm packages",
+      "href": "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/",
+      "points": "",
+      "comments": "\n              19 comments",
+      "index": 15
+    },
+    {
+      "title": "Janet Feature Demos",
+      "href": "https://github.com/sogaiu/janet-features-demos",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 16
+    },
+    {
+      "title": "Fedora SIG changes Python packaging strategy",
+      "href": "https://lwn.net/SubscriberLink/1029354/8e707178c74ae2f8/",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 17
+    },
+    {
+      "title": "Iris-WebP: Fast, efficient WebP encoder",
+      "href": "https://halide.cx/iris",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 18
     },
     {
       "title": "gren-tui: Pure functional TUIs with The Elm Architecture",
       "href": "https://github.com/blaix/gren-tui",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "timep - trap-based profiler, flamegraph for bash",
       "href": "https://github.com/jkool702/timep",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "A Wide Reduction Trick (2022)",
       "href": "https://words.filippo.io/wide-reduction/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5",
       "href": "https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 21
+      "comments": "\n              1 comment",
+      "index": 22
     },
     {
       "title": "Open Sesame: Poems with Entropy",
       "href": "https://www.benwr.net/2025/07/16/opensesame.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Helix 25.07 Highlights",
       "href": "https://helix-editor.com/news/release-25-07-highlights/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Wikipedia outage report for May's Pope traffic spike",
       "href": "https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 24
-    },
-    {
-      "title": "Think real hard (2018)",
-      "href": "https://www.benkuhn.net/thinkrealhard/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
