@@ -1,39 +1,39 @@
 {
-  "date": "Thursday, July 17, 2025 at 9:20 AM GMT-5",
+  "date": "Thursday, July 17, 2025 at 10:20 AM GMT-5",
   "articles": [
+    {
+      "title": "Two Simple Rules to Fix Code Reviews",
+      "href": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 1
+    },
     {
       "title": "Artisanal Handcrafted Git Repositories",
       "href": "https://drew.silcock.dev/blog/artisanal-git/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 1
-    },
-    {
-      "title": "Two Simple Rules to Fix Code Reviews",
-      "href": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 2
     },
     {
       "title": "Underused Techniques for Effective Emails",
       "href": "https://refactoringenglish.com/chapters/techniques-for-writing-emails/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 3
-    },
-    {
-      "title": "We've got to stop sending files to each other",
-      "href": "https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 4
     },
     {
       "title": "C++ Trailing Return Types (2022)",
       "href": "https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 4
+    },
+    {
+      "title": "Parsing Protobuf Like Never Before",
+      "href": "https://mcyoung.xyz/2025/07/16/hyperpb/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 5
     },
     {
@@ -58,122 +58,122 @@
       "index": 8
     },
     {
-      "title": "A Rust shaped hole",
-      "href": "https://mnvr.in/rust",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 9
-    },
-    {
       "title": "Blender HDR and the reference white issue",
       "href": "https://blog.sebastianwick.net/posts/blender-hdr-reference-white/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
+      "index": 9
+    },
+    {
+      "title": "A Rust shaped hole",
+      "href": "https://mnvr.in/rust",
+      "points": "",
+      "comments": "\n              20 comments",
       "index": 10
     },
     {
-      "title": "Parsing Protobuf Like Never Before",
-      "href": "https://mcyoung.xyz/2025/07/16/hyperpb/",
+      "title": "Defeating Dependency Duplication in Tests?",
+      "href": "/s/vpzlcr/defeating_dependency_duplication_tests",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              4 comments",
       "index": 11
     },
     {
-      "title": "I'm unsatisfied with easing functions",
-      "href": "https://www.davepagurek.com/blog/easing-functions/",
+      "title": "Terminal Trove - The $HOME of all things in the terminal",
+      "href": "https://terminaltrove.com/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              2 comments",
       "index": 12
     },
     {
       "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
       "href": "https://matrix.org/blog/2025/07/security-predisclosure/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 13
     },
     {
-      "title": "Defeating Dependency Duplication in Tests?",
-      "href": "/s/vpzlcr/defeating_dependency_duplication_tests",
+      "title": "lsr: ls but with io_uring",
+      "href": "https://tangled.sh/@rockorager.dev/lsr",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 14
+    },
+    {
+      "title": "I'm unsatisfied with easing functions",
+      "href": "https://www.davepagurek.com/blog/easing-functions/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 15
     },
     {
       "title": "I was wrong about robots.txt",
       "href": "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Bundler v2.7: last release before Bundler 4",
       "href": "https://bundler.io/blog/2025/07/17/bundler-v2-7.html",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 16
+      "comments": "\n              1 comment",
+      "index": 17
     },
     {
-      "title": "Reviving Genius",
-      "href": "https://andrewshaw.nl/blog/reviving-genius",
+      "title": "Zig's new Writer",
+      "href": "https://www.openmymind.net/Zigs-New-Writer/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 17
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Why pull-based pipelines are faster",
+      "href": "https://blog.sequinstream.com/why-pull-based-pipelines-are-faster/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "Cloudflare 1.1.1.1 incident postmortem for July 14, 2025",
       "href": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 18
+      "index": 20
     },
     {
-      "title": "Terminal Trove - The $HOME of all things in the terminal",
-      "href": "https://terminaltrove.com/",
+      "title": "We've got to stop sending files to each other",
+      "href": "https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 19
+      "comments": "\n              9 comments",
+      "index": 21
+    },
+    {
+      "title": "Reviving Genius",
+      "href": "https://andrewshaw.nl/blog/reviving-genius",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 22
     },
     {
       "title": "gccrs June 2025 monthly report",
       "href": "https://rust-gcc.github.io/2025/07/17/2025-06-monthly-report.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Active-active Replication Extension for PostgreSQL by AWS",
       "href": "https://github.com/aws/pgactive",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 24
     },
     {
       "title": "Geomys, a blueprint for a sustainable open source maintenance firm (2024)",
       "href": "https://words.filippo.io/geomys/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "Death by a thousand slops",
-      "href": "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/",
-      "points": "",
-      "comments": "\n              53 comments",
-      "index": 23
-    },
-    {
-      "title": "Janet Feature Demos",
-      "href": "https://github.com/sogaiu/janet-features-demos",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 24
-    },
-    {
-      "title": "Open Sesame: Poems with Entropy",
-      "href": "https://www.benwr.net/2025/07/16/opensesame.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
