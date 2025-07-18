@@ -1,5 +1,5 @@
 {
-  "date": "Friday, July 18, 2025 at 11:25 AM GMT-5",
+  "date": "Friday, July 18, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "NIH Is Far Cheaper Than The Wrong Dependency",
@@ -9,8 +9,8 @@
       "index": 1
     },
     {
-      "title": "Forgejo v12",
-      "href": "https://forgejo.org/2025-07-release-v12-0/",
+      "title": "losing language features: some stories about disjoint unions",
+      "href": "https://graydon2.dreamwidth.org/318788.html",
       "points": "",
       "comments": "\n              2 comments",
       "index": 2
@@ -19,21 +19,21 @@
       "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
       "href": "https://www.youtube.com/watch?v=wo84LFzx5nI",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              16 comments",
       "index": 3
     },
     {
-      "title": "losing language features: some stories about disjoint unions",
-      "href": "https://graydon2.dreamwidth.org/318788.html",
+      "title": "Forgejo v12",
+      "href": "https://forgejo.org/2025-07-release-v12-0/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 4
     },
     {
-      "title": "Two Simple Rules to Fix Code Reviews",
-      "href": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
+      "title": "Engineering the End of Work",
+      "href": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
       "points": "",
-      "comments": "\n              39 comments",
+      "comments": "\n              1 comment",
       "index": 5
     },
     {
@@ -44,59 +44,59 @@
       "index": 6
     },
     {
-      "title": "Engineering the End of Work",
-      "href": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
+      "title": "Two Simple Rules to Fix Code Reviews",
+      "href": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
+      "points": "",
+      "comments": "\n              40 comments",
+      "index": 7
+    },
+    {
+      "title": "polycode: Encode a binary file as a rational polynomial function",
+      "href": "https://codeberg.org/cve/polycode",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 7
+      "index": 8
     },
     {
       "title": "When Root Meets Immutable: OpenBSD chflags vs. Log Tampering",
       "href": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/dw7vlt/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              12 comments",
-      "index": 9
+      "comments": "\n              15 comments",
+      "index": 10
     },
     {
       "title": "Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave",
       "href": "https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function",
       "points": "",
       "comments": "\n              32 comments",
-      "index": 10
-    },
-    {
-      "title": "polycode: Encode a binary file as a rational polynomial function",
-      "href": "https://codeberg.org/cve/polycode",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 11
     },
     {
       "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
       "href": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 12
-    },
-    {
-      "title": "lsr: ls but with io_uring",
-      "href": "https://tangled.sh/@rockorager.dev/lsr",
-      "points": "",
-      "comments": "\n              26 comments",
-      "index": 13
     },
     {
       "title": "Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true",
       "href": "https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "lsr: ls but with io_uring",
+      "href": "https://tangled.sh/@rockorager.dev/lsr",
+      "points": "",
+      "comments": "\n              26 comments",
       "index": 14
     },
     {
@@ -107,29 +107,29 @@
       "index": 15
     },
     {
+      "title": "Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder",
+      "href": "https://nigeltao.github.io/blog/2020/jsonptr.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
       "title": "Supporting Faster File Load Times with Memory Optimizations in Rust",
       "href": "https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Parsing Protobuf Like Never Before",
       "href": "https://mcyoung.xyz/2025/07/16/hyperpb/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 17
-    },
-    {
-      "title": "How I Became the First Linux User in India",
-      "href": "https://medium.com/@vishalmisra/how-i-became-the-first-linux-user-in-india-b86be9d2a6c5",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 18
     },
     {
-      "title": "Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder",
-      "href": "https://nigeltao.github.io/blog/2020/jsonptr.html",
+      "title": "How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs",
+      "href": "https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/",
       "points": "",
       "comments": "\n              no comments",
       "index": 19
@@ -142,36 +142,36 @@
       "index": 20
     },
     {
-      "title": "Hackers exploit a blind spot by hiding malware inside DNS records",
-      "href": "https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/",
+      "title": "How I Became the First Linux User in India",
+      "href": "https://medium.com/@vishalmisra/how-i-became-the-first-linux-user-in-india-b86be9d2a6c5",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              1 comment",
       "index": 21
-    },
-    {
-      "title": "Defeating Dependency Duplication in Tests?",
-      "href": "/s/vpzlcr/defeating_dependency_duplication_tests",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 22
     },
     {
       "title": "The Mercury Protocol",
       "href": "https://raw.githubusercontent.com/floren/mercury/master/SPEC",
       "points": "",
       "comments": "\n              11 comments",
+      "index": 22
+    },
+    {
+      "title": "Hackers exploit a blind spot by hiding malware inside DNS records",
+      "href": "https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 23
+    },
+    {
+      "title": "Defeating Dependency Duplication in Tests?",
+      "href": "/s/vpzlcr/defeating_dependency_duplication_tests",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 24
     },
     {
       "title": "Brute-forcing Langley’s geometry problem with field extensions",
       "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/adventitious/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Announcing Raven: Scientific Computing for OCaml (Alpha Release)",
-      "href": "https://discuss.ocaml.org/t/announcing-raven-scientific-computing-for-ocaml-alpha-release/16913",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
