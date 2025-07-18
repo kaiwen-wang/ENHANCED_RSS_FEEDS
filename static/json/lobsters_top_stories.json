@@ -1,11 +1,11 @@
 {
-  "date": "Friday, July 18, 2025 at 8:35 AM GMT-5",
+  "date": "Friday, July 18, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "NIH Is Far Cheaper Than The Wrong Dependency",
       "href": "https://lewiscampbell.tech/blog/250718.html",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              20 comments",
       "index": 1
     },
     {
@@ -23,59 +23,59 @@
       "index": 3
     },
     {
-      "title": "Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave",
-      "href": "https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function",
-      "points": "",
-      "comments": "\n              28 comments",
-      "index": 4
-    },
-    {
       "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
       "href": "https://www.youtube.com/watch?v=wo84LFzx5nI",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
+      "index": 4
+    },
+    {
+      "title": "When Root Meets Immutable: OpenBSD chflags vs. Log Tampering",
+      "href": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 5
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/dw7vlt/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              9 comments",
       "index": 6
+    },
+    {
+      "title": "Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave",
+      "href": "https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function",
+      "points": "",
+      "comments": "\n              30 comments",
+      "index": 7
     },
     {
       "title": "lsr: ls but with io_uring",
       "href": "https://tangled.sh/@rockorager.dev/lsr",
       "points": "",
-      "comments": "\n              23 comments",
-      "index": 7
-    },
-    {
-      "title": "Zig's new Writer",
-      "href": "https://www.openmymind.net/Zigs-New-Writer/",
-      "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              25 comments",
       "index": 8
-    },
-    {
-      "title": "When Root Meets Immutable: OpenBSD chflags vs. Log Tampering",
-      "href": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 9
-    },
-    {
-      "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
-      "href": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
     },
     {
       "title": "Engineering the End of Work",
       "href": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
+      "title": "Zig's new Writer",
+      "href": "https://www.openmymind.net/Zigs-New-Writer/",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 10
+    },
+    {
+      "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
+      "href": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 11
     },
     {
@@ -86,31 +86,31 @@
       "index": 12
     },
     {
-      "title": "Supporting Faster File Load Times with Memory Optimizations in Rust",
-      "href": "https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 13
-    },
-    {
       "title": "polycode: Encode a binary file as a rational polynomial function",
       "href": "https://codeberg.org/cve/polycode",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "Parsing Protobuf Like Never Before",
-      "href": "https://mcyoung.xyz/2025/07/16/hyperpb/",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 15
+      "index": 13
     },
     {
       "title": "Servo adds support for network inspector devtools",
       "href": "https://servo.org/blog/2025/07/17/this-month-in-servo/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Supporting Faster File Load Times with Memory Optimizations in Rust",
+      "href": "https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 15
+    },
+    {
+      "title": "Parsing Protobuf Like Never Before",
+      "href": "https://mcyoung.xyz/2025/07/16/hyperpb/",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 16
     },
     {
@@ -128,17 +128,17 @@
       "index": 18
     },
     {
+      "title": "Defeating Dependency Duplication in Tests?",
+      "href": "/s/vpzlcr/defeating_dependency_duplication_tests",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 19
+    },
+    {
       "title": "The Mercury Protocol",
       "href": "https://raw.githubusercontent.com/floren/mercury/master/SPEC",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 19
-    },
-    {
-      "title": "Defeating Dependency Duplication in Tests?",
-      "href": "/s/vpzlcr/defeating_dependency_duplication_tests",
-      "points": "",
-      "comments": "\n              12 comments",
       "index": 20
     },
     {
