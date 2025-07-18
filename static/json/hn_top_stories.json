@@ -1,214 +1,214 @@
 {
-  "date": "Friday, July 18, 2025 at 4:25 AM GMT-5",
+  "date": "Friday, July 18, 2025 at 5:25 AM GMT-5",
   "articles": [
-    {
-      "title": "Fully homomorphic encryption and the dawn of a private internet",
-      "href": "https://bozmen.io/fhe",
-      "points": "186 points",
-      "comments": "55 comments",
-      "index": 1
-    },
     {
       "title": "When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering",
       "href": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
-      "points": "9 points",
-      "comments": "3 comments",
+      "points": "29 points",
+      "comments": "13 comments",
+      "index": 1
+    },
+    {
+      "title": "Fully homomorphic encryption and the dawn of a private internet",
+      "href": "https://bozmen.io/fhe",
+      "points": "212 points",
+      "comments": "62 comments",
       "index": 2
     },
     {
       "title": "NIH is cheaper than the wrong dependency",
       "href": "https://lewiscampbell.tech/blog/250718.html",
-      "points": "158 points",
-      "comments": "85 comments",
+      "points": "179 points",
+      "comments": "100 comments",
       "index": 3
-    },
-    {
-      "title": "Linux and Secure Boot certificate expiration",
-      "href": "https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/",
-      "points": "71 points",
-      "comments": "48 comments",
-      "index": 4
     },
     {
       "title": "ChatGPT agent: bridging research and action",
       "href": "https://openai.com/index/introducing-chatgpt-agent/",
-      "points": "574 points",
-      "comments": "387 comments",
-      "index": 5
+      "points": "584 points",
+      "comments": "396 comments",
+      "index": 4
     },
     {
       "title": "Mistral Releases Deep Research, Voice, Projects in Le Chat",
       "href": "https://mistral.ai/news/le-chat-dives-deep",
-      "points": "534 points",
-      "comments": "113 comments",
-      "index": 6
+      "points": "554 points",
+      "comments": "117 comments",
+      "index": 5
     },
     {
-      "title": "The End of Windows 10: a toolkit for community repair groups",
-      "href": "https://therestartproject.org/end-of-windows-10-toolkit-for-repair-groups/",
-      "points": "33 points",
-      "comments": "38 comments",
-      "index": 7
+      "title": "My experience with Claude Code after two weeks of adventures",
+      "href": "https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/",
+      "points": "269 points",
+      "comments": "206 comments",
+      "index": 6
     },
     {
       "title": "My favorite use-case for AI is writing logs",
       "href": "https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/",
-      "points": "186 points",
-      "comments": "124 comments",
+      "points": "195 points",
+      "comments": "128 comments",
+      "index": 7
+    },
+    {
+      "title": "Perfume reviews",
+      "href": "https://gwern.net/blog/2025/perfume",
+      "points": "228 points",
+      "comments": "120 comments",
       "index": 8
+    },
+    {
+      "title": "Hand: open-source Robot Hand",
+      "href": "https://github.com/pollen-robotics/AmazingHand",
+      "points": "387 points",
+      "comments": "102 comments",
+      "index": 9
     },
     {
       "title": "Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK)",
       "href": "https://www.arva.ai/careers/ai-research-engineer",
       "points": "",
       "comments": "hide",
-      "index": 9
-    },
-    {
-      "title": "Data on How America Sold Out Its Computer Science Graduates",
-      "href": "https://ifspp.substack.com/p/data-on-how-america-sold-out-its",
-      "points": "47 points",
-      "comments": "23 comments",
       "index": 10
-    },
-    {
-      "title": "My experience with Claude Code after two weeks of adventures",
-      "href": "https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/",
-      "points": "255 points",
-      "comments": "197 comments",
-      "index": 11
-    },
-    {
-      "title": "Perfume reviews",
-      "href": "https://gwern.net/blog/2025/perfume",
-      "points": "226 points",
-      "comments": "119 comments",
-      "index": 12
-    },
-    {
-      "title": "Hand: open-source Robot Hand",
-      "href": "https://github.com/pollen-robotics/AmazingHand",
-      "points": "379 points",
-      "comments": "100 comments",
-      "index": 13
-    },
-    {
-      "title": "Claude Code Unleashed",
-      "href": "https://ymichael.com/2025/07/15/claude-code-unleashed",
-      "points": "85 points",
-      "comments": "46 comments",
-      "index": 14
     },
     {
       "title": "TCP-in-UDP Solution (eBPF)",
       "href": "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html",
-      "points": "20 points",
-      "comments": "4 comments",
-      "index": 15
+      "points": "25 points",
+      "comments": "5 comments",
+      "index": 11
+    },
+    {
+      "title": "Linux and Secure Boot certificate expiration",
+      "href": "https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/",
+      "points": "85 points",
+      "comments": "83 comments",
+      "index": 12
     },
     {
       "title": "Extending That XOR Trick to Billions of Rows",
       "href": "https://nochlin.com/blog/extending-that-xor-trick",
-      "points": "54 points",
-      "comments": "6 comments",
-      "index": 16
+      "points": "56 points",
+      "comments": "7 comments",
+      "index": 13
     },
     {
       "title": "Self-taught engineers often outperform (2024)",
       "href": "https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform",
-      "points": "276 points",
-      "comments": "226 comments",
-      "index": 17
+      "points": "295 points",
+      "comments": "233 comments",
+      "index": 14
+    },
+    {
+      "title": "Fixing a Direct3D9 bug in Far Cry (2018)",
+      "href": "https://houssemnasri.github.io/2018/07/07/farcry-d3d9-bug/",
+      "points": "25 points",
+      "comments": "1 comment",
+      "index": 15
+    },
+    {
+      "title": "Inspect ANSI control codes and escape sequences",
+      "href": "https://ansi.tools",
+      "points": "7 points",
+      "comments": "1 comment",
+      "index": 16
     },
     {
       "title": "DIY Telescope Mods That Transformed My Astrophotography",
       "href": "https://www.youtube.com/watch?v=Efmzr_K4ApQ",
-      "points": "12 points",
-      "comments": "1 comment",
-      "index": 18
+      "points": "17 points",
+      "comments": "3 comments",
+      "index": 17
     },
     {
       "title": "A look at IBM's short-lived \"butterfly\" ThinkPad 701 of 1995",
       "href": "https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard",
-      "points": "71 points",
-      "comments": "20 comments",
+      "points": "76 points",
+      "comments": "22 comments",
+      "index": 18
+    },
+    {
+      "title": "Claude Code Unleashed",
+      "href": "https://ymichael.com/2025/07/15/claude-code-unleashed",
+      "points": "94 points",
+      "comments": "58 comments",
       "index": 19
     },
     {
       "title": "RisingWave: An Open‑Source Stream‑Processing and Management Platform",
       "href": "https://github.com/risingwavelabs/risingwave",
-      "points": "34 points",
+      "points": "36 points",
       "comments": "4 comments",
       "index": 20
     },
     {
-      "title": "Apple bans entire dev account, no reason given",
-      "href": "https://twitter.com/rameerez/status/1945784476723810739",
-      "points": "110 points",
-      "comments": "62 comments",
-      "index": 21
-    },
-    {
-      "title": "Fixing a Direct3D9 bug in Far Cry (2018)",
-      "href": "https://houssemnasri.github.io/2018/07/07/farcry-d3d9-bug/",
-      "points": "16 points",
-      "comments": "discuss",
-      "index": 22
-    },
-    {
       "title": "All AI models might be the same",
       "href": "https://blog.jxmo.io/p/there-is-only-one-model",
-      "points": "197 points",
-      "comments": "102 comments",
-      "index": 23
+      "points": "203 points",
+      "comments": "106 comments",
+      "index": 21
     },
     {
       "title": "Apple Intelligence Foundation Language Models Tech Report 2025",
       "href": "https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025",
-      "points": "214 points",
-      "comments": "154 comments",
-      "index": 24
+      "points": "220 points",
+      "comments": "157 comments",
+      "index": 22
     },
     {
       "title": "USB-C hubs and my slow descent into madness (2021)",
       "href": "https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/",
-      "points": "142 points",
-      "comments": "99 comments",
-      "index": 25
+      "points": "150 points",
+      "comments": "111 comments",
+      "index": 23
     },
     {
       "title": "Astronomers Discover Rare Distant Object in Sync with Neptune",
       "href": "https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune",
-      "points": "34 points",
+      "points": "36 points",
       "comments": "6 comments",
-      "index": 26
-    },
-    {
-      "title": "Anthropic tightens usage limits for Claude Code without telling users",
-      "href": "https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/",
-      "points": "326 points",
-      "comments": "203 comments",
-      "index": 27
-    },
-    {
-      "title": "Archaeologists discover tomb of first king of Caracol",
-      "href": "https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php",
-      "points": "146 points",
-      "comments": "35 comments",
-      "index": 28
+      "index": 24
     },
     {
       "title": "Run TypeScript code without worrying about configuration",
       "href": "https://tsx.is/",
-      "points": "75 points",
-      "comments": "45 comments",
+      "points": "81 points",
+      "comments": "49 comments",
+      "index": 25
+    },
+    {
+      "title": "The Pigeon River Is Perched, Which Is Geologically Bad News (2020)",
+      "href": "https://princegeology.com/the-pigeon-river-is-perched-which-is-geologically-bad-news-for-it/",
+      "points": "9 points",
+      "comments": "2 comments",
+      "index": 26
+    },
+    {
+      "title": "Archaeologists discover tomb of first king of Caracol",
+      "href": "https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php",
+      "points": "147 points",
+      "comments": "35 comments",
+      "index": 27
+    },
+    {
+      "title": "Netflix uses generative AI in one of its shows for first time",
+      "href": "https://www.theguardian.com/media/2025/jul/18/netflix-uses-generative-ai-in-show-for-first-time-el-eternauta",
+      "points": "7 points",
+      "comments": "3 comments",
+      "index": 28
+    },
+    {
+      "title": "Anthropic tightens usage limits for Claude Code without telling users",
+      "href": "https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/",
+      "points": "340 points",
+      "comments": "212 comments",
       "index": 29
     },
     {
-      "title": "Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
-      "href": "https://contextgeneric.dev/blog/extensible-datatypes-part-2/",
-      "points": "15 points",
-      "comments": "discuss",
+      "title": "Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C",
+      "href": "https://github.com/sammycage/plutofilter",
+      "points": "60 points",
+      "comments": "14 comments",
       "index": 30
     }
   ]

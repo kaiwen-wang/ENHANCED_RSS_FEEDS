@@ -1,46 +1,46 @@
 {
-  "date": "Friday, July 18, 2025 at 4:25 AM GMT-5",
+  "date": "Friday, July 18, 2025 at 5:25 AM GMT-5",
   "articles": [
     {
       "title": "NIH Is Far Cheaper Than The Wrong Dependency",
       "href": "https://lewiscampbell.tech/blog/250718.html",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
       "title": "Two Simple Rules to Fix Code Reviews",
       "href": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
       "points": "",
-      "comments": "\n              34 comments",
+      "comments": "\n              35 comments",
       "index": 2
-    },
-    {
-      "title": "lsr: ls but with io_uring",
-      "href": "https://tangled.sh/@rockorager.dev/lsr",
-      "points": "",
-      "comments": "\n              21 comments",
-      "index": 3
     },
     {
       "title": "Forgejo v12",
       "href": "https://forgejo.org/2025-07-release-v12-0/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 3
+    },
+    {
+      "title": "lsr: ls but with io_uring",
+      "href": "https://tangled.sh/@rockorager.dev/lsr",
+      "points": "",
+      "comments": "\n              23 comments",
       "index": 4
     },
     {
       "title": "Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave",
       "href": "https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              24 comments",
       "index": 5
     },
     {
       "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
       "href": "https://www.youtube.com/watch?v=wo84LFzx5nI",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 6
     },
     {
@@ -54,14 +54,14 @@
       "title": "Parsing Protobuf Like Never Before",
       "href": "https://mcyoung.xyz/2025/07/16/hyperpb/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 8
     },
     {
       "title": "Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true",
       "href": "https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 9
     },
     {
@@ -72,73 +72,73 @@
       "index": 10
     },
     {
+      "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
+      "href": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
       "title": "Supporting Faster File Load Times with Memory Optimizations in Rust",
       "href": "https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Hackers exploit a blind spot by hiding malware inside DNS records",
       "href": "https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 12
+      "index": 13
+    },
+    {
+      "title": "When Root Meets Immutable: OpenBSD chflags vs. Log Tampering",
+      "href": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 14
     },
     {
       "title": "Defeating Dependency Duplication in Tests?",
       "href": "/s/vpzlcr/defeating_dependency_duplication_tests",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 13
+      "index": 15
     },
     {
       "title": "Firefox Security & Privacy newsletter 2025 Q2",
       "href": "https://attackanddefense.dev/2025/07/17/firefox-security-privacy-newsletter-2025-q2.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 14
-    },
-    {
-      "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
-      "href": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Artisanal Handcrafted Git Repositories",
       "href": "https://drew.silcock.dev/blog/artisanal-git/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "The Mercury Protocol",
       "href": "https://raw.githubusercontent.com/floren/mercury/master/SPEC",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Terminal Trove - The $HOME of all things in the terminal",
       "href": "https://terminaltrove.com/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Why pull-based pipelines are faster",
       "href": "https://blog.sequinstream.com/why-pull-based-pipelines-are-faster/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
-    },
-    {
-      "title": "When Root Meets Immutable: OpenBSD chflags vs. Log Tampering",
-      "href": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 20
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
+      "title": "Tech Promised Everything. Did it deliver?",
+      "href": "https://www.youtube.com/watch?v=dVG8W-0p6vg",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
+    },
+    {
       "title": "Underused Techniques for Effective Emails",
       "href": "https://refactoringenglish.com/chapters/techniques-for-writing-emails/",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 24
-    },
-    {
-      "title": "My favorite use-case for AI is writing logs",
-      "href": "https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
