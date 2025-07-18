@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, July 17, 2025 at 6:20 PM GMT-5",
+  "date": "Thursday, July 17, 2025 at 8:50 PM GMT-5",
   "articles": [
     {
       "title": "Two Simple Rules to Fix Code Reviews",
       "href": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              26 comments",
       "index": 1
     },
     {
       "title": "lsr: ls but with io_uring",
       "href": "https://tangled.sh/@rockorager.dev/lsr",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              16 comments",
       "index": 2
     },
     {
@@ -37,10 +37,10 @@
       "index": 5
     },
     {
-      "title": "Artisanal Handcrafted Git Repositories",
-      "href": "https://drew.silcock.dev/blog/artisanal-git/",
+      "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
+      "href": "https://www.youtube.com/watch?v=wo84LFzx5nI",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              1 comment",
       "index": 6
     },
     {
@@ -51,66 +51,66 @@
       "index": 7
     },
     {
+      "title": "Hackers exploit a blind spot by hiding malware inside DNS records",
+      "href": "https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 8
+    },
+    {
+      "title": "Artisanal Handcrafted Git Repositories",
+      "href": "https://drew.silcock.dev/blog/artisanal-git/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 9
+    },
+    {
       "title": "Firefox Security & Privacy newsletter 2025 Q2",
       "href": "https://attackanddefense.dev/2025/07/17/firefox-security-privacy-newsletter-2025-q2.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
-    },
-    {
-      "title": "Hackers exploit a blind spot by hiding malware inside DNS records",
-      "href": "https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 9
-    },
-    {
-      "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
-      "href": "https://www.youtube.com/watch?v=wo84LFzx5nI",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 10
-    },
-    {
-      "title": "Defeating Dependency Duplication in Tests?",
-      "href": "/s/vpzlcr/defeating_dependency_duplication_tests",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 11
     },
     {
       "title": "Terminal Trove - The $HOME of all things in the terminal",
       "href": "https://terminaltrove.com/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 11
+    },
+    {
+      "title": "Defeating Dependency Duplication in Tests?",
+      "href": "/s/vpzlcr/defeating_dependency_duplication_tests",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 12
     },
     {
-      "title": "C++ Trailing Return Types (2022)",
-      "href": "https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html",
+      "title": "The Mercury Protocol",
+      "href": "https://raw.githubusercontent.com/floren/mercury/master/SPEC",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              6 comments",
       "index": 13
-    },
-    {
-      "title": "Underused Techniques for Effective Emails",
-      "href": "https://refactoringenglish.com/chapters/techniques-for-writing-emails/",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 14
     },
     {
       "title": "Project SERVFAIL: one year in",
       "href": "https://sdomi.pl/weblog/25-servfail-first-year/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 14
+    },
+    {
+      "title": "C++ Trailing Return Types (2022)",
+      "href": "https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 15
     },
     {
-      "title": "The Mercury Protocol",
-      "href": "https://raw.githubusercontent.com/floren/mercury/master/SPEC",
+      "title": "Underused Techniques for Effective Emails",
+      "href": "https://refactoringenglish.com/chapters/techniques-for-writing-emails/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              14 comments",
       "index": 16
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true",
+      "href": "https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
       "title": "A Rust shaped hole",
       "href": "https://mnvr.in/rust",
       "points": "",
-      "comments": "\n              26 comments",
-      "index": 18
+      "comments": "\n              27 comments",
+      "index": 19
+    },
+    {
+      "title": "Forgejo v12",
+      "href": "https://codeberg.org/forgejo/forgejo/milestone/12836",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "Bundler v2.7: last release before Bundler 4",
       "href": "https://bundler.io/blog/2025/07/17/bundler-v2-7.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 21
     },
     {
       "title": "\"Bypassing\" specialization in Rust or How I Learned to Stop Worrying and Love Function Pointers",
       "href": "https://oakchris1955.eu/posts/bypassing_specialization/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 20
+      "comments": "\n              6 comments",
+      "index": 22
     },
     {
       "title": "Blender HDR and the reference white issue",
       "href": "https://blog.sebastianwick.net/posts/blender-hdr-reference-white/",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 21
-    },
-    {
-      "title": "I was wrong about robots.txt",
-      "href": "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "Active-active Replication Extension for PostgreSQL by AWS",
-      "href": "https://github.com/aws/pgactive",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "I'm unsatisfied with easing functions",
-      "href": "https://www.davepagurek.com/blog/easing-functions/",
+      "title": "My favorite use-case for AI is writing logs",
+      "href": "https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
-      "href": "https://matrix.org/blog/2025/07/security-predisclosure/",
+      "title": "This new Google Chrome filter may kill Web Push Notifications",
+      "href": "https://pushpad.xyz/blog/new-chrome-filter-may-kill-web-push-notifications",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
