@@ -1,18 +1,18 @@
 {
-  "date": "Friday, July 18, 2025 at 1:30 AM GMT-5",
+  "date": "Friday, July 18, 2025 at 2:20 AM GMT-5",
   "articles": [
+    {
+      "title": "NIH Is Far Cheaper Than The Wrong Dependency",
+      "href": "https://lewiscampbell.tech/blog/250718.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 1
+    },
     {
       "title": "Two Simple Rules to Fix Code Reviews",
       "href": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
       "points": "",
       "comments": "\n              33 comments",
-      "index": 1
-    },
-    {
-      "title": "NIH Is Far Cheaper Than The Wrong Dependency",
-      "href": "https://lewiscampbell.tech/blog/250718.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 2
     },
     {
@@ -23,38 +23,38 @@
       "index": 3
     },
     {
+      "title": "Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave",
+      "href": "https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 4
+    },
+    {
       "title": "Zig's new Writer",
       "href": "https://www.openmymind.net/Zigs-New-Writer/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
       "href": "https://www.youtube.com/watch?v=wo84LFzx5nI",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 5
-    },
-    {
-      "title": "Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave",
-      "href": "https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 6
-    },
-    {
-      "title": "Parsing Protobuf Like Never Before",
-      "href": "https://mcyoung.xyz/2025/07/16/hyperpb/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 7
     },
     {
       "title": "Forgejo v12",
       "href": "https://forgejo.org/2025-07-release-v12-0/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 7
+    },
+    {
+      "title": "Parsing Protobuf Like Never Before",
+      "href": "https://mcyoung.xyz/2025/07/16/hyperpb/",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 8
     },
     {
@@ -65,24 +65,24 @@
       "index": 9
     },
     {
-      "title": "Hackers exploit a blind spot by hiding malware inside DNS records",
-      "href": "https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 10
-    },
-    {
       "title": "How I Became the First Linux User in India",
       "href": "https://medium.com/@vishalmisra/how-i-became-the-first-linux-user-in-india-b86be9d2a6c5",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
+      "title": "Hackers exploit a blind spot by hiding malware inside DNS records",
+      "href": "https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 11
     },
     {
       "title": "Defeating Dependency Duplication in Tests?",
       "href": "/s/vpzlcr/defeating_dependency_duplication_tests",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 12
     },
     {
@@ -103,21 +103,21 @@
       "title": "The Mercury Protocol",
       "href": "https://raw.githubusercontent.com/floren/mercury/master/SPEC",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 15
-    },
-    {
-      "title": "Terminal Trove - The $HOME of all things in the terminal",
-      "href": "https://terminaltrove.com/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 16
     },
     {
       "title": "Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true",
       "href": "https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Terminal Trove - The $HOME of all things in the terminal",
+      "href": "https://terminaltrove.com/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 17
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
+      "href": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "My favorite use-case for AI is writing logs",
       "href": "https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "How we tracked down a Go 1.24 memory regression across hundreds of pods",
+      "href": "https://www.datadoghq.com/blog/engineering/go-memory-regression/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "\"Bypassing\" specialization in Rust or How I Learned to Stop Worrying and Love Function Pointers",
       "href": "https://oakchris1955.eu/posts/bypassing_specialization/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 23
-    },
-    {
-      "title": "A Rust shaped hole",
-      "href": "https://mnvr.in/rust",
-      "points": "",
-      "comments": "\n              29 comments",
-      "index": 24
-    },
-    {
-      "title": "Bundler v2.7: last release before Bundler 4",
-      "href": "https://bundler.io/blog/2025/07/17/bundler-v2-7.html",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
