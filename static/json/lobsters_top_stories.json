@@ -1,18 +1,18 @@
 {
-  "date": "Friday, July 18, 2025 at 5:20 PM GMT-5",
+  "date": "Friday, July 18, 2025 at 6:20 PM GMT-5",
   "articles": [
-    {
-      "title": "NIH Is Far Cheaper Than The Wrong Dependency",
-      "href": "https://lewiscampbell.tech/blog/250718.html",
-      "points": "",
-      "comments": "\n              39 comments",
-      "index": 1
-    },
     {
       "title": "Asynchrony is not Concurrency",
       "href": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
+      "index": 1
+    },
+    {
+      "title": "NIH Is Far Cheaper Than The Wrong Dependency",
+      "href": "https://lewiscampbell.tech/blog/250718.html",
+      "points": "",
+      "comments": "\n              42 comments",
       "index": 2
     },
     {
@@ -37,38 +37,38 @@
       "index": 5
     },
     {
-      "title": "The current technology is not ready for proper blending",
-      "href": "https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html",
+      "title": "Servo adds support for network inspector devtools",
+      "href": "https://servo.org/blog/2025/07/17/this-month-in-servo/",
       "points": "",
       "comments": "\n              no comments",
       "index": 6
     },
     {
-      "title": "Servo adds support for network inspector devtools",
-      "href": "https://servo.org/blog/2025/07/17/this-month-in-servo/",
+      "title": "The current technology is not ready for proper blending",
+      "href": "https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 7
-    },
-    {
-      "title": "Forgejo v12",
-      "href": "https://forgejo.org/2025-07-release-v12-0/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 8
     },
     {
       "title": "Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder",
       "href": "https://nigeltao.github.io/blog/2020/jsonptr.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
+      "title": "Forgejo v12",
+      "href": "https://forgejo.org/2025-07-release-v12-0/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 9
     },
     {
       "title": "polycode: Encode a binary file as a rational polynomial function",
       "href": "https://codeberg.org/cve/polycode",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 10
     },
     {
@@ -89,56 +89,56 @@
       "title": "What are you doing this weekend?",
       "href": "/s/dw7vlt/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              19 comments",
       "index": 13
+    },
+    {
+      "title": "Pimping my Casio: Part Deux",
+      "href": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
     },
     {
       "title": "Petition: Repeal the Online Safety Act",
       "href": "https://petition.parliament.uk/petitions/722903",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "When Root Meets Immutable: OpenBSD chflags vs. Log Tampering",
       "href": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs",
       "href": "https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave",
       "href": "https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function",
       "points": "",
       "comments": "\n              34 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true",
       "href": "https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "lsr: ls but with io_uring",
       "href": "https://tangled.sh/@rockorager.dev/lsr",
       "points": "",
       "comments": "\n              26 comments",
-      "index": 19
-    },
-    {
-      "title": "Kap lang",
-      "href": "https://kapdemo.dhsdevelopments.com/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
-      "title": "Pimping my Casio: Part Deux",
-      "href": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
+      "title": "Kap lang",
+      "href": "https://kapdemo.dhsdevelopments.com/",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
+    },
+    {
+      "title": "Enough unix to get by",
+      "href": "https://thoughtbot.com/blog/enough-unix-to-get-by",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 23
     },
     {
       "title": "Parsing Protobuf Like Never Before",
       "href": "https://mcyoung.xyz/2025/07/16/hyperpb/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Supporting Faster File Load Times with Memory Optimizations in Rust",
       "href": "https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 24
-    },
-    {
-      "title": "How do you compute the midpoint of an interval? (2014)",
-      "href": "https://hal.science/file/index/docid/576641/filename/computing-midpoint.pdf",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
