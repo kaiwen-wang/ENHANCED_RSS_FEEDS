@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, July 19, 2025 at 8:30 AM GMT-5",
+  "date": "Saturday, July 19, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Do you understand f-strings?",
@@ -9,31 +9,31 @@
       "index": 1
     },
     {
+      "title": "He rewrote everything in Rust, then we got fired",
+      "href": "https://freedium.cfd/https://medium.com/@ThreadSafeDiaries/he-rewrote-everything-in-rust-then-we-got-fired-293e3e16c2d3",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 2
+    },
+    {
       "title": "Async Rust Is A Bad Language (2023)",
       "href": "https://bitbashing.io/async-rust.html",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 2
+      "index": 3
     },
     {
       "title": "Asynchrony is not Concurrency",
       "href": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware",
       "href": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 4
-    },
-    {
-      "title": "Shutting down Clear Linux OS",
-      "href": "https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 5
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
+      "title": "Shutting down Clear Linux OS",
+      "href": "https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 7
+    },
+    {
       "title": "NIH Is Far Cheaper Than The Wrong Dependency",
       "href": "https://lewiscampbell.tech/blog/250718.html",
       "points": "",
       "comments": "\n              49 comments",
-      "index": 7
-    },
-    {
-      "title": "He rewrote everything in Rust, then we got fired",
-      "href": "https://freedium.cfd/https://medium.com/@ThreadSafeDiaries/he-rewrote-everything-in-rust-then-we-got-fired-293e3e16c2d3",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 8
     },
     {
@@ -72,106 +72,106 @@
       "index": 10
     },
     {
+      "title": "Kubernetes Observability with OpenTelemetry Helm Charts [A guide I wish I had, when I started]",
+      "href": "https://signoz.io/blog/kubernetes-observability-with-opentelemetry/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
       "title": "Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder",
       "href": "https://nigeltao.github.io/blog/2020/jsonptr.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Pimping my Casio: Part Deux",
       "href": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Engineering the End of Work",
       "href": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Servo adds support for network inspector devtools",
       "href": "https://servo.org/blog/2025/07/17/this-month-in-servo/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "polycode: Encode a binary file as a rational polynomial function",
       "href": "https://codeberg.org/cve/polycode",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 15
-    },
-    {
-      "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
-      "href": "https://www.youtube.com/watch?v=wo84LFzx5nI",
-      "points": "",
-      "comments": "\n              32 comments",
       "index": 16
-    },
-    {
-      "title": "How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs",
-      "href": "https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 17
     },
     {
       "title": "Frequently Asked Questions about FHE",
       "href": "https://www.jeremykun.com/frequently-asked-questions-about-fhe/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
+      "href": "https://www.youtube.com/watch?v=wo84LFzx5nI",
+      "points": "",
+      "comments": "\n              32 comments",
       "index": 18
+    },
+    {
+      "title": "How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs",
+      "href": "https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 19
     },
     {
       "title": "Forgejo v12",
       "href": "https://forgejo.org/2025-07-release-v12-0/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "When Root Meets Immutable: OpenBSD chflags vs. Log Tampering",
       "href": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Super Mario Bros is (Computationally) Hard",
       "href": "https://www.youtube.com/watch?v=unLPk4H1hto",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
       "href": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Two Simple Rules to Fix Code Reviews",
       "href": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
       "points": "",
       "comments": "\n              40 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Kap lang",
       "href": "https://kapdemo.dhsdevelopments.com/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true",
-      "href": "https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
