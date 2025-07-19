@@ -1,51 +1,51 @@
 {
-  "date": "Saturday, July 19, 2025 at 10:20 AM GMT-5",
+  "date": "Saturday, July 19, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "Do you understand f-strings?",
       "href": "https://fstrings.wtf/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              8 comments",
       "index": 1
     },
     {
       "title": "Async Rust Is A Bad Language (2023)",
       "href": "https://bitbashing.io/async-rust.html",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              20 comments",
       "index": 2
     },
     {
       "title": "Asynchrony is not Concurrency",
       "href": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 3
     },
     {
       "title": "firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware",
       "href": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 4
     },
     {
       "title": "Shutting down Clear Linux OS",
       "href": "https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 5
     },
     {
-      "title": "The current technology is not ready for proper blending",
-      "href": "https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html",
+      "title": "Linux and Secure Boot certificate expiration",
+      "href": "https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/",
       "points": "",
       "comments": "\n              no comments",
       "index": 6
     },
     {
-      "title": "Linux and Secure Boot certificate expiration",
-      "href": "https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/",
+      "title": "The current technology is not ready for proper blending",
+      "href": "https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 7
@@ -79,38 +79,38 @@
       "index": 11
     },
     {
-      "title": "Servo adds support for network inspector devtools",
-      "href": "https://servo.org/blog/2025/07/17/this-month-in-servo/",
+      "title": "Using leaked data to examine vulnerabilities in SMS routing and SS7 signalling",
+      "href": "https://medium.com/@lighthousereports/using-leaked-data-to-examine-vulnerabilities-in-sms-routing-and-ss7-signalling-8e30298491d9",
       "points": "",
       "comments": "\n              no comments",
       "index": 12
-    },
-    {
-      "title": "Engineering the End of Work",
-      "href": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
-    },
-    {
-      "title": "polycode: Encode a binary file as a rational polynomial function",
-      "href": "https://codeberg.org/cve/polycode",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 14
     },
     {
       "title": "Frequently Asked Questions about FHE",
       "href": "https://www.jeremykun.com/frequently-asked-questions-about-fhe/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "Servo adds support for network inspector devtools",
+      "href": "https://servo.org/blog/2025/07/17/this-month-in-servo/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Engineering the End of Work",
+      "href": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 15
     },
     {
-      "title": "Using leaked data to examine vulnerabilities in SMS routing and SS7 signalling",
-      "href": "https://medium.com/@lighthousereports/using-leaked-data-to-examine-vulnerabilities-in-sms-routing-and-ss7-signalling-8e30298491d9",
+      "title": "polycode: Encode a binary file as a rational polynomial function",
+      "href": "https://codeberg.org/cve/polycode",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              6 comments",
       "index": 16
     },
     {
@@ -135,10 +135,10 @@
       "index": 19
     },
     {
-      "title": "When Root Meets Immutable: OpenBSD chflags vs. Log Tampering",
-      "href": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
+      "title": "Stealth Macintosh Portable Case Mod",
+      "href": "https://biosrhythm.com/?p=2956",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              1 comment",
       "index": 20
     },
     {
@@ -149,17 +149,17 @@
       "index": 21
     },
     {
-      "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
-      "href": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
+      "title": "When Root Meets Immutable: OpenBSD chflags vs. Log Tampering",
+      "href": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              12 comments",
       "index": 22
     },
     {
-      "title": "Stealth Macintosh Portable Case Mod",
-      "href": "https://biosrhythm.com/?p=2956",
+      "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
+      "href": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 23
     },
     {
