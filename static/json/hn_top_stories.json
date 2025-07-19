@@ -1,214 +1,214 @@
 {
-  "date": "Friday, July 18, 2025 at 8:45 PM GMT-5",
+  "date": "Friday, July 18, 2025 at 10:20 PM GMT-5",
   "articles": [
     {
-      "title": "Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs",
-      "href": "https://www.macintoshrepository.org/44146-mr-browser",
-      "points": "20 points",
-      "comments": "1 comment",
+      "title": "My Ultimate Self-Hosting Setup",
+      "href": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
+      "points": "17 points",
+      "comments": "2 comments",
       "index": 1
-    },
-    {
-      "title": "Asynchrony is not concurrency",
-      "href": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
-      "points": "170 points",
-      "comments": "115 comments",
-      "index": 2
     },
     {
       "title": "How to write Rust in the Linux kernel: part 3",
       "href": "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/",
-      "points": "48 points",
+      "points": "85 points",
       "comments": "discuss",
+      "index": 2
+    },
+    {
+      "title": "Asynchrony is not concurrency",
+      "href": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
+      "points": "189 points",
+      "comments": "123 comments",
       "index": 3
+    },
+    {
+      "title": "Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs",
+      "href": "https://www.macintoshrepository.org/44146-mr-browser",
+      "points": "37 points",
+      "comments": "4 comments",
+      "index": 4
     },
     {
       "title": "Debcraft – Easiest way to modify and build Debian packages",
       "href": "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/",
-      "points": "14 points",
-      "comments": "1 comment",
-      "index": 4
+      "points": "25 points",
+      "comments": "6 comments",
+      "index": 5
     },
     {
       "title": "Silence Is a Commons by Ivan Illich (1983)",
       "href": "http://www.davidtinapple.com/illich/1983_silence_commons.html",
-      "points": "82 points",
-      "comments": "12 comments",
-      "index": 5
-    },
-    {
-      "title": "Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files",
-      "href": "https://github.com/ryoppippi/ccusage",
-      "points": "27 points",
-      "comments": "20 comments",
+      "points": "97 points",
+      "comments": "16 comments",
       "index": 6
-    },
-    {
-      "title": "C++: zero-cost static initialization",
-      "href": "https://cofault.com/zero-cost-static.html",
-      "points": "14 points",
-      "comments": "4 comments",
-      "index": 7
     },
     {
       "title": "Valve confirms credit card companies pressured it to delist certain adult games",
       "href": "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/",
-      "points": "196 points",
-      "comments": "206 comments",
+      "points": "252 points",
+      "comments": "295 comments",
+      "index": 7
+    },
+    {
+      "title": "Bun adds pnpm-style isolated installation mode",
+      "href": "https://github.com/oven-sh/bun/pull/20440",
+      "points": "15 points",
+      "comments": "discuss",
       "index": 8
     },
     {
-      "title": "Shutting Down Clear Linux OS",
-      "href": "https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716",
-      "points": "83 points",
-      "comments": "54 comments",
+      "title": "C++: zero-cost static initialization",
+      "href": "https://cofault.com/zero-cost-static.html",
+      "points": "25 points",
+      "comments": "7 comments",
       "index": 9
+    },
+    {
+      "title": "Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files",
+      "href": "https://github.com/ryoppippi/ccusage",
+      "points": "38 points",
+      "comments": "24 comments",
+      "index": 10
     },
     {
       "title": "Meta says it wont sign Europe AI agreement, calling it growth stunting overreach",
       "href": "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html",
-      "points": "109 points",
-      "comments": "155 comments",
-      "index": 10
+      "points": "132 points",
+      "comments": "176 comments",
+      "index": 11
     },
     {
-      "title": "Multiplatform Matrix Multiplication Kernels",
-      "href": "https://burn.dev/blog/sota-multiplatform-matmul/",
-      "points": "52 points",
-      "comments": "19 comments",
-      "index": 11
+      "title": "The Halo Effect",
+      "href": "https://kwokchain.com/2025/07/15/the-halo-effect/",
+      "points": "7 points",
+      "comments": "1 comment",
+      "index": 12
     },
     {
       "title": "lsr: ls with io_uring",
       "href": "https://rockorager.dev/log/lsr-ls-but-with-io-uring/",
-      "points": "303 points",
+      "points": "311 points",
       "comments": "152 comments",
-      "index": 12
-    },
-    {
-      "title": "Broadcom to discontinue free Bitnami Helm charts",
-      "href": "https://github.com/bitnami/charts/issues/35164",
-      "points": "95 points",
-      "comments": "59 comments",
       "index": 13
     },
     {
       "title": "Wii U SDBoot1 Exploit “paid the beak”",
       "href": "https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/",
-      "points": "81 points",
-      "comments": "11 comments",
+      "points": "98 points",
+      "comments": "15 comments",
       "index": 14
+    },
+    {
+      "title": "Broadcom to discontinue free Bitnami Helm charts",
+      "href": "https://github.com/bitnami/charts/issues/35164",
+      "points": "110 points",
+      "comments": "65 comments",
+      "index": 15
+    },
+    {
+      "title": "Multiplatform Matrix Multiplication Kernels",
+      "href": "https://burn.dev/blog/sota-multiplatform-matmul/",
+      "points": "54 points",
+      "comments": "21 comments",
+      "index": 16
+    },
+    {
+      "title": "We do not break userspace (2012)",
+      "href": "https://lore.kernel.org/all/CA+55aFy98A+LJK4+GWMcbzaa1zsPBRo76q+ioEjbx-uaMKH6Uw@mail.gmail.com/",
+      "points": "34 points",
+      "comments": "31 comments",
+      "index": 17
     },
     {
       "title": "Trying Guix: A Nixer's impressions",
       "href": "https://tazj.in/blog/trying-guix",
-      "points": "142 points",
-      "comments": "41 comments",
-      "index": 15
+      "points": "150 points",
+      "comments": "45 comments",
+      "index": 18
     },
     {
       "title": "AI capex is so big that it's affecting economic statistics",
       "href": "https://paulkedrosky.com/honey-ai-capex-ate-the-economy/",
-      "points": "201 points",
-      "comments": "220 comments",
-      "index": 16
+      "points": "227 points",
+      "comments": "240 comments",
+      "index": 19
+    },
+    {
+      "title": "Show HN: I built library management app for those who outgrew spreadsheets",
+      "href": "https://www.librari.io/",
+      "points": "62 points",
+      "comments": "32 comments",
+      "index": 20
     },
     {
       "title": "The year of peak might and magic",
       "href": "https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/",
-      "points": "80 points",
-      "comments": "40 comments",
-      "index": 17
-    },
-    {
-      "title": "CP/M creator Gary Kildall's memoirs released as free download",
-      "href": "https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download",
-      "points": "234 points",
-      "comments": "121 comments",
-      "index": 18
+      "points": "87 points",
+      "comments": "46 comments",
+      "index": 21
     },
     {
       "title": "Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog",
       "href": "https://eprint.iacr.org/2025/1237",
-      "points": "62 points",
-      "comments": "17 comments",
-      "index": 19
+      "points": "68 points",
+      "comments": "20 comments",
+      "index": 22
     },
     {
       "title": "Mango Health (YC W24) Is Hiring",
       "href": "https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer",
       "points": "",
       "comments": "hide",
-      "index": 20
-    },
-    {
-      "title": "Show HN: I built library management app for those who outgrew spreadsheets",
-      "href": "https://www.librari.io/",
-      "points": "52 points",
-      "comments": "29 comments",
-      "index": 21
-    },
-    {
-      "title": "Converting Integers to Floats Using Hyperfocus (2022)",
-      "href": "https://blog.m-ou.se/floats/",
-      "points": "3 points",
-      "comments": "discuss",
-      "index": 22
-    },
-    {
-      "title": "Show HN: Molab, a cloud-hosted Marimo notebook workspace",
-      "href": "https://molab.marimo.io/notebooks",
-      "points": "70 points",
-      "comments": "9 comments",
       "index": 23
-    },
-    {
-      "title": "Sage: An atomic bomb kicked off the biggest computing project in history",
-      "href": "https://www.ibm.com/history/sage",
-      "points": "19 points",
-      "comments": "3 comments",
-      "index": 24
-    },
-    {
-      "title": "A New Geometry for Einstein's Theory of Relativity",
-      "href": "https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/",
-      "points": "84 points",
-      "comments": "2 comments",
-      "index": 25
     },
     {
       "title": "I'm Rebelling Against the Algorithm",
       "href": "https://varunraghu.com/im-rebelling-against-the-algorithm/",
-      "points": "22 points",
-      "comments": "7 comments",
+      "points": "44 points",
+      "comments": "21 comments",
+      "index": 24
+    },
+    {
+      "title": "Show HN: Molab, a cloud-hosted Marimo notebook workspace",
+      "href": "https://molab.marimo.io/notebooks",
+      "points": "76 points",
+      "comments": "12 comments",
+      "index": 25
+    },
+    {
+      "title": "A New Geometry for Einstein's Theory of Relativity",
+      "href": "https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/",
+      "points": "88 points",
+      "comments": "3 comments",
       "index": 26
+    },
+    {
+      "title": "Converting Integers to Floats Using Hyperfocus (2022)",
+      "href": "https://blog.m-ou.se/floats/",
+      "points": "8 points",
+      "comments": "discuss",
+      "index": 27
     },
     {
       "title": "Cancer DNA is detectable in blood years before diagnosis",
       "href": "https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening",
-      "points": "174 points",
-      "comments": "103 comments",
-      "index": 27
+      "points": "194 points",
+      "comments": "109 comments",
+      "index": 28
     },
     {
       "title": "How I keep up with AI progress",
       "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
-      "points": "186 points",
-      "comments": "92 comments",
-      "index": 28
-    },
-    {
-      "title": "Show HN: Simulating autonomous drone formations",
-      "href": "https://github.com/sushrut141/ketu",
-      "points": "15 points",
-      "comments": "3 comments",
+      "points": "200 points",
+      "comments": "96 comments",
       "index": 29
     },
     {
-      "title": "Intel Announces It's Shutting Down Clear Linux",
-      "href": "https://www.phoronix.com/news/Intel-Ends-Clear-Linux",
-      "points": "15 points",
-      "comments": "4 comments",
+      "title": "Hundred Rabbits – Low-tech living while sailing the world",
+      "href": "https://100r.co/site/home.html",
+      "points": "225 points",
+      "comments": "71 comments",
       "index": 30
     }
   ]
