@@ -1,5 +1,5 @@
 {
-  "date": "Friday, July 18, 2025 at 10:20 PM GMT-5",
+  "date": "Friday, July 18, 2025 at 11:30 PM GMT-5",
   "articles": [
     {
       "title": "Asynchrony is not Concurrency",
@@ -26,7 +26,7 @@
       "title": "Async Rust Is A Bad Language",
       "href": "https://bitbashing.io/async-rust.html",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 4
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
-      "title": "Engineering the End of Work",
-      "href": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 6
-    },
-    {
       "title": "Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder",
       "href": "https://nigeltao.github.io/blog/2020/jsonptr.html",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
+      "title": "Engineering the End of Work",
+      "href": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 7
     },
     {
@@ -68,21 +68,21 @@
       "title": "Forgejo v12",
       "href": "https://forgejo.org/2025-07-release-v12-0/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 10
+    },
+    {
+      "title": "polycode: Encode a binary file as a rational polynomial function",
+      "href": "https://codeberg.org/cve/polycode",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 11
     },
     {
       "title": "Pimping my Casio: Part Deux",
       "href": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "polycode: Encode a binary file as a rational polynomial function",
-      "href": "https://codeberg.org/cve/polycode",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 12
     },
     {
@@ -100,17 +100,17 @@
       "index": 14
     },
     {
-      "title": "How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs",
-      "href": "https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
       "title": "When Root Meets Immutable: OpenBSD chflags vs. Log Tampering",
       "href": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
       "points": "",
       "comments": "\n              12 comments",
+      "index": 15
+    },
+    {
+      "title": "How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs",
+      "href": "https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 16
     },
     {
@@ -156,17 +156,17 @@
       "index": 22
     },
     {
-      "title": "lsr: ls but with io_uring",
-      "href": "https://tangled.sh/@rockorager.dev/lsr",
-      "points": "",
-      "comments": "\n              26 comments",
-      "index": 23
-    },
-    {
       "title": "Zig's new Writer",
       "href": "https://www.openmymind.net/Zigs-New-Writer/",
       "points": "",
       "comments": "\n              14 comments",
+      "index": 23
+    },
+    {
+      "title": "lsr: ls but with io_uring",
+      "href": "https://tangled.sh/@rockorager.dev/lsr",
+      "points": "",
+      "comments": "\n              26 comments",
       "index": 24
     },
     {
