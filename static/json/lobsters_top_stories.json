@@ -1,5 +1,5 @@
 {
-  "date": "Friday, July 18, 2025 at 6:20 PM GMT-5",
+  "date": "Friday, July 18, 2025 at 8:45 PM GMT-5",
   "articles": [
     {
       "title": "Asynchrony is not Concurrency",
@@ -12,98 +12,98 @@
       "title": "NIH Is Far Cheaper Than The Wrong Dependency",
       "href": "https://lewiscampbell.tech/blog/250718.html",
       "points": "",
-      "comments": "\n              42 comments",
+      "comments": "\n              44 comments",
       "index": 2
     },
     {
       "title": "firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware",
       "href": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 3
-    },
-    {
-      "title": "Engineering the End of Work",
-      "href": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 4
-    },
-    {
-      "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
-      "href": "https://www.youtube.com/watch?v=wo84LFzx5nI",
-      "points": "",
-      "comments": "\n              31 comments",
-      "index": 5
-    },
-    {
-      "title": "Servo adds support for network inspector devtools",
-      "href": "https://servo.org/blog/2025/07/17/this-month-in-servo/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 6
     },
     {
       "title": "The current technology is not ready for proper blending",
       "href": "https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 7
+      "index": 4
+    },
+    {
+      "title": "Async Rust Is A Bad Language",
+      "href": "https://bitbashing.io/async-rust.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 5
+    },
+    {
+      "title": "Engineering the End of Work",
+      "href": "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 6
     },
     {
       "title": "Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder",
       "href": "https://nigeltao.github.io/blog/2020/jsonptr.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
+      "index": 7
+    },
+    {
+      "title": "Servo adds support for network inspector devtools",
+      "href": "https://servo.org/blog/2025/07/17/this-month-in-servo/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 8
+    },
+    {
+      "title": "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
+      "href": "https://www.youtube.com/watch?v=wo84LFzx5nI",
+      "points": "",
+      "comments": "\n              31 comments",
+      "index": 9
     },
     {
       "title": "Forgejo v12",
       "href": "https://forgejo.org/2025-07-release-v12-0/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "polycode: Encode a binary file as a rational polynomial function",
       "href": "https://codeberg.org/cve/polycode",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 10
-    },
-    {
-      "title": "Two Simple Rules to Fix Code Reviews",
-      "href": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
-      "points": "",
-      "comments": "\n              40 comments",
+      "comments": "\n              3 comments",
       "index": 11
-    },
-    {
-      "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
-      "href": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 12
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/dw7vlt/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 13
-    },
-    {
-      "title": "Pimping my Casio: Part Deux",
-      "href": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
     },
     {
       "title": "Petition: Repeal the Online Safety Act",
       "href": "https://petition.parliament.uk/petitions/722903",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 12
+    },
+    {
+      "title": "Pimping my Casio: Part Deux",
+      "href": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs",
+      "href": "https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Two Simple Rules to Fix Code Reviews",
+      "href": "https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews",
+      "points": "",
+      "comments": "\n              40 comments",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs",
-      "href": "https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/",
+      "title": "How Go 1.24's Swiss Tables saved us hundreds of gigabytes",
+      "href": "https://www.datadoghq.com/blog/engineering/go-swiss-tables/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 17
+    },
+    {
+      "title": "Shutting down Clear Linux OS",
+      "href": "https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/dw7vlt/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              19 comments",
+      "index": 19
     },
     {
       "title": "Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave",
       "href": "https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function",
       "points": "",
       "comments": "\n              34 comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true",
       "href": "https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "lsr: ls but with io_uring",
       "href": "https://tangled.sh/@rockorager.dev/lsr",
       "points": "",
       "comments": "\n              26 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Zig's new Writer",
       "href": "https://www.openmymind.net/Zigs-New-Writer/",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 21
+      "comments": "\n              14 comments",
+      "index": 23
     },
     {
       "title": "Kap lang",
       "href": "https://kapdemo.dhsdevelopments.com/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Enough unix to get by",
-      "href": "https://thoughtbot.com/blog/enough-unix-to-get-by",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "Parsing Protobuf Like Never Before",
-      "href": "https://mcyoung.xyz/2025/07/16/hyperpb/",
-      "points": "",
-      "comments": "\n              15 comments",
       "index": 24
     },
     {
-      "title": "Supporting Faster File Load Times with Memory Optimizations in Rust",
-      "href": "https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/",
+      "title": "Super Mario Bros is (Computationally) Hard",
+      "href": "https://www.youtube.com/watch?v=unLPk4H1hto",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
