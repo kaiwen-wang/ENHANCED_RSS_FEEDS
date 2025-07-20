@@ -1,39 +1,39 @@
 {
-  "date": "Sunday, July 20, 2025 at 7:40 AM GMT-5",
+  "date": "Sunday, July 20, 2025 at 8:30 AM GMT-5",
   "articles": [
+    {
+      "title": "Coding with LLMs in the summer of 2025 (an update)",
+      "href": "https://antirez.com/news/154",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 1
+    },
     {
       "title": "Do you understand f-strings?",
       "href": "https://fstrings.wtf/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 1
+      "index": 2
     },
     {
       "title": "Why you should choose HTMX for your next web-based side project - and ditch the crufty MPA and complex SPA",
       "href": "https://hamy.xyz/blog/2024-02_htmx-for-side-projects",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 2
+      "index": 3
     },
     {
       "title": "The borrowchecker is what I like the least about Rust",
       "href": "https://viralinstruction.com/posts/borrowchecker/",
       "points": "",
-      "comments": "\n              12 comments",
-      "index": 3
+      "comments": "\n              13 comments",
+      "index": 4
     },
     {
       "title": "Giving Up on Element & Matrix.org",
       "href": "https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 4
-    },
-    {
-      "title": "Coding with LLMs in the summer of 2025 (an update)",
-      "href": "https://antirez.com/news/154",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 5
     },
     {
@@ -68,7 +68,7 @@
       "title": "Async Rust Is A Bad Language (2023)",
       "href": "https://bitbashing.io/async-rust.html",
       "points": "",
-      "comments": "\n              33 comments",
+      "comments": "\n              34 comments",
       "index": 10
     },
     {
@@ -86,10 +86,10 @@
       "index": 12
     },
     {
-      "title": "Rethinking CLI interfaces for AI",
-      "href": "https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/",
+      "title": "Parallelizing the physics solver",
+      "href": "https://youtu.be/Kvsvd67XUKw",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              no comments",
       "index": 13
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "Parallelizing the physics solver",
-      "href": "https://youtu.be/Kvsvd67XUKw",
+      "title": "Rethinking CLI interfaces for AI",
+      "href": "https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              4 comments",
       "index": 15
     },
     {
@@ -128,17 +128,17 @@
       "index": 18
     },
     {
-      "title": "Structuring large Clojure codebases with Biff",
-      "href": "https://biffweb.com/p/structuring-large-codebases/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
       "title": "FAQ: What’s a @KevlinHenney?",
       "href": "https://kevlinhenney.medium.com/faq-whats-a-kevlinhenney-cc98d172f811",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Structuring large Clojure codebases with Biff",
+      "href": "https://biffweb.com/p/structuring-large-codebases/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 20
     },
     {
