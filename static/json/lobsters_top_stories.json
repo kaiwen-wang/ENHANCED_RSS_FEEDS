@@ -1,32 +1,32 @@
 {
-  "date": "Sunday, July 20, 2025 at 8:55 PM GMT-5",
+  "date": "Sunday, July 20, 2025 at 10:45 PM GMT-5",
   "articles": [
     {
       "title": "Coding with LLMs in the summer of 2025 (an update)",
       "href": "https://antirez.com/news/154",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              15 comments",
       "index": 1
+    },
+    {
+      "title": "Why Lexing and Parsing Should Be Separate",
+      "href": "https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 2
     },
     {
       "title": "Introducing XMLUI",
       "href": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 2
+      "index": 3
     },
     {
       "title": "They're putting blue food coloring in everything",
       "href": "https://blog.foxtrotluna.social/theyre-putting-blue-food-coloring-in-everything/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 3
-    },
-    {
-      "title": "Why Lexing and Parsing Should Be Separate",
-      "href": "https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 4
     },
     {
@@ -54,7 +54,7 @@
       "title": "Async I/O on Linux and durability",
       "href": "https://blog.canoozie.net/async-i-o-on-linux-and-durability/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 8
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
-      "title": "Why you should choose HTMX for your next web-based side project - and ditch the crufty MPA and complex SPA",
-      "href": "https://hamy.xyz/blog/2024-02_htmx-for-side-projects",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 10
-    },
-    {
       "title": "I’m Tired of Talking About AI",
       "href": "https://paddy.carvers.com/posts/2025/07/ai/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 11
-    },
-    {
-      "title": "The borrowchecker is what I like the least about Rust",
-      "href": "https://viralinstruction.com/posts/borrowchecker/",
-      "points": "",
-      "comments": "\n              31 comments",
-      "index": 12
+      "index": 10
     },
     {
       "title": "Tools of the Trade",
       "href": "https://www.youtube.com/watch?v=YNtoDGS4uak",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "Why you should choose HTMX for your next web-based side project - and ditch the crufty MPA and complex SPA",
+      "href": "https://hamy.xyz/blog/2024-02_htmx-for-side-projects",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 12
+    },
+    {
+      "title": "Type-level programming for safer resource management",
+      "href": "https://frasertweedale.github.io/blog-fp/posts/2025-07-19-type-nats-and-constraints.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 13
+    },
+    {
+      "title": "The borrowchecker is what I like the least about Rust",
+      "href": "https://viralinstruction.com/posts/borrowchecker/",
+      "points": "",
+      "comments": "\n              31 comments",
+      "index": 14
     },
     {
       "title": "Do you understand f-strings?",
       "href": "https://fstrings.wtf/",
       "points": "",
-      "comments": "\n              23 comments",
-      "index": 14
+      "comments": "\n              24 comments",
+      "index": 15
     },
     {
       "title": "Responsible AI in Enterprise Applications: A Practitioner's View",
       "href": "https://www.jjude.com/responsible-ai-in-enterprise-apps/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
+      "index": 16
+    },
+    {
+      "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
+      "href": "https://github.com/revk/ESP32-Faikin",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "Giving Up on Element & Matrix.org",
       "href": "https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/",
       "points": "",
-      "comments": "\n              40 comments",
-      "index": 16
-    },
-    {
-      "title": "Type-level programming for safer resource management",
-      "href": "https://frasertweedale.github.io/blog-fp/posts/2025-07-19-type-nats-and-constraints.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
+      "comments": "\n              41 comments",
+      "index": 18
     },
     {
       "title": "The Foo Archive",
       "href": "https://soda.privatevoid.net/foo/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "A tour of Microsoft's MacBU lab (2006)",
       "href": "https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Is there any good onboarding SaaS tool for iOS apps?",
       "href": "/s/bd2ssn/is_there_any_good_onboarding_saas_tool_for",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Exploring the Secrets of layoutPriority in SwiftUI ZStack",
       "href": "https://fatbobman.com/en/posts/exploring-the-secrets-of-layoutpriority-in-zstack/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "My Ultimate Self-hosting Setup",
       "href": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Make Your Own Backup System – Part 1: Strategy Before Scripts",
       "href": "https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "metap: A Meta-Programming Layer for Python",
       "href": "https://sbaziotis.com/compilers/metap.html",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 24
-    },
-    {
-      "title": "Rethinking CLI interfaces for AI",
-      "href": "https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 25
     }
   ]
