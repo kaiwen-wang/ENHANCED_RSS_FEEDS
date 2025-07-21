@@ -1,5 +1,5 @@
 {
-  "date": "Monday, July 21, 2025 at 4:20 PM GMT-5",
+  "date": "Monday, July 21, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "Dissertation Typesetting Considerations",
@@ -19,7 +19,7 @@
       "title": "Why Lexing and Parsing Should Be Separate",
       "href": "https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              30 comments",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
+      "title": "What are you doing this week?",
+      "href": "/s/uzzuto/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 5
+    },
+    {
       "title": "Rickrolling Turso DB (SQLite rewrite in Rust)",
       "href": "https://avi.im/blag/2025/rickrolling-turso/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 5
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/uzzuto/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 6
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
-      "title": "Coding with LLMs in the summer of 2025 (an update)",
-      "href": "https://antirez.com/news/154",
+      "title": "Pogocache - Fast caching software",
+      "href": "https://github.com/tidwall/pogocache",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              no comments",
       "index": 10
-    },
-    {
-      "title": "Safe Cell field projection in Rust (2020)",
-      "href": "https://www.abubalay.com/blog/2020/01/05/cell-field-projection",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 11
     },
     {
       "title": "LL and LR Parsing Demystified (2013)",
       "href": "https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 11
+    },
+    {
+      "title": "Coding with LLMs in the summer of 2025 (an update)",
+      "href": "https://antirez.com/news/154",
+      "points": "",
+      "comments": "\n              20 comments",
       "index": 12
     },
     {
-      "title": "Pogocache - Fast caching software",
-      "href": "https://github.com/tidwall/pogocache",
+      "title": "Safe Cell field projection in Rust (2020)",
+      "href": "https://www.abubalay.com/blog/2020/01/05/cell-field-projection",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 13
-    },
-    {
-      "title": "Bad Apple!! CD+G on a karaoke machine",
-      "href": "https://gashlin.net/blog/pages/2025-07-19-bad-apple-cdg.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
-      "title": "Fuzzing the Kotlin Compiler",
-      "href": "https://blog.jetbrains.com/research/2025/07/fuzzing-the-kotlin-compiler/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
     },
     {
       "title": "Working on a Programming Language in the Age of LLMs",
       "href": "https://ryelang.org/blog/posts/programming-language-in-age-of-llms/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Bad Apple!! CD+G on a karaoke machine",
+      "href": "https://gashlin.net/blog/pages/2025-07-19-bad-apple-cdg.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
+      "title": "Fuzzing the Kotlin Compiler",
+      "href": "https://blog.jetbrains.com/research/2025/07/fuzzing-the-kotlin-compiler/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 16
-    },
-    {
-      "title": "Reverse engineering the mysterious Up-Data Link Test Set from Apollo",
-      "href": "https://www.righto.com/2025/07/reverse-engineering-mysterious-up-data.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "cppq: Simple, reliable & efficient distributed task queues for C++17",
-      "href": "https://github.com/h2337/cppq",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
     },
     {
       "title": "Automating Away Claude's Bad Habits with Hooks | Write-Ahead (b)Log",
       "href": "https://writeaheadblogg.ing/posts/claude-hooks-auto-fix-trailing-whitespace/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 17
     },
     {
-      "title": "Introducing XMLUI",
-      "href": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
+      "title": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
+      "href": "https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/",
       "points": "",
-      "comments": "\n              17 comments",
-      "index": 20
+      "comments": "\n              no comments",
+      "index": 18
     },
     {
       "title": "File Pilot: Inside the Engine",
       "href": "https://www.youtube.com/watch?v=bUOOaXf9qIM",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Reverse engineering the mysterious Up-Data Link Test Set from Apollo",
+      "href": "https://www.righto.com/2025/07/reverse-engineering-mysterious-up-data.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "cppq: Simple, reliable & efficient distributed task queues for C++17",
+      "href": "https://github.com/h2337/cppq",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
-    },
-    {
-      "title": "stdio(3) change: FILE is now opaque",
-      "href": "https://undeadly.org/cgi?action=article;sid=20250717103345",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 22
-    },
-    {
-      "title": "Transformer Explainer: LLM Transformer Model Visually Explained",
-      "href": "https://poloclub.github.io/transformer-explainer/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 23
     },
     {
       "title": "Garbage Collection for Systems Programmers",
       "href": "https://bitbashing.io/gc-for-systems-programmers.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Introducing XMLUI",
+      "href": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 23
+    },
+    {
+      "title": "stdio(3) change: FILE is now opaque",
+      "href": "https://undeadly.org/cgi?action=article;sid=20250717103345",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 24
     },
     {
-      "title": "Vibe Coding Gone Wrong: 5 Rules for Safely Using AI",
-      "href": "https://cybercorsairs.com/my-ai-co-pilot-deleted-my-production-database/",
+      "title": "Transformer Explainer: LLM Transformer Model Visually Explained",
+      "href": "https://poloclub.github.io/transformer-explainer/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
