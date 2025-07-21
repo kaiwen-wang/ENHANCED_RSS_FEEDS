@@ -1,109 +1,109 @@
 {
-  "date": "Monday, July 21, 2025 at 2:20 PM GMT-5",
+  "date": "Monday, July 21, 2025 at 3:25 PM GMT-5",
   "articles": [
     {
       "title": "Dissertation Typesetting Considerations",
       "href": "https://tony-zorman.com/posts/phd-typesetting.html",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 1
-    },
-    {
-      "title": "Why Lexing and Parsing Should Be Separate",
-      "href": "https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate",
-      "points": "",
-      "comments": "\n              23 comments",
-      "index": 2
     },
     {
       "title": "connmap: X11 desktop widget that shows location of your current network peers on a world map in real-time",
       "href": "https://github.com/h2337/connmap",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              6 comments",
+      "index": 2
+    },
+    {
+      "title": "Why Lexing and Parsing Should Be Separate",
+      "href": "https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate",
+      "points": "",
+      "comments": "\n              25 comments",
       "index": 3
     },
     {
       "title": "Deeper theories of program design",
       "href": "https://typesanitizer.com/blog/deeper-theories.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 4
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/uzzuto/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 5
-    },
-    {
-      "title": "They're putting blue food coloring in everything",
-      "href": "https://blog.foxtrotluna.social/theyre-putting-blue-food-coloring-in-everything/",
-      "points": "",
-      "comments": "\n              27 comments",
-      "index": 6
     },
     {
       "title": "Rickrolling Turso DB (SQLite rewrite in Rust)",
       "href": "https://avi.im/blag/2025/rickrolling-turso/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 6
+    },
+    {
+      "title": "AI Is Not Other People",
+      "href": "https://maxmcd.com/posts/ai-is-not-other-people/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 7
     },
     {
-      "title": "Coding with LLMs in the summer of 2025 (an update)",
-      "href": "https://antirez.com/news/154",
+      "title": "They're putting blue food coloring in everything",
+      "href": "https://blog.foxtrotluna.social/theyre-putting-blue-food-coloring-in-everything/",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              28 comments",
       "index": 8
     },
     {
-      "title": "Safe Cell field projection in Rust (2020)",
-      "href": "https://www.abubalay.com/blog/2020/01/05/cell-field-projection",
+      "title": "Gren 25S: Easier interop, concurrent tasks and zero-install packages",
+      "href": "https://gren-lang.org/news/250721_gren_25s/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
       "index": 9
     },
     {
       "title": "How do you bundle application data in different languages?",
       "href": "/s/dvzkbd/how_do_you_bundle_application_data",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              13 comments",
       "index": 10
     },
     {
-      "title": "Gren 25S: Easier interop, concurrent tasks and zero-install packages",
-      "href": "https://gren-lang.org/news/250721_gren_25s/",
+      "title": "Coding with LLMs in the summer of 2025 (an update)",
+      "href": "https://antirez.com/news/154",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              19 comments",
       "index": 11
     },
     {
-      "title": "Bad Apple!! CD+G on a karaoke machine",
-      "href": "https://gashlin.net/blog/pages/2025-07-19-bad-apple-cdg.html",
+      "title": "Safe Cell field projection in Rust (2020)",
+      "href": "https://www.abubalay.com/blog/2020/01/05/cell-field-projection",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 12
+    },
+    {
+      "title": "LL and LR Parsing Demystified (2013)",
+      "href": "https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 13
     },
     {
       "title": "Pogocache - Fast caching software",
       "href": "https://github.com/tidwall/pogocache",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "LL and LR Parsing Demystified (2013)",
-      "href": "https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 14
     },
     {
-      "title": "Introducing XMLUI",
-      "href": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
+      "title": "Bad Apple!! CD+G on a karaoke machine",
+      "href": "https://gashlin.net/blog/pages/2025-07-19-bad-apple-cdg.html",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              1 comment",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "stdio(3) change: FILE is now opaque",
-      "href": "https://undeadly.org/cgi?action=article;sid=20250717103345",
+      "title": "cppq: Simple, reliable & efficient distributed task queues for C++17",
+      "href": "https://github.com/h2337/cppq",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 17
     },
     {
-      "title": "Transformer Explainer: LLM Transformer Model Visually Explained",
-      "href": "https://poloclub.github.io/transformer-explainer/",
+      "title": "Introducing XMLUI",
+      "href": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              17 comments",
       "index": 18
+    },
+    {
+      "title": "Fuzzing the Kotlin Compiler",
+      "href": "https://blog.jetbrains.com/research/2025/07/fuzzing-the-kotlin-compiler/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "File Pilot: Inside the Engine",
       "href": "https://www.youtube.com/watch?v=bUOOaXf9qIM",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
+    },
+    {
+      "title": "stdio(3) change: FILE is now opaque",
+      "href": "https://undeadly.org/cgi?action=article;sid=20250717103345",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 21
+    },
+    {
+      "title": "Transformer Explainer: LLM Transformer Model Visually Explained",
+      "href": "https://poloclub.github.io/transformer-explainer/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 22
     },
     {
       "title": "How I Found Myself In the Game Industry",
       "href": "https://nothings.org/gamedev/how_i_found_myself_in_the_game_industry.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Rust Clippy performance status update",
       "href": "https://blog.goose.love/posts/clippy-performance-status-update/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 24
     },
     {
       "title": "Async I/O on Linux and durability",
       "href": "https://blog.canoozie.net/async-i-o-on-linux-and-durability/",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 22
-    },
-    {
-      "title": "Type-level programming for safer resource management",
-      "href": "https://frasertweedale.github.io/blog-fp/posts/2025-07-19-type-nats-and-constraints.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
-      "href": "https://github.com/revk/ESP32-Faikin",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Tools of the Trade",
-      "href": "https://www.youtube.com/watch?v=YNtoDGS4uak",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              15 comments",
       "index": 25
     }
   ]
