@@ -1,116 +1,116 @@
 {
-  "date": "Monday, July 21, 2025 at 3:30 AM GMT-5",
+  "date": "Monday, July 21, 2025 at 4:30 AM GMT-5",
   "articles": [
+    {
+      "title": "Why Lexing and Parsing Should Be Separate",
+      "href": "https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 1
+    },
     {
       "title": "Coding with LLMs in the summer of 2025 (an update)",
       "href": "https://antirez.com/news/154",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 1
-    },
-    {
-      "title": "Why Lexing and Parsing Should Be Separate",
-      "href": "https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 2
-    },
-    {
-      "title": "Introducing XMLUI",
-      "href": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 3
     },
     {
       "title": "Bad Apple!! CD+G on a karaoke machine",
       "href": "https://gashlin.net/blog/pages/2025-07-19-bad-apple-cdg.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 3
+    },
+    {
+      "title": "How do you bundle application data in different languages?",
+      "href": "/s/dvzkbd/how_do_you_bundle_application_data",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 4
     },
     {
       "title": "They're putting blue food coloring in everything",
       "href": "https://blog.foxtrotluna.social/theyre-putting-blue-food-coloring-in-everything/",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              23 comments",
       "index": 5
+    },
+    {
+      "title": "Introducing XMLUI",
+      "href": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 6
     },
     {
       "title": "stdio(3) change: FILE is now opaque",
       "href": "https://undeadly.org/cgi?action=article;sid=20250717103345",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 6
-    },
-    {
-      "title": "How I Found Myself In the Game Industry",
-      "href": "https://nothings.org/gamedev/how_i_found_myself_in_the_game_industry.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 7
-    },
-    {
-      "title": "Rust Clippy performance status update",
-      "href": "https://blog.goose.love/posts/clippy-performance-status-update/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 8
     },
     {
       "title": "Why Some Satellites Use NetBSD?",
       "href": "https://machaddr.substack.com/p/why-some-satellites-use-netbsd",
       "points": "",
       "comments": "\n              no comments",
+      "index": 8
+    },
+    {
+      "title": "How I Found Myself In the Game Industry",
+      "href": "https://nothings.org/gamedev/how_i_found_myself_in_the_game_industry.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 9
+    },
+    {
+      "title": "Rust Clippy performance status update",
+      "href": "https://blog.goose.love/posts/clippy-performance-status-update/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
     },
     {
       "title": "Async I/O on Linux and durability",
       "href": "https://blog.canoozie.net/async-i-o-on-linux-and-durability/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Tools of the Trade",
       "href": "https://www.youtube.com/watch?v=YNtoDGS4uak",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "I’m Tired of Talking About AI",
       "href": "https://paddy.carvers.com/posts/2025/07/ai/",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 12
+      "comments": "\n              9 comments",
+      "index": 13
     },
     {
       "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
       "href": "https://github.com/revk/ESP32-Faikin",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Type-level programming for safer resource management",
       "href": "https://frasertweedale.github.io/blog-fp/posts/2025-07-19-type-nats-and-constraints.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Why you should choose HTMX for your next web-based side project - and ditch the crufty MPA and complex SPA",
       "href": "https://hamy.xyz/blog/2024-02_htmx-for-side-projects",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 15
-    },
-    {
-      "title": "How do you bundle application data in different languages?",
-      "href": "/s/dvzkbd/how_do_you_bundle_application_data",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              15 comments",
       "index": 16
     },
     {
@@ -135,29 +135,29 @@
       "index": 19
     },
     {
+      "title": "A tour of Microsoft's MacBU lab (2006)",
+      "href": "https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
       "title": "Do you understand f-strings?",
       "href": "https://fstrings.wtf/",
       "points": "",
-      "comments": "\n              24 comments",
-      "index": 20
+      "comments": "\n              25 comments",
+      "index": 21
     },
     {
       "title": "Giving Up on Element & Matrix.org",
       "href": "https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/",
       "points": "",
-      "comments": "\n              46 comments",
-      "index": 21
+      "comments": "\n              48 comments",
+      "index": 22
     },
     {
       "title": "Exploring the Secrets of layoutPriority in SwiftUI ZStack",
       "href": "https://fatbobman.com/en/posts/exploring-the-secrets-of-layoutpriority-in-zstack/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "A tour of Microsoft's MacBU lab (2006)",
-      "href": "https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 23
