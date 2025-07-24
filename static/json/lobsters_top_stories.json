@@ -1,60 +1,60 @@
 {
-  "date": "Thursday, July 24, 2025 at 12:20 PM GMT-5",
+  "date": "Thursday, July 24, 2025 at 1:30 PM GMT-5",
   "articles": [
     {
       "title": "Wayback 0.1 released",
       "href": "https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              11 comments",
       "index": 1
+    },
+    {
+      "title": "There is no memory safety without thread safety",
+      "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 2
     },
     {
       "title": "PSA: SQLite WAL checksums fail silently and may lose data",
       "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 2
-    },
-    {
-      "title": "You Can Now Disable All AI Features in Zed",
-      "href": "https://zed.dev/blog/disable-ai-features",
-      "points": "",
-      "comments": "\n              44 comments",
+      "comments": "\n              3 comments",
       "index": 3
     },
     {
       "title": "A valid HTML zip bomb",
       "href": "https://ache.one/notes/html_zip_bomb",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 4
     },
     {
-      "title": "There is no memory safety without thread safety",
-      "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+      "title": "You Can Now Disable All AI Features in Zed",
+      "href": "https://zed.dev/blog/disable-ai-features",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              46 comments",
       "index": 5
     },
     {
       "title": "How much do you spend on AI-assisted tools?",
       "href": "/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 6
     },
     {
       "title": "font-size-adjust Is Useful",
       "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              30 comments",
       "index": 7
     },
     {
       "title": "Developing our position on AI",
       "href": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              23 comments",
       "index": 8
     },
     {
@@ -65,10 +65,10 @@
       "index": 9
     },
     {
-      "title": "Migrating a ZFS pool from RAIDZ1 to RAIDZ2",
-      "href": "https://mtlynch.io/raidz1-to-raidz2/",
+      "title": "Arch Linux Dev Blog",
+      "href": "https://devblog.archlinux.page/",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              no comments",
       "index": 10
     },
     {
@@ -79,38 +79,38 @@
       "index": 11
     },
     {
+      "title": "Migrating a ZFS pool from RAIDZ1 to RAIDZ2",
+      "href": "https://mtlynch.io/raidz1-to-raidz2/",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 12
+    },
+    {
       "title": "Code Creation, The Way Nature Intended",
       "href": "https://pehringer.info/code_creation",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "Arch Linux Dev Blog",
-      "href": "https://devblog.archlinux.page/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 13
-    },
-    {
-      "title": "JNJ: J iN Janet",
-      "href": "https://sr.ht/~subsetpark/JNJ/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
-      "title": "How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver",
-      "href": "https://matrix.org/blog/2025/07/postgres-corruption-postmortem/",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 15
     },
     {
       "title": "Fallout's Memory Model",
       "href": "https://youtube.com/watch?v=6kB_fko6SIg",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 14
+    },
+    {
+      "title": "JNJ: J iN Janet",
+      "href": "https://sr.ht/~subsetpark/JNJ/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
+      "title": "How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver",
+      "href": "https://matrix.org/blog/2025/07/postgres-corruption-postmortem/",
+      "points": "",
+      "comments": "\n              19 comments",
       "index": 16
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Computational Tyranny",
-      "href": "https://happyfellow.bearblog.dev/computational-tyranny/",
+      "title": "Jitsi privacy flaw that enables one-click stealth audio and video capture",
+      "href": "https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
