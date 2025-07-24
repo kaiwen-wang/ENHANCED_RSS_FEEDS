@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, July 23, 2025 at 10:35 PM GMT-5",
+  "date": "Wednesday, July 23, 2025 at 11:40 PM GMT-5",
   "articles": [
     {
       "title": "You Can Now Disable All AI Features in Zed",
@@ -26,7 +26,7 @@
       "title": "Developing our position on AI",
       "href": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 4
     },
     {
@@ -51,24 +51,24 @@
       "index": 7
     },
     {
+      "title": "Superfunctions: solve the \"color\" problem of Python",
+      "href": "https://github.com/pomponchik/transfunctions",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 8
+    },
+    {
       "title": "How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver",
       "href": "https://matrix.org/blog/2025/07/postgres-corruption-postmortem/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "20 years of Linux on the Desktop (part 4)",
       "href": "https://ploum.net/2025-07-23-linux_desktop4.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
-    },
-    {
-      "title": "Superfunctions: solve the \"color\" problem of Python",
-      "href": "https://github.com/pomponchik/transfunctions",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 10
     },
     {
@@ -82,7 +82,7 @@
       "title": "Tailwind is the Worst of All Worlds",
       "href": "https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/",
       "points": "",
-      "comments": "\n              105 comments",
+      "comments": "\n              106 comments",
       "index": 12
     },
     {
@@ -93,66 +93,66 @@
       "index": 13
     },
     {
+      "title": "Implementing dynamic scope for Fennel and Lua",
+      "href": "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
       "title": "Kernel",
       "href": "https://web.cs.wpi.edu/%7Ejshutt/kernel.html#:%7E:text=On%20the%20theoretical%20side%2C%20the,also:%20My%20Academic%20Work%20page",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "The Death Of Industrial Design And The Era Of Dull Electronics",
       "href": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Extending Emacs with Fennel (2024)",
-      "href": "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 16
-    },
-    {
-      "title": "NPM 'accidentally' removes Stylus package, breaks builds and pipelines",
-      "href": "https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 17
-    },
-    {
-      "title": "TrackWeight: Use your Mac trackpad as a weighing scale",
-      "href": "https://github.com/KrishKrosh/TrackWeight",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "TODOs aren’t for doing",
-      "href": "https://sophiebits.com/2025/07/21/todos-arent-for-doing",
-      "points": "",
-      "comments": "\n              28 comments",
-      "index": 19
-    },
-    {
-      "title": "What is X-Forwarded-For and when can you trust it?",
-      "href": "https://httptoolkit.com/blog/what-is-x-forwarded-for/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "Implementing dynamic scope for Fennel and Lua",
-      "href": "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
     },
     {
       "title": "Vintage Macintosh Programming Book Library",
       "href": "https://vintageapple.org/macprogramming/index_year.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Extending Emacs with Fennel (2024)",
+      "href": "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 18
+    },
+    {
+      "title": "NPM 'accidentally' removes Stylus package, breaks builds and pipelines",
+      "href": "https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 19
+    },
+    {
+      "title": "TrackWeight: Use your Mac trackpad as a weighing scale",
+      "href": "https://github.com/KrishKrosh/TrackWeight",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "TODOs aren’t for doing",
+      "href": "https://sophiebits.com/2025/07/21/todos-arent-for-doing",
+      "points": "",
+      "comments": "\n              28 comments",
+      "index": 21
+    },
+    {
+      "title": "What is X-Forwarded-For and when can you trust it?",
+      "href": "https://httptoolkit.com/blog/what-is-x-forwarded-for/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 22
     },
     {
@@ -163,15 +163,15 @@
       "index": 23
     },
     {
-      "title": "Comparing the Glove80 and Maltron keyboards",
-      "href": "https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html",
+      "title": "Custom mechanical keyboard: OS-specific custom RGB lighting with QMK",
+      "href": "https://quantum5.ca/2024/06/30/custom-mechanical-keyboard-os-specific-rgb-lighting-qmk/",
       "points": "",
-      "comments": "\n              43 comments",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Building Systems, Simply",
-      "href": "https://www.youtube.com/watch?v=jVC4DP-8xLM",
+      "title": "CVE-2025-54090: Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
+      "href": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
