@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, July 23, 2025 at 6:20 PM GMT-5",
+  "date": "Wednesday, July 23, 2025 at 8:50 PM GMT-5",
   "articles": [
-    {
-      "title": "font-size-adjust Is Useful",
-      "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 1
-    },
     {
       "title": "You Can Now Disable All AI Features in Zed",
       "href": "https://zed.dev/blog/disable-ai-features",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              11 comments",
+      "index": 1
+    },
+    {
+      "title": "font-size-adjust Is Useful",
+      "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
+      "points": "",
+      "comments": "\n              20 comments",
       "index": 2
     },
     {
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
+      "title": "Developing our position on AI",
+      "href": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 5
+    },
+    {
       "title": "The Promised LAN",
       "href": "https://tpl.house/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Computational Tyranny",
       "href": "https://happyfellow.bearblog.dev/computational-tyranny/",
       "points": "",
-      "comments": "\n              19 comments",
-      "index": 6
-    },
-    {
-      "title": "20 years of Linux on the Desktop (part 4)",
-      "href": "https://ploum.net/2025-07-23-linux_desktop4.html",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              21 comments",
       "index": 7
     },
     {
@@ -65,17 +65,17 @@
       "index": 9
     },
     {
-      "title": "Tailwind is the Worst of All Worlds",
-      "href": "https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/",
+      "title": "20 years of Linux on the Desktop (part 4)",
+      "href": "https://ploum.net/2025-07-23-linux_desktop4.html",
       "points": "",
-      "comments": "\n              100 comments",
+      "comments": "\n              no comments",
       "index": 10
     },
     {
-      "title": "Developing our position on AI",
-      "href": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
+      "title": "Tailwind is the Worst of All Worlds",
+      "href": "https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              103 comments",
       "index": 11
     },
     {
@@ -86,10 +86,10 @@
       "index": 12
     },
     {
-      "title": "TODOs aren’t for doing",
-      "href": "https://sophiebits.com/2025/07/21/todos-arent-for-doing",
+      "title": "Branch Coverage Won't Prove The Collatz Conjecture",
+      "href": "https://concerningquality.com/collatz-conjecture/",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              no comments",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "What is X-Forwarded-For and when can you trust it?",
-      "href": "https://httptoolkit.com/blog/what-is-x-forwarded-for/",
+      "title": "Kernel",
+      "href": "https://web.cs.wpi.edu/%7Ejshutt/kernel.html#:%7E:text=On%20the%20theoretical%20side%2C%20the,also:%20My%20Academic%20Work%20page",
       "points": "",
       "comments": "\n              1 comment",
       "index": 15
-    },
-    {
-      "title": "Implementing dynamic scope for Fennel and Lua",
-      "href": "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Using Radicle CI for Development",
-      "href": "https://radicle.xyz/2025/07/23/using-radicle-ci-for-development",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
     },
     {
       "title": "NPM 'accidentally' removes Stylus package, breaks builds and pipelines",
       "href": "https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 18
+      "index": 16
     },
     {
-      "title": "Branch Coverage Won't Prove The Collatz Conjecture",
-      "href": "https://concerningquality.com/collatz-conjecture/",
+      "title": "TODOs aren’t for doing",
+      "href": "https://sophiebits.com/2025/07/21/todos-arent-for-doing",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 19
+      "comments": "\n              28 comments",
+      "index": 17
+    },
+    {
+      "title": "What is X-Forwarded-For and when can you trust it?",
+      "href": "https://httptoolkit.com/blog/what-is-x-forwarded-for/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 18
     },
     {
       "title": "TrackWeight: Use your Mac trackpad as a weighing scale",
       "href": "https://github.com/KrishKrosh/TrackWeight",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Implementing dynamic scope for Fennel and Lua",
+      "href": "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 20
+    },
+    {
+      "title": "Vintage Macintosh Programming Book Library",
+      "href": "https://vintageapple.org/macprogramming/index_year.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Using Radicle CI for Development",
+      "href": "https://radicle.xyz/2025/07/23/using-radicle-ci-for-development",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Comparing the Glove80 and Maltron keyboards",
       "href": "https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html",
       "points": "",
-      "comments": "\n              42 comments",
-      "index": 21
+      "comments": "\n              43 comments",
+      "index": 23
     },
     {
       "title": "Building Systems, Simply",
       "href": "https://www.youtube.com/watch?v=jVC4DP-8xLM",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Is it feasible to start a local forum in 2025?",
       "href": "/s/txrjel/is_it_feasible_start_local_forum_2025",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 23
-    },
-    {
-      "title": "AI Coding Agents Are Removing Programming Language Barriers",
-      "href": "https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 24
-    },
-    {
-      "title": "Fun with Gzip Bombs and Email Clients",
-      "href": "https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients",
-      "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              12 comments",
       "index": 25
     }
   ]
