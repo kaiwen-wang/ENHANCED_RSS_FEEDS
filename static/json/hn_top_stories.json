@@ -1,214 +1,214 @@
 {
-  "date": "Thursday, July 24, 2025 at 5:20 PM GMT-5",
+  "date": "Thursday, July 24, 2025 at 6:20 PM GMT-5",
   "articles": [
+    {
+      "title": "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
+      "href": "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019",
+      "points": "51 points",
+      "comments": "7 comments",
+      "index": 1
+    },
     {
       "title": "Inter-Planetary Network Special Interest Group",
       "href": "https://www.ipnsig.org",
-      "points": "45 points",
-      "comments": "4 comments",
-      "index": 1
+      "points": "67 points",
+      "comments": "14 comments",
+      "index": 2
     },
     {
       "title": "Positron – A next-generation data science IDE",
       "href": "https://positron.posit.co/",
-      "points": "39 points",
-      "comments": "8 comments",
-      "index": 2
-    },
-    {
-      "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
-      "href": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more",
-      "points": "180 points",
-      "comments": "359 comments",
+      "points": "64 points",
+      "comments": "36 comments",
       "index": 3
-    },
-    {
-      "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
-      "href": "https://www.vidarholen.net/contents/blog/?p=1160",
-      "points": "156 points",
-      "comments": "45 comments",
-      "index": 4
     },
     {
       "title": "Visa and Mastercard: The global payment duopoly (2024)",
       "href": "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly",
-      "points": "49 points",
-      "comments": "14 comments",
+      "points": "129 points",
+      "comments": "52 comments",
+      "index": 4
+    },
+    {
+      "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
+      "href": "https://www.vidarholen.net/contents/blog/?p=1160",
+      "points": "182 points",
+      "comments": "53 comments",
       "index": 5
     },
     {
-      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
-      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
-      "points": "215 points",
-      "comments": "108 comments",
+      "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
+      "href": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more",
+      "points": "207 points",
+      "comments": "391 comments",
       "index": 6
-    },
-    {
-      "title": "Why concatenative programming matters (2012)",
-      "href": "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html",
-      "points": "16 points",
-      "comments": "2 comments",
-      "index": 7
-    },
-    {
-      "title": "Air Force unit suspends use of Sig Sauer pistol after shooting death of airman",
-      "href": "https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death",
-      "points": "45 points",
-      "comments": "73 comments",
-      "index": 8
     },
     {
       "title": "Revisiting Moneyball",
       "href": "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07",
-      "points": "8 points",
-      "comments": "discuss",
-      "index": 9
+      "points": "21 points",
+      "comments": "1 comment",
+      "index": 7
     },
     {
-      "title": "Use Your Type System",
-      "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
-      "points": "187 points",
-      "comments": "196 comments",
-      "index": 10
+      "title": "Why concatenative programming matters (2012)",
+      "href": "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html",
+      "points": "27 points",
+      "comments": "2 comments",
+      "index": 8
+    },
+    {
+      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
+      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
+      "points": "223 points",
+      "comments": "108 comments",
+      "index": 9
     },
     {
       "title": "Intel CEO Letter to Employees",
       "href": "https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees",
-      "points": "75 points",
-      "comments": "113 comments",
+      "points": "110 points",
+      "comments": "187 comments",
+      "index": 10
+    },
+    {
+      "title": "Use Your Type System",
+      "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
+      "points": "202 points",
+      "comments": "204 comments",
       "index": 11
+    },
+    {
+      "title": "New Aarch64 Back End",
+      "href": "https://ziglang.org/devlog/2025/#2025-07-23",
+      "points": "15 points",
+      "comments": "discuss",
+      "index": 12
     },
     {
       "title": "Vet is a safety net for the curl | bash pattern",
       "href": "https://github.com/vet-run/vet",
-      "points": "159 points",
-      "comments": "150 comments",
-      "index": 12
-    },
-    {
-      "title": "American sentenced for helping North Koreans get jobs at U.S. firms",
-      "href": "https://fortune.com/2025/07/24/north-korean-it-workers-chapman-nike/",
-      "points": "55 points",
-      "comments": "30 comments",
+      "points": "164 points",
+      "comments": "153 comments",
       "index": 13
     },
     {
-      "title": "The Secret Life of Fsync (2023)",
-      "href": "https://puzpuzpuz.dev/the-secret-life-of-fsync",
-      "points": "5 points",
-      "comments": "1 comment",
+      "title": "A GPU Calculator That Helps Calculate What GPU to Use",
+      "href": "https://calculator.inference.ai/",
+      "points": "10 points",
+      "comments": "5 comments",
       "index": 14
     },
     {
-      "title": "Building MCP servers for ChatGPT and API integrations",
-      "href": "https://platform.openai.com/docs/mcp",
-      "points": "31 points",
-      "comments": "11 comments",
+      "title": "Air Force unit suspends use of Sig Sauer pistol after shooting death of airman",
+      "href": "https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death",
+      "points": "59 points",
+      "comments": "100 comments",
       "index": 15
-    },
-    {
-      "title": "Superfunctions: A universal solution against sync/async fragmentation in Python",
-      "href": "https://github.com/pomponchik/transfunctions",
-      "points": "13 points",
-      "comments": "8 comments",
-      "index": 16
-    },
-    {
-      "title": "Covers as a way of learning music and code",
-      "href": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
-      "points": "107 points",
-      "comments": "55 comments",
-      "index": 17
     },
     {
       "title": "Open Source Maintenance Fee",
       "href": "https://github.com/wixtoolset/issues/issues/8974",
-      "points": "177 points",
-      "comments": "118 comments",
-      "index": 18
+      "points": "190 points",
+      "comments": "123 comments",
+      "index": 16
+    },
+    {
+      "title": "American sentenced for helping North Koreans get jobs at U.S. firms",
+      "href": "https://fortune.com/2025/07/24/north-korean-it-workers-chapman-nike/",
+      "points": "69 points",
+      "comments": "48 comments",
+      "index": 17
     },
     {
       "title": "Show HN: Easy Python Time Parsing",
       "href": "https://github.com/felixnext/python-time-helper",
+      "points": "9 points",
+      "comments": "1 comment",
+      "index": 18
+    },
+    {
+      "title": "AI groups spend to replace low-cost 'data labellers' with high-paid experts",
+      "href": "https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8",
       "points": "4 points",
-      "comments": "discuss",
+      "comments": "1 comment",
       "index": 19
     },
     {
-      "title": "UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage",
-      "href": "https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html",
-      "points": "166 points",
-      "comments": "76 comments",
+      "title": "Covers as a way of learning music and code",
+      "href": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
+      "points": "112 points",
+      "comments": "58 comments",
       "index": 20
+    },
+    {
+      "title": "Superfunctions: A universal solution against sync/async fragmentation in Python",
+      "href": "https://github.com/pomponchik/transfunctions",
+      "points": "15 points",
+      "comments": "13 comments",
+      "index": 21
     },
     {
       "title": "The POSIX specification of vi",
       "href": "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html",
-      "points": "48 points",
-      "comments": "16 comments",
-      "index": 21
+      "points": "54 points",
+      "comments": "17 comments",
+      "index": 22
     },
     {
-      "title": "Psilocybin treatment extends cellular lifespan, improves survival of aged mice",
-      "href": "https://news.emory.edu/stories/2025/07/hs_psilocybin_aging_study_10-07-2025/story.html",
-      "points": "83 points",
-      "comments": "69 comments",
-      "index": 22
+      "title": "UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage",
+      "href": "https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html",
+      "points": "175 points",
+      "comments": "77 comments",
+      "index": 23
     },
     {
       "title": "Bus Bunching",
       "href": "https://www.futilitycloset.com/2025/07/12/bus-bunching/",
-      "points": "35 points",
-      "comments": "46 comments",
-      "index": 23
+      "points": "42 points",
+      "comments": "48 comments",
+      "index": 24
     },
     {
-      "title": "When swiping supplants scissors: The hidden cost of touchscreens",
-      "href": "https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7",
-      "points": "68 points",
-      "comments": "68 comments",
-      "index": 24
+      "title": "Building MCP servers for ChatGPT and API integrations",
+      "href": "https://platform.openai.com/docs/mcp",
+      "points": "37 points",
+      "comments": "17 comments",
+      "index": 25
+    },
+    {
+      "title": "Mwm – The smallest usable X11 window manager",
+      "href": "https://github.com/lslvr/mwm",
+      "points": "114 points",
+      "comments": "46 comments",
+      "index": 26
     },
     {
       "title": "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
       "href": "https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer",
       "points": "",
       "comments": "hide",
-      "index": 25
+      "index": 27
     },
     {
       "title": "Major quantum computing advance made obsolete by teenager (2018)",
       "href": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
-      "points": "92 points",
-      "comments": "44 comments",
-      "index": 26
-    },
-    {
-      "title": "Mwm – The smallest usable X11 window manager",
-      "href": "https://github.com/lslvr/mwm",
-      "points": "104 points",
-      "comments": "44 comments",
-      "index": 27
-    },
-    {
-      "title": "Hacker slips malicious 'wiping' command into Amazon's Q AI coding assistant",
-      "href": "https://www.zdnet.com/article/hacker-slips-malicious-wiping-command-into-amazons-q-ai-coding-assistant-and-devs-are-worried/",
-      "points": "40 points",
-      "comments": "10 comments",
+      "points": "99 points",
+      "comments": "46 comments",
       "index": 28
+    },
+    {
+      "title": "When swiping supplants scissors: The hidden cost of touchscreens",
+      "href": "https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7",
+      "points": "74 points",
+      "comments": "69 comments",
+      "index": 29
     },
     {
       "title": "Writing is thinking",
       "href": "https://www.nature.com/articles/s44222-025-00323-4",
-      "points": "231 points",
-      "comments": "101 comments",
-      "index": 29
-    },
-    {
-      "title": "Show HN: Nia – MCP server that gives more docs and repos to coding agents",
-      "href": "https://www.trynia.ai/",
-      "points": "41 points",
-      "comments": "40 comments",
+      "points": "239 points",
+      "comments": "105 comments",
       "index": 30
     }
   ]
