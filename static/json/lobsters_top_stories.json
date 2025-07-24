@@ -1,88 +1,88 @@
 {
-  "date": "Thursday, July 24, 2025 at 7:45 AM GMT-5",
+  "date": "Thursday, July 24, 2025 at 8:40 AM GMT-5",
   "articles": [
     {
       "title": "You Can Now Disable All AI Features in Zed",
       "href": "https://zed.dev/blog/disable-ai-features",
       "points": "",
-      "comments": "\n              34 comments",
+      "comments": "\n              35 comments",
       "index": 1
     },
     {
       "title": "font-size-adjust Is Useful",
       "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              26 comments",
       "index": 2
+    },
+    {
+      "title": "Wayback 0.1 released",
+      "href": "https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 3
     },
     {
       "title": "Developing our position on AI",
       "href": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 3
+      "comments": "\n              11 comments",
+      "index": 4
     },
     {
       "title": "systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes",
       "href": "https://www.phoronix.com/news/systemd-258-rc1",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 4
-    },
-    {
-      "title": "Migrating a ZFS pool from RAIDZ1 to RAIDZ2",
-      "href": "https://mtlynch.io/raidz1-to-raidz2/",
-      "points": "",
-      "comments": "\n              18 comments",
       "index": 5
     },
     {
       "title": "How much do you spend on AI-assisted tools?",
       "href": "/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              9 comments",
       "index": 6
+    },
+    {
+      "title": "Migrating a ZFS pool from RAIDZ1 to RAIDZ2",
+      "href": "https://mtlynch.io/raidz1-to-raidz2/",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 7
     },
     {
       "title": "The Death Of Industrial Design And The Era Of Dull Electronics",
       "href": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
       "points": "",
-      "comments": "\n              9 comments",
-      "index": 7
+      "comments": "\n              10 comments",
+      "index": 8
     },
     {
       "title": "How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver",
       "href": "https://matrix.org/blog/2025/07/postgres-corruption-postmortem/",
       "points": "",
-      "comments": "\n              16 comments",
-      "index": 8
-    },
-    {
-      "title": "Wayback 0.1 released",
-      "href": "https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              18 comments",
       "index": 9
-    },
-    {
-      "title": "What to expect from Debian/trixie",
-      "href": "https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/",
-      "points": "",
-      "comments": "\n              21 comments",
-      "index": 10
-    },
-    {
-      "title": "The Promised LAN",
-      "href": "https://tpl.house/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 11
     },
     {
       "title": "JNJ: J iN Janet",
       "href": "https://sr.ht/~subsetpark/JNJ/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "The Promised LAN",
+      "href": "https://tpl.house/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 11
+    },
+    {
+      "title": "What to expect from Debian/trixie",
+      "href": "https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/",
+      "points": "",
+      "comments": "\n              21 comments",
       "index": 12
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "Vintage Macintosh Programming Book Library",
+      "href": "https://vintageapple.org/macprogramming/index_year.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
       "title": "Branch Coverage Won't Prove The Collatz Conjecture",
       "href": "https://concerningquality.com/collatz-conjecture/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Computational Tyranny",
       "href": "https://happyfellow.bearblog.dev/computational-tyranny/",
       "points": "",
       "comments": "\n              22 comments",
-      "index": 17
-    },
-    {
-      "title": "Vintage Macintosh Programming Book Library",
-      "href": "https://vintageapple.org/macprogramming/index_year.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 18
     },
     {
       "title": "Implementing dynamic scope for Fennel and Lua",
       "href": "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 19
+    },
+    {
+      "title": "A valid HTML zip bomb",
+      "href": "https://ache.one/notes/html_zip_bomb",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "Custom mechanical keyboard: OS-specific custom RGB lighting with QMK",
       "href": "https://quantum5.ca/2024/06/30/custom-mechanical-keyboard-os-specific-rgb-lighting-qmk/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Tailwind is the Worst of All Worlds",
       "href": "https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/",
       "points": "",
-      "comments": "\n              109 comments",
-      "index": 21
+      "comments": "\n              110 comments",
+      "index": 22
     },
     {
       "title": "Python 3.14 release candidate 1 is go",
       "href": "https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html",
       "points": "",
       "comments": "\n              22 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "TrackWeight: Use your Mac trackpad as a weighing scale",
       "href": "https://github.com/KrishKrosh/TrackWeight",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "NPM 'accidentally' removes Stylus package, breaks builds and pipelines",
       "href": "https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 24
-    },
-    {
-      "title": "Using Radicle CI for Development",
-      "href": "https://radicle.xyz/2025/07/23/using-radicle-ci-for-development",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              10 comments",
       "index": 25
     }
   ]
