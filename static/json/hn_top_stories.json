@@ -1,214 +1,214 @@
 {
-  "date": "Thursday, July 24, 2025 at 1:30 PM GMT-5",
+  "date": "Thursday, July 24, 2025 at 2:20 PM GMT-5",
   "articles": [
     {
       "title": "PSA: SQLite WAL checksums fail silently and may lose data",
       "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
-      "points": "156 points",
-      "comments": "51 comments",
+      "points": "172 points",
+      "comments": "74 comments",
       "index": 1
     },
     {
-      "title": "UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage",
-      "href": "https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html",
-      "points": "76 points",
-      "comments": "32 comments",
+      "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
+      "href": "https://www.vidarholen.net/contents/blog/?p=1160",
+      "points": "75 points",
+      "comments": "19 comments",
       "index": 2
     },
     {
       "title": "Use Your Type System",
       "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
-      "points": "109 points",
-      "comments": "108 comments",
+      "points": "136 points",
+      "comments": "126 comments",
       "index": 3
-    },
-    {
-      "title": "Major Quantum Computing Advance Made Obsolete by Teenager (2018)",
-      "href": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
-      "points": "47 points",
-      "comments": "18 comments",
-      "index": 4
-    },
-    {
-      "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
-      "href": "https://www.vidarholen.net/contents/blog/?p=1160",
-      "points": "43 points",
-      "comments": "6 comments",
-      "index": 5
-    },
-    {
-      "title": "There is no memory safety without thread safety",
-      "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
-      "points": "169 points",
-      "comments": "125 comments",
-      "index": 6
     },
     {
       "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
       "href": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more",
-      "points": "57 points",
-      "comments": "218 comments",
-      "index": 7
+      "points": "88 points",
+      "comments": "255 comments",
+      "index": 4
     },
     {
-      "title": "Lslvr/mwm: The smallest (usable) X11 window manager",
-      "href": "https://github.com/lslvr/mwm",
-      "points": "67 points",
+      "title": "Major Quantum Computing Advance Made Obsolete by Teenager (2018)",
+      "href": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
+      "points": "58 points",
       "comments": "28 comments",
-      "index": 8
+      "index": 5
     },
     {
-      "title": "Show HN: Nia – MCP server that gives more context to coding agents",
-      "href": "https://www.trynia.ai/",
-      "points": "14 points",
-      "comments": "19 comments",
-      "index": 9
+      "title": "Vet is a safety net for the curl | bash pattern",
+      "href": "https://github.com/vet-run/vet",
+      "points": "134 points",
+      "comments": "119 comments",
+      "index": 6
     },
     {
-      "title": "The FastLanes File Format [pdf]",
-      "href": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
-      "points": "42 points",
-      "comments": "7 comments",
-      "index": 10
-    },
-    {
-      "title": "AI overviews cause massive drop in search clicks",
-      "href": "https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/",
-      "points": "645 points",
-      "comments": "725 comments",
-      "index": 11
-    },
-    {
-      "title": "CARA – High precision robot dog using rope",
-      "href": "https://www.aaedmusa.com/projects/cara",
-      "points": "944 points",
-      "comments": "162 comments",
-      "index": 12
-    },
-    {
-      "title": "Covers as a way of learning music and code",
-      "href": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
-      "points": "84 points",
-      "comments": "32 comments",
-      "index": 13
-    },
-    {
-      "title": "A valid HTML zip bomb",
-      "href": "https://ache.one/notes/html_zip_bomb",
-      "points": "66 points",
-      "comments": "21 comments",
-      "index": 14
+      "title": "UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage",
+      "href": "https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html",
+      "points": "107 points",
+      "comments": "51 comments",
+      "index": 7
     },
     {
       "title": "The POSIX specification of vi",
       "href": "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html",
-      "points": "9 points",
-      "comments": "discuss",
+      "points": "19 points",
+      "comments": "3 comments",
+      "index": 8
+    },
+    {
+      "title": "When swiping supplants scissors: The hidden cost of touchscreens",
+      "href": "https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7",
+      "points": "46 points",
+      "comments": "50 comments",
+      "index": 9
+    },
+    {
+      "title": "Open Source Maintenance Fee",
+      "href": "https://github.com/wixtoolset/issues/issues/8974",
+      "points": "135 points",
+      "comments": "86 comments",
+      "index": 10
+    },
+    {
+      "title": "Lslvr/mwm: The smallest (usable) X11 window manager",
+      "href": "https://github.com/lslvr/mwm",
+      "points": "79 points",
+      "comments": "33 comments",
+      "index": 11
+    },
+    {
+      "title": "Linux Distros for Gaming: CachyOS Takes Over, According to ProtonDB",
+      "href": "https://boilingsteam.com/distro-for-gaming-cachy-os-takes-over/",
+      "points": "16 points",
+      "comments": "17 comments",
+      "index": 12
+    },
+    {
+      "title": "A valid HTML zip bomb",
+      "href": "https://ache.one/notes/html_zip_bomb",
+      "points": "77 points",
+      "comments": "23 comments",
+      "index": 13
+    },
+    {
+      "title": "There is no memory safety without thread safety",
+      "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+      "points": "183 points",
+      "comments": "152 comments",
+      "index": 14
+    },
+    {
+      "title": "AI overviews cause massive drop in search clicks",
+      "href": "https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/",
+      "points": "658 points",
+      "comments": "741 comments",
       "index": 15
     },
     {
-      "title": "Two narratives about AI",
-      "href": "https://calnewport.com/no-one-knows-anything-about-ai/",
-      "points": "193 points",
-      "comments": "157 comments",
+      "title": "Show HN: Nia – MCP server that gives more docs and repos to coding agents",
+      "href": "https://www.trynia.ai/",
+      "points": "18 points",
+      "comments": "24 comments",
       "index": 16
     },
     {
-      "title": "Writing is thinking",
-      "href": "https://www.nature.com/articles/s44222-025-00323-4",
-      "points": "169 points",
-      "comments": "72 comments",
+      "title": "CARA – High precision robot dog using rope",
+      "href": "https://www.aaedmusa.com/projects/cara",
+      "points": "960 points",
+      "comments": "165 comments",
       "index": 17
     },
     {
-      "title": "Show HN: A code editor that integrates into the browser",
-      "href": "https://tachicode.dev/",
-      "points": "3 points",
-      "comments": "discuss",
+      "title": "The FastLanes File Format [pdf]",
+      "href": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
+      "points": "48 points",
+      "comments": "13 comments",
       "index": 18
+    },
+    {
+      "title": "Covers as a way of learning music and code",
+      "href": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
+      "points": "94 points",
+      "comments": "42 comments",
+      "index": 19
     },
     {
       "title": "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
       "href": "https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer",
       "points": "",
       "comments": "hide",
-      "index": 19
+      "index": 20
+    },
+    {
+      "title": "Writing is thinking",
+      "href": "https://www.nature.com/articles/s44222-025-00323-4",
+      "points": "185 points",
+      "comments": "80 comments",
+      "index": 21
     },
     {
       "title": "A list of changes to make it easier to build beautiful and walkable places",
       "href": "https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places",
-      "points": "51 points",
-      "comments": "76 comments",
-      "index": 20
+      "points": "72 points",
+      "comments": "92 comments",
+      "index": 22
     },
     {
-      "title": "Vet is a safety net for the risky curl | bash pattern",
-      "href": "https://github.com/vet-run/vet",
-      "points": "125 points",
-      "comments": "117 comments",
-      "index": 21
+      "title": "Show HN: A code editor that integrates into the browser",
+      "href": "https://tachicode.dev/",
+      "points": "9 points",
+      "comments": "discuss",
+      "index": 23
+    },
+    {
+      "title": "Two narratives about AI",
+      "href": "https://calnewport.com/no-one-knows-anything-about-ai/",
+      "points": "212 points",
+      "comments": "185 comments",
+      "index": 24
     },
     {
       "title": "OpenAI prepares to launch GPT-5 in August",
       "href": "https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad",
-      "points": "44 points",
-      "comments": "11 comments",
-      "index": 22
+      "points": "60 points",
+      "comments": "23 comments",
+      "index": 25
     },
     {
       "title": "BGP.Tools: Browse the Internet Ecosystem",
       "href": "https://bgp.tools/",
-      "points": "267 points",
-      "comments": "41 comments",
-      "index": 23
+      "points": "273 points",
+      "comments": "42 comments",
+      "index": 26
     },
     {
-      "title": "Web fingerprinting is worse than I thought (2023)",
-      "href": "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html",
-      "points": "210 points",
-      "comments": "175 comments",
-      "index": 24
-    },
-    {
-      "title": "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
-      "href": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b",
-      "points": "119 points",
-      "comments": "65 comments",
-      "index": 25
+      "title": "Show HN: Local Email Client for AI Horseless Carriages",
+      "href": "https://github.com/dbish/DispatchMail",
+      "points": "4 points",
+      "comments": "1 comment",
+      "index": 27
     },
     {
       "title": "Diet, not lack of exercise, drives obesity, a new study finds",
       "href": "https://www.npr.org/2025/07/24/nx-s1-5477662/diet-exercise-obesity-nutrition",
-      "points": "110 points",
-      "comments": "142 comments",
-      "index": 26
-    },
-    {
-      "title": "Distillation makes AI models smaller and cheaper",
-      "href": "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/",
-      "points": "148 points",
-      "comments": "73 comments",
-      "index": 27
-    },
-    {
-      "title": "Electric cars produce less brake dust pollution than combustion-engine cars",
-      "href": "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/",
-      "points": "477 points",
-      "comments": "671 comments",
+      "points": "143 points",
+      "comments": "172 comments",
       "index": 28
     },
     {
       "title": "Transformers Without Normalization",
       "href": "https://arxiv.org/abs/2503.10622",
-      "points": "9 points",
+      "points": "12 points",
       "comments": "1 comment",
       "index": 29
     },
     {
-      "title": "XOR_singleheader: Header-only binary fuse and XOR filter library",
-      "href": "https://github.com/FastFilter/xor_singleheader",
-      "points": "21 points",
-      "comments": "2 comments",
+      "title": "Web fingerprinting is worse than I thought (2023)",
+      "href": "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html",
+      "points": "219 points",
+      "comments": "182 comments",
       "index": 30
     }
   ]
