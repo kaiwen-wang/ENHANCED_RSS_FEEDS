@@ -1,214 +1,214 @@
 {
-  "date": "Thursday, July 24, 2025 at 10:20 AM GMT-5",
+  "date": "Thursday, July 24, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "PSA: SQLite WAL checksums fail silently and may lose data",
       "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
-      "points": "39 points",
-      "comments": "2 comments",
+      "points": "95 points",
+      "comments": "11 comments",
       "index": 1
+    },
+    {
+      "title": "No One Knows Anything About AI",
+      "href": "https://calnewport.com/no-one-knows-anything-about-ai/",
+      "points": "26 points",
+      "comments": "discuss",
+      "index": 2
+    },
+    {
+      "title": "There is no memory safety without thread safety",
+      "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+      "points": "62 points",
+      "comments": "8 comments",
+      "index": 3
+    },
+    {
+      "title": "Everything Else",
+      "href": "https://newleftreview.org/sidecar/posts/everything-else",
+      "points": "38 points",
+      "comments": "6 comments",
+      "index": 4
+    },
+    {
+      "title": "When swiping supplants scissors: The hidden cost of touchscreens",
+      "href": "https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7",
+      "points": "12 points",
+      "comments": "4 comments",
+      "index": 5
+    },
+    {
+      "title": "The FastLanes File Format [pdf]",
+      "href": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
+      "points": "16 points",
+      "comments": "1 comment",
+      "index": 6
     },
     {
       "title": "Vet is a safety net for the risky curl | bash pattern",
       "href": "https://github.com/vet-run/vet",
-      "points": "93 points",
-      "comments": "73 comments",
-      "index": 2
-    },
-    {
-      "title": "Use Your Type System",
-      "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
-      "points": "13 points",
-      "comments": "discuss",
-      "index": 3
-    },
-    {
-      "title": "WiX Toolset: Introduce the Open Source Maintenance Fee",
-      "href": "https://github.com/wixtoolset/issues/issues/8974",
-      "points": "105 points",
-      "comments": "62 comments",
-      "index": 4
-    },
-    {
-      "title": "Web fingerprinting is worse than I thought (2023)",
-      "href": "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html",
-      "points": "150 points",
-      "comments": "116 comments",
-      "index": 5
-    },
-    {
-      "title": "CARA – High precision robot dog using rope",
-      "href": "https://www.aaedmusa.com/projects/cara",
-      "points": "881 points",
-      "comments": "149 comments",
-      "index": 6
-    },
-    {
-      "title": "AI overviews cause massive drop in search clicks",
-      "href": "https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/",
-      "points": "554 points",
-      "comments": "628 comments",
+      "points": "111 points",
+      "comments": "98 comments",
       "index": 7
+    },
+    {
+      "title": "Lslvr/mwm: The smallest (usable) X11 window manager",
+      "href": "https://github.com/lslvr/mwm",
+      "points": "38 points",
+      "comments": "15 comments",
+      "index": 8
     },
     {
       "title": "Covers as a way of learning music and code",
       "href": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
-      "points": "36 points",
-      "comments": "7 comments",
-      "index": 8
+      "points": "56 points",
+      "comments": "18 comments",
+      "index": 9
+    },
+    {
+      "title": "A valid HTML zip bomb",
+      "href": "https://ache.one/notes/html_zip_bomb",
+      "points": "31 points",
+      "comments": "5 comments",
+      "index": 10
+    },
+    {
+      "title": "CARA – High precision robot dog using rope",
+      "href": "https://www.aaedmusa.com/projects/cara",
+      "points": "915 points",
+      "comments": "156 comments",
+      "index": 11
+    },
+    {
+      "title": "AI overviews cause massive drop in search clicks",
+      "href": "https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/",
+      "points": "598 points",
+      "comments": "676 comments",
+      "index": 12
     },
     {
       "title": "Writing is thinking",
       "href": "https://www.nature.com/articles/s44222-025-00323-4",
-      "points": "110 points",
-      "comments": "37 comments",
-      "index": 9
+      "points": "137 points",
+      "comments": "47 comments",
+      "index": 13
     },
     {
-      "title": "BGP.Tools: Browse the Internet Ecosystem",
-      "href": "https://bgp.tools/",
-      "points": "243 points",
-      "comments": "35 comments",
-      "index": 10
+      "title": "A list of changes to make it easier to build beautiful and walkable places",
+      "href": "https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places",
+      "points": "27 points",
+      "comments": "28 comments",
+      "index": 14
     },
     {
       "title": "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
       "href": "https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer",
       "points": "",
       "comments": "hide",
-      "index": 11
+      "index": 15
+    },
+    {
+      "title": "Use Your Type System",
+      "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
+      "points": "60 points",
+      "comments": "49 comments",
+      "index": 16
+    },
+    {
+      "title": "Web fingerprinting is worse than I thought (2023)",
+      "href": "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html",
+      "points": "180 points",
+      "comments": "146 comments",
+      "index": 17
     },
     {
       "title": "AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it",
       "href": "https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative",
-      "points": "100 points",
-      "comments": "96 comments",
-      "index": 12
+      "points": "151 points",
+      "comments": "140 comments",
+      "index": 18
     },
     {
       "title": "Detekt – A static code analyzer for Kotlin",
       "href": "https://detekt.dev/",
-      "points": "64 points",
-      "comments": "42 comments",
-      "index": 13
+      "points": "71 points",
+      "comments": "43 comments",
+      "index": 19
+    },
+    {
+      "title": "BGP.Tools: Browse the Internet Ecosystem",
+      "href": "https://bgp.tools/",
+      "points": "254 points",
+      "comments": "37 comments",
+      "index": 20
+    },
+    {
+      "title": "Hulk Hogan Has Died",
+      "href": "https://www.tmz.com/2025/07/24/hulk-hogan-dead/",
+      "points": "21 points",
+      "comments": "6 comments",
+      "index": 21
+    },
+    {
+      "title": "Global earthquake detection and warning using Android phones",
+      "href": "https://doi.org/10.1126/science.ads4779",
+      "points": "5 points",
+      "comments": "discuss",
+      "index": 22
     },
     {
       "title": "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
       "href": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b",
-      "points": "110 points",
-      "comments": "53 comments",
-      "index": 14
+      "points": "115 points",
+      "comments": "56 comments",
+      "index": 23
+    },
+    {
+      "title": "Transformers Without Normalization",
+      "href": "https://arxiv.org/abs/2503.10622",
+      "points": "4 points",
+      "comments": "1 comment",
+      "index": 24
     },
     {
       "title": "XOR_singleheader: Header-only binary fuse and XOR filter library",
       "href": "https://github.com/FastFilter/xor_singleheader",
-      "points": "14 points",
+      "points": "17 points",
       "comments": "1 comment",
-      "index": 15
+      "index": 25
     },
     {
-      "title": "Vanishing home field advantage in English football",
-      "href": "https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html",
-      "points": "41 points",
-      "comments": "51 comments",
-      "index": 16
+      "title": "WiX Toolset: Introduce the Open Source Maintenance Fee",
+      "href": "https://github.com/wixtoolset/issues/issues/8974",
+      "points": "118 points",
+      "comments": "77 comments",
+      "index": 26
     },
     {
       "title": "Distillation makes AI models smaller and cheaper",
       "href": "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/",
-      "points": "129 points",
-      "comments": "60 comments",
-      "index": 17
+      "points": "135 points",
+      "comments": "65 comments",
+      "index": 27
     },
     {
       "title": "Electric cars produce far less brake dust pollution than combustion-engine cars",
       "href": "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/",
-      "points": "405 points",
-      "comments": "552 comments",
-      "index": 18
+      "points": "430 points",
+      "comments": "593 comments",
+      "index": 28
     },
     {
       "title": "The Promised LAN",
       "href": "https://tpl.house/",
-      "points": "366 points",
-      "comments": "150 comments",
-      "index": 19
-    },
-    {
-      "title": "A list of changes to make it easier to build beautiful and walkable places",
-      "href": "https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places",
-      "points": "4 points",
-      "comments": "2 comments",
-      "index": 20
-    },
-    {
-      "title": "Lslvr/mwm: The smallest (usable) X11 window manager",
-      "href": "https://github.com/lslvr/mwm",
-      "points": "5 points",
-      "comments": "discuss",
-      "index": 21
-    },
-    {
-      "title": "US AI Action Plan",
-      "href": "https://www.ai.gov/action-plan",
-      "points": "372 points",
-      "comments": "497 comments",
-      "index": 22
-    },
-    {
-      "title": "Solving a Childhood Mystery: How BASIC Games Learned to Win",
-      "href": "https://sublevelgames.github.io/blogs/2025-07-20-basic-game-hexapawn/",
-      "points": "42 points",
-      "comments": "17 comments",
-      "index": 23
-    },
-    {
-      "title": "Show HN: Tinder but it's only pictures of my wife and I can only swipe right",
-      "href": "https://trytender.app/",
-      "points": "860 points",
-      "comments": "218 comments",
-      "index": 24
-    },
-    {
-      "title": "Jitsi privacy flaw enables one-click stealth audio and video capture",
-      "href": "https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one",
-      "points": "187 points",
-      "comments": "27 comments",
-      "index": 25
-    },
-    {
-      "title": "Building better AI tools",
-      "href": "https://hazelweakly.me/blog/stop-building-ai-tools-backwards/",
-      "points": "318 points",
-      "comments": "164 comments",
-      "index": 26
-    },
-    {
-      "title": "Vector Tiles are deployed on OpenStreetMap.org",
-      "href": "https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/",
-      "points": "236 points",
-      "comments": "58 comments",
-      "index": 27
-    },
-    {
-      "title": "Parsing Protobuf like never before",
-      "href": "https://mcyoung.xyz/2025/07/16/hyperpb/",
-      "points": "227 points",
-      "comments": "78 comments",
-      "index": 28
-    },
-    {
-      "title": "Neil Armstrong's customs form for moon rocks (2016)",
-      "href": "https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html",
-      "points": "279 points",
-      "comments": "187 comments",
+      "points": "370 points",
+      "comments": "154 comments",
       "index": 29
     },
     {
-      "title": "I drank every cocktail",
-      "href": "https://aaronson.org/blog/i-drank-every-cocktail",
-      "points": "348 points",
-      "comments": "179 comments",
+      "title": "Vanishing home field advantage in English football",
+      "href": "https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html",
+      "points": "46 points",
+      "comments": "63 comments",
       "index": 30
     }
   ]

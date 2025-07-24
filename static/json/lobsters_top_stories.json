@@ -1,25 +1,25 @@
 {
-  "date": "Thursday, July 24, 2025 at 10:20 AM GMT-5",
+  "date": "Thursday, July 24, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "Wayback 0.1 released",
       "href": "https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 1
     },
     {
       "title": "You Can Now Disable All AI Features in Zed",
       "href": "https://zed.dev/blog/disable-ai-features",
       "points": "",
-      "comments": "\n              42 comments",
+      "comments": "\n              44 comments",
       "index": 2
     },
     {
-      "title": "font-size-adjust Is Useful",
-      "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
+      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
+      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              1 comment",
       "index": 3
     },
     {
@@ -30,94 +30,94 @@
       "index": 4
     },
     {
+      "title": "font-size-adjust Is Useful",
+      "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
+      "points": "",
+      "comments": "\n              28 comments",
+      "index": 5
+    },
+    {
       "title": "Developing our position on AI",
       "href": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
       "points": "",
-      "comments": "\n              15 comments",
-      "index": 5
+      "comments": "\n              16 comments",
+      "index": 6
     },
     {
       "title": "How much do you spend on AI-assisted tools?",
       "href": "/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 6
+      "comments": "\n              14 comments",
+      "index": 7
     },
     {
       "title": "systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes",
       "href": "https://www.phoronix.com/news/systemd-258-rc1",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 7
+      "index": 8
     },
     {
-      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
-      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
+      "title": "There is no memory safety without thread safety",
+      "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 8
+      "comments": "\n              2 comments",
+      "index": 9
     },
     {
       "title": "Migrating a ZFS pool from RAIDZ1 to RAIDZ2",
       "href": "https://mtlynch.io/raidz1-to-raidz2/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "The Death Of Industrial Design And The Era Of Dull Electronics",
       "href": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 10
+      "index": 11
     },
     {
-      "title": "Vector Tiles are deployed on OpenStreetMap.org",
-      "href": "https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/",
+      "title": "Code Creation, The Way Nature Intended",
+      "href": "https://pehringer.info/code_creation",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver",
       "href": "https://matrix.org/blog/2025/07/postgres-corruption-postmortem/",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "JNJ: J iN Janet",
       "href": "https://sr.ht/~subsetpark/JNJ/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "The Promised LAN",
-      "href": "https://tpl.house/",
-      "points": "",
-      "comments": "\n              9 comments",
       "index": 14
-    },
-    {
-      "title": "What to expect from Debian/trixie",
-      "href": "https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/",
-      "points": "",
-      "comments": "\n              21 comments",
-      "index": 15
     },
     {
       "title": "Arch Linux Dev Blog",
       "href": "https://devblog.archlinux.page/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "The Promised LAN",
+      "href": "https://tpl.house/",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 16
     },
     {
-      "title": "AI and the great digital agency unbundling",
-      "href": "https://dri.es/ai-and-the-great-digital-agency-unbundling",
+      "title": "What to expect from Debian/trixie",
+      "href": "https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              21 comments",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
-      "title": "20 years of Linux on the Desktop (part 4)",
-      "href": "https://ploum.net/2025-07-23-linux_desktop4.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Transformers without Normalization",
-      "href": "https://arxiv.org/pdf/2503.10622",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
       "title": "Kernel",
       "href": "https://web.cs.wpi.edu/%7Ejshutt/kernel.html#:%7E:text=On%20the%20theoretical%20side%2C%20the,also:%20My%20Academic%20Work%20page",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 21
+      "index": 19
+    },
+    {
+      "title": "20 years of Linux on the Desktop (part 4)",
+      "href": "https://ploum.net/2025-07-23-linux_desktop4.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "Branch Coverage Won't Prove The Collatz Conjecture",
       "href": "https://concerningquality.com/collatz-conjecture/",
       "points": "",
       "comments": "\n              7 comments",
+      "index": 21
+    },
+    {
+      "title": "Fallout's Memory Model",
+      "href": "https://youtube.com/watch?v=6kB_fko6SIg",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 22
+    },
+    {
+      "title": "Transformers without Normalization",
+      "href": "https://arxiv.org/pdf/2503.10622",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Vintage Macintosh Programming Book Library",
       "href": "https://vintageapple.org/macprogramming/index_year.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Computational Tyranny",
       "href": "https://happyfellow.bearblog.dev/computational-tyranny/",
       "points": "",
       "comments": "\n              23 comments",
-      "index": 24
-    },
-    {
-      "title": "Implementing dynamic scope for Fennel and Lua",
-      "href": "https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
