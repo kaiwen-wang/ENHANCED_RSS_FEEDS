@@ -1,11 +1,11 @@
 {
-  "date": "Friday, July 25, 2025 at 8:35 AM GMT-5",
+  "date": "Friday, July 25, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Renting is for Suckers",
       "href": "https://andrewkelley.me/post/renting-is-for-suckers.html",
       "points": "",
-      "comments": "\n              38 comments",
+      "comments": "\n              39 comments",
       "index": 1
     },
     {
@@ -26,14 +26,14 @@
       "title": "Three HTTP versions later, forms are still a mess",
       "href": "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 4
     },
     {
       "title": "There is no memory safety without thread safety",
       "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
       "points": "",
-      "comments": "\n              31 comments",
+      "comments": "\n              32 comments",
       "index": 5
     },
     {
@@ -51,45 +51,45 @@
       "index": 7
     },
     {
+      "title": "433: How to Make a Font that Says Nothing",
+      "href": "https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 8
+    },
+    {
       "title": "That time I wasted weeks hand optimizing assembly because I benchmarked on random data",
       "href": "https://www.vidarholen.net/contents/blog/?p=1160",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Use Your Type System",
       "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "PSA: SQLite WAL checksums fail silently and may lose data",
       "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 10
+      "index": 11
     },
     {
-      "title": "433: How to Make a Font that Says Nothing",
-      "href": "https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/",
+      "title": "vet a command-line tool that acts as a safety net for the risky curl | bash pattern",
+      "href": "https://github.com/vet-run/vet",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 11
+      "comments": "\n              7 comments",
+      "index": 12
     },
     {
       "title": "A valid HTML zip bomb",
       "href": "https://ache.one/notes/html_zip_bomb",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 12
-    },
-    {
-      "title": "vet a command-line tool that acts as a safety net for the risky curl | bash pattern",
-      "href": "https://github.com/vet-run/vet",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 13
     },
     {
@@ -124,7 +124,7 @@
       "title": "You Can Now Disable All AI Features in Zed",
       "href": "https://zed.dev/blog/disable-ai-features",
       "points": "",
-      "comments": "\n              88 comments",
+      "comments": "\n              89 comments",
       "index": 18
     },
     {
@@ -145,35 +145,35 @@
       "title": "systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes",
       "href": "https://www.phoronix.com/news/systemd-258-rc1",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 21
+    },
+    {
+      "title": "Jitsi privacy flaw that enables one-click stealth audio and video capture",
+      "href": "https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 22
     },
     {
       "title": "Developing our position on AI",
       "href": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
       "points": "",
       "comments": "\n              38 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "font-size-adjust Is Useful",
       "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
       "points": "",
       "comments": "\n              33 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "The FastLanes File Format",
       "href": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "Jitsi privacy flaw that enables one-click stealth audio and video capture",
-      "href": "https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
