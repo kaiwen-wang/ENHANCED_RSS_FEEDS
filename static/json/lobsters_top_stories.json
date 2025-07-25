@@ -1,11 +1,11 @@
 {
-  "date": "Friday, July 25, 2025 at 6:20 AM GMT-5",
+  "date": "Friday, July 25, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "Renting is for Suckers",
       "href": "https://andrewkelley.me/post/renting-is-for-suckers.html",
       "points": "",
-      "comments": "\n              33 comments",
+      "comments": "\n              38 comments",
       "index": 1
     },
     {
@@ -19,84 +19,84 @@
       "title": "Racket as a first language",
       "href": "https://felleisen.org/matthias/Thoughts/py.html",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 3
-    },
-    {
-      "title": "There is no memory safety without thread safety",
-      "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
-      "points": "",
-      "comments": "\n              29 comments",
-      "index": 4
-    },
-    {
-      "title": "New Aarch64 Backend",
-      "href": "https://ziglang.org/devlog/2025/#2025-07-23",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 5
     },
     {
       "title": "Three HTTP versions later, forms are still a mess",
       "href": "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 6
-    },
-    {
-      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
-      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
-      "points": "",
       "comments": "\n              4 comments",
-      "index": 7
+      "index": 4
     },
     {
-      "title": "Use Your Type System",
-      "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
+      "title": "There is no memory safety without thread safety",
+      "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 8
+      "comments": "\n              30 comments",
+      "index": 5
     },
     {
-      "title": "A valid HTML zip bomb",
-      "href": "https://ache.one/notes/html_zip_bomb",
+      "title": "New Aarch64 Backend",
+      "href": "https://ziglang.org/devlog/2025/#2025-07-23",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 9
+      "index": 6
     },
     {
       "title": "Celebrating 20 years of MDN",
       "href": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 7
     },
     {
       "title": "That time I wasted weeks hand optimizing assembly because I benchmarked on random data",
       "href": "https://www.vidarholen.net/contents/blog/?p=1160",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
+      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
+      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 9
+    },
+    {
+      "title": "Use Your Type System",
+      "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 10
+    },
+    {
+      "title": "A valid HTML zip bomb",
+      "href": "https://ache.one/notes/html_zip_bomb",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 11
+    },
+    {
+      "title": "433: How to Make a Font that Says Nothing",
+      "href": "https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 12
     },
     {
       "title": "Relational Thinking in J",
       "href": "https://storytotell.org/relational-thinking-in-j",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Fallout's Memory Model",
       "href": "https://youtube.com/watch?v=6kB_fko6SIg",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 13
-    },
-    {
-      "title": "433: How to Make a Font that Says Nothing",
-      "href": "https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              9 comments",
       "index": 14
     },
     {
@@ -117,7 +117,7 @@
       "title": "You Can Now Disable All AI Features in Zed",
       "href": "https://zed.dev/blog/disable-ai-features",
       "points": "",
-      "comments": "\n              84 comments",
+      "comments": "\n              86 comments",
       "index": 17
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "Programming Vehicles in Games",
+      "href": "https://www.youtube.com/watch?v=MrIAw980iYg",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
       "title": "Developing our position on AI",
       "href": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
       "points": "",
       "comments": "\n              38 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "font-size-adjust Is Useful",
       "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
       "points": "",
       "comments": "\n              33 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "The FastLanes File Format",
       "href": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Jitsi privacy flaw that enables one-click stealth audio and video capture",
-      "href": "https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 24
     },
     {
-      "title": "Programming Vehicles in Games",
-      "href": "https://www.youtube.com/watch?v=MrIAw980iYg",
+      "title": "The Death Of Industrial Design And The Era Of Dull Electronics",
+      "href": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              17 comments",
       "index": 25
     }
   ]
