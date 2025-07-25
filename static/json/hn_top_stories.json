@@ -1,214 +1,214 @@
 {
-  "date": "Friday, July 25, 2025 at 2:25 AM GMT-5",
+  "date": "Friday, July 25, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "Google spoofed via DKIM replay attack: A technical breakdown",
       "href": "https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/",
-      "points": "79 points",
-      "comments": "24 comments",
+      "points": "109 points",
+      "comments": "36 comments",
       "index": 1
-    },
-    {
-      "title": "Graphene OS: a security-enhanced Android build",
-      "href": "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/",
-      "points": "352 points",
-      "comments": "147 comments",
-      "index": 2
     },
     {
       "title": "Terence Tao: Quantitative AI progress needs accurate and transparent evaluation",
       "href": "https://mathstodon.xyz/@tao/114910028356641733",
-      "points": "19 points",
-      "comments": "3 comments",
+      "points": "44 points",
+      "comments": "14 comments",
+      "index": 2
+    },
+    {
+      "title": "Graphene OS: a security-enhanced Android build",
+      "href": "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/",
+      "points": "398 points",
+      "comments": "190 comments",
       "index": 3
     },
     {
       "title": "Asciinema: Record and share your terminal sessions",
       "href": "https://asciinema.org",
-      "points": "88 points",
-      "comments": "31 comments",
+      "points": "104 points",
+      "comments": "34 comments",
       "index": 4
+    },
+    {
+      "title": "Games Look Bad: HDR and Tone Mapping",
+      "href": "https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/",
+      "points": "10 points",
+      "comments": "2 comments",
+      "index": 5
     },
     {
       "title": "Celebrating 20 Years of MDN",
       "href": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
-      "points": "56 points",
-      "comments": "4 comments",
-      "index": 5
-    },
-    {
-      "title": "Positron – A next-generation data science IDE",
-      "href": "https://positron.posit.co/",
-      "points": "163 points",
-      "comments": "56 comments",
+      "points": "92 points",
+      "comments": "12 comments",
       "index": 6
     },
     {
       "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
       "href": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more",
-      "points": "320 points",
-      "comments": "511 comments",
+      "points": "329 points",
+      "comments": "529 comments",
       "index": 7
     },
     {
       "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
       "href": "https://www.vidarholen.net/contents/blog/?p=1160",
-      "points": "300 points",
-      "comments": "91 comments",
+      "points": "311 points",
+      "comments": "98 comments",
       "index": 8
     },
     {
-      "title": "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
-      "href": "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019",
-      "points": "279 points",
-      "comments": "234 comments",
+      "title": "Positron – A next-generation data science IDE",
+      "href": "https://positron.posit.co/",
+      "points": "171 points",
+      "comments": "60 comments",
       "index": 9
     },
     {
       "title": "There is no memory safety without thread safety",
       "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
-      "points": "328 points",
-      "comments": "294 comments",
+      "points": "342 points",
+      "comments": "306 comments",
       "index": 10
-    },
-    {
-      "title": "Inter-Planetary Network Special Interest Group",
-      "href": "https://www.ipnsig.org",
-      "points": "133 points",
-      "comments": "33 comments",
-      "index": 11
     },
     {
       "title": "Modernish – A library for writing programs for POSIX-based shells and utilities",
       "href": "https://github.com/modernish/modernish",
-      "points": "27 points",
+      "points": "33 points",
       "comments": "2 comments",
+      "index": 11
+    },
+    {
+      "title": "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
+      "href": "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019",
+      "points": "295 points",
+      "comments": "260 comments",
       "index": 12
-    },
-    {
-      "title": "A GPU Calculator That Helps Calculate What GPU to Use",
-      "href": "https://calculator.inference.ai/",
-      "points": "75 points",
-      "comments": "15 comments",
-      "index": 13
-    },
-    {
-      "title": "New Aarch64 Back End",
-      "href": "https://ziglang.org/devlog/2025/#2025-07-23",
-      "points": "100 points",
-      "comments": "31 comments",
-      "index": 14
-    },
-    {
-      "title": "Revisiting Moneyball",
-      "href": "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07",
-      "points": "92 points",
-      "comments": "32 comments",
-      "index": 15
-    },
-    {
-      "title": "Use Your Type System",
-      "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
-      "points": "259 points",
-      "comments": "262 comments",
-      "index": 16
-    },
-    {
-      "title": "Open Source Maintenance Fee",
-      "href": "https://github.com/wixtoolset/issues/issues/8974",
-      "points": "261 points",
-      "comments": "181 comments",
-      "index": 17
-    },
-    {
-      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
-      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
-      "points": "255 points",
-      "comments": "115 comments",
-      "index": 18
     },
     {
       "title": "Developing with Kiro: Amazon's New Agentic IDE",
       "href": "https://yehudacohen.substack.com/p/developing-with-kiro-amazons-new",
-      "points": "3 points",
-      "comments": "discuss",
-      "index": 19
+      "points": "10 points",
+      "comments": "3 comments",
+      "index": 13
+    },
+    {
+      "title": "Inter-Planetary Network Special Interest Group",
+      "href": "https://www.ipnsig.org",
+      "points": "139 points",
+      "comments": "33 comments",
+      "index": 14
     },
     {
       "title": "Show HN: tsbro – TypeScript for the Browser, No Build Step",
       "href": "https://github.com/stagas/tsbro",
-      "points": "7 points",
+      "points": "14 points",
+      "comments": "11 comments",
+      "index": 15
+    },
+    {
+      "title": "A GPU Calculator That Helps Calculate What GPU to Use",
+      "href": "https://calculator.inference.ai/",
+      "points": "76 points",
+      "comments": "15 comments",
+      "index": 16
+    },
+    {
+      "title": "Revisiting Moneyball",
+      "href": "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07",
+      "points": "96 points",
+      "comments": "34 comments",
+      "index": 17
+    },
+    {
+      "title": "Finding Robert Bogucki, the man who disappeared on purpose",
+      "href": "https://www.abc.net.au/news/2025-07-06/robert-bogucki-nowhere-man-on-his-43-days-in-the-desert/105234668",
+      "points": "6 points",
       "comments": "1 comment",
+      "index": 18
+    },
+    {
+      "title": "New Aarch64 Back End",
+      "href": "https://ziglang.org/devlog/2025/#2025-07-23",
+      "points": "108 points",
+      "comments": "41 comments",
+      "index": 19
+    },
+    {
+      "title": "Open Source Maintenance Fee",
+      "href": "https://github.com/wixtoolset/issues/issues/8974",
+      "points": "271 points",
+      "comments": "186 comments",
       "index": 20
+    },
+    {
+      "title": "Use Your Type System",
+      "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
+      "points": "266 points",
+      "comments": "271 comments",
+      "index": 21
+    },
+    {
+      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
+      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
+      "points": "258 points",
+      "comments": "117 comments",
+      "index": 22
     },
     {
       "title": "Air Force unit suspends use of Sig Sauer pistol after shooting death of airman",
       "href": "https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death",
-      "points": "161 points",
-      "comments": "270 comments",
-      "index": 21
-    },
-    {
-      "title": "Visa and Mastercard: The global payment duopoly (2024)",
-      "href": "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly",
-      "points": "313 points",
-      "comments": "197 comments",
-      "index": 22
+      "points": "172 points",
+      "comments": "274 comments",
+      "index": 23
     },
     {
       "title": "Vet is a safety net for the curl | bash pattern",
       "href": "https://github.com/vet-run/vet",
-      "points": "187 points",
-      "comments": "175 comments",
-      "index": 23
-    },
-    {
-      "title": "Alto turns Apple Notes into a website",
-      "href": "https://alto.so/",
-      "points": "62 points",
-      "comments": "24 comments",
+      "points": "189 points",
+      "comments": "177 comments",
       "index": 24
     },
     {
       "title": "Bus Bunching",
       "href": "https://www.futilitycloset.com/2025/07/12/bus-bunching/",
-      "points": "63 points",
-      "comments": "72 comments",
+      "points": "64 points",
+      "comments": "78 comments",
       "index": 25
-    },
-    {
-      "title": "RE#: High performance derivative-based regular expression matching (2024)",
-      "href": "https://arxiv.org/abs/2407.20479",
-      "points": "40 points",
-      "comments": "6 comments",
-      "index": 26
     },
     {
       "title": "Mwm – The smallest usable X11 window manager",
       "href": "https://github.com/lslvr/mwm",
-      "points": "155 points",
-      "comments": "67 comments",
+      "points": "164 points",
+      "comments": "70 comments",
+      "index": 26
+    },
+    {
+      "title": "Visa and Mastercard: The global payment duopoly (2024)",
+      "href": "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly",
+      "points": "330 points",
+      "comments": "218 comments",
       "index": 27
     },
     {
-      "title": "Why concatenative programming matters (2012)",
-      "href": "http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html",
-      "points": "59 points",
-      "comments": "21 comments",
+      "title": "RE#: High performance derivative-based regular expression matching (2024)",
+      "href": "https://arxiv.org/abs/2407.20479",
+      "points": "42 points",
+      "comments": "6 comments",
       "index": 28
+    },
+    {
+      "title": "XMPP: When a 25-Year-Old Protocol Becomes Strategic Again",
+      "href": "https://www.process-one.net/blog/xmpp-when-a-25-year-old-protocol-becomes-strategic-again/",
+      "points": "5 points",
+      "comments": "1 comment",
+      "index": 29
     },
     {
       "title": "Show HN: Nia – MCP server that gives more docs and repos to coding agents",
       "href": "https://www.trynia.ai/",
-      "points": "63 points",
-      "comments": "49 comments",
-      "index": 29
-    },
-    {
-      "title": "Intel CEO Letter to Employees",
-      "href": "https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees",
-      "points": "240 points",
-      "comments": "425 comments",
+      "points": "65 points",
+      "comments": "52 comments",
       "index": 30
     }
   ]
