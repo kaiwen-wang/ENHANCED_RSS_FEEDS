@@ -1,11 +1,11 @@
 {
-  "date": "Friday, July 25, 2025 at 4:25 AM GMT-5",
+  "date": "Friday, July 25, 2025 at 5:25 AM GMT-5",
   "articles": [
     {
       "title": "Renting is for Suckers",
       "href": "https://andrewkelley.me/post/renting-is-for-suckers.html",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              30 comments",
       "index": 1
     },
     {
@@ -26,7 +26,7 @@
       "title": "There is no memory safety without thread safety",
       "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              28 comments",
       "index": 4
     },
     {
@@ -51,129 +51,129 @@
       "index": 7
     },
     {
-      "title": "A valid HTML zip bomb",
-      "href": "https://ache.one/notes/html_zip_bomb",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 8
-    },
-    {
       "title": "Three HTTP versions later, forms are still a mess",
       "href": "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
+      "index": 8
     },
     {
-      "title": "Relational Thinking in J",
-      "href": "https://storytotell.org/relational-thinking-in-j",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 10
-    },
-    {
-      "title": "Fallout's Memory Model",
-      "href": "https://youtube.com/watch?v=6kB_fko6SIg",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 11
-    },
-    {
-      "title": "When Is WebAssembly Going to Get DOM Support? Or, how I learned to stop worrying and love glue code",
-      "href": "https://queue.acm.org/detail.cfm?id=3746174",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "You Can Now Disable All AI Features in Zed",
-      "href": "https://zed.dev/blog/disable-ai-features",
-      "points": "",
-      "comments": "\n              78 comments",
-      "index": 13
-    },
-    {
-      "title": "systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes",
-      "href": "https://www.phoronix.com/news/systemd-258-rc1",
+      "title": "A valid HTML zip bomb",
+      "href": "https://ache.one/notes/html_zip_bomb",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 14
-    },
-    {
-      "title": "How much do you spend on AI-assisted tools?",
-      "href": "/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools",
-      "points": "",
-      "comments": "\n              27 comments",
-      "index": 15
-    },
-    {
-      "title": "A WebTransport implementation in C",
-      "href": "https://github.com/andrewmd5/libwtf",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Developing our position on AI",
-      "href": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
-      "points": "",
-      "comments": "\n              38 comments",
-      "index": 17
-    },
-    {
-      "title": "font-size-adjust Is Useful",
-      "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
-      "points": "",
-      "comments": "\n              33 comments",
-      "index": 18
+      "index": 9
     },
     {
       "title": "That time I wasted weeks hand optimizing assembly because I benchmarked on random data",
       "href": "https://www.vidarholen.net/contents/blog/?p=1160",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 10
     },
     {
-      "title": "Programming Vehicles in Games",
-      "href": "https://www.youtube.com/watch?v=MrIAw980iYg",
+      "title": "Relational Thinking in J",
+      "href": "https://storytotell.org/relational-thinking-in-j",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "vet a command-line tool that acts as a safety net for the risky curl | bash pattern",
-      "href": "https://github.com/vet-run/vet",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 21
+      "comments": "\n              2 comments",
+      "index": 11
     },
     {
       "title": "Celebrating 20 years of MDN",
       "href": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 12
     },
     {
-      "title": "The FastLanes File Format",
-      "href": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
+      "title": "Fallout's Memory Model",
+      "href": "https://youtube.com/watch?v=6kB_fko6SIg",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 13
+    },
+    {
+      "title": "When Is WebAssembly Going to Get DOM Support? Or, how I learned to stop worrying and love glue code",
+      "href": "https://queue.acm.org/detail.cfm?id=3746174",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
+      "title": "vet a command-line tool that acts as a safety net for the risky curl | bash pattern",
+      "href": "https://github.com/vet-run/vet",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
+      "title": "You Can Now Disable All AI Features in Zed",
+      "href": "https://zed.dev/blog/disable-ai-features",
+      "points": "",
+      "comments": "\n              82 comments",
+      "index": 16
+    },
+    {
+      "title": "A WebTransport implementation in C",
+      "href": "https://github.com/andrewmd5/libwtf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 17
+    },
+    {
+      "title": "How much do you spend on AI-assisted tools?",
+      "href": "/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools",
+      "points": "",
+      "comments": "\n              28 comments",
+      "index": 18
+    },
+    {
+      "title": "systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes",
+      "href": "https://www.phoronix.com/news/systemd-258-rc1",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 19
+    },
+    {
+      "title": "Developing our position on AI",
+      "href": "https://www.recurse.com/blog/191-developing-our-position-on-ai",
+      "points": "",
+      "comments": "\n              38 comments",
+      "index": 20
+    },
+    {
+      "title": "font-size-adjust Is Useful",
+      "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
+      "points": "",
+      "comments": "\n              33 comments",
+      "index": 21
     },
     {
       "title": "Jitsi privacy flaw that enables one-click stealth audio and video capture",
       "href": "https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
+      "index": 22
+    },
+    {
+      "title": "Programming Vehicles in Games",
+      "href": "https://www.youtube.com/watch?v=MrIAw980iYg",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "The Death Of Industrial Design And The Era Of Dull Electronics",
       "href": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              17 comments",
+      "index": 24
+    },
+    {
+      "title": "The FastLanes File Format",
+      "href": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
