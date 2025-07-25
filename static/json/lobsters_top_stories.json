@@ -1,11 +1,11 @@
 {
-  "date": "Friday, July 25, 2025 at 12:20 PM GMT-5",
+  "date": "Friday, July 25, 2025 at 1:30 PM GMT-5",
   "articles": [
     {
       "title": "Renting is for Suckers",
       "href": "https://andrewkelley.me/post/renting-is-for-suckers.html",
       "points": "",
-      "comments": "\n              53 comments",
+      "comments": "\n              57 comments",
       "index": 1
     },
     {
@@ -16,38 +16,38 @@
       "index": 2
     },
     {
-      "title": "Three HTTP versions later, forms are still a mess",
-      "href": "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 3
-    },
-    {
       "title": "Celebrating 20 years of MDN",
       "href": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 3
+    },
+    {
+      "title": "Three HTTP versions later, forms are still a mess",
+      "href": "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 4
     },
     {
       "title": "Racket as a first language",
       "href": "https://felleisen.org/matthias/Thoughts/py.html",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              18 comments",
       "index": 5
     },
     {
       "title": "Wayback 0.1 released",
       "href": "https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              30 comments",
       "index": 6
     },
     {
       "title": "There is no memory safety without thread safety",
       "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
       "points": "",
-      "comments": "\n              35 comments",
+      "comments": "\n              36 comments",
       "index": 7
     },
     {
@@ -72,106 +72,106 @@
       "index": 10
     },
     {
+      "title": "Using fortune to reinforce habits",
+      "href": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
       "title": "New Aarch64 Backend",
       "href": "https://ziglang.org/devlog/2025/#2025-07-23",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Use Your Type System",
       "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
       "points": "",
-      "comments": "\n              9 comments",
-      "index": 12
+      "comments": "\n              10 comments",
+      "index": 13
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/nz9afc/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 14
     },
     {
       "title": "PSA: SQLite WAL checksums fail silently and may lose data",
       "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 13
+      "comments": "\n              7 comments",
+      "index": 15
+    },
+    {
+      "title": "Open Source Maintenance Fee",
+      "href": "https://opensourcemaintenancefee.org/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 16
     },
     {
       "title": "A valid HTML zip bomb",
       "href": "https://ache.one/notes/html_zip_bomb",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 14
+      "index": 17
     },
     {
       "title": "vet a command-line tool that acts as a safety net for the risky curl | bash pattern",
       "href": "https://github.com/vet-run/vet",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 15
-    },
-    {
-      "title": "Using fortune to reinforce habits",
-      "href": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Open Source Maintenance Fee",
-      "href": "https://opensourcemaintenancefee.org/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 17
-    },
-    {
-      "title": "Programming Vehicles in Games",
-      "href": "https://www.youtube.com/watch?v=MrIAw980iYg",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 18
-    },
-    {
-      "title": "Relational Thinking in J",
-      "href": "https://storytotell.org/relational-thinking-in-j",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
-    },
-    {
-      "title": "Fallout's Memory Model",
-      "href": "https://youtube.com/watch?v=6kB_fko6SIg",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 20
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/nz9afc/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 21
-    },
-    {
-      "title": "When Is WebAssembly Going to Get DOM Support? Or, how I learned to stop worrying and love glue code",
-      "href": "https://queue.acm.org/detail.cfm?id=3746174",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
     },
     {
       "title": "Implementing a Functional Language with Graph Reduction",
       "href": "https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 19
     },
     {
-      "title": "A WebTransport implementation in C",
-      "href": "https://github.com/andrewmd5/libwtf",
+      "title": "Relational Thinking in J",
+      "href": "https://storytotell.org/relational-thinking-in-j",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 24
+      "comments": "\n              2 comments",
+      "index": 20
     },
     {
       "title": "Combinatory Programming",
       "href": "https://blog.zdsmith.com/posts/combinatory-programming.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Programming Vehicles in Games",
+      "href": "https://www.youtube.com/watch?v=MrIAw980iYg",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "pantagruel/README",
+      "href": "https://github.com/subsetpark/pantagruel/blob/master/README.md",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Fallout's Memory Model",
+      "href": "https://youtube.com/watch?v=6kB_fko6SIg",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 24
+    },
+    {
+      "title": "Monotonic and Wall Clock Time in the Go time package",
+      "href": "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
