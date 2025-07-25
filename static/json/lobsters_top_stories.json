@@ -1,5 +1,5 @@
 {
-  "date": "Friday, July 25, 2025 at 7:40 AM GMT-5",
+  "date": "Friday, July 25, 2025 at 8:35 AM GMT-5",
   "articles": [
     {
       "title": "Renting is for Suckers",
@@ -26,28 +26,28 @@
       "title": "Three HTTP versions later, forms are still a mess",
       "href": "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 4
     },
     {
       "title": "There is no memory safety without thread safety",
       "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
       "points": "",
-      "comments": "\n              30 comments",
+      "comments": "\n              31 comments",
       "index": 5
-    },
-    {
-      "title": "New Aarch64 Backend",
-      "href": "https://ziglang.org/devlog/2025/#2025-07-23",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 6
     },
     {
       "title": "Celebrating 20 years of MDN",
       "href": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 6
+    },
+    {
+      "title": "New Aarch64 Backend",
+      "href": "https://ziglang.org/devlog/2025/#2025-07-23",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 7
     },
     {
@@ -58,94 +58,94 @@
       "index": 8
     },
     {
-      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
-      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 9
-    },
-    {
       "title": "Use Your Type System",
       "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 10
+      "index": 9
     },
     {
-      "title": "A valid HTML zip bomb",
-      "href": "https://ache.one/notes/html_zip_bomb",
+      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
+      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 11
+      "comments": "\n              6 comments",
+      "index": 10
     },
     {
       "title": "433: How to Make a Font that Says Nothing",
       "href": "https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 11
+    },
+    {
+      "title": "A valid HTML zip bomb",
+      "href": "https://ache.one/notes/html_zip_bomb",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 12
+    },
+    {
+      "title": "vet a command-line tool that acts as a safety net for the risky curl | bash pattern",
+      "href": "https://github.com/vet-run/vet",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 13
     },
     {
       "title": "Relational Thinking in J",
       "href": "https://storytotell.org/relational-thinking-in-j",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Fallout's Memory Model",
       "href": "https://youtube.com/watch?v=6kB_fko6SIg",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "When Is WebAssembly Going to Get DOM Support? Or, how I learned to stop worrying and love glue code",
       "href": "https://queue.acm.org/detail.cfm?id=3746174",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
-    },
-    {
-      "title": "vet a command-line tool that acts as a safety net for the risky curl | bash pattern",
-      "href": "https://github.com/vet-run/vet",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 16
-    },
-    {
-      "title": "You Can Now Disable All AI Features in Zed",
-      "href": "https://zed.dev/blog/disable-ai-features",
-      "points": "",
-      "comments": "\n              86 comments",
-      "index": 17
-    },
-    {
-      "title": "How much do you spend on AI-assisted tools?",
-      "href": "/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools",
-      "points": "",
-      "comments": "\n              29 comments",
-      "index": 18
-    },
-    {
-      "title": "A WebTransport implementation in C",
-      "href": "https://github.com/andrewmd5/libwtf",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes",
-      "href": "https://www.phoronix.com/news/systemd-258-rc1",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 20
     },
     {
       "title": "Programming Vehicles in Games",
       "href": "https://www.youtube.com/watch?v=MrIAw980iYg",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "You Can Now Disable All AI Features in Zed",
+      "href": "https://zed.dev/blog/disable-ai-features",
+      "points": "",
+      "comments": "\n              88 comments",
+      "index": 18
+    },
+    {
+      "title": "How much do you spend on AI-assisted tools?",
+      "href": "/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools",
+      "points": "",
+      "comments": "\n              29 comments",
+      "index": 19
+    },
+    {
+      "title": "A WebTransport implementation in C",
+      "href": "https://github.com/andrewmd5/libwtf",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes",
+      "href": "https://www.phoronix.com/news/systemd-258-rc1",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 21
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "The Death Of Industrial Design And The Era Of Dull Electronics",
-      "href": "https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/",
+      "title": "Jitsi privacy flaw that enables one-click stealth audio and video capture",
+      "href": "https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
