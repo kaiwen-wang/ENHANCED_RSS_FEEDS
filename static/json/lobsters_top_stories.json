@@ -1,11 +1,11 @@
 {
-  "date": "Friday, July 25, 2025 at 2:15 PM GMT-5",
+  "date": "Friday, July 25, 2025 at 3:25 PM GMT-5",
   "articles": [
     {
       "title": "Renting is for Suckers",
       "href": "https://andrewkelley.me/post/renting-is-for-suckers.html",
       "points": "",
-      "comments": "\n              57 comments",
+      "comments": "\n              59 comments",
       "index": 1
     },
     {
@@ -26,28 +26,28 @@
       "title": "Three HTTP versions later, forms are still a mess",
       "href": "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 4
+    },
+    {
+      "title": "Using fortune to reinforce habits",
+      "href": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 5
     },
     {
       "title": "Racket as a first language",
       "href": "https://felleisen.org/matthias/Thoughts/py.html",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Wayback 0.1 released",
       "href": "https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/",
       "points": "",
-      "comments": "\n              31 comments",
-      "index": 6
-    },
-    {
-      "title": "Using fortune to reinforce habits",
-      "href": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              33 comments",
       "index": 7
     },
     {
@@ -58,122 +58,122 @@
       "index": 8
     },
     {
+      "title": "Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM",
+      "href": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 9
+    },
+    {
       "title": "That time I wasted weeks hand optimizing assembly because I benchmarked on random data",
       "href": "https://www.vidarholen.net/contents/blog/?p=1160",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 9
+      "index": 10
+    },
+    {
+      "title": "Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software (and DOOM)",
+      "href": "https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
     },
     {
       "title": "There is no memory safety without thread safety",
       "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
       "points": "",
       "comments": "\n              36 comments",
-      "index": 10
+      "index": 12
     },
     {
       "title": "433: How to Make a Font that Says Nothing",
       "href": "https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 11
+      "index": 13
     },
     {
       "title": "New Aarch64 Backend",
       "href": "https://ziglang.org/devlog/2025/#2025-07-23",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 12
+      "index": 14
     },
     {
       "title": "Use Your Type System",
       "href": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 13
+      "index": 15
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/nz9afc/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              12 comments",
-      "index": 14
+      "comments": "\n              16 comments",
+      "index": 16
     },
     {
       "title": "Open Source Maintenance Fee",
       "href": "https://opensourcemaintenancefee.org/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 15
-    },
-    {
-      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
-      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 16
-    },
-    {
-      "title": "Monotonic and Wall Clock Time in the Go time package",
-      "href": "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 17
-    },
-    {
-      "title": "vet a command-line tool that acts as a safety net for the risky curl | bash pattern",
-      "href": "https://github.com/vet-run/vet",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 18
     },
     {
       "title": "Combinatory Programming",
       "href": "https://blog.zdsmith.com/posts/combinatory-programming.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
+      "href": "https://avi.im/blag/2025/sqlite-wal-checksum/",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 19
     },
     {
-      "title": "A valid HTML zip bomb",
-      "href": "https://ache.one/notes/html_zip_bomb",
+      "title": "Monotonic and Wall Clock Time in the Go time package",
+      "href": "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              no comments",
       "index": 20
+    },
+    {
+      "title": "vet a command-line tool that acts as a safety net for the risky curl | bash pattern",
+      "href": "https://github.com/vet-run/vet",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 21
     },
     {
       "title": "Implementing a Functional Language with Graph Reduction",
       "href": "https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Relational Thinking in J",
-      "href": "https://storytotell.org/relational-thinking-in-j",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 22
-    },
-    {
-      "title": "Programming Vehicles in Games",
-      "href": "https://www.youtube.com/watch?v=MrIAw980iYg",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
     },
     {
       "title": "pantagruel/README",
       "href": "https://github.com/subsetpark/pantagruel/blob/master/README.md",
       "points": "",
       "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "A valid HTML zip bomb",
+      "href": "https://ache.one/notes/html_zip_bomb",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 24
     },
     {
-      "title": "Fallout's Memory Model",
-      "href": "https://youtube.com/watch?v=6kB_fko6SIg",
+      "title": "Programming Vehicles in Games",
+      "href": "https://www.youtube.com/watch?v=MrIAw980iYg",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
