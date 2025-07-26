@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, July 26, 2025 at 5:20 AM GMT-5",
+  "date": "Saturday, July 26, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "Lobsters Interview with Technomancy",
@@ -9,24 +9,24 @@
       "index": 1
     },
     {
+      "title": "It's time for modern CSS to kill the SPA",
+      "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 2
+    },
+    {
       "title": "Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM",
       "href": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 2
+      "index": 3
     },
     {
       "title": "Renting is for Suckers",
       "href": "https://andrewkelley.me/post/renting-is-for-suckers.html",
       "points": "",
       "comments": "\n              71 comments",
-      "index": 3
-    },
-    {
-      "title": "It's time for modern CSS to kill the SPA",
-      "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 4
     },
     {
@@ -72,52 +72,52 @@
       "index": 10
     },
     {
+      "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
+      "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 11
+    },
+    {
       "title": "GNOME Calendar: A New Era of Accessibility Achieved in 90 Days",
       "href": "https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Programming Vehicles in Games",
       "href": "https://wassimulator.com/blog/programming/programming_vehicles_in_games.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Three HTTP versions later, forms are still a mess",
       "href": "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "HTTP/1.1 Must Die",
       "href": "https://http1mustdie.com/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Racket as a first language",
       "href": "https://felleisen.org/matthias/Thoughts/py.html",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 15
-    },
-    {
-      "title": "Monotonic and Wall Clock Time in the Go time package",
-      "href": "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 16
     },
     {
-      "title": "Wayback 0.1 released",
-      "href": "https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/",
+      "title": "Arm desktop: x86 emulation",
+      "href": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/",
       "points": "",
-      "comments": "\n              35 comments",
+      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -128,17 +128,17 @@
       "index": 18
     },
     {
-      "title": "Nullable but not null",
-      "href": "https://efe.me/posts/nullable-but-not-null/",
+      "title": "Monotonic and Wall Clock Time in the Go time package",
+      "href": "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/",
       "points": "",
       "comments": "\n              no comments",
       "index": 19
     },
     {
-      "title": "There is no memory safety without thread safety",
-      "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+      "title": "Wayback 0.1 released",
+      "href": "https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/",
       "points": "",
-      "comments": "\n              43 comments",
+      "comments": "\n              35 comments",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Nullable but not null",
+      "href": "https://efe.me/posts/nullable-but-not-null/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "There is no memory safety without thread safety",
+      "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+      "points": "",
+      "comments": "\n              45 comments",
+      "index": 23
+    },
+    {
       "title": "What are you doing this weekend?",
       "href": "/s/nz9afc/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              22 comments",
-      "index": 22
+      "comments": "\n              23 comments",
+      "index": 24
     },
     {
       "title": "Implementing a Functional Language with Graph Reduction",
       "href": "https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "433: How to Make a Font that Says Nothing",
-      "href": "https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 24
-    },
-    {
-      "title": "New Aarch64 Backend",
-      "href": "https://ziglang.org/devlog/2025/#2025-07-23",
-      "points": "",
-      "comments": "\n              9 comments",
       "index": 25
     }
   ]
