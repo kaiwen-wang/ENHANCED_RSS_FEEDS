@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, July 26, 2025 at 11:25 AM GMT-5",
+  "date": "Saturday, July 26, 2025 at 12:20 PM GMT-5",
   "articles": [
+    {
+      "title": "How We Rooted Copilot",
+      "href": "https://research.eye.security/how-we-rooted-copilot/",
+      "points": "66 points",
+      "comments": "20 comments",
+      "index": 1
+    },
+    {
+      "title": "Is the Interstellar Object 3I/Atlas Alien Technology?",
+      "href": "https://arxiv.org/abs/2507.12213",
+      "points": "15 points",
+      "comments": "3 comments",
+      "index": 2
+    },
     {
       "title": "Rust running on every GPU",
       "href": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
-      "points": "320 points",
-      "comments": "101 comments",
-      "index": 1
+      "points": "336 points",
+      "comments": "115 comments",
+      "index": 3
     },
     {
       "title": "Font-size-adjust Is Useful",
       "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
-      "points": "82 points",
-      "comments": "26 comments",
-      "index": 2
-    },
-    {
-      "title": "How We Rooted Copilot",
-      "href": "https://research.eye.security/how-we-rooted-copilot/",
-      "points": "8 points",
-      "comments": "discuss",
-      "index": 3
-    },
-    {
-      "title": "Bringing a decade old bicycle navigator back to life with open source software",
-      "href": "https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html",
-      "points": "110 points",
-      "comments": "12 comments",
+      "points": "92 points",
+      "comments": "30 comments",
       "index": 4
-    },
-    {
-      "title": "Breaking the WASM/JS communication performance barrier",
-      "href": "https://github.com/ealmloff/sledgehammer_bindgen",
-      "points": "73 points",
-      "comments": "10 comments",
-      "index": 5
-    },
-    {
-      "title": "Open Sauce is a confoundingly brilliant Bay Area event",
-      "href": "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event",
-      "points": "225 points",
-      "comments": "113 comments",
-      "index": 6
-    },
-    {
-      "title": "CCTV footage captures the first-ever video of an earthquake fault in motion",
-      "href": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/",
-      "points": "279 points",
-      "comments": "43 comments",
-      "index": 7
-    },
-    {
-      "title": "Yes, the Book of PF, Fourth Edition Is Coming Soon",
-      "href": "https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html",
-      "points": "63 points",
-      "comments": "15 comments",
-      "index": 8
-    },
-    {
-      "title": "It's time for modern CSS to kill the SPA",
-      "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
-      "points": "609 points",
-      "comments": "394 comments",
-      "index": 9
-    },
-    {
-      "title": "The rise and fall of the Hanseatic League",
-      "href": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/",
-      "points": "101 points",
-      "comments": "31 comments",
-      "index": 10
-    },
-    {
-      "title": "Simon Tatham's Portable Puzzle Collection",
-      "href": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/",
-      "points": "116 points",
-      "comments": "22 comments",
-      "index": 11
-    },
-    {
-      "title": "Instapaper Rakuten Kobo Integration",
-      "href": "https://blog.instapaper.com/post/789685899750424576/instapaper-rakuten-kobo-integration",
-      "points": "27 points",
-      "comments": "9 comments",
-      "index": 12
-    },
-    {
-      "title": "The append-and-review note",
-      "href": "https://karpathy.bearblog.dev/the-append-and-review-note/",
-      "points": "42 points",
-      "comments": "18 comments",
-      "index": 13
-    },
-    {
-      "title": "Keep Pydantic out of your Domain Layer",
-      "href": "https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/",
-      "points": "45 points",
-      "comments": "61 comments",
-      "index": 14
-    },
-    {
-      "title": "Users claim Discord's age verification can be tricked with video game characters",
-      "href": "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/",
-      "points": "94 points",
-      "comments": "86 comments",
-      "index": 15
-    },
-    {
-      "title": "Do not download the app, use the website",
-      "href": "https://idiallo.com/blog/dont-download-apps",
-      "points": "1115 points",
-      "comments": "609 comments",
-      "index": 16
-    },
-    {
-      "title": "It's a DE9, not a DB9 (but we know what you mean)",
-      "href": "https://news.sparkfun.com/14298",
-      "points": "402 points",
-      "comments": "259 comments",
-      "index": 17
-    },
-    {
-      "title": "Upsides and Downsides",
-      "href": "https://calv.info/upsides-and-downsides",
-      "points": "5 points",
-      "comments": "discuss",
-      "index": 18
-    },
-    {
-      "title": "Never write your own date parsing library",
-      "href": "https://www.zachleat.com/web/adventures-in-date-parsing/",
-      "points": "228 points",
-      "comments": "271 comments",
-      "index": 19
     },
     {
       "title": "Earth Has Tilted 31.5 Inches. That Shouldn't Happen",
       "href": "https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/",
-      "points": "3 points",
+      "points": "51 points",
+      "comments": "20 comments",
+      "index": 5
+    },
+    {
+      "title": "Bringing a decade old bicycle navigator back to life with open source software",
+      "href": "https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html",
+      "points": "120 points",
+      "comments": "16 comments",
+      "index": 6
+    },
+    {
+      "title": "Open Sauce is a confoundingly brilliant Bay Area event",
+      "href": "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event",
+      "points": "245 points",
+      "comments": "127 comments",
+      "index": 7
+    },
+    {
+      "title": "Breaking the WASM/JS communication performance barrier",
+      "href": "https://github.com/ealmloff/sledgehammer_bindgen",
+      "points": "81 points",
+      "comments": "11 comments",
+      "index": 8
+    },
+    {
+      "title": "CCTV footage captures the first-ever video of an earthquake fault in motion",
+      "href": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/",
+      "points": "305 points",
+      "comments": "48 comments",
+      "index": 9
+    },
+    {
+      "title": "Upsides and Downsides",
+      "href": "https://calv.info/upsides-and-downsides",
+      "points": "13 points",
       "comments": "discuss",
+      "index": 10
+    },
+    {
+      "title": "Yes, the Book of PF, Fourth Edition Is Coming Soon",
+      "href": "https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html",
+      "points": "74 points",
+      "comments": "16 comments",
+      "index": 11
+    },
+    {
+      "title": "It's time for modern CSS to kill the SPA",
+      "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+      "points": "625 points",
+      "comments": "405 comments",
+      "index": 12
+    },
+    {
+      "title": "The rise and fall of the Hanseatic League",
+      "href": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/",
+      "points": "113 points",
+      "comments": "34 comments",
+      "index": 13
+    },
+    {
+      "title": "Inverted Indexes: A Step-by-Step Implementation Guide",
+      "href": "https://www.chashnikov.dev/post/inverted-indexes-a-step-by-step-implementation-guide",
+      "points": "6 points",
+      "comments": "1 comment",
+      "index": 14
+    },
+    {
+      "title": "Simon Tatham's Portable Puzzle Collection",
+      "href": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/",
+      "points": "128 points",
+      "comments": "25 comments",
+      "index": 15
+    },
+    {
+      "title": "Instapaper Rakuten Kobo Integration",
+      "href": "https://blog.instapaper.com/post/789685899750424576/instapaper-rakuten-kobo-integration",
+      "points": "32 points",
+      "comments": "12 comments",
+      "index": 16
+    },
+    {
+      "title": "The append-and-review note",
+      "href": "https://karpathy.bearblog.dev/the-append-and-review-note/",
+      "points": "48 points",
+      "comments": "21 comments",
+      "index": 17
+    },
+    {
+      "title": "Users claim Discord's age verification can be tricked with video game characters",
+      "href": "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/",
+      "points": "100 points",
+      "comments": "96 comments",
+      "index": 18
+    },
+    {
+      "title": "Do not download the app, use the website",
+      "href": "https://idiallo.com/blog/dont-download-apps",
+      "points": "1132 points",
+      "comments": "624 comments",
+      "index": 19
+    },
+    {
+      "title": "Keep Pydantic out of your Domain Layer",
+      "href": "https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/",
+      "points": "54 points",
+      "comments": "76 comments",
       "index": 20
     },
     {
-      "title": "Why MIT switched from Scheme to Python (2009)",
-      "href": "https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python",
-      "points": "251 points",
-      "comments": "191 comments",
+      "title": "It's a DE9, not a DB9 (but we know what you mean)",
+      "href": "https://news.sparkfun.com/14298",
+      "points": "409 points",
+      "comments": "261 comments",
       "index": 21
     },
     {
-      "title": "Vanilla JavaScript support for Tailwind Plus",
-      "href": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus",
-      "points": "276 points",
-      "comments": "154 comments",
+      "title": "Never write your own date parsing library",
+      "href": "https://www.zachleat.com/web/adventures-in-date-parsing/",
+      "points": "233 points",
+      "comments": "272 comments",
       "index": 22
     },
     {
-      "title": "Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?",
-      "href": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
-      "points": "221 points",
-      "comments": "84 comments",
+      "title": "Ageing accelerates around age 50 ― some organs faster than others",
+      "href": "https://www.nature.com/articles/d41586-025-02333-z",
+      "points": "17 points",
+      "comments": "3 comments",
       "index": 23
-    },
-    {
-      "title": "The future is not self-hosted",
-      "href": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/",
-      "points": "389 points",
-      "comments": "356 comments",
-      "index": 24
-    },
-    {
-      "title": "Generic Containers in C: Vec",
-      "href": "https://uecker.codeberg.page/2025-07-20.html",
-      "points": "44 points",
-      "comments": "53 comments",
-      "index": 25
-    },
-    {
-      "title": "Why I do programming",
-      "href": "https://esafev.com/notes/why-i-do-programming/",
-      "points": "62 points",
-      "comments": "31 comments",
-      "index": 26
-    },
-    {
-      "title": "Animated Cursors",
-      "href": "https://tattoy.sh/news/animated-cursors/",
-      "points": "212 points",
-      "comments": "45 comments",
-      "index": 27
     },
     {
       "title": "The Rise of Shippable Microfactories",
       "href": "https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories",
-      "points": "7 points",
-      "comments": "discuss",
+      "points": "14 points",
+      "comments": "3 comments",
+      "index": 24
+    },
+    {
+      "title": "Why MIT switched from Scheme to Python (2009)",
+      "href": "https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python",
+      "points": "256 points",
+      "comments": "192 comments",
+      "index": 25
+    },
+    {
+      "title": "Vanilla JavaScript support for Tailwind Plus",
+      "href": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus",
+      "points": "280 points",
+      "comments": "156 comments",
+      "index": 26
+    },
+    {
+      "title": "The future is not self-hosted",
+      "href": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/",
+      "points": "404 points",
+      "comments": "362 comments",
+      "index": 27
+    },
+    {
+      "title": "Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?",
+      "href": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
+      "points": "227 points",
+      "comments": "88 comments",
       "index": 28
     },
     {
-      "title": "Experimental surgery performed by AI-driven surgical robot",
-      "href": "https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/",
-      "points": "109 points",
-      "comments": "118 comments",
+      "title": "Generic Containers in C: Vec",
+      "href": "https://uecker.codeberg.page/2025-07-20.html",
+      "points": "47 points",
+      "comments": "58 comments",
       "index": 29
     },
     {
-      "title": "What is X-Forwarded-For and when can you trust it? (2024)",
-      "href": "https://httptoolkit.com/blog/what-is-x-forwarded-for/",
-      "points": "55 points",
-      "comments": "17 comments",
+      "title": "Animated Cursors",
+      "href": "https://tattoy.sh/news/animated-cursors/",
+      "points": "219 points",
+      "comments": "46 comments",
       "index": 30
     }
   ]
