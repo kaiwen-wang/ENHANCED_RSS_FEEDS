@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, July 26, 2025 at 6:15 AM GMT-5",
+  "date": "Saturday, July 26, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "Lobsters Interview with Technomancy",
@@ -12,35 +12,35 @@
       "title": "It's time for modern CSS to kill the SPA",
       "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 2
+    },
+    {
+      "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
+      "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 3
     },
     {
       "title": "Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM",
       "href": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Renting is for Suckers",
       "href": "https://andrewkelley.me/post/renting-is-for-suckers.html",
       "points": "",
-      "comments": "\n              71 comments",
-      "index": 4
+      "comments": "\n              72 comments",
+      "index": 5
     },
     {
       "title": "Using fortune to reinforce habits",
       "href": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 5
-    },
-    {
-      "title": "The MonTana Mini Computer",
-      "href": "https://mtmc.cs.montana.edu",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              9 comments",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "Rust running on every major GPU platform",
-      "href": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
+      "title": "The MonTana Mini Computer",
+      "href": "https://mtmc.cs.montana.edu",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 8
     },
     {
-      "title": "Celebrating 20 years of MDN",
-      "href": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
+      "title": "Rust running on every major GPU platform",
+      "href": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              2 comments",
       "index": 9
     },
     {
@@ -72,10 +72,10 @@
       "index": 10
     },
     {
-      "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
-      "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
+      "title": "Celebrating 20 years of MDN",
+      "href": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 11
     },
     {
@@ -86,94 +86,94 @@
       "index": 12
     },
     {
+      "title": "Can LLMs Do Accounting?",
+      "href": "https://accounting.penrose.com/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 13
+    },
+    {
+      "title": "From Async/Await to Virtual Threads",
+      "href": "https://lucumr.pocoo.org/2025/7/26/virtual-threads/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Most of your projects are stupid. Please make some actual games",
+      "href": "https://www.youtube.com/watch?v=Ca53JTohdN4",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
       "title": "Programming Vehicles in Games",
       "href": "https://wassimulator.com/blog/programming/programming_vehicles_in_games.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
+      "index": 16
     },
     {
       "title": "Three HTTP versions later, forms are still a mess",
       "href": "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 14
+      "index": 17
     },
     {
       "title": "HTTP/1.1 Must Die",
       "href": "https://http1mustdie.com/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 15
+      "index": 18
+    },
+    {
+      "title": "Hand Drawn CGI: Animating the Terrahawks Title Sequence",
+      "href": "https://www.youtube.com/watch?v=HI7oEiaR8PU",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "Racket as a first language",
       "href": "https://felleisen.org/matthias/Thoughts/py.html",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 16
+      "index": 20
     },
     {
       "title": "Arm desktop: x86 emulation",
       "href": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "That time I wasted weeks hand optimizing assembly because I benchmarked on random data",
-      "href": "https://www.vidarholen.net/contents/blog/?p=1160",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
+      "index": 21
     },
     {
       "title": "Monotonic and Wall Clock Time in the Go time package",
       "href": "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 22
+    },
+    {
+      "title": "That time I wasted weeks hand optimizing assembly because I benchmarked on random data",
+      "href": "https://www.vidarholen.net/contents/blog/?p=1160",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 23
     },
     {
       "title": "Wayback 0.1 released",
       "href": "https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/",
       "points": "",
       "comments": "\n              35 comments",
-      "index": 20
+      "index": 24
     },
     {
       "title": "Combinatory Programming",
       "href": "https://blog.zdsmith.com/posts/combinatory-programming.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
-    },
-    {
-      "title": "Nullable but not null",
-      "href": "https://efe.me/posts/nullable-but-not-null/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "There is no memory safety without thread safety",
-      "href": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
-      "points": "",
-      "comments": "\n              45 comments",
-      "index": 23
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/nz9afc/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              23 comments",
-      "index": 24
-    },
-    {
-      "title": "Implementing a Functional Language with Graph Reduction",
-      "href": "https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
