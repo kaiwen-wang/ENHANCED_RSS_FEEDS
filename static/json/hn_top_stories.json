@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, July 26, 2025 at 4:20 PM GMT-5",
+  "date": "Saturday, July 26, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "Test Results for AMD Zen 5",
       "href": "https://www.agner.org/forum/viewtopic.php?t=287&start=10",
-      "points": "121 points",
-      "comments": "11 comments",
+      "points": "155 points",
+      "comments": "16 comments",
       "index": 1
+    },
+    {
+      "title": "OCaml Programming: Correct and Efficient and Beautiful",
+      "href": "https://cs3110.github.io/textbook/cover.html",
+      "points": "21 points",
+      "comments": "1 comment",
+      "index": 2
+    },
+    {
+      "title": "Resizable Structs in Zig",
+      "href": "https://tristanpemble.com/resizable-structs-in-zig/",
+      "points": "15 points",
+      "comments": "2 comments",
+      "index": 3
     },
     {
       "title": "How We Rooted Copilot",
       "href": "https://research.eye.security/how-we-rooted-copilot/",
-      "points": "188 points",
-      "comments": "81 comments",
-      "index": 2
+      "points": "199 points",
+      "comments": "87 comments",
+      "index": 4
     },
     {
       "title": "Purple Earth hypothesis",
       "href": "https://en.wikipedia.org/wiki/Purple_Earth_hypothesis",
-      "points": "113 points",
-      "comments": "15 comments",
-      "index": 3
+      "points": "126 points",
+      "comments": "36 comments",
+      "index": 5
     },
     {
       "title": "Rust running on every GPU",
       "href": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
-      "points": "428 points",
-      "comments": "145 comments",
-      "index": 4
-    },
-    {
-      "title": "Documents detail U.S. soldiers shot by their own Sig Sauer guns (2024)",
-      "href": "https://www.nhpr.org/nh-news/2024-06-25/documents-detail-u-s-soldiers-shot-by-their-own-sig-sauer-guns-military-says-no-reason-for-concern",
-      "points": "8 points",
-      "comments": "discuss",
-      "index": 5
-    },
-    {
-      "title": "The Sail instruction-set semantics specification language",
-      "href": "https://alasdair.github.io/manual.html",
-      "points": "8 points",
-      "comments": "3 comments",
+      "points": "438 points",
+      "comments": "149 comments",
       "index": 6
     },
     {
-      "title": "Font-size-adjust Is Useful",
-      "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
-      "points": "138 points",
-      "comments": "42 comments",
+      "title": "Epic Recall, Epic Fail",
+      "href": "https://taipology.substack.com/p/epic-recall-epic-fail",
+      "points": "8 points",
+      "comments": "discuss",
       "index": 7
-    },
-    {
-      "title": "What Went Wrong for Yahoo",
-      "href": "https://dfarq.homeip.net/what-went-wrong-for-yahoo/",
-      "points": "67 points",
-      "comments": "59 comments",
-      "index": 8
-    },
-    {
-      "title": "Inverted Indexes: A Step-by-Step Implementation Guide",
-      "href": "https://www.chashnikov.dev/post/inverted-indexes-a-step-by-step-implementation-guide",
-      "points": "40 points",
-      "comments": "15 comments",
-      "index": 9
     },
     {
       "title": "Large ancient Hawaiian petroglyphs uncovered by waves on Oahu",
       "href": "https://www.sfgate.com/hawaii/article/hawaii-petroglyphs-uncovered-20780579.php",
-      "points": "28 points",
-      "comments": "3 comments",
-      "index": 10
-    },
-    {
-      "title": "Where are vacation homes located in the US?",
-      "href": "https://www.construction-physics.com/p/where-are-vacation-homes-located",
-      "points": "54 points",
-      "comments": "44 comments",
-      "index": 11
-    },
-    {
-      "title": "CCTV footage captures video of an earthquake fault in motion",
-      "href": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/",
-      "points": "379 points",
-      "comments": "75 comments",
-      "index": 12
-    },
-    {
-      "title": "Open Sauce is a confoundingly brilliant Bay Area event",
-      "href": "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event",
-      "points": "287 points",
-      "comments": "160 comments",
-      "index": 13
-    },
-    {
-      "title": "The natural diamond industry is getting rocked. Thank the lab-grown variety",
-      "href": "https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336",
-      "points": "49 points",
-      "comments": "74 comments",
-      "index": 14
-    },
-    {
-      "title": "Bringing a decade old bicycle navigator back to life with open source software",
-      "href": "https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html",
-      "points": "141 points",
-      "comments": "24 comments",
-      "index": 15
-    },
-    {
-      "title": "Ageing accelerates around age 50 ― some organs faster than others",
-      "href": "https://www.nature.com/articles/d41586-025-02333-z",
-      "points": "132 points",
-      "comments": "73 comments",
-      "index": 16
-    },
-    {
-      "title": "Breaking the WASM/JS communication performance barrier",
-      "href": "https://github.com/ealmloff/sledgehammer_bindgen",
-      "points": "107 points",
-      "comments": "18 comments",
-      "index": 17
-    },
-    {
-      "title": "It's time for modern CSS to kill the SPA",
-      "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
-      "points": "670 points",
-      "comments": "430 comments",
-      "index": 18
-    },
-    {
-      "title": "The rise and fall of the Hanseatic League",
-      "href": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/",
-      "points": "141 points",
-      "comments": "46 comments",
-      "index": 19
-    },
-    {
-      "title": "Yes, the Book of PF, Fourth Edition Is Coming Soon",
-      "href": "https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html",
-      "points": "105 points",
-      "comments": "31 comments",
-      "index": 20
-    },
-    {
-      "title": "Simon Tatham's Portable Puzzle Collection",
-      "href": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/",
-      "points": "166 points",
-      "comments": "31 comments",
-      "index": 21
-    },
-    {
-      "title": "Svalbard winter warming is reaching melting point",
-      "href": "https://www.nature.com/articles/s41467-025-60926-8",
-      "points": "39 points",
-      "comments": "9 comments",
-      "index": 22
-    },
-    {
-      "title": "The Rise of Shippable Microfactories",
-      "href": "https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories",
-      "points": "40 points",
-      "comments": "12 comments",
-      "index": 23
-    },
-    {
-      "title": "Project Lyra – Exploring Interstellar Objects",
-      "href": "https://i4is.org/what-we-do/technical/project-lyra/",
-      "points": "20 points",
-      "comments": "discuss",
-      "index": 24
-    },
-    {
-      "title": "Upsides and Downsides",
-      "href": "https://calv.info/upsides-and-downsides",
-      "points": "37 points",
-      "comments": "1 comment",
-      "index": 25
+      "points": "47 points",
+      "comments": "14 comments",
+      "index": 8
     },
     {
       "title": "Getting decent error reports in Bash when you're using 'set -e'",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
-      "points": "5 points",
-      "comments": "1 comment",
+      "points": "21 points",
+      "comments": "5 comments",
+      "index": 9
+    },
+    {
+      "title": "The Sail instruction-set semantics specification language",
+      "href": "https://alasdair.github.io/manual.html",
+      "points": "17 points",
+      "comments": "3 comments",
+      "index": 10
+    },
+    {
+      "title": "Font-size-adjust Is Useful",
+      "href": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
+      "points": "144 points",
+      "comments": "45 comments",
+      "index": 11
+    },
+    {
+      "title": "Inverted Indexes: A Step-by-Step Implementation Guide",
+      "href": "https://www.chashnikov.dev/post/inverted-indexes-a-step-by-step-implementation-guide",
+      "points": "51 points",
+      "comments": "17 comments",
+      "index": 12
+    },
+    {
+      "title": "The natural diamond industry is getting rocked. Thank the lab-grown variety",
+      "href": "https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336",
+      "points": "66 points",
+      "comments": "92 comments",
+      "index": 13
+    },
+    {
+      "title": "CCTV footage captures video of an earthquake fault in motion",
+      "href": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/",
+      "points": "392 points",
+      "comments": "75 comments",
+      "index": 14
+    },
+    {
+      "title": "Shallow Water Is Dangerous Too",
+      "href": "https://www.jefftk.com/p/shallow-water-is-dangerous-too",
+      "points": "32 points",
+      "comments": "6 comments",
+      "index": 15
+    },
+    {
+      "title": "Open Sauce is a confoundingly brilliant Bay Area event",
+      "href": "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event",
+      "points": "293 points",
+      "comments": "168 comments",
+      "index": 16
+    },
+    {
+      "title": "Bringing a decade old bicycle navigator back to life with open source software",
+      "href": "https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html",
+      "points": "145 points",
+      "comments": "26 comments",
+      "index": 17
+    },
+    {
+      "title": "Breaking the WASM/JS communication performance barrier",
+      "href": "https://github.com/ealmloff/sledgehammer_bindgen",
+      "points": "111 points",
+      "comments": "18 comments",
+      "index": 18
+    },
+    {
+      "title": "Ageing accelerates around age 50 ― some organs faster than others",
+      "href": "https://www.nature.com/articles/d41586-025-02333-z",
+      "points": "151 points",
+      "comments": "84 comments",
+      "index": 19
+    },
+    {
+      "title": "It's time for modern CSS to kill the SPA",
+      "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+      "points": "681 points",
+      "comments": "438 comments",
+      "index": 20
+    },
+    {
+      "title": "Where are vacation homes located in the US?",
+      "href": "https://www.construction-physics.com/p/where-are-vacation-homes-located",
+      "points": "62 points",
+      "comments": "54 comments",
+      "index": 21
+    },
+    {
+      "title": "The rise and fall of the Hanseatic League",
+      "href": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/",
+      "points": "146 points",
+      "comments": "50 comments",
+      "index": 22
+    },
+    {
+      "title": "Simon Tatham's Portable Puzzle Collection",
+      "href": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/",
+      "points": "169 points",
+      "comments": "32 comments",
+      "index": 23
+    },
+    {
+      "title": "Yes, the Book of PF, Fourth Edition Is Coming Soon",
+      "href": "https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html",
+      "points": "108 points",
+      "comments": "34 comments",
+      "index": 24
+    },
+    {
+      "title": "Svalbard winter warming is reaching melting point",
+      "href": "https://www.nature.com/articles/s41467-025-60926-8",
+      "points": "51 points",
+      "comments": "14 comments",
+      "index": 25
+    },
+    {
+      "title": "The Rise of Shippable Microfactories",
+      "href": "https://www.thesisdriven.com/p/the-rise-of-shippable-microfactories",
+      "points": "43 points",
+      "comments": "12 comments",
       "index": 26
+    },
+    {
+      "title": "Project Lyra – Exploring Interstellar Objects",
+      "href": "https://i4is.org/what-we-do/technical/project-lyra/",
+      "points": "24 points",
+      "comments": "1 comment",
+      "index": 27
+    },
+    {
+      "title": "Upsides and Downsides",
+      "href": "https://calv.info/upsides-and-downsides",
+      "points": "40 points",
+      "comments": "1 comment",
+      "index": 28
+    },
+    {
+      "title": "What Went Wrong for Yahoo",
+      "href": "https://dfarq.homeip.net/what-went-wrong-for-yahoo/",
+      "points": "75 points",
+      "comments": "77 comments",
+      "index": 29
     },
     {
       "title": "Users claim Discord's age verification can be tricked with video game characters",
       "href": "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/",
-      "points": "129 points",
-      "comments": "134 comments",
-      "index": 27
-    },
-    {
-      "title": "The append-and-review note",
-      "href": "https://karpathy.bearblog.dev/the-append-and-review-note/",
-      "points": "71 points",
-      "comments": "28 comments",
-      "index": 28
-    },
-    {
-      "title": "Do not download the app, use the website",
-      "href": "https://idiallo.com/blog/dont-download-apps",
-      "points": "1208 points",
-      "comments": "648 comments",
-      "index": 29
-    },
-    {
-      "title": "It's a DE9, not a DB9 (but we know what you mean)",
-      "href": "https://news.sparkfun.com/14298",
-      "points": "416 points",
-      "comments": "270 comments",
+      "points": "138 points",
+      "comments": "143 comments",
       "index": 30
     }
   ]
