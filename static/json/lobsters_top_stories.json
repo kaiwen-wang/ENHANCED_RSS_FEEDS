@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, July 26, 2025 at 11:45 PM GMT-5",
+  "date": "Sunday, July 27, 2025 at 12:25 AM GMT-5",
   "articles": [
     {
       "title": "Resizable structs in Zig",
@@ -65,108 +65,108 @@
       "index": 9
     },
     {
+      "title": "Getting decent error reports in Bash when you're using 'set -e'",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
       "title": "Can LLMs Do Accounting?",
       "href": "https://accounting.penrose.com/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Arm desktop: x86 emulation",
       "href": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Hand Drawn CGI: Animating the Terrahawks Title Sequence",
       "href": "https://www.youtube.com/watch?v=HI7oEiaR8PU",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Split Flap",
       "href": "https://fx.hot.page/split-flap",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM",
       "href": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 14
-    },
-    {
-      "title": "Getting decent error reports in Bash when you're using 'set -e'",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 15
-    },
-    {
-      "title": "clj-coll: Clojure collections and sequences in Common Lisp",
-      "href": "https://github.com/dtenny/clj-coll",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "GNOME Calendar: A New Era of Accessibility Achieved in 90 Days",
-      "href": "https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
-      "href": "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Using fortune to reinforce habits",
-      "href": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 19
-    },
-    {
-      "title": "exosphere: A simple centralized patch management and reporting tool for unix systems",
-      "href": "https://github.com/mrdaemon/exosphere",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "emacs-arei Async IDE for Guile",
-      "href": "https://git.sr.ht/~abcdw/emacs-arei",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Most of your projects are stupid. Please make some actual games",
-      "href": "https://www.youtube.com/watch?v=Ca53JTohdN4",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 22
-    },
-    {
-      "title": "Rust running on every major GPU platform",
-      "href": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 23
     },
     {
       "title": "How to configure X11 in a simple way",
       "href": "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "clj-coll: Clojure collections and sequences in Common Lisp",
+      "href": "https://github.com/dtenny/clj-coll",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "GNOME Calendar: A New Era of Accessibility Achieved in 90 Days",
+      "href": "https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
+      "href": "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Using fortune to reinforce habits",
+      "href": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 20
+    },
+    {
+      "title": "exosphere: A simple centralized patch management and reporting tool for unix systems",
+      "href": "https://github.com/mrdaemon/exosphere",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "emacs-arei Async IDE for Guile",
+      "href": "https://git.sr.ht/~abcdw/emacs-arei",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Most of your projects are stupid. Please make some actual games",
+      "href": "https://www.youtube.com/watch?v=Ca53JTohdN4",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 23
+    },
+    {
+      "title": "Rust running on every major GPU platform",
+      "href": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 24
     },
     {
