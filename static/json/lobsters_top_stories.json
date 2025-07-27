@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, July 27, 2025 at 4:20 AM GMT-5",
+  "date": "Sunday, July 27, 2025 at 5:20 AM GMT-5",
   "articles": [
-    {
-      "title": "Wren - a small, fast, class-based concurrent scripting language",
-      "href": "https://github.com/wren-lang/wren",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 1
-    },
     {
       "title": "Development shells with Nix: four quick examples",
       "href": "https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 1
+    },
+    {
+      "title": "Wren - a small, fast, class-based concurrent scripting language",
+      "href": "https://github.com/wren-lang/wren",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 2
     },
     {
@@ -37,24 +37,24 @@
       "index": 5
     },
     {
+      "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
+      "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 6
+    },
+    {
       "title": "Optimi-Zi(n)g Sudoku-Solving",
       "href": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 6
-    },
-    {
-      "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
-      "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
-      "points": "",
-      "comments": "\n              16 comments",
       "index": 7
     },
     {
       "title": "Perfecting anti-aliasing on signed distance functions",
       "href": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 8
     },
     {
@@ -93,8 +93,8 @@
       "index": 13
     },
     {
-      "title": "How to configure X11 in a simple way",
-      "href": "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html",
+      "title": "LLMs are bad at returning code in JSON",
+      "href": "https://aider.chat/2024/08/14/code-in-json.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 14
@@ -107,24 +107,24 @@
       "index": 15
     },
     {
-      "title": "Arm desktop: x86 emulation",
-      "href": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/",
+      "title": "exosphere: A simple centralized patch management and reporting tool for unix systems",
+      "href": "https://github.com/mrdaemon/exosphere",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 16
     },
     {
-      "title": "exosphere: A simple centralized patch management and reporting tool for unix systems",
-      "href": "https://github.com/mrdaemon/exosphere",
+      "title": "How to configure X11 in a simple way",
+      "href": "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 17
     },
     {
-      "title": "Hand Drawn CGI: Animating the Terrahawks Title Sequence",
-      "href": "https://www.youtube.com/watch?v=HI7oEiaR8PU",
+      "title": "Arm desktop: x86 emulation",
+      "href": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "Hand Drawn CGI: Animating the Terrahawks Title Sequence",
+      "href": "https://www.youtube.com/watch?v=HI7oEiaR8PU",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 20
+    },
+    {
       "title": "Split Flap",
       "href": "https://fx.hot.page/split-flap",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Specials (2021)",
       "href": "https://www.brendangregg.com/specials.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM",
       "href": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "GNOME Calendar: A New Era of Accessibility Achieved in 90 Days",
       "href": "https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Using fortune to reinforce habits",
       "href": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 24
-    },
-    {
-      "title": "emacs-arei Async IDE for Guile",
-      "href": "https://git.sr.ht/~abcdw/emacs-arei",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
