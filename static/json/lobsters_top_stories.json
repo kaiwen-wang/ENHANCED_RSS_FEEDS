@@ -1,25 +1,25 @@
 {
-  "date": "Sunday, July 27, 2025 at 3:20 PM GMT-5",
+  "date": "Sunday, July 27, 2025 at 4:20 PM GMT-5",
   "articles": [
-    {
-      "title": "Development shells with Nix: four quick examples",
-      "href": "https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 1
-    },
     {
       "title": "The JJ VCS Workshop: A Zero-to-Hero Speedrun",
       "href": "https://github.com/jkoppel/jj-workshop",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
+      "index": 1
+    },
+    {
+      "title": "Development shells with Nix: four quick examples",
+      "href": "https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 2
     },
     {
       "title": "TIL: Exception.add_note",
       "href": "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 3
     },
     {
@@ -30,122 +30,122 @@
       "index": 4
     },
     {
-      "title": "Wren - a small, fast, class-based concurrent scripting language",
-      "href": "https://github.com/wren-lang/wren",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 5
-    },
-    {
-      "title": "Resizable structs in Zig",
-      "href": "https://tristanpemble.com/resizable-structs-in-zig/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 6
-    },
-    {
-      "title": "Getting decent error reports in Bash when you're using 'set -e'",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 7
-    },
-    {
       "title": "Protest footage blocked as online safety act comes into force",
       "href": "https://freespeechunion.org/protest-footage-blocked-as-online-safety-act-comes-into-force/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
+      "index": 5
     },
     {
-      "title": "LLMs are bad at returning code in JSON",
-      "href": "https://aider.chat/2024/08/14/code-in-json.html",
+      "title": "Wren - a small, fast, class-based concurrent scripting language",
+      "href": "https://github.com/wren-lang/wren",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 9
+      "comments": "\n              15 comments",
+      "index": 6
     },
     {
       "title": "Revontuli Colorscheme Collection",
       "href": "https://codeberg.org/akselmo/Revontuli",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 7
+    },
+    {
+      "title": "Resizable structs in Zig",
+      "href": "https://tristanpemble.com/resizable-structs-in-zig/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 8
+    },
+    {
+      "title": "Getting decent error reports in Bash when you're using 'set -e'",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 9
+    },
+    {
+      "title": "LLMs are bad at returning code in JSON",
+      "href": "https://aider.chat/2024/08/14/code-in-json.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 10
     },
     {
-      "title": "It's time for modern CSS to kill the SPA",
-      "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+      "title": "How I hacked my washing machine",
+      "href": "https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              no comments",
       "index": 11
-    },
-    {
-      "title": "From Async/Await to Virtual Threads",
-      "href": "https://lucumr.pocoo.org/2025/7/26/virtual-threads/",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 12
-    },
-    {
-      "title": "Perfecting anti-aliasing on signed distance functions",
-      "href": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 13
     },
     {
       "title": "Formal specs as sets of behaviors",
       "href": "https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "Test results for AMD Zen 5",
-      "href": "https://www.agner.org/forum/viewtopic.php?t=287&start=11",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 15
-    },
-    {
-      "title": "Optimi-Zi(n)g Sudoku-Solving",
-      "href": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
-      "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 17
+      "index": 12
     },
     {
       "title": "printSim: a command-line python program that turns gcode into realistic 3d printer sound",
       "href": "https://github.com/dannyboy1996/printSim",
       "points": "",
       "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "It's time for modern CSS to kill the SPA",
+      "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+      "points": "",
+      "comments": "\n              21 comments",
+      "index": 14
+    },
+    {
+      "title": "From Async/Await to Virtual Threads",
+      "href": "https://lucumr.pocoo.org/2025/7/26/virtual-threads/",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 15
+    },
+    {
+      "title": "Perfecting anti-aliasing on signed distance functions",
+      "href": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 16
+    },
+    {
+      "title": "Test results for AMD Zen 5",
+      "href": "https://www.agner.org/forum/viewtopic.php?t=287&start=11",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 17
+    },
+    {
+      "title": "IPng Networks - Certificate Transparency - Part 1",
+      "href": "https://ipng.ch/s/articles/2025/07/26/certificate-transparency-part-1/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 18
+    },
+    {
+      "title": "Optimi-Zi(n)g Sudoku-Solving",
+      "href": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
+      "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
+      "points": "",
+      "comments": "\n              19 comments",
+      "index": 20
     },
     {
       "title": "OverHAuL: Harnessing Automation for C Libraries with Large Language Models",
       "href": "https://kchousos.github.io/BSc-Thesis/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "How to configure X11 in a simple way",
-      "href": "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "Lobsters Interview with Technomancy",
-      "href": "/s/terwiu/lobsters_interview_with_technomancy",
-      "points": "",
-      "comments": "\n              10 comments",
       "index": 21
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
+      "title": "How to configure X11 in a simple way",
+      "href": "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 23
+    },
+    {
       "title": "Specials (2021)",
       "href": "https://www.brendangregg.com/specials.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "The Chaos of AI Agents",
-      "href": "https://www.youtube.com/watch?v=2YYjPs8t8MI",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 24
     },
     {
-      "title": "exosphere: A simple centralized patch management and reporting tool for unix systems",
-      "href": "https://github.com/mrdaemon/exosphere",
+      "title": "Lobsters Interview with Technomancy",
+      "href": "/s/terwiu/lobsters_interview_with_technomancy",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              10 comments",
       "index": 25
     }
   ]
