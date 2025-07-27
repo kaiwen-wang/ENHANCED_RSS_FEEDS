@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, July 27, 2025 at 5:20 AM GMT-5",
+  "date": "Sunday, July 27, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "Development shells with Nix: four quick examples",
       "href": "https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 1
     },
     {
@@ -26,7 +26,7 @@
       "title": "It's time for modern CSS to kill the SPA",
       "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              19 comments",
       "index": 4
     },
     {
@@ -37,50 +37,50 @@
       "index": 5
     },
     {
+      "title": "copyparty: portable file server with resumable uploads, dedup, WebDAV, and more",
+      "href": "https://github.com/9001/copyparty",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 6
+    },
+    {
       "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
       "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Optimi-Zi(n)g Sudoku-Solving",
       "href": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Perfecting anti-aliasing on signed distance functions",
       "href": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Getting decent error reports in Bash when you're using 'set -e'",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Lobsters Interview with Technomancy",
       "href": "/s/terwiu/lobsters_interview_with_technomancy",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Test results for AMD Zen 5",
       "href": "https://www.agner.org/forum/viewtopic.php?t=287&start=11",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 11
-    },
-    {
-      "title": "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
-      "href": "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 12
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
-      "title": "LLMs are bad at returning code in JSON",
-      "href": "https://aider.chat/2024/08/14/code-in-json.html",
+      "title": "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
+      "href": "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 14
-    },
-    {
-      "title": "Can LLMs Do Accounting?",
-      "href": "https://accounting.penrose.com/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 15
-    },
-    {
-      "title": "exosphere: A simple centralized patch management and reporting tool for unix systems",
-      "href": "https://github.com/mrdaemon/exosphere",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "How to configure X11 in a simple way",
-      "href": "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Arm desktop: x86 emulation",
-      "href": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 18
-    },
-    {
-      "title": "clj-coll: Clojure collections and sequences in Common Lisp",
-      "href": "https://github.com/dtenny/clj-coll",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Hand Drawn CGI: Animating the Terrahawks Title Sequence",
-      "href": "https://www.youtube.com/watch?v=HI7oEiaR8PU",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 20
-    },
-    {
-      "title": "Split Flap",
-      "href": "https://fx.hot.page/split-flap",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 21
     },
     {
       "title": "Specials (2021)",
       "href": "https://www.brendangregg.com/specials.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "LLMs are bad at returning code in JSON",
+      "href": "https://aider.chat/2024/08/14/code-in-json.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Can LLMs Do Accounting?",
+      "href": "https://accounting.penrose.com/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 17
+    },
+    {
+      "title": "exosphere: A simple centralized patch management and reporting tool for unix systems",
+      "href": "https://github.com/mrdaemon/exosphere",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "How to configure X11 in a simple way",
+      "href": "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Arm desktop: x86 emulation",
+      "href": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 20
+    },
+    {
+      "title": "clj-coll: Clojure collections and sequences in Common Lisp",
+      "href": "https://github.com/dtenny/clj-coll",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Hand Drawn CGI: Animating the Terrahawks Title Sequence",
+      "href": "https://www.youtube.com/watch?v=HI7oEiaR8PU",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 22
+    },
+    {
+      "title": "An intro to security, with eggs, please",
+      "href": "https://binturo.ng/blog/2025-07-25-ovosec/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Split Flap",
+      "href": "https://fx.hot.page/split-flap",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 24
     },
     {
       "title": "Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM",
       "href": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 23
-    },
-    {
-      "title": "GNOME Calendar: A New Era of Accessibility Achieved in 90 Days",
-      "href": "https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Using fortune to reinforce habits",
-      "href": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
-      "points": "",
-      "comments": "\n              15 comments",
       "index": 25
     }
   ]
