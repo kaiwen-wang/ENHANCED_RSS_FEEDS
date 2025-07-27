@@ -1,60 +1,60 @@
 {
-  "date": "Sunday, July 27, 2025 at 5:20 PM GMT-5",
+  "date": "Sunday, July 27, 2025 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "The JJ VCS Workshop: A Zero-to-Hero Speedrun",
       "href": "https://github.com/jkoppel/jj-workshop",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 1
     },
     {
       "title": "TIL: Exception.add_note",
       "href": "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 2
     },
     {
       "title": "Development shells with Nix: four quick examples",
       "href": "https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              17 comments",
       "index": 3
+    },
+    {
+      "title": "Revontuli Colorscheme Collection",
+      "href": "https://codeberg.org/akselmo/Revontuli",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 4
     },
     {
       "title": "Protest footage blocked as online safety act comes into force",
       "href": "https://freespeechunion.org/protest-footage-blocked-as-online-safety-act-comes-into-force/",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 4
+      "comments": "\n              2 comments",
+      "index": 5
     },
     {
       "title": "copyparty: portable file server with resumable uploads, dedup, WebDAV, and more",
       "href": "https://github.com/9001/copyparty",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 5
-    },
-    {
-      "title": "Revontuli Colorscheme Collection",
-      "href": "https://codeberg.org/akselmo/Revontuli",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 6
-    },
-    {
-      "title": "Wren - a small, fast, class-based concurrent scripting language",
-      "href": "https://github.com/wren-lang/wren",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 7
     },
     {
       "title": "How I hacked my washing machine",
       "href": "https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
+      "index": 7
+    },
+    {
+      "title": "Wren - a small, fast, class-based concurrent scripting language",
+      "href": "https://github.com/wren-lang/wren",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 8
     },
     {
@@ -72,31 +72,31 @@
       "index": 10
     },
     {
-      "title": "Designing a flatpack bed",
-      "href": "https://kevinlynagh.com/newsletter/2025_07_flatpack/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "LLMs are bad at returning code in JSON",
-      "href": "https://aider.chat/2024/08/14/code-in-json.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
       "title": "IPng Networks - Certificate Transparency - Part 1",
       "href": "https://ipng.ch/s/articles/2025/07/26/certificate-transparency-part-1/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 11
     },
     {
       "title": "Formal specs as sets of behaviors",
       "href": "https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Designing a flatpack bed",
+      "href": "https://kevinlynagh.com/newsletter/2025_07_flatpack/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "LLMs are bad at returning code in JSON",
+      "href": "https://aider.chat/2024/08/14/code-in-json.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 14
     },
     {
@@ -121,45 +121,45 @@
       "index": 17
     },
     {
-      "title": "Perfecting anti-aliasing on signed distance functions",
-      "href": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 18
-    },
-    {
       "title": "Test results for AMD Zen 5",
       "href": "https://www.agner.org/forum/viewtopic.php?t=287&start=11",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 18
+    },
+    {
+      "title": "Perfecting anti-aliasing on signed distance functions",
+      "href": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 19
-    },
-    {
-      "title": "Optimi-Zi(n)g Sudoku-Solving",
-      "href": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
-      "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 21
-    },
-    {
-      "title": "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
-      "href": "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
     },
     {
       "title": "Specials (2021)",
       "href": "https://www.brendangregg.com/specials.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Optimi-Zi(n)g Sudoku-Solving",
+      "href": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
+      "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
+      "points": "",
+      "comments": "\n              19 comments",
+      "index": 22
+    },
+    {
+      "title": "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
+      "href": "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 23
     },
     {
