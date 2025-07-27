@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, July 27, 2025 at 1:30 AM GMT-5",
+  "date": "Sunday, July 27, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "Wren - a small, fast, class-based concurrent scripting language",
       "href": "https://github.com/wren-lang/wren",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 1
     },
     {
@@ -16,17 +16,17 @@
       "index": 2
     },
     {
-      "title": "From Async/Await to Virtual Threads",
-      "href": "https://lucumr.pocoo.org/2025/7/26/virtual-threads/",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 3
-    },
-    {
       "title": "It's time for modern CSS to kill the SPA",
       "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
       "points": "",
       "comments": "\n              18 comments",
+      "index": 3
+    },
+    {
+      "title": "From Async/Await to Virtual Threads",
+      "href": "https://lucumr.pocoo.org/2025/7/26/virtual-threads/",
+      "points": "",
+      "comments": "\n              14 comments",
       "index": 4
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
-      "title": "Optimi-Zi(n)g Sudoku-Solving",
-      "href": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 6
-    },
-    {
       "title": "Perfecting anti-aliasing on signed distance functions",
       "href": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 6
+    },
+    {
+      "title": "Optimi-Zi(n)g Sudoku-Solving",
+      "href": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 7
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
+      "title": "Development shells with Nix: four quick examples",
+      "href": "https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
       "title": "Getting decent error reports in Bash when you're using 'set -e'",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Can LLMs Do Accounting?",
       "href": "https://accounting.penrose.com/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 11
+      "index": 12
+    },
+    {
+      "title": "Arm desktop: x86 emulation",
+      "href": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 13
     },
     {
       "title": "Hand Drawn CGI: Animating the Terrahawks Title Sequence",
       "href": "https://www.youtube.com/watch?v=HI7oEiaR8PU",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 12
+      "index": 14
     },
     {
       "title": "The Chaos of AI Agents",
       "href": "https://www.youtube.com/watch?v=2YYjPs8t8MI",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "Arm desktop: x86 emulation",
-      "href": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Split Flap",
       "href": "https://fx.hot.page/split-flap",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM",
       "href": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "How to configure X11 in a simple way",
       "href": "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "clj-coll: Clojure collections and sequences in Common Lisp",
       "href": "https://github.com/dtenny/clj-coll",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "GNOME Calendar: A New Era of Accessibility Achieved in 90 Days",
       "href": "https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
       "href": "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Using fortune to reinforce habits",
       "href": "https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "exosphere: A simple centralized patch management and reporting tool for unix systems",
       "href": "https://github.com/mrdaemon/exosphere",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "emacs-arei Async IDE for Guile",
       "href": "https://git.sr.ht/~abcdw/emacs-arei",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Most of your projects are stupid. Please make some actual games",
-      "href": "https://www.youtube.com/watch?v=Ca53JTohdN4",
-      "points": "",
-      "comments": "\n              10 comments",
       "index": 24
     },
     {
-      "title": "Rust running on every major GPU platform",
-      "href": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
+      "title": "Specials (2021)",
+      "href": "https://www.brendangregg.com/specials.html",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
