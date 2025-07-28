@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, July 27, 2025 at 11:45 PM GMT-5",
+  "date": "Monday, July 28, 2025 at 12:30 AM GMT-5",
   "articles": [
-    {
-      "title": "The JJ VCS Workshop: A Zero-to-Hero Speedrun",
-      "href": "https://github.com/jkoppel/jj-workshop",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 1
-    },
     {
       "title": "TIL: Exception.add_note",
       "href": "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 1
+    },
+    {
+      "title": "The JJ VCS Workshop: A Zero-to-Hero Speedrun",
+      "href": "https://github.com/jkoppel/jj-workshop",
+      "points": "",
+      "comments": "\n              17 comments",
       "index": 2
     },
     {
@@ -37,59 +37,59 @@
       "index": 5
     },
     {
-      "title": "copyparty: portable file server with resumable uploads, dedup, WebDAV, and more",
-      "href": "https://github.com/9001/copyparty",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 6
-    },
-    {
       "title": "Enough AI copilots! We need AI HUDs",
       "href": "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 6
+    },
+    {
+      "title": "copyparty: portable file server with resumable uploads, dedup, WebDAV, and more",
+      "href": "https://github.com/9001/copyparty",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 7
     },
     {
       "title": "Wren - a small, fast, class-based concurrent scripting language",
       "href": "https://github.com/wren-lang/wren",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              20 comments",
       "index": 8
     },
     {
-      "title": "Certificate Transparency - Part 1",
-      "href": "https://ipng.ch/s/articles/2025/07/26/certificate-transparency-part-1/",
+      "title": "multiplex: Command-line process mutliplexer",
+      "href": "https://github.com/sebastien/multiplex",
       "points": "",
       "comments": "\n              no comments",
       "index": 9
-    },
-    {
-      "title": "Getting decent error reports in Bash when you're using 'set -e'",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 10
-    },
-    {
-      "title": "printSim: a command-line python program that turns gcode into realistic 3d printer sound",
-      "href": "https://github.com/dannyboy1996/printSim",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 11
-    },
-    {
-      "title": "Designing a flatpack bed",
-      "href": "https://kevinlynagh.com/newsletter/2025_07_flatpack/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
     },
     {
       "title": "Formal specs as sets of behaviors",
       "href": "https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "Certificate Transparency - Part 1",
+      "href": "https://ipng.ch/s/articles/2025/07/26/certificate-transparency-part-1/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "Getting decent error reports in Bash when you're using 'set -e'",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 12
+    },
+    {
+      "title": "printSim: a command-line python program that turns gcode into realistic 3d printer sound",
+      "href": "https://github.com/dannyboy1996/printSim",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
+      "title": "Designing a flatpack bed",
+      "href": "https://kevinlynagh.com/newsletter/2025_07_flatpack/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
       "title": "Resizable structs in Zig",
       "href": "https://tristanpemble.com/resizable-structs-in-zig/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Programming Languages: Application and Interpretation (3rd edition)",
       "href": "https://www.plai.org",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Specials (2021)",
       "href": "https://www.brendangregg.com/specials.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "It's time for modern CSS to kill the SPA",
       "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
       "points": "",
       "comments": "\n              26 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "From Async/Await to Virtual Threads",
       "href": "https://lucumr.pocoo.org/2025/7/26/virtual-threads/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Test results for AMD Zen 5",
       "href": "https://www.agner.org/forum/viewtopic.php?t=287&start=11",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Perfecting anti-aliasing on signed distance functions",
       "href": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
       "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Optimi-Zi(n)g Sudoku-Solving",
       "href": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
       "href": "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "OverHAuL: Harnessing Automation for C Libraries with Large Language Models",
-      "href": "https://kchousos.github.io/BSc-Thesis/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
