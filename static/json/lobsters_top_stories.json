@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, July 27, 2025 at 8:55 PM GMT-5",
+  "date": "Sunday, July 27, 2025 at 10:45 PM GMT-5",
   "articles": [
     {
       "title": "The JJ VCS Workshop: A Zero-to-Hero Speedrun",
       "href": "https://github.com/jkoppel/jj-workshop",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              16 comments",
       "index": 1
     },
     {
@@ -19,14 +19,14 @@
       "title": "Development shells with Nix: four quick examples",
       "href": "https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 3
     },
     {
       "title": "Revontuli Colorscheme Collection",
       "href": "https://codeberg.org/akselmo/Revontuli",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 4
     },
     {
@@ -44,22 +44,22 @@
       "index": 6
     },
     {
+      "title": "Enough AI copilots! We need AI HUDs",
+      "href": "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 7
+    },
+    {
       "title": "Wren - a small, fast, class-based concurrent scripting language",
       "href": "https://github.com/wren-lang/wren",
       "points": "",
-      "comments": "\n              18 comments",
-      "index": 7
+      "comments": "\n              19 comments",
+      "index": 8
     },
     {
       "title": "IPng Networks - Certificate Transparency - Part 1",
       "href": "https://ipng.ch/s/articles/2025/07/26/certificate-transparency-part-1/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 8
-    },
-    {
-      "title": "Designing a flatpack bed",
-      "href": "https://kevinlynagh.com/newsletter/2025_07_flatpack/",
       "points": "",
       "comments": "\n              no comments",
       "index": 9
@@ -72,31 +72,31 @@
       "index": 10
     },
     {
-      "title": "Resizable structs in Zig",
-      "href": "https://tristanpemble.com/resizable-structs-in-zig/",
+      "title": "Designing a flatpack bed",
+      "href": "https://kevinlynagh.com/newsletter/2025_07_flatpack/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 11
-    },
-    {
-      "title": "LLMs are bad at returning code in JSON",
-      "href": "https://aider.chat/2024/08/14/code-in-json.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
     },
     {
       "title": "Formal specs as sets of behaviors",
       "href": "https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "LLMs are bad at returning code in JSON",
+      "href": "https://aider.chat/2024/08/14/code-in-json.html",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 13
     },
     {
-      "title": "Enough AI copilots! We need AI HUDs",
-      "href": "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds",
+      "title": "Resizable structs in Zig",
+      "href": "https://tristanpemble.com/resizable-structs-in-zig/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              5 comments",
       "index": 14
     },
     {
@@ -107,10 +107,10 @@
       "index": 15
     },
     {
-      "title": "It's time for modern CSS to kill the SPA",
-      "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+      "title": "Programming Languages: Application and Interpretation (3rd edition)",
+      "href": "https://www.plai.org",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              1 comment",
       "index": 16
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "It's time for modern CSS to kill the SPA",
+      "href": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+      "points": "",
+      "comments": "\n              23 comments",
+      "index": 18
+    },
+    {
       "title": "From Async/Await to Virtual Threads",
       "href": "https://lucumr.pocoo.org/2025/7/26/virtual-threads/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Test results for AMD Zen 5",
       "href": "https://www.agner.org/forum/viewtopic.php?t=287&start=11",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Perfecting anti-aliasing on signed distance functions",
       "href": "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Optimi-Zi(n)g Sudoku-Solving",
       "href": "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Heredocs Can Make Your Bash Scripts Self-Documenting",
       "href": "https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
       "href": "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
+      "index": 24
     },
     {
       "title": "OverHAuL: Harnessing Automation for C Libraries with Large Language Models",
       "href": "https://kchousos.github.io/BSc-Thesis/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "How to configure X11 in a simple way",
-      "href": "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
