@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, July 29, 2025 at 9:25 AM GMT-5",
+  "date": "Tuesday, July 29, 2025 at 10:25 AM GMT-5",
   "articles": [
     {
       "title": "No more Erlang manuals",
@@ -12,21 +12,21 @@
       "title": "I'm never going back to Matrix",
       "href": "https://shkspr.mobi/blog/2025/07/im-never-going-back-to-matrix/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              12 comments",
       "index": 2
+    },
+    {
+      "title": "Ethersync: Peer-to-peer collaborative editing of local text files",
+      "href": "https://github.com/ethersync/ethersync",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 3
     },
     {
       "title": "An AI tool I find useful",
       "href": "https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 3
-    },
-    {
-      "title": "Weather Model based on ADS-B",
-      "href": "https://obrhubr.org/adsb-weather-model",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 4
     },
     {
@@ -37,115 +37,115 @@
       "index": 5
     },
     {
+      "title": "Weather Model based on ADS-B",
+      "href": "https://obrhubr.org/adsb-weather-model",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 6
+    },
+    {
+      "title": "rules_derive: deriving using macro_rules",
+      "href": "https://matx.com/research/rules_derive",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 7
+    },
+    {
       "title": "Make Your Own Backup System – Part 2: Forging the FreeBSD Backup Stronghold",
       "href": "https://it-notes.dragas.net/2025/07/29/make-your-own-backup-system-part-2-forging-the-freebsd-backup-stronghold/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 6
-    },
-    {
-      "title": "Ethersync: Peer-to-peer collaborative editing of local text files",
-      "href": "https://github.com/ethersync/ethersync",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "On designing application UIs for children",
       "href": "https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 8
+      "index": 9
+    },
+    {
+      "title": "Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants - CNX Software",
+      "href": "https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
     },
     {
       "title": "Redditor Speculates that EU age verification app to ban any Android system not licensed by Google",
       "href": "https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/",
       "points": "",
       "comments": "\n              91 comments",
-      "index": 9
+      "index": 11
     },
     {
       "title": "No moar cookies",
       "href": "https://paretosecurity.com/blog/no-moar-cookies/",
       "points": "",
       "comments": "\n              30 comments",
-      "index": 10
-    },
-    {
-      "title": "rules_derive: deriving using macro_rules",
-      "href": "https://matx.com/research/rules_derive",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "Following up on the Python JIT",
-      "href": "https://lwn.net/Articles/1029307/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 12
-    },
-    {
-      "title": "Debugging the Pixel 8 kernel via KGDB",
-      "href": "https://xairy.io/articles/pixel-kgdb",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Linux 6.16 changelog",
-      "href": "https://kernelnewbies.org/Linux_6.16",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
     },
     {
       "title": "Loading credentials from Bitwarden with direnv",
       "href": "https://ergaster.org/posts/2025/07/28-direnv-bitwarden-integration/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 13
     },
     {
-      "title": "From XML to JSON to CBOR",
-      "href": "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html",
+      "title": "Following up on the Python JIT",
+      "href": "https://lwn.net/Articles/1029307/",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 16
-    },
-    {
-      "title": "[trane]",
-      "href": "https://lisp.trane.studio/?tutor",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 17
-    },
-    {
-      "title": "Identity and behaviour",
-      "href": "https://ismaelcelis.com/posts/2025-07-identity-and-behaviour/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "TIL: Exception.add_note",
-      "href": "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 19
+      "comments": "\n              3 comments",
+      "index": 14
     },
     {
       "title": "The Useless useCallback",
       "href": "https://tkdodo.eu/blog/the-useless-use-callback",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Linux 6.16 changelog",
+      "href": "https://kernelnewbies.org/Linux_6.16",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Debugging the Pixel 8 kernel via KGDB",
+      "href": "https://xairy.io/articles/pixel-kgdb",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Advanced Rust macros with derive-deftly",
+      "href": "https://diziet.pages.torproject.net/rust-derive-deftly/latest/guide/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "From XML to JSON to CBOR",
+      "href": "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 19
+    },
+    {
+      "title": "[trane]",
+      "href": "https://lisp.trane.studio/?tutor",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 20
     },
     {
-      "title": "Giving Benchmarks a Boat",
-      "href": "https://buttondown.com/jaffray/archive/giving-benchmarks-a-boat/",
+      "title": "Identity and behaviour",
+      "href": "https://ismaelcelis.com/posts/2025-07-identity-and-behaviour/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 21
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
-      "title": "Programming Languages: Application and Interpretation (3rd edition)",
-      "href": "https://www.plai.org",
+      "title": "TIL: Exception.add_note",
+      "href": "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              7 comments",
       "index": 23
+    },
+    {
+      "title": "Giving Benchmarks a Boat",
+      "href": "https://buttondown.com/jaffray/archive/giving-benchmarks-a-boat/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "The JJ VCS Workshop: A Zero-to-Hero Speedrun",
       "href": "https://github.com/jkoppel/jj-workshop",
       "points": "",
       "comments": "\n              35 comments",
-      "index": 24
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/2ftfd1/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              29 comments",
       "index": 25
     }
   ]
