@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, July 31, 2025 at 3:30 AM GMT-5",
+  "date": "Thursday, July 31, 2025 at 4:25 AM GMT-5",
   "articles": [
     {
       "title": "A Dive Into Open Chat Protocols",
       "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
       "points": "",
-      "comments": "\n              38 comments",
+      "comments": "\n              45 comments",
       "index": 1
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
+      "title": "Mounting The Atmosphere",
+      "href": "https://oppi.li/posts/mounting_the_atmosphere/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 7
+    },
+    {
       "title": "I want to defend Wayland here and explain a crucial piece that I think people are missing",
       "href": "https://ordinary.cafe/@technobaboo/114935252929285259",
       "points": "",
       "comments": "\n              54 comments",
-      "index": 7
-    },
-    {
-      "title": "2000 words about arrays and tables",
-      "href": "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 8
     },
     {
@@ -65,10 +65,10 @@
       "index": 9
     },
     {
-      "title": "Mounting The Atmosphere",
-      "href": "https://oppi.li/posts/mounting_the_atmosphere/",
+      "title": "2000 words about arrays and tables",
+      "href": "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              6 comments",
       "index": 10
     },
     {
@@ -79,66 +79,66 @@
       "index": 11
     },
     {
+      "title": "Go's race detector has a mutex blind spot",
+      "href": "https://doublefree.dev/go-race-mutex-blindspot/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Emacs: The MacOS Bug",
+      "href": "https://xlii.space/eng/emacs-the-macos-bug/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 13
+    },
+    {
       "title": "Books about Lisp's \"beauty\"?",
       "href": "/s/4hwugo/books_about_lisp_s_beauty",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 12
+      "index": 14
     },
     {
       "title": "Why We Need to Know LR and Recursive Descent Parsing Techniques",
       "href": "https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 13
+      "index": 15
     },
     {
       "title": "A month using XMPP for every call and chat (2023)",
       "href": "https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 14
-    },
-    {
-      "title": "Go's race detector has a mutex blind spot",
-      "href": "https://doublefree.dev/go-race-mutex-blindspot/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Flat design vs realistic (“skeuomorphic”) design",
       "href": "https://www.flatisbad.com/",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Architecture Decision Record",
       "href": "https://github.com/joelparkerhenderson/architecture-decision-record",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "a5-py: Pentagonal geospatial indexing system DGGS",
+      "href": "https://github.com/felixpalmer/a5-py",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
     },
     {
       "title": "Printing a Book at Home with Minimal Equipment",
       "href": "https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment",
       "points": "",
       "comments": "\n              29 comments",
-      "index": 18
-    },
-    {
-      "title": "Emacs: The MacOS Bug",
-      "href": "https://xlii.space/eng/emacs-the-macos-bug/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 19
-    },
-    {
-      "title": "Tracking source locations in the Futhark compiler",
-      "href": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Tracking source locations in the Futhark compiler",
+      "href": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "Interacting With Text Adventures Through Perl",
       "href": "https://entropicthoughts.com/interacting-with-text-adventures-through-perl",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Agentic Coding Things That Didn’t Work",
       "href": "https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Verified Assembly 2: Memory, RISC-V, Cuts for Invariants, and Ghost Code",
       "href": "https://www.philipzucker.com/asm_verify2/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Phoenix LiveView v1.1.0",
-      "href": "https://hexdocs.pm/phoenix_live_view/changelog.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 25
     }
   ]
