@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, July 31, 2025 at 1:30 PM GMT-5",
+  "date": "Thursday, July 31, 2025 at 2:20 PM GMT-5",
   "articles": [
     {
       "title": "Sync primitives are Functionally Complete",
@@ -26,7 +26,7 @@
       "title": "The smallest embeddable scripting language, part 1",
       "href": "https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              12 comments",
       "index": 4
     },
     {
@@ -40,7 +40,7 @@
       "title": "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
       "href": "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 6
     },
     {
@@ -61,14 +61,14 @@
       "title": "What is gVisor?",
       "href": "https://blog.yelinaung.com/posts/gvisor/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 9
     },
     {
       "title": "The Hype is the Product",
       "href": "https://rys.io/en/180.html",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 10
     },
     {
@@ -79,80 +79,80 @@
       "index": 11
     },
     {
-      "title": "[RFC] Upstream target support for CHERI-enabled architectures",
-      "href": "https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 12
-    },
-    {
-      "title": "always bet on text (2014)",
-      "href": "https://graydon2.dreamwidth.org/193447.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
-    },
-    {
-      "title": "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
-      "href": "https://yeet.cx/blog/you-are-the-bios-now",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 14
-    },
-    {
-      "title": "Vanity import paths in Go (2019)",
-      "href": "https://sagikazarmark.hu/blog/vanity-import-paths-in-go/",
+      "title": "Secure boot certificate rollover is real but probably won't hurt you",
+      "href": "https://mjg59.dreamwidth.org/72892.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Go's race detector has a mutex blind spot",
-      "href": "https://doublefree.dev/go-race-mutex-blindspot/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 16
+      "index": 12
     },
     {
       "title": "Schematra: Sinatra inspired Chicken web framework",
       "href": "https://github.com/rolandoam/schematra",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
+      "title": "[RFC] Upstream target support for CHERI-enabled architectures",
+      "href": "https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 14
+    },
+    {
+      "title": "always bet on text (2014)",
+      "href": "https://graydon2.dreamwidth.org/193447.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
+      "title": "PyPI Phishing Attack: Incident Report",
+      "href": "https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
+      "href": "https://yeet.cx/blog/you-are-the-bios-now",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 17
+    },
+    {
+      "title": "Go's race detector has a mutex blind spot",
+      "href": "https://doublefree.dev/go-race-mutex-blindspot/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 18
+    },
+    {
+      "title": "Vanity import paths in Go (2019)",
+      "href": "https://sagikazarmark.hu/blog/vanity-import-paths-in-go/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "Writing memory efficient C structs",
       "href": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "Books about Lisp's \"beauty\"?",
       "href": "/s/4hwugo/books_about_lisp_s_beauty",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 19
-    },
-    {
-      "title": "Secure boot certificate rollover is real but probably won't hurt you",
-      "href": "https://mjg59.dreamwidth.org/72892.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Tracking source locations in the Futhark compiler",
-      "href": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 21
     },
     {
-      "title": "Emacs: The MacOS Bug",
-      "href": "https://xlii.space/eng/emacs-the-macos-bug/",
+      "title": "In-Network Leaderless Replication for Distributed Data Stores",
+      "href": "https://www.vldb.org/pvldb/vol15/p1337-lee.pdf",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              1 comment",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "2000 words about arrays and tables",
-      "href": "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/",
+      "title": "Tracking source locations in the Futhark compiler",
+      "href": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              1 comment",
       "index": 24
     },
     {
-      "title": "Global Constraint Catalog",
-      "href": "https://sofdem.github.io/gccat/gccat/index.html",
+      "title": "Emacs: The MacOS Bug",
+      "href": "https://xlii.space/eng/emacs-the-macos-bug/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              6 comments",
       "index": 25
     }
   ]
