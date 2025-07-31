@@ -1,53 +1,53 @@
 {
-  "date": "Thursday, July 31, 2025 at 2:25 AM GMT-5",
+  "date": "Thursday, July 31, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "A Dive Into Open Chat Protocols",
       "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
       "points": "",
-      "comments": "\n              34 comments",
+      "comments": "\n              38 comments",
       "index": 1
-    },
-    {
-      "title": "[RFC] Upstream target support for CHERI-enabled architectures",
-      "href": "https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 2
-    },
-    {
-      "title": "Writing memory efficient C structs",
-      "href": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 3
-    },
-    {
-      "title": "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
-      "href": "https://yeet.cx/blog/you-are-the-bios-now",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 4
     },
     {
       "title": "I built my blog with C preprocessor macros",
       "href": "https://wheybags.com/blog/macroblog.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 5
+      "index": 2
     },
     {
-      "title": "I want to defend Wayland here and explain a crucial piece that I think people are missing",
-      "href": "https://ordinary.cafe/@technobaboo/114935252929285259",
+      "title": "[RFC] Upstream target support for CHERI-enabled architectures",
+      "href": "https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623",
       "points": "",
-      "comments": "\n              52 comments",
-      "index": 6
+      "comments": "\n              2 comments",
+      "index": 3
+    },
+    {
+      "title": "Writing memory efficient C structs",
+      "href": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 4
+    },
+    {
+      "title": "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
+      "href": "https://yeet.cx/blog/you-are-the-bios-now",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 5
     },
     {
       "title": "always bet on text (2014)",
       "href": "https://graydon2.dreamwidth.org/193447.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 6
+    },
+    {
+      "title": "I want to defend Wayland here and explain a crucial piece that I think people are missing",
+      "href": "https://ordinary.cafe/@technobaboo/114935252929285259",
+      "points": "",
+      "comments": "\n              54 comments",
       "index": 7
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
+      "title": "Mounting The Atmosphere",
+      "href": "https://oppi.li/posts/mounting_the_atmosphere/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
       "title": "Crush: The glamourous AI coding agent for your favourite terminal",
       "href": "https://github.com/charmbracelet/crush",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Books about Lisp's \"beauty\"?",
       "href": "/s/4hwugo/books_about_lisp_s_beauty",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 11
+      "index": 12
+    },
+    {
+      "title": "Why We Need to Know LR and Recursive Descent Parsing Techniques",
+      "href": "https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 13
     },
     {
       "title": "A month using XMPP for every call and chat (2023)",
       "href": "https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 12
-    },
-    {
-      "title": "Flat design vs realistic (“skeuomorphic”) design",
-      "href": "https://www.flatisbad.com/",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 13
-    },
-    {
-      "title": "Printing a Book at Home with Minimal Equipment",
-      "href": "https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment",
-      "points": "",
-      "comments": "\n              29 comments",
       "index": 14
-    },
-    {
-      "title": "Why We Need to Know LR and Recursive Descent Parsing Techniques",
-      "href": "https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 15
-    },
-    {
-      "title": "Emacs: The MacOS Bug",
-      "href": "https://xlii.space/eng/emacs-the-macos-bug/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 16
     },
     {
       "title": "Go's race detector has a mutex blind spot",
       "href": "https://doublefree.dev/go-race-mutex-blindspot/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 15
     },
     {
-      "title": "Tracking source locations in the Futhark compiler",
-      "href": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
+      "title": "Flat design vs realistic (“skeuomorphic”) design",
+      "href": "https://www.flatisbad.com/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Interacting With Text Adventures Through Perl",
-      "href": "https://entropicthoughts.com/interacting-with-text-adventures-through-perl",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
+      "comments": "\n              17 comments",
+      "index": 16
     },
     {
       "title": "Architecture Decision Record",
       "href": "https://github.com/joelparkerhenderson/architecture-decision-record",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 17
     },
     {
-      "title": "Verified Assembly 2: Memory, RISC-V, Cuts for Invariants, and Ghost Code",
-      "href": "https://www.philipzucker.com/asm_verify2/",
+      "title": "Printing a Book at Home with Minimal Equipment",
+      "href": "https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 21
+      "comments": "\n              29 comments",
+      "index": 18
     },
     {
-      "title": "Agentic Coding Things That Didn’t Work",
-      "href": "https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "Phoenix LiveView v1.1.0",
-      "href": "https://hexdocs.pm/phoenix_live_view/changelog.html",
+      "title": "Emacs: The MacOS Bug",
+      "href": "https://xlii.space/eng/emacs-the-macos-bug/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 23
+      "index": 19
     },
     {
-      "title": "Optimize CPU performance with Instruments",
-      "href": "https://developer.apple.com/videos/play/wwdc2025/308/",
+      "title": "Tracking source locations in the Futhark compiler",
+      "href": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
+      "index": 20
     },
     {
       "title": "Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide",
       "href": "https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Interacting With Text Adventures Through Perl",
+      "href": "https://entropicthoughts.com/interacting-with-text-adventures-through-perl",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 22
+    },
+    {
+      "title": "Agentic Coding Things That Didn’t Work",
+      "href": "https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 23
+    },
+    {
+      "title": "Verified Assembly 2: Memory, RISC-V, Cuts for Invariants, and Ghost Code",
+      "href": "https://www.philipzucker.com/asm_verify2/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
+    },
+    {
+      "title": "Phoenix LiveView v1.1.0",
+      "href": "https://hexdocs.pm/phoenix_live_view/changelog.html",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 25
     }
   ]
