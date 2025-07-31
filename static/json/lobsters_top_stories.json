@@ -1,51 +1,51 @@
 {
-  "date": "Thursday, July 31, 2025 at 5:20 PM GMT-5",
+  "date": "Thursday, July 31, 2025 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "Sync primitives are Functionally Complete",
       "href": "http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
       "title": "The smallest embeddable scripting language, part 1",
       "href": "https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              22 comments",
       "index": 2
-    },
-    {
-      "title": "A Dive Into Open Chat Protocols",
-      "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
-      "points": "",
-      "comments": "\n              87 comments",
-      "index": 3
     },
     {
       "title": "The Math Is Haunted",
       "href": "https://overreacted.io/the-math-is-haunted/",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 3
+    },
+    {
+      "title": "A Dive Into Open Chat Protocols",
+      "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
+      "points": "",
+      "comments": "\n              87 comments",
       "index": 4
+    },
+    {
+      "title": "You might not need tmux",
+      "href": "https://bower.sh/you-might-not-need-tmux",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 5
     },
     {
       "title": "QUIC for the kernel",
       "href": "https://lwn.net/Articles/1029851/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Secure boot certificate rollover is real but probably won't hurt you",
       "href": "https://mjg59.dreamwidth.org/72892.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 6
-    },
-    {
-      "title": "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
-      "href": "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75",
       "points": "",
       "comments": "\n              2 comments",
       "index": 7
@@ -58,8 +58,8 @@
       "index": 8
     },
     {
-      "title": "What is gVisor?",
-      "href": "https://blog.yelinaung.com/posts/gvisor/",
+      "title": "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
+      "href": "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75",
       "points": "",
       "comments": "\n              2 comments",
       "index": 9
@@ -72,108 +72,108 @@
       "index": 10
     },
     {
-      "title": "Mounting The Atmosphere",
-      "href": "https://oppi.li/posts/mounting_the_atmosphere/",
+      "title": "What is gVisor?",
+      "href": "https://blog.yelinaung.com/posts/gvisor/",
       "points": "",
       "comments": "\n              2 comments",
       "index": 11
     },
     {
-      "title": "PyPI Phishing Attack: Incident Report",
-      "href": "https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/",
+      "title": "Mounting The Atmosphere",
+      "href": "https://oppi.li/posts/mounting_the_atmosphere/",
       "points": "",
       "comments": "\n              2 comments",
       "index": 12
+    },
+    {
+      "title": "Schematra: Sinatra inspired Chicken web framework",
+      "href": "https://github.com/rolandoam/schematra",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 13
     },
     {
       "title": "In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network",
       "href": "https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 13
+      "index": 14
     },
     {
-      "title": "Schematra: Sinatra inspired Chicken web framework",
-      "href": "https://github.com/rolandoam/schematra",
+      "title": "PyPI Phishing Attack: Incident Report",
+      "href": "https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
+      "comments": "\n              2 comments",
+      "index": 15
     },
     {
       "title": "The Hype is the Product",
       "href": "https://rys.io/en/180.html",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Vanity import paths in Go (2019)",
       "href": "https://sagikazarmark.hu/blog/vanity-import-paths-in-go/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "[RFC] Upstream target support for CHERI-enabled architectures",
       "href": "https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "always bet on text (2014)",
       "href": "https://graydon2.dreamwidth.org/193447.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
       "href": "https://yeet.cx/blog/you-are-the-bios-now",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Go's race detector has a mutex blind spot",
       "href": "https://doublefree.dev/go-race-mutex-blindspot/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Community Contributions",
       "href": "https://philippemnoel.posthaven.com/community-contributions",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Books about Lisp's \"beauty\"?",
       "href": "/s/4hwugo/books_about_lisp_s_beauty",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Writing memory efficient C structs",
       "href": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 23
-    },
-    {
-      "title": "You might not need tmux",
-      "href": "https://bower.sh/you-might-not-need-tmux",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "In-Network Leaderless Replication for Distributed Data Stores",
-      "href": "https://www.vldb.org/pvldb/vol15/p1337-lee.pdf",
+      "title": "Crafting your own Static Site Generator using Phoenix (2023)",
+      "href": "https://fly.io/phoenix-files/crafting-your-own-static-site-generator-using-phoenix/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
