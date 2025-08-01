@@ -1,5 +1,5 @@
 {
-  "date": "Friday, August 1, 2025 at 9:20 AM GMT-5",
+  "date": "Friday, August 1, 2025 at 10:20 AM GMT-5",
   "articles": [
     {
       "title": "Age Verification Doesn’t Need to Be a Privacy Footgun",
@@ -16,24 +16,24 @@
       "index": 2
     },
     {
+      "title": "agendafs: A filesystem for syncing notes to your calendar",
+      "href": "https://sr.ht/~marcc/agendafs/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 3
+    },
+    {
       "title": "If Odin Had Macros",
       "href": "https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/",
       "points": "",
-      "comments": "\n              9 comments",
-      "index": 3
+      "comments": "\n              10 comments",
+      "index": 4
     },
     {
       "title": "You might not need tmux",
       "href": "https://bower.sh/you-might-not-need-tmux",
       "points": "",
       "comments": "\n              56 comments",
-      "index": 4
-    },
-    {
-      "title": "agendafs: A filesystem for syncing notes to your calendar",
-      "href": "https://sr.ht/~marcc/agendafs/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 5
     },
     {
@@ -54,124 +54,124 @@
       "title": "Our first outage from LLM-written code",
       "href": "https://sketch.dev/blog/our-first-outage-from-llm-written-code",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
       "index": 8
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/twphly/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 9
     },
     {
       "title": "The smallest embeddable scripting language, part 1",
       "href": "https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html",
       "points": "",
       "comments": "\n              46 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Sync primitives are Functionally Complete",
       "href": "http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 10
+      "comments": "\n              12 comments",
+      "index": 11
     },
     {
       "title": "Pride Versioning",
       "href": "https://pridever.org/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 11
-    },
-    {
-      "title": "QUIC for the kernel",
-      "href": "https://lwn.net/Articles/1029851/",
-      "points": "",
-      "comments": "\n              16 comments",
       "index": 12
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/twphly/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
-    },
-    {
-      "title": "Ramblings",
-      "href": "https://stephango.com/ramblings",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
-      "title": "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
-      "href": "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 15
-    },
-    {
-      "title": "A Dive Into Open Chat Protocols",
-      "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
-      "points": "",
-      "comments": "\n              94 comments",
-      "index": 16
-    },
-    {
-      "title": "Stack traces for Postgres errors with backtrace_functions",
-      "href": "https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
     },
     {
       "title": "'Hello world' in Bismuth",
       "href": "https://enikofox.com/posts/hello-world-in-bismuth/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 13
     },
     {
-      "title": "Schematra: Sinatra inspired Chicken web framework",
-      "href": "https://github.com/rolandoam/schematra",
+      "title": "QUIC for the kernel",
+      "href": "https://lwn.net/Articles/1029851/",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 14
+    },
+    {
+      "title": "Wayback 0.2 released",
+      "href": "https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Ramblings",
+      "href": "https://stephango.com/ramblings",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
+      "title": "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
+      "href": "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 19
+      "index": 17
     },
     {
       "title": "My favourite German word",
       "href": "https://vurt.org/articles/my-favourite-german-word/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 18
+    },
+    {
+      "title": "A Dive Into Open Chat Protocols",
+      "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
+      "points": "",
+      "comments": "\n              97 comments",
+      "index": 19
     },
     {
       "title": "Vibe code is legacy code",
       "href": "https://blog.val.town/vibe-code",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Stack traces for Postgres errors with backtrace_functions",
+      "href": "https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
+    },
+    {
+      "title": "Schematra: Sinatra inspired Chicken web framework",
+      "href": "https://github.com/rolandoam/schematra",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 22
     },
     {
       "title": "Go Assembly Mutation Testing",
       "href": "https://words.filippo.io/assembly-mutation/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Secure boot certificate rollover is real but probably won't hurt you",
       "href": "https://mjg59.dreamwidth.org/72892.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 23
-    },
-    {
-      "title": "What is gVisor?",
-      "href": "https://blog.yelinaung.com/posts/gvisor/",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 24
     },
     {
-      "title": "Build a Parking sensor with ESP32 board, LEDs and Ultrasonic distance sensor",
-      "href": "https://www.poeticoding.com/build-a-parking-sensor-with-esp32-board-leds-and-ultrasonic-distance-sensor/",
+      "title": "C++26 Reflections adventures & compile time UML",
+      "href": "https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
