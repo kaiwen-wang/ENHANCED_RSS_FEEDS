@@ -1,25 +1,25 @@
 {
-  "date": "Friday, August 1, 2025 at 11:30 AM GMT-5",
+  "date": "Friday, August 1, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "Age Verification Doesn’t Need to Be a Privacy Footgun",
       "href": "https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              15 comments",
       "index": 1
-    },
-    {
-      "title": "agendafs: A filesystem for syncing notes to your calendar",
-      "href": "https://sr.ht/~marcc/agendafs/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 2
     },
     {
       "title": "How NixOS is built",
       "href": "https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 2
+    },
+    {
+      "title": "agendafs: A filesystem for syncing notes to your calendar",
+      "href": "https://sr.ht/~marcc/agendafs/",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 3
     },
     {
@@ -37,143 +37,143 @@
       "index": 5
     },
     {
+      "title": "Wayback 0.2 released",
+      "href": "https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 6
+    },
+    {
       "title": "6 Weeks of Claude Code",
       "href": "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/twphly/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 7
+      "comments": "\n              11 comments",
+      "index": 8
     },
     {
       "title": "Our first outage from LLM-written code",
       "href": "https://sketch.dev/blog/our-first-outage-from-llm-written-code",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 8
+      "comments": "\n              8 comments",
+      "index": 9
     },
     {
       "title": "The Math Is Haunted",
       "href": "https://overreacted.io/the-math-is-haunted/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 9
+      "index": 10
     },
     {
-      "title": "Wayback 0.2 released",
-      "href": "https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/",
+      "title": "Lobsters Interview with Icefox",
+      "href": "/s/2vfx6w/lobsters_interview_with_icefox",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Pride Versioning",
       "href": "https://pridever.org/",
       "points": "",
-      "comments": "\n              12 comments",
-      "index": 11
-    },
-    {
-      "title": "'Hello world' in Bismuth",
-      "href": "https://enikofox.com/posts/hello-world-in-bismuth/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              13 comments",
       "index": 12
     },
     {
       "title": "The smallest embeddable scripting language, part 1",
       "href": "https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html",
       "points": "",
-      "comments": "\n              46 comments",
+      "comments": "\n              50 comments",
       "index": 13
     },
     {
-      "title": "Sync primitives are Functionally Complete",
-      "href": "http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html",
+      "title": "'Hello world' in Bismuth",
+      "href": "https://enikofox.com/posts/hello-world-in-bismuth/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              no comments",
       "index": 14
-    },
-    {
-      "title": "QUIC for the kernel",
-      "href": "https://lwn.net/Articles/1029851/",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 15
-    },
-    {
-      "title": "Stack traces for Postgres errors with backtrace_functions",
-      "href": "https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Vibe code is legacy code",
-      "href": "https://blog.val.town/vibe-code",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Ramblings",
-      "href": "https://stephango.com/ramblings",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "My favourite German word",
-      "href": "https://vurt.org/articles/my-favourite-german-word/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
-    },
-    {
-      "title": "Free Security Audits for Erlang and Elixir open source projects",
-      "href": "https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
-      "href": "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 21
-    },
-    {
-      "title": "A Dive Into Open Chat Protocols",
-      "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
-      "points": "",
-      "comments": "\n              100 comments",
-      "index": 22
     },
     {
       "title": "Long Term Support",
       "href": "https://www.sqlite.org/lts.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Sync primitives are Functionally Complete",
+      "href": "http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 16
+    },
+    {
+      "title": "Vibe code is legacy code",
+      "href": "https://blog.val.town/vibe-code",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
+      "title": "QUIC for the kernel",
+      "href": "https://lwn.net/Articles/1029851/",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 18
+    },
+    {
+      "title": "Stack traces for Postgres errors with backtrace_functions",
+      "href": "https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Ramblings",
+      "href": "https://stephango.com/ramblings",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "My favourite German word",
+      "href": "https://vurt.org/articles/my-favourite-german-word/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "Free Security Audits for Erlang and Elixir open source projects",
+      "href": "https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
+      "href": "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 23
+    },
+    {
+      "title": "A Dive Into Open Chat Protocols",
+      "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
+      "points": "",
+      "comments": "\n              100 comments",
+      "index": 24
     },
     {
       "title": "Schematra: Sinatra inspired Chicken web framework",
       "href": "https://github.com/rolandoam/schematra",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 24
-    },
-    {
-      "title": "Go Assembly Mutation Testing",
-      "href": "https://words.filippo.io/assembly-mutation/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
