@@ -1,81 +1,81 @@
 {
-  "date": "Thursday, July 31, 2025 at 6:20 PM GMT-5",
+  "date": "Thursday, July 31, 2025 at 9:00 PM GMT-5",
   "articles": [
+    {
+      "title": "You might not need tmux",
+      "href": "https://bower.sh/you-might-not-need-tmux",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 1
+    },
     {
       "title": "Sync primitives are Functionally Complete",
       "href": "http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 1
+      "index": 2
     },
     {
       "title": "The smallest embeddable scripting language, part 1",
       "href": "https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html",
       "points": "",
-      "comments": "\n              22 comments",
-      "index": 2
+      "comments": "\n              28 comments",
+      "index": 3
     },
     {
       "title": "The Math Is Haunted",
       "href": "https://overreacted.io/the-math-is-haunted/",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 3
+      "comments": "\n              5 comments",
+      "index": 4
     },
     {
       "title": "A Dive Into Open Chat Protocols",
       "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
       "points": "",
       "comments": "\n              87 comments",
-      "index": 4
-    },
-    {
-      "title": "You might not need tmux",
-      "href": "https://bower.sh/you-might-not-need-tmux",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 5
     },
     {
       "title": "QUIC for the kernel",
       "href": "https://lwn.net/Articles/1029851/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
       "index": 6
+    },
+    {
+      "title": "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
+      "href": "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 7
     },
     {
       "title": "Secure boot certificate rollover is real but probably won't hurt you",
       "href": "https://mjg59.dreamwidth.org/72892.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "I built my blog with C preprocessor macros",
       "href": "https://wheybags.com/blog/macroblog.html",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 8
+      "index": 9
     },
     {
-      "title": "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
-      "href": "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75",
+      "title": "What is gVisor?",
+      "href": "https://blog.yelinaung.com/posts/gvisor/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 9
+      "comments": "\n              3 comments",
+      "index": 10
     },
     {
       "title": "Go Assembly Mutation Testing",
       "href": "https://words.filippo.io/assembly-mutation/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "What is gVisor?",
-      "href": "https://blog.yelinaung.com/posts/gvisor/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 11
     },
     {
@@ -86,22 +86,22 @@
       "index": 12
     },
     {
-      "title": "Schematra: Sinatra inspired Chicken web framework",
-      "href": "https://github.com/rolandoam/schematra",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
-    },
-    {
       "title": "In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network",
       "href": "https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 14
+      "index": 13
     },
     {
       "title": "PyPI Phishing Attack: Incident Report",
       "href": "https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 14
+    },
+    {
+      "title": "Schematra: Sinatra inspired Chicken web framework",
+      "href": "https://github.com/rolandoam/schematra",
       "points": "",
       "comments": "\n              2 comments",
       "index": 15
@@ -114,64 +114,64 @@
       "index": 16
     },
     {
+      "title": "Ramblings",
+      "href": "https://stephango.com/ramblings",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
       "title": "Vanity import paths in Go (2019)",
       "href": "https://sagikazarmark.hu/blog/vanity-import-paths-in-go/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "[RFC] Upstream target support for CHERI-enabled architectures",
       "href": "https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 18
+      "index": 19
     },
     {
-      "title": "always bet on text (2014)",
-      "href": "https://graydon2.dreamwidth.org/193447.html",
+      "title": "Go's race detector has a mutex blind spot",
+      "href": "https://doublefree.dev/go-race-mutex-blindspot/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
+      "comments": "\n              3 comments",
+      "index": 20
     },
     {
       "title": "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
       "href": "https://yeet.cx/blog/you-are-the-bios-now",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
+      "index": 21
     },
     {
-      "title": "Go's race detector has a mutex blind spot",
-      "href": "https://doublefree.dev/go-race-mutex-blindspot/",
+      "title": "always bet on text (2014)",
+      "href": "https://graydon2.dreamwidth.org/193447.html",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 21
+      "comments": "\n              3 comments",
+      "index": 22
+    },
+    {
+      "title": "We Asked 100+ AI Models to Write Code. Here’s How Many Failed Security Tests",
+      "href": "https://www.veracode.com/blog/genai-code-security-report/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Community Contributions",
       "href": "https://philippemnoel.posthaven.com/community-contributions",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Books about Lisp's \"beauty\"?",
-      "href": "/s/4hwugo/books_about_lisp_s_beauty",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 23
-    },
-    {
-      "title": "Writing memory efficient C structs",
-      "href": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
-      "points": "",
-      "comments": "\n              16 comments",
       "index": 24
     },
     {
-      "title": "Crafting your own Static Site Generator using Phoenix (2023)",
-      "href": "https://fly.io/phoenix-files/crafting-your-own-static-site-generator-using-phoenix/",
+      "title": "Parsing without ASTs and Optimizing with Sea of Nodes",
+      "href": "https://www.youtube.com/watch?v=NxiKlnUtyio",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
