@@ -1,177 +1,177 @@
 {
-  "date": "Friday, August 1, 2025 at 6:20 AM GMT-5",
+  "date": "Friday, August 1, 2025 at 7:45 AM GMT-5",
   "articles": [
-    {
-      "title": "You might not need tmux",
-      "href": "https://bower.sh/you-might-not-need-tmux",
-      "points": "",
-      "comments": "\n              40 comments",
-      "index": 1
-    },
     {
       "title": "Age Verification Doesn’t Need to Be a Privacy Footgun",
       "href": "https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              7 comments",
+      "index": 1
+    },
+    {
+      "title": "You might not need tmux",
+      "href": "https://bower.sh/you-might-not-need-tmux",
+      "points": "",
+      "comments": "\n              53 comments",
       "index": 2
-    },
-    {
-      "title": "6 Weeks of Claude Code",
-      "href": "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 3
-    },
-    {
-      "title": "The Math Is Haunted",
-      "href": "https://overreacted.io/the-math-is-haunted/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 4
     },
     {
       "title": "If Odin Had Macros",
       "href": "https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 5
-    },
-    {
-      "title": "Sync primitives are Functionally Complete",
-      "href": "http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 6
-    },
-    {
-      "title": "The smallest embeddable scripting language, part 1",
-      "href": "https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html",
-      "points": "",
-      "comments": "\n              40 comments",
-      "index": 7
-    },
-    {
-      "title": "Our first outage from LLM-written code",
-      "href": "https://sketch.dev/blog/our-first-outage-from-llm-written-code",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 8
-    },
-    {
-      "title": "QUIC for the kernel",
-      "href": "https://lwn.net/Articles/1029851/",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 9
-    },
-    {
-      "title": "agendafs: A filesystem for syncing notes to your calendar",
-      "href": "https://sr.ht/~marcc/agendafs/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "A Dive Into Open Chat Protocols",
-      "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
-      "points": "",
-      "comments": "\n              91 comments",
-      "index": 11
-    },
-    {
-      "title": "Ramblings",
-      "href": "https://stephango.com/ramblings",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "Pride Versioning",
-      "href": "https://pridever.org/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
-      "href": "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 14
+      "comments": "\n              6 comments",
+      "index": 3
     },
     {
       "title": "How NixOS is built",
       "href": "https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 4
+    },
+    {
+      "title": "Pride Versioning",
+      "href": "https://pridever.org/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 5
+    },
+    {
+      "title": "6 Weeks of Claude Code",
+      "href": "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 6
+    },
+    {
+      "title": "The Math Is Haunted",
+      "href": "https://overreacted.io/the-math-is-haunted/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 7
+    },
+    {
+      "title": "agendafs: A filesystem for syncing notes to your calendar",
+      "href": "https://sr.ht/~marcc/agendafs/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
+    },
+    {
+      "title": "The smallest embeddable scripting language, part 1",
+      "href": "https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html",
+      "points": "",
+      "comments": "\n              42 comments",
+      "index": 9
+    },
+    {
+      "title": "Sync primitives are Functionally Complete",
+      "href": "http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 10
+    },
+    {
+      "title": "Our first outage from LLM-written code",
+      "href": "https://sketch.dev/blog/our-first-outage-from-llm-written-code",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 11
+    },
+    {
+      "title": "QUIC for the kernel",
+      "href": "https://lwn.net/Articles/1029851/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 12
+    },
+    {
+      "title": "Ramblings",
+      "href": "https://stephango.com/ramblings",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/twphly/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 14
+    },
+    {
+      "title": "A Dive Into Open Chat Protocols",
+      "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
+      "points": "",
+      "comments": "\n              91 comments",
       "index": 15
+    },
+    {
+      "title": "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
+      "href": "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 16
     },
     {
       "title": "Schematra: Sinatra inspired Chicken web framework",
       "href": "https://github.com/rolandoam/schematra",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Go Assembly Mutation Testing",
       "href": "https://words.filippo.io/assembly-mutation/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Secure boot certificate rollover is real but probably won't hurt you",
       "href": "https://mjg59.dreamwidth.org/72892.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "What is gVisor?",
       "href": "https://blog.yelinaung.com/posts/gvisor/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 19
+      "comments": "\n              6 comments",
+      "index": 20
     },
     {
       "title": "I built my blog with C preprocessor macros",
       "href": "https://wheybags.com/blog/macroblog.html",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "C++26 Reflections adventures & compile time UML",
       "href": "https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "We Asked 100+ AI Models to Write Code. Here’s How Many Failed Security Tests",
       "href": "https://www.veracode.com/blog/genai-code-security-report/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "My favourite German word",
       "href": "https://vurt.org/articles/my-favourite-german-word/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "PyPI Phishing Attack: Incident Report",
-      "href": "https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 24
     },
     {
-      "title": "'Hello world' in Bismuth",
-      "href": "https://enikofox.com/posts/hello-world-in-bismuth/",
+      "title": "Vibe code is legacy code",
+      "href": "https://blog.val.town/vibe-code",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
