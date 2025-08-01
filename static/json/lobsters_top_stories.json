@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, July 31, 2025 at 11:15 PM GMT-5",
+  "date": "Friday, August 1, 2025 at 12:30 AM GMT-5",
   "articles": [
     {
       "title": "You might not need tmux",
       "href": "https://bower.sh/you-might-not-need-tmux",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              20 comments",
       "index": 1
     },
     {
@@ -26,21 +26,21 @@
       "title": "The smallest embeddable scripting language, part 1",
       "href": "https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html",
       "points": "",
-      "comments": "\n              31 comments",
+      "comments": "\n              32 comments",
       "index": 4
+    },
+    {
+      "title": "QUIC for the kernel",
+      "href": "https://lwn.net/Articles/1029851/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 5
     },
     {
       "title": "A Dive Into Open Chat Protocols",
       "href": "https://wiki.alopex.li/ADiveIntoOpenChat",
       "points": "",
       "comments": "\n              88 comments",
-      "index": 5
-    },
-    {
-      "title": "QUIC for the kernel",
-      "href": "https://lwn.net/Articles/1029851/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 6
     },
     {
@@ -65,94 +65,94 @@
       "index": 9
     },
     {
-      "title": "Go Assembly Mutation Testing",
-      "href": "https://words.filippo.io/assembly-mutation/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
-    },
-    {
       "title": "What is gVisor?",
       "href": "https://blog.yelinaung.com/posts/gvisor/",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 11
-    },
-    {
-      "title": "PyPI Phishing Attack: Incident Report",
-      "href": "https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 12
-    },
-    {
-      "title": "Mounting The Atmosphere",
-      "href": "https://oppi.li/posts/mounting_the_atmosphere/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
-    },
-    {
-      "title": "Schematra: Sinatra inspired Chicken web framework",
-      "href": "https://github.com/rolandoam/schematra",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 14
-    },
-    {
-      "title": "In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network",
-      "href": "https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 15
-    },
-    {
-      "title": "We Asked 100+ AI Models to Write Code. Here’s How Many Failed Security Tests",
-      "href": "https://www.veracode.com/blog/genai-code-security-report/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
+      "comments": "\n              5 comments",
+      "index": 10
     },
     {
       "title": "Ramblings",
       "href": "https://stephango.com/ramblings",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "Go Assembly Mutation Testing",
+      "href": "https://words.filippo.io/assembly-mutation/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "PyPI Phishing Attack: Incident Report",
+      "href": "https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 13
+    },
+    {
+      "title": "We Asked 100+ AI Models to Write Code. Here’s How Many Failed Security Tests",
+      "href": "https://www.veracode.com/blog/genai-code-security-report/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
+      "title": "Mounting The Atmosphere",
+      "href": "https://oppi.li/posts/mounting_the_atmosphere/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
+      "title": "Schematra: Sinatra inspired Chicken web framework",
+      "href": "https://github.com/rolandoam/schematra",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 16
+    },
+    {
+      "title": "In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network",
+      "href": "https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 17
+    },
+    {
+      "title": "Our first outage from LLM-written code",
+      "href": "https://sketch.dev/blog/our-first-outage-from-llm-written-code",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
     },
     {
       "title": "The Hype is the Product",
       "href": "https://rys.io/en/180.html",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Vanity import paths in Go (2019)",
       "href": "https://sagikazarmark.hu/blog/vanity-import-paths-in-go/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
-    },
-    {
-      "title": "[RFC] Upstream target support for CHERI-enabled architectures",
-      "href": "https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 20
     },
     {
-      "title": "Go's race detector has a mutex blind spot",
-      "href": "https://doublefree.dev/go-race-mutex-blindspot/",
+      "title": "6 Weeks of Claude Code",
+      "href": "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 21
     },
     {
-      "title": "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
-      "href": "https://yeet.cx/blog/you-are-the-bios-now",
+      "title": "C++26 Reflections adventures & compile time UML",
+      "href": "https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "Community Contributions",
-      "href": "https://philippemnoel.posthaven.com/community-contributions",
+      "title": "[RFC] Upstream target support for CHERI-enabled architectures",
+      "href": "https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 24
     },
     {
-      "title": "Parsing without ASTs and Optimizing with Sea of Nodes",
-      "href": "https://www.youtube.com/watch?v=NxiKlnUtyio",
+      "title": "Go's race detector has a mutex blind spot",
+      "href": "https://doublefree.dev/go-race-mutex-blindspot/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 25
     }
   ]
