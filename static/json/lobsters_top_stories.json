@@ -1,18 +1,18 @@
 {
-  "date": "Saturday, August 2, 2025 at 2:15 PM GMT-5",
+  "date": "Saturday, August 2, 2025 at 3:20 PM GMT-5",
   "articles": [
-    {
-      "title": "It's rude to show AI output to people",
-      "href": "https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/",
-      "points": "",
-      "comments": "\n              43 comments",
-      "index": 1
-    },
     {
       "title": "The /o in Ruby regex stands for “oh the humanity!”",
       "href": "https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              5 comments",
+      "index": 1
+    },
+    {
+      "title": "It's rude to show AI output to people",
+      "href": "https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/",
+      "points": "",
+      "comments": "\n              44 comments",
       "index": 2
     },
     {
@@ -33,19 +33,19 @@
       "title": "This Month in Ladybird - July 2025",
       "href": "https://ladybird.org/newsletter/2025-07-31/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 5
     },
     {
-      "title": "Less Glue, More Product: Why Elixir Shrinks Architectural Complexity",
-      "href": "https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/",
+      "title": "A Bytecode VM for Arithmetic: The Parser",
+      "href": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/",
       "points": "",
       "comments": "\n              no comments",
       "index": 6
     },
     {
-      "title": "A Bytecode VM for Arithmetic: The Parser",
-      "href": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/",
+      "title": "Less Glue, More Product: Why Elixir Shrinks Architectural Complexity",
+      "href": "https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/",
       "points": "",
       "comments": "\n              no comments",
       "index": 7
@@ -61,54 +61,54 @@
       "title": "Wayback 0.2 released",
       "href": "https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 9
-    },
-    {
-      "title": "candyfloss: an ergonomic python library for running video pipelines",
-      "href": "https://git.hella.cheap/bob/candyfloss",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 10
-    },
-    {
-      "title": "The Rubik's Cube Perfect Scramble",
-      "href": "https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
     },
     {
       "title": "How to reverse engineer an analog chip: the TDA7000 FM radio receiver",
       "href": "http://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "candyfloss: an ergonomic python library for running video pipelines",
+      "href": "https://git.hella.cheap/bob/candyfloss",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 11
+    },
+    {
+      "title": "Executing arbitrary Python code from a comment",
+      "href": "https://www.hacktron.ai/blog/posts/python-zip-confusion/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 12
+    },
+    {
+      "title": "The Rubik's Cube Perfect Scramble",
+      "href": "https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
     },
     {
       "title": "Reflections on Matrix criticism over the last week",
       "href": "https://youtu.be/OyuqM7RbX5E",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 13
-    },
-    {
-      "title": "Executing arbitrary Python code from a comment",
-      "href": "https://www.hacktron.ai/blog/posts/python-zip-confusion/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
     },
     {
-      "title": "Unit Testing Principles",
-      "href": "https://olano.dev/blog/unit-testing-principles/",
+      "title": "How NixOS is built",
+      "href": "https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 15
     },
     {
-      "title": "How NixOS is built",
-      "href": "https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/",
+      "title": "Unit Testing Principles",
+      "href": "https://olano.dev/blog/unit-testing-principles/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 16
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Compressing Icelandic name declension patterns into a 3.27 kB trie",
+      "href": "https://alexharri.com/blog/icelandic-name-declension-trie",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "What Declarative Languages Are (2013)",
       "href": "https://semantic-domain.blogspot.com/2013/07/what-declarative-languages-are.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "purgatorio – the WIP 64-bit port of Inferno",
       "href": "https://git.9front.org/plan9front/purgatorio/HEAD/info.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Long Term Support",
       "href": "https://www.sqlite.org/lts.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "If Odin Had Macros",
-      "href": "https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/",
-      "points": "",
-      "comments": "\n              16 comments",
       "index": 25
     }
   ]
