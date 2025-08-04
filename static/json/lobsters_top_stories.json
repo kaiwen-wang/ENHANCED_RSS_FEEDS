@@ -1,18 +1,18 @@
 {
-  "date": "Monday, August 4, 2025 at 3:30 AM GMT-5",
+  "date": "Monday, August 4, 2025 at 4:30 AM GMT-5",
   "articles": [
     {
       "title": "The Q Programming Language",
       "href": "https://git.urbach.dev/cli/q",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              11 comments",
       "index": 1
     },
     {
       "title": "Parse, don’t validate (2019)",
       "href": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
       "points": "",
-      "comments": "\n              48 comments",
+      "comments": "\n              49 comments",
       "index": 2
     },
     {
@@ -65,113 +65,113 @@
       "index": 9
     },
     {
+      "title": "Render your Jupyter notebooks in OpenGist",
+      "href": "https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
       "title": "Tagged Unions are actually quite sexy",
       "href": "https://ciesie.com/post/tagged_unions/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 10
+      "index": 11
+    },
+    {
+      "title": "Unnumbered IPv4 Interfaces",
+      "href": "https://blog.ipspace.net/series/unnumbered-interfaces/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 12
     },
     {
       "title": "A real PowerBook: the Macintosh Application Environment on a PA-RISC laptop",
       "href": "http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 11
-    },
-    {
-      "title": "Render your Jupyter notebooks in OpenGist",
-      "href": "https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "C Language Enum Tips & Tricks (2021)",
       "href": "https://kubyshkin.name/posts/c-language-enums-tips-and-tricks/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Governance in GNOME",
       "href": "https://www.bassi.io",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "The /o in Ruby regex stands for “oh the humanity!”",
       "href": "https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 15
+      "index": 16
     },
     {
-      "title": "Unnumbered IPv4 Interfaces",
-      "href": "https://blog.ipspace.net/series/unnumbered-interfaces/",
+      "title": "More retrocomputing, less nostalgia",
+      "href": "https://datagubbe.se/retnost/",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Practical Static Analysis for Privacy Bugs",
+      "href": "https://blog.brownplt.org/2025/08/03/paralegal.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
     },
     {
       "title": "Injecting Java from native libraries on Android",
       "href": "https://octet-stream.net/b/scb/2025-08-03-injecting-java-from-native-libraries-on-android.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "How do you backup your non-work-related data?",
       "href": "/s/ngo3ex/how_do_you_backup_your_non_work_related",
       "points": "",
       "comments": "\n              40 comments",
-      "index": 18
-    },
-    {
-      "title": "Measuring AI Ability to Complete Long Tasks",
-      "href": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
+      "index": 20
     },
     {
       "title": "AssemblyScript",
       "href": "https://www.assemblyscript.org/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
-      "title": "Twenty Eighth International Obfuscated C Code Contest",
-      "href": "https://www.ioccc.org/2024/index.html",
+      "title": "Measuring AI Ability to Complete Long Tasks",
+      "href": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 21
+      "comments": "\n              1 comment",
+      "index": 22
     },
     {
       "title": "Type Safety Back and Forth",
       "href": "https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "Twenty Eighth International Obfuscated C Code Contest",
+      "href": "https://www.ioccc.org/2024/index.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 24
     },
     {
       "title": "The Future Of Software Is Small",
       "href": "https://www.aparker.io/post/3lvjepuyf4q2w",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 23
-    },
-    {
-      "title": "How to help someone use a computer (1996)",
-      "href": "https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 24
-    },
-    {
-      "title": "Compressing Icelandic name declension patterns into a 3.27 kB trie",
-      "href": "https://alexharri.com/blog/icelandic-name-declension-trie",
       "points": "",
       "comments": "\n              2 comments",
       "index": 25
