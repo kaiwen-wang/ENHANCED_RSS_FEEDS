@@ -1,39 +1,39 @@
 {
-  "date": "Monday, August 4, 2025 at 8:40 AM GMT-5",
+  "date": "Monday, August 4, 2025 at 9:25 AM GMT-5",
   "articles": [
     {
       "title": "The Q Programming Language",
       "href": "https://git.urbach.dev/cli/q",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
       "index": 1
+    },
+    {
+      "title": "Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks",
+      "href": "https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 2
+    },
+    {
+      "title": "The Future is NOT Self-Hosted",
+      "href": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 3
     },
     {
       "title": "So you want to parse a PDF?",
       "href": "https://eliot-jones.com/2025/8/pdf-parsing-xref",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 2
+      "index": 4
     },
     {
       "title": "More retrocomputing, less nostalgia",
       "href": "https://datagubbe.se/retnost/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 3
-    },
-    {
-      "title": "The Future is NOT Self-Hosted",
-      "href": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 4
-    },
-    {
-      "title": "Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks",
-      "href": "https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 5
     },
     {
@@ -44,136 +44,136 @@
       "index": 6
     },
     {
-      "title": "Maybe the Fastest Disk Usage Program on macOS",
-      "href": "https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 7
-    },
-    {
-      "title": "HTMX is hard so let's get it right",
-      "href": "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md",
+      "title": "How Perplexity is Evading Anti-crawling Measures",
+      "href": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
-    },
-    {
-      "title": "Rust, Python, and TypeScript: the new trifecta",
-      "href": "https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 9
+      "index": 7
     },
     {
       "title": "Minimal Scala Container Images using Nix",
       "href": "https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 8
+    },
+    {
+      "title": "Maybe the Fastest Disk Usage Program on macOS",
+      "href": "https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 9
+    },
+    {
+      "title": "Rust, Python, and TypeScript: the new trifecta",
+      "href": "https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 10
+    },
+    {
+      "title": "HTMX is hard so let's get it right",
+      "href": "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 11
     },
     {
       "title": "a parser for typescript types, written in typescript types",
       "href": "https://github.com/easrng/tsints",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "People still use our old-fashioned Unix login servers",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed",
-      "points": "",
-      "comments": "\n              14 comments",
       "index": 12
     },
     {
-      "title": "Render your Jupyter notebooks in OpenGist",
-      "href": "https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist",
+      "title": "How we made JSON.stringify more than twice as fast",
+      "href": "https://v8.dev/blog/json-stringify",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 13
     },
     {
       "title": "A systematic evaluation of OpenBSD’s mitigations (2019)",
       "href": "https://isopenbsdsecu.re/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 14
     },
     {
-      "title": "NUMAI: A spreadsheet where English descriptions are translated into JS formulas thanks to AI",
-      "href": "https://github.com/clauderouxster/NUMAI/tree/main",
+      "title": "People still use our old-fashioned Unix login servers",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              14 comments",
       "index": 15
     },
     {
-      "title": "CriTcl: easily embed C code in Tcl",
-      "href": "https://andreas-kupries.github.io/critcl/",
+      "title": "NetBSD 11.0 release process underway",
+      "href": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Render your Jupyter notebooks in OpenGist",
+      "href": "https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Why Semantic HTML Still Matters",
       "href": "https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "NUMAI: A spreadsheet where English descriptions are translated into JS formulas thanks to AI",
+      "href": "https://github.com/clauderouxster/NUMAI/tree/main",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "CriTcl: easily embed C code in Tcl",
+      "href": "https://andreas-kupries.github.io/critcl/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
     },
     {
       "title": "Writing a good design document",
       "href": "https://grantslatton.com/how-to-design-document",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 21
     },
     {
       "title": "Practical Static Analysis for Privacy Bugs",
       "href": "https://blog.brownplt.org/2025/08/03/paralegal.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 22
     },
     {
       "title": "Unnumbered IPv4 Interfaces",
       "href": "https://blog.ipspace.net/series/unnumbered-interfaces/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 20
+      "index": 23
+    },
+    {
+      "title": "Assuming as Much as Possible",
+      "href": "https://www.youtube.com/watch?v=i-h95QIGchY",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "Measuring AI Ability to Complete Long Tasks",
       "href": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 21
-    },
-    {
-      "title": "Tagged Unions are actually quite sexy",
-      "href": "https://ciesie.com/post/tagged_unions/",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 22
-    },
-    {
-      "title": "God created men; Sam Altman made them equal",
-      "href": "https://taylor.town/made-them-equal",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "A real PowerBook: the Macintosh Application Environment on a PA-RISC laptop",
-      "href": "http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "Governance in GNOME",
-      "href": "https://www.bassi.io",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
