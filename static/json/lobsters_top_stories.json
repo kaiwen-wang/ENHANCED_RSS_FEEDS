@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, August 5, 2025 at 6:20 AM GMT-5",
+  "date": "Tuesday, August 5, 2025 at 7:50 AM GMT-5",
   "articles": [
     {
       "title": "Markdown Monster",
       "href": "https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              32 comments",
       "index": 1
+    },
+    {
+      "title": "AWS deleted my 10-year account and all data without warning",
+      "href": "https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 2
     },
     {
       "title": "How Perplexity is Evading Anti-crawling Measures",
       "href": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
       "points": "",
-      "comments": "\n              59 comments",
-      "index": 2
-    },
-    {
-      "title": "Lisp interpreter with GC in 662 lines of Odin (and <500 lines of C)",
-      "href": "https://github.com/krig/LISP",
-      "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              63 comments",
       "index": 3
     },
     {
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
-      "title": "Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks",
-      "href": "https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks",
+      "title": "Lisp interpreter with GC in 662 lines of Odin (and <500 lines of C)",
+      "href": "https://github.com/krig/LISP",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              7 comments",
       "index": 5
     },
     {
-      "title": "AWS deleted my 10-year account and all data without warning",
-      "href": "https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/",
+      "title": "Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks",
+      "href": "https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              12 comments",
       "index": 6
     },
     {
       "title": "What trick of the trade took you too long to learn?",
       "href": "/s/a1njck/what_trick_trade_took_you_too_long_learn",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              7 comments",
       "index": 7
     },
     {
@@ -61,21 +61,21 @@
       "title": "When vibe coding, isn't the source code the prompt?",
       "href": "https://boston.conman.org/2025/08/04.1",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 9
-    },
-    {
-      "title": "How we made JSON.stringify more than twice as fast",
-      "href": "https://v8.dev/blog/json-stringify",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 10
     },
     {
       "title": "p-fast trie: lexically ordered hash map",
       "href": "https://dotat.at/@/2025-08-04-p-fast-trie.html",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
+      "title": "How we made JSON.stringify more than twice as fast",
+      "href": "https://v8.dev/blog/json-stringify",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 11
     },
     {
@@ -86,59 +86,59 @@
       "index": 12
     },
     {
+      "title": "The PSF has paused our Grants Program",
+      "href": "https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
       "title": "Introducing luzer, a coverage-guided Lua fuzzing engine",
       "href": "https://bronevichok.ru/posts/introducing-luzer.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "More retrocomputing, less nostalgia",
       "href": "https://datagubbe.se/retnost/",
       "points": "",
-      "comments": "\n              10 comments",
-      "index": 14
+      "comments": "\n              12 comments",
+      "index": 15
+    },
+    {
+      "title": "Pragmatism in Programming Proverbs",
+      "href": "https://www.gingerbill.org/article/2020/05/31/progamming-pragmatist-proverbs/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
     },
     {
       "title": "Cordoomceps - replacing an Amiga's brain with Doom",
       "href": "https://mjg59.dreamwidth.org/73001.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 17
     },
     {
       "title": "HTMX is hard so let's get it right",
       "href": "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "My Ideal Array Language",
       "href": "https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Getting Started with Randomised Testing",
       "href": "https://lewiscampbell.tech/blog/250805.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "The Q Programming Language",
-      "href": "https://git.urbach.dev/cli/q",
-      "points": "",
-      "comments": "\n              23 comments",
-      "index": 19
-    },
-    {
-      "title": "Getting an LLM to Play Text Adventures",
-      "href": "https://entropicthoughts.com/getting-an-llm-to-play-text-adventures",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "The Q Programming Language",
+      "href": "https://git.urbach.dev/cli/q",
+      "points": "",
+      "comments": "\n              23 comments",
+      "index": 22
+    },
+    {
+      "title": "Getting an LLM to Play Text Adventures",
+      "href": "https://entropicthoughts.com/getting-an-llm-to-play-text-adventures",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 23
+    },
+    {
       "title": "Rust, Python, and TypeScript: the new trifecta",
       "href": "https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/",
       "points": "",
-      "comments": "\n              30 comments",
-      "index": 22
+      "comments": "\n              31 comments",
+      "index": 24
     },
     {
       "title": "Open Sourcing Shaper: Minimal Data Platform for Embedded Analytics",
       "href": "https://github.com/taleshape-com/shaper",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Pragmatism in Programming Proverbs",
-      "href": "https://www.gingerbill.org/article/2020/05/31/progamming-pragmatist-proverbs/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "NetBSD 11.0 release process underway",
-      "href": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
