@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, August 6, 2025 at 1:30 PM GMT-5",
+  "date": "Wednesday, August 6, 2025 at 2:20 PM GMT-5",
   "articles": [
     {
       "title": "Claude Code IDE integration for Emacs",
       "href": "https://github.com/manzaltu/claude-code-ide.el",
-      "points": "329 points",
-      "comments": "110 comments",
+      "points": "370 points",
+      "comments": "119 comments",
       "index": 1
+    },
+    {
+      "title": "Cognitive Decline Can Be Slowed Down with Lifestyle Changes",
+      "href": "https://www.smithsonianmag.com/smart-news/cognitive-decline-can-be-slowed-down-with-lifestyle-changes-from-diet-to-exercise-and-social-time-new-study-suggests-180987077/",
+      "points": "50 points",
+      "comments": "25 comments",
+      "index": 2
     },
     {
       "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
       "href": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
-      "points": "107 points",
-      "comments": "9 comments",
-      "index": 2
+      "points": "124 points",
+      "comments": "17 comments",
+      "index": 3
     },
     {
-      "title": "Jules, our asynchronous coding agent",
-      "href": "https://blog.google/technology/google-labs/jules-now-available/",
-      "points": "79 points",
-      "comments": "47 comments",
-      "index": 3
+      "title": "A Fast, Growable Array with Stable Pointers in C",
+      "href": "https://danielchasehooper.com/posts/segment_array/",
+      "points": "25 points",
+      "comments": "1 comment",
+      "index": 4
     },
     {
       "title": "Breaking the sorting barrier for directed single-source shortest paths",
       "href": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
-      "points": "87 points",
-      "comments": "16 comments",
-      "index": 4
+      "points": "92 points",
+      "comments": "24 comments",
+      "index": 5
+    },
+    {
+      "title": "Jules, our asynchronous coding agent",
+      "href": "https://blog.google/technology/google-labs/jules-now-available/",
+      "points": "109 points",
+      "comments": "83 comments",
+      "index": 6
     },
     {
       "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
       "href": "https://github.com/KittenML/KittenTTS",
-      "points": "649 points",
-      "comments": "282 comments",
-      "index": 5
+      "points": "665 points",
+      "comments": "287 comments",
+      "index": 7
     },
     {
       "title": "Zig Error Patterns",
       "href": "https://glfmn.io/posts/zig-error-patterns/",
-      "points": "61 points",
-      "comments": "8 comments",
-      "index": 6
-    },
-    {
-      "title": "Why is it worth spending time on type theory? (2013)",
-      "href": "https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory",
-      "points": "27 points",
-      "comments": "3 comments",
-      "index": 7
-    },
-    {
-      "title": "303Gen – 303 acid loops generator",
-      "href": "https://303-gen-06a668.netlify.app/",
-      "points": "101 points",
-      "comments": "30 comments",
+      "points": "75 points",
+      "comments": "13 comments",
       "index": 8
-    },
-    {
-      "title": "Why blocking LLMs from your website is dumb",
-      "href": "https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d",
-      "points": "6 points",
-      "comments": "discuss",
-      "index": 9
     },
     {
       "title": "Multics",
       "href": "https://www.multicians.org/multics.html",
-      "points": "11 points",
-      "comments": "discuss",
+      "points": "29 points",
+      "comments": "4 comments",
+      "index": 9
+    },
+    {
+      "title": "Google says AI in Search is driving more queries and higher quality clicks",
+      "href": "https://blog.google/products/search/ai-search-driving-more-queries-higher-quality-clicks/",
+      "points": "21 points",
+      "comments": "24 comments",
       "index": 10
     },
     {
-      "title": "We shouldn't have needed lockfiles",
-      "href": "https://tonsky.me/blog/lockfiles/",
-      "points": "47 points",
-      "comments": "112 comments",
+      "title": "Why is it worth spending time on type theory? (2013)",
+      "href": "https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory",
+      "points": "37 points",
+      "comments": "8 comments",
       "index": 11
-    },
-    {
-      "title": "Show HN: Sinkzone DNS – Forwarder that blocks everything except your allowlist",
-      "href": "https://github.com/berbyte/sinkzone",
-      "points": "39 points",
-      "comments": "24 comments",
-      "index": 12
-    },
-    {
-      "title": "The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals",
-      "href": "https://books.open.tudelft.nl/home/catalog/book/11",
-      "points": "45 points",
-      "comments": "16 comments",
-      "index": 13
-    },
-    {
-      "title": "About the BLOBs in Ventoy",
-      "href": "https://github.com/ventoy/Ventoy/issues/3224",
-      "points": "91 points",
-      "comments": "28 comments",
-      "index": 14
-    },
-    {
-      "title": "Qwen3-4B-Thinking-2507",
-      "href": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507",
-      "points": "109 points",
-      "comments": "23 comments",
-      "index": 15
-    },
-    {
-      "title": "NautilusTrader: Open-source algorithmic trading platform",
-      "href": "https://nautilustrader.io/",
-      "points": "153 points",
-      "comments": "82 comments",
-      "index": 16
-    },
-    {
-      "title": "When is the next caltrain? (minimal webapp)",
-      "href": "https://erikschluntz.com/caltrain",
-      "points": "16 points",
-      "comments": "11 comments",
-      "index": 17
-    },
-    {
-      "title": "Dotfiles feel too personal to share",
-      "href": "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/",
-      "points": "129 points",
-      "comments": "100 comments",
-      "index": 18
-    },
-    {
-      "title": "The Origin of Cisco Systems",
-      "href": "https://www.tcracs.org/tcrwp/1origin-of-cisco/",
-      "points": "40 points",
-      "comments": "5 comments",
-      "index": 19
-    },
-    {
-      "title": "Wild pigs' flesh turning neon blue in California: Authorities sounding the alarm",
-      "href": "https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html",
-      "points": "38 points",
-      "comments": "14 comments",
-      "index": 20
-    },
-    {
-      "title": "Google suffers data breach in ongoing Salesforce data theft attacks",
-      "href": "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/",
-      "points": "147 points",
-      "comments": "60 comments",
-      "index": 21
-    },
-    {
-      "title": "The internet wants to check your ID",
-      "href": "https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id",
-      "points": "46 points",
-      "comments": "60 comments",
-      "index": 22
-    },
-    {
-      "title": "NetBird Is Embracing the AGPLv3 License",
-      "href": "https://netbird.io/knowledge-hub/netbird-agpl-announcement",
-      "points": "73 points",
-      "comments": "49 comments",
-      "index": 23
-    },
-    {
-      "title": "Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM",
-      "href": "https://github.com/shutootaki/bookwith",
-      "points": "47 points",
-      "comments": "43 comments",
-      "index": 24
-    },
-    {
-      "title": "How to Scale Proteomics",
-      "href": "https://www.asimov.press/p/proteomics",
-      "points": "22 points",
-      "comments": "7 comments",
-      "index": 25
     },
     {
       "title": "Gleam v1.12.0 Released",
       "href": "https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md",
-      "points": "9 points",
+      "points": "48 points",
+      "comments": "7 comments",
+      "index": 12
+    },
+    {
+      "title": "Blocking LLMs from your website cuts you off from next-generation search",
+      "href": "https://johnjianwang.medium.com/why-blocking-llms-from-your-website-is-dumb-3dc7c3c9097d",
+      "points": "16 points",
+      "comments": "17 comments",
+      "index": 13
+    },
+    {
+      "title": "303Gen – 303 acid loops generator",
+      "href": "https://303-gen-06a668.netlify.app/",
+      "points": "112 points",
+      "comments": "35 comments",
+      "index": 14
+    },
+    {
+      "title": "Show HN: Sinkzone DNS – Forwarder that blocks everything except your allowlist",
+      "href": "https://github.com/berbyte/sinkzone",
+      "points": "43 points",
+      "comments": "28 comments",
+      "index": 15
+    },
+    {
+      "title": "States and Cities Decimated Americans' Lowest-Cost Housing Option",
+      "href": "https://www.pew.org/en/research-and-analysis/issue-briefs/2025/07/how-states-and-cities-decimated-americans-lowest-cost-housing-option",
+      "points": "3 points",
       "comments": "discuss",
+      "index": 16
+    },
+    {
+      "title": "The 1090 Megahertz Riddle: A Guide to Decoding Mode S and ADS-B Signals",
+      "href": "https://books.open.tudelft.nl/home/catalog/book/11",
+      "points": "55 points",
+      "comments": "17 comments",
+      "index": 17
+    },
+    {
+      "title": "About the BLOBs in Ventoy",
+      "href": "https://github.com/ventoy/Ventoy/issues/3224",
+      "points": "97 points",
+      "comments": "31 comments",
+      "index": 18
+    },
+    {
+      "title": "Qwen3-4B-Thinking-2507",
+      "href": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507",
+      "points": "125 points",
+      "comments": "38 comments",
+      "index": 19
+    },
+    {
+      "title": "The Origin of Cisco Systems",
+      "href": "https://www.tcracs.org/tcrwp/1origin-of-cisco/",
+      "points": "48 points",
+      "comments": "8 comments",
+      "index": 20
+    },
+    {
+      "title": "We shouldn't have needed lockfiles",
+      "href": "https://tonsky.me/blog/lockfiles/",
+      "points": "56 points",
+      "comments": "134 comments",
+      "index": 21
+    },
+    {
+      "title": "Dotfiles feel too personal to share",
+      "href": "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/",
+      "points": "138 points",
+      "comments": "112 comments",
+      "index": 22
+    },
+    {
+      "title": "When is the next caltrain? (minimal webapp)",
+      "href": "https://erikschluntz.com/caltrain",
+      "points": "21 points",
+      "comments": "22 comments",
+      "index": 23
+    },
+    {
+      "title": "The internet wants to check your ID",
+      "href": "https://www.newyorker.com/culture/infinite-scroll/the-internet-wants-to-check-your-id",
+      "points": "72 points",
+      "comments": "84 comments",
+      "index": 24
+    },
+    {
+      "title": "Google suffers data breach in ongoing Salesforce data theft attacks",
+      "href": "https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/",
+      "points": "164 points",
+      "comments": "70 comments",
+      "index": 25
+    },
+    {
+      "title": "NautilusTrader: Open-source algorithmic trading platform",
+      "href": "https://nautilustrader.io/",
+      "points": "160 points",
+      "comments": "95 comments",
       "index": 26
+    },
+    {
+      "title": "Wild pigs' flesh turning neon blue in California: Authorities sounding the alarm",
+      "href": "https://phys.org/news/2025-08-wild-pigs-flesh-neon-blue.html",
+      "points": "59 points",
+      "comments": "35 comments",
+      "index": 27
+    },
+    {
+      "title": "Show HN: An Open-Source E-Book Reader for Conversational Reading with an LLM",
+      "href": "https://github.com/shutootaki/bookwith",
+      "points": "53 points",
+      "comments": "43 comments",
+      "index": 28
+    },
+    {
+      "title": "Realizing we needed two sorts of alerts for our temperature monitoring",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomTempTwoSortsOfAlerts",
+      "points": "8 points",
+      "comments": "2 comments",
+      "index": 29
     },
     {
       "title": "Python performance myths and fairy tales",
       "href": "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/",
-      "points": "170 points",
-      "comments": "152 comments",
-      "index": 27
-    },
-    {
-      "title": "Providing ChatGPT to the U.S. federal workforce",
-      "href": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce/",
-      "points": "121 points",
-      "comments": "142 comments",
-      "index": 28
-    },
-    {
-      "title": "Critcl – C Runtime in Tcl",
-      "href": "https://andreas-kupries.github.io/critcl/",
-      "points": "50 points",
-      "comments": "14 comments",
-      "index": 29
-    },
-    {
-      "title": "Open models by OpenAI",
-      "href": "https://openai.com/open-models/",
-      "points": "2026 points",
-      "comments": "800 comments",
+      "points": "178 points",
+      "comments": "161 comments",
       "index": 30
     }
   ]
