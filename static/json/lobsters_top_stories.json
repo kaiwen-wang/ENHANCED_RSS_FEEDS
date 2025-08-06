@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, August 5, 2025 at 10:45 PM GMT-5",
+  "date": "Tuesday, August 5, 2025 at 11:45 PM GMT-5",
   "articles": [
     {
       "title": "Gleam v1.12.0 released",
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
+      "title": "Be Careful with Go Struct Embedding",
+      "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 4
+    },
+    {
       "title": "Markdown Monster",
       "href": "https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md",
       "points": "",
       "comments": "\n              63 comments",
-      "index": 4
-    },
-    {
-      "title": "Be Careful with Go Struct Embedding",
-      "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 5
     },
     {
@@ -47,7 +47,7 @@
       "title": "What trick of the trade took you too long to learn?",
       "href": "/s/a1njck/what_trick_trade_took_you_too_long_learn",
       "points": "",
-      "comments": "\n              43 comments",
+      "comments": "\n              44 comments",
       "index": 7
     },
     {
@@ -79,85 +79,85 @@
       "index": 11
     },
     {
-      "title": "Getting Started with Randomised Testing",
-      "href": "https://lewiscampbell.tech/blog/250805.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 12
-    },
-    {
-      "title": "Proxmox Virtual Environment 9.0 with Debian 13 released",
-      "href": "https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0",
+      "title": "cosmopolitan: build-once run-anywhere c library",
+      "href": "https://github.com/jart/cosmopolitan",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "How Perplexity is Evading Anti-crawling Measures",
-      "href": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
-      "points": "",
-      "comments": "\n              82 comments",
-      "index": 14
+      "index": 12
     },
     {
       "title": "Rod Burstall: In Memoriam",
       "href": "https://arxiv.org/html/2505.06456v1",
       "points": "",
       "comments": "\n              6 comments",
+      "index": 13
+    },
+    {
+      "title": "Getting Started with Randomised Testing",
+      "href": "https://lewiscampbell.tech/blog/250805.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 14
+    },
+    {
+      "title": "Proxmox Virtual Environment 9.0 with Debian 13 released",
+      "href": "https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 15
     },
     {
-      "title": "Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks",
-      "href": "https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks",
+      "title": "How Perplexity is Evading Anti-crawling Measures",
+      "href": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              82 comments",
       "index": 16
-    },
-    {
-      "title": "The PSF has paused our Grants Program",
-      "href": "https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 17
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/99dxb4/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 18
-    },
-    {
-      "title": "Open models by OpenAI",
-      "href": "https://openai.com/open-models/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
     },
     {
       "title": "Digital hygiene: Emails",
       "href": "https://herman.bearblog.dev/digital-hygiene-emails/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks",
+      "href": "https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 18
+    },
+    {
+      "title": "The PSF has paused our Grants Program",
+      "href": "https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 19
+    },
+    {
+      "title": "Open models by OpenAI",
+      "href": "https://openai.com/open-models/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 20
     },
     {
-      "title": "cosmopolitan: build-once run-anywhere c library",
-      "href": "https://github.com/jart/cosmopolitan",
+      "title": "What are you doing this week?",
+      "href": "/s/99dxb4/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              13 comments",
       "index": 21
     },
     {
-      "title": "What I Wish I Knew When Learning Picat",
-      "href": "https://github.com/dsagman/picat",
+      "title": "A SPARC makes a little fire",
+      "href": "https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
     },
     {
-      "title": "A SPARC makes a little fire",
-      "href": "https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html",
+      "title": "What I Wish I Knew When Learning Picat",
+      "href": "https://github.com/dsagman/picat",
       "points": "",
       "comments": "\n              no comments",
       "index": 23
