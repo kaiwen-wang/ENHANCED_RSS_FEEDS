@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, August 6, 2025 at 7:45 AM GMT-5",
+  "date": "Wednesday, August 6, 2025 at 8:40 AM GMT-5",
   "articles": [
     {
       "title": "Gleam v1.12.0 released",
       "href": "https://gleam.run/news/no-more-dependency-management-headaches/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 1
     },
     {
@@ -16,10 +16,10 @@
       "index": 2
     },
     {
-      "title": "Be Careful with Go Struct Embedding",
-      "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html",
+      "title": "The how and why of GitHub to Codeberg",
+      "href": "https://www.arscyni.cc/file/codeberg.html",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              no comments",
       "index": 3
     },
     {
@@ -30,78 +30,78 @@
       "index": 4
     },
     {
+      "title": "Be Careful with Go Struct Embedding",
+      "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 5
+    },
+    {
       "title": "Rethinking devtools: Escaping the Cloud and SaaS trap",
       "href": "/s/dstkgd/rethinking_devtools_escaping_cloud_saas",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 5
+      "comments": "\n              7 comments",
+      "index": 6
     },
     {
       "title": "Why are Windows semiannual updates named H1 and H2?",
       "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Quickshell, building blocks for your desktop",
       "href": "https://quickshell.org/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 7
-    },
-    {
-      "title": "The how and why of GitHub to Codeberg",
-      "href": "https://www.arscyni.cc/file/codeberg.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 8
-    },
-    {
-      "title": "Markdown Monster",
-      "href": "https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md",
-      "points": "",
-      "comments": "\n              76 comments",
-      "index": 9
     },
     {
       "title": "No, AI is not Making Engineers 10x as Productive",
       "href": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 10
-    },
-    {
-      "title": "What trick of the trade took you too long to learn?",
-      "href": "/s/a1njck/what_trick_trade_took_you_too_long_learn",
-      "points": "",
-      "comments": "\n              57 comments",
-      "index": 11
-    },
-    {
-      "title": "A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional",
-      "href": "http://blog.vmchale.com/article/escardo-oliva-functional",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
+      "comments": "\n              5 comments",
+      "index": 9
     },
     {
       "title": "cosmopolitan: build-once run-anywhere c library",
       "href": "https://github.com/jart/cosmopolitan",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 13
+      "index": 10
     },
     {
-      "title": "Omarchy is on the move",
-      "href": "https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4?__readwiseLocation=",
+      "title": "Markdown Monster",
+      "href": "https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md",
+      "points": "",
+      "comments": "\n              76 comments",
+      "index": 11
+    },
+    {
+      "title": "What trick of the trade took you too long to learn?",
+      "href": "/s/a1njck/what_trick_trade_took_you_too_long_learn",
+      "points": "",
+      "comments": "\n              59 comments",
+      "index": 12
+    },
+    {
+      "title": "A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional",
+      "href": "http://blog.vmchale.com/article/escardo-oliva-functional",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 13
     },
     {
       "title": "Gate-level emulation of an Intel 4004 in 4004 bytes of C",
       "href": "https://nicholas.carlini.com/writing/2025/ioccc-intel-4004-in-4004-bytes-c.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
+      "title": "Omarchy is on the move",
+      "href": "https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4?__readwiseLocation=",
       "points": "",
       "comments": "\n              no comments",
       "index": 15
@@ -114,38 +114,38 @@
       "index": 16
     },
     {
-      "title": "Every reason why I hate AI",
-      "href": "https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 17
-    },
-    {
       "title": "Digital hygiene: Emails",
       "href": "https://herman.bearblog.dev/digital-hygiene-emails/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 18
-    },
-    {
-      "title": "Lisp interpreter with GC in 662 lines of Odin (and <500 lines of C)",
-      "href": "https://github.com/krig/LISP",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 19
-    },
-    {
-      "title": "Zigzag Number Spiral",
-      "href": "https://susam.net/zigzag-number-spiral.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
+      "index": 17
     },
     {
       "title": "The wall confronting large language models",
       "href": "https://arxiv.org/abs/2507.19703",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
+      "title": "Every reason why I hate AI",
+      "href": "https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html",
+      "points": "",
+      "comments": "\n              19 comments",
+      "index": 19
+    },
+    {
+      "title": "Lisp interpreter with GC in 662 lines of Odin (and <500 lines of C)",
+      "href": "https://github.com/krig/LISP",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 20
+    },
+    {
+      "title": "Zigzag Number Spiral",
+      "href": "https://susam.net/zigzag-number-spiral.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Getting Started with Randomised Testing",
-      "href": "https://lewiscampbell.tech/blog/250805.html",
+      "title": "More than Two Hard Disks in DOS",
+      "href": "https://www.os2museum.com/wp/more-than-two-hard-disks-in-dos/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
