@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, August 6, 2025 at 5:20 PM GMT-5",
+  "date": "Wednesday, August 6, 2025 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "The how and why of GitHub to Codeberg",
@@ -12,56 +12,56 @@
       "title": "We shouldn’t have needed lockfiles",
       "href": "https://tonsky.me/blog/lockfiles/",
       "points": "",
-      "comments": "\n              35 comments",
+      "comments": "\n              41 comments",
       "index": 2
+    },
+    {
+      "title": "Litestar is worth a look",
+      "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 3
     },
     {
       "title": "A Fast, Growable Array With Stable Pointers in C",
       "href": "https://danielchasehooper.com/posts/segment_array/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Why hx-boost is actually the most important feature of htmx",
       "href": "https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 4
-    },
-    {
-      "title": "Litestar is worth a look",
-      "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 5
     },
     {
       "title": "Why are Windows semiannual updates named H1 and H2?",
       "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 6
+    },
+    {
+      "title": "zig-error-patterns",
+      "href": "https://glfmn.io/posts/zig-error-patterns/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 7
     },
     {
       "title": "Gleam v1.12.0 released",
       "href": "https://gleam.run/news/no-more-dependency-management-headaches/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "TIL that You can spot base64 encoded JSON, certificates, and private keys",
       "href": "https://ergaster.org/til/base64-encoded-json/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 8
-    },
-    {
-      "title": "zig-error-patterns",
-      "href": "https://glfmn.io/posts/zig-error-patterns/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 9
     },
     {
@@ -103,77 +103,77 @@
       "title": "Have you ever regretted open-sourcing something?",
       "href": "/s/uvvpzo/have_you_ever_regretted_open_sourcing",
       "points": "",
-      "comments": "\n              37 comments",
+      "comments": "\n              36 comments",
       "index": 15
-    },
-    {
-      "title": "New Method Is the Fastest Way To Find the Best Routes",
-      "href": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 16
-    },
-    {
-      "title": "Dotfiles feel too intimate and personal to share",
-      "href": "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 17
-    },
-    {
-      "title": "No, AI is not Making Engineers 10x as Productive",
-      "href": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 18
-    },
-    {
-      "title": "What Happens When You Start Panic!ing",
-      "href": "https://www.youtube.com/watch?v=GsnwR-Doeeo",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional",
-      "href": "http://blog.vmchale.com/article/escardo-oliva-functional",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "Implementing Viewstamped Replication protocol (2023)",
-      "href": "https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Quickshell, building blocks for your desktop",
-      "href": "https://quickshell.org/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 22
     },
     {
       "title": "comptime.ts — compile-time expressions for TypeScript",
       "href": "https://comptime.js.org/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "New Method Is the Fastest Way To Find the Best Routes",
+      "href": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 17
+    },
+    {
+      "title": "Implementing Viewstamped Replication protocol (2023)",
+      "href": "https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "No, AI is not Making Engineers 10x as Productive",
+      "href": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 19
+    },
+    {
+      "title": "Dotfiles feel too intimate and personal to share",
+      "href": "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 20
+    },
+    {
+      "title": "A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional",
+      "href": "http://blog.vmchale.com/article/escardo-oliva-functional",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "What Happens When You Start Panic!ing",
+      "href": "https://www.youtube.com/watch?v=GsnwR-Doeeo",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Quickshell, building blocks for your desktop",
+      "href": "https://quickshell.org/",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 23
+    },
+    {
+      "title": "Out-Fibbing CPython with the Plush Interpreter",
+      "href": "https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "An easy-to-implement, arena-friendly hash map",
       "href": "https://nullprogram.com/blog/2023/09/30/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "One Billion Row Challenge (2024)",
-      "href": "https://curiouscoding.nl/posts/1brc/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
