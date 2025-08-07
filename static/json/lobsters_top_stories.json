@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, August 7, 2025 at 2:25 AM GMT-5",
+  "date": "Thursday, August 7, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "The how and why of GitHub to Codeberg",
@@ -12,14 +12,14 @@
       "title": "Litestar is worth a look",
       "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 2
     },
     {
       "title": "We shouldn’t have needed lockfiles",
       "href": "https://tonsky.me/blog/lockfiles/",
       "points": "",
-      "comments": "\n              58 comments",
+      "comments": "\n              59 comments",
       "index": 3
     },
     {
@@ -37,141 +37,141 @@
       "index": 5
     },
     {
-      "title": "zig-error-patterns",
-      "href": "https://glfmn.io/posts/zig-error-patterns/",
+      "title": "TUI version of dmidecode tool",
+      "href": "https://github.com/pythops/dmitui",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 6
-    },
-    {
-      "title": "Why are Windows semiannual updates named H1 and H2?",
-      "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 7
-    },
-    {
-      "title": "HTTP/1.1 must die: the desync endgame",
-      "href": "https://portswigger.net/research/http1-must-die",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 8
     },
     {
       "title": "RFC 9457 - Problem Details for HTTP APIs",
       "href": "https://datatracker.ietf.org/doc/html/rfc9457",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
+      "index": 7
     },
     {
-      "title": "uBlock Origin Lite for Safari",
-      "href": "https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/",
+      "title": "zig-error-patterns",
+      "href": "https://glfmn.io/posts/zig-error-patterns/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 10
-    },
-    {
-      "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
-      "href": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 11
-    },
-    {
-      "title": "onion-lang",
-      "href": "https://github.com/sjrsjz/onion-lang",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 12
-    },
-    {
-      "title": "Gleam v1.12.0 released",
-      "href": "https://gleam.run/news/no-more-dependency-management-headaches/",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 13
-    },
-    {
-      "title": "TIL that You can spot base64 encoded JSON, certificates, and private keys",
-      "href": "https://ergaster.org/til/base64-encoded-json/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 14
+      "index": 8
     },
     {
       "title": "The Bluesky Dictionary",
       "href": "https://www.avibagla.com/blueskydictionary/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "Why are Windows semiannual updates named H1 and H2?",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 10
+    },
+    {
+      "title": "HTTP/1.1 must die: the desync endgame",
+      "href": "https://portswigger.net/research/http1-must-die",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 11
+    },
+    {
+      "title": "uBlock Origin Lite for Safari",
+      "href": "https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 12
+    },
+    {
+      "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
+      "href": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 13
+    },
+    {
+      "title": "onion-lang",
+      "href": "https://github.com/sjrsjz/onion-lang",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 14
+    },
+    {
+      "title": "Gleam v1.12.0 released",
+      "href": "https://gleam.run/news/no-more-dependency-management-headaches/",
+      "points": "",
+      "comments": "\n              14 comments",
       "index": 15
+    },
+    {
+      "title": "TIL that You can spot base64 encoded JSON, certificates, and private keys",
+      "href": "https://ergaster.org/til/base64-encoded-json/",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 16
     },
     {
       "title": "Be Careful with Go Struct Embedding",
       "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "comptime.ts — compile-time expressions for TypeScript",
       "href": "https://comptime.js.org/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Rethinking devtools: Escaping the Cloud and SaaS trap",
       "href": "/s/dstkgd/rethinking_devtools_escaping_cloud_saas",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Bag of words, have mercy on us",
       "href": "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Reasoning about systems' state spaces",
       "href": "https://youtu.be/d9cM8f_qSLQ",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "One Billion Row Challenge (2024)",
       "href": "https://curiouscoding.nl/posts/1brc/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Python performance myths and fairy tales",
       "href": "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "New Method Is the Fastest Way To Find the Best Routes",
       "href": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 23
-    },
-    {
-      "title": "Have you ever regretted open-sourcing something?",
-      "href": "/s/uvvpzo/have_you_ever_regretted_open_sourcing",
-      "points": "",
-      "comments": "\n              38 comments",
       "index": 24
     },
     {
-      "title": "Implementing Viewstamped Replication protocol (2023)",
-      "href": "https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/",
+      "title": "Jujutsu support in Reviewboard",
+      "href": "https://reviews.reviewboard.org/r/14336/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
