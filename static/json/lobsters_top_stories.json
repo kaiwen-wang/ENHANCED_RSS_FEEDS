@@ -1,46 +1,46 @@
 {
-  "date": "Wednesday, August 6, 2025 at 6:20 PM GMT-5",
+  "date": "Wednesday, August 6, 2025 at 8:50 PM GMT-5",
   "articles": [
     {
       "title": "The how and why of GitHub to Codeberg",
       "href": "https://www.arscyni.cc/file/codeberg.html",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
       "title": "We shouldn’t have needed lockfiles",
       "href": "https://tonsky.me/blog/lockfiles/",
       "points": "",
-      "comments": "\n              41 comments",
+      "comments": "\n              46 comments",
       "index": 2
     },
     {
       "title": "Litestar is worth a look",
       "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              5 comments",
       "index": 3
     },
     {
       "title": "A Fast, Growable Array With Stable Pointers in C",
       "href": "https://danielchasehooper.com/posts/segment_array/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 4
     },
     {
       "title": "Why hx-boost is actually the most important feature of htmx",
       "href": "https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 5
     },
     {
       "title": "Why are Windows semiannual updates named H1 and H2?",
       "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              11 comments",
       "index": 6
     },
     {
@@ -54,7 +54,7 @@
       "title": "Gleam v1.12.0 released",
       "href": "https://gleam.run/news/no-more-dependency-management-headaches/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 8
     },
     {
@@ -75,42 +75,42 @@
       "title": "Rethinking devtools: Escaping the Cloud and SaaS trap",
       "href": "/s/dstkgd/rethinking_devtools_escaping_cloud_saas",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 11
+    },
+    {
+      "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
+      "href": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 12
     },
     {
       "title": "Bag of words, have mercy on us",
       "href": "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Python performance myths and fairy tales",
       "href": "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 13
-    },
-    {
-      "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
-      "href": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
-    },
-    {
-      "title": "Have you ever regretted open-sourcing something?",
-      "href": "/s/uvvpzo/have_you_ever_regretted_open_sourcing",
-      "points": "",
-      "comments": "\n              36 comments",
-      "index": 15
     },
     {
       "title": "comptime.ts — compile-time expressions for TypeScript",
       "href": "https://comptime.js.org/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Have you ever regretted open-sourcing something?",
+      "href": "/s/uvvpzo/have_you_ever_regretted_open_sourcing",
+      "points": "",
+      "comments": "\n              36 comments",
       "index": 16
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
-      "title": "Implementing Viewstamped Replication protocol (2023)",
-      "href": "https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/",
+      "title": "One Billion Row Challenge (2024)",
+      "href": "https://curiouscoding.nl/posts/1brc/",
       "points": "",
       "comments": "\n              no comments",
       "index": 18
-    },
-    {
-      "title": "No, AI is not Making Engineers 10x as Productive",
-      "href": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 19
-    },
-    {
-      "title": "Dotfiles feel too intimate and personal to share",
-      "href": "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 20
     },
     {
       "title": "A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional",
       "href": "http://blog.vmchale.com/article/escardo-oliva-functional",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Implementing Viewstamped Replication protocol (2023)",
+      "href": "https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "No, AI is not Making Engineers 10x as Productive",
+      "href": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 21
+    },
+    {
+      "title": "Dotfiles feel too intimate and personal to share",
+      "href": "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 22
+    },
+    {
+      "title": "uBlock Origin Lite for Safari",
+      "href": "https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "What Happens When You Start Panic!ing",
       "href": "https://www.youtube.com/watch?v=GsnwR-Doeeo",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Quickshell, building blocks for your desktop",
       "href": "https://quickshell.org/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 23
-    },
-    {
-      "title": "Out-Fibbing CPython with the Plush Interpreter",
-      "href": "https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "An easy-to-implement, arena-friendly hash map",
-      "href": "https://nullprogram.com/blog/2023/09/30/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
