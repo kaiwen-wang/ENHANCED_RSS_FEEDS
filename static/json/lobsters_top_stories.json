@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, August 7, 2025 at 12:30 AM GMT-5",
+  "date": "Thursday, August 7, 2025 at 1:35 AM GMT-5",
   "articles": [
     {
       "title": "The how and why of GitHub to Codeberg",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
-      "title": "We shouldn’t have needed lockfiles",
-      "href": "https://tonsky.me/blog/lockfiles/",
-      "points": "",
-      "comments": "\n              56 comments",
-      "index": 2
-    },
-    {
       "title": "Litestar is worth a look",
       "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 2
+    },
+    {
+      "title": "We shouldn’t have needed lockfiles",
+      "href": "https://tonsky.me/blog/lockfiles/",
+      "points": "",
+      "comments": "\n              58 comments",
       "index": 3
     },
     {
@@ -51,129 +51,129 @@
       "index": 7
     },
     {
+      "title": "HTTP/1.1 must die: the desync endgame",
+      "href": "https://portswigger.net/research/http1-must-die",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 8
+    },
+    {
+      "title": "uBlock Origin Lite for Safari",
+      "href": "https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 9
+    },
+    {
       "title": "Gleam v1.12.0 released",
       "href": "https://gleam.run/news/no-more-dependency-management-headaches/",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 8
+      "index": 10
     },
     {
       "title": "TIL that You can spot base64 encoded JSON, certificates, and private keys",
       "href": "https://ergaster.org/til/base64-encoded-json/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 9
+      "index": 11
     },
     {
-      "title": "uBlock Origin Lite for Safari",
-      "href": "https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/",
+      "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
+      "href": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 10
+      "index": 12
     },
     {
-      "title": "HTTP/1.1 must die: the desync endgame",
-      "href": "https://portswigger.net/research/http1-must-die",
+      "title": "onion-lang",
+      "href": "https://github.com/sjrsjz/onion-lang",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 11
+      "comments": "\n              1 comment",
+      "index": 13
     },
     {
       "title": "Be Careful with Go Struct Embedding",
       "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 12
+      "index": 14
     },
     {
       "title": "comptime.ts — compile-time expressions for TypeScript",
       "href": "https://comptime.js.org/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 15
     },
     {
       "title": "Rethinking devtools: Escaping the Cloud and SaaS trap",
       "href": "/s/dstkgd/rethinking_devtools_escaping_cloud_saas",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 14
-    },
-    {
-      "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
-      "href": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Bag of words, have mercy on us",
       "href": "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 16
+      "index": 17
+    },
+    {
+      "title": "Reasoning about systems' state spaces",
+      "href": "https://youtu.be/d9cM8f_qSLQ",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 18
     },
     {
       "title": "Python performance myths and fairy tales",
       "href": "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 17
-    },
-    {
-      "title": "Have you ever regretted open-sourcing something?",
-      "href": "/s/uvvpzo/have_you_ever_regretted_open_sourcing",
-      "points": "",
-      "comments": "\n              37 comments",
-      "index": 18
-    },
-    {
-      "title": "New Method Is the Fastest Way To Find the Best Routes",
-      "href": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 19
-    },
-    {
-      "title": "One Billion Row Challenge (2024)",
-      "href": "https://curiouscoding.nl/posts/1brc/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
     },
     {
       "title": "The Bluesky Dictionary",
       "href": "https://www.avibagla.com/blueskydictionary/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Have you ever regretted open-sourcing something?",
+      "href": "/s/uvvpzo/have_you_ever_regretted_open_sourcing",
+      "points": "",
+      "comments": "\n              37 comments",
       "index": 21
     },
     {
-      "title": "onion-lang",
-      "href": "https://github.com/sjrsjz/onion-lang",
+      "title": "New Method Is the Fastest Way To Find the Best Routes",
+      "href": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 22
     },
     {
-      "title": "A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional",
-      "href": "http://blog.vmchale.com/article/escardo-oliva-functional",
+      "title": "One Billion Row Challenge (2024)",
+      "href": "https://curiouscoding.nl/posts/1brc/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 23
+    },
+    {
+      "title": "RFC 9457 - Problem Details for HTTP APIs",
+      "href": "https://datatracker.ietf.org/doc/html/rfc9457",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "No, AI is not Making Engineers 10x as Productive",
       "href": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 24
-    },
-    {
-      "title": "Implementing Viewstamped Replication protocol (2023)",
-      "href": "https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
