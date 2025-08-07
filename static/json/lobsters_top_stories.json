@@ -1,39 +1,39 @@
 {
-  "date": "Thursday, August 7, 2025 at 11:30 AM GMT-5",
+  "date": "Thursday, August 7, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
-      "title": "Litestar is worth a look",
-      "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+      "title": "We replaced passwords with something worse",
+      "href": "https://blog.danielh.cc/blog/passwords",
       "points": "",
       "comments": "\n              13 comments",
       "index": 1
     },
     {
-      "title": "Announcing Rust 1.89.0",
-      "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
+      "title": "Litestar is worth a look",
+      "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              13 comments",
       "index": 2
     },
     {
-      "title": "We replaced passwords with something worse",
-      "href": "https://blog.danielh.cc/blog/passwords",
+      "title": "Announcing Rust 1.89.0",
+      "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              4 comments",
       "index": 3
-    },
-    {
-      "title": "The how and why of GitHub to Codeberg",
-      "href": "https://www.arscyni.cc/file/codeberg.html",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 4
     },
     {
       "title": "Jepsen: Capela dda5892",
       "href": "https://jepsen.io/analyses/capela-dda5892",
       "points": "",
       "comments": "\n              no comments",
+      "index": 4
+    },
+    {
+      "title": "The how and why of GitHub to Codeberg",
+      "href": "https://www.arscyni.cc/file/codeberg.html",
+      "points": "",
+      "comments": "\n              19 comments",
       "index": 5
     },
     {
@@ -44,73 +44,73 @@
       "index": 6
     },
     {
+      "title": "Asahi Linux Progress Report: Linux 6.16",
+      "href": "https://asahilinux.org/2025/08/progress-report-6-16/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "Google Confirms It Has Been Hacked — Warns User Data Stolen",
+      "href": "https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
       "title": "A Fast, Growable Array With Stable Pointers in C",
       "href": "https://danielchasehooper.com/posts/segment_array/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 7
+      "index": 9
+    },
+    {
+      "title": "Live coding sucks",
+      "href": "https://hadid.dev/posts/living-coding/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 10
     },
     {
       "title": "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
       "href": "https://xorvoid.com/forsp.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
-    },
-    {
-      "title": "Live coding sucks",
-      "href": "https://hadid.dev/posts/living-coding/",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 9
-    },
-    {
-      "title": "HTTP/1.1 must die: the desync endgame",
-      "href": "https://portswigger.net/research/http1-must-die",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "More shell tricks: first class lists, jq, and the es shell",
       "href": "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
+    },
+    {
+      "title": "HTTP/1.1 must die: the desync endgame",
+      "href": "https://portswigger.net/research/http1-must-die",
+      "points": "",
+      "comments": "\n              23 comments",
+      "index": 13
+    },
+    {
+      "title": "Nixpkgs module system config modules graph",
+      "href": "https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
     },
     {
       "title": "Why hx-boost is actually the most important feature of htmx",
       "href": "https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 12
-    },
-    {
-      "title": "Asahi Linux Progress Report: Linux 6.16",
-      "href": "https://asahilinux.org/2025/08/progress-report-6-16/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "The Bluesky Dictionary",
-      "href": "https://www.avibagla.com/blueskydictionary/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 14
-    },
-    {
-      "title": "uBlock Origin Lite for Safari",
-      "href": "https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 15
     },
     {
       "title": "You don't really need monads",
       "href": "https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 16
     },
     {
@@ -121,31 +121,31 @@
       "index": 17
     },
     {
-      "title": "Google Confirms It Has Been Hacked — Warns User Data Stolen",
-      "href": "https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/",
+      "title": "uBlock Origin Lite for Safari",
+      "href": "https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 18
+    },
+    {
+      "title": "Jujutsu support in Reviewboard",
+      "href": "https://reviews.reviewboard.org/r/14336/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "The Bluesky Dictionary",
+      "href": "https://www.avibagla.com/blueskydictionary/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 20
     },
     {
       "title": "TUI version of dmidecode tool",
       "href": "https://github.com/pythops/dmitui",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "zig-error-patterns",
-      "href": "https://glfmn.io/posts/zig-error-patterns/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 20
-    },
-    {
-      "title": "onion-lang",
-      "href": "https://github.com/sjrsjz/onion-lang",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 21
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
-      "title": "Why are Windows semiannual updates named H1 and H2?",
-      "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435",
+      "title": "zig-error-patterns",
+      "href": "https://glfmn.io/posts/zig-error-patterns/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              5 comments",
       "index": 23
     },
     {
-      "title": "Reasoning about systems' state spaces",
-      "href": "https://youtu.be/d9cM8f_qSLQ",
+      "title": "onion-lang",
+      "href": "https://github.com/sjrsjz/onion-lang",
       "points": "",
       "comments": "\n              2 comments",
       "index": 24
     },
     {
-      "title": "Jujutsu support in Reviewboard",
-      "href": "https://reviews.reviewboard.org/r/14336/",
+      "title": "Why are Windows semiannual updates named H1 and H2?",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              14 comments",
       "index": 25
     }
   ]
