@@ -1,214 +1,214 @@
 {
-  "date": "Thursday, August 7, 2025 at 5:25 AM GMT-5",
+  "date": "Thursday, August 7, 2025 at 6:20 AM GMT-5",
   "articles": [
+    {
+      "title": "\"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it.\"",
+      "href": "https://leonardo.chiariglione.org/",
+      "points": "63 points",
+      "comments": "18 comments",
+      "index": 1
+    },
+    {
+      "title": "New AI Coding Teammate: Gemini CLI GitHub Actions",
+      "href": "https://blog.google/technology/developers/introducing-gemini-cli-github-actions/",
+      "points": "26 points",
+      "comments": "8 comments",
+      "index": 2
+    },
     {
       "title": "We replaced passwords with something worse",
       "href": "https://blog.danielh.cc/blog/passwords",
-      "points": "324 points",
-      "comments": "255 comments",
-      "index": 1
+      "points": "376 points",
+      "comments": "303 comments",
+      "index": 3
+    },
+    {
+      "title": "About AI",
+      "href": "https://priver.dev/blog/ai/about-ai/",
+      "points": "22 points",
+      "comments": "6 comments",
+      "index": 4
     },
     {
       "title": "Cracking the Vault: How we found zero-day flaws in HashiCorp Vault",
       "href": "https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/",
-      "points": "95 points",
-      "comments": "34 comments",
-      "index": 2
+      "points": "109 points",
+      "comments": "44 comments",
+      "index": 5
     },
     {
       "title": "Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs",
       "href": "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/",
-      "points": "169 points",
-      "comments": "79 comments",
-      "index": 3
+      "points": "176 points",
+      "comments": "94 comments",
+      "index": 6
     },
     {
       "title": "Claude Code IDE integration for Emacs",
       "href": "https://github.com/manzaltu/claude-code-ide.el",
-      "points": "666 points",
-      "comments": "226 comments",
-      "index": 4
-    },
-    {
-      "title": "\"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it.\"",
-      "href": "https://leonardo.chiariglione.org/",
-      "points": "3 points",
-      "comments": "discuss",
-      "index": 5
-    },
-    {
-      "title": "Herbie detects inaccurate expressions and finds more accurate replacements",
-      "href": "https://herbie.uwplse.org/",
-      "points": "54 points",
-      "comments": "6 comments",
-      "index": 6
-    },
-    {
-      "title": "Project Hyperion: Interstellar ship design competition",
-      "href": "https://www.projecthyperion.org",
-      "points": "265 points",
-      "comments": "197 comments",
+      "points": "673 points",
+      "comments": "229 comments",
       "index": 7
     },
     {
       "title": "Debounce",
       "href": "https://developer.mozilla.org/en-US/docs/Glossary/Debounce",
-      "points": "46 points",
-      "comments": "19 comments",
+      "points": "61 points",
+      "comments": "29 comments",
       "index": 8
+    },
+    {
+      "title": "Project Hyperion: Interstellar ship design competition",
+      "href": "https://www.projecthyperion.org",
+      "points": "282 points",
+      "comments": "209 comments",
+      "index": 9
     },
     {
       "title": "Rules by which a great empire may be reduced to a small one (1773)",
       "href": "https://founders.archives.gov/documents/Franklin/01-20-02-0213",
-      "points": "169 points",
-      "comments": "109 comments",
-      "index": 9
-    },
-    {
-      "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
-      "href": "https://github.com/KittenML/KittenTTS",
-      "points": "857 points",
-      "comments": "333 comments",
+      "points": "181 points",
+      "comments": "114 comments",
       "index": 10
     },
     {
       "title": "A candidate giant planet imaged in the habitable zone of α  Cen A",
       "href": "https://arxiv.org/abs/2508.03814",
-      "points": "75 points",
-      "comments": "24 comments",
+      "points": "86 points",
+      "comments": "27 comments",
       "index": 11
+    },
+    {
+      "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
+      "href": "https://github.com/KittenML/KittenTTS",
+      "points": "866 points",
+      "comments": "333 comments",
+      "index": 12
+    },
+    {
+      "title": "Gaybreaking",
+      "href": "https://twitter.com/AlexReibman/status/1953229500973740058",
+      "points": "12 points",
+      "comments": "1 comment",
+      "index": 13
     },
     {
       "title": "Litestar is worth a look",
       "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
-      "points": "276 points",
-      "comments": "73 comments",
-      "index": 12
+      "points": "288 points",
+      "comments": "78 comments",
+      "index": 14
     },
     {
       "title": "Jules, our asynchronous coding agent",
       "href": "https://blog.google/technology/google-labs/jules-now-available/",
-      "points": "295 points",
-      "comments": "195 comments",
-      "index": 13
-    },
-    {
-      "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
-      "href": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
-      "points": "266 points",
-      "comments": "32 comments",
-      "index": 14
-    },
-    {
-      "title": "We'd be better off with 9-bit bytes",
-      "href": "https://pavpanchekha.com/blog/9bit.html",
-      "points": "152 points",
-      "comments": "268 comments",
+      "points": "300 points",
+      "comments": "199 comments",
       "index": 15
-    },
-    {
-      "title": "40 Years of the Amiga",
-      "href": "https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore",
-      "points": "45 points",
-      "comments": "17 comments",
-      "index": 16
     },
     {
       "title": "Did Craigslist decimate newspapers? Legend meets reality",
       "href": "https://www.poynter.org/business-work/2025/did-craigslist-kill-newspapers-poynter-50/",
-      "points": "11 points",
-      "comments": "discuss",
+      "points": "17 points",
+      "comments": "5 comments",
+      "index": 16
+    },
+    {
+      "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
+      "href": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
+      "points": "272 points",
+      "comments": "33 comments",
       "index": 17
+    },
+    {
+      "title": "Herbie detects inaccurate expressions and finds more accurate replacements",
+      "href": "https://herbie.uwplse.org/",
+      "points": "66 points",
+      "comments": "6 comments",
+      "index": 18
+    },
+    {
+      "title": "Children's movie leads art historian to long-lost Hungarian masterpiece (2014)",
+      "href": "https://www.theguardian.com/world/2014/nov/27/stuart-little-art-historian-long-lost-hungarian-masterpiece",
+      "points": "8 points",
+      "comments": "discuss",
+      "index": 19
+    },
+    {
+      "title": "We'd be better off with 9-bit bytes",
+      "href": "https://pavpanchekha.com/blog/9bit.html",
+      "points": "155 points",
+      "comments": "273 comments",
+      "index": 20
     },
     {
       "title": "A fast, growable array with stable pointers in C",
       "href": "https://danielchasehooper.com/posts/segment_array/",
-      "points": "188 points",
-      "comments": "71 comments",
-      "index": 18
+      "points": "196 points",
+      "comments": "72 comments",
+      "index": 21
     },
     {
       "title": "The Bluesky Dictionary",
       "href": "https://www.avibagla.com/blueskydictionary/",
-      "points": "162 points",
-      "comments": "49 comments",
-      "index": 19
-    },
-    {
-      "title": "Scientists have recreated the Universe's first molecule",
-      "href": "https://www.sciencedaily.com/releases/2025/08/250803011840.htm",
-      "points": "12 points",
-      "comments": "8 comments",
-      "index": 20
-    },
-    {
-      "title": "Mac history echoes in current Mac operating systems",
-      "href": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
-      "points": "116 points",
-      "comments": "34 comments",
-      "index": 21
-    },
-    {
-      "title": "What is the average length of a queue of cars? (2023)",
-      "href": "https://e-dorigatti.github.io/math/2023/11/01/queue-length.html",
-      "points": "21 points",
-      "comments": "6 comments",
+      "points": "171 points",
+      "comments": "51 comments",
       "index": 22
     },
     {
-      "title": "Automerge 3.0",
-      "href": "https://automerge.org/blog/automerge-3/",
-      "points": "318 points",
-      "comments": "29 comments",
+      "title": "40 Years of the Amiga",
+      "href": "https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore",
+      "points": "52 points",
+      "comments": "20 comments",
       "index": 23
-    },
-    {
-      "title": "Show HN: Rust framework for advanced file recognition and identification",
-      "href": "https://crates.io/crates/magical_rs",
-      "points": "37 points",
-      "comments": "4 comments",
-      "index": 24
-    },
-    {
-      "title": "Multics",
-      "href": "https://www.multicians.org/multics.html",
-      "points": "121 points",
-      "comments": "27 comments",
-      "index": 25
     },
     {
       "title": "SQLite offline sync for Android quick start",
       "href": "https://github.com/sqliteai/sqlite-sync/tree/main/examples/android-integration",
-      "points": "29 points",
-      "comments": "17 comments",
+      "points": "35 points",
+      "comments": "18 comments",
+      "index": 24
+    },
+    {
+      "title": "What is the average length of a queue of cars? (2023)",
+      "href": "https://e-dorigatti.github.io/math/2023/11/01/queue-length.html",
+      "points": "24 points",
+      "comments": "8 comments",
+      "index": 25
+    },
+    {
+      "title": "Scientists have recreated the Universe's first molecule",
+      "href": "https://www.sciencedaily.com/releases/2025/08/250803011840.htm",
+      "points": "15 points",
+      "comments": "8 comments",
       "index": 26
     },
     {
-      "title": "Comptime.ts: compile-time expressions for TypeScript",
-      "href": "https://comptime.js.org/",
-      "points": "134 points",
+      "title": "Automerge 3.0",
+      "href": "https://automerge.org/blog/automerge-3/",
+      "points": "322 points",
       "comments": "29 comments",
       "index": 27
     },
     {
-      "title": "Breaking the sorting barrier for directed single-source shortest paths",
-      "href": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
-      "points": "149 points",
-      "comments": "46 comments",
+      "title": "Mac history echoes in current Mac operating systems",
+      "href": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
+      "points": "120 points",
+      "comments": "39 comments",
       "index": 28
     },
     {
-      "title": "303Gen – 303 acid loops generator",
-      "href": "https://303-gen-06a668.netlify.app/",
-      "points": "206 points",
-      "comments": "68 comments",
+      "title": "Multics",
+      "href": "https://www.multicians.org/multics.html",
+      "points": "123 points",
+      "comments": "28 comments",
       "index": 29
     },
     {
-      "title": "Zig Error Patterns",
-      "href": "https://glfmn.io/posts/zig-error-patterns/",
-      "points": "143 points",
-      "comments": "43 comments",
+      "title": "Comptime.ts: compile-time expressions for TypeScript",
+      "href": "https://comptime.js.org/",
+      "points": "137 points",
+      "comments": "29 comments",
       "index": 30
     }
   ]

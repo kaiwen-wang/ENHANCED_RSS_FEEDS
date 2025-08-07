@@ -1,25 +1,25 @@
 {
-  "date": "Thursday, August 7, 2025 at 5:25 AM GMT-5",
+  "date": "Thursday, August 7, 2025 at 6:20 AM GMT-5",
   "articles": [
-    {
-      "title": "The how and why of GitHub to Codeberg",
-      "href": "https://www.arscyni.cc/file/codeberg.html",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 1
-    },
     {
       "title": "Litestar is worth a look",
       "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
+      "index": 1
+    },
+    {
+      "title": "The how and why of GitHub to Codeberg",
+      "href": "https://www.arscyni.cc/file/codeberg.html",
+      "points": "",
+      "comments": "\n              16 comments",
       "index": 2
     },
     {
       "title": "We shouldn’t have needed lockfiles",
       "href": "https://tonsky.me/blog/lockfiles/",
       "points": "",
-      "comments": "\n              63 comments",
+      "comments": "\n              64 comments",
       "index": 3
     },
     {
@@ -44,36 +44,36 @@
       "index": 6
     },
     {
+      "title": "HTTP/1.1 must die: the desync endgame",
+      "href": "https://portswigger.net/research/http1-must-die",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 7
+    },
+    {
       "title": "The Bluesky Dictionary",
       "href": "https://www.avibagla.com/blueskydictionary/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 7
+      "index": 8
     },
     {
-      "title": "HTTP/1.1 must die: the desync endgame",
-      "href": "https://portswigger.net/research/http1-must-die",
+      "title": "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
+      "href": "https://xorvoid.com/forsp.html",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 8
+      "comments": "\n              no comments",
+      "index": 9
     },
     {
       "title": "zig-error-patterns",
       "href": "https://glfmn.io/posts/zig-error-patterns/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "TUI version of dmidecode tool",
       "href": "https://github.com/pythops/dmitui",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
-      "href": "https://xorvoid.com/forsp.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 11
@@ -93,64 +93,64 @@
       "index": 13
     },
     {
-      "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
-      "href": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics",
+      "title": "onion-lang",
+      "href": "https://github.com/sjrsjz/onion-lang",
       "points": "",
       "comments": "\n              2 comments",
       "index": 14
     },
     {
-      "title": "onion-lang",
-      "href": "https://github.com/sjrsjz/onion-lang",
+      "title": "Tone Mapping (2019)",
+      "href": "https://64.github.io/tonemapping/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
+      "href": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Gleam v1.12.0 released",
       "href": "https://gleam.run/news/no-more-dependency-management-headaches/",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "TIL that You can spot base64 encoded JSON, certificates, and private keys",
       "href": "https://ergaster.org/til/base64-encoded-json/",
       "points": "",
-      "comments": "\n              18 comments",
-      "index": 17
-    },
-    {
-      "title": "Rethinking devtools: Escaping the Cloud and SaaS trap",
-      "href": "/s/dstkgd/rethinking_devtools_escaping_cloud_saas",
-      "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              19 comments",
       "index": 18
-    },
-    {
-      "title": "Be Careful with Go Struct Embedding",
-      "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 19
-    },
-    {
-      "title": "comptime.ts — compile-time expressions for TypeScript",
-      "href": "https://comptime.js.org/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
     },
     {
       "title": "Reasoning about systems' state spaces",
       "href": "https://youtu.be/d9cM8f_qSLQ",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 19
+    },
+    {
+      "title": "Rethinking devtools: Escaping the Cloud and SaaS trap",
+      "href": "/s/dstkgd/rethinking_devtools_escaping_cloud_saas",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 20
+    },
+    {
+      "title": "Be Careful with Go Struct Embedding",
+      "href": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html",
+      "points": "",
+      "comments": "\n              14 comments",
       "index": 21
     },
     {
-      "title": "Tone Mapping (2019)",
-      "href": "https://64.github.io/tonemapping/",
+      "title": "comptime.ts — compile-time expressions for TypeScript",
+      "href": "https://comptime.js.org/",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
+      "title": "Live coding sucks",
+      "href": "https://hadid.dev/posts/living-coding/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 24
+    },
+    {
       "title": "Python performance myths and fairy tales",
       "href": "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 24
-    },
-    {
-      "title": "One Billion Row Challenge (2024)",
-      "href": "https://curiouscoding.nl/posts/1brc/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
