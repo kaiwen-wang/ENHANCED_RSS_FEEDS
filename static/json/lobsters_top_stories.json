@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, August 7, 2025 at 7:45 AM GMT-5",
+  "date": "Thursday, August 7, 2025 at 8:40 AM GMT-5",
   "articles": [
     {
       "title": "Litestar is worth a look",
       "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
@@ -23,59 +23,59 @@
       "index": 3
     },
     {
+      "title": "A Fast, Growable Array With Stable Pointers in C",
+      "href": "https://danielchasehooper.com/posts/segment_array/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 4
+    },
+    {
       "title": "RFC 9457 - Problem Details for HTTP APIs",
       "href": "https://datatracker.ietf.org/doc/html/rfc9457",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 4
-    },
-    {
-      "title": "A Fast, Growable Array With Stable Pointers in C",
-      "href": "https://danielchasehooper.com/posts/segment_array/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 5
-    },
-    {
-      "title": "Why hx-boost is actually the most important feature of htmx",
-      "href": "https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 6
-    },
-    {
-      "title": "HTTP/1.1 must die: the desync endgame",
-      "href": "https://portswigger.net/research/http1-must-die",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 7
-    },
-    {
-      "title": "The Bluesky Dictionary",
-      "href": "https://www.avibagla.com/blueskydictionary/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 8
     },
     {
       "title": "Announcing Rust 1.89.0",
       "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
+      "index": 6
+    },
+    {
+      "title": "Why hx-boost is actually the most important feature of htmx",
+      "href": "https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 7
+    },
+    {
+      "title": "HTTP/1.1 must die: the desync endgame",
+      "href": "https://portswigger.net/research/http1-must-die",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 8
     },
     {
       "title": "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
       "href": "https://xorvoid.com/forsp.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "The Bluesky Dictionary",
+      "href": "https://www.avibagla.com/blueskydictionary/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 10
     },
     {
       "title": "Live coding sucks",
       "href": "https://hadid.dev/posts/living-coding/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 11
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "Why are Windows semiannual updates named H1 and H2?",
-      "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 17
-    },
-    {
       "title": "onion-lang",
       "href": "https://github.com/sjrsjz/onion-lang",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 18
-    },
-    {
-      "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
-      "href": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
+      "index": 17
     },
     {
       "title": "You don't really need monads",
       "href": "https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Why are Windows semiannual updates named H1 and H2?",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 19
+    },
+    {
+      "title": "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
+      "href": "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 20
+    },
+    {
+      "title": "We replaced passwords with something worse",
+      "href": "https://blog.danielh.cc/blog/passwords",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
     },
     {
       "title": "Gleam v1.12.0 released",
       "href": "https://gleam.run/news/no-more-dependency-management-headaches/",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "TIL that You can spot base64 encoded JSON, certificates, and private keys",
       "href": "https://ergaster.org/til/base64-encoded-json/",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "Jujutsu support in Reviewboard",
+      "href": "https://reviews.reviewboard.org/r/14336/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "Bag of words, have mercy on us",
       "href": "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 23
-    },
-    {
-      "title": "Reasoning about systems' state spaces",
-      "href": "https://youtu.be/d9cM8f_qSLQ",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "Rethinking devtools: Escaping the Cloud and SaaS trap",
-      "href": "/s/dstkgd/rethinking_devtools_escaping_cloud_saas",
-      "points": "",
-      "comments": "\n              14 comments",
       "index": 25
     }
   ]
