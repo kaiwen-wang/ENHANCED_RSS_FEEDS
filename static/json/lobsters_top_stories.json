@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, August 7, 2025 at 3:25 PM GMT-5",
+  "date": "Thursday, August 7, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "We replaced passwords with something worse",
       "href": "https://blog.danielh.cc/blog/passwords",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              31 comments",
       "index": 1
     },
     {
@@ -16,52 +16,52 @@
       "index": 2
     },
     {
+      "title": "GPT-5 is here",
+      "href": "https://openai.com/gpt-5/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 3
+    },
+    {
       "title": "Announcing Rust 1.89.0",
       "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Litestar is worth a look",
       "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Asahi Linux Progress Report: Linux 6.16",
       "href": "https://asahilinux.org/2025/08/progress-report-6-16/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 5
-    },
-    {
-      "title": "More shell tricks: first class lists, jq, and the es shell",
-      "href": "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 6
-    },
-    {
-      "title": "GPT-5 is here",
-      "href": "https://openai.com/gpt-5/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 7
-    },
-    {
-      "title": "The how and why of GitHub to Codeberg",
-      "href": "https://www.arscyni.cc/file/codeberg.html",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 8
     },
     {
       "title": "KomoDo, my first KDE app",
       "href": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "More shell tricks: first class lists, jq, and the es shell",
+      "href": "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 8
+    },
+    {
+      "title": "The how and why of GitHub to Codeberg",
+      "href": "https://www.arscyni.cc/file/codeberg.html",
+      "points": "",
+      "comments": "\n              21 comments",
       "index": 9
     },
     {
@@ -72,52 +72,52 @@
       "index": 10
     },
     {
+      "title": "Who's Hiring? Q3 2025",
+      "href": "/s/tiiesw/who_s_hiring_q3_2025",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
       "title": "We shouldn’t have needed lockfiles",
       "href": "https://tonsky.me/blog/lockfiles/",
       "points": "",
       "comments": "\n              78 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Live coding sucks",
       "href": "https://hadid.dev/posts/living-coding/",
       "points": "",
-      "comments": "\n              17 comments",
-      "index": 12
-    },
-    {
-      "title": "Who's Hiring? Q3 2025",
-      "href": "/s/tiiesw/who_s_hiring_q3_2025",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              20 comments",
       "index": 13
-    },
-    {
-      "title": "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
-      "href": "https://xorvoid.com/forsp.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
     },
     {
       "title": "A Fast, Growable Array With Stable Pointers in C",
       "href": "https://danielchasehooper.com/posts/segment_array/",
       "points": "",
       "comments": "\n              7 comments",
+      "index": 14
+    },
+    {
+      "title": "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
+      "href": "https://xorvoid.com/forsp.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 15
+    },
+    {
+      "title": "You don't really need monads",
+      "href": "https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 16
     },
     {
       "title": "HTTP/1.1 must die: the desync endgame",
       "href": "https://portswigger.net/research/http1-must-die",
       "points": "",
       "comments": "\n              27 comments",
-      "index": 16
-    },
-    {
-      "title": "You don't really need monads",
-      "href": "https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 17
     },
     {
@@ -128,17 +128,17 @@
       "index": 18
     },
     {
-      "title": "Why hx-boost is actually the most important feature of htmx",
-      "href": "https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 19
-    },
-    {
       "title": "hardmode-triangle-0",
       "href": "https://glfmn.io/posts/hardmode-triangle-0/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Why hx-boost is actually the most important feature of htmx",
+      "href": "https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 20
     },
     {
@@ -149,29 +149,29 @@
       "index": 21
     },
     {
-      "title": "The Bluesky Dictionary",
-      "href": "https://www.avibagla.com/blueskydictionary/",
+      "title": "TUI version of dmidecode tool",
+      "href": "https://github.com/pythops/dmitui",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 22
     },
     {
-      "title": "TUI version of dmidecode tool",
-      "href": "https://github.com/pythops/dmitui",
+      "title": "Re-label the \"Save\" button to be \"Publish\", to better indicate to users the outcomes of their action",
+      "href": "https://phabricator.wikimedia.org/T131132",
       "points": "",
       "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "Tone Mapping (2019)",
-      "href": "https://64.github.io/tonemapping/",
+      "title": "The Bluesky Dictionary",
+      "href": "https://www.avibagla.com/blueskydictionary/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 24
     },
     {
-      "title": "Version Museum: visual history of popular websites and software",
-      "href": "https://www.versionmuseum.com/",
+      "title": "Tone Mapping (2019)",
+      "href": "https://64.github.io/tonemapping/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
