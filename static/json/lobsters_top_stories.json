@@ -1,60 +1,60 @@
 {
-  "date": "Friday, August 8, 2025 at 1:30 PM GMT-5",
+  "date": "Friday, August 8, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "HTTP is not simple",
       "href": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 1
-    },
-    {
-      "title": "All the cool kids are doing it",
-      "href": "https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 2
-    },
-    {
-      "title": "Writing surtoget.no with gleam",
-      "href": "https://lindbakk.com/blog/introducing-surtoget_no",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 3
     },
     {
       "title": "How long does it take to upgrade an eBook?",
       "href": "https://shkspr.mobi/blog/2025/08/how-long-does-it-take-to-upgrade-an-ebook/",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 4
+      "comments": "\n              5 comments",
+      "index": 2
     },
     {
-      "title": "KomoDo, my first KDE app",
-      "href": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
+      "title": "All the cool kids are doing it",
+      "href": "https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 5
+      "comments": "\n              14 comments",
+      "index": 3
     },
     {
       "title": "Hypothesis is now thread-safe",
       "href": "https://hypothesis.works/articles/thread-safe/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 6
+      "index": 4
     },
     {
-      "title": "Programming as Extended Cognition",
-      "href": "https://ieeexplore.ieee.org/document/11119124",
+      "title": "Writing surtoget.no with gleam",
+      "href": "https://lindbakk.com/blog/introducing-surtoget_no",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 7
+      "comments": "\n              6 comments",
+      "index": 5
+    },
+    {
+      "title": "KomoDo, my first KDE app",
+      "href": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 6
     },
     {
       "title": "Arenas in Rust",
       "href": "https://russellw.github.io/arenas",
       "points": "",
       "comments": "\n              9 comments",
+      "index": 7
+    },
+    {
+      "title": "Programming as Extended Cognition",
+      "href": "https://ieeexplore.ieee.org/document/11119124",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 8
     },
     {
@@ -100,15 +100,15 @@
       "index": 14
     },
     {
-      "title": "Abusing Ubuntu 24.04 features for root privilege escalation (2024)",
-      "href": "https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/",
+      "title": "Updated Google Project Zero disclosure policy",
+      "href": "https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html",
       "points": "",
       "comments": "\n              1 comment",
       "index": 15
     },
     {
-      "title": "Updated Google Project Zero disclosure policy",
-      "href": "https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html",
+      "title": "Abusing Ubuntu 24.04 features for root privilege escalation (2024)",
+      "href": "https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 16
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "LVFS Sustainability Plan",
+      "href": "https://blogs.gnome.org/hughsie/2025/08/08/lvfs-sustainability-plan/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 21
+    },
+    {
       "title": "Asahi Linux Progress Report: Linux 6.16",
       "href": "https://asahilinux.org/2025/08/progress-report-6-16/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths",
+      "href": "https://arxiv.org/abs/2504.17033",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "A Full-Chain Exploit of an Unfused Qualcomm Device",
       "href": "https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Disposable Code Is Here to Stay, but Durable Code Is What Runs the World",
       "href": "https://www.honeycomb.io/blog/disposable-code-is-here-to-stay",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 23
-    },
-    {
-      "title": "More shell tricks: first class lists, jq, and the es shell",
-      "href": "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 24
-    },
-    {
-      "title": "Oops Safari, I think You Spilled Something",
-      "href": "https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
