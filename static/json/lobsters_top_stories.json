@@ -1,5 +1,5 @@
 {
-  "date": "Friday, August 8, 2025 at 8:40 AM GMT-5",
+  "date": "Friday, August 8, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "KomoDo, my first KDE app",
@@ -9,52 +9,52 @@
       "index": 1
     },
     {
-      "title": "We replaced passwords with something worse",
-      "href": "https://blog.danielh.cc/blog/passwords",
-      "points": "",
-      "comments": "\n              56 comments",
-      "index": 2
-    },
-    {
       "title": "Writing surtoget.no with gleam",
       "href": "https://lindbakk.com/blog/introducing-surtoget_no",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
+      "index": 2
+    },
+    {
+      "title": "We replaced passwords with something worse",
+      "href": "https://blog.danielh.cc/blog/passwords",
+      "points": "",
+      "comments": "\n              58 comments",
       "index": 3
+    },
+    {
+      "title": "HTTP is not simple",
+      "href": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 4
     },
     {
       "title": "GPT-5 is here",
       "href": "https://openai.com/gpt-5/",
       "points": "",
       "comments": "\n              37 comments",
-      "index": 4
-    },
-    {
-      "title": "Arenas in Rust",
-      "href": "https://russellw.github.io/arenas",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 5
-    },
-    {
-      "title": "Who's Hiring? Q3 2025",
-      "href": "/s/tiiesw/who_s_hiring_q3_2025",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 6
-    },
-    {
-      "title": "HTTP is not simple",
-      "href": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 7
     },
     {
       "title": "All the cool kids are doing it",
       "href": "https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
+      "title": "Arenas in Rust",
+      "href": "https://russellw.github.io/arenas",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 7
+    },
+    {
+      "title": "Who's Hiring? Q3 2025",
+      "href": "/s/tiiesw/who_s_hiring_q3_2025",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 8
     },
     {
@@ -65,108 +65,108 @@
       "index": 9
     },
     {
-      "title": "Jepsen: Capela dda5892",
-      "href": "https://jepsen.io/analyses/capela-dda5892",
+      "title": "How long does it take to upgrade an eBook?",
+      "href": "https://shkspr.mobi/blog/2025/08/how-long-does-it-take-to-upgrade-an-ebook/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              no comments",
       "index": 10
-    },
-    {
-      "title": "Announcing Rust 1.89.0",
-      "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 11
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/qr1kro/what_are_you_doing_this_weekend",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 11
+    },
+    {
+      "title": "Jepsen: Capela dda5892",
+      "href": "https://jepsen.io/analyses/capela-dda5892",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 12
     },
     {
-      "title": "Asahi Linux Progress Report: Linux 6.16",
-      "href": "https://asahilinux.org/2025/08/progress-report-6-16/",
+      "title": "Announcing Rust 1.89.0",
+      "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              9 comments",
       "index": 13
     },
     {
-      "title": "Abusing Ubuntu 24.04 features for root privilege escalation",
+      "title": "Abusing Ubuntu 24.04 features for root privilege escalation (2024)",
       "href": "https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 14
     },
     {
+      "title": "Asahi Linux Progress Report: Linux 6.16",
+      "href": "https://asahilinux.org/2025/08/progress-report-6-16/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
       "title": "Mac history echoes in current Mac operating systems",
       "href": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 15
+      "comments": "\n              2 comments",
+      "index": 16
     },
     {
       "title": "A Full-Chain Exploit of an Unfused Qualcomm Device",
       "href": "https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "iOS client for Proton Authenticator",
-      "href": "https://github.com/protonpass/ios-authenticator",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 17
-    },
-    {
-      "title": "Litestar is worth a look",
-      "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 18
-    },
-    {
-      "title": "More shell tricks: first class lists, jq, and the es shell",
-      "href": "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 19
-    },
-    {
-      "title": "Understanding not just Clojure's comp function by re-implementing it",
-      "href": "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Introducing Wassette: WebAssembly-based tools for AI agents",
-      "href": "https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 21
-    },
-    {
-      "title": "Disposable Code Is Here to Stay, but Durable Code Is What Runs the World",
-      "href": "https://www.honeycomb.io/blog/disposable-code-is-here-to-stay",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 22
-    },
-    {
-      "title": "How long does it take to upgrade an eBook?",
-      "href": "https://shkspr.mobi/blog/2025/08/how-long-does-it-take-to-upgrade-an-ebook/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
     },
     {
       "title": "Oops Safari, I think You Spilled Something",
       "href": "https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "iOS client for Proton Authenticator",
+      "href": "https://github.com/protonpass/ios-authenticator",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 19
+    },
+    {
+      "title": "Litestar is worth a look",
+      "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+      "points": "",
+      "comments": "\n              19 comments",
+      "index": 20
+    },
+    {
+      "title": "More shell tricks: first class lists, jq, and the es shell",
+      "href": "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 21
+    },
+    {
+      "title": "Understanding not just Clojure's comp function by re-implementing it",
+      "href": "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Disposable Code Is Here to Stay, but Durable Code Is What Runs the World",
+      "href": "https://www.honeycomb.io/blog/disposable-code-is-here-to-stay",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 23
+    },
+    {
+      "title": "Introducing Wassette: WebAssembly-based tools for AI agents",
+      "href": "https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 24
     },
     {
