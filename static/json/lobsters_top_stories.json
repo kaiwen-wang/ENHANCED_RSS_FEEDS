@@ -1,32 +1,32 @@
 {
-  "date": "Friday, August 8, 2025 at 6:20 AM GMT-5",
+  "date": "Friday, August 8, 2025 at 7:45 AM GMT-5",
   "articles": [
     {
       "title": "KomoDo, my first KDE app",
       "href": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              8 comments",
       "index": 1
     },
     {
       "title": "We replaced passwords with something worse",
       "href": "https://blog.danielh.cc/blog/passwords",
       "points": "",
-      "comments": "\n              50 comments",
+      "comments": "\n              52 comments",
       "index": 2
-    },
-    {
-      "title": "GPT-5 is here",
-      "href": "https://openai.com/gpt-5/",
-      "points": "",
-      "comments": "\n              31 comments",
-      "index": 3
     },
     {
       "title": "Writing surtoget.no with gleam",
       "href": "https://lindbakk.com/blog/introducing-surtoget_no",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
+      "index": 3
+    },
+    {
+      "title": "GPT-5 is here",
+      "href": "https://openai.com/gpt-5/",
+      "points": "",
+      "comments": "\n              35 comments",
       "index": 4
     },
     {
@@ -37,31 +37,31 @@
       "index": 5
     },
     {
-      "title": "GPT-5 leaked system prompt",
-      "href": "https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 6
-    },
-    {
       "title": "Arenas in Rust",
       "href": "https://russellw.github.io/arenas",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 7
-    },
-    {
-      "title": "Announcing Rust 1.89.0",
-      "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 8
+      "index": 6
     },
     {
       "title": "All the cool kids are doing it",
       "href": "https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 7
+    },
+    {
+      "title": "How I ended up writing Gleam for a living",
+      "href": "https://www.youtube.com/watch?v=BfPRcanTWXA",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
+    },
+    {
+      "title": "Announcing Rust 1.89.0",
+      "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 9
     },
     {
@@ -86,31 +86,31 @@
       "index": 12
     },
     {
-      "title": "How I ended up writing Gleam for a living",
-      "href": "https://www.youtube.com/watch?v=BfPRcanTWXA",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
       "title": "A Full-Chain Exploit of an Unfused Qualcomm Device",
       "href": "https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 13
     },
     {
       "title": "Mac history echoes in current Mac operating systems",
       "href": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
+      "index": 14
     },
     {
       "title": "iOS client for Proton Authenticator",
       "href": "https://github.com/protonpass/ios-authenticator",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/qr1kro/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 16
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
-      "title": "What are you doing this weekend?",
-      "href": "/s/qr1kro/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
-    },
-    {
       "title": "Understanding not just Clojure's comp function by re-implementing it",
       "href": "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 19
     },
     {
       "title": "Disposable Code Is Here to Stay, but Durable Code Is What Runs the World",
       "href": "https://www.honeycomb.io/blog/disposable-code-is-here-to-stay",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 21
+      "index": 20
     },
     {
       "title": "Oops Safari, I think You Spilled Something",
       "href": "https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 21
     },
     {
       "title": "Nixpkgs module system config modules graph",
       "href": "https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 22
+    },
+    {
+      "title": "Preventing ZIP parser confusion attacks on Python package installers",
+      "href": "https://blog.pypi.org/posts/2025-08-07-wheel-archive-confusion-attacks/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
       "title": "Live coding sucks",
       "href": "https://hadid.dev/posts/living-coding/",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              22 comments",
       "index": 24
     },
     {
-      "title": "The how and why of GitHub to Codeberg",
-      "href": "https://www.arscyni.cc/file/codeberg.html",
+      "title": "Introducing Wassette: WebAssembly-based tools for AI agents",
+      "href": "https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
