@@ -1,11 +1,11 @@
 {
-  "date": "Friday, August 8, 2025 at 4:20 PM GMT-5",
+  "date": "Friday, August 8, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "HTTP is not simple",
       "href": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              13 comments",
       "index": 1
     },
     {
@@ -16,164 +16,164 @@
       "index": 2
     },
     {
-      "title": "All the cool kids are doing it",
-      "href": "https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 3
-    },
-    {
       "title": "Hypothesis is now thread-safe",
       "href": "https://hypothesis.works/articles/thread-safe/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
+      "index": 3
+    },
+    {
+      "title": "All the cool kids are doing it",
+      "href": "https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/",
+      "points": "",
+      "comments": "\n              17 comments",
       "index": 4
+    },
+    {
+      "title": "A puzzling Python program",
+      "href": "https://jo3-l.dev/posts/python-countdown/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 5
     },
     {
       "title": "Writing surtoget.no with gleam",
       "href": "https://lindbakk.com/blog/introducing-surtoget_no",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 5
-    },
-    {
-      "title": "KomoDo, my first KDE app",
-      "href": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
-      "points": "",
-      "comments": "\n              9 comments",
       "index": 6
-    },
-    {
-      "title": "Arenas in Rust",
-      "href": "https://russellw.github.io/arenas",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 7
     },
     {
       "title": "Programming as Extended Cognition",
       "href": "https://ieeexplore.ieee.org/document/11119124",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "KomoDo, my first KDE app",
+      "href": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 8
     },
     {
-      "title": "LVFS Sustainability Plan",
-      "href": "https://blogs.gnome.org/hughsie/2025/08/08/lvfs-sustainability-plan/",
+      "title": "Arenas in Rust",
+      "href": "https://russellw.github.io/arenas",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              14 comments",
       "index": 9
+    },
+    {
+      "title": "Lobsters Interview with Hwayne",
+      "href": "/s/bc53lh/lobsters_interview_with_hwayne",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
     },
     {
       "title": "We replaced passwords with something worse",
       "href": "https://blog.danielh.cc/blog/passwords",
       "points": "",
       "comments": "\n              62 comments",
-      "index": 10
+      "index": 11
     },
     {
-      "title": "How I ended up writing Gleam for a living",
-      "href": "https://www.youtube.com/watch?v=BfPRcanTWXA",
+      "title": "LVFS Sustainability Plan",
+      "href": "https://blogs.gnome.org/hughsie/2025/08/08/lvfs-sustainability-plan/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 11
+      "comments": "\n              4 comments",
+      "index": 12
     },
     {
       "title": "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths",
       "href": "https://arxiv.org/abs/2504.17033",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
+      "index": 13
+    },
+    {
+      "title": "How I ended up writing Gleam for a living",
+      "href": "https://www.youtube.com/watch?v=BfPRcanTWXA",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
     },
     {
       "title": "Understanding not just Clojure's comp function by re-implementing it",
       "href": "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
+      "index": 15
     },
     {
       "title": "GPT-5 is here",
       "href": "https://openai.com/gpt-5/",
       "points": "",
-      "comments": "\n              43 comments",
-      "index": 14
+      "comments": "\n              45 comments",
+      "index": 16
     },
     {
       "title": "Updated Google Project Zero disclosure policy",
       "href": "https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 15
-    },
-    {
-      "title": "Who's Hiring? Q3 2025",
-      "href": "/s/tiiesw/who_s_hiring_q3_2025",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Abusing Ubuntu 24.04 features for root privilege escalation (2024)",
       "href": "https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/qr1kro/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              15 comments",
       "index": 18
     },
     {
-      "title": "Introducing Wassette: WebAssembly-based tools for AI agents",
-      "href": "https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/",
+      "title": "Who's Hiring? Q3 2025",
+      "href": "/s/tiiesw/who_s_hiring_q3_2025",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
       "index": 19
-    },
-    {
-      "title": "Jepsen: Capela dda5892",
-      "href": "https://jepsen.io/analyses/capela-dda5892",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 20
-    },
-    {
-      "title": "Announcing Rust 1.89.0",
-      "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 21
-    },
-    {
-      "title": "Mac history echoes in current Mac operating systems",
-      "href": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 22
-    },
-    {
-      "title": "Asahi Linux Progress Report: Linux 6.16",
-      "href": "https://asahilinux.org/2025/08/progress-report-6-16/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "A Full-Chain Exploit of an Unfused Qualcomm Device",
-      "href": "https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
     },
     {
       "title": "Overview of Jepsen at BugBash 2025",
       "href": "https://antithesis.com/blog/2025/bugbash_2025/kyle_kingsbury/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/qr1kro/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 21
+    },
+    {
+      "title": "Introducing Wassette: WebAssembly-based tools for AI agents",
+      "href": "https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 22
+    },
+    {
+      "title": "Jepsen: Capela dda5892",
+      "href": "https://jepsen.io/analyses/capela-dda5892",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 23
+    },
+    {
+      "title": "Announcing Rust 1.89.0",
+      "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 24
+    },
+    {
+      "title": "Mac history echoes in current Mac operating systems",
+      "href": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 25
     }
   ]
