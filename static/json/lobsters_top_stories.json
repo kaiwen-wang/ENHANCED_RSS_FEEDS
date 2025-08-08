@@ -1,25 +1,25 @@
 {
-  "date": "Friday, August 8, 2025 at 11:25 AM GMT-5",
+  "date": "Friday, August 8, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "HTTP is not simple",
       "href": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 1
-    },
-    {
-      "title": "KomoDo, my first KDE app",
-      "href": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 2
     },
     {
       "title": "Writing surtoget.no with gleam",
       "href": "https://lindbakk.com/blog/introducing-surtoget_no",
       "points": "",
       "comments": "\n              6 comments",
+      "index": 2
+    },
+    {
+      "title": "KomoDo, my first KDE app",
+      "href": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
-      "title": "We replaced passwords with something worse",
-      "href": "https://blog.danielh.cc/blog/passwords",
-      "points": "",
-      "comments": "\n              59 comments",
-      "index": 5
-    },
-    {
       "title": "How long does it take to upgrade an eBook?",
       "href": "https://shkspr.mobi/blog/2025/08/how-long-does-it-take-to-upgrade-an-ebook/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
+      "index": 5
+    },
+    {
+      "title": "Hypothesis is now thread-safe",
+      "href": "https://hypothesis.works/articles/thread-safe/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "Arenas in Rust",
-      "href": "https://russellw.github.io/arenas",
+      "title": "We replaced passwords with something worse",
+      "href": "https://blog.danielh.cc/blog/passwords",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              60 comments",
       "index": 8
     },
     {
-      "title": "Hypothesis is now thread-safe",
-      "href": "https://hypothesis.works/articles/thread-safe/",
+      "title": "Arenas in Rust",
+      "href": "https://russellw.github.io/arenas",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              8 comments",
       "index": 9
     },
     {
@@ -72,10 +72,10 @@
       "index": 10
     },
     {
-      "title": "Who's Hiring? Q3 2025",
-      "href": "/s/tiiesw/who_s_hiring_q3_2025",
+      "title": "Understanding not just Clojure's comp function by re-implementing it",
+      "href": "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              no comments",
       "index": 11
     },
     {
@@ -86,10 +86,10 @@
       "index": 12
     },
     {
-      "title": "Understanding not just Clojure's comp function by re-implementing it",
-      "href": "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html",
+      "title": "Who's Hiring? Q3 2025",
+      "href": "/s/tiiesw/who_s_hiring_q3_2025",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              4 comments",
       "index": 13
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "Oops Safari, I think You Spilled Something",
-      "href": "https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
       "title": "More shell tricks: first class lists, jq, and the es shell",
       "href": "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 24
+    },
+    {
+      "title": "Oops Safari, I think You Spilled Something",
+      "href": "https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
