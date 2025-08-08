@@ -1,25 +1,25 @@
 {
-  "date": "Friday, August 8, 2025 at 4:25 AM GMT-5",
+  "date": "Friday, August 8, 2025 at 5:25 AM GMT-5",
   "articles": [
-    {
-      "title": "We replaced passwords with something worse",
-      "href": "https://blog.danielh.cc/blog/passwords",
-      "points": "",
-      "comments": "\n              43 comments",
-      "index": 1
-    },
     {
       "title": "KomoDo, my first KDE app",
       "href": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
+      "index": 1
+    },
+    {
+      "title": "We replaced passwords with something worse",
+      "href": "https://blog.danielh.cc/blog/passwords",
+      "points": "",
+      "comments": "\n              45 comments",
       "index": 2
     },
     {
       "title": "GPT-5 is here",
       "href": "https://openai.com/gpt-5/",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              30 comments",
       "index": 3
     },
     {
@@ -37,24 +37,24 @@
       "index": 5
     },
     {
+      "title": "GPT-5 leaked system prompt",
+      "href": "https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 6
+    },
+    {
       "title": "Announcing Rust 1.89.0",
       "href": "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Jepsen: Capela dda5892",
       "href": "https://jepsen.io/analyses/capela-dda5892",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 7
-    },
-    {
-      "title": "GPT-5 leaked system prompt",
-      "href": "https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 8
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
-      "title": "More shell tricks: first class lists, jq, and the es shell",
-      "href": "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 10
-    },
-    {
-      "title": "Litestar is worth a look",
-      "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 11
-    },
-    {
-      "title": "Mac history echoes in current Mac operating systems",
-      "href": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
+      "title": "All the cool kids are doing it",
+      "href": "https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "A Full-Chain Exploit of an Unfused Qualcomm Device",
-      "href": "https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
+      "index": 10
     },
     {
       "title": "Arenas in Rust",
       "href": "https://russellw.github.io/arenas",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
-      "title": "All the cool kids are doing it",
-      "href": "https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 15
-    },
-    {
-      "title": "Nixpkgs module system config modules graph",
-      "href": "https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "Disposable Code Is Here to Stay, but Durable Code Is What Runs the World",
-      "href": "https://www.honeycomb.io/blog/disposable-code-is-here-to-stay",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 17
-    },
-    {
-      "title": "The how and why of GitHub to Codeberg",
-      "href": "https://www.arscyni.cc/file/codeberg.html",
-      "points": "",
-      "comments": "\n              27 comments",
-      "index": 18
-    },
-    {
-      "title": "Live coding sucks",
-      "href": "https://hadid.dev/posts/living-coding/",
-      "points": "",
-      "comments": "\n              21 comments",
-      "index": 19
-    },
-    {
-      "title": "You don't really need monads",
-      "href": "https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 20
-    },
-    {
-      "title": "Jujutsu support in Reviewboard",
-      "href": "https://reviews.reviewboard.org/r/14336/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 21
-    },
-    {
-      "title": "Oops Safari, I think You Spilled Something",
-      "href": "https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "We shouldn’t have needed lockfiles",
-      "href": "https://tonsky.me/blog/lockfiles/",
-      "points": "",
-      "comments": "\n              80 comments",
-      "index": 23
+      "index": 11
     },
     {
       "title": "How I ended up writing Gleam for a living",
       "href": "https://www.youtube.com/watch?v=BfPRcanTWXA",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
+      "index": 12
+    },
+    {
+      "title": "Mac history echoes in current Mac operating systems",
+      "href": "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
+      "title": "More shell tricks: first class lists, jq, and the es shell",
+      "href": "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 14
+    },
+    {
+      "title": "Litestar is worth a look",
+      "href": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 15
+    },
+    {
+      "title": "A Full-Chain Exploit of an Unfused Qualcomm Device",
+      "href": "https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Disposable Code Is Here to Stay, but Durable Code Is What Runs the World",
+      "href": "https://www.honeycomb.io/blog/disposable-code-is-here-to-stay",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 17
+    },
+    {
+      "title": "Abusing Ubuntu 24.04 features for root privilege escalation",
+      "href": "https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Oops Safari, I think You Spilled Something",
+      "href": "https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Nixpkgs module system config modules graph",
+      "href": "https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/qr1kro/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "Live coding sucks",
+      "href": "https://hadid.dev/posts/living-coding/",
+      "points": "",
+      "comments": "\n              21 comments",
+      "index": 22
+    },
+    {
+      "title": "The how and why of GitHub to Codeberg",
+      "href": "https://www.arscyni.cc/file/codeberg.html",
+      "points": "",
+      "comments": "\n              27 comments",
+      "index": 23
+    },
+    {
+      "title": "You don't really need monads",
+      "href": "https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 24
+    },
+    {
+      "title": "Jujutsu support in Reviewboard",
+      "href": "https://reviews.reviewboard.org/r/14336/",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 25
     }
   ]
