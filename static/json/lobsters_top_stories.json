@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, August 9, 2025 at 1:30 AM GMT-5",
+  "date": "Saturday, August 9, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "Why is GitHub UI getting so much slower?",
       "href": "https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              8 comments",
       "index": 1
     },
     {
@@ -40,7 +40,7 @@
       "title": "Hypothesis is now thread-safe",
       "href": "https://hypothesis.works/articles/thread-safe/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 6
     },
     {
@@ -65,113 +65,113 @@
       "index": 9
     },
     {
+      "title": "Introducing spindle",
+      "href": "https://blog.tangled.sh/ci",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
       "title": "Writing surtoget.no with gleam",
       "href": "https://lindbakk.com/blog/introducing-surtoget_no",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Arenas in Rust",
       "href": "https://russellw.github.io/arenas",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 11
-    },
-    {
-      "title": "KomoDo, my first KDE app",
-      "href": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
-      "points": "",
-      "comments": "\n              9 comments",
       "index": 12
-    },
-    {
-      "title": "Introducing spindle",
-      "href": "https://blog.tangled.sh/ci",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
     },
     {
       "title": "LVFS Sustainability Plan",
       "href": "https://blogs.gnome.org/hughsie/2025/08/08/lvfs-sustainability-plan/",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 13
+    },
+    {
+      "title": "KomoDo, my first KDE app",
+      "href": "https://akselmo.dev/posts/komodo-my-first-kde-app/",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 14
-    },
-    {
-      "title": "Perfect web app (2023)",
-      "href": "https://yoyo-code.com/perfect-web-app/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Over engineering my homelab so I don't pay cloud providers",
-      "href": "https://ergaster.org/posts/2025/08/04-overegineering-homelab/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths",
-      "href": "https://arxiv.org/abs/2504.17033",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "Understanding not just Clojure's comp function by re-implementing it",
-      "href": "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "We replaced passwords with something worse",
-      "href": "https://blog.danielh.cc/blog/passwords",
-      "points": "",
-      "comments": "\n              68 comments",
-      "index": 19
-    },
-    {
-      "title": "How I ended up writing Gleam for a living",
-      "href": "https://www.youtube.com/watch?v=BfPRcanTWXA",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "efrit: A native elisp coding agent running in Emacs",
-      "href": "https://github.com/steveyegge/efrit",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
     },
     {
       "title": "Array Portal",
       "href": "https://www.arrayportal.com/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "GNOME 49 Backlight Changes",
+      "href": "https://blog.sebastianwick.net/posts/gnome-49-backlight-changes/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Perfect web app (2023)",
+      "href": "https://yoyo-code.com/perfect-web-app/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Over engineering my homelab so I don't pay cloud providers",
+      "href": "https://ergaster.org/posts/2025/08/04-overegineering-homelab/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Accidentally writing a fast SAT solver",
+      "href": "https://blog.danielh.cc/blog/sat",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths",
+      "href": "https://arxiv.org/abs/2504.17033",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "Understanding not just Clojure's comp function by re-implementing it",
+      "href": "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "We replaced passwords with something worse",
+      "href": "https://blog.danielh.cc/blog/passwords",
+      "points": "",
+      "comments": "\n              68 comments",
       "index": 22
     },
     {
-      "title": "The Array Cast",
-      "href": "https://www.arraycast.com",
+      "title": "How I ended up writing Gleam for a living",
+      "href": "https://www.youtube.com/watch?v=BfPRcanTWXA",
       "points": "",
       "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "Abusing Ubuntu 24.04 features for root privilege escalation (2024)",
-      "href": "https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/",
+      "title": "efrit: A native elisp coding agent running in Emacs",
+      "href": "https://github.com/steveyegge/efrit",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Hoogle Translate",
-      "href": "https://hoogletranslate.com/",
+      "title": "The Array Cast",
+      "href": "https://www.arraycast.com",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
