@@ -1,25 +1,25 @@
 {
-  "date": "Friday, August 8, 2025 at 8:40 PM GMT-5",
+  "date": "Friday, August 8, 2025 at 10:20 PM GMT-5",
   "articles": [
     {
       "title": "HTTP is not simple",
       "href": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              17 comments",
       "index": 1
-    },
-    {
-      "title": "How long does it take to upgrade an eBook?",
-      "href": "https://shkspr.mobi/blog/2025/08/how-long-does-it-take-to-upgrade-an-ebook/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 2
     },
     {
       "title": "A puzzling Python program",
       "href": "https://jo3-l.dev/posts/python-countdown/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 2
+    },
+    {
+      "title": "Lobsters Interview with Hwayne",
+      "href": "/s/bc53lh/lobsters_interview_with_hwayne",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 3
     },
     {
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
+      "title": "How long does it take to upgrade an eBook?",
+      "href": "https://shkspr.mobi/blog/2025/08/how-long-does-it-take-to-upgrade-an-ebook/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 5
+    },
+    {
       "title": "All the cool kids are doing it",
       "href": "https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/",
       "points": "",
-      "comments": "\n              20 comments",
-      "index": 5
+      "comments": "\n              21 comments",
+      "index": 6
     },
     {
       "title": "Programming as Extended Cognition",
       "href": "https://ieeexplore.ieee.org/document/11119124",
       "points": "",
       "comments": "\n              no comments",
-      "index": 6
-    },
-    {
-      "title": "Lobsters Interview with Hwayne",
-      "href": "/s/bc53lh/lobsters_interview_with_hwayne",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 7
     },
     {
@@ -72,73 +72,73 @@
       "index": 10
     },
     {
-      "title": "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths",
-      "href": "https://arxiv.org/abs/2504.17033",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 11
-    },
-    {
-      "title": "Understanding not just Clojure's comp function by re-implementing it",
-      "href": "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "We replaced passwords with something worse",
-      "href": "https://blog.danielh.cc/blog/passwords",
-      "points": "",
-      "comments": "\n              66 comments",
-      "index": 13
-    },
-    {
-      "title": "LVFS Sustainability Plan",
-      "href": "https://blogs.gnome.org/hughsie/2025/08/08/lvfs-sustainability-plan/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 14
-    },
-    {
-      "title": "How I ended up writing Gleam for a living",
-      "href": "https://www.youtube.com/watch?v=BfPRcanTWXA",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Abusing Ubuntu 24.04 features for root privilege escalation (2024)",
-      "href": "https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 16
-    },
-    {
       "title": "A Spellchecker Used to Be a Major Feat of Software Engineering",
       "href": "https://prog21.dadgum.com/29.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "GPT-5 is here",
-      "href": "https://openai.com/gpt-5/",
-      "points": "",
-      "comments": "\n              49 comments",
-      "index": 18
+      "index": 11
     },
     {
       "title": "Introducing spindle",
       "href": "https://blog.tangled.sh/ci",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 12
+    },
+    {
+      "title": "Why is GitHub UI getting so much slower?",
+      "href": "https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths",
+      "href": "https://arxiv.org/abs/2504.17033",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
+      "title": "Understanding not just Clojure's comp function by re-implementing it",
+      "href": "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
+      "title": "We replaced passwords with something worse",
+      "href": "https://blog.danielh.cc/blog/passwords",
+      "points": "",
+      "comments": "\n              68 comments",
+      "index": 16
+    },
+    {
+      "title": "LVFS Sustainability Plan",
+      "href": "https://blogs.gnome.org/hughsie/2025/08/08/lvfs-sustainability-plan/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 17
+    },
+    {
+      "title": "How I ended up writing Gleam for a living",
+      "href": "https://www.youtube.com/watch?v=BfPRcanTWXA",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "efrit: A native elisp coding agent running in Emacs",
+      "href": "https://github.com/steveyegge/efrit",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 19
     },
     {
-      "title": "Updated Google Project Zero disclosure policy",
-      "href": "https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html",
+      "title": "Abusing Ubuntu 24.04 features for root privilege escalation (2024)",
+      "href": "https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              2 comments",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Updated Google Project Zero disclosure policy",
+      "href": "https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 22
+    },
+    {
+      "title": "GPT-5 is here",
+      "href": "https://openai.com/gpt-5/",
+      "points": "",
+      "comments": "\n              49 comments",
+      "index": 23
+    },
+    {
       "title": "Overview of Jepsen at BugBash 2025",
       "href": "https://antithesis.com/blog/2025/bugbash_2025/kyle_kingsbury/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/qr1kro/what_are_you_doing_this_weekend",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 23
-    },
-    {
-      "title": "Introducing Wassette: WebAssembly-based tools for AI agents",
-      "href": "https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "Jepsen: Capela dda5892",
-      "href": "https://jepsen.io/analyses/capela-dda5892",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 25
     }
   ]
