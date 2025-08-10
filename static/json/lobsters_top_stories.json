@@ -1,53 +1,53 @@
 {
-  "date": "Sunday, August 10, 2025 at 12:15 PM GMT-5",
+  "date": "Sunday, August 10, 2025 at 1:25 PM GMT-5",
   "articles": [
+    {
+      "title": "Zig's Lovely Syntax",
+      "href": "https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 1
+    },
     {
       "title": "Lobsters client for Emacs",
       "href": "https://github.com/tanrax/lobsters.el",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 1
+      "index": 2
     },
     {
       "title": "Debian 13 \"trixie\" released",
       "href": "https://debian.org/News/2025/20250809",
       "points": "",
-      "comments": "\n              24 comments",
-      "index": 2
+      "comments": "\n              26 comments",
+      "index": 3
     },
     {
       "title": "JanetDocs",
       "href": "https://janetdocs.org/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 3
+      "index": 4
     },
     {
-      "title": "Zig's Lovely Syntax",
-      "href": "https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html",
+      "title": "Why do we even need SIMD instructions ?",
+      "href": "https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 4
+      "comments": "\n              4 comments",
+      "index": 5
     },
     {
       "title": "ohyaml.wtf | YAML Quiz",
       "href": "https://www.ohyaml.wtf/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Resurrecting Google's Search Appliance",
       "href": "https://www.youtube.com/watch?v=bjrmH7hVBOo",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 6
-    },
-    {
-      "title": "Why do we even need SIMD instructions ?",
-      "href": "https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              9 comments",
       "index": 7
     },
     {
@@ -61,7 +61,7 @@
       "title": "All-in on Omarchy at 37signals",
       "href": "https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              14 comments",
       "index": 9
     },
     {
@@ -79,52 +79,52 @@
       "index": 11
     },
     {
-      "title": "GPTs and feeling left behind",
-      "href": "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/",
-      "points": "",
-      "comments": "\n              21 comments",
-      "index": 12
-    },
-    {
       "title": "Introducing rr Chaos Mode (2016)",
       "href": "https://robert.ocallahan.org/2016/02/introducing-rr-chaos-mode.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "GPTs and feeling left behind",
+      "href": "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/",
+      "points": "",
+      "comments": "\n              21 comments",
       "index": 13
     },
     {
       "title": "an engineer's perspective on hiring",
       "href": "https://jyn.dev/an-engineers-perspective-on-hiring",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              17 comments",
       "index": 14
     },
     {
       "title": "The Framework Desktop is a beast",
       "href": "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 15
-    },
-    {
-      "title": "Improving Geographical Resilience For Distributed Open Source Teams with FREON",
-      "href": "https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
     },
     {
       "title": "onion: Stack language compiled to lua",
       "href": "https://github.com/yumaikas/onion",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 17
+      "comments": "\n              1 comment",
+      "index": 16
     },
     {
       "title": "Elixir Misconceptions #1 - Don't \"let it crash\" but \"let it heal\"",
       "href": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Improving Geographical Resilience For Distributed Open Source Teams with FREON",
+      "href": "https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "Copy Link to Highlight in Nightly – These Weeks in Firefox: Issue 185",
+      "href": "https://blog.nightly.mozilla.org/2025/07/28/copy-link-to-highlight-in-nightly-these-weeks-in-firefox-issue-185/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
       "title": "Speeding up the JavaScript ecosystem - Semver",
       "href": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "What even is distributed systems",
       "href": "https://notes.eatonphil.com/2025-08-09-what-even-is-distributed-systems.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
-    },
-    {
-      "title": "A CT scanner reveals surprises inside the 386 processor's ceramic package",
-      "href": "http://www.righto.com/2025/08/intel-386-package-ct-scan.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 22
-    },
-    {
-      "title": "Janet Minipbt Translation",
-      "href": "https://github.com/sogaiu/janet-minipbt-translation",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
     },
     {
       "title": "MCP: An (Accidentally) Universal Plugin System",
       "href": "https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin",
       "points": "",
       "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "A CT scanner reveals surprises inside the 386 processor's ceramic package",
+      "href": "http://www.righto.com/2025/08/intel-386-package-ct-scan.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Myths About Floating-Point Numbers (2021)",
-      "href": "https://www.asawicki.info/news_1741_myths_about_floating-point_numbers",
+      "title": "Janet Minipbt Translation",
+      "href": "https://github.com/sogaiu/janet-minipbt-translation",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
