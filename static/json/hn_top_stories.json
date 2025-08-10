@@ -1,213 +1,213 @@
 {
-  "date": "Sunday, August 10, 2025 at 4:20 AM GMT-5",
+  "date": "Sunday, August 10, 2025 at 5:20 AM GMT-5",
   "articles": [
+    {
+      "title": "Writing Your Own Simple Tab-Completions for Bash and Zsh",
+      "href": "https://mill-build.org/blog/14-bash-zsh-completion.html",
+      "points": "10 points",
+      "comments": "discuss",
+      "index": 1
+    },
     {
       "title": "Abogen – Generate audiobooks from EPUBs, PDFs and text",
       "href": "https://github.com/denizsafak/abogen",
-      "points": "105 points",
-      "comments": "25 comments",
-      "index": 1
+      "points": "129 points",
+      "comments": "29 comments",
+      "index": 2
     },
     {
       "title": "How I code with AI on a budget/free",
       "href": "https://wuu73.org/blog/aiguide1.html",
-      "points": "314 points",
-      "comments": "100 comments",
-      "index": 2
+      "points": "344 points",
+      "comments": "105 comments",
+      "index": 3
     },
     {
       "title": "Curious about the training data of OpenAI's new GPT-OSS models? I was too",
       "href": "https://twitter.com/jxmnop/status/1953899426075816164",
-      "points": "111 points",
-      "comments": "22 comments",
-      "index": 3
+      "points": "131 points",
+      "comments": "26 comments",
+      "index": 4
     },
     {
       "title": "Abusing Entra OAuth for fun and access to internal Microsoft applications",
       "href": "https://research.eye.security/consent-and-compromise/",
-      "points": "214 points",
-      "comments": "52 comments",
-      "index": 4
+      "points": "229 points",
+      "comments": "54 comments",
+      "index": 5
     },
     {
       "title": "Show HN: The current sky at your approximate location, as a CSS gradient",
       "href": "https://sky.dlazaro.ca",
-      "points": "657 points",
-      "comments": "131 comments",
-      "index": 5
-    },
-    {
-      "title": "The importance of offtopic",
-      "href": "https://blog.tadzik.net/the-importance-of-offtopic.html",
-      "points": "38 points",
-      "comments": "20 comments",
+      "points": "669 points",
+      "comments": "133 comments",
       "index": 6
     },
     {
       "title": "My Lethal Trifecta talk at the Bay Area AI Security Meetup",
       "href": "https://simonwillison.net/2025/Aug/9/bay-area-ai/",
-      "points": "349 points",
-      "comments": "95 comments",
+      "points": "357 points",
+      "comments": "97 comments",
       "index": 7
+    },
+    {
+      "title": "The importance of offtopic",
+      "href": "https://blog.tadzik.net/the-importance-of-offtopic.html",
+      "points": "49 points",
+      "comments": "29 comments",
+      "index": 8
     },
     {
       "title": "Don't “let it crash”, let it heal",
       "href": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
-      "points": "103 points",
-      "comments": "43 comments",
-      "index": 8
-    },
-    {
-      "title": "How Potatoes Evolved",
-      "href": "https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html",
-      "points": "43 points",
-      "comments": "13 comments",
+      "points": "106 points",
+      "comments": "46 comments",
       "index": 9
     },
     {
       "title": "OpenFreeMap survived 100k requests per second",
       "href": "https://blog.hyperknot.com/p/openfreemap-survived-100000-requests",
-      "points": "471 points",
-      "comments": "90 comments",
+      "points": "486 points",
+      "comments": "94 comments",
       "index": 10
     },
     {
-      "title": "A CT scanner reveals surprises inside the 386 processor's ceramic package",
-      "href": "https://www.righto.com/2025/08/intel-386-package-ct-scan.html",
-      "points": "229 points",
-      "comments": "81 comments",
+      "title": "How Potatoes Evolved",
+      "href": "https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html",
+      "points": "46 points",
+      "comments": "16 comments",
       "index": 11
+    },
+    {
+      "title": "Microsoft POML – Prompt Orchestration Markup Language",
+      "href": "https://github.com/microsoft/poml",
+      "points": "7 points",
+      "comments": "1 comment",
+      "index": 12
     },
     {
       "title": "How I use Tailscale",
       "href": "https://chameth.com/how-i-use-tailscale/",
-      "points": "277 points",
-      "comments": "54 comments",
-      "index": 12
+      "points": "284 points",
+      "comments": "57 comments",
+      "index": 13
     },
     {
-      "title": "Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API",
-      "href": "https://ch.at/",
-      "points": "156 points",
-      "comments": "49 comments",
-      "index": 13
+      "title": "P-fast trie, but smaller",
+      "href": "https://dotat.at/@/2025-08-06-p-fast-trie.html",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 14
+    },
+    {
+      "title": "A CT scanner reveals surprises inside the 386 processor's ceramic package",
+      "href": "https://www.righto.com/2025/08/intel-386-package-ct-scan.html",
+      "points": "233 points",
+      "comments": "83 comments",
+      "index": 15
     },
     {
       "title": "The Framework Desktop is a beast",
       "href": "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff",
-      "points": "138 points",
-      "comments": "114 comments",
-      "index": 14
+      "points": "162 points",
+      "comments": "129 comments",
+      "index": 16
     },
     {
-      "title": "The current state of LLM-driven development",
-      "href": "http://blog.tolki.dev/posts/2025/08-07-llms/",
-      "points": "110 points",
-      "comments": "75 comments",
-      "index": 15
+      "title": "Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API",
+      "href": "https://ch.at/",
+      "points": "165 points",
+      "comments": "50 comments",
+      "index": 17
     },
     {
       "title": "People returned to live in Pompeii's ruins, archaeologists say",
       "href": "https://www.bbc.com/news/articles/c62wx23y2v1o",
-      "points": "64 points",
+      "points": "69 points",
       "comments": "9 comments",
-      "index": 16
+      "index": 18
+    },
+    {
+      "title": "The current state of LLM-driven development",
+      "href": "http://blog.tolki.dev/posts/2025/08-07-llms/",
+      "points": "117 points",
+      "comments": "80 comments",
+      "index": 19
     },
     {
       "title": "Debian 13 \"Trixie\"",
       "href": "https://www.debian.org/News/2025/20250809",
-      "points": "714 points",
-      "comments": "270 comments",
-      "index": 17
-    },
-    {
-      "title": "Who got arrested in the raid on the XSS crime forum?",
-      "href": "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/",
-      "points": "125 points",
-      "comments": "14 comments",
-      "index": 18
+      "points": "738 points",
+      "comments": "285 comments",
+      "index": 20
     },
     {
       "title": "Quickshell – building blocks for your desktop",
       "href": "https://quickshell.org/",
-      "points": "304 points",
-      "comments": "34 comments",
-      "index": 19
+      "points": "310 points",
+      "comments": "36 comments",
+      "index": 21
+    },
+    {
+      "title": "Who got arrested in the raid on the XSS crime forum?",
+      "href": "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/",
+      "points": "129 points",
+      "comments": "18 comments",
+      "index": 22
     },
     {
       "title": "Long-term exposure to outdoor air pollution linked to increased risk of dementia",
       "href": "https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia",
-      "points": "291 points",
+      "points": "298 points",
       "comments": "92 comments",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Melonking Website",
       "href": "https://melonking.net/",
-      "points": "20 points",
-      "comments": "4 comments",
-      "index": 21
-    },
-    {
-      "title": "R0ML's Ratio",
-      "href": "https://blog.glyph.im/2025/08/r0mls-ratio.html",
-      "points": "62 points",
-      "comments": "12 comments",
-      "index": 22
+      "points": "27 points",
+      "comments": "5 comments",
+      "index": 24
     },
     {
       "title": "Did California's fast food minimum wage reduce employment?",
       "href": "https://www.nber.org/papers/w34033",
-      "points": "129 points",
-      "comments": "260 comments",
-      "index": 23
+      "points": "136 points",
+      "comments": "270 comments",
+      "index": 25
     },
     {
-      "title": "A Simple CPU on the Game of Life (2021)",
-      "href": "https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html",
-      "points": "65 points",
-      "comments": "7 comments",
-      "index": 24
+      "title": "R0ML's Ratio",
+      "href": "https://blog.glyph.im/2025/08/r0mls-ratio.html",
+      "points": "64 points",
+      "comments": "13 comments",
+      "index": 26
     },
     {
       "title": "Stanford to continue legacy admissions and withdraw from Cal Grants",
       "href": "https://www.forbes.com/sites/michaeltnietzel/2025/08/08/stanford-to-continue-legacy-admissions-and-withdraw-from-cal-grants/",
-      "points": "215 points",
-      "comments": "423 comments",
-      "index": 25
+      "points": "218 points",
+      "comments": "428 comments",
+      "index": 27
     },
     {
       "title": "An engineer's perspective on hiring",
       "href": "https://jyn.dev/an-engineers-perspective-on-hiring",
-      "points": "116 points",
-      "comments": "112 comments",
-      "index": 26
-    },
-    {
-      "title": "How to interactively debug GitHub Actions with netcat",
-      "href": "https://jacobtomlinson.dev/posts/2021/how-to-interactively-debug-github-actions-with-netcat/",
-      "points": "3 points",
-      "comments": "discuss",
-      "index": 27
-    },
-    {
-      "title": "Ratfactor's illustrated guide to folding fitted sheets",
-      "href": "https://ratfactor.com/cards/fitted-sheets",
-      "points": "186 points",
-      "comments": "25 comments",
+      "points": "119 points",
+      "comments": "126 comments",
       "index": 28
     },
     {
       "title": "GPTs and Feeling Left Behind",
       "href": "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/",
-      "points": "161 points",
-      "comments": "102 comments",
+      "points": "170 points",
+      "comments": "112 comments",
       "index": 29
     },
     {
-      "title": "Caligra Workbench",
-      "href": "https://caligra.com/workbench/",
-      "points": "23 points",
+      "title": "A Simple CPU on the Game of Life (2021)",
+      "href": "https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html",
+      "points": "68 points",
       "comments": "8 comments",
       "index": 30
     }
