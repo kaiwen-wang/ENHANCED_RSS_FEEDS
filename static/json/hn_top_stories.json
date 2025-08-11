@@ -1,214 +1,214 @@
 {
-  "date": "Monday, August 11, 2025 at 4:25 AM GMT-5",
+  "date": "Monday, August 11, 2025 at 5:25 AM GMT-5",
   "articles": [
-    {
-      "title": "Google paid a $250K reward for a bug",
-      "href": "https://issues.chromium.org/issues/412578726",
-      "points": "240 points",
-      "comments": "96 comments",
-      "index": 1
-    },
     {
       "title": "Vanishing from Hyundai’s data network",
       "href": "http://techno-fandom.org/~hobbit/cars/ev/offnet.html",
-      "points": "238 points",
-      "comments": "88 comments",
+      "points": "253 points",
+      "comments": "102 comments",
+      "index": 1
+    },
+    {
+      "title": "Cursor's Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR",
+      "href": "https://www.getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant",
+      "points": "6 points",
+      "comments": "discuss",
       "index": 2
-    },
-    {
-      "title": "Basic Social Skills Guide",
-      "href": "https://www.improveyoursocialskills.com/basic-social-skills-guide",
-      "points": "121 points",
-      "comments": "59 comments",
-      "index": 3
-    },
-    {
-      "title": "Going faster than memcpy",
-      "href": "https://squadrick.dev/journal/going-faster-than-memcpy",
-      "points": "66 points",
-      "comments": "35 comments",
-      "index": 4
-    },
-    {
-      "title": "A ChatGPT Pro subscription costs 38.6 months of income in low-income countries",
-      "href": "https://policykahani.substack.com/p/a-chatgpt-pro-subscription-costs",
-      "points": "21 points",
-      "comments": "12 comments",
-      "index": 5
     },
     {
       "title": "Dropbox announces new gen server hardware for higher efficiency and scalability",
       "href": "https://dropbox.tech/infrastructure/seventh-generation-server-hardware",
-      "points": "26 points",
-      "comments": "20 comments",
-      "index": 6
-    },
-    {
-      "title": "Generic Containers in C: Safe Division Using Maybe",
-      "href": "https://uecker.codeberg.page/2025-08-10.html",
-      "points": "36 points",
-      "comments": "3 comments",
-      "index": 7
-    },
-    {
-      "title": "Raised by Wolves Is Original Sci-Fi at Its Most Polarizing (2020)",
-      "href": "https://www.rogerebert.com/streaming/hbo-maxs-raised-by-wolves-is-original-sci-fi-at-its-most-polarizing",
-      "points": "42 points",
-      "comments": "36 comments",
-      "index": 8
-    },
-    {
-      "title": "Try and",
-      "href": "https://ygdp.yale.edu/phenomena/try-and",
-      "points": "534 points",
-      "comments": "262 comments",
-      "index": 9
-    },
-    {
-      "title": "Compiling a Lisp: Lambda lifting",
-      "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
-      "points": "111 points",
-      "comments": "9 comments",
-      "index": 10
-    },
-    {
-      "title": "Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]",
-      "href": "https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf",
-      "points": "30 points",
-      "comments": "4 comments",
-      "index": 11
-    },
-    {
-      "title": "GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
-      "href": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
-      "points": "389 points",
-      "comments": "82 comments",
-      "index": 12
+      "points": "37 points",
+      "comments": "37 comments",
+      "index": 3
     },
     {
       "title": "Millau Viaduct",
       "href": "https://www.fosterandpartners.com/projects/millau-viaduct",
-      "points": "11 points",
-      "comments": "1 comment",
+      "points": "34 points",
+      "comments": "4 comments",
+      "index": 4
+    },
+    {
+      "title": "Faster substring search with SIMD in Zig",
+      "href": "https://aarol.dev/posts/zig-simd-substr/",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 5
+    },
+    {
+      "title": "Generic Containers in C: Safe Division Using Maybe",
+      "href": "https://uecker.codeberg.page/2025-08-10.html",
+      "points": "47 points",
+      "comments": "12 comments",
+      "index": 6
+    },
+    {
+      "title": "The Chrome VRP Panel has decided to award $250k for this report",
+      "href": "https://issues.chromium.org/issues/412578726",
+      "points": "280 points",
+      "comments": "108 comments",
+      "index": 7
+    },
+    {
+      "title": "Try and",
+      "href": "https://ygdp.yale.edu/phenomena/try-and",
+      "points": "541 points",
+      "comments": "266 comments",
+      "index": 8
+    },
+    {
+      "title": "Compiling a Lisp: Lambda lifting",
+      "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
+      "points": "117 points",
+      "comments": "10 comments",
+      "index": 9
+    },
+    {
+      "title": "GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
+      "href": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
+      "points": "395 points",
+      "comments": "83 comments",
+      "index": 10
+    },
+    {
+      "title": "Basic Social Skills Guide",
+      "href": "https://www.improveyoursocialskills.com/basic-social-skills-guide",
+      "points": "139 points",
+      "comments": "78 comments",
+      "index": 11
+    },
+    {
+      "title": "Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]",
+      "href": "https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf",
+      "points": "33 points",
+      "comments": "4 comments",
+      "index": 12
+    },
+    {
+      "title": "Going faster than memcpy",
+      "href": "https://squadrick.dev/journal/going-faster-than-memcpy",
+      "points": "74 points",
+      "comments": "42 comments",
       "index": 13
     },
     {
       "title": "Show HN: Bolt – A super-fast, statically-typed scripting language written in C",
       "href": "https://github.com/Beariish/bolt",
-      "points": "212 points",
-      "comments": "63 comments",
+      "points": "216 points",
+      "comments": "66 comments",
       "index": 14
     },
     {
       "title": "Lists and Lists: Basics of Lisp through interactive fiction (1996)",
       "href": "https://eblong.com/zarf/zweb/lists/",
-      "points": "43 points",
-      "comments": "7 comments",
+      "points": "45 points",
+      "comments": "8 comments",
       "index": 15
-    },
-    {
-      "title": "Fight Chat Control",
-      "href": "https://fightchatcontrol.eu/",
-      "points": "1074 points",
-      "comments": "314 comments",
-      "index": 16
-    },
-    {
-      "title": "Show HN: A Sinclair ZX81 retro web assembler+simulator",
-      "href": "item?id=44859761",
-      "points": "43 points",
-      "comments": "6 comments",
-      "index": 17
     },
     {
       "title": "Show HN: Engineering.fyi – Search across tech engineering blogs in one place",
       "href": "https://engineering.fyi/",
-      "points": "376 points",
-      "comments": "101 comments",
-      "index": 18
-    },
-    {
-      "title": "One Million Screenshots",
-      "href": "https://onemillionscreenshots.com/?q=random",
-      "points": "207 points",
-      "comments": "74 comments",
-      "index": 19
-    },
-    {
-      "title": "The enduring puzzle of static electricity",
-      "href": "https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven",
-      "points": "59 points",
-      "comments": "4 comments",
-      "index": 20
-    },
-    {
-      "title": "Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”",
-      "href": "https://mrwint.github.io/winter/writeup/writeup2.html",
-      "points": "174 points",
-      "comments": "10 comments",
-      "index": 21
-    },
-    {
-      "title": "1910: The year the modern world lost its mind",
-      "href": "https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost",
-      "points": "277 points",
-      "comments": "226 comments",
-      "index": 22
-    },
-    {
-      "title": "Diffusion language models are super data learners",
-      "href": "https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac",
-      "points": "177 points",
-      "comments": "13 comments",
-      "index": 23
+      "points": "382 points",
+      "comments": "102 comments",
+      "index": 16
     },
     {
       "title": "Bouncing on trampolines to run eBPF programs",
       "href": "https://bootlin.com/blog/bouncing-on-trampolines-to-run-ebpf-programs/",
-      "points": "7 points",
+      "points": "13 points",
       "comments": "discuss",
+      "index": 17
+    },
+    {
+      "title": "Fight Chat Control",
+      "href": "https://fightchatcontrol.eu/",
+      "points": "1116 points",
+      "comments": "333 comments",
+      "index": 18
+    },
+    {
+      "title": "Show HN: A Sinclair ZX81 retro web assembler+simulator",
+      "href": "item?id=44859761",
+      "points": "45 points",
+      "comments": "7 comments",
+      "index": 19
+    },
+    {
+      "title": "Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”",
+      "href": "https://mrwint.github.io/winter/writeup/writeup2.html",
+      "points": "182 points",
+      "comments": "11 comments",
+      "index": 20
+    },
+    {
+      "title": "One Million Screenshots",
+      "href": "https://onemillionscreenshots.com/?q=random",
+      "points": "212 points",
+      "comments": "75 comments",
+      "index": 21
+    },
+    {
+      "title": "Self-Guaranteeing Promises",
+      "href": "https://stephango.com/self-guarantee",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 22
+    },
+    {
+      "title": "The enduring puzzle of static electricity",
+      "href": "https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven",
+      "points": "65 points",
+      "comments": "4 comments",
+      "index": 23
+    },
+    {
+      "title": "Diffusion language models are super data learners",
+      "href": "https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac",
+      "points": "181 points",
+      "comments": "13 comments",
       "index": 24
+    },
+    {
+      "title": "1910: The year the modern world lost its mind",
+      "href": "https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost",
+      "points": "282 points",
+      "comments": "237 comments",
+      "index": 25
+    },
+    {
+      "title": "Show HN: I built a service to run Claude Code in the Cloud",
+      "href": "https://agentwrap.dev/",
+      "points": "5 points",
+      "comments": "2 comments",
+      "index": 26
     },
     {
       "title": "PHP compile time generics: yay or nay?",
       "href": "https://thephp.foundation/blog/2025/08/05/compile-generics/",
-      "points": "78 points",
+      "points": "80 points",
       "comments": "46 comments",
-      "index": 25
+      "index": 27
     },
     {
       "title": "Booting 5000 Erlangs on Ampere One 192-core",
       "href": "https://underjord.io/booting-5000-erlangs-on-ampere-one.html",
-      "points": "199 points",
+      "points": "202 points",
       "comments": "36 comments",
-      "index": 26
-    },
-    {
-      "title": "How I code with AI on a budget/free",
-      "href": "https://wuu73.org/blog/aiguide1.html",
-      "points": "619 points",
-      "comments": "209 comments",
-      "index": 27
+      "index": 28
     },
     {
       "title": "Writing simple tab-completions for Bash and Zsh",
       "href": "https://mill-build.org/blog/14-bash-zsh-completion.html",
-      "points": "239 points",
-      "comments": "79 comments",
-      "index": 28
-    },
-    {
-      "title": "TCP Client Self-Connect (2013)",
-      "href": "http://sgros.blogspot.com/2013/08/tcp-client-self-connect.html",
-      "points": "37 points",
-      "comments": "5 comments",
+      "points": "243 points",
+      "comments": "80 comments",
       "index": 29
     },
     {
-      "title": "Abogen – Generate audiobooks from EPUBs, PDFs and text",
-      "href": "https://github.com/denizsafak/abogen",
-      "points": "315 points",
-      "comments": "74 comments",
+      "title": "How I code with AI on a budget/free",
+      "href": "https://wuu73.org/blog/aiguide1.html",
+      "points": "622 points",
+      "comments": "212 comments",
       "index": 30
     }
   ]
