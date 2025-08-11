@@ -1,214 +1,214 @@
 {
-  "date": "Monday, August 11, 2025 at 6:20 AM GMT-5",
+  "date": "Monday, August 11, 2025 at 7:45 AM GMT-5",
   "articles": [
+    {
+      "title": "OpenSSH Post-Quantum Cryptography",
+      "href": "https://www.openssh.com/pq.html",
+      "points": "45 points",
+      "comments": "3 comments",
+      "index": 1
+    },
     {
       "title": "Faster substring search with SIMD in Zig",
       "href": "https://aarol.dev/posts/zig-simd-substr/",
-      "points": "28 points",
+      "points": "79 points",
+      "comments": "14 comments",
+      "index": 2
+    },
+    {
+      "title": "Hand-picked selection of articles on AI fundamentals/concepts",
+      "href": "https://aman.ai/primers/ai/",
+      "points": "71 points",
       "comments": "4 comments",
-      "index": 1
+      "index": 3
     },
     {
       "title": "Vanishing from Hyundai’s data network",
       "href": "http://techno-fandom.org/~hobbit/cars/ev/offnet.html",
-      "points": "275 points",
-      "comments": "115 comments",
-      "index": 2
+      "points": "309 points",
+      "comments": "135 comments",
+      "index": 4
     },
     {
       "title": "Millau Viaduct",
       "href": "https://www.fosterandpartners.com/projects/millau-viaduct",
-      "points": "51 points",
-      "comments": "12 comments",
-      "index": 3
-    },
-    {
-      "title": "Try and",
-      "href": "https://ygdp.yale.edu/phenomena/try-and",
-      "points": "551 points",
-      "comments": "270 comments",
-      "index": 4
-    },
-    {
-      "title": "The Chrome VRP Panel has decided to award $250k for this report",
-      "href": "https://issues.chromium.org/issues/412578726",
-      "points": "295 points",
-      "comments": "123 comments",
+      "points": "80 points",
+      "comments": "27 comments",
       "index": 5
-    },
-    {
-      "title": "Generic Containers in C: Safe Division Using Maybe",
-      "href": "https://uecker.codeberg.page/2025-08-10.html",
-      "points": "53 points",
-      "comments": "16 comments",
-      "index": 6
-    },
-    {
-      "title": "GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
-      "href": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
-      "points": "404 points",
-      "comments": "85 comments",
-      "index": 7
-    },
-    {
-      "title": "Self-Guaranteeing Promises",
-      "href": "https://stephango.com/self-guarantee",
-      "points": "12 points",
-      "comments": "discuss",
-      "index": 8
-    },
-    {
-      "title": "Compiling a Lisp: Lambda lifting",
-      "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
-      "points": "120 points",
-      "comments": "11 comments",
-      "index": 9
-    },
-    {
-      "title": "Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]",
-      "href": "https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf",
-      "points": "38 points",
-      "comments": "4 comments",
-      "index": 10
     },
     {
       "title": "GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM",
       "href": "https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/",
-      "points": "20 points",
-      "comments": "1 comment",
-      "index": 11
+      "points": "72 points",
+      "comments": "14 comments",
+      "index": 6
     },
     {
-      "title": "Show HN: Bolt – A super-fast, statically-typed scripting language written in C",
-      "href": "https://github.com/Beariish/bolt",
-      "points": "221 points",
-      "comments": "70 comments",
-      "index": 12
+      "title": "Self-Guaranteeing Promises",
+      "href": "https://stephango.com/self-guarantee",
+      "points": "34 points",
+      "comments": "10 comments",
+      "index": 7
     },
     {
       "title": "Going faster than memcpy",
       "href": "https://squadrick.dev/journal/going-faster-than-memcpy",
-      "points": "81 points",
-      "comments": "47 comments",
+      "points": "92 points",
+      "comments": "49 comments",
+      "index": 8
+    },
+    {
+      "title": "Try and",
+      "href": "https://ygdp.yale.edu/phenomena/try-and",
+      "points": "575 points",
+      "comments": "280 comments",
+      "index": 9
+    },
+    {
+      "title": "Generic Containers in C: Safe Division Using Maybe",
+      "href": "https://uecker.codeberg.page/2025-08-10.html",
+      "points": "64 points",
+      "comments": "31 comments",
+      "index": 10
+    },
+    {
+      "title": "GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
+      "href": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
+      "points": "421 points",
+      "comments": "90 comments",
+      "index": 11
+    },
+    {
+      "title": "Compiling a Lisp: Lambda lifting",
+      "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
+      "points": "129 points",
+      "comments": "11 comments",
+      "index": 12
+    },
+    {
+      "title": "The Chrome VRP Panel has decided to award $250k for this report",
+      "href": "https://issues.chromium.org/issues/412578726",
+      "points": "327 points",
+      "comments": "154 comments",
       "index": 13
     },
     {
-      "title": "Basic Social Skills Guide",
-      "href": "https://www.improveyoursocialskills.com/basic-social-skills-guide",
-      "points": "162 points",
-      "comments": "96 comments",
+      "title": "Show HN: Bolt – A super-fast, statically-typed scripting language written in C",
+      "href": "https://github.com/Beariish/bolt",
+      "points": "232 points",
+      "comments": "75 comments",
       "index": 14
+    },
+    {
+      "title": "Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]",
+      "href": "https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf",
+      "points": "42 points",
+      "comments": "7 comments",
+      "index": 15
     },
     {
       "title": "Lists and Lists: Basics of Lisp through interactive fiction (1996)",
       "href": "https://eblong.com/zarf/zweb/lists/",
-      "points": "46 points",
-      "comments": "8 comments",
-      "index": 15
-    },
-    {
-      "title": "Fight Chat Control",
-      "href": "https://fightchatcontrol.eu/",
-      "points": "1164 points",
-      "comments": "364 comments",
+      "points": "55 points",
+      "comments": "10 comments",
       "index": 16
-    },
-    {
-      "title": "Show HN: Engineering.fyi – Search across tech engineering blogs in one place",
-      "href": "https://engineering.fyi/",
-      "points": "390 points",
-      "comments": "102 comments",
-      "index": 17
-    },
-    {
-      "title": "Bouncing on trampolines to run eBPF programs",
-      "href": "https://bootlin.com/blog/bouncing-on-trampolines-to-run-ebpf-programs/",
-      "points": "16 points",
-      "comments": "discuss",
-      "index": 18
     },
     {
       "title": "Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”",
       "href": "https://mrwint.github.io/winter/writeup/writeup2.html",
-      "points": "193 points",
-      "comments": "12 comments",
+      "points": "212 points",
+      "comments": "14 comments",
+      "index": 17
+    },
+    {
+      "title": "Fight Chat Control",
+      "href": "https://fightchatcontrol.eu/",
+      "points": "1229 points",
+      "comments": "388 comments",
+      "index": 18
+    },
+    {
+      "title": "Show HN: Engineering.fyi – Search across tech engineering blogs in one place",
+      "href": "https://engineering.fyi/",
+      "points": "403 points",
+      "comments": "104 comments",
       "index": 19
-    },
-    {
-      "title": "One Million Screenshots",
-      "href": "https://onemillionscreenshots.com/?q=random",
-      "points": "219 points",
-      "comments": "77 comments",
-      "index": 20
-    },
-    {
-      "title": "Show HN: A Sinclair ZX81 retro web assembler+simulator",
-      "href": "item?id=44859761",
-      "points": "50 points",
-      "comments": "8 comments",
-      "index": 21
     },
     {
       "title": "The enduring puzzle of static electricity",
       "href": "https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven",
-      "points": "71 points",
+      "points": "87 points",
       "comments": "5 comments",
+      "index": 20
+    },
+    {
+      "title": "Bouncing on trampolines to run eBPF programs",
+      "href": "https://bootlin.com/blog/bouncing-on-trampolines-to-run-ebpf-programs/",
+      "points": "28 points",
+      "comments": "1 comment",
+      "index": 21
+    },
+    {
+      "title": "Show HN: A Sinclair ZX81 retro web assembler+simulator",
+      "href": "item?id=44859761",
+      "points": "59 points",
+      "comments": "10 comments",
       "index": 22
+    },
+    {
+      "title": "One Million Screenshots",
+      "href": "https://onemillionscreenshots.com/?q=random",
+      "points": "232 points",
+      "comments": "80 comments",
+      "index": 23
     },
     {
       "title": "Diffusion language models are super data learners",
       "href": "https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac",
-      "points": "185 points",
-      "comments": "13 comments",
-      "index": 23
+      "points": "196 points",
+      "comments": "14 comments",
+      "index": 24
+    },
+    {
+      "title": "Dear String-to-Integer Parsers",
+      "href": "https://owl.billpg.com/dear-string-to-integer-parsers/",
+      "points": "4 points",
+      "comments": "3 comments",
+      "index": 25
     },
     {
       "title": "1910: The year the modern world lost its mind",
       "href": "https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost",
-      "points": "290 points",
-      "comments": "245 comments",
-      "index": 24
-    },
-    {
-      "title": "PHP compile time generics: yay or nay?",
-      "href": "https://thephp.foundation/blog/2025/08/05/compile-generics/",
-      "points": "82 points",
-      "comments": "46 comments",
-      "index": 25
-    },
-    {
-      "title": "Booting 5000 Erlangs on Ampere One 192-core",
-      "href": "https://underjord.io/booting-5000-erlangs-on-ampere-one.html",
-      "points": "204 points",
-      "comments": "36 comments",
+      "points": "301 points",
+      "comments": "259 comments",
       "index": 26
     },
     {
       "title": "How I code with AI on a budget/free",
       "href": "https://wuu73.org/blog/aiguide1.html",
-      "points": "628 points",
-      "comments": "213 comments",
+      "points": "642 points",
+      "comments": "219 comments",
       "index": 27
+    },
+    {
+      "title": "Booting 5000 Erlangs on Ampere One 192-core",
+      "href": "https://underjord.io/booting-5000-erlangs-on-ampere-one.html",
+      "points": "207 points",
+      "comments": "36 comments",
+      "index": 28
     },
     {
       "title": "Writing simple tab-completions for Bash and Zsh",
       "href": "https://mill-build.org/blog/14-bash-zsh-completion.html",
-      "points": "246 points",
-      "comments": "80 comments",
-      "index": 28
-    },
-    {
-      "title": "TCP Client Self-Connect (2013)",
-      "href": "http://sgros.blogspot.com/2013/08/tcp-client-self-connect.html",
-      "points": "43 points",
-      "comments": "5 comments",
+      "points": "253 points",
+      "comments": "82 comments",
       "index": 29
     },
     {
-      "title": "Abogen – Generate audiobooks from EPUBs, PDFs and text",
-      "href": "https://github.com/denizsafak/abogen",
-      "points": "317 points",
-      "comments": "78 comments",
+      "title": "PHP compile time generics: yay or nay?",
+      "href": "https://thephp.foundation/blog/2025/08/05/compile-generics/",
+      "points": "86 points",
+      "comments": "50 comments",
       "index": 30
     }
   ]
