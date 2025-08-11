@@ -1,11 +1,11 @@
 {
-  "date": "Monday, August 11, 2025 at 2:25 AM GMT-5",
+  "date": "Monday, August 11, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "Zig's Lovely Syntax",
       "href": "https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html",
       "points": "",
-      "comments": "\n              34 comments",
+      "comments": "\n              36 comments",
       "index": 1
     },
     {
@@ -16,17 +16,17 @@
       "index": 2
     },
     {
-      "title": "Why do we even need SIMD instructions ?",
-      "href": "https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 3
-    },
-    {
       "title": "Setting up a CI server for Forgejo",
       "href": "https://robey.lag.net/2025/08/10/forgejo-ci.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 3
+    },
+    {
+      "title": "Compiling a Lisp: Lambda lifting",
+      "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 4
     },
     {
@@ -37,59 +37,59 @@
       "index": 5
     },
     {
+      "title": "Why do we even need SIMD instructions ?",
+      "href": "https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 6
+    },
+    {
       "title": "Resurrecting Google's Search Appliance",
       "href": "https://www.youtube.com/watch?v=bjrmH7hVBOo",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 6
-    },
-    {
-      "title": "Compiling a Lisp: Lambda lifting",
-      "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 7
     },
     {
       "title": "ohyaml.wtf | YAML Quiz",
       "href": "https://www.ohyaml.wtf/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 8
-    },
-    {
-      "title": "JanetDocs",
-      "href": "https://janetdocs.org/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 9
-    },
-    {
-      "title": "Debian 13 \"trixie\" released",
-      "href": "https://debian.org/News/2025/20250809",
-      "points": "",
-      "comments": "\n              33 comments",
-      "index": 10
-    },
-    {
-      "title": "Creating high quality electronics schematics",
-      "href": "https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 11
-    },
-    {
-      "title": "Creating the longest possible Ski Jump in The Games: Winter Challenge",
-      "href": "https://mrwint.github.io/winter/writeup/writeup2.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
     },
     {
       "title": "TCP Client Self-Connect (2013)",
       "href": "https://sgros.blogspot.com/2013/08/tcp-client-self-connect.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
+      "title": "JanetDocs",
+      "href": "https://janetdocs.org/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 10
+    },
+    {
+      "title": "Debian 13 \"trixie\" released",
+      "href": "https://debian.org/News/2025/20250809",
+      "points": "",
+      "comments": "\n              33 comments",
+      "index": 11
+    },
+    {
+      "title": "Creating the longest possible Ski Jump in The Games: Winter Challenge",
+      "href": "https://mrwint.github.io/winter/writeup/writeup2.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 12
+    },
+    {
+      "title": "Creating high quality electronics schematics",
+      "href": "https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 13
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
+      "title": "How to not build the Torment Nexus",
+      "href": "https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Doomprompting Is the New Doomscrolling",
+      "href": "https://www.workingtheorys.com/p/doomprompting",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Fundamental guide to understanding DRAM Memory",
+      "href": "https://www.chiplog.io/p/fundamental-guide-to-understanding",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
       "title": "Elixir Misconceptions #1 - Don't \"let it crash\" but \"let it heal\"",
       "href": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
+      "index": 20
     },
     {
       "title": "onion: Stack language compiled to lua",
       "href": "https://github.com/yumaikas/onion",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 18
-    },
-    {
-      "title": "MCP: An (Accidentally) Universal Plugin System",
-      "href": "https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Why is GitHub UI getting so much slower?",
-      "href": "https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/",
-      "points": "",
-      "comments": "\n              93 comments",
-      "index": 20
-    },
-    {
-      "title": "Speeding up the JavaScript ecosystem - Semver",
-      "href": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 21
-    },
-    {
-      "title": "Introducing rr Chaos Mode (2016)",
-      "href": "https://robert.ocallahan.org/2016/02/introducing-rr-chaos-mode.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
     },
     {
       "title": "Abusing Entra OAuth for Fun and Access to Internal Microsoft Applications",
       "href": "https://research.eye.security/consent-and-compromise/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "MCP: An (Accidentally) Universal Plugin System",
+      "href": "https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "GPTs and feeling left behind",
-      "href": "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/",
+      "title": "Why is GitHub UI getting so much slower?",
+      "href": "https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              94 comments",
       "index": 24
     },
     {
-      "title": "an engineer's perspective on hiring",
-      "href": "https://jyn.dev/an-engineers-perspective-on-hiring",
+      "title": "Copy Link to Highlight in Nightly – These Weeks in Firefox: Issue 185",
+      "href": "https://blog.nightly.mozilla.org/2025/07/28/copy-link-to-highlight-in-nightly-these-weeks-in-firefox-issue-185/",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              2 comments",
       "index": 25
     }
   ]
