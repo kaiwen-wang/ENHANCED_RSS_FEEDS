@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, August 10, 2025 at 8:50 PM GMT-5",
+  "date": "Sunday, August 10, 2025 at 10:45 PM GMT-5",
   "articles": [
     {
       "title": "Zig's Lovely Syntax",
       "href": "https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html",
       "points": "",
-      "comments": "\n              32 comments",
+      "comments": "\n              33 comments",
       "index": 1
     },
     {
@@ -19,28 +19,28 @@
       "title": "Why do we even need SIMD instructions ?",
       "href": "https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 3
-    },
-    {
-      "title": "Resurrecting Google's Search Appliance",
-      "href": "https://www.youtube.com/watch?v=bjrmH7hVBOo",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 4
     },
     {
       "title": "ohyaml.wtf | YAML Quiz",
       "href": "https://www.ohyaml.wtf/",
       "points": "",
       "comments": "\n              8 comments",
+      "index": 4
+    },
+    {
+      "title": "Resurrecting Google's Search Appliance",
+      "href": "https://www.youtube.com/watch?v=bjrmH7hVBOo",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 5
     },
     {
       "title": "Debian 13 \"trixie\" released",
       "href": "https://debian.org/News/2025/20250809",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              31 comments",
       "index": 6
     },
     {
@@ -51,129 +51,129 @@
       "index": 7
     },
     {
+      "title": "ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption",
+      "href": "https://kerkour.com/chacha12-blake3",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 8
+    },
+    {
       "title": "Compiling a Lisp: Lambda lifting",
       "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Creating high quality electronics schematics",
       "href": "https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 9
-    },
-    {
-      "title": "The First Time I Was Almost Fired From Apple",
-      "href": "https://www.engineersneedart.com/blog/almostfired/almostfired.html",
-      "points": "",
-      "comments": "\n              9 comments",
       "index": 10
-    },
-    {
-      "title": "onion: Stack language compiled to lua",
-      "href": "https://github.com/yumaikas/onion",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 11
-    },
-    {
-      "title": "All-in on Omarchy at 37signals",
-      "href": "https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 12
-    },
-    {
-      "title": "Elixir Misconceptions #1 - Don't \"let it crash\" but \"let it heal\"",
-      "href": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
-    },
-    {
-      "title": "Why is GitHub UI getting so much slower?",
-      "href": "https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/",
-      "points": "",
-      "comments": "\n              93 comments",
-      "index": 14
-    },
-    {
-      "title": "Introducing rr Chaos Mode (2016)",
-      "href": "https://robert.ocallahan.org/2016/02/introducing-rr-chaos-mode.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Abusing Entra OAuth for Fun and Access to Internal Microsoft Applications",
-      "href": "https://research.eye.security/consent-and-compromise/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Speeding up the JavaScript ecosystem - Semver",
-      "href": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "GPTs and feeling left behind",
-      "href": "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/",
-      "points": "",
-      "comments": "\n              23 comments",
-      "index": 18
-    },
-    {
-      "title": "an engineer's perspective on hiring",
-      "href": "https://jyn.dev/an-engineers-perspective-on-hiring",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 19
-    },
-    {
-      "title": "Setting up a CI server for Forgejo",
-      "href": "https://robey.lag.net/2025/08/10/forgejo-ci.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption",
-      "href": "https://kerkour.com/chacha12-blake3",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Improving Geographical Resilience For Distributed Open Source Teams with FREON",
-      "href": "https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "MCP: An (Accidentally) Universal Plugin System",
-      "href": "https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
     },
     {
       "title": "Creating the longest possible Ski Jump in The Games: Winter Challenge",
       "href": "https://mrwint.github.io/winter/writeup/writeup2.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "The First Time I Was Almost Fired From Apple",
+      "href": "https://www.engineersneedart.com/blog/almostfired/almostfired.html",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 12
+    },
+    {
+      "title": "All-in on Omarchy at 37signals",
+      "href": "https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450",
+      "points": "",
+      "comments": "\n              25 comments",
+      "index": 13
+    },
+    {
+      "title": "Setting up a CI server for Forgejo",
+      "href": "https://robey.lag.net/2025/08/10/forgejo-ci.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
+      "title": "TCP Client Self-Connect (2013)",
+      "href": "https://sgros.blogspot.com/2013/08/tcp-client-self-connect.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "onion: Stack language compiled to lua",
+      "href": "https://github.com/yumaikas/onion",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 16
+    },
+    {
+      "title": "Elixir Misconceptions #1 - Don't \"let it crash\" but \"let it heal\"",
+      "href": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 17
+    },
+    {
+      "title": "Why is GitHub UI getting so much slower?",
+      "href": "https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/",
+      "points": "",
+      "comments": "\n              93 comments",
+      "index": 18
+    },
+    {
+      "title": "Speeding up the JavaScript ecosystem - Semver",
+      "href": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "MCP: An (Accidentally) Universal Plugin System",
+      "href": "https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Introducing rr Chaos Mode (2016)",
+      "href": "https://robert.ocallahan.org/2016/02/introducing-rr-chaos-mode.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Abusing Entra OAuth for Fun and Access to Internal Microsoft Applications",
+      "href": "https://research.eye.security/consent-and-compromise/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "GPTs and feeling left behind",
+      "href": "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/",
+      "points": "",
+      "comments": "\n              24 comments",
+      "index": 23
+    },
+    {
+      "title": "an engineer's perspective on hiring",
+      "href": "https://jyn.dev/an-engineers-perspective-on-hiring",
+      "points": "",
+      "comments": "\n              19 comments",
       "index": 24
     },
     {
-      "title": "The Framework Desktop is a beast",
-      "href": "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff",
+      "title": "Improving Geographical Resilience For Distributed Open Source Teams with FREON",
+      "href": "https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
