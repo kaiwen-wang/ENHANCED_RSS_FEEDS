@@ -1,25 +1,25 @@
 {
-  "date": "Sunday, August 10, 2025 at 6:20 PM GMT-5",
+  "date": "Sunday, August 10, 2025 at 8:50 PM GMT-5",
   "articles": [
     {
       "title": "Zig's Lovely Syntax",
       "href": "https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              32 comments",
       "index": 1
     },
     {
       "title": "Lobsters client for Emacs",
       "href": "https://github.com/tanrax/lobsters.el",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              13 comments",
       "index": 2
     },
     {
       "title": "Why do we even need SIMD instructions ?",
       "href": "https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              13 comments",
       "index": 3
     },
     {
@@ -37,38 +37,38 @@
       "index": 5
     },
     {
-      "title": "JanetDocs",
-      "href": "https://janetdocs.org/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 6
-    },
-    {
       "title": "Debian 13 \"trixie\" released",
       "href": "https://debian.org/News/2025/20250809",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              29 comments",
+      "index": 6
+    },
+    {
+      "title": "JanetDocs",
+      "href": "https://janetdocs.org/",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 7
+    },
+    {
+      "title": "Compiling a Lisp: Lambda lifting",
+      "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
     },
     {
       "title": "Creating high quality electronics schematics",
       "href": "https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
+      "index": 9
     },
     {
       "title": "The First Time I Was Almost Fired From Apple",
       "href": "https://www.engineersneedart.com/blog/almostfired/almostfired.html",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 9
-    },
-    {
-      "title": "All-in on Omarchy at 37signals",
-      "href": "https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450",
-      "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              9 comments",
       "index": 10
     },
     {
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
-      "title": "Why is GitHub UI getting so much slower?",
-      "href": "https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/",
+      "title": "All-in on Omarchy at 37signals",
+      "href": "https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450",
       "points": "",
-      "comments": "\n              92 comments",
+      "comments": "\n              25 comments",
       "index": 12
-    },
-    {
-      "title": "Introducing rr Chaos Mode (2016)",
-      "href": "https://robert.ocallahan.org/2016/02/introducing-rr-chaos-mode.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
     },
     {
       "title": "Elixir Misconceptions #1 - Don't \"let it crash\" but \"let it heal\"",
       "href": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 13
+    },
+    {
+      "title": "Why is GitHub UI getting so much slower?",
+      "href": "https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/",
+      "points": "",
+      "comments": "\n              93 comments",
       "index": 14
+    },
+    {
+      "title": "Introducing rr Chaos Mode (2016)",
+      "href": "https://robert.ocallahan.org/2016/02/introducing-rr-chaos-mode.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Abusing Entra OAuth for Fun and Access to Internal Microsoft Applications",
+      "href": "https://research.eye.security/consent-and-compromise/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
     },
     {
       "title": "Speeding up the JavaScript ecosystem - Semver",
       "href": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 17
     },
     {
       "title": "GPTs and feeling left behind",
       "href": "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/",
       "points": "",
       "comments": "\n              23 comments",
-      "index": 16
-    },
-    {
-      "title": "Compiling a Lisp: Lambda lifting",
-      "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "an engineer's perspective on hiring",
       "href": "https://jyn.dev/an-engineers-perspective-on-hiring",
       "points": "",
-      "comments": "\n              17 comments",
-      "index": 18
+      "comments": "\n              18 comments",
+      "index": 19
+    },
+    {
+      "title": "Setting up a CI server for Forgejo",
+      "href": "https://robey.lag.net/2025/08/10/forgejo-ci.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption",
+      "href": "https://kerkour.com/chacha12-blake3",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
     },
     {
       "title": "Improving Geographical Resilience For Distributed Open Source Teams with FREON",
       "href": "https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
-    },
-    {
-      "title": "The Framework Desktop is a beast",
-      "href": "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "MCP: An (Accidentally) Universal Plugin System",
       "href": "https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises",
-      "href": "https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 22
-    },
-    {
-      "title": "Copy Link to Highlight in Nightly – These Weeks in Firefox: Issue 185",
-      "href": "https://blog.nightly.mozilla.org/2025/07/28/copy-link-to-highlight-in-nightly-these-weeks-in-firefox-issue-185/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 23
     },
     {
-      "title": "What even is distributed systems",
-      "href": "https://notes.eatonphil.com/2025-08-09-what-even-is-distributed-systems.html",
+      "title": "Creating the longest possible Ski Jump in The Games: Winter Challenge",
+      "href": "https://mrwint.github.io/winter/writeup/writeup2.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "A CT scanner reveals surprises inside the 386 processor's ceramic package",
-      "href": "http://www.righto.com/2025/08/intel-386-package-ct-scan.html",
+      "title": "The Framework Desktop is a beast",
+      "href": "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              18 comments",
       "index": 25
     }
   ]
