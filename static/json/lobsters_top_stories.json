@@ -1,11 +1,11 @@
 {
-  "date": "Monday, August 11, 2025 at 3:30 AM GMT-5",
+  "date": "Monday, August 11, 2025 at 4:25 AM GMT-5",
   "articles": [
     {
       "title": "Zig's Lovely Syntax",
       "href": "https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html",
       "points": "",
-      "comments": "\n              36 comments",
+      "comments": "\n              38 comments",
       "index": 1
     },
     {
@@ -26,21 +26,21 @@
       "title": "Compiling a Lisp: Lambda lifting",
       "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 4
-    },
-    {
-      "title": "ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption",
-      "href": "https://kerkour.com/chacha12-blake3",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 5
     },
     {
       "title": "Why do we even need SIMD instructions ?",
       "href": "https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/",
       "points": "",
       "comments": "\n              15 comments",
+      "index": 5
+    },
+    {
+      "title": "ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption",
+      "href": "https://kerkour.com/chacha12-blake3",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 6
     },
     {
@@ -65,80 +65,80 @@
       "index": 9
     },
     {
+      "title": "How to not build the Torment Nexus",
+      "href": "https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
       "title": "JanetDocs",
       "href": "https://janetdocs.org/",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 10
+      "comments": "\n              9 comments",
+      "index": 11
     },
     {
       "title": "Debian 13 \"trixie\" released",
       "href": "https://debian.org/News/2025/20250809",
       "points": "",
       "comments": "\n              33 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Creating the longest possible Ski Jump in The Games: Winter Challenge",
       "href": "https://mrwint.github.io/winter/writeup/writeup2.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
+      "index": 13
+    },
+    {
+      "title": "Fundamental guide to understanding DRAM Memory",
+      "href": "https://www.chiplog.io/p/fundamental-guide-to-understanding",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
     },
     {
       "title": "Creating high quality electronics schematics",
       "href": "https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 13
+      "comments": "\n              5 comments",
+      "index": 15
     },
     {
       "title": "Unducking Typescript primitive aliases",
       "href": "https://zerotrickpony.com/unducking/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 14
+      "index": 16
     },
     {
       "title": "The First Time I Was Almost Fired From Apple",
       "href": "https://www.engineersneedart.com/blog/almostfired/almostfired.html",
       "points": "",
-      "comments": "\n              10 comments",
-      "index": 15
+      "comments": "\n              12 comments",
+      "index": 17
+    },
+    {
+      "title": "Exploiting a Buggy Zilog C Compiler",
+      "href": "https://farlow.dev/2025/08/08/exploiting-a-buggy-zilog-c-compiler",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
     },
     {
       "title": "All-in on Omarchy at 37signals",
       "href": "https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450",
       "points": "",
       "comments": "\n              28 comments",
-      "index": 16
-    },
-    {
-      "title": "How to not build the Torment Nexus",
-      "href": "https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Doomprompting Is the New Doomscrolling",
       "href": "https://www.workingtheorys.com/p/doomprompting",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Fundamental guide to understanding DRAM Memory",
-      "href": "https://www.chiplog.io/p/fundamental-guide-to-understanding",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Elixir Misconceptions #1 - Don't \"let it crash\" but \"let it heal\"",
-      "href": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Elixir Misconceptions #1 - Don't \"let it crash\" but \"let it heal\"",
+      "href": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 22
+    },
+    {
       "title": "Abusing Entra OAuth for Fun and Access to Internal Microsoft Applications",
       "href": "https://research.eye.security/consent-and-compromise/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "MCP: An (Accidentally) Universal Plugin System",
       "href": "https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Why is GitHub UI getting so much slower?",
       "href": "https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/",
       "points": "",
       "comments": "\n              94 comments",
-      "index": 24
-    },
-    {
-      "title": "Copy Link to Highlight in Nightly – These Weeks in Firefox: Issue 185",
-      "href": "https://blog.nightly.mozilla.org/2025/07/28/copy-link-to-highlight-in-nightly-these-weeks-in-firefox-issue-185/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 25
     }
   ]
