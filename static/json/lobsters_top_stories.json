@@ -1,18 +1,18 @@
 {
-  "date": "Monday, August 11, 2025 at 11:25 AM GMT-5",
+  "date": "Monday, August 11, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "How to not build the Torment Nexus",
       "href": "https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              12 comments",
       "index": 1
     },
     {
       "title": "I tried coding with AI, I became lazy and stupid",
       "href": "https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
       "index": 2
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "Setting up a CI server for Forgejo",
-      "href": "https://robey.lag.net/2025/08/10/forgejo-ci.html",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 4
-    },
-    {
       "title": "Bevy's Fifth Birthday",
       "href": "https://bevy.org/news/bevys-fifth-birthday/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 4
+    },
+    {
+      "title": "Setting up a CI server for Forgejo",
+      "href": "https://robey.lag.net/2025/08/10/forgejo-ci.html",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 5
     },
     {
@@ -47,54 +47,54 @@
       "title": "LLM Coding Assistant Census",
       "href": "https://aleyan.com/blog/2025-llm-assistant-census/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 7
-    },
-    {
-      "title": "Algorithmic Underground",
-      "href": "https://jmsdnns.com/tech/algo-underground/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 8
-    },
-    {
-      "title": "Compiling a Lisp: Closure conversion",
-      "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 9
     },
     {
       "title": "Creating the longest possible Ski Jump in The Games: Winter Challenge",
       "href": "https://mrwint.github.io/winter/writeup/writeup2.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 10
+      "index": 8
+    },
+    {
+      "title": "Takeaway: a work-stealing task queue library for Rust",
+      "href": "https://bal-e.org/speed/krabby/takeaway/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 9
     },
     {
       "title": "ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption",
       "href": "https://kerkour.com/chacha12-blake3",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 10
+    },
+    {
+      "title": "Choosing typeface",
+      "href": "https://imperavi.com/books/ui-typography/basis/choosing-typeface/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 11
     },
     {
-      "title": "Lobsters client for Emacs",
-      "href": "https://github.com/tanrax/lobsters.el",
+      "title": "Algorithmic Underground",
+      "href": "https://jmsdnns.com/tech/algo-underground/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              no comments",
       "index": 12
     },
     {
-      "title": "Why do we even need SIMD instructions ?",
-      "href": "https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/",
+      "title": "Compiling a Lisp: Closure conversion",
+      "href": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              4 comments",
       "index": 13
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/pdrj5s/what_are_you_doing_this_week",
+      "title": "This Send/Sync Secret Separates Professional From Amateur Rust Developers",
+      "href": "https://blog.cuongle.dev/p/this-sendsync-secret-separates-professional-and-amateur",
       "points": "",
       "comments": "\n              1 comment",
       "index": 14
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
-      "title": "Takeaway: a work-stealing task queue library for Rust",
-      "href": "https://bal-e.org/speed/krabby/takeaway/",
+      "title": "Lobsters client for Emacs",
+      "href": "https://github.com/tanrax/lobsters.el",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              14 comments",
       "index": 16
+    },
+    {
+      "title": "Why do we even need SIMD instructions ?",
+      "href": "https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 17
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/pdrj5s/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 18
     },
     {
       "title": "TCP Client Self-Connect (2013)",
       "href": "https://sgros.blogspot.com/2013/08/tcp-client-self-connect.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "Rust Type-Level Fuckery (2024)",
-      "href": "https://github.com/lilyyy411/rust-type-fuckery/blob/main/README.md",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Choosing typeface",
-      "href": "https://imperavi.com/books/ui-typography/basis/choosing-typeface/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 19
-    },
-    {
-      "title": "Fundamental guide to understanding DRAM Memory",
-      "href": "https://www.chiplog.io/p/fundamental-guide-to-understanding",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "Resurrecting Google's Search Appliance",
-      "href": "https://www.youtube.com/watch?v=bjrmH7hVBOo",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 21
-    },
-    {
-      "title": "Fornjot: early-stage b-rep CAD kernel, written in Rust",
-      "href": "https://www.fornjot.app/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 22
     },
     {
       "title": "Gleam’s Interoperability with Erlang and Elixir",
       "href": "https://www.youtube.com/watch?v=63Z2oNW1Bf4",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Fornjot: early-stage b-rep CAD kernel, written in Rust",
+      "href": "https://www.fornjot.app/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 21
+    },
+    {
+      "title": "Resurrecting Google's Search Appliance",
+      "href": "https://www.youtube.com/watch?v=bjrmH7hVBOo",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 22
+    },
+    {
+      "title": "Rust Type-Level Fuckery (2024)",
+      "href": "https://github.com/lilyyy411/rust-type-fuckery/blob/main/README.md",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "ohyaml.wtf | YAML Quiz",
-      "href": "https://www.ohyaml.wtf/",
+      "title": "Fundamental guide to understanding DRAM Memory",
+      "href": "https://www.chiplog.io/p/fundamental-guide-to-understanding",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              1 comment",
       "index": 24
     },
     {
-      "title": "JanetDocs",
-      "href": "https://janetdocs.org/",
+      "title": "A Tour of Standard ML (2021)",
+      "href": "https://saityi.github.io/sml-tour/tour/welcome",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
