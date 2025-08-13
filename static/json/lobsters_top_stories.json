@@ -1,53 +1,53 @@
 {
-  "date": "Wednesday, August 13, 2025 at 4:20 PM GMT-5",
+  "date": "Wednesday, August 13, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "Why I chose OCaml as my primary language",
       "href": "https://xvw.lol/en/articles/why-ocaml.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              7 comments",
       "index": 1
+    },
+    {
+      "title": "Snooping On Slow Builds (Using Syscalls)",
+      "href": "https://danielchasehooper.com/posts/syscall-build-snooping/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 2
     },
     {
       "title": "Type inference for plain data",
       "href": "https://www.haskellforall.com/2025/08/type-inference-for-plain-data.html",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 2
+      "comments": "\n              1 comment",
+      "index": 3
     },
     {
       "title": "pyx: a Python-native package registry, now in Beta",
       "href": "https://astral.sh/blog/introducing-pyx",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 3
+      "comments": "\n              8 comments",
+      "index": 4
     },
     {
       "title": "Syncthing v2.0",
       "href": "https://github.com/syncthing/syncthing/releases/tag/v2.0.0",
       "points": "",
       "comments": "\n              39 comments",
-      "index": 4
-    },
-    {
-      "title": "The Factory Timezone",
-      "href": "https://data.iana.org/time-zones/tzdb-2025a/factory",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 5
     },
     {
       "title": "Study: Social media probably can’t be fixed",
       "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 6
     },
     {
-      "title": "Snooping On Slow Builds (Using Syscalls)",
-      "href": "https://danielchasehooper.com/posts/syscall-build-snooping/",
+      "title": "The Factory Timezone",
+      "href": "https://data.iana.org/time-zones/tzdb-2025a/factory",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 7
     },
     {
@@ -65,31 +65,31 @@
       "index": 9
     },
     {
-      "title": "Go 1.25 Release Notes",
-      "href": "https://go.dev/doc/go1.25",
+      "title": "Arch shares its wiki strategy with Debian",
+      "href": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/",
       "points": "",
       "comments": "\n              2 comments",
       "index": 10
     },
     {
-      "title": "Arch shares its wiki strategy with Debian",
-      "href": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/",
+      "title": "Go 1.25 Release Notes",
+      "href": "https://go.dev/doc/go1.25",
       "points": "",
       "comments": "\n              2 comments",
       "index": 11
+    },
+    {
+      "title": "Starting with pytest’s parametrize",
+      "href": "https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 12
     },
     {
       "title": "How I do (type-safe) container types in C",
       "href": "https://louissven.xyz/article/how_I_do_container_types_in_C.md",
       "points": "",
       "comments": "\n              25 comments",
-      "index": 12
-    },
-    {
-      "title": "Starting with pytest’s parametrize",
-      "href": "https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 13
     },
     {
@@ -114,8 +114,8 @@
       "index": 16
     },
     {
-      "title": "Standard Package Layout (2016)",
-      "href": "https://www.gobeyond.dev/standard-package-layout/",
+      "title": "nixidy: Kubernetes GitOps with nix and Argo CD",
+      "href": "https://nixidy.dev",
       "points": "",
       "comments": "\n              no comments",
       "index": 17
@@ -124,14 +124,14 @@
       "title": "Ashet Home Computer",
       "href": "https://ashet.computer/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 18
     },
     {
-      "title": "The Best \"Hello World\" in Web Development",
-      "href": "https://unplannedobsolescence.com/blog/best-hello-world-web-development/",
+      "title": "Standard Package Layout (2016)",
+      "href": "https://www.gobeyond.dev/standard-package-layout/",
       "points": "",
-      "comments": "\n              33 comments",
+      "comments": "\n              no comments",
       "index": 19
     },
     {
@@ -145,35 +145,35 @@
       "title": "git-who: Git blame for file trees",
       "href": "https://github.com/sinclairtarget/git-who",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              11 comments",
       "index": 21
+    },
+    {
+      "title": "The Best \"Hello World\" in Web Development",
+      "href": "https://unplannedobsolescence.com/blog/best-hello-world-web-development/",
+      "points": "",
+      "comments": "\n              33 comments",
+      "index": 22
+    },
+    {
+      "title": "That 16 Billion Password Story (AKA \"Data Troll\")",
+      "href": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Plan 9 Desktop Guide",
+      "href": "https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "Numba v2 Compiler Design",
       "href": "https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 22
-    },
-    {
-      "title": "Introducing Nexus - the Open-Source AI Router to aggregate, govern, and secure your AI stack",
-      "href": "https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Physically Based Shading in Theory and Practice",
-      "href": "https://blog.selfshadow.com/publications/s2025-shading-course/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Building a web search engine from scratch in two months with 3 billion neural embeddings",
-      "href": "https://blog.wilsonl.in/search-engine/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 25
     }
   ]
