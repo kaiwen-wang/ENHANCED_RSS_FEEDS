@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, August 13, 2025 at 8:35 AM GMT-5",
+  "date": "Wednesday, August 13, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Syncthing v2.0",
       "href": "https://github.com/syncthing/syncthing/releases/tag/v2.0.0",
       "points": "",
-      "comments": "\n              31 comments",
+      "comments": "\n              32 comments",
       "index": 1
     },
     {
@@ -33,28 +33,28 @@
       "title": "The Best \"Hello World\" in Web Development",
       "href": "https://unplannedobsolescence.com/blog/best-hello-world-web-development/",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              30 comments",
       "index": 5
-    },
-    {
-      "title": "Ashet Home Computer",
-      "href": "https://ashet.computer/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 6
-    },
-    {
-      "title": "NYC’s Urban Textscape",
-      "href": "https://pudding.cool/2025/07/street-view/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 7
     },
     {
       "title": "Linear scan register allocation on SSA",
       "href": "https://bernsteinbear.com/blog/linear-scan/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 6
+    },
+    {
+      "title": "Ashet Home Computer",
+      "href": "https://ashet.computer/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 7
+    },
+    {
+      "title": "NYC’s Urban Textscape",
+      "href": "https://pudding.cool/2025/07/street-view/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 8
     },
     {
@@ -68,21 +68,21 @@
       "title": "An Introduction to Python-Rust Interop for Scientific Codebases",
       "href": "https://github.com/nrposner/coding_club",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 10
     },
     {
       "title": "uxn",
       "href": "https://100r.co/site/uxn.html",
       "points": "",
-      "comments": "\n              38 comments",
+      "comments": "\n              40 comments",
       "index": 11
     },
     {
       "title": "git-who: Git blame for file trees",
       "href": "https://github.com/sinclairtarget/git-who",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 12
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "Numba v2 Compiler Design",
-      "href": "https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 15
-    },
-    {
       "title": "Fennel libraries as single files",
       "href": "https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
+      "title": "Numba v2 Compiler Design",
+      "href": "https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 16
+    },
+    {
+      "title": "Starting with pytest’s parametrize",
+      "href": "https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "Crowdsourcing Broken QR Codes (Still)",
       "href": "https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "Building a web search engine from scratch in two months with 3 billion neural embeddings",
-      "href": "https://blog.wilsonl.in/search-engine/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 18
-    },
-    {
-      "title": "stylish bugs",
-      "href": "https://flak.tedunangst.com/post/stylish-bugs",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 19
     },
     {
       "title": "nimi sin: make more specific words",
       "href": "https://nora.codes/post/nimi-sin/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "stylish bugs",
+      "href": "https://flak.tedunangst.com/post/stylish-bugs",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 20
+    },
+    {
+      "title": "Building a web search engine from scratch in two months with 3 billion neural embeddings",
+      "href": "https://blog.wilsonl.in/search-engine/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
     },
     {
       "title": "Fight Chat Control",
       "href": "https://fightchatcontrol.eu/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "The \"high-level CPU\" challenge (2008)",
+      "href": "https://yosefk.com/blog/the-high-level-cpu-challenge.html",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 23
     },
     {
       "title": "Git Interactive Rebase Order is Wrong (2019)",
       "href": "https://salferrarello.com/git-interactive-rebase-order-is-wrong/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Mutually Attacking Knights",
       "href": "https://susam.net/mutually-attacking-knights.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 23
-    },
-    {
-      "title": "pure: A static analysis file format checker for Zip files",
-      "href": "https://github.com/ronomon/pure",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "The \"high-level CPU\" challenge (2008)",
-      "href": "https://yosefk.com/blog/the-high-level-cpu-challenge.html",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 25
     }
   ]
