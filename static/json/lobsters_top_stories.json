@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, August 13, 2025 at 3:20 PM GMT-5",
+  "date": "Wednesday, August 13, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "Why I chose OCaml as my primary language",
@@ -16,66 +16,66 @@
       "index": 2
     },
     {
+      "title": "pyx: a Python-native package registry, now in Beta",
+      "href": "https://astral.sh/blog/introducing-pyx",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 3
+    },
+    {
       "title": "Syncthing v2.0",
       "href": "https://github.com/syncthing/syncthing/releases/tag/v2.0.0",
       "points": "",
-      "comments": "\n              37 comments",
-      "index": 3
+      "comments": "\n              39 comments",
+      "index": 4
     },
     {
       "title": "The Factory Timezone",
       "href": "https://data.iana.org/time-zones/tzdb-2025a/factory",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Study: Social media probably can’t be fixed",
       "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 5
-    },
-    {
-      "title": "Miegakure SIGGRAPH 2025 Talk",
-      "href": "https://www.youtube.com/live/ucRukZM0d1s?t=5203s",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 6
-    },
-    {
-      "title": "OOMProf - Take a heap profile just before OOMkill using eBPF",
-      "href": "https://www.polarsignals.com/blog/posts/2025/08/13/oomprof",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 7
     },
     {
       "title": "Snooping On Slow Builds (Using Syscalls)",
       "href": "https://danielchasehooper.com/posts/syscall-build-snooping/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "Miegakure SIGGRAPH 2025 Talk",
+      "href": "https://www.youtube.com/live/ucRukZM0d1s?t=5203s",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 8
+    },
+    {
+      "title": "OOMProf - Take a heap profile just before OOMkill using eBPF",
+      "href": "https://www.polarsignals.com/blog/posts/2025/08/13/oomprof",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 9
     },
     {
       "title": "Go 1.25 Release Notes",
       "href": "https://go.dev/doc/go1.25",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Arch shares its wiki strategy with Debian",
       "href": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 10
-    },
-    {
-      "title": "pyx: a Python-native package registry, now in Beta",
-      "href": "https://astral.sh/blog/introducing-pyx",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 11
     },
     {
@@ -86,87 +86,87 @@
       "index": 12
     },
     {
+      "title": "Starting with pytest’s parametrize",
+      "href": "https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 13
+    },
+    {
       "title": "Linear scan register allocation on SSA",
       "href": "https://bernsteinbear.com/blog/linear-scan/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "NYC’s Urban Textscape",
-      "href": "https://pudding.cool/2025/07/street-view/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 14
-    },
-    {
-      "title": "Starting with pytest’s parametrize",
-      "href": "https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 15
-    },
-    {
-      "title": "Ashet Home Computer",
-      "href": "https://ashet.computer/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 16
-    },
-    {
-      "title": "The Best \"Hello World\" in Web Development",
-      "href": "https://unplannedobsolescence.com/blog/best-hello-world-web-development/",
-      "points": "",
-      "comments": "\n              33 comments",
-      "index": 17
-    },
-    {
-      "title": "Standard Package Layout (2016)",
-      "href": "https://www.gobeyond.dev/standard-package-layout/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "git-who: Git blame for file trees",
-      "href": "https://github.com/sinclairtarget/git-who",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 19
     },
     {
       "title": "Coalton Playground: Type-Safe Lisp in Your Browser",
       "href": "https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 15
+    },
+    {
+      "title": "NYC’s Urban Textscape",
+      "href": "https://pudding.cool/2025/07/street-view/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
+      "title": "Standard Package Layout (2016)",
+      "href": "https://www.gobeyond.dev/standard-package-layout/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Ashet Home Computer",
+      "href": "https://ashet.computer/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 18
+    },
+    {
+      "title": "The Best \"Hello World\" in Web Development",
+      "href": "https://unplannedobsolescence.com/blog/best-hello-world-web-development/",
+      "points": "",
+      "comments": "\n              33 comments",
+      "index": 19
     },
     {
       "title": "Writing Your Own Simple Tab-Completions for Bash and Zsh",
       "href": "https://mill-build.org/blog/14-bash-zsh-completion.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "git-who: Git blame for file trees",
+      "href": "https://github.com/sinclairtarget/git-who",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 21
+    },
+    {
+      "title": "Numba v2 Compiler Design",
+      "href": "https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 22
     },
     {
       "title": "Introducing Nexus - the Open-Source AI Router to aggregate, govern, and secure your AI stack",
       "href": "https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Physically Based Shading in Theory and Practice",
       "href": "https://blog.selfshadow.com/publications/s2025-shading-course/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Numba v2 Compiler Design",
-      "href": "https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 24
     },
     {
