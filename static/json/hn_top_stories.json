@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, August 13, 2025 at 2:15 PM GMT-5",
+  "date": "Wednesday, August 13, 2025 at 3:20 PM GMT-5",
   "articles": [
+    {
+      "title": "PYX: The next step in Python packaging",
+      "href": "https://astral.sh/pyx",
+      "points": "120 points",
+      "comments": "44 comments",
+      "index": 1
+    },
     {
       "title": "Nginx introduces native support for ACME protocol",
       "href": "https://blog.nginx.org/blog/native-support-for-acme-protocol",
-      "points": "260 points",
-      "comments": "102 comments",
-      "index": 1
+      "points": "336 points",
+      "comments": "127 comments",
+      "index": 2
     },
     {
       "title": "OCaml as my primary language",
       "href": "https://xvw.lol/en/articles/why-ocaml.html",
-      "points": "61 points",
-      "comments": "25 comments",
-      "index": 2
+      "points": "113 points",
+      "comments": "68 comments",
+      "index": 3
     },
     {
       "title": "FFmpeg 8.0 adds Whisper support",
       "href": "https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b",
-      "points": "653 points",
-      "comments": "247 comments",
-      "index": 3
-    },
-    {
-      "title": "PYX: The next step in Python packaging",
-      "href": "https://astral.sh/pyx",
-      "points": "23 points",
-      "comments": "13 comments",
+      "points": "685 points",
+      "comments": "254 comments",
       "index": 4
     },
     {
-      "title": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
-      "href": "https://video.golpoai.com/",
-      "points": "25 points",
-      "comments": "38 comments",
+      "title": "Pebble Time 2* Design Reveal",
+      "href": "https://ericmigi.com/blog/pebble-time-2-design-reveal/",
+      "points": "143 points",
+      "comments": "60 comments",
       "index": 5
     },
     {
       "title": "Cross-Site Request Forgery",
       "href": "https://words.filippo.io/csrf/",
-      "points": "28 points",
-      "comments": "4 comments",
+      "points": "45 points",
+      "comments": "10 comments",
       "index": 6
+    },
+    {
+      "title": "Launch HN: Golpo (YC S25) – AI-generated explainer videos",
+      "href": "https://video.golpoai.com/",
+      "points": "31 points",
+      "comments": "49 comments",
+      "index": 7
+    },
+    {
+      "title": "Fuse is 95% cheaper and 10x faster than NFS",
+      "href": "https://nilesh-agarwal.com/storage-in-cloud-for-llms-2/",
+      "points": "32 points",
+      "comments": "23 comments",
+      "index": 8
     },
     {
       "title": "So what's the difference between plotted and printed artwork?",
       "href": "https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork",
-      "points": "133 points",
-      "comments": "46 comments",
-      "index": 7
+      "points": "148 points",
+      "comments": "51 comments",
+      "index": 9
     },
     {
-      "title": "Pebble Time 2* Design Reveal",
-      "href": "https://ericmigi.com/blog/pebble-time-2-design-reveal/",
-      "points": "90 points",
-      "comments": "44 comments",
-      "index": 8
+      "title": "How Silicon Valley can prove it is pro-family",
+      "href": "https://www.thenewatlantis.com/publications/how-silicon-valley-can-prove-it-is-pro-family",
+      "points": "16 points",
+      "comments": "2 comments",
+      "index": 10
     },
     {
       "title": "Coalton Playground: Type-Safe Lisp in the Browser",
       "href": "https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/",
-      "points": "69 points",
-      "comments": "24 comments",
-      "index": 9
+      "points": "75 points",
+      "comments": "25 comments",
+      "index": 11
+    },
+    {
+      "title": "DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls",
+      "href": "https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e",
+      "points": "66 points",
+      "comments": "18 comments",
+      "index": 12
     },
     {
       "title": "ReadMe (YC W15) Is Hiring a Developer Experience PM",
       "href": "https://readme.com/careers#product-manager-developer-experience",
       "points": "",
       "comments": "hide",
-      "index": 10
-    },
-    {
-      "title": "PCIe 8.0 Announced by the PCI-Sig Will Double Throughput Again – ServeTheHome",
-      "href": "https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/",
-      "points": "28 points",
-      "comments": "11 comments",
-      "index": 11
-    },
-    {
-      "title": "OpenIndiana: Community-Driven Illumos Distribution",
-      "href": "https://www.openindiana.org/",
-      "points": "52 points",
-      "comments": "41 comments",
-      "index": 12
-    },
-    {
-      "title": "DoubleAgents: Fine-Tuning LLMs for Covert Malicious Tool Calls",
-      "href": "https://pub.aimind.so/doubleagents-fine-tuning-llms-for-covert-malicious-tool-calls-b8ff00bf513e",
-      "points": "57 points",
-      "comments": "17 comments",
       "index": 13
-    },
-    {
-      "title": "This website is for humans",
-      "href": "https://localghost.dev/blog/this-website-is-for-humans/",
-      "points": "329 points",
-      "comments": "163 comments",
-      "index": 14
-    },
-    {
-      "title": "New treatment eliminates bladder cancer in 82% of patients",
-      "href": "https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/",
-      "points": "169 points",
-      "comments": "64 comments",
-      "index": 15
     },
     {
       "title": "The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation",
       "href": "https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html",
-      "points": "55 points",
+      "points": "62 points",
       "comments": "13 comments",
+      "index": 14
+    },
+    {
+      "title": "rerank-2.5 and rerank-2.5-lite: instruction-following rerankers",
+      "href": "https://blog.voyageai.com/2025/08/11/rerank-2-5/",
+      "points": "6 points",
+      "comments": "2 comments",
+      "index": 15
+    },
+    {
+      "title": "New treatment eliminates bladder cancer in 82% of patients",
+      "href": "https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/",
+      "points": "198 points",
+      "comments": "97 comments",
       "index": 16
     },
     {
-      "title": "We caught companies making it harder to delete your personal data online",
-      "href": "https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data",
-      "points": "200 points",
-      "comments": "49 comments",
+      "title": "This website is for humans",
+      "href": "https://localghost.dev/blog/this-website-is-for-humans/",
+      "points": "376 points",
+      "comments": "187 comments",
       "index": 17
+    },
+    {
+      "title": "DeepKit Story: how $160M company killed EU trademark for a small OSS project",
+      "href": "https://old.reddit.com/r/ExperiencedDevs/comments/1mopzhz/160m_vcbacked_company_just_killed_my_eu_trademark/",
+      "points": "26 points",
+      "comments": "6 comments",
+      "index": 18
     },
     {
       "title": "April Fools 2014: The *Real* Test Driven Development (2014)",
       "href": "https://testing.googleblog.com/2014/04/the-real-test-driven-development.html",
-      "points": "56 points",
-      "comments": "8 comments",
-      "index": 18
-    },
-    {
-      "title": "29 years later, Settlers II gets Amiga release",
-      "href": "https://gamingretro.co.uk/29-years-later-settlers-ii-finally-gets-amiga-release/",
-      "points": "40 points",
-      "comments": "8 comments",
+      "points": "76 points",
+      "comments": "14 comments",
       "index": 19
-    },
-    {
-      "title": "A case study in bad hiring practice and how to fix it",
-      "href": "https://www.tomkranz.com/blog1/a-case-study-in-bad-hiring-practice-and-how-to-fix-it",
-      "points": "63 points",
-      "comments": "57 comments",
-      "index": 20
-    },
-    {
-      "title": "Man develops rare condition after ChatGPT query over stopping eating salt",
-      "href": "https://www.theguardian.com/technology/2025/aug/12/us-man-bromism-salt-diet-chatgpt-openai-health-information",
-      "points": "25 points",
-      "comments": "36 comments",
-      "index": 21
-    },
-    {
-      "title": "Claude says “You're absolutely right!” about everything",
-      "href": "https://github.com/anthropics/claude-code/issues/3382",
-      "points": "513 points",
-      "comments": "401 comments",
-      "index": 22
-    },
-    {
-      "title": "Honky-Tonk Tokyo (2020)",
-      "href": "https://www.afar.com/magazine/in-tokyo-japan-country-music-finds-an-audience",
-      "points": "16 points",
-      "comments": "4 comments",
-      "index": 23
-    },
-    {
-      "title": "Mesmerizing Hypnoloid, a Kinetic Desktop Sculpture",
-      "href": "https://www.core77.com/posts/138054/This-Mesmerizing-Hypnoloid-a-Kinetic-Desktop-Sculpture",
-      "points": "11 points",
-      "comments": "1 comment",
-      "index": 24
-    },
-    {
-      "title": "Gartner's Grift Is About to Unravel",
-      "href": "https://dx.tips/gartner",
-      "points": "72 points",
-      "comments": "39 comments",
-      "index": 25
-    },
-    {
-      "title": "Claude Sonnet 4 now supports 1M tokens of context",
-      "href": "https://www.anthropic.com/news/1m-context",
-      "points": "1246 points",
-      "comments": "661 comments",
-      "index": 26
-    },
-    {
-      "title": "Bezier-rs – algorithms for Bézier segments and shapes",
-      "href": "https://graphite.rs/libraries/bezier-rs/",
-      "points": "198 points",
-      "comments": "40 comments",
-      "index": 27
     },
     {
       "title": "Google Play Store Bans Wallets That Don't Have Banking License",
       "href": "https://www.therage.co/google-play-store-ban-wallets/",
-      "points": "7 points",
-      "comments": "discuss",
+      "points": "36 points",
+      "comments": "21 comments",
+      "index": 20
+    },
+    {
+      "title": "OpenIndiana: Community-Driven Illumos Distribution",
+      "href": "https://www.openindiana.org/",
+      "points": "55 points",
+      "comments": "45 comments",
+      "index": 21
+    },
+    {
+      "title": "We caught companies making it harder to delete your personal data online",
+      "href": "https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data",
+      "points": "223 points",
+      "comments": "54 comments",
+      "index": 22
+    },
+    {
+      "title": "Job Listing Site Highlighting H-1B Positions So Americans Can Apply",
+      "href": "https://www.newsweek.com/h1b-jobs-now-american-workers-green-cards-2041404",
+      "points": "40 points",
+      "comments": "15 comments",
+      "index": 23
+    },
+    {
+      "title": "29 years later, Settlers II gets Amiga release",
+      "href": "https://gamingretro.co.uk/29-years-later-settlers-ii-finally-gets-amiga-release/",
+      "points": "60 points",
+      "comments": "16 comments",
+      "index": 24
+    },
+    {
+      "title": "Claude says “You're absolutely right!” about everything",
+      "href": "https://github.com/anthropics/claude-code/issues/3382",
+      "points": "534 points",
+      "comments": "420 comments",
+      "index": 25
+    },
+    {
+      "title": "A case study in bad hiring practice and how to fix it",
+      "href": "https://www.tomkranz.com/blog1/a-case-study-in-bad-hiring-practice-and-how-to-fix-it",
+      "points": "79 points",
+      "comments": "69 comments",
+      "index": 26
+    },
+    {
+      "title": "PCIe 8.0 Announced by the PCI-Sig Will Double Throughput Again – ServeTheHome",
+      "href": "https://www.servethehome.com/pcie-8-0-announced-by-the-pci-sig-will-double-throughput-again/",
+      "points": "51 points",
+      "comments": "60 comments",
+      "index": 27
+    },
+    {
+      "title": "Honky-Tonk Tokyo (2020)",
+      "href": "https://www.afar.com/magazine/in-tokyo-japan-country-music-finds-an-audience",
+      "points": "19 points",
+      "comments": "6 comments",
       "index": 28
     },
     {
-      "title": "Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band",
-      "href": "https://astrobites.org/2025/08/12/starlink-ska-low/",
-      "points": "163 points",
-      "comments": "142 comments",
+      "title": "Gartner's Grift Is About to Unravel",
+      "href": "https://dx.tips/gartner",
+      "points": "96 points",
+      "comments": "44 comments",
       "index": 29
     },
     {
-      "title": "Pebble Time 2 Design Reveal [video]",
-      "href": "https://www.youtube.com/watch?v=pcPzmDePH3E",
-      "points": "129 points",
-      "comments": "53 comments",
+      "title": "Claude Sonnet 4 now supports 1M tokens of context",
+      "href": "https://www.anthropic.com/news/1m-context",
+      "points": "1256 points",
+      "comments": "667 comments",
       "index": 30
     }
   ]
