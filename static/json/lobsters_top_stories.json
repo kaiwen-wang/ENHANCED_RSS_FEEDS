@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, August 13, 2025 at 5:20 PM GMT-5",
+  "date": "Wednesday, August 13, 2025 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "Why I chose OCaml as my primary language",
       "href": "https://xvw.lol/en/articles/why-ocaml.html",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
       "title": "Snooping On Slow Builds (Using Syscalls)",
       "href": "https://danielchasehooper.com/posts/syscall-build-snooping/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 2
     },
     {
@@ -26,21 +26,21 @@
       "title": "pyx: a Python-native package registry, now in Beta",
       "href": "https://astral.sh/blog/introducing-pyx",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              11 comments",
       "index": 4
-    },
-    {
-      "title": "Syncthing v2.0",
-      "href": "https://github.com/syncthing/syncthing/releases/tag/v2.0.0",
-      "points": "",
-      "comments": "\n              39 comments",
-      "index": 5
     },
     {
       "title": "Study: Social media probably can’t be fixed",
       "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 5
+    },
+    {
+      "title": "Syncthing v2.0",
+      "href": "https://github.com/syncthing/syncthing/releases/tag/v2.0.0",
+      "points": "",
+      "comments": "\n              40 comments",
       "index": 6
     },
     {
@@ -54,7 +54,7 @@
       "title": "Miegakure SIGGRAPH 2025 Talk",
       "href": "https://www.youtube.com/live/ucRukZM0d1s?t=5203s",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 8
     },
     {
@@ -82,7 +82,7 @@
       "title": "Starting with pytest’s parametrize",
       "href": "https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 12
     },
     {
@@ -96,28 +96,28 @@
       "title": "Linear scan register allocation on SSA",
       "href": "https://bernsteinbear.com/blog/linear-scan/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 14
+    },
+    {
+      "title": "Plan 9 Desktop Guide",
+      "href": "https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
     },
     {
       "title": "Coalton Playground: Type-Safe Lisp in Your Browser",
       "href": "https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "NYC’s Urban Textscape",
       "href": "https://pudding.cool/2025/07/street-view/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "nixidy: Kubernetes GitOps with nix and Argo CD",
-      "href": "https://nixidy.dev",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -128,43 +128,43 @@
       "index": 18
     },
     {
+      "title": "git-who: Git blame for file trees",
+      "href": "https://github.com/sinclairtarget/git-who",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 19
+    },
+    {
+      "title": "nixidy: Kubernetes GitOps with nix and Argo CD",
+      "href": "https://nixidy.dev",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
       "title": "Standard Package Layout (2016)",
       "href": "https://www.gobeyond.dev/standard-package-layout/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Writing Your Own Simple Tab-Completions for Bash and Zsh",
       "href": "https://mill-build.org/blog/14-bash-zsh-completion.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "git-who: Git blame for file trees",
-      "href": "https://github.com/sinclairtarget/git-who",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "The Best \"Hello World\" in Web Development",
       "href": "https://unplannedobsolescence.com/blog/best-hello-world-web-development/",
       "points": "",
       "comments": "\n              33 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "That 16 Billion Password Story (AKA \"Data Troll\")",
       "href": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Plan 9 Desktop Guide",
-      "href": "https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
