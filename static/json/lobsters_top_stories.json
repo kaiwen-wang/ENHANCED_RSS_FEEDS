@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, August 14, 2025 at 5:20 PM GMT-5",
+  "date": "Thursday, August 14, 2025 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "Why LLMs Can't Really Build Software",
       "href": "https://zed.dev/blog/why-llms-cant-build-software",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              8 comments",
       "index": 1
     },
     {
@@ -23,31 +23,31 @@
       "index": 3
     },
     {
-      "title": "Snooping On Slow Builds (Using Syscalls)",
-      "href": "https://danielchasehooper.com/posts/syscall-build-snooping/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 4
-    },
-    {
       "title": "Jujutsu with Radicle",
       "href": "https://radicle.xyz/2025/08/14/jujutsu-with-radicle",
       "points": "",
       "comments": "\n              no comments",
-      "index": 5
+      "index": 4
     },
     {
-      "title": "Emacs 30.2 is here",
-      "href": "https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2",
+      "title": "Snooping On Slow Builds (Using Syscalls)",
+      "href": "https://danielchasehooper.com/posts/syscall-build-snooping/",
       "points": "",
-      "comments": "\n              21 comments",
-      "index": 6
+      "comments": "\n              19 comments",
+      "index": 5
     },
     {
       "title": "NGINX Introduces Native Support for ACME Protocol",
       "href": "https://blog.nginx.org/blog/native-support-for-acme-protocol",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
+      "index": 6
+    },
+    {
+      "title": "Emacs 30.2 is here",
+      "href": "https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2",
+      "points": "",
+      "comments": "\n              22 comments",
       "index": 7
     },
     {
@@ -72,31 +72,31 @@
       "index": 10
     },
     {
-      "title": "Taming the Beast: Comparing Jsonnet, Dhall, Cue",
-      "href": "https://pv.wtf/posts/taming-the-beast",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 11
-    },
-    {
       "title": "what is the go proxy even doing?",
       "href": "https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "Taming the Beast: Comparing Jsonnet, Dhall, Cue",
+      "href": "https://pv.wtf/posts/taming-the-beast",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 12
+    },
+    {
+      "title": "Placing Arguments",
+      "href": "https://blog.yoshuawuyts.com/placing-arguments/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 13
     },
     {
       "title": "pyx: a Python-native package registry, now in Beta",
       "href": "https://astral.sh/blog/introducing-pyx",
       "points": "",
       "comments": "\n              36 comments",
-      "index": 13
-    },
-    {
-      "title": "Placing Arguments",
-      "href": "https://blog.yoshuawuyts.com/placing-arguments/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
     },
     {
@@ -107,17 +107,17 @@
       "index": 15
     },
     {
-      "title": "Syncing with Postgres: Logical Replication vs. ETL",
-      "href": "https://www.paradedb.com/blog/etl_vs_logical_replication",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
       "title": "Modifying Other People's Software",
       "href": "https://natkr.com/2025-08-14-modifying-other-peoples-software/",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 16
+    },
+    {
+      "title": "Syncing with Postgres: Logical Replication vs. ETL",
+      "href": "https://www.paradedb.com/blog/etl_vs_logical_replication",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -135,31 +135,31 @@
       "index": 19
     },
     {
+      "title": "We Rewrote the Ghostty GTK Application",
+      "href": "https://mitchellh.com/writing/ghostty-gtk-rewrite",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
       "title": "Study: Social media probably can’t be fixed",
       "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
       "points": "",
-      "comments": "\n              45 comments",
-      "index": 20
+      "comments": "\n              46 comments",
+      "index": 21
     },
     {
       "title": "Optimizing Your Debian 13 Desktop",
       "href": "https://teejeetech.com/2025/08/14/debian_13_tips/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "nixidy: Kubernetes GitOps with nix and Argo CD",
       "href": "https://nixidy.dev",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 22
-    },
-    {
-      "title": "Cross-Site Request Forgery",
-      "href": "https://words.filippo.io/csrf/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 23
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "History of improvements in VACUUM in PostgreSQL (2023)",
-      "href": "https://www.enterprisedb.com/postgres-tutorials/history-improvements-vacuum-postgresql",
+      "title": "Cross-Site Request Forgery",
+      "href": "https://words.filippo.io/csrf/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 25
     }
   ]
