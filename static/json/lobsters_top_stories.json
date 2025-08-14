@@ -1,25 +1,25 @@
 {
-  "date": "Thursday, August 14, 2025 at 1:30 PM GMT-5",
+  "date": "Thursday, August 14, 2025 at 2:15 PM GMT-5",
   "articles": [
+    {
+      "title": "Org-social is a decentralized social network that runs on an Org Mode",
+      "href": "https://github.com/tanrax/org-social",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 1
+    },
     {
       "title": "Why I chose OCaml as my primary language",
       "href": "https://xvw.lol/en/articles/why-ocaml.html",
       "points": "",
       "comments": "\n              45 comments",
-      "index": 1
-    },
-    {
-      "title": "Org-social is a decentralized social network that runs on an Org Mode",
-      "href": "https://github.com/tanrax/org-social",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 2
     },
     {
       "title": "Snooping On Slow Builds (Using Syscalls)",
       "href": "https://danielchasehooper.com/posts/syscall-build-snooping/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 3
     },
     {
@@ -33,21 +33,21 @@
       "title": "Emacs 30.2 is here",
       "href": "https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              19 comments",
       "index": 5
     },
     {
       "title": "Why LLMs Can't Really Build Software",
       "href": "https://zed.dev/blog/why-llms-cant-build-software",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 6
     },
     {
       "title": "Enforce Proper direnv Setup",
       "href": "https://joeyates.info/posts/enforce-proper-direnv-setup/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
       "index": 7
     },
     {
@@ -58,120 +58,120 @@
       "index": 8
     },
     {
+      "title": "Jujutsu with Radicle",
+      "href": "https://radicle.xyz/2025/08/14/jujutsu-with-radicle",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 9
+    },
+    {
       "title": "pyx: a Python-native package registry, now in Beta",
       "href": "https://astral.sh/blog/introducing-pyx",
       "points": "",
       "comments": "\n              34 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Taming the Beast: Comparing Jsonnet, Dhall, Cue",
       "href": "https://pv.wtf/posts/taming-the-beast",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Fun with finite state transducers",
       "href": "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "LazyLog: A New Shared Log Abstraction for Low-Latency Applications",
       "href": "https://ramalagappan.github.io/pdfs/papers/lazylog.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "Study: Social media probably can’t be fixed",
-      "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
-      "points": "",
-      "comments": "\n              44 comments",
       "index": 13
     },
     {
       "title": "Modifying Other People's Software",
       "href": "https://natkr.com/2025-08-14-modifying-other-peoples-software/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 14
+    },
+    {
+      "title": "Study: Social media probably can’t be fixed",
+      "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
+      "points": "",
+      "comments": "\n              45 comments",
+      "index": 15
     },
     {
       "title": "Optimizing Your Debian 13 Desktop",
       "href": "https://teejeetech.com/2025/08/14/debian_13_tips/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 15
-    },
-    {
-      "title": "Type inference for plain data",
-      "href": "https://www.haskellforall.com/2025/08/type-inference-for-plain-data.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "Plan 9 Desktop Guide",
-      "href": "https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 17
-    },
-    {
-      "title": "nixidy: Kubernetes GitOps with nix and Argo CD",
-      "href": "https://nixidy.dev",
-      "points": "",
       "comments": "\n              6 comments",
-      "index": 18
-    },
-    {
-      "title": "Our Paint | A Natural Painting Program",
-      "href": "https://www.wellobserve.com/OurPaint/index_en.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
-    },
-    {
-      "title": "Cross-Site Request Forgery",
-      "href": "https://words.filippo.io/csrf/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format",
-      "href": "https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Jujutsu with Radicle",
-      "href": "https://radicle.xyz/2025/08/14/jujutsu-with-radicle",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
+      "index": 16
     },
     {
       "title": "Placing Arguments",
       "href": "https://blog.yoshuawuyts.com/placing-arguments/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 17
     },
     {
-      "title": "OOMProf - Take a heap profile just before OOMkill using eBPF",
-      "href": "https://www.polarsignals.com/blog/posts/2025/08/13/oomprof",
+      "title": "Plan 9 Desktop Guide",
+      "href": "https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 18
+    },
+    {
+      "title": "Type inference for plain data",
+      "href": "https://www.haskellforall.com/2025/08/type-inference-for-plain-data.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 24
+      "index": 19
+    },
+    {
+      "title": "nixidy: Kubernetes GitOps with nix and Argo CD",
+      "href": "https://nixidy.dev",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 20
+    },
+    {
+      "title": "Our Paint | A Natural Painting Program",
+      "href": "https://www.wellobserve.com/OurPaint/index_en.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "Running Wayland Clients as Non-Root Users on Yocto",
+      "href": "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Cross-Site Request Forgery",
+      "href": "https://words.filippo.io/csrf/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 23
     },
     {
       "title": "Mellea is a library for writing generative programs",
       "href": "https://mellea.ai",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
+    },
+    {
+      "title": "All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format",
+      "href": "https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
