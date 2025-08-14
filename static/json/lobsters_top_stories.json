@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, August 14, 2025 at 3:30 AM GMT-5",
+  "date": "Thursday, August 14, 2025 at 4:25 AM GMT-5",
   "articles": [
     {
       "title": "Why I chose OCaml as my primary language",
       "href": "https://xvw.lol/en/articles/why-ocaml.html",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              30 comments",
       "index": 1
     },
     {
       "title": "Snooping On Slow Builds (Using Syscalls)",
       "href": "https://danielchasehooper.com/posts/syscall-build-snooping/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              11 comments",
       "index": 2
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "Study: Social media probably can’t be fixed",
-      "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
-      "points": "",
-      "comments": "\n              23 comments",
-      "index": 4
-    },
-    {
       "title": "NGINX Introduces Native Support for ACME Protocol",
       "href": "https://blog.nginx.org/blog/native-support-for-acme-protocol",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
+      "index": 4
+    },
+    {
+      "title": "Study: Social media probably can’t be fixed",
+      "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
+      "points": "",
+      "comments": "\n              25 comments",
       "index": 5
     },
     {
@@ -47,7 +47,7 @@
       "title": "Modifying Other People's Software",
       "href": "https://natkr.com/2025-08-14-modifying-other-peoples-software/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 7
     },
     {
@@ -58,80 +58,80 @@
       "index": 8
     },
     {
-      "title": "All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format",
-      "href": "https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 9
-    },
-    {
       "title": "Our Paint | A Natural Painting Program",
       "href": "https://www.wellobserve.com/OurPaint/index_en.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 10
+      "index": 9
     },
     {
-      "title": "Syncthing v2.0",
-      "href": "https://github.com/syncthing/syncthing/releases/tag/v2.0.0",
+      "title": "All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format",
+      "href": "https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/",
       "points": "",
-      "comments": "\n              44 comments",
-      "index": 11
+      "comments": "\n              no comments",
+      "index": 10
     },
     {
       "title": "nixidy: Kubernetes GitOps with nix and Argo CD",
       "href": "https://nixidy.dev",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 12
+      "index": 11
     },
     {
-      "title": "OOMProf - Take a heap profile just before OOMkill using eBPF",
-      "href": "https://www.polarsignals.com/blog/posts/2025/08/13/oomprof",
+      "title": "Syncthing v2.0",
+      "href": "https://github.com/syncthing/syncthing/releases/tag/v2.0.0",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 13
+      "comments": "\n              44 comments",
+      "index": 12
     },
     {
       "title": "Miegakure SIGGRAPH 2025 Talk",
       "href": "https://www.youtube.com/live/ucRukZM0d1s?t=5203s",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 14
-    },
-    {
-      "title": "The Factory Timezone",
-      "href": "https://data.iana.org/time-zones/tzdb-2025a/factory",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 15
+      "index": 13
     },
     {
       "title": "Taming the Beast: Comparing Jsonnet, Dhall, Cue",
       "href": "https://pv.wtf/posts/taming-the-beast",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
+      "index": 14
     },
     {
-      "title": "Arch shares its wiki strategy with Debian",
-      "href": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/",
+      "title": "OOMProf - Take a heap profile just before OOMkill using eBPF",
+      "href": "https://www.polarsignals.com/blog/posts/2025/08/13/oomprof",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 17
-    },
-    {
-      "title": "That 16 Billion Password Story (AKA \"Data Troll\")",
-      "href": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 18
+      "comments": "\n              no comments",
+      "index": 15
     },
     {
       "title": "Cross-Site Request Forgery",
       "href": "https://words.filippo.io/csrf/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
+      "title": "The Factory Timezone",
+      "href": "https://data.iana.org/time-zones/tzdb-2025a/factory",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
+      "title": "Arch shares its wiki strategy with Debian",
+      "href": "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 18
+    },
+    {
+      "title": "That 16 Billion Password Story (AKA \"Data Troll\")",
+      "href": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 19
     },
     {
@@ -166,7 +166,7 @@
       "title": "Starting with pytest’s parametrize",
       "href": "https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 24
     },
     {
