@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, August 14, 2025 at 6:20 PM GMT-5",
+  "date": "Thursday, August 14, 2025 at 8:45 PM GMT-5",
   "articles": [
     {
       "title": "Why LLMs Can't Really Build Software",
       "href": "https://zed.dev/blog/why-llms-cant-build-software",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
@@ -16,87 +16,87 @@
       "index": 2
     },
     {
-      "title": "Why I chose OCaml as my primary language",
-      "href": "https://xvw.lol/en/articles/why-ocaml.html",
-      "points": "",
-      "comments": "\n              48 comments",
-      "index": 3
-    },
-    {
       "title": "Jujutsu with Radicle",
       "href": "https://radicle.xyz/2025/08/14/jujutsu-with-radicle",
       "points": "",
       "comments": "\n              no comments",
+      "index": 3
+    },
+    {
+      "title": "Why I chose OCaml as my primary language",
+      "href": "https://xvw.lol/en/articles/why-ocaml.html",
+      "points": "",
+      "comments": "\n              53 comments",
       "index": 4
     },
     {
-      "title": "Snooping On Slow Builds (Using Syscalls)",
-      "href": "https://danielchasehooper.com/posts/syscall-build-snooping/",
+      "title": "We Rewrote the Ghostty GTK Application",
+      "href": "https://mitchellh.com/writing/ghostty-gtk-rewrite",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              no comments",
       "index": 5
     },
     {
-      "title": "NGINX Introduces Native Support for ACME Protocol",
-      "href": "https://blog.nginx.org/blog/native-support-for-acme-protocol",
+      "title": "what is the go proxy even doing?",
+      "href": "https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              1 comment",
       "index": 6
-    },
-    {
-      "title": "Emacs 30.2 is here",
-      "href": "https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2",
-      "points": "",
-      "comments": "\n              22 comments",
-      "index": 7
     },
     {
       "title": "Enforce Proper direnv Setup",
       "href": "https://joeyates.info/posts/enforce-proper-direnv-setup/",
       "points": "",
       "comments": "\n              6 comments",
+      "index": 7
+    },
+    {
+      "title": "Snooping On Slow Builds (Using Syscalls)",
+      "href": "https://danielchasehooper.com/posts/syscall-build-snooping/",
+      "points": "",
+      "comments": "\n              19 comments",
       "index": 8
     },
     {
-      "title": "How to rig elections",
-      "href": "https://media.ccc.de/v/why2025-218-how-to-rig-elections",
+      "title": "Emacs 30.2 is here",
+      "href": "https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              22 comments",
       "index": 9
+    },
+    {
+      "title": "NGINX Introduces Native Support for ACME Protocol",
+      "href": "https://blog.nginx.org/blog/native-support-for-acme-protocol",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 10
     },
     {
       "title": "Fun with finite state transducers",
       "href": "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "what is the go proxy even doing?",
-      "href": "https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 11
-    },
-    {
-      "title": "Taming the Beast: Comparing Jsonnet, Dhall, Cue",
-      "href": "https://pv.wtf/posts/taming-the-beast",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 12
     },
     {
       "title": "Placing Arguments",
       "href": "https://blog.yoshuawuyts.com/placing-arguments/",
       "points": "",
+      "comments": "\n              6 comments",
+      "index": 12
+    },
+    {
+      "title": "How to rig elections",
+      "href": "https://media.ccc.de/v/why2025-218-how-to-rig-elections",
+      "points": "",
       "comments": "\n              2 comments",
       "index": 13
     },
     {
-      "title": "pyx: a Python-native package registry, now in Beta",
-      "href": "https://astral.sh/blog/introducing-pyx",
+      "title": "Taming the Beast: Comparing Jsonnet, Dhall, Cue",
+      "href": "https://pv.wtf/posts/taming-the-beast",
       "points": "",
-      "comments": "\n              36 comments",
+      "comments": "\n              9 comments",
       "index": 14
     },
     {
@@ -110,70 +110,70 @@
       "title": "Modifying Other People's Software",
       "href": "https://natkr.com/2025-08-14-modifying-other-peoples-software/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              8 comments",
       "index": 16
-    },
-    {
-      "title": "Syncing with Postgres: Logical Replication vs. ETL",
-      "href": "https://www.paradedb.com/blog/etl_vs_logical_replication",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Mixbox - Natural Color Mixing Based on Real Pigments (2021)",
-      "href": "https://scrtwpns.com/mixbox/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
     },
     {
       "title": "NaN-Propagation: A Novel Method for Sparsity Detection in Black-Box Computational Functions",
       "href": "https://arxiv.org/abs/2507.23186",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "pyx: a Python-native package registry, now in Beta",
+      "href": "https://astral.sh/blog/introducing-pyx",
+      "points": "",
+      "comments": "\n              39 comments",
+      "index": 18
+    },
+    {
+      "title": "Syncing with Postgres: Logical Replication vs. ETL",
+      "href": "https://www.paradedb.com/blog/etl_vs_logical_replication",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 19
     },
     {
-      "title": "We Rewrote the Ghostty GTK Application",
-      "href": "https://mitchellh.com/writing/ghostty-gtk-rewrite",
+      "title": "Mixbox - Natural Color Mixing Based on Real Pigments (2021)",
+      "href": "https://scrtwpns.com/mixbox/",
       "points": "",
       "comments": "\n              no comments",
       "index": 20
-    },
-    {
-      "title": "Study: Social media probably can’t be fixed",
-      "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
-      "points": "",
-      "comments": "\n              46 comments",
-      "index": 21
     },
     {
       "title": "Optimizing Your Debian 13 Desktop",
       "href": "https://teejeetech.com/2025/08/14/debian_13_tips/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 22
-    },
-    {
-      "title": "nixidy: Kubernetes GitOps with nix and Argo CD",
-      "href": "https://nixidy.dev",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 23
-    },
-    {
-      "title": "Plan 9 Desktop Guide",
-      "href": "https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 24
+      "index": 21
     },
     {
       "title": "Cross-Site Request Forgery",
       "href": "https://words.filippo.io/csrf/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 22
+    },
+    {
+      "title": "Study: Social media probably can’t be fixed",
+      "href": "https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/",
+      "points": "",
+      "comments": "\n              47 comments",
+      "index": 23
+    },
+    {
+      "title": "nixidy: Kubernetes GitOps with nix and Argo CD",
+      "href": "https://nixidy.dev",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 24
+    },
+    {
+      "title": "Plan 9 Desktop Guide",
+      "href": "https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 25
     }
   ]
