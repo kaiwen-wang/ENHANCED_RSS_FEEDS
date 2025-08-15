@@ -1,214 +1,214 @@
 {
-  "date": "Friday, August 15, 2025 at 3:20 PM GMT-5",
+  "date": "Friday, August 15, 2025 at 4:15 PM GMT-5",
   "articles": [
+    {
+      "title": "Claude Opus 4 and 4.1 can now end a rare subset of conversations",
+      "href": "https://www.anthropic.com/research/end-subset-conversations",
+      "points": "60 points",
+      "comments": "44 comments",
+      "index": 1
+    },
     {
       "title": "Show HN: Edka – Kubernetes clusters on your own Hetzner account",
       "href": "https://edka.io",
-      "points": "149 points",
-      "comments": "42 comments",
-      "index": 1
+      "points": "180 points",
+      "comments": "64 comments",
+      "index": 2
     },
     {
       "title": "Occult books digitized and put online by Amsterdam’s Ritman Library",
       "href": "https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html",
-      "points": "204 points",
-      "comments": "96 comments",
-      "index": 2
-    },
-    {
-      "title": "Launch HN: Embedder (YC S25) – Claude code for embedded software",
-      "href": "item?id=44915206",
-      "points": "45 points",
-      "comments": "15 comments",
+      "points": "236 points",
+      "comments": "107 comments",
       "index": 3
-    },
-    {
-      "title": "Do Things That Don't Scale (2013)",
-      "href": "https://paulgraham.com/ds.html",
-      "points": "178 points",
-      "comments": "69 comments",
-      "index": 4
     },
     {
       "title": "OpenBSD is so fast, I had to modify the program slightly to measure itself",
       "href": "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux",
-      "points": "34 points",
+      "points": "63 points",
+      "comments": "38 comments",
+      "index": 4
+    },
+    {
+      "title": "Launch HN: Embedder (YC S25) – Claude code for embedded software",
+      "href": "item?id=44915206",
+      "points": "54 points",
       "comments": "17 comments",
       "index": 5
     },
     {
-      "title": "Show HN: JMAP MCP – Email for your agents",
-      "href": "https://github.com/wyattjoh/jmap-mcp",
-      "points": "24 points",
-      "comments": "2 comments",
+      "title": "Do Things That Don't Scale (2013)",
+      "href": "https://paulgraham.com/ds.html",
+      "points": "191 points",
+      "comments": "73 comments",
       "index": 6
     },
     {
-      "title": "Imagen 4 is now generally available",
-      "href": "https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/",
-      "points": "101 points",
-      "comments": "29 comments",
+      "title": "Bullfrog in the Dungeon",
+      "href": "https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/",
+      "points": "57 points",
+      "comments": "17 comments",
       "index": 7
     },
     {
       "title": "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
       "href": "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/",
-      "points": "79 points",
-      "comments": "28 comments",
+      "points": "89 points",
+      "comments": "32 comments",
       "index": 8
     },
     {
       "title": "ARM adds neural accelerators to GPUs",
       "href": "https://newsroom.arm.com/news/arm-announces-arm-neural-technology",
-      "points": "99 points",
-      "comments": "15 comments",
+      "points": "111 points",
+      "comments": "17 comments",
       "index": 9
+    },
+    {
+      "title": "Show HN: JMAP MCP – Email for your agents",
+      "href": "https://github.com/wyattjoh/jmap-mcp",
+      "points": "26 points",
+      "comments": "3 comments",
+      "index": 10
+    },
+    {
+      "title": "ADHD drug treatment and risk of negative events and outcomes",
+      "href": "https://www.bmj.com/content/390/bmj-2024-083658",
+      "points": "82 points",
+      "comments": "110 comments",
+      "index": 11
+    },
+    {
+      "title": "Imagen 4 is now generally available",
+      "href": "https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/",
+      "points": "118 points",
+      "comments": "44 comments",
+      "index": 12
     },
     {
       "title": "Vaultwarden commit introduces SSO using OpenID Connect",
       "href": "https://github.com/dani-garcia/vaultwarden/pull/3899",
-      "points": "121 points",
-      "comments": "68 comments",
-      "index": 10
-    },
-    {
-      "title": "Bullfrog in the Dungeon",
-      "href": "https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/",
-      "points": "44 points",
-      "comments": "13 comments",
-      "index": 11
-    },
-    {
-      "title": "In-depth analysis on Valorant's Guarded Regions",
-      "href": "https://reversing.info/posts/guardedregions/",
-      "points": "17 points",
-      "comments": "discuss",
-      "index": 12
+      "points": "126 points",
+      "comments": "72 comments",
+      "index": 13
     },
     {
       "title": "EasyPost (YC S13) Is Hiring",
       "href": "https://www.easypost.com/careers",
       "points": "",
       "comments": "hide",
-      "index": 13
-    },
-    {
-      "title": "I let LLMs write an Elixir NIF in C; it mostly worked",
-      "href": "https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/",
-      "points": "36 points",
-      "comments": "34 comments",
       "index": 14
     },
     {
-      "title": "ADHD drug treatment and risk of negative events and outcomes",
-      "href": "https://www.bmj.com/content/390/bmj-2024-083658",
-      "points": "55 points",
-      "comments": "79 comments",
+      "title": "In-depth analysis on Valorant's Guarded Regions",
+      "href": "https://reversing.info/posts/guardedregions/",
+      "points": "22 points",
+      "comments": "3 comments",
       "index": 15
     },
     {
-      "title": "Entities enabling scientific fraud at scale are large, and growing rapidly",
-      "href": "https://www.pnas.org/doi/10.1073/pnas.2420092122",
-      "points": "27 points",
-      "comments": "9 comments",
+      "title": "Dexter Cows and Kefir Cheese",
+      "href": "https://smallfarmersjournal.com/dexter-cows-and-kefir-cheese/",
+      "points": "4 points",
+      "comments": "1 comment",
       "index": 16
     },
     {
       "title": "Open hardware desktop 3D printing is dead?",
       "href": "https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/",
-      "points": "575 points",
-      "comments": "357 comments",
+      "points": "590 points",
+      "comments": "364 comments",
       "index": 17
     },
     {
-      "title": "The Folk Economics of Housing",
-      "href": "https://www.aeaweb.org/articles?id=10.1257/jep.20241428",
-      "points": "81 points",
-      "comments": "183 comments",
+      "title": "Show HN: Prime Number Grid Visualizer",
+      "href": "https://enda.sh/primegrid/",
+      "points": "14 points",
+      "comments": "6 comments",
       "index": 18
     },
     {
-      "title": "The beauty of a text only webpage",
-      "href": "https://albanbrooke.com/the-beauty-of-a-text-only-webpage/",
-      "points": "216 points",
-      "comments": "152 comments",
+      "title": "Entities enabling scientific fraud at scale are large, and growing rapidly",
+      "href": "https://www.pnas.org/doi/10.1073/pnas.2420092122",
+      "points": "32 points",
+      "comments": "13 comments",
       "index": 19
     },
     {
       "title": "The Timmy Trap",
       "href": "https://jenson.org/timmy/",
-      "points": "123 points",
-      "comments": "111 comments",
+      "points": "131 points",
+      "comments": "114 comments",
       "index": 20
-    },
-    {
-      "title": "Using AI to secure AI",
-      "href": "https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/",
-      "points": "82 points",
-      "comments": "22 comments",
-      "index": 21
-    },
-    {
-      "title": "An interactive guide to sensor fusion with quaternions",
-      "href": "https://quaternion.cafe/",
-      "points": "34 points",
-      "comments": "12 comments",
-      "index": 22
-    },
-    {
-      "title": "Show HN: Prime Number Grid Visualizer",
-      "href": "https://enda.sh/primegrid/",
-      "points": "5 points",
-      "comments": "4 comments",
-      "index": 23
     },
     {
       "title": "It seems like the AI crawlers learned how to solve the Anubis challenges",
       "href": "https://social.anoxinon.de/@Codeberg/115033790447125787",
-      "points": "75 points",
-      "comments": "68 comments",
+      "points": "85 points",
+      "comments": "77 comments",
+      "index": 21
+    },
+    {
+      "title": "The Folk Economics of Housing",
+      "href": "https://www.aeaweb.org/articles?id=10.1257/jep.20241428",
+      "points": "88 points",
+      "comments": "199 comments",
+      "index": 22
+    },
+    {
+      "title": "The beauty of a text only webpage",
+      "href": "https://albanbrooke.com/the-beauty-of-a-text-only-webpage/",
+      "points": "235 points",
+      "comments": "156 comments",
+      "index": 23
+    },
+    {
+      "title": "An interactive guide to sensor fusion with quaternions",
+      "href": "https://quaternion.cafe/",
+      "points": "38 points",
+      "comments": "12 comments",
       "index": 24
     },
     {
-      "title": "Blurry rendering of games on Mac",
-      "href": "https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/",
-      "points": "428 points",
-      "comments": "280 comments",
+      "title": "Using AI to secure AI",
+      "href": "https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/",
+      "points": "88 points",
+      "comments": "26 comments",
       "index": 25
     },
     {
-      "title": "Simulating and Visualising the Central Limit Theorem",
-      "href": "https://blog.foletta.net/post/2025-07-14-clt/",
-      "points": "143 points",
-      "comments": "52 comments",
+      "title": "When the CIA got away with building a heart attack gun",
+      "href": "https://wisewolfmedia.substack.com/p/the-investigation-that-should-have",
+      "points": "59 points",
+      "comments": "23 comments",
       "index": 26
     },
     {
       "title": "Non-invasive vagus nerve stimulation and exercise capacity in healthy volunteers",
       "href": "https://academic.oup.com/eurheartj/article/46/17/1634/8023896?login=false",
-      "points": "45 points",
+      "points": "52 points",
       "comments": "9 comments",
       "index": 27
     },
     {
-      "title": "The electric fence stopped working years ago",
-      "href": "https://soonly.com/electric-fences/",
-      "points": "131 points",
-      "comments": "65 comments",
+      "title": "Simulating and Visualising the Central Limit Theorem",
+      "href": "https://blog.foletta.net/post/2025-07-14-clt/",
+      "points": "143 points",
+      "comments": "55 comments",
       "index": 28
     },
     {
-      "title": "When the CIA got away with building a heart attack gun",
-      "href": "https://wisewolfmedia.substack.com/p/the-investigation-that-should-have",
-      "points": "43 points",
-      "comments": "15 comments",
+      "title": "The electric fence stopped working years ago",
+      "href": "https://soonly.com/electric-fences/",
+      "points": "147 points",
+      "comments": "71 comments",
       "index": 29
     },
     {
-      "title": "I used to know how to write in Japanese",
-      "href": "https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese",
-      "points": "200 points",
-      "comments": "189 comments",
+      "title": "Recto – A Truly 2D Language",
+      "href": "https://masatohagiwara.net/recto.html",
+      "points": "90 points",
+      "comments": "34 comments",
       "index": 30
     }
   ]
