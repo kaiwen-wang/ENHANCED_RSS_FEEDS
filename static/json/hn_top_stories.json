@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, August 16, 2025 at 8:50 PM GMT-5",
+  "date": "Saturday, August 16, 2025 at 10:25 PM GMT-5",
   "articles": [
+    {
+      "title": "FFmpeg moves to Forgejo",
+      "href": "https://code.ffmpeg.org/FFmpeg/FFmpeg",
+      "points": "116 points",
+      "comments": "48 comments",
+      "index": 1
+    },
+    {
+      "title": "Hardening Systemd Services",
+      "href": "https://us.jlcarveth.dev/post/hardening-systemd.md",
+      "points": "10 points",
+      "comments": "2 comments",
+      "index": 2
+    },
     {
       "title": "Dev Compass – Programming Philosophy Quiz",
       "href": "https://treeform.github.io/devcompas/",
-      "points": "53 points",
-      "comments": "29 comments",
-      "index": 1
+      "points": "78 points",
+      "comments": "38 comments",
+      "index": 3
     },
     {
       "title": "Visualising how close random GUIDs come to being the same",
       "href": "https://www.guidsmash.com",
-      "points": "51 points",
-      "comments": "12 comments",
-      "index": 2
-    },
-    {
-      "title": "FFmpeg moves to Forgejo",
-      "href": "https://code.ffmpeg.org/FFmpeg/FFmpeg",
-      "points": "38 points",
-      "comments": "3 comments",
-      "index": 3
+      "points": "70 points",
+      "comments": "20 comments",
+      "index": 4
     },
     {
       "title": "Dyna – Logic Programming for Machine Learning",
       "href": "https://dyna.org/",
-      "points": "83 points",
-      "comments": "7 comments",
-      "index": 4
-    },
-    {
-      "title": "GDPR meant nothing: chat control ends privacy for the EU [video]",
-      "href": "https://www.youtube.com/watch?v=3NyUgv6dpJc",
-      "points": "53 points",
-      "comments": "11 comments",
+      "points": "96 points",
+      "comments": "8 comments",
       "index": 5
     },
     {
       "title": "The Raft Consensus Algorithm (2015)",
       "href": "https://raft.github.io/",
-      "points": "96 points",
-      "comments": "20 comments",
+      "points": "108 points",
+      "comments": "22 comments",
       "index": 6
     },
     {
-      "title": "Living with Williams Syndrome, the 'opposite of autism' (2014)",
-      "href": "https://www.bbc.com/news/health-26888280",
-      "points": "43 points",
-      "comments": "16 comments",
+      "title": "An Argument for Increasing TCP's Initial Congestion Window Again",
+      "href": "https://jeclark.net/articles/tcp-initcwnd/?tag=performance",
+      "points": "15 points",
+      "comments": "3 comments",
       "index": 7
     },
     {
-      "title": "For Iris Murdoch, morality is about love, not duties and rules",
-      "href": "https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules",
-      "points": "25 points",
-      "comments": "14 comments",
+      "title": "GDPR meant nothing: chat control ends privacy for the EU [video]",
+      "href": "https://www.youtube.com/watch?v=3NyUgv6dpJc",
+      "points": "102 points",
+      "comments": "40 comments",
       "index": 8
-    },
-    {
-      "title": "Dicing an Onion, the Mathematically Optimal Way",
-      "href": "https://pudding.cool/2025/08/onions/",
-      "points": "207 points",
-      "comments": "79 comments",
-      "index": 9
     },
     {
       "title": "OpenAI Progress",
       "href": "https://progress.openai.com",
-      "points": "167 points",
-      "comments": "160 comments",
+      "points": "201 points",
+      "comments": "179 comments",
+      "index": 9
+    },
+    {
+      "title": "Dicing an Onion, the Mathematically Optimal Way",
+      "href": "https://pudding.cool/2025/08/onions/",
+      "points": "225 points",
+      "comments": "80 comments",
       "index": 10
     },
     {
       "title": "Pfeilstorch",
       "href": "https://en.wikipedia.org/wiki/Pfeilstorch",
-      "points": "202 points",
-      "comments": "54 comments",
+      "points": "219 points",
+      "comments": "56 comments",
       "index": 11
     },
     {
-      "title": "Office on HP-UX and Unix",
-      "href": "https://www.openpa.net/hp-ux_office.html",
-      "points": "79 points",
-      "comments": "36 comments",
+      "title": "Living with Williams Syndrome, the 'opposite of autism' (2014)",
+      "href": "https://www.bbc.com/news/health-26888280",
+      "points": "54 points",
+      "comments": "23 comments",
       "index": 12
+    },
+    {
+      "title": "For Iris Murdoch, morality is about love, not duties and rules",
+      "href": "https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules",
+      "points": "29 points",
+      "comments": "18 comments",
+      "index": 13
+    },
+    {
+      "title": "Running Wayland Clients as Non-Root Users on Yocto",
+      "href": "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 14
     },
     {
       "title": "That 16B password story (a.k.a. \"data troll\")",
       "href": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
-      "points": "40 points",
-      "comments": "3 comments",
-      "index": 13
-    },
-    {
-      "title": "Do things that don't scale, and then don't scale",
-      "href": "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156",
-      "points": "367 points",
-      "comments": "151 comments",
-      "index": 14
+      "points": "53 points",
+      "comments": "4 comments",
+      "index": 15
     },
     {
       "title": "Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi",
       "href": "http://unsafehttp.benren.au",
-      "points": "22 points",
-      "comments": "21 comments",
-      "index": 15
-    },
-    {
-      "title": "Tversky Neural Networks",
-      "href": "https://gonzoml.substack.com/p/tversky-neural-networks",
-      "points": "67 points",
-      "comments": "8 comments",
+      "points": "30 points",
+      "comments": "32 comments",
       "index": 16
     },
     {
       "title": "A single lock of hair could rewrite what we know about Inca record-keeping",
       "href": "https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping",
-      "points": "56 points",
-      "comments": "17 comments",
+      "points": "60 points",
+      "comments": "18 comments",
       "index": 17
     },
     {
-      "title": "A Lisp in 99LOC",
-      "href": "https://github.com/Robert-van-Engelen/tinylisp",
-      "points": "39 points",
-      "comments": "2 comments",
+      "title": "Tversky Neural Networks",
+      "href": "https://gonzoml.substack.com/p/tversky-neural-networks",
+      "points": "71 points",
+      "comments": "8 comments",
       "index": 18
     },
     {
-      "title": "Show HN: Lue – Terminal eBook Reader with Text-to-Speech",
-      "href": "https://github.com/superstarryeyes/lue",
-      "points": "61 points",
-      "comments": "18 comments",
+      "title": "Do things that don't scale, and then don't scale",
+      "href": "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156",
+      "points": "389 points",
+      "comments": "151 comments",
       "index": 19
     },
     {
       "title": "Traps to Developers",
       "href": "https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers",
-      "points": "177 points",
-      "comments": "69 comments",
+      "points": "184 points",
+      "comments": "77 comments",
       "index": 20
     },
     {
-      "title": "Princeton NuEnergy's battery recycling tech recovers 97% of lithium-ion material",
-      "href": "https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/",
-      "points": "60 points",
-      "comments": "18 comments",
+      "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
+      "href": "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html",
+      "points": "95 points",
+      "comments": "6 comments",
       "index": 21
     },
     {
       "title": "Toothpaste made with keratin may protect and repair damaged teeth: study",
       "href": "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth",
-      "points": "320 points",
-      "comments": "161 comments",
+      "points": "334 points",
+      "comments": "166 comments",
       "index": 22
     },
     {
-      "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
-      "href": "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html",
-      "points": "90 points",
-      "comments": "5 comments",
+      "title": "Show HN: Lue – Terminal eBook Reader with Text-to-Speech",
+      "href": "https://github.com/superstarryeyes/lue",
+      "points": "65 points",
+      "comments": "19 comments",
       "index": 23
     },
     {
-      "title": "Making Your Own Merchant Service Provider",
-      "href": "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/",
-      "points": "230 points",
-      "comments": "146 comments",
+      "title": "A Lisp in 99LOC",
+      "href": "https://github.com/Robert-van-Engelen/tinylisp",
+      "points": "45 points",
+      "comments": "3 comments",
       "index": 24
+    },
+    {
+      "title": "Princeton NuEnergy's battery recycling tech recovers 97% of lithium-ion material",
+      "href": "https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/",
+      "points": "69 points",
+      "comments": "18 comments",
+      "index": 25
+    },
+    {
+      "title": "Office on HP-UX and Unix",
+      "href": "https://www.openpa.net/hp-ux_office.html",
+      "points": "83 points",
+      "comments": "41 comments",
+      "index": 26
     },
     {
       "title": "Good system design",
       "href": "https://www.seangoedecke.com/good-system-design/",
-      "points": "729 points",
-      "comments": "321 comments",
-      "index": 25
+      "points": "747 points",
+      "comments": "327 comments",
+      "index": 27
+    },
+    {
+      "title": "Making Your Own Merchant Service Provider",
+      "href": "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/",
+      "points": "236 points",
+      "comments": "148 comments",
+      "index": 28
     },
     {
       "title": "Apple's new Processor Trace instrument is incredible",
       "href": "https://victorwynne.com/processor-trace-instrument/",
-      "points": "76 points",
-      "comments": "28 comments",
-      "index": 26
-    },
-    {
-      "title": "Monday – A personality experiment",
-      "href": "https://chatgpt.com/g/g-67ec3b78892481918c89067962526695-monday",
-      "points": "65 points",
-      "comments": "74 comments",
-      "index": 27
-    },
-    {
-      "title": "Please Keep Humans in the Loop (on GitHub Issues)",
-      "href": "https://github.com/microsoft/vscode/issues/261976",
-      "points": "7 points",
-      "comments": "discuss",
-      "index": 28
-    },
-    {
-      "title": "Stylish Bugs",
-      "href": "https://flak.tedunangst.com/post/stylish-bugs",
-      "points": "3 points",
-      "comments": "discuss",
+      "points": "101 points",
+      "comments": "32 comments",
       "index": 29
     },
     {
-      "title": "PuTTY has a new website",
-      "href": "https://putty.software/",
-      "points": "458 points",
-      "comments": "238 comments",
+      "title": "Passive Microwave Repeaters",
+      "href": "https://computer.rip/2025-08-16-passive-microwave-repeaters.html",
+      "points": "4 points",
+      "comments": "1 comment",
       "index": 30
     }
   ]
