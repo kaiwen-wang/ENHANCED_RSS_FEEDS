@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, August 17, 2025 at 2:20 AM GMT-5",
+  "date": "Sunday, August 17, 2025 at 3:25 AM GMT-5",
   "articles": [
     {
-      "title": "Dev Compass – Programming Philosophy Quiz",
-      "href": "https://treeform.github.io/devcompas/",
-      "points": "127 points",
-      "comments": "51 comments",
+      "title": "Lessons learned from building a sync-engine and reactivity system with SQLite",
+      "href": "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity",
+      "points": "26 points",
+      "comments": "6 comments",
       "index": 1
-    },
-    {
-      "title": "Visualising how close random GUIDs come to being the same",
-      "href": "https://www.guidsmash.com",
-      "points": "114 points",
-      "comments": "32 comments",
-      "index": 2
-    },
-    {
-      "title": "An Argument for Increasing TCP's Initial Congestion Window Again",
-      "href": "https://jeclark.net/articles/tcp-initcwnd/?tag=performance",
-      "points": "59 points",
-      "comments": "13 comments",
-      "index": 3
-    },
-    {
-      "title": "Node.js can now execute TypeScript files",
-      "href": "https://nodejs.org/en/blog/release/v22.18.0",
-      "points": "32 points",
-      "comments": "4 comments",
-      "index": 4
-    },
-    {
-      "title": "Dyna – Logic Programming for Machine Learning",
-      "href": "https://dyna.org/",
-      "points": "108 points",
-      "comments": "9 comments",
-      "index": 5
-    },
-    {
-      "title": "OpenAI Progress",
-      "href": "https://progress.openai.com",
-      "points": "261 points",
-      "comments": "215 comments",
-      "index": 6
-    },
-    {
-      "title": "The Raft Consensus Algorithm (2015)",
-      "href": "https://raft.github.io/",
-      "points": "129 points",
-      "comments": "28 comments",
-      "index": 7
-    },
-    {
-      "title": "Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move",
-      "href": "https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/",
-      "points": "123 points",
-      "comments": "67 comments",
-      "index": 8
-    },
-    {
-      "title": "Dicing an Onion, the Mathematically Optimal Way",
-      "href": "https://pudding.cool/2025/08/onions/",
-      "points": "257 points",
-      "comments": "90 comments",
-      "index": 9
-    },
-    {
-      "title": "Pfeilstorch",
-      "href": "https://en.wikipedia.org/wiki/Pfeilstorch",
-      "points": "246 points",
-      "comments": "64 comments",
-      "index": 10
     },
     {
       "title": "SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"",
       "href": "https://marnetto.net/2025/02/20/broderbund-stunts-1",
-      "points": "9 points",
+      "points": "35 points",
       "comments": "discuss",
+      "index": 2
+    },
+    {
+      "title": "Node.js can now execute TypeScript files",
+      "href": "https://nodejs.org/en/blog/release/v22.18.0",
+      "points": "89 points",
+      "comments": "32 comments",
+      "index": 3
+    },
+    {
+      "title": "Dev Compass – Programming Philosophy Quiz",
+      "href": "https://treeform.github.io/devcompas/",
+      "points": "144 points",
+      "comments": "59 comments",
+      "index": 4
+    },
+    {
+      "title": "Visualising how close random GUIDs come to being the same",
+      "href": "https://www.guidsmash.com",
+      "points": "121 points",
+      "comments": "34 comments",
+      "index": 5
+    },
+    {
+      "title": "An Argument for Increasing TCP's Initial Congestion Window Again",
+      "href": "https://jeclark.net/articles/tcp-initcwnd/?tag=performance",
+      "points": "70 points",
+      "comments": "19 comments",
+      "index": 6
+    },
+    {
+      "title": "Dyna – Logic Programming for Machine Learning",
+      "href": "https://dyna.org/",
+      "points": "116 points",
+      "comments": "9 comments",
+      "index": 7
+    },
+    {
+      "title": "OpenAI Progress",
+      "href": "https://progress.openai.com",
+      "points": "271 points",
+      "comments": "230 comments",
+      "index": 8
+    },
+    {
+      "title": "Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move",
+      "href": "https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/",
+      "points": "156 points",
+      "comments": "95 comments",
+      "index": 9
+    },
+    {
+      "title": "LLMs tell bad jokes because they avoid surprises",
+      "href": "https://danfabulich.medium.com/llms-tell-bad-jokes-because-they-avoid-surprises-7f111aac4f96",
+      "points": "14 points",
+      "comments": "16 comments",
+      "index": 10
+    },
+    {
+      "title": "The Raft Consensus Algorithm (2015)",
+      "href": "https://raft.github.io/",
+      "points": "135 points",
+      "comments": "32 comments",
       "index": 11
+    },
+    {
+      "title": "Dicing an Onion, the Mathematically Optimal Way",
+      "href": "https://pudding.cool/2025/08/onions/",
+      "points": "268 points",
+      "comments": "92 comments",
+      "index": 12
+    },
+    {
+      "title": "Pfeilstorch",
+      "href": "https://en.wikipedia.org/wiki/Pfeilstorch",
+      "points": "253 points",
+      "comments": "66 comments",
+      "index": 13
     },
     {
       "title": "That 16B password story (a.k.a. \"data troll\")",
       "href": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
-      "points": "76 points",
-      "comments": "7 comments",
-      "index": 12
-    },
-    {
-      "title": "GDPR meant nothing: chat control ends privacy for the EU [video]",
-      "href": "https://www.youtube.com/watch?v=3NyUgv6dpJc",
-      "points": "232 points",
-      "comments": "147 comments",
-      "index": 13
-    },
-    {
-      "title": "Running Wayland Clients as Non-Root Users on Yocto",
-      "href": "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/",
-      "points": "13 points",
-      "comments": "discuss",
+      "points": "79 points",
+      "comments": "8 comments",
       "index": 14
     },
     {
-      "title": "Tversky Neural Networks",
-      "href": "https://gonzoml.substack.com/p/tversky-neural-networks",
-      "points": "92 points",
-      "comments": "8 comments",
+      "title": "Wan – Open-source alternative to VEO 3",
+      "href": "https://github.com/Wan-Video/Wan2.2",
+      "points": "6 points",
+      "comments": "discuss",
       "index": 15
-    },
-    {
-      "title": "Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi",
-      "href": "http://unsafehttp.benren.au",
-      "points": "54 points",
-      "comments": "35 comments",
-      "index": 16
     },
     {
       "title": "Counting Words at SIMD Speed",
       "href": "https://healeycodes.com/counting-words-at-simd-speed",
-      "points": "10 points",
-      "comments": "6 comments",
+      "points": "15 points",
+      "comments": "8 comments",
+      "index": 16
+    },
+    {
+      "title": "Tversky Neural Networks",
+      "href": "https://gonzoml.substack.com/p/tversky-neural-networks",
+      "points": "94 points",
+      "comments": "8 comments",
       "index": 17
     },
     {
-      "title": "Passive Microwave Repeaters",
-      "href": "https://computer.rip/2025-08-16-passive-microwave-repeaters.html",
-      "points": "23 points",
-      "comments": "3 comments",
+      "title": "GDPR meant nothing: chat control ends privacy for the EU [video]",
+      "href": "https://www.youtube.com/watch?v=3NyUgv6dpJc",
+      "points": "285 points",
+      "comments": "197 comments",
       "index": 18
     },
     {
-      "title": "A Lisp in 99LOC",
-      "href": "https://github.com/Robert-van-Engelen/tinylisp",
-      "points": "65 points",
-      "comments": "8 comments",
+      "title": "Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi",
+      "href": "http://unsafehttp.benren.au",
+      "points": "57 points",
+      "comments": "38 comments",
       "index": 19
     },
     {
-      "title": "Living with Williams Syndrome, the 'opposite of autism' (2014)",
-      "href": "https://www.bbc.com/news/health-26888280",
-      "points": "73 points",
-      "comments": "33 comments",
+      "title": "Traps to Developers",
+      "href": "https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers",
+      "points": "208 points",
+      "comments": "88 comments",
       "index": 20
     },
     {
       "title": "Princeton NuEnergy's battery recycling tech recovers 97% of lithium-ion material",
       "href": "https://www.energy-reporters.com/environment/97-battery-recycling-breakthrough-princeton-nuenergy-opens-first-u-s-commercial-facility-cutting-costs-38-and-slashing-environmental-impact/",
-      "points": "88 points",
-      "comments": "24 comments",
+      "points": "97 points",
+      "comments": "25 comments",
       "index": 21
+    },
+    {
+      "title": "A Lisp in 99LOC",
+      "href": "https://github.com/Robert-van-Engelen/tinylisp",
+      "points": "66 points",
+      "comments": "9 comments",
+      "index": 22
+    },
+    {
+      "title": "\"Mocha Dick,\" the White Whale of the Pacific",
+      "href": "https://lithub.com/on-mocha-dick-the-white-whale-of-the-pacific-that-influenced-herman-melville/",
+      "points": "7 points",
+      "comments": "discuss",
+      "index": 23
+    },
+    {
+      "title": "Living with Williams Syndrome, the 'opposite of autism' (2014)",
+      "href": "https://www.bbc.com/news/health-26888280",
+      "points": "75 points",
+      "comments": "36 comments",
+      "index": 24
     },
     {
       "title": "For Iris Murdoch, morality is about love, not duties and rules",
       "href": "https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules",
-      "points": "34 points",
-      "comments": "25 comments",
-      "index": 22
+      "points": "35 points",
+      "comments": "27 comments",
+      "index": 25
     },
     {
-      "title": "Traps to Developers",
-      "href": "https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers",
-      "points": "200 points",
-      "comments": "86 comments",
-      "index": 23
+      "title": "Running Wayland Clients as Non-Root Users on Yocto",
+      "href": "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/",
+      "points": "16 points",
+      "comments": "1 comment",
+      "index": 26
     },
     {
-      "title": "Do things that don't scale, and then don't scale",
-      "href": "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156",
-      "points": "417 points",
-      "comments": "165 comments",
-      "index": 24
+      "title": "Passive Microwave Repeaters",
+      "href": "https://computer.rip/2025-08-16-passive-microwave-repeaters.html",
+      "points": "25 points",
+      "comments": "8 comments",
+      "index": 27
     },
     {
       "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
       "href": "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html",
-      "points": "102 points",
+      "points": "106 points",
       "comments": "7 comments",
-      "index": 25
+      "index": 28
+    },
+    {
+      "title": "Do things that don't scale, and then don't scale",
+      "href": "https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156",
+      "points": "427 points",
+      "comments": "168 comments",
+      "index": 29
     },
     {
       "title": "A single lock of hair could rewrite what we know about Inca record-keeping",
       "href": "https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping",
-      "points": "66 points",
-      "comments": "23 comments",
-      "index": 26
-    },
-    {
-      "title": "Show HN: Lue – Terminal eBook Reader with Text-to-Speech",
-      "href": "https://github.com/superstarryeyes/lue",
-      "points": "78 points",
-      "comments": "22 comments",
-      "index": 27
-    },
-    {
-      "title": "Toothpaste made with keratin may protect and repair damaged teeth: study",
-      "href": "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth",
-      "points": "363 points",
-      "comments": "173 comments",
-      "index": 28
-    },
-    {
-      "title": "Good system design",
-      "href": "https://www.seangoedecke.com/good-system-design/",
-      "points": "781 points",
-      "comments": "341 comments",
-      "index": 29
-    },
-    {
-      "title": "FFmpeg moves to Forgejo",
-      "href": "https://code.ffmpeg.org/FFmpeg/FFmpeg",
-      "points": "264 points",
-      "comments": "231 comments",
+      "points": "68 points",
+      "comments": "24 comments",
       "index": 30
     }
   ]
