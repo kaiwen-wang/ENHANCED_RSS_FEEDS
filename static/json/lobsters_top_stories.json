@@ -1,5 +1,5 @@
 {
-  "date": "Monday, August 18, 2025 at 3:20 PM GMT-5",
+  "date": "Monday, August 18, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
@@ -12,7 +12,7 @@
       "title": "“Email is Easy” email address quiz",
       "href": "https://e-mail.wtf",
       "points": "",
-      "comments": "\n              77 comments",
+      "comments": "\n              79 comments",
       "index": 2
     },
     {
@@ -33,21 +33,21 @@
       "title": "GPT-5 goes hard on real-world programming",
       "href": "https://www.omerba.dev/blog/gpt-5-evtx-zig-parser",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 5
     },
     {
-      "title": "Why I prefer rST [reStructuredText] to Markdown",
+      "title": "Why I prefer rST [reStructuredText] to Markdown (2024)",
       "href": "https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              27 comments",
       "index": 6
     },
     {
       "title": "Introducing the illumos Cafe: Another Cozy Corner for OS Diversity",
       "href": "https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 7
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
+      "title": "Atmos",
+      "href": "https://github.com/atmos-lang/atmos",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 10
+    },
+    {
       "title": "wrkflw: Validate and Run GitHub Actions locally",
       "href": "https://github.com/bahdotsh/wrkflw",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 10
-    },
-    {
-      "title": "Dynamo, DynamoDB, and Aurora DSQL",
-      "href": "https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 11
-    },
-    {
-      "title": "Atmos",
-      "href": "https://github.com/atmos-lang/atmos",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 12
-    },
-    {
-      "title": "SystemD Service Hardening",
-      "href": "https://roguesecurity.dev/blog/systemd-hardening",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 13
-    },
-    {
-      "title": "ZFS scrubs check (much) less than you probably think they do (2018)",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "Recto — a truly 2D language",
-      "href": "https://masatohagiwara.net/recto.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 15
     },
     {
       "title": "Basic dependency injection in OCaml with objects",
       "href": "https://gr-im.github.io/a/dependency-injection.html",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 16
+      "index": 12
     },
     {
-      "title": "NixOS & Flakes Book",
-      "href": "https://nixos-and-flakes.thiscute.world/introduction/",
+      "title": "Dynamo, DynamoDB, and Aurora DSQL",
+      "href": "https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Who does your assistant serve?",
-      "href": "https://xeiaso.net/blog/2025/who-assistant-serve/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 18
-    },
-    {
-      "title": "How Indirect Prompt Injections Exploit Context, Format, and Salience",
-      "href": "https://www.fogel.dev/prompt_injection_cfs_framework",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "We Needed Better Cloud Storage for Python so We Built Obstore",
-      "href": "https://developmentseed.org/blog/2025-08-01-obstore/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
+      "index": 13
     },
     {
       "title": "Introducing Action Native Push",
       "href": "https://dev.37signals.com/introducing-action-native-push/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "ZFS scrubs check (much) less than you probably think they do (2018)",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "SystemD Service Hardening",
+      "href": "https://roguesecurity.dev/blog/systemd-hardening",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 16
+    },
+    {
+      "title": "Trap: Autoregressive Transformers in APL",
+      "href": "https://github.com/BobMcDear/trap",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Recto — a truly 2D language",
+      "href": "https://masatohagiwara.net/recto.html",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 18
+    },
+    {
+      "title": "NixOS & Flakes Book",
+      "href": "https://nixos-and-flakes.thiscute.world/introduction/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Who does your assistant serve?",
+      "href": "https://xeiaso.net/blog/2025/who-assistant-serve/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 20
+    },
+    {
+      "title": "Making Impossible States Impossible: Type-Safe Domain Modeling with Functional Dependency Injection",
+      "href": "https://cekrem.github.io/posts/making-impossible-states-impossible-with-functional-dependency-injection/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
+    },
+    {
+      "title": "Treetable: a case-study in q",
+      "href": "https://archive.vector.org.uk/art10500340",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 22
+    },
+    {
+      "title": "How Indirect Prompt Injections Exploit Context, Format, and Salience",
+      "href": "https://www.fogel.dev/prompt_injection_cfs_framework",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Preventing NAPTR Spam",
       "href": "https://shkspr.mobi/blog/2025/08/preventing-naptr-spam/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "LLMs aren’t world models",
-      "href": "https://yosefk.com/blog/llms-arent-world-models.html",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 23
-    },
-    {
-      "title": "Treetable: a case-study in q",
-      "href": "https://archive.vector.org.uk/art10500340",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "A programmer's field guide to assertions",
-      "href": "https://typesanitizer.com/blog/assertions.html",
+      "title": "We Needed Better Cloud Storage for Python so We Built Obstore",
+      "href": "https://developmentseed.org/blog/2025-08-01-obstore/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
