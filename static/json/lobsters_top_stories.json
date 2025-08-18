@@ -1,11 +1,11 @@
 {
-  "date": "Monday, August 18, 2025 at 10:20 AM GMT-5",
+  "date": "Monday, August 18, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
       "href": "https://vim.gabornyeki.com/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 1
     },
     {
@@ -19,35 +19,35 @@
       "title": "I Tried Every Todo App and Ended Up With a .txt File",
       "href": "https://www.al3rez.com/todo-txt-journey",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              30 comments",
       "index": 3
+    },
+    {
+      "title": "All ATC message routing in Germany was done through Emacs (2021)",
+      "href": "https://www.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 4
     },
     {
       "title": "Why I prefer rST [reStructuredText] to Markdown",
       "href": "https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/",
       "points": "",
-      "comments": "\n              16 comments",
-      "index": 4
+      "comments": "\n              18 comments",
+      "index": 5
     },
     {
       "title": "Introducing the illumos Cafe: Another Cozy Corner for OS Diversity",
       "href": "https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 5
-    },
-    {
-      "title": "All ATC message routing in Germany was done through Emacs (2021)",
-      "href": "https://www.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 6
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/monzbv/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              9 comments",
       "index": 7
     },
     {
@@ -58,122 +58,122 @@
       "index": 8
     },
     {
-      "title": "Who does your assistant serve?",
-      "href": "https://xeiaso.net/blog/2025/who-assistant-serve/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 9
-    },
-    {
-      "title": "Recto — a truly 2D language",
-      "href": "https://masatohagiwara.net/recto.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 10
-    },
-    {
-      "title": "SystemD Service Hardening",
-      "href": "https://roguesecurity.dev/blog/systemd-hardening",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 11
-    },
-    {
-      "title": "LLMs aren’t world models",
-      "href": "https://yosefk.com/blog/llms-arent-world-models.html",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 12
-    },
-    {
-      "title": "A programmer's field guide to assertions",
-      "href": "https://typesanitizer.com/blog/assertions.html",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 13
-    },
-    {
-      "title": "AsciiDots: an esolang based on ascii art",
-      "href": "https://ajanse.me/asciidots/",
+      "title": "Atmos",
+      "href": "https://github.com/atmos-lang/atmos",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 14
+      "index": 9
     },
     {
       "title": "GPT-5 goes hard on real-world programming",
       "href": "https://www.omerba.dev/blog/gpt-5-evtx-zig-parser",
       "points": "",
       "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "Who does your assistant serve?",
+      "href": "https://xeiaso.net/blog/2025/who-assistant-serve/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 11
+    },
+    {
+      "title": "AsciiDots: an esolang based on ascii art",
+      "href": "https://ajanse.me/asciidots/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 12
+    },
+    {
+      "title": "Recto — a truly 2D language",
+      "href": "https://masatohagiwara.net/recto.html",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 13
+    },
+    {
+      "title": "Dynamo, DynamoDB, and Aurora DSQL",
+      "href": "https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "SystemD Service Hardening",
+      "href": "https://roguesecurity.dev/blog/systemd-hardening",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 15
+    },
+    {
+      "title": "LLMs aren’t world models",
+      "href": "https://yosefk.com/blog/llms-arent-world-models.html",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 16
+    },
+    {
+      "title": "A programmer's field guide to assertions",
+      "href": "https://typesanitizer.com/blog/assertions.html",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 17
     },
     {
       "title": "We Needed Better Cloud Storage for Python so We Built Obstore",
       "href": "https://developmentseed.org/blog/2025-08-01-obstore/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 18
     },
     {
-      "title": "Atmos",
-      "href": "https://github.com/atmos-lang/atmos",
+      "title": "Preventing NAPTR Spam",
+      "href": "https://shkspr.mobi/blog/2025/08/preventing-naptr-spam/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 17
+      "comments": "\n              1 comment",
+      "index": 19
     },
     {
       "title": "Customizing Lisp REPLs",
       "href": "https://aartaka.me/customize-repl.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 20
+    },
+    {
+      "title": "Basic dependency injection in OCaml with objects",
+      "href": "https://gr-im.github.io/a/dependency-injection.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
     },
     {
       "title": "NixOS & Flakes Book",
       "href": "https://nixos-and-flakes.thiscute.world/introduction/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 22
     },
     {
       "title": "ZFS scrubs check (much) less than you probably think they do (2018)",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 23
     },
     {
       "title": "BusyBee: Lightweight and observable background processing for .NET applications",
       "href": "https://github.com/mikasjp/BusyBee",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Basic dependency injection in OCaml with objects",
-      "href": "https://gr-im.github.io/a/dependency-injection.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Preventing NAPTR Spam",
-      "href": "https://shkspr.mobi/blog/2025/08/preventing-naptr-spam/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Lobsters Blog Carnival",
       "href": "/s/gwh1ys/lobsters_blog_carnival",
       "points": "",
       "comments": "\n              31 comments",
-      "index": 24
-    },
-    {
-      "title": "Beyond Booleans: Propositions in Lean",
-      "href": "https://overreacted.io/beyond-booleans/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
