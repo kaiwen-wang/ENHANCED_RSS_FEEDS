@@ -1,32 +1,32 @@
 {
-  "date": "Monday, August 18, 2025 at 5:25 AM GMT-5",
+  "date": "Monday, August 18, 2025 at 6:20 AM GMT-5",
   "articles": [
     {
       "title": "“Email is Easy” email address quiz",
       "href": "https://e-mail.wtf",
       "points": "",
-      "comments": "\n              60 comments",
+      "comments": "\n              61 comments",
       "index": 1
     },
     {
       "title": "I Tried Every Todo App and Ended Up With a .txt File",
       "href": "https://www.al3rez.com/todo-txt-journey",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 2
     },
     {
       "title": "Why I prefer rST [reStructuredText] to Markdown",
       "href": "https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              8 comments",
       "index": 3
     },
     {
       "title": "Introducing the illumos Cafe: Another Cozy Corner for OS Diversity",
       "href": "https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 4
     },
     {
@@ -54,28 +54,28 @@
       "title": "wrkflw: Validate and Run GitHub Actions locally",
       "href": "https://github.com/bahdotsh/wrkflw",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 8
+    },
+    {
+      "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
+      "href": "https://vim.gabornyeki.com/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "SystemD Service Hardening",
+      "href": "https://roguesecurity.dev/blog/systemd-hardening",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
     },
     {
       "title": "Recto — a truly 2D language",
       "href": "https://masatohagiwara.net/recto.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
-    },
-    {
-      "title": "Lobsters Blog Carnival",
-      "href": "/s/gwh1ys/lobsters_blog_carnival",
-      "points": "",
-      "comments": "\n              28 comments",
-      "index": 10
-    },
-    {
-      "title": "Beyond Booleans: Propositions in Lean",
-      "href": "https://overreacted.io/beyond-booleans/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 11
     },
     {
@@ -86,94 +86,94 @@
       "index": 12
     },
     {
-      "title": "SystemD Service Hardening",
-      "href": "https://roguesecurity.dev/blog/systemd-hardening",
+      "title": "Lobsters Blog Carnival",
+      "href": "/s/gwh1ys/lobsters_blog_carnival",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              29 comments",
       "index": 13
     },
     {
-      "title": "BusyBee: Lightweight and observable background processing for .NET applications",
-      "href": "https://github.com/mikasjp/BusyBee",
+      "title": "Beyond Booleans: Propositions in Lean",
+      "href": "https://overreacted.io/beyond-booleans/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 14
-    },
-    {
-      "title": "The Enterprise Experience",
-      "href": "https://churchofturing.github.io/the-enterprise-experience.html",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 15
-    },
-    {
-      "title": "We Needed Better Cloud Storage for Python so We Built Obstore",
-      "href": "https://developmentseed.org/blog/2025-08-01-obstore/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
     },
     {
       "title": "NixOS & Flakes Book",
       "href": "https://nixos-and-flakes.thiscute.world/introduction/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 15
+    },
+    {
+      "title": "BusyBee: Lightweight and observable background processing for .NET applications",
+      "href": "https://github.com/mikasjp/BusyBee",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
     },
     {
       "title": "A Trick To Use mkMerge at The Top Level of a NixOS module",
       "href": "https://gist.github.com/udf/4d9301bdc02ab38439fd64fbda06ea43",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/monzbv/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 18
     },
     {
-      "title": "Gaussian Processes for Machine Learning",
-      "href": "https://gaussianprocess.org/gpml/chapters/RW.pdf",
+      "title": "The Enterprise Experience",
+      "href": "https://churchofturing.github.io/the-enterprise-experience.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              8 comments",
       "index": 19
     },
     {
-      "title": "A brief consideration of input shapes (fuzzing)",
-      "href": "https://addisoncrump.info/research/consideration-of-input-shapes/",
+      "title": "We Needed Better Cloud Storage for Python so We Built Obstore",
+      "href": "https://developmentseed.org/blog/2025-08-01-obstore/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 20
-    },
-    {
-      "title": "libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden",
-      "href": "https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports",
-      "points": "",
-      "comments": "\n              22 comments",
-      "index": 21
     },
     {
       "title": "The System Inside the System",
       "href": "https://worksonmymachine.ai/p/the-system-inside-the-system",
       "points": "",
       "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "A brief consideration of input shapes (fuzzing)",
+      "href": "https://addisoncrump.info/research/consideration-of-input-shapes/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 22
     },
     {
-      "title": "Careful Communication",
-      "href": "https://blog.lyall.co/careful-communication/",
+      "title": "Gaussian Processes for Machine Learning",
+      "href": "https://gaussianprocess.org/gpml/chapters/RW.pdf",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 23
+    },
+    {
+      "title": "libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden",
+      "href": "https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports",
+      "points": "",
+      "comments": "\n              22 comments",
+      "index": 24
     },
     {
       "title": "Various desktop Linux tips for newbies",
       "href": "https://akselmo.dev/posts/how-to-linux-2025/",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 24
-    },
-    {
-      "title": "A short statistical reasoning test",
-      "href": "https://emiruz.com/post/2025-08-17-statistical-reasoning/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
