@@ -1,11 +1,11 @@
 {
-  "date": "Monday, August 18, 2025 at 1:30 PM GMT-5",
+  "date": "Monday, August 18, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
       "href": "https://vim.gabornyeki.com/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "I Tried Every Todo App and Ended Up With a .txt File",
       "href": "https://www.al3rez.com/todo-txt-journey",
       "points": "",
-      "comments": "\n              34 comments",
+      "comments": "\n              37 comments",
       "index": 3
     },
     {
@@ -40,7 +40,7 @@
       "title": "Introducing the illumos Cafe: Another Cozy Corner for OS Diversity",
       "href": "https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 6
     },
     {
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
+      "title": "SystemD Service Hardening",
+      "href": "https://roguesecurity.dev/blog/systemd-hardening",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 12
+    },
+    {
       "title": "Dynamo, DynamoDB, and Aurora DSQL",
       "href": "https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "SystemD Service Hardening",
-      "href": "https://roguesecurity.dev/blog/systemd-hardening",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 13
     },
     {
@@ -107,24 +107,24 @@
       "index": 15
     },
     {
+      "title": "ZFS scrubs check (much) less than you probably think they do (2018)",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
       "title": "Who does your assistant serve?",
       "href": "https://xeiaso.net/blog/2025/who-assistant-serve/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "NixOS & Flakes Book",
       "href": "https://nixos-and-flakes.thiscute.world/introduction/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Preventing NAPTR Spam",
-      "href": "https://shkspr.mobi/blog/2025/08/preventing-naptr-spam/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 18
     },
     {
@@ -135,43 +135,43 @@
       "index": 19
     },
     {
+      "title": "Introducing Action Native Push",
+      "href": "https://dev.37signals.com/introducing-action-native-push/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Preventing NAPTR Spam",
+      "href": "https://shkspr.mobi/blog/2025/08/preventing-naptr-spam/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
       "title": "LLMs aren’t world models",
       "href": "https://yosefk.com/blog/llms-arent-world-models.html",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 20
-    },
-    {
-      "title": "A programmer's field guide to assertions",
-      "href": "https://typesanitizer.com/blog/assertions.html",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 21
-    },
-    {
-      "title": "ZFS scrubs check (much) less than you probably think they do (2018)",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 22
-    },
-    {
-      "title": "Customizing Lisp REPLs",
-      "href": "https://aartaka.me/customize-repl.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
     },
     {
       "title": "Treetable: a case-stud in q",
       "href": "https://archive.vector.org.uk/art10500340",
       "points": "",
       "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "A programmer's field guide to assertions",
+      "href": "https://typesanitizer.com/blog/assertions.html",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 24
     },
     {
-      "title": "BusyBee: Lightweight and observable background processing for .NET applications",
-      "href": "https://github.com/mikasjp/BusyBee",
+      "title": "Customizing Lisp REPLs",
+      "href": "https://aartaka.me/customize-repl.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
