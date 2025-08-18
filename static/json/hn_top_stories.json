@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, August 17, 2025 at 8:50 PM GMT-5",
+  "date": "Sunday, August 17, 2025 at 10:40 PM GMT-5",
   "articles": [
     {
       "title": "Clojure Async Flow Guide",
       "href": "https://clojure.github.io/core.async/flow-guide.html",
-      "points": "10 points",
-      "comments": "4 comments",
+      "points": "48 points",
+      "comments": "22 comments",
       "index": 1
     },
     {
       "title": "Claudia – Desktop companion for Claude code",
       "href": "https://claudiacode.com/",
-      "points": "306 points",
-      "comments": "155 comments",
+      "points": "338 points",
+      "comments": "170 comments",
       "index": 2
     },
     {
-      "title": "Llama-Scan: Convert PDFs to Text W Local LLMs",
-      "href": "https://github.com/ngafar/llama-scan",
-      "points": "58 points",
-      "comments": "36 comments",
+      "title": "NUMA Is the New Network: Reshaping Per-Socket Microservice Placement",
+      "href": "https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement",
+      "points": "12 points",
+      "comments": "5 comments",
       "index": 3
     },
     {
       "title": "The Enterprise Experience",
       "href": "https://churchofturing.github.io/the-enterprise-experience.html",
-      "points": "233 points",
-      "comments": "63 comments",
+      "points": "265 points",
+      "comments": "75 comments",
       "index": 4
     },
     {
-      "title": "LL3M: Large Language 3D Modelers",
-      "href": "https://threedle.github.io/ll3m/",
-      "points": "367 points",
-      "comments": "157 comments",
+      "title": "Modifying other people's software",
+      "href": "https://natkr.com/2025-08-14-modifying-other-peoples-software/",
+      "points": "29 points",
+      "comments": "6 comments",
       "index": 5
+    },
+    {
+      "title": "Google admits anti-competitive conduct involving Google Search in Australia",
+      "href": "https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia",
+      "points": "21 points",
+      "comments": "4 comments",
+      "index": 6
     },
     {
       "title": "Show HN: Doxx – Terminal .docx viewer inspired by Glow",
       "href": "https://github.com/bgreenwell/doxx",
-      "points": "73 points",
-      "comments": "16 comments",
-      "index": 6
-    },
-    {
-      "title": "AI vs. Professional Authors Results",
-      "href": "http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html",
-      "points": "36 points",
-      "comments": "15 comments",
+      "points": "103 points",
+      "comments": "24 comments",
       "index": 7
     },
     {
-      "title": "Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea",
-      "href": "item?id=44932651",
-      "points": "188 points",
-      "comments": "53 comments",
+      "title": "Mangle – a language for deductive database programming",
+      "href": "https://github.com/google/mangle",
+      "points": "11 points",
+      "comments": "discuss",
       "index": 8
     },
     {
       "title": "Derivatives, Gradients, Jacobians and Hessians",
       "href": "https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/",
-      "points": "187 points",
-      "comments": "46 comments",
+      "points": "203 points",
+      "comments": "48 comments",
       "index": 9
+    },
+    {
+      "title": "Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea",
+      "href": "item?id=44932651",
+      "points": "215 points",
+      "comments": "63 comments",
+      "index": 10
+    },
+    {
+      "title": "Llama-Scan: Convert PDFs to Text W Local LLMs",
+      "href": "https://github.com/ngafar/llama-scan",
+      "points": "73 points",
+      "comments": "48 comments",
+      "index": 11
+    },
+    {
+      "title": "AI vs. Professional Authors Results",
+      "href": "http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html",
+      "points": "66 points",
+      "comments": "40 comments",
+      "index": 12
     },
     {
       "title": "ArchiveTeam has finished archiving all goo.gl short links",
       "href": "https://tracker.archiveteam.org/goo-gl/",
-      "points": "289 points",
-      "comments": "59 comments",
-      "index": 10
+      "points": "307 points",
+      "comments": "66 comments",
+      "index": 13
     },
     {
       "title": "Show HN: NextDNS Adds \"Bypass Age Verification\"",
       "href": "item?id=44931824",
-      "points": "240 points",
-      "comments": "66 comments",
-      "index": 11
-    },
-    {
-      "title": "Modifying other people's software",
-      "href": "https://natkr.com/2025-08-14-modifying-other-peoples-software/",
-      "points": "11 points",
-      "comments": "1 comment",
-      "index": 12
+      "points": "275 points",
+      "comments": "77 comments",
+      "index": 14
     },
     {
       "title": "Node.js is able to execute TypeScript files without additional configuration",
       "href": "https://nodejs.org/en/blog/release/v22.18.0",
-      "points": "334 points",
-      "comments": "197 comments",
-      "index": 13
-    },
-    {
-      "title": "BBC Micro, ancestor to ARM",
-      "href": "https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/",
-      "points": "101 points",
-      "comments": "85 comments",
-      "index": 14
-    },
-    {
-      "title": "Here be dragons: Preventing static damage, latchup, and metastability in the 386",
-      "href": "http://www.righto.com/2025/08/static-latchup-metastability-386.html",
-      "points": "62 points",
-      "comments": "34 comments",
+      "points": "359 points",
+      "comments": "206 comments",
       "index": 15
     },
     {
-      "title": "IQ Tests Results for AI",
-      "href": "https://www.trackingai.org/home",
-      "points": "175 points",
-      "comments": "279 comments",
+      "title": "The Microscopic Forces That Break Hearts",
+      "href": "https://thewaitlist.substack.com/p/the-microscopic-forces-that-break",
+      "points": "9 points",
+      "comments": "3 comments",
       "index": 16
     },
     {
       "title": "I Prefer RST to Markdown (2024)",
       "href": "https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/",
-      "points": "26 points",
-      "comments": "3 comments",
+      "points": "41 points",
+      "comments": "20 comments",
       "index": 17
+    },
+    {
+      "title": "Fun with Finite State Transducers",
+      "href": "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers",
+      "points": "13 points",
+      "comments": "discuss",
+      "index": 18
+    },
+    {
+      "title": "BBC Micro, ancestor to ARM",
+      "href": "https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/",
+      "points": "103 points",
+      "comments": "87 comments",
+      "index": 19
     },
     {
       "title": "MS-DOS development resources",
       "href": "https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md",
-      "points": "50 points",
-      "comments": "7 comments",
-      "index": 18
-    },
-    {
-      "title": "HN Search isn't ingesting new data since Friday",
-      "href": "https://github.com/algolia/hn-search/issues/248",
-      "points": "164 points",
-      "comments": "25 comments",
-      "index": 19
-    },
-    {
-      "title": "Primitive Streaming Gods",
-      "href": "https://tedium.co/2018/01/30/legal-music-streaming-history/",
-      "points": "4 points",
-      "comments": "discuss",
+      "points": "62 points",
+      "comments": "9 comments",
       "index": 20
     },
     {
-      "title": "Sunny days are warm: why LinkedIn rewards mediocrity",
-      "href": "https://www.elliotcsmith.com/linkedin-toxic-mediocrity/",
-      "points": "433 points",
-      "comments": "363 comments",
+      "title": "Here be dragons: Preventing static damage, latchup, and metastability in the 386",
+      "href": "http://www.righto.com/2025/08/static-latchup-metastability-386.html",
+      "points": "68 points",
+      "comments": "37 comments",
       "index": 21
-    },
-    {
-      "title": "A Visual Exploration of Gaussian Processes (2019)",
-      "href": "https://distill.pub/2019/visual-exploration-gaussian-processes/",
-      "points": "32 points",
-      "comments": "discuss",
-      "index": 22
-    },
-    {
-      "title": "Does OLAP Need an ORM",
-      "href": "https://clickhouse.com/blog/moosestack-does-olap-need-an-orm",
-      "points": "61 points",
-      "comments": "39 comments",
-      "index": 23
-    },
-    {
-      "title": "Why Nim?",
-      "href": "https://undefined.pyfy.ch/why-nim",
-      "points": "111 points",
-      "comments": "121 comments",
-      "index": 24
     },
     {
       "title": "Show HN: Fallinorg - Offline Mac app that organizes files by meaning",
       "href": "https://fallinorg.com/#",
-      "points": "58 points",
-      "comments": "32 comments",
+      "points": "66 points",
+      "comments": "34 comments",
+      "index": 22
+    },
+    {
+      "title": "Why Nim?",
+      "href": "https://undefined.pyfy.ch/why-nim",
+      "points": "123 points",
+      "comments": "129 comments",
+      "index": 23
+    },
+    {
+      "title": "A Visual Exploration of Gaussian Processes (2019)",
+      "href": "https://distill.pub/2019/visual-exploration-gaussian-processes/",
+      "points": "37 points",
+      "comments": "discuss",
+      "index": 24
+    },
+    {
+      "title": "LL3M: Large Language 3D Modelers",
+      "href": "https://threedle.github.io/ll3m/",
+      "points": "381 points",
+      "comments": "163 comments",
       "index": 25
     },
     {
       "title": "Carved stone mask  – Pre-pottery, Neolithic B period",
       "href": "https://www.imj.org.il/en/collections/334459-0",
-      "points": "39 points",
-      "comments": "20 comments",
+      "points": "44 points",
+      "comments": "22 comments",
       "index": 26
     },
     {
       "title": "Faster Index I/O with NVMe SSDs",
       "href": "https://www.marginalia.nu/log/a_123_index_io/",
-      "points": "134 points",
+      "points": "139 points",
       "comments": "21 comments",
       "index": 27
     },
     {
-      "title": "Teaching GPT-5 to Use a Computer",
-      "href": "https://prava.co/archon/",
-      "points": "37 points",
-      "comments": "8 comments",
+      "title": "HN Search isn't ingesting new data since Friday",
+      "href": "https://github.com/algolia/hn-search/issues/248",
+      "points": "176 points",
+      "comments": "30 comments",
       "index": 28
     },
     {
-      "title": "Eliminating JavaScript cold starts on AWS Lambda",
-      "href": "https://goose.icu/lambda/",
-      "points": "183 points",
-      "comments": "68 comments",
+      "title": "Primitive Streaming Gods",
+      "href": "https://tedium.co/2018/01/30/legal-music-streaming-history/",
+      "points": "10 points",
+      "comments": "1 comment",
       "index": 29
     },
     {
-      "title": "The decline of high-tech manufacturing in the United States",
-      "href": "https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing",
-      "points": "77 points",
-      "comments": "93 comments",
+      "title": "Teaching GPT-5 to Use a Computer",
+      "href": "https://prava.co/archon/",
+      "points": "48 points",
+      "comments": "10 comments",
       "index": 30
     }
   ]
