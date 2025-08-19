@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, August 19, 2025 at 1:30 AM GMT-5",
+  "date": "Tuesday, August 19, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
       "href": "https://vim.gabornyeki.com/",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              19 comments",
       "index": 1
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "I Tried Every Todo App and Ended Up With a .txt File",
-      "href": "https://www.al3rez.com/todo-txt-journey",
-      "points": "",
-      "comments": "\n              48 comments",
-      "index": 4
-    },
-    {
       "title": "AI is a mass-delusion event",
       "href": "https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 4
+    },
+    {
+      "title": "I Tried Every Todo App and Ended Up With a .txt File",
+      "href": "https://www.al3rez.com/todo-txt-journey",
+      "points": "",
+      "comments": "\n              48 comments",
       "index": 5
     },
     {
@@ -58,10 +58,10 @@
       "index": 8
     },
     {
-      "title": "The peculiar case of Japanese web design",
-      "href": "https://sabrinas.space",
+      "title": "Why developers question everything",
+      "href": "https://timharek.no/blog/why-developers-question-everything/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 9
     },
     {
@@ -72,24 +72,24 @@
       "index": 10
     },
     {
+      "title": "The peculiar case of Japanese web design",
+      "href": "https://sabrinas.space",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 11
+    },
+    {
       "title": "GPT-5 goes hard on real-world programming",
       "href": "https://www.omerba.dev/blog/gpt-5-evtx-zig-parser",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Introducing the illumos Cafe: Another Cozy Corner for OS Diversity",
       "href": "https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 12
-    },
-    {
-      "title": "Why developers question everything",
-      "href": "https://timharek.no/blog/why-developers-question-everything/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
+      "title": "In-memory Filesystems in Rust",
+      "href": "https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
       "title": "Basic dependency injection in OCaml with objects",
       "href": "https://gr-im.github.io/a/dependency-injection.html",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "AsciiDots: an esolang based on ascii art",
       "href": "https://ajanse.me/asciidots/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Dynamo, DynamoDB, and Aurora DSQL",
       "href": "https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "The Multimedia Renaissance",
       "href": "https://giannirosato.com/blog/post/the-multimedia-renaissance/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
-      "title": "In-memory Filesystems in Rust",
-      "href": "https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/",
+      "title": "Left to Right Programming",
+      "href": "https://graic.net/p/left-to-right-programming",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 19
+      "comments": "\n              1 comment",
+      "index": 20
     },
     {
       "title": "System Guide: Five sample PC builds, from $500 to $5,000",
       "href": "https://arstechnica.com/gadgets/2025/08/ars-technica-system-guide-back-to-pc-building-for-back-to-school/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Introducing Action Native Push",
       "href": "https://dev.37signals.com/introducing-action-native-push/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/monzbv/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Persistent Risk: XZ Utils Backdoor Still Lurking in Docker Images",
       "href": "https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Trap: Autoregressive Transformers in APL",
       "href": "https://github.com/BobMcDear/trap",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Atmos",
-      "href": "https://github.com/atmos-lang/atmos",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 25
     }
   ]
