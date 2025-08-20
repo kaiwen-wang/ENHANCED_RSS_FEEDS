@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, August 20, 2025 at 10:20 AM GMT-5",
+  "date": "Wednesday, August 20, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "Show HN: I was curious about spherical helix, ended up making this visualization",
       "href": "https://visualrambling.space/moving-objects-in-3d/",
-      "points": "134 points",
-      "comments": "23 comments",
+      "points": "222 points",
+      "comments": "47 comments",
       "index": 1
-    },
-    {
-      "title": "Tidewave Web: in-browser coding agent for Rails and Phoenix",
-      "href": "https://tidewave.ai/blog/tidewave-web-phoenix-rails",
-      "points": "190 points",
-      "comments": "32 comments",
-      "index": 2
-    },
-    {
-      "title": "Improvements to OCaml code editing: the basics of a refactor engine",
-      "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
-      "points": "30 points",
-      "comments": "5 comments",
-      "index": 3
     },
     {
       "title": "Gemma 3 270M re-implemented in pure PyTorch for local tinkering",
       "href": "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3",
-      "points": "23 points",
-      "comments": "discuss",
+      "points": "86 points",
+      "comments": "11 comments",
+      "index": 2
+    },
+    {
+      "title": "Closer to the Metal: Leaving Playwright for CDP",
+      "href": "https://browser-use.com/posts/playwright-to-cdp",
+      "points": "26 points",
+      "comments": "9 comments",
+      "index": 3
+    },
+    {
+      "title": "Improvements to OCaml code editing: the basics of a refactor engine",
+      "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
+      "points": "43 points",
+      "comments": "11 comments",
       "index": 4
+    },
+    {
+      "title": "Tidewave Web: in-browser coding agent for Rails and Phoenix",
+      "href": "https://tidewave.ai/blog/tidewave-web-phoenix-rails",
+      "points": "210 points",
+      "comments": "38 comments",
+      "index": 5
+    },
+    {
+      "title": "OPA maintainers and Styra employees hired by Apple",
+      "href": "https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371",
+      "points": "10 points",
+      "comments": "2 comments",
+      "index": 6
     },
     {
       "title": "AGENTS.md – Open format for guiding coding agents",
       "href": "https://agents.md/",
-      "points": "674 points",
-      "comments": "322 comments",
-      "index": 5
+      "points": "708 points",
+      "comments": "335 comments",
+      "index": 7
+    },
+    {
+      "title": "Show HN: Anchor Relay – A faster, easier way to get Let's Encrypt certificates",
+      "href": "https://anchor.dev/relay",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 8
     },
     {
       "title": "How to Think About GPUs",
       "href": "https://jax-ml.github.io/scaling-book/gpus/",
-      "points": "247 points",
-      "comments": "68 comments",
-      "index": 6
+      "points": "272 points",
+      "comments": "80 comments",
+      "index": 9
     },
     {
       "title": "MapLibre Tile: A next generation geospatial format optimized for rendering",
       "href": "https://arxiv.org/abs/2508.10791",
-      "points": "84 points",
-      "comments": "8 comments",
-      "index": 7
+      "points": "97 points",
+      "comments": "10 comments",
+      "index": 10
+    },
+    {
+      "title": "Sequoia Backs Zed's Vision for Collaborative Coding",
+      "href": "https://zed.dev/blog/sequoia-backs-zed",
+      "points": "54 points",
+      "comments": "22 comments",
+      "index": 11
+    },
+    {
+      "title": "Show HN: Strudel Flow, a pattern sequencer built with Strudel and React Flow",
+      "href": "https://github.com/xyflow/strudel-flow",
+      "points": "13 points",
+      "comments": "discuss",
+      "index": 12
     },
     {
       "title": "The Block Stacking Problem",
       "href": "https://sites.pitt.edu/~jdnorton/Goodies/block_stacking/block_stacking.html",
-      "points": "69 points",
-      "comments": "10 comments",
-      "index": 8
-    },
-    {
-      "title": "How to Draw a Space Invader",
-      "href": "https://muffinman.io/blog/invaders/",
-      "points": "434 points",
-      "comments": "45 comments",
-      "index": 9
+      "points": "83 points",
+      "comments": "19 comments",
+      "index": 13
     },
     {
       "title": "Show HN: Typed-arrow – compile‑time Arrow schemas for Rust",
       "href": "https://github.com/tonbo-io/typed-arrow",
-      "points": "6 points",
+      "points": "19 points",
       "comments": "1 comment",
-      "index": 10
+      "index": 14
+    },
+    {
+      "title": "How to Draw a Space Invader",
+      "href": "https://muffinman.io/blog/invaders/",
+      "points": "451 points",
+      "comments": "47 comments",
+      "index": 15
     },
     {
       "title": "Ask HN: Why does the US Visa application website do a port-scan of my network?",
       "href": "item?id=44959073",
-      "points": "372 points",
-      "comments": "154 comments",
-      "index": 11
-    },
-    {
-      "title": "Modern CI is too complex and misdirected (2021)",
-      "href": "https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/",
-      "points": "142 points",
-      "comments": "117 comments",
-      "index": 12
-    },
-    {
-      "title": "Copilot broke audit logs, but Microsoft won't tell customers",
-      "href": "https://pistachioapp.com/blog/copilot-broke-your-audit-log",
-      "points": "663 points",
-      "comments": "251 comments",
-      "index": 13
-    },
-    {
-      "title": "Show HN: Project management system for Claude Code",
-      "href": "https://github.com/automazeio/ccpm",
-      "points": "95 points",
-      "comments": "63 comments",
-      "index": 14
+      "points": "412 points",
+      "comments": "177 comments",
+      "index": 16
     },
     {
       "title": "Mirrorshades: The Cyberpunk Anthology (1986)",
       "href": "https://www.rudyrucker.com/mirrorshades/HTML/",
-      "points": "63 points",
-      "comments": "28 comments",
-      "index": 15
+      "points": "75 points",
+      "comments": "38 comments",
+      "index": 17
+    },
+    {
+      "title": "Modern CI is too complex and misdirected (2021)",
+      "href": "https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/",
+      "points": "161 points",
+      "comments": "135 comments",
+      "index": 18
+    },
+    {
+      "title": "AWS in 2025: The Stuff You Think You Know That's Now Wrong",
+      "href": "https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/",
+      "points": "18 points",
+      "comments": "8 comments",
+      "index": 19
+    },
+    {
+      "title": "Copilot broke audit logs, but Microsoft won't tell customers",
+      "href": "https://pistachioapp.com/blog/copilot-broke-your-audit-log",
+      "points": "689 points",
+      "comments": "258 comments",
+      "index": 20
     },
     {
       "title": "How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos",
       "href": "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/",
-      "points": "644 points",
-      "comments": "215 comments",
-      "index": 16
+      "points": "649 points",
+      "comments": "217 comments",
+      "index": 21
     },
     {
       "title": "The End of Handwriting",
       "href": "https://www.wired.com/story/the-end-of-handwriting/",
-      "points": "95 points",
-      "comments": "212 comments",
-      "index": 17
+      "points": "104 points",
+      "comments": "231 comments",
+      "index": 22
+    },
+    {
+      "title": "Show HN: Project management system for Claude Code",
+      "href": "https://github.com/automazeio/ccpm",
+      "points": "112 points",
+      "comments": "72 comments",
+      "index": 23
     },
     {
       "title": "D2 (text to diagram tool) now supports ASCII renders",
       "href": "https://d2lang.com/blog/ascii/",
-      "points": "390 points",
-      "comments": "67 comments",
-      "index": 18
-    },
-    {
-      "title": "Tiny microbe challenges the definition of cellular life",
-      "href": "https://nautil.us/a-rogue-new-life-form-1232095/",
-      "points": "127 points",
-      "comments": "49 comments",
-      "index": 19
+      "points": "402 points",
+      "comments": "70 comments",
+      "index": 24
     },
     {
       "title": "Fast and observable background job processing for .NET",
       "href": "https://github.com/mikasjp/BusyBee",
-      "points": "45 points",
-      "comments": "16 comments",
-      "index": 20
+      "points": "48 points",
+      "comments": "18 comments",
+      "index": 25
     },
     {
-      "title": "Intel Foundry Demonstrates First Arm-Based Chip on 18A Node",
-      "href": "https://hothardware.com/news/intel-foundry-demos-deer-creek-falls-reference-soc",
-      "points": "97 points",
-      "comments": "71 comments",
-      "index": 21
-    },
-    {
-      "title": "Gaussian Processes for Machine Learning (2006) [pdf]",
-      "href": "https://gaussianprocess.org/gpml/chapters/RW.pdf",
-      "points": "56 points",
-      "comments": "12 comments",
-      "index": 22
+      "title": "Tiny microbe challenges the definition of cellular life",
+      "href": "https://nautil.us/a-rogue-new-life-form-1232095/",
+      "points": "132 points",
+      "comments": "64 comments",
+      "index": 26
     },
     {
       "title": "How I Made Ruby Faster Than Ruby",
       "href": "https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster",
-      "points": "72 points",
-      "comments": "17 comments",
-      "index": 23
-    },
-    {
-      "title": "Customizing Lisp REPLs",
-      "href": "https://aartaka.me/customize-repl.html",
-      "points": "44 points",
-      "comments": "14 comments",
-      "index": 24
+      "points": "79 points",
+      "comments": "20 comments",
+      "index": 27
     },
     {
       "title": "Emacs as your video-trimming tool",
       "href": "https://xenodium.com/emacs-as-your-video-trimming-tool",
-      "points": "267 points",
-      "comments": "136 comments",
-      "index": 25
+      "points": "277 points",
+      "comments": "142 comments",
+      "index": 28
     },
     {
       "title": "Rails Charts Using ECharts from Apache",
       "href": "https://github.com/railsjazz/rails_charts",
-      "points": "71 points",
+      "points": "76 points",
       "comments": "5 comments",
-      "index": 26
+      "index": 29
     },
     {
       "title": "The value of hitting the HN front page",
       "href": "https://www.mooreds.com/wordpress/archives/3530",
-      "points": "168 points",
-      "comments": "76 comments",
-      "index": 27
-    },
-    {
-      "title": "Candle Flame Oscillations as a Clock",
-      "href": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/",
-      "points": "315 points",
-      "comments": "73 comments",
-      "index": 28
-    },
-    {
-      "title": "Without the futex, it's futile",
-      "href": "https://h4x0r.org/futex/",
-      "points": "283 points",
-      "comments": "138 comments",
-      "index": 29
-    },
-    {
-      "title": "Databricks is raising a Series K Investment at >$100B valuation",
-      "href": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation",
-      "points": "95 points",
-      "comments": "122 comments",
+      "points": "175 points",
+      "comments": "83 comments",
       "index": 30
     }
   ]
