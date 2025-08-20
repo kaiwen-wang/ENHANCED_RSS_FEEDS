@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, August 20, 2025 at 8:30 AM GMT-5",
+  "date": "Wednesday, August 20, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Code Review Can Be Better",
       "href": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
       "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
       "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 2
     },
     {
@@ -26,28 +26,28 @@
       "title": "Zed for Windows: What's Taking So Long?",
       "href": "https://zed.dev/blog/windows-progress-report",
       "points": "",
-      "comments": "\n              30 comments",
+      "comments": "\n              41 comments",
       "index": 4
-    },
-    {
-      "title": "Emacs as your video-trimming tool",
-      "href": "https://xenodium.com/emacs-as-your-video-trimming-tool",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 5
     },
     {
       "title": "Tag-based logging",
       "href": "https://mmapped.blog/posts/44-tag-based-logging",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 5
+    },
+    {
+      "title": "Emacs as your video-trimming tool",
+      "href": "https://xenodium.com/emacs-as-your-video-trimming-tool",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 6
     },
     {
       "title": "Reserve First",
       "href": "https://matklad.github.io/2025/08/16/reserve-first.html",
       "points": "",
-      "comments": "\n              47 comments",
+      "comments": "\n              51 comments",
       "index": 7
     },
     {
@@ -61,119 +61,119 @@
       "title": "Without the futex, it's futile",
       "href": "https://h4x0r.org/futex/",
       "points": "",
-      "comments": "\n              37 comments",
+      "comments": "\n              40 comments",
       "index": 9
+    },
+    {
+      "title": "Why is my device a touchpad and a mouse and a keyboard?",
+      "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
     },
     {
       "title": "The Lawnmower IRC Server",
       "href": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Left to Right Programming",
       "href": "https://graic.net/p/left-to-right-programming",
       "points": "",
-      "comments": "\n              39 comments",
-      "index": 11
+      "comments": "\n              41 comments",
+      "index": 12
     },
     {
       "title": "Monoid-augmented FIFOs, deamortised",
       "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Monad annoyance",
       "href": "https://macwright.com/2025/08/19/monad-annoyance",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Language Models as Thespians",
       "href": "https://jstrieb.github.io/posts/llm-thespians/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 14
-    },
-    {
-      "title": "Why is my device a touchpad and a mouse and a keyboard?",
-      "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "SmallJS",
-      "href": "https://small-js.org/Home/Home.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "Change to Custom Directory Alias With Completions in Zsh (2021)",
-      "href": "https://hacdias.com/2021/05/30/cd-alias-completions-zsh/",
-      "points": "",
       "comments": "\n              7 comments",
-      "index": 17
-    },
-    {
-      "title": "Google is killing the open web",
-      "href": "https://wok.oblomov.eu/tecnologia/google-killing-open-web/",
-      "points": "",
-      "comments": "\n              49 comments",
-      "index": 18
-    },
-    {
-      "title": "Some Tricks for List Manipulation",
-      "href": "https://doisinkidney.com/posts/2019-05-08-list-manipulation-tricks.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Why is this hard?",
-      "href": "https://programmersstone.blog/posts/why-is-this-hard/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Why developers question everything",
-      "href": "https://timharek.no/blog/why-developers-question-everything/",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 21
+      "index": 15
     },
     {
       "title": "Building a Regex Engine",
       "href": "https://www.abstractsyntaxseed.com/blog/regex-engine/introduction",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 16
     },
     {
-      "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
-      "href": "https://vim.gabornyeki.com/",
+      "title": "SmallJS",
+      "href": "https://small-js.org/Home/Home.html",
       "points": "",
-      "comments": "\n              26 comments",
-      "index": 23
+      "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
+      "title": "Change to Custom Directory Alias With Completions in Zsh (2021)",
+      "href": "https://hacdias.com/2021/05/30/cd-alias-completions-zsh/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 18
+    },
+    {
+      "title": "Google is killing the open web",
+      "href": "https://wok.oblomov.eu/tecnologia/google-killing-open-web/",
+      "points": "",
+      "comments": "\n              52 comments",
+      "index": 19
+    },
+    {
+      "title": "Some Tricks for List Manipulation",
+      "href": "https://doisinkidney.com/posts/2019-05-08-list-manipulation-tricks.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Improvements to OCaml code editing: the basics of a refactor engine",
+      "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
     },
     {
       "title": "Drunken Bishop (2023)",
       "href": "https://re.factorcode.org/2023/08/drunken-bishop.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Why is this hard?",
+      "href": "https://programmersstone.blog/posts/why-is-this-hard/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Why developers question everything",
+      "href": "https://timharek.no/blog/why-developers-question-everything/",
+      "points": "",
+      "comments": "\n              20 comments",
       "index": 24
     },
     {
-      "title": "Privacy-Preserving Age Verification—and Its Limitations",
-      "href": "https://www.cs.columbia.edu/~smb/papers/age-verify.pdf",
+      "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
+      "href": "https://vim.gabornyeki.com/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              26 comments",
       "index": 25
     }
   ]
