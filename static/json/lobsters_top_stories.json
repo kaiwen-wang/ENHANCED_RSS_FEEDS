@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, August 20, 2025 at 7:40 AM GMT-5",
+  "date": "Wednesday, August 20, 2025 at 8:30 AM GMT-5",
   "articles": [
+    {
+      "title": "Code Review Can Be Better",
+      "href": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 1
+    },
     {
       "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
       "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 1
-    },
-    {
-      "title": "Code Review Can Be Better",
-      "href": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 2
     },
     {
@@ -26,42 +26,42 @@
       "title": "Zed for Windows: What's Taking So Long?",
       "href": "https://zed.dev/blog/windows-progress-report",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              30 comments",
       "index": 4
-    },
-    {
-      "title": "Reserve First",
-      "href": "https://matklad.github.io/2025/08/16/reserve-first.html",
-      "points": "",
-      "comments": "\n              45 comments",
-      "index": 5
     },
     {
       "title": "Emacs as your video-trimming tool",
       "href": "https://xenodium.com/emacs-as-your-video-trimming-tool",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 6
-    },
-    {
-      "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
-      "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 7
+      "comments": "\n              5 comments",
+      "index": 5
     },
     {
       "title": "Tag-based logging",
       "href": "https://mmapped.blog/posts/44-tag-based-logging",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
+      "title": "Reserve First",
+      "href": "https://matklad.github.io/2025/08/16/reserve-first.html",
+      "points": "",
+      "comments": "\n              47 comments",
+      "index": 7
+    },
+    {
+      "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
+      "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 8
     },
     {
       "title": "Without the futex, it's futile",
       "href": "https://h4x0r.org/futex/",
       "points": "",
-      "comments": "\n              33 comments",
+      "comments": "\n              37 comments",
       "index": 9
     },
     {
@@ -114,52 +114,52 @@
       "index": 16
     },
     {
-      "title": "Google is killing the open web",
-      "href": "https://wok.oblomov.eu/tecnologia/google-killing-open-web/",
-      "points": "",
-      "comments": "\n              49 comments",
-      "index": 17
-    },
-    {
       "title": "Change to Custom Directory Alias With Completions in Zsh (2021)",
       "href": "https://hacdias.com/2021/05/30/cd-alias-completions-zsh/",
       "points": "",
       "comments": "\n              7 comments",
+      "index": 17
+    },
+    {
+      "title": "Google is killing the open web",
+      "href": "https://wok.oblomov.eu/tecnologia/google-killing-open-web/",
+      "points": "",
+      "comments": "\n              49 comments",
       "index": 18
-    },
-    {
-      "title": "Building a Regex Engine",
-      "href": "https://www.abstractsyntaxseed.com/blog/regex-engine/introduction",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Why developers question everything",
-      "href": "https://timharek.no/blog/why-developers-question-everything/",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 20
-    },
-    {
-      "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
-      "href": "https://vim.gabornyeki.com/",
-      "points": "",
-      "comments": "\n              26 comments",
-      "index": 21
     },
     {
       "title": "Some Tricks for List Manipulation",
       "href": "https://doisinkidney.com/posts/2019-05-08-list-manipulation-tricks.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Why is this hard?",
+      "href": "https://programmersstone.blog/posts/why-is-this-hard/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Why developers question everything",
+      "href": "https://timharek.no/blog/why-developers-question-everything/",
+      "points": "",
+      "comments": "\n              20 comments",
+      "index": 21
+    },
+    {
+      "title": "Building a Regex Engine",
+      "href": "https://www.abstractsyntaxseed.com/blog/regex-engine/introduction",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 22
     },
     {
-      "title": "Privacy-Preserving Age Verification—and Its Limitations",
-      "href": "https://www.cs.columbia.edu/~smb/papers/age-verify.pdf",
+      "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
+      "href": "https://vim.gabornyeki.com/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              26 comments",
       "index": 23
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Making a floppy disk from scratch",
-      "href": "https://www.youtube.com/watch?v=TBiFGhnXsh8",
+      "title": "Privacy-Preserving Age Verification—and Its Limitations",
+      "href": "https://www.cs.columbia.edu/~smb/papers/age-verify.pdf",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
