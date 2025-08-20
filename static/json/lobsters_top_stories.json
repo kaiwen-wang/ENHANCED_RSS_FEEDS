@@ -1,39 +1,39 @@
 {
-  "date": "Wednesday, August 20, 2025 at 11:25 AM GMT-5",
+  "date": "Wednesday, August 20, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "Code Review Can Be Better",
       "href": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              25 comments",
       "index": 1
-    },
-    {
-      "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
-      "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 2
     },
     {
       "title": "Zed for Windows: What's Taking So Long?",
       "href": "https://zed.dev/blog/windows-progress-report",
       "points": "",
-      "comments": "\n              52 comments",
+      "comments": "\n              62 comments",
+      "index": 2
+    },
+    {
+      "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
+      "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 3
     },
     {
       "title": "The long season of langdev",
       "href": "https://blog.fogus.me/langdev/long-season.html",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 4
     },
     {
       "title": "Const Trait Counterexamples",
       "href": "https://dbeef.dev/const-trait-counterexamples/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 5
     },
     {
@@ -54,7 +54,7 @@
       "title": "Reserve First",
       "href": "https://matklad.github.io/2025/08/16/reserve-first.html",
       "points": "",
-      "comments": "\n              58 comments",
+      "comments": "\n              59 comments",
       "index": 8
     },
     {
@@ -72,94 +72,94 @@
       "index": 10
     },
     {
+      "title": "Container-aware GOMAXPROCS",
+      "href": "https://go.dev/blog/container-aware-gomaxprocs",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
       "title": "Monoid-augmented FIFOs, deamortised",
       "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Why is my device a touchpad and a mouse and a keyboard?",
       "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
+      "index": 13
     },
     {
-      "title": "Container-aware GOMAXPROCS",
-      "href": "https://go.dev/blog/container-aware-gomaxprocs",
+      "title": "Privacy-Preserving Age Verification—and Its Limitations",
+      "href": "https://www.cs.columbia.edu/~smb/papers/age-verify.pdf",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 13
+      "comments": "\n              3 comments",
+      "index": 14
     },
     {
       "title": "Without the futex, it's futile",
       "href": "https://h4x0r.org/futex/",
       "points": "",
       "comments": "\n              41 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "The Lawnmower IRC Server",
       "href": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 15
+      "comments": "\n              7 comments",
+      "index": 16
     },
     {
       "title": "Left to Right Programming",
       "href": "https://graic.net/p/left-to-right-programming",
       "points": "",
       "comments": "\n              44 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Monad annoyance",
       "href": "https://macwright.com/2025/08/19/monad-annoyance",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 17
+      "comments": "\n              5 comments",
+      "index": 18
     },
     {
       "title": "Building a Regex Engine",
       "href": "https://www.abstractsyntaxseed.com/blog/regex-engine/introduction",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Language Models as Thespians",
       "href": "https://jstrieb.github.io/posts/llm-thespians/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 19
+      "index": 20
     },
     {
-      "title": "Privacy-Preserving Age Verification—and Its Limitations",
-      "href": "https://www.cs.columbia.edu/~smb/papers/age-verify.pdf",
+      "title": "L2AW theorem",
+      "href": "https://law-theorem.com/",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "A proposal for inline LLM instructions in HTML based on llms.txt",
+      "href": "https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "SmallJS",
       "href": "https://small-js.org/Home/Home.html",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 21
-    },
-    {
-      "title": "Change to Custom Directory Alias With Completions in Zsh (2021)",
-      "href": "https://hacdias.com/2021/05/30/cd-alias-completions-zsh/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 22
-    },
-    {
-      "title": "Google is killing the open web",
-      "href": "https://wok.oblomov.eu/tecnologia/google-killing-open-web/",
-      "points": "",
-      "comments": "\n              52 comments",
+      "comments": "\n              2 comments",
       "index": 23
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Drunken Bishop (2023)",
-      "href": "https://re.factorcode.org/2023/08/drunken-bishop.html",
+      "title": "Change to Custom Directory Alias With Completions in Zsh (2021)",
+      "href": "https://hacdias.com/2021/05/30/cd-alias-completions-zsh/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              8 comments",
       "index": 25
     }
   ]
