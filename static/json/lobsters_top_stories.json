@@ -1,109 +1,109 @@
 {
-  "date": "Wednesday, August 20, 2025 at 4:20 PM GMT-5",
+  "date": "Wednesday, August 20, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "Code Review Can Be Better",
       "href": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
       "points": "",
-      "comments": "\n              33 comments",
+      "comments": "\n              34 comments",
       "index": 1
     },
     {
       "title": "Zig 0.15.1 Release Notes",
       "href": "https://ziglang.org/download/0.15.1/release-notes.html",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 2
     },
     {
       "title": "Zed for Windows: What's Taking So Long?",
       "href": "https://zed.dev/blog/windows-progress-report",
       "points": "",
-      "comments": "\n              73 comments",
+      "comments": "\n              74 comments",
       "index": 3
+    },
+    {
+      "title": "Why are anime catgirls blocking my access to the Linux kernel?",
+      "href": "https://lock.cmpxchg8b.com/anubis.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 4
     },
     {
       "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
       "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Container-aware GOMAXPROCS",
       "href": "https://go.dev/blog/container-aware-gomaxprocs",
       "points": "",
       "comments": "\n              no comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Const Trait Counterexamples",
       "href": "https://dbeef.dev/const-trait-counterexamples/",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 6
+      "comments": "\n              8 comments",
+      "index": 7
     },
     {
       "title": "The long season of langdev",
       "href": "https://blog.fogus.me/langdev/long-season.html",
       "points": "",
-      "comments": "\n              15 comments",
-      "index": 7
+      "comments": "\n              17 comments",
+      "index": 8
     },
     {
       "title": "Default musl allocator considered harmful (to performance)",
       "href": "https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 8
+      "index": 9
+    },
+    {
+      "title": "Let `jj absorb` help you keep a clean commit history",
+      "href": "https://www.pauladamsmith.com/blog/2025/08/jj-absorb.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
     },
     {
       "title": "Tag-based logging",
       "href": "https://mmapped.blog/posts/44-tag-based-logging",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 9
+      "index": 11
     },
     {
       "title": "Improvements to OCaml code editing: the basics of a refactor engine",
       "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 10
-    },
-    {
-      "title": "Why are anime catgirls blocking my access to the Linux kernel?",
-      "href": "https://lock.cmpxchg8b.com/anubis.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Emacs as your video-trimming tool",
       "href": "https://xenodium.com/emacs-as-your-video-trimming-tool",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Monoid-augmented FIFOs, deamortised",
       "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Why is my device a touchpad and a mouse and a keyboard?",
       "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
-      "title": "Let `jj absorb` help you keep a clean commit history",
-      "href": "https://www.pauladamsmith.com/blog/2025/08/jj-absorb.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 15
     },
     {
@@ -128,43 +128,43 @@
       "index": 18
     },
     {
+      "title": "NASA’s 10 Rules for Safety-Critical Code",
+      "href": "https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
       "title": "Without the futex, it's futile",
       "href": "https://h4x0r.org/futex/",
       "points": "",
-      "comments": "\n              42 comments",
-      "index": 19
+      "comments": "\n              44 comments",
+      "index": 20
     },
     {
       "title": "Building a Regex Engine",
       "href": "https://www.abstractsyntaxseed.com/blog/regex-engine/introduction",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Privacy-Preserving Age Verification—and Its Limitations",
       "href": "https://www.cs.columbia.edu/~smb/papers/age-verify.pdf",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "The Lawnmower IRC Server",
       "href": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "L2AW theorem",
       "href": "https://law-theorem.com/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "NASA’s 10 Rules for Safety-Critical Code",
-      "href": "https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
