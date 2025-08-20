@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, August 20, 2025 at 5:15 PM GMT-5",
+  "date": "Wednesday, August 20, 2025 at 6:15 PM GMT-5",
   "articles": [
     {
       "title": "Code Review Can Be Better",
@@ -16,45 +16,45 @@
       "index": 2
     },
     {
-      "title": "Zed for Windows: What's Taking So Long?",
-      "href": "https://zed.dev/blog/windows-progress-report",
-      "points": "",
-      "comments": "\n              74 comments",
-      "index": 3
-    },
-    {
       "title": "Why are anime catgirls blocking my access to the Linux kernel?",
       "href": "https://lock.cmpxchg8b.com/anubis.html",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              9 comments",
+      "index": 3
+    },
+    {
+      "title": "Zed for Windows: What's Taking So Long?",
+      "href": "https://zed.dev/blog/windows-progress-report",
+      "points": "",
+      "comments": "\n              75 comments",
       "index": 4
+    },
+    {
+      "title": "Let `jj absorb` help you keep a clean commit history",
+      "href": "https://www.pauladamsmith.com/blog/2025/08/jj-absorb.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 5
     },
     {
       "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
       "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Container-aware GOMAXPROCS",
       "href": "https://go.dev/blog/container-aware-gomaxprocs",
       "points": "",
       "comments": "\n              no comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Const Trait Counterexamples",
       "href": "https://dbeef.dev/const-trait-counterexamples/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 7
-    },
-    {
-      "title": "The long season of langdev",
-      "href": "https://blog.fogus.me/langdev/long-season.html",
-      "points": "",
-      "comments": "\n              17 comments",
       "index": 8
     },
     {
@@ -65,10 +65,10 @@
       "index": 9
     },
     {
-      "title": "Let `jj absorb` help you keep a clean commit history",
-      "href": "https://www.pauladamsmith.com/blog/2025/08/jj-absorb.html",
+      "title": "The long season of langdev",
+      "href": "https://blog.fogus.me/langdev/long-season.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              17 comments",
       "index": 10
     },
     {
@@ -86,52 +86,52 @@
       "index": 12
     },
     {
+      "title": "NASA’s 10 Rules for Safety-Critical Code",
+      "href": "https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
       "title": "Emacs as your video-trimming tool",
       "href": "https://xenodium.com/emacs-as-your-video-trimming-tool",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Monoid-augmented FIFOs, deamortised",
       "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Why is my device a touchpad and a mouse and a keyboard?",
       "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Reserve First",
       "href": "https://matklad.github.io/2025/08/16/reserve-first.html",
       "points": "",
       "comments": "\n              61 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Monad annoyance",
       "href": "https://macwright.com/2025/08/19/monad-annoyance",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
       "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 18
-    },
-    {
-      "title": "NASA’s 10 Rules for Safety-Critical Code",
-      "href": "https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 19
     },
     {
@@ -152,7 +152,7 @@
       "title": "Privacy-Preserving Age Verification—and Its Limitations",
       "href": "https://www.cs.columbia.edu/~smb/papers/age-verify.pdf",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 22
     },
     {
