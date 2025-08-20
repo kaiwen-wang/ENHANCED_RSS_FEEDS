@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, August 20, 2025 at 2:20 AM GMT-5",
+  "date": "Wednesday, August 20, 2025 at 3:25 AM GMT-5",
   "articles": [
-    {
-      "title": "Reserve First",
-      "href": "https://matklad.github.io/2025/08/16/reserve-first.html",
-      "points": "",
-      "comments": "\n              40 comments",
-      "index": 1
-    },
     {
       "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
       "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 1
+    },
+    {
+      "title": "Reserve First",
+      "href": "https://matklad.github.io/2025/08/16/reserve-first.html",
+      "points": "",
+      "comments": "\n              44 comments",
       "index": 2
     },
     {
@@ -23,31 +23,31 @@
       "index": 3
     },
     {
-      "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
-      "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 4
-    },
-    {
       "title": "The long season of langdev",
       "href": "https://blog.fogus.me/langdev/long-season.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
+      "index": 4
+    },
+    {
+      "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
+      "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 5
     },
     {
       "title": "Without the futex, it's futile",
       "href": "https://h4x0r.org/futex/",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              25 comments",
       "index": 6
     },
     {
       "title": "Left to Right Programming",
       "href": "https://graic.net/p/left-to-right-programming",
       "points": "",
-      "comments": "\n              35 comments",
+      "comments": "\n              36 comments",
       "index": 7
     },
     {
@@ -58,80 +58,80 @@
       "index": 8
     },
     {
-      "title": "Google is killing the open web",
-      "href": "https://wok.oblomov.eu/tecnologia/google-killing-open-web/",
-      "points": "",
-      "comments": "\n              46 comments",
-      "index": 9
-    },
-    {
       "title": "Language Models as Thespians",
       "href": "https://jstrieb.github.io/posts/llm-thespians/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
+      "index": 9
+    },
+    {
+      "title": "Google is killing the open web",
+      "href": "https://wok.oblomov.eu/tecnologia/google-killing-open-web/",
+      "points": "",
+      "comments": "\n              47 comments",
       "index": 10
     },
     {
       "title": "Change to Custom Directory Alias With Completions in Zsh (2021)",
       "href": "https://hacdias.com/2021/05/30/cd-alias-completions-zsh/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              5 comments",
       "index": 11
-    },
-    {
-      "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
-      "href": "https://vim.gabornyeki.com/",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 12
-    },
-    {
-      "title": "Some Tricks for List Manipulation",
-      "href": "https://doisinkidney.com/posts/2019-05-08-list-manipulation-tricks.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Why developers question everything",
-      "href": "https://timharek.no/blog/why-developers-question-everything/",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 14
     },
     {
       "title": "SmallJS",
       "href": "https://small-js.org/Home/Home.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
+      "index": 12
     },
     {
-      "title": "Intel Outside: Hacking every Intel employee and various internal websites",
-      "href": "https://eaton-works.com/2025/08/18/intel-outside-hack/",
+      "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
+      "href": "https://vim.gabornyeki.com/",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 16
+      "comments": "\n              25 comments",
+      "index": 13
+    },
+    {
+      "title": "Why developers question everything",
+      "href": "https://timharek.no/blog/why-developers-question-everything/",
+      "points": "",
+      "comments": "\n              20 comments",
+      "index": 14
+    },
+    {
+      "title": "Some Tricks for List Manipulation",
+      "href": "https://doisinkidney.com/posts/2019-05-08-list-manipulation-tricks.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
     },
     {
       "title": "Monoid-augmented FIFOs, deamortised",
       "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 16
     },
     {
-      "title": "Why is my device a touchpad and a mouse and a keyboard?",
-      "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
+      "title": "Intel Outside: Hacking every Intel employee and various internal websites",
+      "href": "https://eaton-works.com/2025/08/18/intel-outside-hack/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 18
+      "comments": "\n              11 comments",
+      "index": 17
     },
     {
       "title": "Jepsen 18: Serializable Mom by Kyle Kingsbury",
       "href": "https://youtu.be/dpTxWePmW5Y",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
+      "title": "Why is my device a touchpad and a mouse and a keyboard?",
+      "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 19
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "In-memory Filesystems in Rust",
-      "href": "https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/",
+      "title": "Making a floppy disk from scratch",
+      "href": "https://www.youtube.com/watch?v=TBiFGhnXsh8",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
