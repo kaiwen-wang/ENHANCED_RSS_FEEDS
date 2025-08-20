@@ -1,81 +1,81 @@
 {
-  "date": "Wednesday, August 20, 2025 at 12:15 PM GMT-5",
+  "date": "Wednesday, August 20, 2025 at 1:30 PM GMT-5",
   "articles": [
     {
       "title": "Code Review Can Be Better",
       "href": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              28 comments",
       "index": 1
     },
     {
       "title": "Zed for Windows: What's Taking So Long?",
       "href": "https://zed.dev/blog/windows-progress-report",
       "points": "",
-      "comments": "\n              62 comments",
+      "comments": "\n              68 comments",
       "index": 2
+    },
+    {
+      "title": "Const Trait Counterexamples",
+      "href": "https://dbeef.dev/const-trait-counterexamples/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 3
     },
     {
       "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
       "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "The long season of langdev",
       "href": "https://blog.fogus.me/langdev/long-season.html",
       "points": "",
-      "comments": "\n              12 comments",
-      "index": 4
-    },
-    {
-      "title": "Const Trait Counterexamples",
-      "href": "https://dbeef.dev/const-trait-counterexamples/",
-      "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              13 comments",
       "index": 5
     },
     {
       "title": "Tag-based logging",
       "href": "https://mmapped.blog/posts/44-tag-based-logging",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 6
-    },
-    {
-      "title": "Emacs as your video-trimming tool",
-      "href": "https://xenodium.com/emacs-as-your-video-trimming-tool",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 7
-    },
-    {
-      "title": "Reserve First",
-      "href": "https://matklad.github.io/2025/08/16/reserve-first.html",
-      "points": "",
-      "comments": "\n              59 comments",
-      "index": 8
-    },
-    {
-      "title": "Improvements to OCaml code editing: the basics of a refactor engine",
-      "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 9
-    },
-    {
-      "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
-      "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 10
     },
     {
       "title": "Container-aware GOMAXPROCS",
       "href": "https://go.dev/blog/container-aware-gomaxprocs",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "Emacs as your video-trimming tool",
+      "href": "https://xenodium.com/emacs-as-your-video-trimming-tool",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 8
+    },
+    {
+      "title": "Reserve First",
+      "href": "https://matklad.github.io/2025/08/16/reserve-first.html",
+      "points": "",
+      "comments": "\n              60 comments",
+      "index": 9
+    },
+    {
+      "title": "Improvements to OCaml code editing: the basics of a refactor engine",
+      "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
+      "title": "Why is my device a touchpad and a mouse and a keyboard?",
+      "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 11
     },
     {
@@ -86,24 +86,24 @@
       "index": 12
     },
     {
-      "title": "Why is my device a touchpad and a mouse and a keyboard?",
-      "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
+      "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
+      "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              12 comments",
       "index": 13
     },
     {
       "title": "Privacy-Preserving Age Verification—and Its Limitations",
       "href": "https://www.cs.columbia.edu/~smb/papers/age-verify.pdf",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 14
     },
     {
       "title": "Without the futex, it's futile",
       "href": "https://h4x0r.org/futex/",
       "points": "",
-      "comments": "\n              41 comments",
+      "comments": "\n              42 comments",
       "index": 15
     },
     {
@@ -114,43 +114,43 @@
       "index": 16
     },
     {
-      "title": "Left to Right Programming",
-      "href": "https://graic.net/p/left-to-right-programming",
-      "points": "",
-      "comments": "\n              44 comments",
-      "index": 17
-    },
-    {
       "title": "Monad annoyance",
       "href": "https://macwright.com/2025/08/19/monad-annoyance",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 17
+    },
+    {
+      "title": "A proposal for inline LLM instructions in HTML based on llms.txt",
+      "href": "https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 18
+    },
+    {
+      "title": "Left to Right Programming",
+      "href": "https://graic.net/p/left-to-right-programming",
+      "points": "",
+      "comments": "\n              44 comments",
+      "index": 19
     },
     {
       "title": "Building a Regex Engine",
       "href": "https://www.abstractsyntaxseed.com/blog/regex-engine/introduction",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Language Models as Thespians",
       "href": "https://jstrieb.github.io/posts/llm-thespians/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "L2AW theorem",
       "href": "https://law-theorem.com/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "A proposal for inline LLM instructions in HTML based on llms.txt",
-      "href": "https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
