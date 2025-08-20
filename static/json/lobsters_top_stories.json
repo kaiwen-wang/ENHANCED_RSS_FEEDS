@@ -1,32 +1,32 @@
 {
-  "date": "Wednesday, August 20, 2025 at 4:20 AM GMT-5",
+  "date": "Wednesday, August 20, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
       "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
       "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
       "index": 1
+    },
+    {
+      "title": "The long season of langdev",
+      "href": "https://blog.fogus.me/langdev/long-season.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 2
     },
     {
       "title": "Reserve First",
       "href": "https://matklad.github.io/2025/08/16/reserve-first.html",
       "points": "",
       "comments": "\n              45 comments",
-      "index": 2
-    },
-    {
-      "title": "The long season of langdev",
-      "href": "https://blog.fogus.me/langdev/long-season.html",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 3
     },
     {
       "title": "Emacs as your video-trimming tool",
       "href": "https://xenodium.com/emacs-as-your-video-trimming-tool",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 4
     },
     {
@@ -40,7 +40,7 @@
       "title": "Without the futex, it's futile",
       "href": "https://h4x0r.org/futex/",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              26 comments",
       "index": 6
     },
     {
@@ -54,7 +54,7 @@
       "title": "Left to Right Programming",
       "href": "https://graic.net/p/left-to-right-programming",
       "points": "",
-      "comments": "\n              37 comments",
+      "comments": "\n              38 comments",
       "index": 8
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
+      "title": "Zed for Windows: What's Taking So Long?",
+      "href": "https://zed.dev/blog/windows-progress-report",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
       "title": "Language Models as Thespians",
       "href": "https://jstrieb.github.io/posts/llm-thespians/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "SmallJS",
       "href": "https://small-js.org/Home/Home.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 11
+      "index": 12
+    },
+    {
+      "title": "Monad annoyance",
+      "href": "https://macwright.com/2025/08/19/monad-annoyance",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 13
     },
     {
       "title": "Google is killing the open web",
       "href": "https://wok.oblomov.eu/tecnologia/google-killing-open-web/",
       "points": "",
       "comments": "\n              47 comments",
-      "index": 12
+      "index": 14
     },
     {
       "title": "Change to Custom Directory Alias With Completions in Zsh (2021)",
       "href": "https://hacdias.com/2021/05/30/cd-alias-completions-zsh/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 13
-    },
-    {
-      "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
-      "href": "https://vim.gabornyeki.com/",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Why developers question everything",
       "href": "https://timharek.no/blog/why-developers-question-everything/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 15
+      "index": 16
+    },
+    {
+      "title": "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
+      "href": "https://vim.gabornyeki.com/",
+      "points": "",
+      "comments": "\n              26 comments",
+      "index": 17
     },
     {
       "title": "Some Tricks for List Manipulation",
       "href": "https://doisinkidney.com/posts/2019-05-08-list-manipulation-tricks.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Jepsen 18: Serializable Mom by Kyle Kingsbury",
-      "href": "https://youtu.be/dpTxWePmW5Y",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "Intel Outside: Hacking every Intel employee and various internal websites",
-      "href": "https://eaton-works.com/2025/08/18/intel-outside-hack/",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 18
-    },
-    {
-      "title": "Why is my device a touchpad and a mouse and a keyboard?",
-      "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Monad annoyance",
-      "href": "https://macwright.com/2025/08/19/monad-annoyance",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Jovial Reverse Polish Notation Calculators",
-      "href": "https://jrpn.jovial.com/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Prime Number Grid",
-      "href": "https://susam.net/primegrid.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 22
     },
     {
       "title": "Drunken Bishop (2023)",
       "href": "https://re.factorcode.org/2023/08/drunken-bishop.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 19
     },
     {
-      "title": "The peculiar case of Japanese web design (2022)",
-      "href": "https://sabrinas.space",
+      "title": "Jepsen 18: Serializable Mom by Kyle Kingsbury",
+      "href": "https://youtu.be/dpTxWePmW5Y",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 24
+      "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "Intel Outside: Hacking every Intel employee and various internal websites",
+      "href": "https://eaton-works.com/2025/08/18/intel-outside-hack/",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 21
+    },
+    {
+      "title": "Why is my device a touchpad and a mouse and a keyboard?",
+      "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Making a floppy disk from scratch",
       "href": "https://www.youtube.com/watch?v=TBiFGhnXsh8",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
+      "index": 23
+    },
+    {
+      "title": "Jovial Reverse Polish Notation Calculators",
+      "href": "https://jrpn.jovial.com/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
+    },
+    {
+      "title": "Prime Number Grid",
+      "href": "https://susam.net/primegrid.html",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 25
     }
   ]
