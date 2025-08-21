@@ -1,25 +1,25 @@
 {
-  "date": "Wednesday, August 20, 2025 at 8:25 PM GMT-5",
+  "date": "Wednesday, August 20, 2025 at 10:05 PM GMT-5",
   "articles": [
     {
       "title": "Code Review Can Be Better",
       "href": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
       "points": "",
-      "comments": "\n              34 comments",
+      "comments": "\n              35 comments",
       "index": 1
+    },
+    {
+      "title": "Why are anime catgirls blocking my access to the Linux kernel?",
+      "href": "https://lock.cmpxchg8b.com/anubis.html",
+      "points": "",
+      "comments": "\n              23 comments",
+      "index": 2
     },
     {
       "title": "Zig 0.15.1 Release Notes",
       "href": "https://ziglang.org/download/0.15.1/release-notes.html",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 2
-    },
-    {
-      "title": "Why are anime catgirls blocking my access to the Linux kernel?",
-      "href": "https://lock.cmpxchg8b.com/anubis.html",
-      "points": "",
-      "comments": "\n              22 comments",
       "index": 3
     },
     {
@@ -40,14 +40,14 @@
       "title": "Default musl allocator considered harmful (to performance)",
       "href": "https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 6
     },
     {
       "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
       "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
       "index": 7
     },
     {
@@ -61,7 +61,7 @@
       "title": "Const Trait Counterexamples",
       "href": "https://dbeef.dev/const-trait-counterexamples/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              12 comments",
       "index": 9
     },
     {
@@ -72,17 +72,17 @@
       "index": 10
     },
     {
-      "title": "Improvements to OCaml code editing: the basics of a refactor engine",
-      "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 11
-    },
-    {
       "title": "NASA’s 10 Rules for Safety-Critical Code",
       "href": "https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "Improvements to OCaml code editing: the basics of a refactor engine",
+      "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 12
     },
     {
@@ -103,7 +103,7 @@
       "title": "Why does my regular expression work in X but not in Y?",
       "href": "https://unix.stackexchange.com/questions/119905/why-does-my-regular-expression-work-in-x-but-not-in-y",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 15
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "Slice: SAST + LLM Interprocedural Context Extractor",
+      "href": "https://noperator.dev/posts/slice/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "A proposal for inline LLM instructions in HTML based on llms.txt",
+      "href": "https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 20
+    },
+    {
       "title": "Monad annoyance",
       "href": "https://macwright.com/2025/08/19/monad-annoyance",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
       "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Privacy-Preserving Age Verification—and Its Limitations",
       "href": "https://www.cs.columbia.edu/~smb/papers/age-verify.pdf",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "L2AW theorem",
       "href": "https://law-theorem.com/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Without the futex, it's futile",
       "href": "https://h4x0r.org/futex/",
       "points": "",
       "comments": "\n              44 comments",
-      "index": 23
-    },
-    {
-      "title": "Building a Regex Engine",
-      "href": "https://www.abstractsyntaxseed.com/blog/regex-engine/introduction",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "The Lawnmower IRC Server",
-      "href": "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 25
     }
   ]
