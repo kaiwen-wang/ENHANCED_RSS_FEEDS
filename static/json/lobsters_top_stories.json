@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, August 21, 2025 at 6:15 AM GMT-5",
+  "date": "Thursday, August 21, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "Why are anime catgirls blocking my access to the Linux kernel?",
       "href": "https://lock.cmpxchg8b.com/anubis.html",
       "points": "",
-      "comments": "\n              49 comments",
+      "comments": "\n              52 comments",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "Zig 0.15.1 Release Notes",
       "href": "https://ziglang.org/download/0.15.1/release-notes.html",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              21 comments",
       "index": 3
     },
     {
@@ -40,42 +40,42 @@
       "title": "Default musl allocator considered harmful (to performance)",
       "href": "https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 6
     },
     {
       "title": "NASA’s 10 Rules for Safety-Critical Code",
       "href": "https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 7
     },
     {
       "title": "Zed for Windows: What's Taking So Long?",
       "href": "https://zed.dev/blog/windows-progress-report",
       "points": "",
-      "comments": "\n              88 comments",
+      "comments": "\n              90 comments",
       "index": 8
-    },
-    {
-      "title": "Why does my regular expression work in X but not in Y?",
-      "href": "https://unix.stackexchange.com/questions/119905/why-does-my-regular-expression-work-in-x-but-not-in-y",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 9
-    },
-    {
-      "title": "Const Trait Counterexamples",
-      "href": "https://dbeef.dev/const-trait-counterexamples/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 10
     },
     {
       "title": "Faster loading of credentials from Bitwarden using rbw",
       "href": "https://blog.aleksic.dev/short-note-faster-loading-of-credentials-from-bitwarden-using-rbw",
       "points": "",
       "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "Why does my regular expression work in X but not in Y?",
+      "href": "https://unix.stackexchange.com/questions/119905/why-does-my-regular-expression-work-in-x-but-not-in-y",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 10
+    },
+    {
+      "title": "Const Trait Counterexamples",
+      "href": "https://dbeef.dev/const-trait-counterexamples/",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 11
     },
     {
@@ -93,17 +93,17 @@
       "index": 13
     },
     {
+      "title": "The Month of AI Bugs 2025",
+      "href": "https://monthofaibugs.com/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
       "title": "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
       "href": "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 14
-    },
-    {
-      "title": "Improvements to OCaml code editing: the basics of a refactor engine",
-      "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
+      "title": "Improvements to OCaml code editing: the basics of a refactor engine",
+      "href": "https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 17
+    },
+    {
       "title": "Tag-based logging",
       "href": "https://mmapped.blog/posts/44-tag-based-logging",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "NOPE: Strengthening Domain Authentication (RWC 2025)",
       "href": "https://www.youtube.com/watch?v=j8pdfHnTvsU",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "A proposal for inline LLM instructions in HTML based on llms.txt",
       "href": "https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 19
-    },
-    {
-      "title": "Slice: SAST + LLM Interprocedural Context Extractor",
-      "href": "https://noperator.dev/posts/slice/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 20
-    },
-    {
-      "title": "Monoid-augmented FIFOs, deamortised",
-      "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 21
     },
     {
       "title": "Why is my device a touchpad and a mouse and a keyboard?",
       "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 21
+    },
+    {
+      "title": "Slice: SAST + LLM Interprocedural Context Extractor",
+      "href": "https://noperator.dev/posts/slice/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 22
+    },
+    {
+      "title": "Monoid-augmented FIFOs, deamortised",
+      "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 23
     },
     {
       "title": "Emacs as your video-trimming tool",
       "href": "https://xenodium.com/emacs-as-your-video-trimming-tool",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Reserve First",
       "href": "https://matklad.github.io/2025/08/16/reserve-first.html",
       "points": "",
       "comments": "\n              67 comments",
-      "index": 24
-    },
-    {
-      "title": "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
-      "href": "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
-      "points": "",
-      "comments": "\n              13 comments",
       "index": 25
     }
   ]
