@@ -1,25 +1,25 @@
 {
-  "date": "Thursday, August 21, 2025 at 8:30 AM GMT-5",
+  "date": "Thursday, August 21, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Why are anime catgirls blocking my access to the Linux kernel?",
       "href": "https://lock.cmpxchg8b.com/anubis.html",
       "points": "",
-      "comments": "\n              55 comments",
+      "comments": "\n              59 comments",
       "index": 1
     },
     {
       "title": "Code Review Can Be Better",
       "href": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
       "points": "",
-      "comments": "\n              36 comments",
+      "comments": "\n              37 comments",
       "index": 2
     },
     {
       "title": "Zig 0.15.1 Release Notes",
       "href": "https://ziglang.org/download/0.15.1/release-notes.html",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              22 comments",
       "index": 3
     },
     {
@@ -51,45 +51,45 @@
       "index": 7
     },
     {
-      "title": "Zed for Windows: What's Taking So Long?",
-      "href": "https://zed.dev/blog/windows-progress-report",
-      "points": "",
-      "comments": "\n              90 comments",
-      "index": 8
-    },
-    {
       "title": "The Month of AI Bugs 2025",
       "href": "https://monthofaibugs.com/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 9
+      "index": 8
     },
     {
-      "title": "Faster loading of credentials from Bitwarden using rbw",
-      "href": "https://blog.aleksic.dev/short-note-faster-loading-of-credentials-from-bitwarden-using-rbw",
+      "title": "Zed for Windows: What's Taking So Long?",
+      "href": "https://zed.dev/blog/windows-progress-report",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 10
+      "comments": "\n              90 comments",
+      "index": 9
     },
     {
       "title": "Building GoReleaser: from shell script to paid product | Carlos Becker",
       "href": "https://carlosbecker.com/posts/building-goreleaser/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "Const Trait Counterexamples",
-      "href": "https://dbeef.dev/const-trait-counterexamples/",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 12
+      "index": 10
     },
     {
       "title": "Why does my regular expression work in X but not in Y?",
       "href": "https://unix.stackexchange.com/questions/119905/why-does-my-regular-expression-work-in-x-but-not-in-y",
       "points": "",
       "comments": "\n              8 comments",
+      "index": 11
+    },
+    {
+      "title": "Faster loading of credentials from Bitwarden using rbw",
+      "href": "https://blog.aleksic.dev/short-note-faster-loading-of-credentials-from-bitwarden-using-rbw",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Const Trait Counterexamples",
+      "href": "https://dbeef.dev/const-trait-counterexamples/",
+      "points": "",
+      "comments": "\n              19 comments",
       "index": 13
     },
     {
@@ -107,17 +107,17 @@
       "index": 15
     },
     {
-      "title": "A Conceptual Model for Storage Unification",
-      "href": "https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification",
+      "title": "D4d4",
+      "href": "https://www.nmichaels.org/musings/d4d4/d4d4/",
       "points": "",
       "comments": "\n              no comments",
       "index": 16
     },
     {
-      "title": "The long season of langdev",
-      "href": "https://blog.fogus.me/langdev/long-season.html",
+      "title": "A Conceptual Model for Storage Unification",
+      "href": "https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "The long season of langdev",
+      "href": "https://blog.fogus.me/langdev/long-season.html",
+      "points": "",
+      "comments": "\n              21 comments",
+      "index": 19
+    },
+    {
       "title": "Tag-based logging",
       "href": "https://mmapped.blog/posts/44-tag-based-logging",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "NOPE: Strengthening Domain Authentication (RWC 2025)",
       "href": "https://www.youtube.com/watch?v=j8pdfHnTvsU",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "A proposal for inline LLM instructions in HTML based on llms.txt",
       "href": "https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 21
+      "comments": "\n              6 comments",
+      "index": 22
     },
     {
       "title": "Why is my device a touchpad and a mouse and a keyboard?",
       "href": "http://who-t.blogspot.com/2025/08/why-is-my-device-touchpad-and-mouse-and.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Monoid-augmented FIFOs, deamortised",
       "href": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Slice: SAST + LLM Interprocedural Context Extractor",
       "href": "https://noperator.dev/posts/slice/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Emacs as your video-trimming tool",
-      "href": "https://xenodium.com/emacs-as-your-video-trimming-tool",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 25
     }
   ]
