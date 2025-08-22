@@ -1,214 +1,214 @@
 {
-  "date": "Friday, August 22, 2025 at 12:20 AM GMT-5",
+  "date": "Friday, August 22, 2025 at 1:30 AM GMT-5",
   "articles": [
+    {
+      "title": "Io_uring, kTLS and Rust for zero syscall HTTPS server",
+      "href": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
+      "points": "75 points",
+      "comments": "13 comments",
+      "index": 1
+    },
     {
       "title": "Control shopping cart wheels with your phone (2021)",
       "href": "https://www.begaydocrime.com/",
-      "points": "106 points",
-      "comments": "19 comments",
-      "index": 1
+      "points": "135 points",
+      "comments": "25 comments",
+      "index": 2
     },
     {
       "title": "DeepSeek-v3.1",
       "href": "https://api-docs.deepseek.com/news/news250821",
-      "points": "383 points",
-      "comments": "94 comments",
-      "index": 2
-    },
-    {
-      "title": "Io_uring, kTLS and Rust for zero syscall HTTPS server",
-      "href": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
-      "points": "16 points",
-      "comments": "2 comments",
+      "points": "417 points",
+      "comments": "98 comments",
       "index": 3
     },
     {
-      "title": "Uv format: Code Formatting Comes to uv (experimentally)",
-      "href": "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/",
-      "points": "197 points",
-      "comments": "116 comments",
+      "title": "Everything Is Correlated",
+      "href": "https://gwern.net/everything",
+      "points": "39 points",
+      "comments": "6 comments",
       "index": 4
+    },
+    {
+      "title": "Code formatting comes to uv experimentally",
+      "href": "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/",
+      "points": "218 points",
+      "comments": "132 comments",
+      "index": 5
     },
     {
       "title": "From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]",
       "href": "https://www.fertrevino.com/docs/gpt5_medhelm.pdf",
-      "points": "81 points",
-      "comments": "56 comments",
-      "index": 5
+      "points": "88 points",
+      "comments": "58 comments",
+      "index": 6
     },
     {
       "title": "Crimes with Python's Pattern Matching (2022)",
       "href": "https://www.hillelwayne.com/post/python-abc/",
-      "points": "155 points",
-      "comments": "57 comments",
-      "index": 6
+      "points": "173 points",
+      "comments": "66 comments",
+      "index": 7
     },
     {
       "title": "Benchmarks for Golang SQLite Drivers",
       "href": "https://github.com/cvilsmeier/go-sqlite-bench",
-      "points": "47 points",
+      "points": "55 points",
       "comments": "9 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "An interactive guide to SVG paths",
       "href": "https://www.joshwcomeau.com/svg/interactive-guide-to-paths/",
-      "points": "251 points",
-      "comments": "25 comments",
-      "index": 8
-    },
-    {
-      "title": "Elegant mathematics bending the future of design",
-      "href": "https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/",
-      "points": "81 points",
-      "comments": "1 comment",
+      "points": "267 points",
+      "comments": "26 comments",
       "index": 9
-    },
-    {
-      "title": "1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]",
-      "href": "https://www.youtube.com/watch?v=jHG_I-9a7FY",
-      "points": "36 points",
-      "comments": "28 comments",
-      "index": 10
-    },
-    {
-      "title": "Weaponizing image scaling against production AI systems",
-      "href": "https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/",
-      "points": "341 points",
-      "comments": "93 comments",
-      "index": 11
-    },
-    {
-      "title": "AI tooling must be disclosed for contributions",
-      "href": "https://github.com/ghostty-org/ghostty/pull/8289",
-      "points": "571 points",
-      "comments": "324 comments",
-      "index": 12
     },
     {
       "title": "How Not to Buy a SSD",
       "href": "https://andrei.xyz/post/how-not-to-buy-a-ssd/",
-      "points": "12 points",
-      "comments": "1 comment",
-      "index": 13
+      "points": "32 points",
+      "comments": "16 comments",
+      "index": 10
     },
     {
-      "title": "How does the US use water?",
-      "href": "https://www.construction-physics.com/p/how-does-the-us-use-water",
-      "points": "131 points",
-      "comments": "125 comments",
-      "index": 14
+      "title": "Elegant mathematics bending the future of design",
+      "href": "https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/",
+      "points": "89 points",
+      "comments": "4 comments",
+      "index": 11
+    },
+    {
+      "title": "1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]",
+      "href": "https://www.youtube.com/watch?v=jHG_I-9a7FY",
+      "points": "43 points",
+      "comments": "35 comments",
+      "index": 12
+    },
+    {
+      "title": "Weaponizing image scaling against production AI systems",
+      "href": "https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/",
+      "points": "358 points",
+      "comments": "97 comments",
+      "index": 13
     },
     {
       "title": "Building AI products in the probabilistic era",
       "href": "https://giansegato.com/essays/probabilistic-era",
-      "points": "109 points",
-      "comments": "60 comments",
+      "points": "119 points",
+      "comments": "62 comments",
+      "index": 14
+    },
+    {
+      "title": "AI tooling must be disclosed for contributions",
+      "href": "https://github.com/ghostty-org/ghostty/pull/8289",
+      "points": "593 points",
+      "comments": "333 comments",
       "index": 15
     },
     {
-      "title": "Beyond sensor data: Foundation models of behavioral data from wearables",
-      "href": "https://arxiv.org/abs/2507.00191",
-      "points": "202 points",
-      "comments": "43 comments",
+      "title": "How does the US use water?",
+      "href": "https://www.construction-physics.com/p/how-does-the-us-use-water",
+      "points": "139 points",
+      "comments": "132 comments",
       "index": 16
     },
     {
       "title": "How well does the money laundering control system work?",
       "href": "https://www.journals.uchicago.edu/doi/10.1086/735665",
-      "points": "214 points",
-      "comments": "218 comments",
+      "points": "228 points",
+      "comments": "235 comments",
       "index": 17
     },
     {
-      "title": "Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies",
-      "href": "https://splice-cad.com",
-      "points": "57 points",
-      "comments": "7 comments",
+      "title": "Beyond sensor data: Foundation models of behavioral data from wearables",
+      "href": "https://arxiv.org/abs/2507.00191",
+      "points": "207 points",
+      "comments": "45 comments",
       "index": 18
     },
     {
       "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
       "href": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
-      "points": "1219 points",
-      "comments": "484 comments",
+      "points": "1264 points",
+      "comments": "502 comments",
       "index": 19
     },
     {
       "title": "My other email client is a daemon",
       "href": "https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/",
-      "points": "111 points",
+      "points": "114 points",
       "comments": "17 comments",
       "index": 20
     },
     {
-      "title": "Miles from the ocean, there's diving beneath the streets of Budapest",
-      "href": "https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave",
-      "points": "113 points",
-      "comments": "22 comments",
+      "title": "Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies",
+      "href": "https://splice-cad.com",
+      "points": "64 points",
+      "comments": "8 comments",
       "index": 21
+    },
+    {
+      "title": "Skill issues – Dialectical Behavior Therapy and its discontents (2024)",
+      "href": "https://www.thedriftmag.com/skill-issues/",
+      "points": "41 points",
+      "comments": "14 comments",
+      "index": 22
+    },
+    {
+      "title": "Show HN: OS X Mavericks Forever",
+      "href": "https://mavericksforever.com/",
+      "points": "322 points",
+      "comments": "135 comments",
+      "index": 23
     },
     {
       "title": "Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer",
       "href": "https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer",
       "points": "",
       "comments": "hide",
-      "index": 22
-    },
-    {
-      "title": "Show HN: OS X Mavericks Forever",
-      "href": "https://mavericksforever.com/",
-      "points": "314 points",
-      "comments": "131 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Using Podman, Compose and BuildKit",
       "href": "https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/",
-      "points": "256 points",
-      "comments": "90 comments",
-      "index": 24
-    },
-    {
-      "title": "Google scores six-year Meta cloud deal worth over $10B",
-      "href": "https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html",
-      "points": "69 points",
-      "comments": "15 comments",
+      "points": "262 points",
+      "comments": "93 comments",
       "index": 25
     },
     {
-      "title": "My AI had fixed the code before I saw it",
-      "href": "https://every.to/source-code/my-ai-had-already-fixed-the-code-before-i-saw-it",
-      "points": "14 points",
-      "comments": "8 comments",
+      "title": "Miles from the ocean, there's diving beneath the streets of Budapest",
+      "href": "https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave",
+      "points": "117 points",
+      "comments": "25 comments",
       "index": 26
     },
     {
       "title": "Philosophical Thoughts on Kolmogorov-Arnold Networks (2024)",
       "href": "https://kindxiaoming.github.io/blog/2024/kolmogorov-arnold-networks/",
-      "points": "32 points",
+      "points": "38 points",
       "comments": "4 comments",
       "index": 27
     },
     {
-      "title": "Everything Is Correlated",
-      "href": "https://gwern.net/everything",
-      "points": "3 points",
-      "comments": "discuss",
+      "title": "The AI Job Title Decoder Ring",
+      "href": "https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html",
+      "points": "65 points",
+      "comments": "58 comments",
       "index": 28
     },
     {
-      "title": "The Onion brought back its print edition and the gamble is paying off",
-      "href": "https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c",
-      "points": "147 points",
-      "comments": "40 comments",
+      "title": "Google scores six-year Meta cloud deal worth over $10B",
+      "href": "https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html",
+      "points": "87 points",
+      "comments": "19 comments",
       "index": 29
     },
     {
       "title": "Privately-Owned Rail Cars",
       "href": "https://www.amtrak.com/privately-owned-rail-cars",
-      "points": "124 points",
-      "comments": "171 comments",
+      "points": "132 points",
+      "comments": "173 comments",
       "index": 30
     }
   ]
