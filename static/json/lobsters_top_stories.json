@@ -1,11 +1,11 @@
 {
-  "date": "Friday, August 22, 2025 at 5:15 PM GMT-5",
+  "date": "Friday, August 22, 2025 at 6:15 PM GMT-5",
   "articles": [
     {
       "title": "Lobsters Interview with Matklad",
       "href": "/s/ntruuu/lobsters_interview_with_matklad",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              14 comments",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "No, Google Did Not Unilaterally Decide to Kill XSLT",
       "href": "https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
       "index": 3
     },
     {
@@ -37,94 +37,94 @@
       "index": 5
     },
     {
+      "title": "bubbletea-rs: A rust implementation of Bubbletea",
+      "href": "https://github.com/whit3rabbit/bubbletea-rs",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 6
+    },
+    {
       "title": "Go is still not good",
       "href": "https://blog.habets.se/2025/07/Go-is-still-not-good.html",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 6
+      "comments": "\n              16 comments",
+      "index": 7
     },
     {
       "title": "The First MoQ CDN: Cloudflare",
       "href": "https://moq.dev/blog/first-cdn/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "To be a better programmer, write little proofs in your head",
       "href": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 8
-    },
-    {
-      "title": "grug.design",
-      "href": "https://www.grug.design/know",
-      "points": "",
-      "comments": "\n              30 comments",
+      "comments": "\n              6 comments",
       "index": 9
-    },
-    {
-      "title": "bubbletea-rs: A rust implementation of Bubbletea",
-      "href": "https://github.com/whit3rabbit/bubbletea-rs",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 10
-    },
-    {
-      "title": "What the hell is going on right now?",
-      "href": "https://catskull.net/what-the-hell-is-going-on-right-now.html",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 11
-    },
-    {
-      "title": "Why Was Apache Kafka Created?",
-      "href": "https://bigdatastream.substack.com/p/why-was-apache-kafka-created",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "The Baby Paradox in Haskell",
-      "href": "https://blog.jle.im/entry/the-baby-paradox-in-haskell.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
-    },
-    {
-      "title": "Have smart glasses finally hit an inflection point?",
-      "href": "https://torment-nexus.mathewingram.com/have-smart-glasses-finally-hit-an-inflection-point/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 14
-    },
-    {
-      "title": "Arch Linux - News: Recent service outages",
-      "href": "https://archlinux.org/news/recent-services-outages/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 15
     },
     {
       "title": "Closing the Nix Gap: From Environments to Packaged Applications for Rust",
       "href": "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 10
+    },
+    {
+      "title": "Why Was Apache Kafka Created?",
+      "href": "https://bigdatastream.substack.com/p/why-was-apache-kafka-created",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 11
+    },
+    {
+      "title": "grug.design",
+      "href": "https://www.grug.design/know",
+      "points": "",
+      "comments": "\n              30 comments",
+      "index": 12
+    },
+    {
+      "title": "What the hell is going on right now?",
+      "href": "https://catskull.net/what-the-hell-is-going-on-right-now.html",
+      "points": "",
+      "comments": "\n              19 comments",
+      "index": 13
+    },
+    {
+      "title": "nitro: a tiny but flexible init system and process supervisor",
+      "href": "https://git.vuxu.org/nitro/about/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "The Baby Paradox in Haskell",
+      "href": "https://blog.jle.im/entry/the-baby-paradox-in-haskell.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
+      "title": "Arch Linux - News: Recent service outages",
+      "href": "https://archlinux.org/news/recent-services-outages/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 16
+    },
+    {
+      "title": "Have smart glasses finally hit an inflection point?",
+      "href": "https://torment-nexus.mathewingram.com/have-smart-glasses-finally-hit-an-inflection-point/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 17
     },
     {
       "title": "w65c832: W65C832 (32 bit 6502) in an FPGA",
       "href": "https://github.com/mikeakohn/w65c832",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 17
-    },
-    {
-      "title": "the core of rust",
-      "href": "https://jyn.dev/the-core-of-rust/",
-      "points": "",
-      "comments": "\n              25 comments",
       "index": 18
     },
     {
@@ -135,22 +135,22 @@
       "index": 19
     },
     {
-      "title": "nitro: a tiny but flexible init system and process supervisor",
-      "href": "https://git.vuxu.org/nitro/about/",
+      "title": "the core of rust",
+      "href": "https://jyn.dev/the-core-of-rust/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              26 comments",
       "index": 20
     },
     {
-      "title": "What about using rel=\"share-url\" to expose sharing intents?",
-      "href": "https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/",
+      "title": "Optimizing our way through Metroid",
+      "href": "https://antithesis.com/blog/2025/metroid/",
       "points": "",
       "comments": "\n              no comments",
       "index": 21
     },
     {
-      "title": "Optimizing our way through Metroid",
-      "href": "https://antithesis.com/blog/2025/metroid/",
+      "title": "What about using rel=\"share-url\" to expose sharing intents?",
+      "href": "https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
+      "title": "On the use of LLM assistants for kernel development",
+      "href": "https://lwn.net/Articles/1032612/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
+    },
+    {
       "title": "Why do software developers love complexity?",
       "href": "https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html",
       "points": "",
       "comments": "\n              27 comments",
-      "index": 24
-    },
-    {
-      "title": "Ledger (2023)",
-      "href": "https://lock.cmpxchg8b.com/ledger.html",
-      "points": "",
-      "comments": "\n              13 comments",
       "index": 25
     }
   ]
