@@ -1,32 +1,32 @@
 {
-  "date": "Thursday, August 21, 2025 at 11:20 PM GMT-5",
+  "date": "Friday, August 22, 2025 at 12:20 AM GMT-5",
   "articles": [
+    {
+      "title": "grug.design",
+      "href": "https://www.grug.design/know",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 1
+    },
     {
       "title": "My other email client is a daemon",
       "href": "https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 1
+      "index": 2
     },
     {
-      "title": "grug.design",
-      "href": "https://www.grug.design/know",
+      "title": "The issue of anti-cheat on Linux",
+      "href": "https://tulach.cc/the-issue-of-anti-cheat-on-linux/",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 2
+      "comments": "\n              6 comments",
+      "index": 3
     },
     {
       "title": "the core of rust",
       "href": "https://jyn.dev/the-core-of-rust/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 3
-    },
-    {
-      "title": "The issue of anti-cheat on Linux",
-      "href": "https://tulach.cc/the-issue-of-anti-cheat-on-linux/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 4
     },
     {
@@ -79,92 +79,92 @@
       "index": 11
     },
     {
-      "title": "Code Review Can Be Better",
-      "href": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
-      "points": "",
-      "comments": "\n              42 comments",
-      "index": 12
-    },
-    {
       "title": "Using Common Lisp from inside the Browser",
       "href": "https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 12
+    },
+    {
+      "title": "Code Review Can Be Better",
+      "href": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
+      "points": "",
+      "comments": "\n              42 comments",
       "index": 13
+    },
+    {
+      "title": "Zig 0.15.1 Release Notes",
+      "href": "https://ziglang.org/download/0.15.1/release-notes.html",
+      "points": "",
+      "comments": "\n              32 comments",
+      "index": 14
     },
     {
       "title": "A New Rust Packaging Model",
       "href": "https://guix.gnu.org/en/blog/2025/a-new-rust-packaging-model/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 14
-    },
-    {
-      "title": "Zig 0.15.1 Release Notes",
-      "href": "https://ziglang.org/download/0.15.1/release-notes.html",
-      "points": "",
-      "comments": "\n              31 comments",
       "index": 15
-    },
-    {
-      "title": "Agent Inference - A user-agent / browser quiz",
-      "href": "https://ai.174070135.xyz/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 16
-    },
-    {
-      "title": "Let `jj absorb` help you keep a clean commit history",
-      "href": "https://www.pauladamsmith.com/blog/2025/08/jj-absorb.html",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 17
-    },
-    {
-      "title": "On Benchmarking MiniZinc and the LinkedIn Queens Problem - zayenz.se",
-      "href": "https://zayenz.se/blog/post/benchmarking-linkedin-queens/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "adding my home electricity uptime to status.href.cat",
-      "href": "https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
     },
     {
       "title": "Fun and weirdness with SSDs",
       "href": "https://vondra.me/posts/fun-and-weirdness-with-ssds/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
+      "title": "Agent Inference - A user-agent / browser quiz",
+      "href": "https://ai.174070135.xyz/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 17
+    },
+    {
+      "title": "Let `jj absorb` help you keep a clean commit history",
+      "href": "https://www.pauladamsmith.com/blog/2025/08/jj-absorb.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 18
+    },
+    {
+      "title": "Understanding Go Error Types: Pointer vs. Value",
+      "href": "https://blog.fillmore-labs.com/posts/errors-1/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "On Benchmarking MiniZinc and the LinkedIn Queens Problem - zayenz.se",
+      "href": "https://zayenz.se/blog/post/benchmarking-linkedin-queens/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 20
+    },
+    {
+      "title": "adding my home electricity uptime to status.href.cat",
+      "href": "https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
     },
     {
       "title": "Bitnami Deprecation",
       "href": "https://raesene.github.io/blog/2025/08/21/bitnami-deprecation/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 22
     },
     {
       "title": "D4d4",
       "href": "https://www.nmichaels.org/musings/d4d4/d4d4/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "The Interim Computer Museum",
       "href": "https://icm.museum/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Understanding Go Error Types: Pointer vs. Value",
-      "href": "https://blog.fillmore-labs.com/posts/errors-1/",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
