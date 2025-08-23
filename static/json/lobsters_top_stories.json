@@ -1,18 +1,18 @@
 {
-  "date": "Saturday, August 23, 2025 at 8:25 AM GMT-5",
+  "date": "Saturday, August 23, 2025 at 9:15 AM GMT-5",
   "articles": [
     {
       "title": "Lobsters Interview with Matklad",
       "href": "/s/ntruuu/lobsters_interview_with_matklad",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              29 comments",
       "index": 1
     },
     {
       "title": "No, Google Did Not Unilaterally Decide to Kill XSLT",
       "href": "https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/",
       "points": "",
-      "comments": "\n              32 comments",
+      "comments": "\n              34 comments",
       "index": 2
     },
     {
@@ -30,85 +30,85 @@
       "index": 4
     },
     {
+      "title": "RFC 9839 and Bad Unicode",
+      "href": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 5
+    },
+    {
       "title": "Understanding Jujutsu bookmarks",
       "href": "https://neugierig.org/software/blog/2025/08/jj-bookmarks.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "The First MoQ CDN: Cloudflare",
       "href": "https://moq.dev/blog/first-cdn/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 6
+      "index": 7
     },
     {
       "title": "bubbletea-rs: A rust implementation of Bubbletea",
       "href": "https://github.com/whit3rabbit/bubbletea-rs",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Why Was Apache Kafka Created?",
       "href": "https://bigdatastream.substack.com/p/why-was-apache-kafka-created",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "A string formatting library in 65 lines of C++",
       "href": "https://riki.house/fmt",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "On the use of LLM assistants for kernel development",
       "href": "https://lwn.net/Articles/1032612/",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 10
+      "comments": "\n              10 comments",
+      "index": 11
     },
     {
       "title": "nitro: a tiny but flexible init system and process supervisor",
       "href": "https://git.vuxu.org/nitro/about/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Go is still not good",
       "href": "https://blog.habets.se/2025/07/Go-is-still-not-good.html",
       "points": "",
-      "comments": "\n              31 comments",
-      "index": 12
+      "comments": "\n              32 comments",
+      "index": 13
     },
     {
       "title": "The 9 Go test assertions I use (and why)",
       "href": "https://www.alexedwards.net/blog/the-9-go-test-assertions-i-use",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "To be a better programmer, write little proofs in your head",
       "href": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "AI Chatbots Undermining the Enlightenment",
       "href": "https://maggieappleton.com/ai-enlightenment",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "RFC 9839 and Bad Unicode",
-      "href": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
       "points": "",
       "comments": "\n              no comments",
       "index": 16
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "Rethinking the Linux cloud stack for confidential VMs",
+      "href": "https://lwn.net/Articles/1030818/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
       "title": "Closing the Nix Gap: From Environments to Packaged Applications for Rust",
       "href": "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Optimizing our way through Metroid",
       "href": "https://antithesis.com/blog/2025/metroid/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 21
+    },
+    {
+      "title": "Retry Loop Retry",
+      "href": "https://matklad.github.io/2025/08/23/retry-loop-retry.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "io_uring, kTLS and Rust for zero syscall HTTPS server",
+      "href": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "AnyBlox: A Framework for Self-Decoding Datasets",
       "href": "https://gienieczko.com/anyblox-paper",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 24
     },
     {
       "title": "rue: A programming language that is a minimal subset of Rust",
       "href": "https://github.com/steveklabnik/rue",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "What the hell is going on right now?",
-      "href": "https://catskull.net/what-the-hell-is-going-on-right-now.html",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 23
-    },
-    {
-      "title": "Rethinking the Linux cloud stack for confidential VMs",
-      "href": "https://lwn.net/Articles/1030818/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "w65c832: W65C832 (32 bit 6502) in an FPGA",
-      "href": "https://github.com/mikeakohn/w65c832",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 25
     }
   ]
