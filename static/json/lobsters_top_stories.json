@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, August 23, 2025 at 3:20 PM GMT-5",
+  "date": "Saturday, August 23, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "Big O",
       "href": "https://samwho.dev/big-o/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              12 comments",
       "index": 1
     },
     {
@@ -26,35 +26,35 @@
       "title": "Materialized views are obviously useful",
       "href": "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              17 comments",
       "index": 4
+    },
+    {
+      "title": "Retry Loop Retry",
+      "href": "https://matklad.github.io/2025/08/23/retry-loop-retry.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 5
     },
     {
       "title": "Understanding Jujutsu bookmarks",
       "href": "https://neugierig.org/software/blog/2025/08/jj-bookmarks.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Lobsters Interview with Matklad",
       "href": "/s/ntruuu/lobsters_interview_with_matklad",
       "points": "",
       "comments": "\n              34 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "No, Google Did Not Unilaterally Decide to Kill XSLT",
       "href": "https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/",
       "points": "",
-      "comments": "\n              49 comments",
-      "index": 7
-    },
-    {
-      "title": "Retry Loop Retry",
-      "href": "https://matklad.github.io/2025/08/23/retry-loop-retry.html",
-      "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              50 comments",
       "index": 8
     },
     {
@@ -65,31 +65,31 @@
       "index": 9
     },
     {
+      "title": "microdot: The impossibly small web framework for Python and MicroPython",
+      "href": "https://github.com/miguelgrinberg/microdot",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "Optimizing FizzBuzz in Rust",
+      "href": "https://github.com/nrposner/fizzcrate",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
       "title": "SXO :: Optimized Server-Side JSX. Build Simple. Build Fast",
       "href": "https://github.com/gc-victor/sxo",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 10
+      "index": 12
     },
     {
       "title": "The First MoQ CDN: Cloudflare",
       "href": "https://moq.dev/blog/first-cdn/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 11
-    },
-    {
-      "title": "io_uring, kTLS and Rust for zero syscall HTTPS server",
-      "href": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 12
-    },
-    {
-      "title": "microdot: The impossibly small web framework for Python and MicroPython",
-      "href": "https://github.com/miguelgrinberg/microdot",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 13
     },
     {
@@ -100,24 +100,24 @@
       "index": 14
     },
     {
-      "title": "Optimizing FizzBuzz in Rust",
-      "href": "https://github.com/nrposner/fizzcrate",
+      "title": "io_uring, kTLS and Rust for zero syscall HTTPS server",
+      "href": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 15
-    },
-    {
-      "title": "bubbletea-rs: A rust implementation of Bubbletea",
-      "href": "https://github.com/whit3rabbit/bubbletea-rs",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 16
     },
     {
       "title": "AI Chatbots Undermining the Enlightenment",
       "href": "https://maggieappleton.com/ai-enlightenment",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "bubbletea-rs: A rust implementation of Bubbletea",
+      "href": "https://github.com/whit3rabbit/bubbletea-rs",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 17
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
-      "title": "On the use of LLM assistants for kernel development",
-      "href": "https://lwn.net/Articles/1032612/",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 20
-    },
-    {
       "title": "nitro: a tiny but flexible init system and process supervisor",
       "href": "https://git.vuxu.org/nitro/about/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 20
+    },
+    {
+      "title": "On the use of LLM assistants for kernel development",
+      "href": "https://lwn.net/Articles/1032612/",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 21
+    },
+    {
+      "title": "TaMaRa: Towards a Triple Modular Redundancy Pass for Yosys",
+      "href": "https://blog.yosyshq.com/p/tamara-towards-a-triple-modular-redundancy-pass-for-yosys/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "The 9 Go test assertions I use (and why)",
       "href": "https://www.alexedwards.net/blog/the-9-go-test-assertions-i-use",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 22
+      "comments": "\n              7 comments",
+      "index": 23
+    },
+    {
+      "title": "WebR - R in the Browser",
+      "href": "https://docs.r-wasm.org/webr/latest/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "AnyBlox: A Framework for Self-Decoding Datasets",
       "href": "https://gienieczko.com/anyblox-paper",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "Go is still not good",
-      "href": "https://blog.habets.se/2025/07/Go-is-still-not-good.html",
-      "points": "",
-      "comments": "\n              32 comments",
-      "index": 24
-    },
-    {
-      "title": "To be a better programmer, write little proofs in your head",
-      "href": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 25
     }
   ]
