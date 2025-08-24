@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, August 24, 2025 at 1:25 AM GMT-5",
+  "date": "Sunday, August 24, 2025 at 2:15 AM GMT-5",
   "articles": [
     {
       "title": "Big O",
       "href": "https://samwho.dev/big-o/",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
       "index": 1
     },
     {
@@ -33,49 +33,49 @@
       "title": "Retry Loop Retry",
       "href": "https://matklad.github.io/2025/08/23/retry-loop-retry.html",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              14 comments",
       "index": 5
     },
     {
       "title": "Materialized views are obviously useful",
       "href": "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              23 comments",
       "index": 6
+    },
+    {
+      "title": "Line scan camera image processing (train photography)",
+      "href": "https://daniel.lawrence.lu/blog/y2025m09d21/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 7
     },
     {
       "title": "Understanding Jujutsu bookmarks",
       "href": "https://neugierig.org/software/blog/2025/08/jj-bookmarks.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "microdot: The impossibly small web framework for Python and MicroPython",
       "href": "https://github.com/miguelgrinberg/microdot",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Lobsters Interview with Matklad",
       "href": "/s/ntruuu/lobsters_interview_with_matklad",
       "points": "",
       "comments": "\n              34 comments",
-      "index": 9
-    },
-    {
-      "title": "Line scan camera image processing (train photography)",
-      "href": "https://daniel.lawrence.lu/blog/y2025m09d21/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 10
     },
     {
       "title": "No, Google Did Not Unilaterally Decide to Kill XSLT",
       "href": "https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/",
       "points": "",
-      "comments": "\n              62 comments",
+      "comments": "\n              63 comments",
       "index": 11
     },
     {
@@ -93,17 +93,17 @@
       "index": 13
     },
     {
-      "title": "AI Chatbots Undermining the Enlightenment",
-      "href": "https://maggieappleton.com/ai-enlightenment",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
       "title": "io_uring, kTLS and Rust for zero syscall HTTPS server",
       "href": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 14
+    },
+    {
+      "title": "AI Chatbots Undermining the Enlightenment",
+      "href": "https://maggieappleton.com/ai-enlightenment",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
+      "title": "seed: Interactive software environment based on Common Lisp",
+      "href": "https://github.com/phantomics/seed",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Neural Nets vs. Cellular Automata",
+      "href": "https://www.nets-vs-automata.net/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
       "title": "I'm too dumb for Zig's new IO interface",
       "href": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "debdelta",
       "href": "https://debdelta.debian.net/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
+      "index": 20
     },
     {
       "title": "I Hacked Monster Energy and Uncovered Their Employee Training Material",
       "href": "https://bobdahacker.com/blog/monster-energy",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "The First MoQ CDN: Cloudflare",
       "href": "https://moq.dev/blog/first-cdn/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Developer's block",
       "href": "https://underlap.org/developers-block/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "TaMaRa: Towards a Triple Modular Redundancy Pass for Yosys",
       "href": "https://blog.yosyshq.com/p/tamara-towards-a-triple-modular-redundancy-pass-for-yosys/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Why Was Apache Kafka Created?",
       "href": "https://bigdatastream.substack.com/p/why-was-apache-kafka-created",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 23
-    },
-    {
-      "title": "bubbletea-rs: A rust implementation of Bubbletea",
-      "href": "https://github.com/whit3rabbit/bubbletea-rs",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 24
-    },
-    {
-      "title": "The 9 Go test assertions I use (and why)",
-      "href": "https://www.alexedwards.net/blog/the-9-go-test-assertions-i-use",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 25
     }
   ]
