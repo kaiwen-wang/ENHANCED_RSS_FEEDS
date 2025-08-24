@@ -1,18 +1,18 @@
 {
-  "date": "Saturday, August 23, 2025 at 6:15 PM GMT-5",
+  "date": "Saturday, August 23, 2025 at 8:45 PM GMT-5",
   "articles": [
     {
       "title": "Big O",
       "href": "https://samwho.dev/big-o/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              15 comments",
       "index": 1
     },
     {
       "title": "rue: A programming language that is a minimal subset of Rust",
       "href": "https://github.com/steveklabnik/rue",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              11 comments",
       "index": 2
     },
     {
@@ -23,24 +23,24 @@
       "index": 3
     },
     {
-      "title": "Retry Loop Retry",
-      "href": "https://matklad.github.io/2025/08/23/retry-loop-retry.html",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 4
-    },
-    {
       "title": "Optimizing FizzBuzz in Rust",
       "href": "https://github.com/nrposner/fizzcrate",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 4
+    },
+    {
+      "title": "Retry Loop Retry",
+      "href": "https://matklad.github.io/2025/08/23/retry-loop-retry.html",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 5
     },
     {
       "title": "Materialized views are obviously useful",
       "href": "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              20 comments",
       "index": 6
     },
     {
@@ -72,24 +72,24 @@
       "index": 10
     },
     {
+      "title": "SXO :: Optimized Server-Side JSX. Build Simple. Build Fast",
+      "href": "https://github.com/gc-victor/sxo",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 11
+    },
+    {
       "title": "WebR - R in the Browser",
       "href": "https://docs.r-wasm.org/webr/latest/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 11
+      "index": 12
     },
     {
       "title": "I'm too dumb for Zig's new IO interface",
       "href": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 12
-    },
-    {
-      "title": "SXO :: Optimized Server-Side JSX. Build Simple. Build Fast",
-      "href": "https://github.com/gc-victor/sxo",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "The First MoQ CDN: Cloudflare",
-      "href": "https://moq.dev/blog/first-cdn/",
+      "title": "Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU",
+      "href": "http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 15
     },
     {
       "title": "AI Chatbots Undermining the Enlightenment",
       "href": "https://maggieappleton.com/ai-enlightenment",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 16
+    },
+    {
+      "title": "The First MoQ CDN: Cloudflare",
+      "href": "https://moq.dev/blog/first-cdn/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 17
+    },
+    {
+      "title": "debdelta",
+      "href": "https://debdelta.debian.net/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 18
     },
     {
       "title": "Developer's block",
       "href": "https://underlap.org/developers-block/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "TaMaRa: Towards a Triple Modular Redundancy Pass for Yosys",
       "href": "https://blog.yosyshq.com/p/tamara-towards-a-triple-modular-redundancy-pass-for-yosys/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "bubbletea-rs: A rust implementation of Bubbletea",
       "href": "https://github.com/whit3rabbit/bubbletea-rs",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Why Was Apache Kafka Created?",
       "href": "https://bigdatastream.substack.com/p/why-was-apache-kafka-created",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "The 9 Go test assertions I use (and why)",
       "href": "https://www.alexedwards.net/blog/the-9-go-test-assertions-i-use",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 21
-    },
-    {
-      "title": "debdelta",
-      "href": "https://debdelta.debian.net/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "A string formatting library in 65 lines of C++",
       "href": "https://riki.house/fmt",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "nitro: a tiny but flexible init system and process supervisor",
       "href": "https://git.vuxu.org/nitro/about/",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 24
-    },
-    {
-      "title": "On the use of LLM assistants for kernel development",
-      "href": "https://lwn.net/Articles/1032612/",
-      "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              4 comments",
       "index": 25
     }
   ]
