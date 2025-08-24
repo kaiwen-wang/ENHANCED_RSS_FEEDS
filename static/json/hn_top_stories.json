@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, August 24, 2025 at 1:25 PM GMT-5",
+  "date": "Sunday, August 24, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Making games in Go: 3 months without LLMs vs. 3 days with LLMs",
       "href": "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/",
-      "points": "75 points",
-      "comments": "52 comments",
+      "points": "108 points",
+      "comments": "71 comments",
       "index": 1
+    },
+    {
+      "title": "Paracetamol disrupts early embryogenesis by cell cycle inhibition",
+      "href": "https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396",
+      "points": "18 points",
+      "comments": "4 comments",
+      "index": 2
     },
     {
       "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
       "href": "https://twitter.com/zack_overflow/status/1959308058200551721",
-      "points": "243 points",
-      "comments": "84 comments",
-      "index": 2
+      "points": "284 points",
+      "comments": "100 comments",
+      "index": 3
     },
     {
-      "title": "NASA's Juno mission leaves legacy of science at Jupiter",
-      "href": "https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/",
-      "points": "10 points",
-      "comments": "12 comments",
-      "index": 3
+      "title": "Show HN: My first game made with my homemade engine",
+      "href": "https://reprobate.site/",
+      "points": "14 points",
+      "comments": "1 comment",
+      "index": 4
     },
     {
       "title": "Show HN: Clearcam – Add AI object detection to your IP CCTV cameras",
       "href": "https://github.com/roryclear/clearcam",
-      "points": "107 points",
-      "comments": "39 comments",
-      "index": 4
+      "points": "120 points",
+      "comments": "40 comments",
+      "index": 5
+    },
+    {
+      "title": "NASA's Juno mission leaves legacy of science at Jupiter",
+      "href": "https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/",
+      "points": "19 points",
+      "comments": "16 comments",
+      "index": 6
     },
     {
       "title": "Trees on city streets cope with drought by drinking from leaky pipes",
       "href": "https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/",
-      "points": "61 points",
-      "comments": "24 comments",
-      "index": 5
-    },
-    {
-      "title": "Dynamically patch a Python function's source code at runtime",
-      "href": "https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/",
-      "points": "82 points",
-      "comments": "53 comments",
-      "index": 6
-    },
-    {
-      "title": "Update on my Racket exit",
-      "href": "https://blog.winny.tech/posts/update-on-my-racket-exit/",
-      "points": "12 points",
-      "comments": "8 comments",
+      "points": "80 points",
+      "comments": "39 comments",
       "index": 7
     },
     {
       "title": "Claim: GPT-5-pro can prove new interesting mathematics",
       "href": "https://twitter.com/SebastienBubeck/status/1958198661139009862",
-      "points": "42 points",
-      "comments": "10 comments",
+      "points": "63 points",
+      "comments": "31 comments",
       "index": 8
     },
     {
-      "title": "Will at centre of legal battle over Shakespeare’s home unearthed after 150 years",
-      "href": "https://www.theguardian.com/culture/2025/aug/21/will-at-centre-of-legal-battle-over-shakespeares-home-unearthed-after-150-years",
-      "points": "8 points",
-      "comments": "discuss",
+      "title": "Dynamically patch a Python function's source code at runtime",
+      "href": "https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/",
+      "points": "89 points",
+      "comments": "57 comments",
       "index": 9
     },
     {
-      "title": "Show HN: Bicyclopedia",
-      "href": "https://bicyclopedia.lemoing.ca/",
-      "points": "70 points",
-      "comments": "24 comments",
-      "index": 10
-    },
-    {
-      "title": "Spending too much time at airports",
-      "href": "https://thezvi.substack.com/p/spending-too-much-time-at-airports",
-      "points": "62 points",
-      "comments": "78 comments",
-      "index": 11
-    },
-    {
-      "title": "Burner Phone 101",
-      "href": "https://rebeccawilliams.info/burner-phone-101/",
-      "points": "97 points",
-      "comments": "22 comments",
-      "index": 12
-    },
-    {
-      "title": "How to build a coding agent",
-      "href": "https://ghuntley.com/agent/",
-      "points": "342 points",
-      "comments": "108 comments",
-      "index": 13
-    },
-    {
-      "title": "Materialized views are obviously useful",
-      "href": "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful",
-      "points": "37 points",
+      "title": "Building ultra cheap energy storage for solar PV",
+      "href": "https://austinvernon.substack.com/p/building-ultra-cheap-energy-storage",
+      "points": "41 points",
       "comments": "12 comments",
-      "index": 14
-    },
-    {
-      "title": "Don't pick weird subnets for embedded networks, use VRFs",
-      "href": "https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/",
-      "points": "47 points",
-      "comments": "14 comments",
-      "index": 15
-    },
-    {
-      "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
-      "href": "https://avi.im/blag/2025/sqlite-fsync/",
-      "points": "68 points",
-      "comments": "46 comments",
-      "index": 16
-    },
-    {
-      "title": "A German ISP changed their DNS to block my website",
-      "href": "https://lina.sh/blog/telefonica-sabotages-me",
-      "points": "619 points",
-      "comments": "327 comments",
-      "index": 17
+      "index": 10
     },
     {
       "title": "Cloudflare incident on August 21, 2025",
       "href": "https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/",
-      "points": "29 points",
-      "comments": "5 comments",
+      "points": "43 points",
+      "comments": "8 comments",
+      "index": 11
+    },
+    {
+      "title": "Update on my Racket exit",
+      "href": "https://blog.winny.tech/posts/update-on-my-racket-exit/",
+      "points": "16 points",
+      "comments": "11 comments",
+      "index": 12
+    },
+    {
+      "title": "Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?",
+      "href": "https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/",
+      "points": "93 points",
+      "comments": "38 comments",
+      "index": 13
+    },
+    {
+      "title": "Burner Phone 101",
+      "href": "https://rebeccawilliams.info/burner-phone-101/",
+      "points": "115 points",
+      "comments": "30 comments",
+      "index": 14
+    },
+    {
+      "title": "Show HN: Bicyclopedia",
+      "href": "https://bicyclopedia.lemoing.ca/",
+      "points": "81 points",
+      "comments": "25 comments",
+      "index": 15
+    },
+    {
+      "title": "How to build a coding agent",
+      "href": "https://ghuntley.com/agent/",
+      "points": "353 points",
+      "comments": "108 comments",
+      "index": 16
+    },
+    {
+      "title": "Don't pick weird subnets for embedded networks, use VRFs",
+      "href": "https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/",
+      "points": "54 points",
+      "comments": "15 comments",
+      "index": 17
+    },
+    {
+      "title": "Materialized views are obviously useful",
+      "href": "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful",
+      "points": "44 points",
+      "comments": "20 comments",
       "index": 18
     },
     {
-      "title": "We put a coding agent in a while loop",
-      "href": "https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md",
-      "points": "41 points",
-      "comments": "44 comments",
+      "title": "Will at centre of legal battle over Shakespeare’s home unearthed after 150 years",
+      "href": "https://www.theguardian.com/culture/2025/aug/21/will-at-centre-of-legal-battle-over-shakespeares-home-unearthed-after-150-years",
+      "points": "17 points",
+      "comments": "discuss",
       "index": 19
+    },
+    {
+      "title": "A German ISP changed their DNS to block my website",
+      "href": "https://lina.sh/blog/telefonica-sabotages-me",
+      "points": "638 points",
+      "comments": "336 comments",
+      "index": 20
+    },
+    {
+      "title": "Spending too much time at airports",
+      "href": "https://thezvi.substack.com/p/spending-too-much-time-at-airports",
+      "points": "68 points",
+      "comments": "96 comments",
+      "index": 21
     },
     {
       "title": "It is worth it to buy the fast CPU",
       "href": "https://blog.howardjohn.info/posts/buy-a-cpu/",
-      "points": "139 points",
-      "comments": "253 comments",
-      "index": 20
-    },
-    {
-      "title": "People stuck using ancient Windows computers",
-      "href": "https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers",
-      "points": "19 points",
-      "comments": "3 comments",
-      "index": 21
-    },
-    {
-      "title": "Seed: Interactive software environment based on Common Lisp",
-      "href": "https://github.com/phantomics/seed",
-      "points": "90 points",
-      "comments": "17 comments",
+      "points": "146 points",
+      "comments": "267 comments",
       "index": 22
-    },
-    {
-      "title": "The cost of interrupted work (2023)",
-      "href": "https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html",
-      "points": "244 points",
-      "comments": "163 comments",
-      "index": 23
-    },
-    {
-      "title": "Equal Earth – Political Wall Map (2018)",
-      "href": "https://equal-earth.com/index.html",
-      "points": "55 points",
-      "comments": "39 comments",
-      "index": 24
     },
     {
       "title": "Writing with LLM is not a shame",
       "href": "https://reflexions.florianernotte.be/post/ai-transparency/",
-      "points": "33 points",
-      "comments": "56 comments",
+      "points": "40 points",
+      "comments": "61 comments",
+      "index": 23
+    },
+    {
+      "title": "We put a coding agent in a while loop",
+      "href": "https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md",
+      "points": "46 points",
+      "comments": "49 comments",
+      "index": 24
+    },
+    {
+      "title": "People stuck using ancient Windows computers",
+      "href": "https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers",
+      "points": "25 points",
+      "comments": "8 comments",
       "index": 25
     },
     {
-      "title": "Y Combinator files brief supporting Epic Games",
-      "href": "https://www.macrumors.com/2025/08/21/y-combinator-epic-games-amicus-brief/",
-      "points": "34 points",
-      "comments": "3 comments",
+      "title": "Seed: Interactive software environment based on Common Lisp",
+      "href": "https://github.com/phantomics/seed",
+      "points": "91 points",
+      "comments": "18 comments",
       "index": 26
     },
     {
-      "title": "SSD-IQ: Uncovering the Hidden Side of SSD Performance [pdf]",
-      "href": "https://www.vldb.org/pvldb/vol18/p4295-haas.pdf",
-      "points": "36 points",
-      "comments": "14 comments",
+      "title": "The cost of interrupted work (2023)",
+      "href": "https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html",
+      "points": "245 points",
+      "comments": "172 comments",
       "index": 27
+    },
+    {
+      "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
+      "href": "https://avi.im/blag/2025/sqlite-fsync/",
+      "points": "72 points",
+      "comments": "55 comments",
+      "index": 28
+    },
+    {
+      "title": "Equal Earth – Political Wall Map (2018)",
+      "href": "https://equal-earth.com/index.html",
+      "points": "56 points",
+      "comments": "41 comments",
+      "index": 29
     },
     {
       "title": "Line scan camera image processing for train photography",
       "href": "https://daniel.lawrence.lu/blog/y2025m09d21/",
-      "points": "409 points",
-      "comments": "65 comments",
-      "index": 28
-    },
-    {
-      "title": "Valve Software handbook for new employees [pdf] (2012)",
-      "href": "https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf",
-      "points": "202 points",
-      "comments": "161 comments",
-      "index": 29
-    },
-    {
-      "title": "A short introduction to optimal transport and Wasserstein distance (2020)",
-      "href": "https://alexhwilliams.info/itsneuronalblog/2020/10/09/optimal-transport/",
-      "points": "32 points",
-      "comments": "4 comments",
+      "points": "413 points",
+      "comments": "66 comments",
       "index": 30
     }
   ]
