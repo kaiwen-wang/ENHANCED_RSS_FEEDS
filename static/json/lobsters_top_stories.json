@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, August 23, 2025 at 8:45 PM GMT-5",
+  "date": "Saturday, August 23, 2025 at 10:20 PM GMT-5",
   "articles": [
     {
       "title": "Big O",
@@ -16,31 +16,31 @@
       "index": 2
     },
     {
-      "title": "RFC 9839 and Bad Unicode",
-      "href": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 3
-    },
-    {
       "title": "Optimizing FizzBuzz in Rust",
       "href": "https://github.com/nrposner/fizzcrate",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 4
+      "index": 3
     },
     {
       "title": "Retry Loop Retry",
       "href": "https://matklad.github.io/2025/08/23/retry-loop-retry.html",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
+      "index": 4
+    },
+    {
+      "title": "RFC 9839 and Bad Unicode",
+      "href": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 5
     },
     {
       "title": "Materialized views are obviously useful",
       "href": "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              22 comments",
       "index": 6
     },
     {
@@ -65,31 +65,31 @@
       "index": 9
     },
     {
+      "title": "Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU",
+      "href": "http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
       "title": "No, Google Did Not Unilaterally Decide to Kill XSLT",
       "href": "https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/",
       "points": "",
-      "comments": "\n              54 comments",
-      "index": 10
+      "comments": "\n              59 comments",
+      "index": 11
     },
     {
       "title": "SXO :: Optimized Server-Side JSX. Build Simple. Build Fast",
       "href": "https://github.com/gc-victor/sxo",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "WebR - R in the Browser",
       "href": "https://docs.r-wasm.org/webr/latest/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "I'm too dumb for Zig's new IO interface",
-      "href": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/",
-      "points": "",
-      "comments": "\n              15 comments",
       "index": 13
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU",
-      "href": "http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html",
+      "title": "I'm too dumb for Zig's new IO interface",
+      "href": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              15 comments",
       "index": 15
     },
     {
