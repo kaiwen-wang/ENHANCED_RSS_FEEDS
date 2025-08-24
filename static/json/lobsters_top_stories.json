@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, August 24, 2025 at 11:20 AM GMT-5",
+  "date": "Sunday, August 24, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
@@ -9,59 +9,59 @@
       "index": 1
     },
     {
-      "title": "Secret Management on NixOS with sops-nix",
-      "href": "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 2
-    },
-    {
-      "title": "Big O",
-      "href": "https://samwho.dev/big-o/",
-      "points": "",
-      "comments": "\n              28 comments",
-      "index": 3
-    },
-    {
       "title": "Comparing nitro to runit",
       "href": "https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 4
+      "index": 2
     },
     {
-      "title": "What are you doing this weekend?",
-      "href": "/s/ayqmih/what_are_you_doing_this_weekend",
+      "title": "Secret Management on NixOS with sops-nix",
+      "href": "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 5
+      "comments": "\n              1 comment",
+      "index": 3
+    },
+    {
+      "title": "Good Vibes: A Claude-Code Case-Study",
+      "href": "https://taylor.town/diggit-000",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 4
     },
     {
       "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
       "href": "https://avi.im/blag/2025/sqlite-fsync/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 5
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/ayqmih/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              16 comments",
       "index": 6
+    },
+    {
+      "title": "Big O",
+      "href": "https://samwho.dev/big-o/",
+      "points": "",
+      "comments": "\n              29 comments",
+      "index": 7
+    },
+    {
+      "title": "SurrealDB is sacrificing data durability to make benchmarks look better",
+      "href": "https://blog.cf8.gg/surrealdbs-ch/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
     },
     {
       "title": "Line scan camera image processing (train photography)",
       "href": "https://daniel.lawrence.lu/blog/y2025m09d21/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 7
-    },
-    {
-      "title": "rue: A programming language that is a minimal subset of Rust",
-      "href": "https://github.com/steveklabnik/rue",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 8
-    },
-    {
-      "title": "Optimizing FizzBuzz in Rust",
-      "href": "https://github.com/nrposner/fizzcrate",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 9
     },
     {
@@ -72,80 +72,80 @@
       "index": 10
     },
     {
-      "title": "Good Vibes: A Claude-Code Case-Study",
-      "href": "https://taylor.town/diggit-000",
+      "title": "Optimizing FizzBuzz in Rust",
+      "href": "https://github.com/nrposner/fizzcrate",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              5 comments",
       "index": 11
     },
     {
-      "title": "SurrealDB is sacrificing data durability to make benchmarks look better",
-      "href": "https://blog.cf8.gg/surrealdbs-ch/",
+      "title": "rue: A programming language that is a minimal subset of Rust",
+      "href": "https://github.com/steveklabnik/rue",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 12
+    },
+    {
+      "title": "Which Programming Language Should I Teach First?",
+      "href": "https://parentheticallyspeaking.org/articles/first-language-wrong-question/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Interview with Jon Corbett: Cree#, Ancestral Code, and an Indigenous Computing Framework",
       "href": "https://esoteric.codes/blog/jon-corbett",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "A Fast Bytecode VM for Arithmetic: The Compiler",
-      "href": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 14
-    },
-    {
-      "title": "Retry Loop Retry",
-      "href": "https://matklad.github.io/2025/08/23/retry-loop-retry.html",
-      "points": "",
-      "comments": "\n              27 comments",
-      "index": 15
-    },
-    {
-      "title": "RFC 9839 and Bad Unicode",
-      "href": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 16
     },
     {
       "title": "how to build a coding agent",
       "href": "https://ghuntley.com/agent/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 17
+      "index": 15
     },
     {
       "title": "seed: Interactive software environment based on Common Lisp",
       "href": "https://github.com/phantomics/seed",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
+      "index": 16
+    },
+    {
+      "title": "A Fast Bytecode VM for Arithmetic: The Compiler",
+      "href": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 17
+    },
+    {
+      "title": "Retry Loop Retry",
+      "href": "https://matklad.github.io/2025/08/23/retry-loop-retry.html",
+      "points": "",
+      "comments": "\n              28 comments",
       "index": 18
+    },
+    {
+      "title": "RFC 9839 and Bad Unicode",
+      "href": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 19
+    },
+    {
+      "title": "Introducing Zod Codecs",
+      "href": "https://colinhacks.com/essays/introducing-zod-codecs",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "The Great Giana Sisters (COMMODORE 64)",
       "href": "http://retrovania-vgjunk.blogspot.com/2017/08/the-great-giana-sisters-commodore-64.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Materialized views are obviously useful",
-      "href": "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful",
-      "points": "",
-      "comments": "\n              34 comments",
-      "index": 20
-    },
-    {
-      "title": "Understanding Jujutsu bookmarks",
-      "href": "https://neugierig.org/software/blog/2025/08/jj-bookmarks.html",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 21
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
+      "title": "Materialized views are obviously useful",
+      "href": "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful",
+      "points": "",
+      "comments": "\n              34 comments",
+      "index": 23
+    },
+    {
+      "title": "Understanding Jujutsu bookmarks",
+      "href": "https://neugierig.org/software/blog/2025/08/jj-bookmarks.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 24
+    },
+    {
       "title": "Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU",
       "href": "http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "microdot: The impossibly small web framework for Python and MicroPython",
-      "href": "https://github.com/miguelgrinberg/microdot",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "debdelta",
-      "href": "https://debdelta.debian.net/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
