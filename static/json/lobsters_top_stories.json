@@ -1,25 +1,25 @@
 {
-  "date": "Monday, August 25, 2025 at 11:25 AM GMT-5",
+  "date": "Monday, August 25, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "Why I Read Technical Books",
       "href": "https://ratfactor.com/b/technical-books",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              11 comments",
       "index": 1
     },
     {
       "title": "Bro, ban me at the IP level if you don't like me",
       "href": "https://boston.conman.org/2025/08/21.1",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              11 comments",
       "index": 2
     },
     {
       "title": "What are OKLCH colors?",
       "href": "https://jakub.kr/components/oklch-colors",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 3
     },
     {
@@ -33,14 +33,14 @@
       "title": "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
       "href": "https://github.com/DavidBuchanan314/anubis_offload",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              13 comments",
       "index": 5
     },
     {
-      "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
-      "href": "https://lina.sh/blog/telefonica-sabotages-me",
+      "title": "macOS dotfiles should not go in ~/Library/Application Support",
+      "href": "https://becca.ooo/blog/macos-dotfiles/",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              4 comments",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
+      "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
+      "href": "https://lina.sh/blog/telefonica-sabotages-me",
+      "points": "",
+      "comments": "\n              27 comments",
+      "index": 8
+    },
+    {
       "title": "ghrc.io Appears to be Malicious",
       "href": "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 8
-    },
-    {
-      "title": "macOS dotfiles should not go in ~/Library/Application Support",
-      "href": "https://becca.ooo/blog/macos-dotfiles/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 9
     },
     {
@@ -86,94 +86,94 @@
       "index": 12
     },
     {
-      "title": "Don't pick weird subnets for embedded networks, use VRFs",
-      "href": "https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/",
+      "title": "teletext in north america",
+      "href": "https://computer.rip/2025-08-25-teletext-in-north-america.html",
       "points": "",
       "comments": "\n              1 comment",
       "index": 13
     },
     {
-      "title": "teletext in north america",
-      "href": "https://computer.rip/2025-08-25-teletext-in-north-america.html",
+      "title": "Don't pick weird subnets for embedded networks, use VRFs",
+      "href": "https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 14
-    },
-    {
-      "title": "Linear scan with lifetime holes",
-      "href": "https://bernsteinbear.com/blog/linear-scan-lifetime-holes/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 15
-    },
-    {
-      "title": "Once Upon a Pipe in the West: A working adapter from HDMI to Gardena",
-      "href": "https://jhauser.de/once-upon-a-pipe-in-the-west-hdmi-gardena",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Regular Expression Matching Can Be Simple And Fast (2007)",
-      "href": "https://swtch.com/~rsc/regexp/regexp1.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "Which Programming Language Should I Teach First?",
-      "href": "https://parentheticallyspeaking.org/articles/first-language-wrong-question/",
-      "points": "",
-      "comments": "\n              22 comments",
-      "index": 18
-    },
-    {
-      "title": "How much power does gzip save on IoT web access?",
-      "href": "https://bitbanksoftware.blogspot.com/2025/06/how-much-power-does-gzip-save-on-iot.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
-    },
-    {
-      "title": "Sharing is Scaring: Why is Cloud File-Sharing Hard?",
-      "href": "https://blog.brownplt.org/2025/08/25/cloud-sharing.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
     },
     {
       "title": "Making Software: What is a color space?",
       "href": "https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Regular Expression Matching Can Be Simple And Fast (2007)",
+      "href": "https://swtch.com/~rsc/regexp/regexp1.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
+      "title": "Linear scan with lifetime holes",
+      "href": "https://bernsteinbear.com/blog/linear-scan-lifetime-holes/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
+      "title": "Once Upon a Pipe in the West: A working adapter from HDMI to Gardena",
+      "href": "https://jhauser.de/once-upon-a-pipe-in-the-west-hdmi-gardena",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Which Programming Language Should I Teach First?",
+      "href": "https://parentheticallyspeaking.org/articles/first-language-wrong-question/",
+      "points": "",
+      "comments": "\n              23 comments",
+      "index": 19
+    },
+    {
+      "title": "How much power does gzip save on IoT web access?",
+      "href": "https://bitbanksoftware.blogspot.com/2025/06/how-much-power-does-gzip-save-on-iot.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 20
+    },
+    {
+      "title": "Barking Up The Ratchet Tree – MLS Is Neither Royal Nor Nude",
+      "href": "https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
+    },
+    {
+      "title": "Sharing is Scaring: Why is Cloud File-Sharing Hard?",
+      "href": "https://blog.brownplt.org/2025/08/25/cloud-sharing.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Tag Suggestion: scraping",
       "href": "/s/ljjpmg/tag_suggestion_scraping",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Secret Management on NixOS with sops-nix",
       "href": "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
       "href": "https://avi.im/blag/2025/sqlite-fsync/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 24
-    },
-    {
-      "title": "Introducing Zod Codecs",
-      "href": "https://colinhacks.com/essays/introducing-zod-codecs",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 25
     }
   ]
