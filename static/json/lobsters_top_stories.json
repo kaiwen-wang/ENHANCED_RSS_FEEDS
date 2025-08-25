@@ -1,32 +1,32 @@
 {
-  "date": "Monday, August 25, 2025 at 4:20 AM GMT-5",
+  "date": "Monday, August 25, 2025 at 5:20 AM GMT-5",
   "articles": [
-    {
-      "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
-      "href": "https://lina.sh/blog/telefonica-sabotages-me",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 1
-    },
     {
       "title": "Bro, ban me at the IP level if you don't like me",
       "href": "https://boston.conman.org/2025/08/21.1",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 1
+    },
+    {
+      "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
+      "href": "https://lina.sh/blog/telefonica-sabotages-me",
+      "points": "",
+      "comments": "\n              21 comments",
       "index": 2
     },
     {
       "title": "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
       "href": "https://github.com/DavidBuchanan314/anubis_offload",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 3
     },
     {
       "title": "ghrc.io Appears to be Malicious",
       "href": "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 4
     },
     {
@@ -40,28 +40,28 @@
       "title": "I Don't Like Imports",
       "href": "https://kevincox.ca/2025/07/20/no-imports/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              20 comments",
       "index": 6
-    },
-    {
-      "title": "Linear scan with lifetime holes",
-      "href": "https://bernsteinbear.com/blog/linear-scan-lifetime-holes/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 7
     },
     {
       "title": "Which Programming Language Should I Teach First?",
       "href": "https://parentheticallyspeaking.org/articles/first-language-wrong-question/",
       "points": "",
       "comments": "\n              16 comments",
+      "index": 7
+    },
+    {
+      "title": "Regular Expression Matching Can Be Simple And Fast (2007)",
+      "href": "https://swtch.com/~rsc/regexp/regexp1.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 8
     },
     {
-      "title": "Good Vibes: A Claude-Code Case-Study",
-      "href": "https://taylor.town/diggit-000",
+      "title": "What are you doing this week?",
+      "href": "/s/yskpd6/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              1 comment",
       "index": 9
     },
     {
@@ -72,38 +72,38 @@
       "index": 10
     },
     {
-      "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
-      "href": "https://avi.im/blag/2025/sqlite-fsync/",
+      "title": "Linear scan with lifetime holes",
+      "href": "https://bernsteinbear.com/blog/linear-scan-lifetime-holes/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 11
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/yskpd6/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
     },
     {
       "title": "Don't pick weird subnets for embedded networks, use VRFs",
       "href": "https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Good Vibes: A Claude-Code Case-Study",
+      "href": "https://taylor.town/diggit-000",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 13
     },
     {
-      "title": "SurrealDB is sacrificing data durability to make benchmarks look better",
-      "href": "https://blog.cf8.gg/surrealdbs-ch/",
+      "title": "Why I Read Technical Books",
+      "href": "https://ratfactor.com/b/technical-books",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 14
     },
     {
-      "title": "Regular Expression Matching Can Be Simple And Fast (2007)",
-      "href": "https://swtch.com/~rsc/regexp/regexp1.html",
+      "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
+      "href": "https://avi.im/blag/2025/sqlite-fsync/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              5 comments",
       "index": 15
     },
     {
@@ -114,15 +114,15 @@
       "index": 16
     },
     {
-      "title": "Automating Pre-Push Checks with Jujutsu",
-      "href": "https://www.aazuspan.dev/blog/automating-pre-push-checks-with-jujutsu/",
+      "title": "SurrealDB is sacrificing data durability to make benchmarks look better",
+      "href": "https://blog.cf8.gg/surrealdbs-ch/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 17
     },
     {
-      "title": "kruci: Post-mortem of a UI library",
-      "href": "https://pwy.io/posts/kruci-post-mortem/",
+      "title": "ElasticSearch API compatibility | FlowG",
+      "href": "https://link-society.github.io/flowg/blog/elasticsearch-compatibility",
       "points": "",
       "comments": "\n              no comments",
       "index": 18
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "kruci: Post-mortem of a UI library",
+      "href": "https://pwy.io/posts/kruci-post-mortem/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Automating Pre-Push Checks with Jujutsu",
+      "href": "https://www.aazuspan.dev/blog/automating-pre-push-checks-with-jujutsu/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
       "title": "Update on my Racket exit",
       "href": "https://blog.winny.tech/posts/update-on-my-racket-exit/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 20
+      "index": 22
     },
     {
-      "title": "Mario 64 wastes so much memory",
-      "href": "https://youtu.be/oZcbgNdWL7w",
+      "title": "Tag Suggestion: scraping",
+      "href": "/s/ljjpmg/tag_suggestion_scraping",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "A Fast Bytecode VM for Arithmetic: The Compiler",
       "href": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
-    },
-    {
-      "title": "Why I Read Technical Books",
-      "href": "https://ratfactor.com/b/technical-books",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/ayqmih/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              25 comments",
       "index": 24
     },
     {
-      "title": "About containers and VMs",
-      "href": "https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/",
+      "title": "Mario 64 wastes so much memory",
+      "href": "https://youtu.be/oZcbgNdWL7w",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
