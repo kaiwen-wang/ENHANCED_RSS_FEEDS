@@ -1,11 +1,11 @@
 {
-  "date": "Monday, August 25, 2025 at 3:30 AM GMT-5",
+  "date": "Monday, August 25, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
       "href": "https://lina.sh/blog/telefonica-sabotages-me",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 1
     },
     {
@@ -19,161 +19,161 @@
       "title": "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
       "href": "https://github.com/DavidBuchanan314/anubis_offload",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 3
-    },
-    {
-      "title": "Comparing nitro to runit",
-      "href": "https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 4
     },
     {
       "title": "ghrc.io Appears to be Malicious",
       "href": "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
+      "index": 4
+    },
+    {
+      "title": "Comparing nitro to runit",
+      "href": "https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 5
     },
     {
       "title": "I Don't Like Imports",
       "href": "https://kevincox.ca/2025/07/20/no-imports/",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
       "index": 6
-    },
-    {
-      "title": "Secret Management on NixOS with sops-nix",
-      "href": "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 7
-    },
-    {
-      "title": "Good Vibes: A Claude-Code Case-Study",
-      "href": "https://taylor.town/diggit-000",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 8
-    },
-    {
-      "title": "Which Programming Language Should I Teach First?",
-      "href": "https://parentheticallyspeaking.org/articles/first-language-wrong-question/",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 9
-    },
-    {
-      "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
-      "href": "https://avi.im/blag/2025/sqlite-fsync/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 10
     },
     {
       "title": "Linear scan with lifetime holes",
       "href": "https://bernsteinbear.com/blog/linear-scan-lifetime-holes/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "Which Programming Language Should I Teach First?",
+      "href": "https://parentheticallyspeaking.org/articles/first-language-wrong-question/",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 8
+    },
+    {
+      "title": "Good Vibes: A Claude-Code Case-Study",
+      "href": "https://taylor.town/diggit-000",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 9
+    },
+    {
+      "title": "Secret Management on NixOS with sops-nix",
+      "href": "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 10
+    },
+    {
+      "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
+      "href": "https://avi.im/blag/2025/sqlite-fsync/",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 11
     },
     {
-      "title": "SurrealDB is sacrificing data durability to make benchmarks look better",
-      "href": "https://blog.cf8.gg/surrealdbs-ch/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 12
-    },
-    {
-      "title": "Regular Expression Matching Can Be Simple And Fast (2007)",
-      "href": "https://swtch.com/~rsc/regexp/regexp1.html",
+      "title": "What are you doing this week?",
+      "href": "/s/yskpd6/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "Introducing Zod Codecs",
-      "href": "https://colinhacks.com/essays/introducing-zod-codecs",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 14
+      "index": 12
     },
     {
       "title": "Don't pick weird subnets for embedded networks, use VRFs",
       "href": "https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "SurrealDB is sacrificing data durability to make benchmarks look better",
+      "href": "https://blog.cf8.gg/surrealdbs-ch/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 14
+    },
+    {
+      "title": "Regular Expression Matching Can Be Simple And Fast (2007)",
+      "href": "https://swtch.com/~rsc/regexp/regexp1.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 15
+    },
+    {
+      "title": "Introducing Zod Codecs",
+      "href": "https://colinhacks.com/essays/introducing-zod-codecs",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 16
     },
     {
       "title": "Automating Pre-Push Checks with Jujutsu",
       "href": "https://www.aazuspan.dev/blog/automating-pre-push-checks-with-jujutsu/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
+      "index": 17
     },
     {
       "title": "kruci: Post-mortem of a UI library",
       "href": "https://pwy.io/posts/kruci-post-mortem/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Once Upon a Pipe in the West: A working adapter from HDMI to Gardena | jhauser.de",
       "href": "https://jhauser.de/once-upon-a-pipe-in-the-west-hdmi-gardena",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Update on my Racket exit",
       "href": "https://blog.winny.tech/posts/update-on-my-racket-exit/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Mario 64 wastes so much memory",
       "href": "https://youtu.be/oZcbgNdWL7w",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "A Fast Bytecode VM for Arithmetic: The Compiler",
       "href": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "Why I Read Technical Books",
+      "href": "https://ratfactor.com/b/technical-books",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/ayqmih/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              24 comments",
-      "index": 22
+      "comments": "\n              25 comments",
+      "index": 24
     },
     {
       "title": "About containers and VMs",
       "href": "https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 23
-    },
-    {
-      "title": "Interview with Jon Corbett: Cree#, Ancestral Code, and an Indigenous Computing Framework",
-      "href": "https://esoteric.codes/blog/jon-corbett",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "Line scan camera image processing (train photography)",
-      "href": "https://daniel.lawrence.lu/blog/y2025m09d21/",
-      "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 25
     }
   ]
