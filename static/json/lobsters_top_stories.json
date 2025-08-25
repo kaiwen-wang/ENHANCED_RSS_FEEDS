@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, August 24, 2025 at 8:40 PM GMT-5",
+  "date": "Sunday, August 24, 2025 at 10:15 PM GMT-5",
   "articles": [
     {
       "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
       "href": "https://lina.sh/blog/telefonica-sabotages-me",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              13 comments",
       "index": 1
     },
     {
@@ -26,7 +26,7 @@
       "title": "I Don't Like Imports",
       "href": "https://kevincox.ca/2025/07/20/no-imports/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 4
     },
     {
@@ -37,31 +37,31 @@
       "index": 5
     },
     {
+      "title": "Which Programming Language Should I Teach First?",
+      "href": "https://parentheticallyspeaking.org/articles/first-language-wrong-question/",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 6
+    },
+    {
       "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
       "href": "https://avi.im/blag/2025/sqlite-fsync/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Secret Management on NixOS with sops-nix",
       "href": "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 7
+      "index": 8
     },
     {
       "title": "SurrealDB is sacrificing data durability to make benchmarks look better",
       "href": "https://blog.cf8.gg/surrealdbs-ch/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 8
-    },
-    {
-      "title": "Which Programming Language Should I Teach First?",
-      "href": "https://parentheticallyspeaking.org/articles/first-language-wrong-question/",
-      "points": "",
-      "comments": "\n              10 comments",
       "index": 9
     },
     {
@@ -72,17 +72,17 @@
       "index": 10
     },
     {
+      "title": "Linear scan with lifetime holes",
+      "href": "https://bernsteinbear.com/blog/linear-scan-lifetime-holes/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
       "title": "Update on my Racket exit",
       "href": "https://blog.winny.tech/posts/update-on-my-racket-exit/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 11
-    },
-    {
-      "title": "Automating Pre-Push Checks with Jujutsu",
-      "href": "https://www.aazuspan.dev/blog/automating-pre-push-checks-with-jujutsu/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 12
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
-      "title": "What are you doing this weekend?",
-      "href": "/s/ayqmih/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              23 comments",
-      "index": 14
-    },
-    {
       "title": "Introducing Zod Codecs",
       "href": "https://colinhacks.com/essays/introducing-zod-codecs",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
+      "title": "Automating Pre-Push Checks with Jujutsu",
+      "href": "https://www.aazuspan.dev/blog/automating-pre-push-checks-with-jujutsu/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 15
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/ayqmih/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              23 comments",
+      "index": 16
     },
     {
       "title": "Interview with Jon Corbett: Cree#, Ancestral Code, and an Indigenous Computing Framework",
       "href": "https://esoteric.codes/blog/jon-corbett",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
+      "index": 17
     },
     {
       "title": "A Fast Bytecode VM for Arithmetic: The Compiler",
       "href": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Big O",
       "href": "https://samwho.dev/big-o/",
       "points": "",
       "comments": "\n              29 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Line scan camera image processing (train photography)",
       "href": "https://daniel.lawrence.lu/blog/y2025m09d21/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 20
     },
     {
       "title": "how to build a coding agent",
       "href": "https://ghuntley.com/agent/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 20
-    },
-    {
-      "title": "frogmouth: A Markdown browser for your terminal",
-      "href": "https://github.com/Textualize/frogmouth",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              6 comments",
       "index": 21
-    },
-    {
-      "title": "Optimizing FizzBuzz in Rust",
-      "href": "https://github.com/nrposner/fizzcrate",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 22
-    },
-    {
-      "title": "I Hacked Monster Energy and Uncovered Their Employee Training Material",
-      "href": "https://bobdahacker.com/blog/monster-energy",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 23
     },
     {
       "title": "True names matter in C++",
       "href": "https://quuxplusone.github.io/blog/2025/08/01/true-names/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "frogmouth: A Markdown browser for your terminal",
+      "href": "https://github.com/Textualize/frogmouth",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Optimizing FizzBuzz in Rust",
+      "href": "https://github.com/nrposner/fizzcrate",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 24
     },
     {
-      "title": "rue: A programming language that is a minimal subset of Rust",
-      "href": "https://github.com/steveklabnik/rue",
+      "title": "I Hacked Monster Energy and Uncovered Their Employee Training Material",
+      "href": "https://bobdahacker.com/blog/monster-energy",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              11 comments",
       "index": 25
     }
   ]
