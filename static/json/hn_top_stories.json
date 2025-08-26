@@ -1,214 +1,214 @@
 {
-  "date": "Tuesday, August 26, 2025 at 1:30 AM GMT-5",
+  "date": "Tuesday, August 26, 2025 at 2:20 AM GMT-5",
   "articles": [
-    {
-      "title": "macOS dotfiles should not go in –/Library/Application Support",
-      "href": "https://becca.ooo/blog/macos-dotfiles/",
-      "points": "77 points",
-      "comments": "31 comments",
-      "index": 1
-    },
     {
       "title": "Google will allow only apps from verified developers to be installed on Android",
       "href": "https://9to5google.com/2025/08/25/android-apps-developer-verification/",
-      "points": "1457 points",
-      "comments": "1097 comments",
-      "index": 2
+      "points": "1589 points",
+      "comments": "1167 comments",
+      "index": 1
     },
     {
-      "title": "A bug saved the company",
-      "href": "https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/",
-      "points": "46 points",
-      "comments": "10 comments",
-      "index": 3
+      "title": "macOS dotfiles should not go in –/Library/Application Support",
+      "href": "https://becca.ooo/blog/macos-dotfiles/",
+      "points": "105 points",
+      "comments": "50 comments",
+      "index": 2
     },
     {
       "title": "Will Smith's concert crowds are real, but AI is blurring the lines",
       "href": "https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/",
-      "points": "38 points",
-      "comments": "10 comments",
+      "points": "83 points",
+      "comments": "34 comments",
+      "index": 3
+    },
+    {
+      "title": "A bug saved the company",
+      "href": "https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/",
+      "points": "71 points",
+      "comments": "21 comments",
       "index": 4
     },
     {
       "title": "Google's Liquid Cooling",
       "href": "https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips",
-      "points": "306 points",
-      "comments": "125 comments",
+      "points": "312 points",
+      "comments": "128 comments",
       "index": 5
     },
     {
       "title": "The Limits of NTP Accuracy on Linux",
       "href": "https://scottstuff.net/posts/2025/05/19/ntp-limits/",
-      "points": "72 points",
-      "comments": "15 comments",
+      "points": "80 points",
+      "comments": "20 comments",
       "index": 6
+    },
+    {
+      "title": "Interactive Map of Paul's First Century Travels in Roman World",
+      "href": "https://www.intofarlands.com/map-of-pauls-journeys",
+      "points": "5 points",
+      "comments": "1 comment",
+      "index": 7
     },
     {
       "title": "Show HN: Base, an SQLite database editor for macOS",
       "href": "https://menial.co.uk/base/",
-      "points": "577 points",
-      "comments": "148 comments",
-      "index": 7
+      "points": "586 points",
+      "comments": "151 comments",
+      "index": 8
     },
     {
       "title": "A visual introduction to big O notation",
       "href": "https://samwho.dev/big-o/",
-      "points": "431 points",
-      "comments": "137 comments",
-      "index": 8
-    },
-    {
-      "title": "Climbing catfish filmed scaling waterfalls",
-      "href": "https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls",
-      "points": "64 points",
-      "comments": "3 comments",
+      "points": "451 points",
+      "comments": "140 comments",
       "index": 9
     },
     {
-      "title": "Capture Checking in Scala",
-      "href": "https://nrinaudo.github.io/articles/capture_checking.html",
-      "points": "32 points",
-      "comments": "discuss",
+      "title": "Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS",
+      "href": "https://github.com/pandax381/xv6-riscv-net",
+      "points": "5 points",
+      "comments": "1 comment",
       "index": 10
     },
     {
       "title": "The Annotated Transformer (2022)",
       "href": "https://nlp.seas.harvard.edu/annotated-transformer/",
-      "points": "126 points",
+      "points": "135 points",
       "comments": "11 comments",
       "index": 11
     },
     {
-      "title": "WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi",
-      "href": "https://github.com/MaliosDark/wifi-3d-fusion",
-      "points": "84 points",
-      "comments": "21 comments",
+      "title": "Memory optimizations to reduce CPU costs",
+      "href": "https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs",
+      "points": "11 points",
+      "comments": "2 comments",
       "index": 12
+    },
+    {
+      "title": "Capture Checking in Scala",
+      "href": "https://nrinaudo.github.io/articles/capture_checking.html",
+      "points": "37 points",
+      "comments": "2 comments",
+      "index": 13
+    },
+    {
+      "title": "Climbing catfish filmed scaling waterfalls",
+      "href": "https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls",
+      "points": "72 points",
+      "comments": "3 comments",
+      "index": 14
     },
     {
       "title": "Neural Nets vs. Cellular Automata",
       "href": "https://www.nets-vs-automata.net/",
-      "points": "25 points",
+      "points": "32 points",
       "comments": "1 comment",
-      "index": 13
-    },
-    {
-      "title": "Memory optimizations to reduce CPU costs",
-      "href": "https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs",
-      "points": "5 points",
-      "comments": "1 comment",
-      "index": 14
-    },
-    {
-      "title": "How RubyGems.org protects OSS infrastructure",
-      "href": "https://blog.rubygems.org/2025/08/25/rubygems-security-response.html",
-      "points": "107 points",
-      "comments": "25 comments",
       "index": 15
+    },
+    {
+      "title": "WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi",
+      "href": "https://github.com/MaliosDark/wifi-3d-fusion",
+      "points": "89 points",
+      "comments": "22 comments",
+      "index": 16
     },
     {
       "title": "macOS 26 Tahoe's Dead Canary Utility App Icons",
       "href": "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons",
-      "points": "242 points",
-      "comments": "95 comments",
-      "index": 16
+      "points": "269 points",
+      "comments": "105 comments",
+      "index": 17
+    },
+    {
+      "title": "How RubyGems.org protects OSS infrastructure",
+      "href": "https://blog.rubygems.org/2025/08/25/rubygems-security-response.html",
+      "points": "112 points",
+      "comments": "25 comments",
+      "index": 18
     },
     {
       "title": "DeepWiki: Understand Any Codebase",
       "href": "https://www.aitidbits.ai/p/deepwiki",
-      "points": "144 points",
-      "comments": "21 comments",
-      "index": 17
+      "points": "152 points",
+      "comments": "23 comments",
+      "index": 19
+    },
+    {
+      "title": "Reverse Engineering All the Raspberry Pis",
+      "href": "https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis",
+      "points": "73 points",
+      "comments": "13 comments",
+      "index": 20
     },
     {
       "title": "Launch HN: April (YC S25) – Voice AI to manage your email and calendar",
       "href": "item?id=45015230",
       "points": "84 points",
       "comments": "88 comments",
-      "index": 18
-    },
-    {
-      "title": "Reverse Engineering All the Raspberry Pis",
-      "href": "https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis",
-      "points": "67 points",
-      "comments": "9 comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Turning a Decommissioned iPhone into a UniFi Protect Camera",
       "href": "https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera",
-      "points": "82 points",
+      "points": "85 points",
       "comments": "32 comments",
-      "index": 20
+      "index": 22
     },
     {
-      "title": "Multi-Path TCP: revolutionizing connectivity, one path at a time",
-      "href": "https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/",
-      "points": "16 points",
-      "comments": "3 comments",
-      "index": 21
+      "title": "The Physics of Parabolic Microphones: Frequency Dependence of Gain",
+      "href": "https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 23
     },
     {
       "title": "Ask HN: Why hasn't x86 caught up with Apple M series?",
       "href": "item?id=45019483",
-      "points": "79 points",
-      "comments": "69 comments",
-      "index": 22
+      "points": "98 points",
+      "comments": "111 comments",
+      "index": 24
     },
     {
       "title": "Fenster: Most minimal cross-platform GUI library",
       "href": "https://github.com/zserge/fenster",
-      "points": "88 points",
-      "comments": "19 comments",
-      "index": 23
+      "points": "91 points",
+      "comments": "21 comments",
+      "index": 25
     },
     {
       "title": "A small change to improve browsers for keyboard navigation",
       "href": "https://b.43z.one/2025-07-22/",
-      "points": "176 points",
-      "comments": "57 comments",
-      "index": 24
-    },
-    {
-      "title": "Building the mouse Logitech won't make",
-      "href": "https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods",
-      "points": "397 points",
-      "comments": "280 comments",
-      "index": 25
-    },
-    {
-      "title": "Show HN: Timep – A next-gen profiler and flamegraph-generator for bash code",
-      "href": "https://github.com/jkool702/timep",
-      "points": "33 points",
-      "comments": "4 comments",
+      "points": "178 points",
+      "comments": "58 comments",
       "index": 26
     },
     {
-      "title": "Mob Programming (2018)",
-      "href": "https://mobprogramming.org/",
-      "points": "15 points",
-      "comments": "15 comments",
+      "title": "Multi-Path TCP: revolutionizing connectivity, one path at a time",
+      "href": "https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/",
+      "points": "18 points",
+      "comments": "4 comments",
       "index": 27
     },
     {
       "title": "What is a color space?",
       "href": "https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts",
-      "points": "198 points",
+      "points": "202 points",
       "comments": "37 comments",
       "index": 28
     },
     {
-      "title": "Blacksky grew to millions of users without spending a dollar",
-      "href": "https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of",
-      "points": "176 points",
-      "comments": "158 comments",
+      "title": "Mob Programming (2018)",
+      "href": "https://mobprogramming.org/",
+      "points": "18 points",
+      "comments": "17 comments",
       "index": 29
     },
     {
-      "title": "Playing every game of Wordle simultaneously",
-      "href": "https://chriskw.xyz/2025/08/24/Hyper-Wordle/",
-      "points": "59 points",
-      "comments": "20 comments",
+      "title": "Show HN: Timep – A next-gen profiler and flamegraph-generator for bash code",
+      "href": "https://github.com/jkool702/timep",
+      "points": "35 points",
+      "comments": "4 comments",
       "index": 30
     }
   ]
