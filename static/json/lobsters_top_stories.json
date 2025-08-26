@@ -1,100 +1,100 @@
 {
-  "date": "Tuesday, August 26, 2025 at 4:20 AM GMT-5",
+  "date": "Tuesday, August 26, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "Google wants to make sideloading Android apps safer by verifying developers’ identities",
       "href": "https://www.androidauthority.com/android-developer-verification-requirements-3590911/",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              31 comments",
       "index": 1
     },
     {
       "title": "Why I Read Technical Books",
       "href": "https://ratfactor.com/b/technical-books",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
       "index": 2
-    },
-    {
-      "title": "macOS dotfiles should not go in ~/Library/Application Support",
-      "href": "https://becca.ooo/blog/macos-dotfiles/",
-      "points": "",
-      "comments": "\n              35 comments",
-      "index": 3
     },
     {
       "title": "Xz format inadequate for general use",
       "href": "https://www.nongnu.org/lzip/xz_inadequate.html",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              12 comments",
+      "index": 3
+    },
+    {
+      "title": "macOS dotfiles should not go in ~/Library/Application Support",
+      "href": "https://becca.ooo/blog/macos-dotfiles/",
+      "points": "",
+      "comments": "\n              36 comments",
       "index": 4
     },
     {
       "title": "Bro, ban me at the IP level if you don't like me",
       "href": "https://boston.conman.org/2025/08/21.1",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              31 comments",
       "index": 5
     },
     {
       "title": "Who's Afraid of a Hard Page Load?",
       "href": "https://unplannedobsolescence.com/blog/hard-page-load/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 6
     },
     {
       "title": "What are OKLCH colors?",
       "href": "https://jakub.kr/components/oklch-colors",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 7
-    },
-    {
-      "title": "The Limits of NTP Accuracy on Linux",
-      "href": "https://scottstuff.net/posts/2025/05/19/ntp-limits/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 8
     },
     {
       "title": "rv, a new kind of Ruby management tool",
       "href": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
+      "title": "The Limits of NTP Accuracy on Linux",
+      "href": "https://scottstuff.net/posts/2025/05/19/ntp-limits/",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 9
+    },
+    {
+      "title": "Inside Windows 3",
+      "href": "https://www.xtof.info/inside-windows3.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
     },
     {
       "title": "Nullable vs nullable in C#",
       "href": "https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 10
-    },
-    {
-      "title": "Inside Windows 3",
-      "href": "https://www.xtof.info/inside-windows3.html",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 11
     },
     {
       "title": "Prediction-Encoded Pixels: a tiny yet powerful pixel art compression method",
       "href": "https://github.com/ENDESGA/PEP",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 12
     },
     {
-      "title": "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
-      "href": "https://github.com/DavidBuchanan314/anubis_offload",
+      "title": "Understand the Temporary Allocator; Understand arenas",
+      "href": "https://zylinski.se/posts/temporary-allocator-your-first-arena/",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              no comments",
       "index": 13
     },
     {
-      "title": "Emulating aarch64 in software using JIT compilation and Rust",
-      "href": "https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html",
+      "title": "Stable, Mutable References",
+      "href": "https://antelang.org/blog/stable_mutable_refs/",
       "points": "",
       "comments": "\n              no comments",
       "index": 14
@@ -107,71 +107,71 @@
       "index": 15
     },
     {
-      "title": "Structural vs. Mathematical “Under” (2023)",
-      "href": "https://www.dyalog.com/blog/2023/01/structural-vs-mathematical-under/",
+      "title": "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
+      "href": "https://github.com/DavidBuchanan314/anubis_offload",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              29 comments",
       "index": 16
     },
     {
-      "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
-      "href": "https://lina.sh/blog/telefonica-sabotages-me",
+      "title": "Emulating aarch64 in software using JIT compilation and Rust",
+      "href": "https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              no comments",
       "index": 17
     },
     {
-      "title": "Summary of everything we know about kOS",
-      "href": "https://gist.github.com/chrispsn/da00835bb122c42f429a084df83fd746",
+      "title": "Apple vs. Facebook is Kayfabe",
+      "href": "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/",
       "points": "",
       "comments": "\n              no comments",
       "index": 18
     },
     {
-      "title": "Barking Up The Ratchet Tree – MLS Is Neither Royal Nor Nude",
-      "href": "https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
-    },
-    {
-      "title": "teletext in north america",
-      "href": "https://computer.rip/2025-08-25-teletext-in-north-america.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 20
-    },
-    {
-      "title": "Understand the Temporary Allocator; Understand arenas",
-      "href": "https://zylinski.se/posts/temporary-allocator-your-first-arena/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
       "title": "Hands on Capture Checking in Scala",
       "href": "https://nrinaudo.github.io/articles/capture_checking.html",
       "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Structural vs. Mathematical “Under” (2023)",
+      "href": "https://www.dyalog.com/blog/2023/01/structural-vs-mathematical-under/",
+      "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 20
     },
     {
       "title": "Design Microservice Architectures the Right Way",
       "href": "https://www.infoq.com/presentations/microservices-arch-infrastructure-cd/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Comparing nitro to runit",
-      "href": "https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 24
+      "index": 21
     },
     {
       "title": "postMessaged and Compromised",
       "href": "https://msrc.microsoft.com/blog/2025/08/postmessaged-and-compromised/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "A German ISP tampered with their DNS - specifically to sabotage my website",
+      "href": "https://lina.sh/blog/telefonica-sabotages-me",
+      "points": "",
+      "comments": "\n              29 comments",
+      "index": 23
+    },
+    {
+      "title": "Barking Up The Ratchet Tree – MLS Is Neither Royal Nor Nude",
+      "href": "https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 24
+    },
+    {
+      "title": "Summary of everything we know about kOS",
+      "href": "https://gist.github.com/chrispsn/da00835bb122c42f429a084df83fd746",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
