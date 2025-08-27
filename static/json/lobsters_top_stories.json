@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, August 27, 2025 at 12:15 PM GMT-5",
+  "date": "Wednesday, August 27, 2025 at 1:25 PM GMT-5",
   "articles": [
     {
       "title": "So many conferences are mid. Why was BSC 2025 so good?",
       "href": "https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/",
       "points": "",
-      "comments": "\n              31 comments",
+      "comments": "\n              33 comments",
       "index": 1
     },
     {
@@ -19,21 +19,21 @@
       "title": "Malicious versions of Nx and some supporting plugins were published",
       "href": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 3
+    },
+    {
+      "title": "Inside Zig's New Writer",
+      "href": "https://joegm.github.io/blog/inside-zigs-new-writer-interface/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 4
     },
     {
       "title": "I Know When You're Vibe Coding",
       "href": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 4
-    },
-    {
-      "title": "Give Your Spouse the Gift of a Couple's Email Domain",
-      "href": "https://mtlynch.io/couples-email-domain/",
-      "points": "",
-      "comments": "\n              30 comments",
+      "comments": "\n              14 comments",
       "index": 5
     },
     {
@@ -44,31 +44,31 @@
       "index": 6
     },
     {
-      "title": "Chez Scheme vs. SBCL: a comparison (2019)",
-      "href": "https://elmord.org/blog/?entry=20191114-sbcl-chez",
+      "title": "Give Your Spouse the Gift of a Couple's Email Domain",
+      "href": "https://mtlynch.io/couples-email-domain/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              30 comments",
       "index": 7
     },
     {
-      "title": "How to Slow Down a Program? And Why it Can Be Useful",
-      "href": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
+      "title": "The unexpected productivity boost of Rust",
+      "href": "https://lubeno.dev/blog/rusts-productivity-curve",
       "points": "",
       "comments": "\n              1 comment",
       "index": 8
-    },
-    {
-      "title": "Das Problem mit German Strings",
-      "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 9
     },
     {
       "title": "State of the art for reducing executable size with heavily optimized program",
       "href": "https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952",
       "points": "",
       "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "Das Problem mit German Strings",
+      "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 10
     },
     {
@@ -79,24 +79,24 @@
       "index": 11
     },
     {
+      "title": "Chez Scheme vs. SBCL: a comparison (2019)",
+      "href": "https://elmord.org/blog/?entry=20191114-sbcl-chez",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 12
+    },
+    {
+      "title": "How to Slow Down a Program? And Why it Can Be Useful",
+      "href": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
       "title": "Developing an alt text button for images on my website",
       "href": "https://jamesg.blog/2025/08/17/alt-text-button",
       "points": "",
       "comments": "\n              23 comments",
-      "index": 12
-    },
-    {
-      "title": "rv, a new kind of Ruby management tool",
-      "href": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 13
-    },
-    {
-      "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
-      "href": "https://snf.github.io/2019/02/13/shared-ptr-optimization/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
     },
     {
@@ -107,66 +107,66 @@
       "index": 15
     },
     {
-      "title": "Lessons from Building a Game Engine from Scratch in Gleam",
-      "href": "https://www.youtube.com/watch?v=uExwRo_qM-k",
+      "title": "rv, a new kind of Ruby management tool",
+      "href": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              26 comments",
       "index": 16
-    },
-    {
-      "title": "Inside Zig's New Writer",
-      "href": "https://joegm.github.io/blog/inside-zigs-new-writer-interface/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Put a ring on it: a lock-free MPMC ring buffer",
-      "href": "https://h4x0r.org/ring/",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 18
-    },
-    {
-      "title": "How \"special register groups\" invaded computer dictionaries for decades (2019)",
-      "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 19
     },
     {
       "title": "Why AI Isn’t Ready to Be a Real Coder",
       "href": "https://spectrum.ieee.org/ai-for-coding",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
+      "comments": "\n              3 comments",
+      "index": 17
     },
     {
-      "title": "GNU Artanis - Web app framework for Scheme",
-      "href": "https://artanis.dev/",
+      "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
+      "href": "https://snf.github.io/2019/02/13/shared-ptr-optimization/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 18
     },
     {
-      "title": "Compositional Datalog on SQL: Relational Algebra of the Environment",
-      "href": "https://www.philipzucker.com/compose_datalog/",
+      "title": "Lessons from Building a Game Engine from Scratch in Gleam",
+      "href": "https://www.youtube.com/watch?v=uExwRo_qM-k",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 22
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "Efficient Array Programming",
       "href": "https://github.com/razetime/efficient-array-programming",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Put a ring on it: a lock-free MPMC ring buffer",
+      "href": "https://h4x0r.org/ring/",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 21
+    },
+    {
+      "title": "Testing Time (and other asyncronicities)",
+      "href": "https://go.dev/blog/testing-time",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "GNU Artanis - Web app framework for Scheme",
+      "href": "https://artanis.dev/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "We should rethink how we teach people to code",
-      "href": "https://deadsimpletech.com/blog/notes_teaching_coding",
+      "title": "How \"special register groups\" invaded computer dictionaries for decades (2019)",
+      "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              4 comments",
       "index": 24
     },
     {
