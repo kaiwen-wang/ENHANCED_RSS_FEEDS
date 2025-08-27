@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, August 27, 2025 at 7:40 AM GMT-5",
+  "date": "Wednesday, August 27, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "So many conferences are mid. Why was BSC 2025 so good?",
       "href": "https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              22 comments",
       "index": 1
     },
     {
-      "title": "Give Your Spouse the Gift of a Couple's Email Domain",
-      "href": "https://mtlynch.io/couples-email-domain/",
+      "title": "Dissecting the Apple M1 GPU, the end",
+      "href": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              1 comment",
       "index": 2
     },
     {
@@ -23,10 +23,10 @@
       "index": 3
     },
     {
-      "title": "Dissecting the Apple M1 GPU, the end",
-      "href": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
+      "title": "Give Your Spouse the Gift of a Couple's Email Domain",
+      "href": "https://mtlynch.io/couples-email-domain/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              28 comments",
       "index": 4
     },
     {
@@ -65,113 +65,113 @@
       "index": 9
     },
     {
-      "title": "Put a ring on it: a lock-free MPMC ring buffer",
-      "href": "https://h4x0r.org/ring/",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 10
-    },
-    {
-      "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
-      "href": "https://snf.github.io/2019/02/13/shared-ptr-optimization/",
+      "title": "State of the art for reducing executable size with heavily optimized program",
+      "href": "https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "How \"special register groups\" invaded computer dictionaries for decades (2019)",
-      "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 12
-    },
-    {
-      "title": "We should rethink how we teach people to code",
-      "href": "https://deadsimpletech.com/blog/notes_teaching_coding",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 13
-    },
-    {
-      "title": "Compositional Datalog on SQL: Relational Algebra of the Environment",
-      "href": "https://www.philipzucker.com/compose_datalog/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 14
+      "index": 10
     },
     {
       "title": "How to Slow Down a Program? And Why it Can Be Useful",
       "href": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
+      "index": 11
     },
     {
-      "title": "Nx compromised: malware uses Claude code CLI to explore the filesystem",
-      "href": "https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/",
+      "title": "Put a ring on it: a lock-free MPMC ring buffer",
+      "href": "https://h4x0r.org/ring/",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 12
+    },
+    {
+      "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
+      "href": "https://snf.github.io/2019/02/13/shared-ptr-optimization/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Google wants to make sideloading Android apps safer by verifying developers’ identities",
-      "href": "https://www.androidauthority.com/android-developer-verification-requirements-3590911/",
-      "points": "",
-      "comments": "\n              58 comments",
-      "index": 17
+      "index": 13
     },
     {
       "title": "Lessons from Building a Game Engine from Scratch in Gleam",
       "href": "https://www.youtube.com/watch?v=uExwRo_qM-k",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "How \"special register groups\" invaded computer dictionaries for decades (2019)",
+      "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 15
+    },
+    {
+      "title": "Malicious versions of Nx and some supporting plugins were published",
+      "href": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "We should rethink how we teach people to code",
+      "href": "https://deadsimpletech.com/blog/notes_teaching_coding",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 17
+    },
+    {
+      "title": "Compositional Datalog on SQL: Relational Algebra of the Environment",
+      "href": "https://www.philipzucker.com/compose_datalog/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 18
+    },
+    {
+      "title": "Google wants to make sideloading Android apps safer by verifying developers’ identities",
+      "href": "https://www.androidauthority.com/android-developer-verification-requirements-3590911/",
+      "points": "",
+      "comments": "\n              59 comments",
+      "index": 19
     },
     {
       "title": "Outlandish Recursive Query Examples",
       "href": "https://sqlite.org/lang_with.html#outlandish_recursive_query_examples",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Parents of teenager who took his own life sue OpenAI",
-      "href": "https://www.bbc.com/news/articles/cgerwp7rdlvo",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 20
-    },
-    {
-      "title": "Xz format inadequate for general use",
-      "href": "https://www.nongnu.org/lzip/xz_inadequate.html",
-      "points": "",
-      "comments": "\n              27 comments",
-      "index": 21
     },
     {
       "title": "GNU Artanis - Web app framework for Scheme",
       "href": "https://artanis.dev/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Implementing Forth in Go and C",
+      "href": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 22
+    },
+    {
+      "title": "Xz format inadequate for general use",
+      "href": "https://www.nongnu.org/lzip/xz_inadequate.html",
+      "points": "",
+      "comments": "\n              28 comments",
+      "index": 23
     },
     {
       "title": "Bi-Directional Accountability: The Leadership Shift Most Organizations Avoid",
       "href": "https://www.alnewkirk.com/bidirectional-accountability/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "LLMs for Software Developers (notes from my talk at NWRUG)",
       "href": "https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Trying to get error backtraces in rust libraries right",
-      "href": "https://www.iroh.computer/blog/error-handling-in-iroh",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
