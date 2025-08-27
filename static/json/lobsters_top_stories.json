@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, August 27, 2025 at 2:15 PM GMT-5",
+  "date": "Wednesday, August 27, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "So many conferences are mid. Why was BSC 2025 so good?",
@@ -12,28 +12,28 @@
       "title": "Dissecting the Apple M1 GPU, the end",
       "href": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 2
-    },
-    {
-      "title": "Malicious versions of Nx and some supporting plugins were published",
-      "href": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 3
-    },
-    {
-      "title": "Inside Zig's New Writer",
-      "href": "https://joegm.github.io/blog/inside-zigs-new-writer-interface/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 4
     },
     {
       "title": "The unexpected productivity boost of Rust",
       "href": "https://lubeno.dev/blog/rusts-productivity-curve",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 3
+    },
+    {
+      "title": "Malicious versions of Nx and some supporting plugins were published",
+      "href": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 4
+    },
+    {
+      "title": "Inside Zig's New Writer",
+      "href": "https://joegm.github.io/blog/inside-zigs-new-writer-interface/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 5
     },
     {
@@ -65,113 +65,113 @@
       "index": 9
     },
     {
-      "title": "Das Problem mit German Strings",
-      "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 10
-    },
-    {
       "title": "Implementing Forth in Go and C",
       "href": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 10
     },
     {
-      "title": "Chez Scheme vs. SBCL: a comparison (2019)",
-      "href": "https://elmord.org/blog/?entry=20191114-sbcl-chez",
+      "title": "Das Problem mit German Strings",
+      "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 12
+      "comments": "\n              7 comments",
+      "index": 11
     },
     {
       "title": "How to Slow Down a Program? And Why it Can Be Useful",
       "href": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
+      "index": 12
     },
     {
       "title": "Object-oriented design patterns",
       "href": "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
+      "title": "Chez Scheme vs. SBCL: a comparison (2019)",
+      "href": "https://elmord.org/blog/?entry=20191114-sbcl-chez",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 14
     },
     {
-      "title": "Developing an alt text button for images on my website",
-      "href": "https://jamesg.blog/2025/08/17/alt-text-button",
+      "title": "Testing Time (and other asyncronicities)",
+      "href": "https://go.dev/blog/testing-time",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              1 comment",
       "index": 15
-    },
-    {
-      "title": "rv, a new kind of Ruby management tool",
-      "href": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
-      "points": "",
-      "comments": "\n              26 comments",
-      "index": 16
-    },
-    {
-      "title": "Why AI Isn’t Ready to Be a Real Coder",
-      "href": "https://spectrum.ieee.org/ai-for-coding",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 17
-    },
-    {
-      "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
-      "href": "https://snf.github.io/2019/02/13/shared-ptr-optimization/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Lessons from Building a Game Engine from Scratch in Gleam",
-      "href": "https://www.youtube.com/watch?v=uExwRo_qM-k",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Put a ring on it: a lock-free MPMC ring buffer",
-      "href": "https://h4x0r.org/ring/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 20
     },
     {
       "title": "Efficient Array Programming",
       "href": "https://github.com/razetime/efficient-array-programming",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Developing an alt text button for images on my website",
+      "href": "https://jamesg.blog/2025/08/17/alt-text-button",
+      "points": "",
+      "comments": "\n              23 comments",
+      "index": 17
+    },
+    {
+      "title": "rv, a new kind of Ruby management tool",
+      "href": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
+      "points": "",
+      "comments": "\n              26 comments",
+      "index": 18
+    },
+    {
+      "title": "Why AI Isn’t Ready to Be a Real Coder",
+      "href": "https://spectrum.ieee.org/ai-for-coding",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 19
+    },
+    {
+      "title": "doxx - A viewer for Microsoft Word .docx files in the terminal",
+      "href": "https://terminaltrove.com/doxx/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
+      "href": "https://snf.github.io/2019/02/13/shared-ptr-optimization/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
     },
     {
-      "title": "Testing Time (and other asyncronicities)",
-      "href": "https://go.dev/blog/testing-time",
+      "title": "Put a ring on it: a lock-free MPMC ring buffer",
+      "href": "https://h4x0r.org/ring/",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 22
+    },
+    {
+      "title": "Lessons from Building a Game Engine from Scratch in Gleam",
+      "href": "https://www.youtube.com/watch?v=uExwRo_qM-k",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "How \"special register groups\" invaded computer dictionaries for decades (2019)",
       "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "GNU Artanis - Web app framework for Scheme",
       "href": "https://artanis.dev/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "LLMs for Software Developers (notes from my talk at NWRUG)",
-      "href": "https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
