@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, August 27, 2025 at 5:20 AM GMT-5",
+  "date": "Wednesday, August 27, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "So many conferences are mid. Why was BSC 2025 so good?",
       "href": "https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              16 comments",
       "index": 1
     },
     {
@@ -40,7 +40,7 @@
       "title": "Developing an alt text button for images on my website",
       "href": "https://jamesg.blog/2025/08/17/alt-text-button",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              21 comments",
       "index": 6
     },
     {
@@ -61,42 +61,42 @@
       "title": "Uncertain<T>",
       "href": "https://nshipster.com/uncertainty/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 9
     },
     {
       "title": "Put a ring on it: a lock-free MPMC ring buffer",
       "href": "https://h4x0r.org/ring/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 10
-    },
-    {
-      "title": "How \"special register groups\" invaded computer dictionaries for decades (2019)",
-      "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 11
-    },
-    {
-      "title": "We should rethink how we teach people to code",
-      "href": "https://deadsimpletech.com/blog/notes_teaching_coding",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 12
     },
     {
       "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
       "href": "https://snf.github.io/2019/02/13/shared-ptr-optimization/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 11
+    },
+    {
+      "title": "How \"special register groups\" invaded computer dictionaries for decades (2019)",
+      "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 12
     },
     {
       "title": "Compositional Datalog on SQL: Relational Algebra of the Environment",
       "href": "https://www.philipzucker.com/compose_datalog/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 13
+    },
+    {
+      "title": "We should rethink how we teach people to code",
+      "href": "https://deadsimpletech.com/blog/notes_teaching_coding",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 14
     },
     {
@@ -107,38 +107,38 @@
       "index": 15
     },
     {
+      "title": "Lessons from Building a Game Engine from Scratch in Gleam",
+      "href": "https://www.youtube.com/watch?v=uExwRo_qM-k",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
       "title": "Outlandish Recursive Query Examples",
       "href": "https://sqlite.org/lang_with.html#outlandish_recursive_query_examples",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Xz format inadequate for general use",
       "href": "https://www.nongnu.org/lzip/xz_inadequate.html",
       "points": "",
       "comments": "\n              27 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "GNU Artanis - Web app framework for Scheme",
       "href": "https://artanis.dev/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Emulating aarch64 in software using JIT compilation and Rust",
       "href": "https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 19
-    },
-    {
-      "title": "Trying to get error backtraces in rust libraries right",
-      "href": "https://www.iroh.computer/blog/error-handling-in-iroh",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 20
     },
     {
@@ -149,24 +149,24 @@
       "index": 21
     },
     {
+      "title": "Trying to get error backtraces in rust libraries right",
+      "href": "https://www.iroh.computer/blog/error-handling-in-iroh",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "Apple vs. Facebook is Kayfabe",
       "href": "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "A Qt Model for all C++ Ranges",
       "href": "https://www.qt.io/blog/a-model-for-all-ranges",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 23
-    },
-    {
-      "title": "Lessons from Building a Game Engine from Scratch in Gleam",
-      "href": "https://www.youtube.com/watch?v=uExwRo_qM-k",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
