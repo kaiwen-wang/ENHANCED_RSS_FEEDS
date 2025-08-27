@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, August 27, 2025 at 10:20 AM GMT-5",
+  "date": "Wednesday, August 27, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "So many conferences are mid. Why was BSC 2025 so good?",
       "href": "https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              31 comments",
       "index": 1
     },
     {
@@ -16,31 +16,31 @@
       "index": 2
     },
     {
+      "title": "Malicious versions of Nx and some supporting plugins were published",
+      "href": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 3
+    },
+    {
       "title": "I Know When You're Vibe Coding",
       "href": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Give Your Spouse the Gift of a Couple's Email Domain",
       "href": "https://mtlynch.io/couples-email-domain/",
       "points": "",
       "comments": "\n              29 comments",
-      "index": 4
-    },
-    {
-      "title": "Malicious versions of Nx and some supporting plugins were published",
-      "href": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 5
     },
     {
       "title": "Uncertain<T>",
       "href": "https://nshipster.com/uncertainty/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 6
     },
     {
@@ -61,7 +61,7 @@
       "title": "Das Problem mit German Strings",
       "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 9
     },
     {
@@ -75,7 +75,7 @@
       "title": "Developing an alt text button for images on my website",
       "href": "https://jamesg.blog/2025/08/17/alt-text-button",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              23 comments",
       "index": 11
     },
     {
@@ -100,24 +100,24 @@
       "index": 14
     },
     {
+      "title": "Implementing Forth in Go and C",
+      "href": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
       "title": "Put a ring on it: a lock-free MPMC ring buffer",
       "href": "https://h4x0r.org/ring/",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "How \"special register groups\" invaded computer dictionaries for decades (2019)",
       "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 16
-    },
-    {
-      "title": "We should rethink how we teach people to code",
-      "href": "https://deadsimpletech.com/blog/notes_teaching_coding",
-      "points": "",
-      "comments": "\n              18 comments",
       "index": 17
     },
     {
@@ -128,10 +128,10 @@
       "index": 18
     },
     {
-      "title": "Google wants to make sideloading Android apps safer by verifying developers’ identities",
-      "href": "https://www.androidauthority.com/android-developer-verification-requirements-3590911/",
+      "title": "We should rethink how we teach people to code",
+      "href": "https://deadsimpletech.com/blog/notes_teaching_coding",
       "points": "",
-      "comments": "\n              60 comments",
+      "comments": "\n              19 comments",
       "index": 19
     },
     {
@@ -142,36 +142,36 @@
       "index": 20
     },
     {
-      "title": "Implementing Forth in Go and C",
-      "href": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
+      "title": "Google wants to make sideloading Android apps safer by verifying developers’ identities",
+      "href": "https://www.androidauthority.com/android-developer-verification-requirements-3590911/",
+      "points": "",
+      "comments": "\n              61 comments",
+      "index": 21
+    },
+    {
+      "title": "Object-oriented design patterns",
+      "href": "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Outlandish Recursive Query Examples",
       "href": "https://sqlite.org/lang_with.html#outlandish_recursive_query_examples",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "LLMs for Software Developers (notes from my talk at NWRUG)",
-      "href": "https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "Efficient Array Programming",
-      "href": "https://github.com/razetime/efficient-array-programming",
+      "title": "Why AI Isn’t Ready to Be a Real Coder",
+      "href": "https://spectrum.ieee.org/ai-for-coding",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Exploring the Dominion of Anoma",
-      "href": "https://research.anoma.net/t/exploring-the-dominion-of-anoma-a-distributed-operating-system/1055",
+      "title": "LLMs for Software Developers (notes from my talk at NWRUG)",
+      "href": "https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
