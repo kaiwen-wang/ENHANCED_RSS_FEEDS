@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, August 27, 2025 at 8:30 AM GMT-5",
+  "date": "Wednesday, August 27, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "So many conferences are mid. Why was BSC 2025 so good?",
@@ -40,77 +40,77 @@
       "title": "Chez Scheme vs. SBCL: a comparison (2019)",
       "href": "https://elmord.org/blog/?entry=20191114-sbcl-chez",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 6
-    },
-    {
-      "title": "Das Problem mit German Strings",
-      "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 7
-    },
-    {
-      "title": "Developing an alt text button for images on my website",
-      "href": "https://jamesg.blog/2025/08/17/alt-text-button",
-      "points": "",
-      "comments": "\n              22 comments",
-      "index": 8
-    },
-    {
-      "title": "rv, a new kind of Ruby management tool",
-      "href": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
-      "points": "",
-      "comments": "\n              24 comments",
-      "index": 9
-    },
-    {
-      "title": "State of the art for reducing executable size with heavily optimized program",
-      "href": "https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
     },
     {
       "title": "How to Slow Down a Program? And Why it Can Be Useful",
       "href": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 7
+    },
+    {
+      "title": "Das Problem mit German Strings",
+      "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 8
+    },
+    {
+      "title": "Developing an alt text button for images on my website",
+      "href": "https://jamesg.blog/2025/08/17/alt-text-button",
+      "points": "",
+      "comments": "\n              22 comments",
+      "index": 9
+    },
+    {
+      "title": "rv, a new kind of Ruby management tool",
+      "href": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
+      "points": "",
+      "comments": "\n              24 comments",
+      "index": 10
+    },
+    {
+      "title": "State of the art for reducing executable size with heavily optimized program",
+      "href": "https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 11
-    },
-    {
-      "title": "Put a ring on it: a lock-free MPMC ring buffer",
-      "href": "https://h4x0r.org/ring/",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 12
-    },
-    {
-      "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
-      "href": "https://snf.github.io/2019/02/13/shared-ptr-optimization/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Lessons from Building a Game Engine from Scratch in Gleam",
-      "href": "https://www.youtube.com/watch?v=uExwRo_qM-k",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "How \"special register groups\" invaded computer dictionaries for decades (2019)",
-      "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 15
     },
     {
       "title": "Malicious versions of Nx and some supporting plugins were published",
       "href": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Put a ring on it: a lock-free MPMC ring buffer",
+      "href": "https://h4x0r.org/ring/",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 13
+    },
+    {
+      "title": "shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)",
+      "href": "https://snf.github.io/2019/02/13/shared-ptr-optimization/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Lessons from Building a Game Engine from Scratch in Gleam",
+      "href": "https://www.youtube.com/watch?v=uExwRo_qM-k",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "How \"special register groups\" invaded computer dictionaries for decades (2019)",
+      "href": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 16
     },
     {
@@ -124,7 +124,7 @@
       "title": "Compositional Datalog on SQL: Relational Algebra of the Environment",
       "href": "https://www.philipzucker.com/compose_datalog/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 18
     },
     {
@@ -135,43 +135,43 @@
       "index": 19
     },
     {
-      "title": "Outlandish Recursive Query Examples",
-      "href": "https://sqlite.org/lang_with.html#outlandish_recursive_query_examples",
+      "title": "GNU Artanis - Web app framework for Scheme",
+      "href": "https://artanis.dev/",
       "points": "",
       "comments": "\n              no comments",
       "index": 20
     },
     {
-      "title": "GNU Artanis - Web app framework for Scheme",
-      "href": "https://artanis.dev/",
+      "title": "Outlandish Recursive Query Examples",
+      "href": "https://sqlite.org/lang_with.html#outlandish_recursive_query_examples",
       "points": "",
       "comments": "\n              no comments",
       "index": 21
+    },
+    {
+      "title": "LLMs for Software Developers (notes from my talk at NWRUG)",
+      "href": "https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Implementing Forth in Go and C",
       "href": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Xz format inadequate for general use",
       "href": "https://www.nongnu.org/lzip/xz_inadequate.html",
       "points": "",
       "comments": "\n              28 comments",
-      "index": 23
-    },
-    {
-      "title": "Bi-Directional Accountability: The Leadership Shift Most Organizations Avoid",
-      "href": "https://www.alnewkirk.com/bidirectional-accountability/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "LLMs for Software Developers (notes from my talk at NWRUG)",
-      "href": "https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/",
+      "title": "Trying to get error backtraces in rust libraries right",
+      "href": "https://www.iroh.computer/blog/error-handling-in-iroh",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
