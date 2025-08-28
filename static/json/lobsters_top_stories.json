@@ -1,32 +1,32 @@
 {
-  "date": "Thursday, August 28, 2025 at 5:20 AM GMT-5",
+  "date": "Thursday, August 28, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "Open Source is one person",
       "href": "https://opensourcesecurity.io/2025/08-oss-one-person/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 1
     },
     {
       "title": "The unexpected productivity boost of Rust",
       "href": "https://lubeno.dev/blog/rusts-productivity-curve",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 2
+    },
+    {
+      "title": "Printing labels via SSH with Raspberry Pi Zero and Nix",
+      "href": "https://nmattia.com/posts/2025-08-28-label-printer-rpi-nix/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 3
     },
     {
       "title": "The Basics of Anchor Positioning",
       "href": "https://ishadeed.com/article/anchor-positioning/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 3
-    },
-    {
-      "title": "Dissecting the Apple M1 GPU, the end",
-      "href": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
-      "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              1 comment",
       "index": 4
     },
     {
@@ -37,38 +37,38 @@
       "index": 5
     },
     {
+      "title": "Dissecting the Apple M1 GPU, the end",
+      "href": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 6
+    },
+    {
       "title": "So many conferences are mid. Why was BSC 2025 so good?",
       "href": "https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/",
       "points": "",
       "comments": "\n              42 comments",
-      "index": 6
+      "index": 7
     },
     {
-      "title": "Printing labels via SSH with Raspberry Pi Zero and Nix",
-      "href": "https://nmattia.com/posts/2025-08-28-label-printer-rpi-nix/",
+      "title": "The desktop metaphor must be restored. It’s under attack! (2020)",
+      "href": "https://medium.com/@probonopd/the-desktop-metaphor-must-be-restored-its-under-attack-6fcd8fa45cc",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 7
+      "comments": "\n              2 comments",
+      "index": 8
     },
     {
       "title": "An update about the hidden Performa 550 recovery partition",
       "href": "https://www.downtowndougbrown.com/2025/08/an-update-about-the-hidden-performa-550-recovery-partition/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Malicious versions of Nx and some supporting plugins were published",
       "href": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 9
-    },
-    {
-      "title": "The desktop metaphor must be restored. It’s under attack! (2020)",
-      "href": "https://medium.com/@probonopd/the-desktop-metaphor-must-be-restored-its-under-attack-6fcd8fa45cc",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 10
     },
     {
@@ -93,29 +93,29 @@
       "index": 13
     },
     {
-      "title": "Testing Time (and other asyncronicities)",
-      "href": "https://go.dev/blog/testing-time",
+      "title": "The vulnerability might be in the proof-of-concept",
+      "href": "https://sethmlarson.dev/the-vulnerability-is-in-the-proof-of-concept",
       "points": "",
       "comments": "\n              1 comment",
       "index": 14
     },
     {
-      "title": "Music to Break Models By",
-      "href": "https://matthodges.com/posts/2025-08-26-music-to-break-models-by/",
+      "title": "State of the art for reducing executable size with heavily optimized program",
+      "href": "https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952",
       "points": "",
       "comments": "\n              2 comments",
       "index": 15
     },
     {
-      "title": "The vulnerability might be in the proof-of-concept",
-      "href": "https://sethmlarson.dev/the-vulnerability-is-in-the-proof-of-concept",
+      "title": "Testing Time (and other asyncronicities)",
+      "href": "https://go.dev/blog/testing-time",
       "points": "",
       "comments": "\n              1 comment",
       "index": 16
     },
     {
-      "title": "State of the art for reducing executable size with heavily optimized program",
-      "href": "https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952",
+      "title": "Music to Break Models By",
+      "href": "https://matthodges.com/posts/2025-08-26-music-to-break-models-by/",
       "points": "",
       "comments": "\n              2 comments",
       "index": 17
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "Are people’s bosses really making them use AI tools?",
+      "href": "https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
       "title": "I Know When You're Vibe Coding",
       "href": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Why AI Isn’t Ready to Be a Real Coder",
       "href": "https://spectrum.ieee.org/ai-for-coding",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Efficient Array Programming",
       "href": "https://github.com/razetime/efficient-array-programming",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "How to Slow Down a Program? And Why it Can Be Useful",
       "href": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Give Your Spouse the Gift of a Couple's Email Domain",
       "href": "https://mtlynch.io/couples-email-domain/",
       "points": "",
       "comments": "\n              34 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Das Problem mit German Strings",
       "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 24
-    },
-    {
-      "title": "doxx - A viewer for Microsoft Word .docx files in the terminal",
-      "href": "https://terminaltrove.com/doxx/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
