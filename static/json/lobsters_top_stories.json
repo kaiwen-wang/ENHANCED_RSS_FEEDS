@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, August 28, 2025 at 1:30 AM GMT-5",
+  "date": "Thursday, August 28, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "The unexpected productivity boost of Rust",
@@ -9,45 +9,45 @@
       "index": 1
     },
     {
-      "title": "So many conferences are mid. Why was BSC 2025 so good?",
-      "href": "https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/",
+      "title": "Open Source is one person",
+      "href": "https://opensourcesecurity.io/2025/08-oss-one-person/",
       "points": "",
-      "comments": "\n              42 comments",
+      "comments": "\n              1 comment",
       "index": 2
     },
     {
       "title": "Dissecting the Apple M1 GPU, the end",
       "href": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
       "index": 3
+    },
+    {
+      "title": "So many conferences are mid. Why was BSC 2025 so good?",
+      "href": "https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/",
+      "points": "",
+      "comments": "\n              42 comments",
+      "index": 4
     },
     {
       "title": "Inside Zig's New Writer",
       "href": "https://joegm.github.io/blog/inside-zigs-new-writer-interface/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Malicious versions of Nx and some supporting plugins were published",
       "href": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 5
-    },
-    {
-      "title": "Uncertain<T>",
-      "href": "https://nshipster.com/uncertainty/",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 6
     },
     {
-      "title": "Open Source is one person",
-      "href": "https://opensourcesecurity.io/2025/08-oss-one-person/",
+      "title": "An update about the hidden Performa 550 recovery partition",
+      "href": "https://www.downtowndougbrown.com/2025/08/an-update-about-the-hidden-performa-550-recovery-partition/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 7
     },
     {
@@ -58,45 +58,45 @@
       "index": 8
     },
     {
+      "title": "Uncertain<T>",
+      "href": "https://nshipster.com/uncertainty/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 9
+    },
+    {
       "title": "The vulnerability might be in the proof-of-concept",
       "href": "https://sethmlarson.dev/the-vulnerability-is-in-the-proof-of-concept",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Testing Time (and other asyncronicities)",
       "href": "https://go.dev/blog/testing-time",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 10
+      "index": 11
+    },
+    {
+      "title": "State of the art for reducing executable size with heavily optimized program",
+      "href": "https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 12
     },
     {
       "title": "Implementing Forth in Go and C",
       "href": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 13
     },
     {
       "title": "I Know When You're Vibe Coding",
       "href": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 12
-    },
-    {
-      "title": "State of the art for reducing executable size with heavily optimized program",
-      "href": "https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "An update about the hidden Performa 550 recovery partition",
-      "href": "https://www.downtowndougbrown.com/2025/08/an-update-about-the-hidden-performa-550-recovery-partition/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "How to Slow Down a Program? And Why it Can Be Useful",
+      "href": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
       "title": "Why AI Isn’t Ready to Be a Real Coder",
       "href": "https://spectrum.ieee.org/ai-for-coding",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 16
+      "comments": "\n              7 comments",
+      "index": 17
     },
     {
       "title": "Give Your Spouse the Gift of a Couple's Email Domain",
       "href": "https://mtlynch.io/couples-email-domain/",
       "points": "",
       "comments": "\n              30 comments",
-      "index": 17
-    },
-    {
-      "title": "How to Slow Down a Program? And Why it Can Be Useful",
-      "href": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 18
-    },
-    {
-      "title": "Efficient Array Programming",
-      "href": "https://github.com/razetime/efficient-array-programming",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Das Problem mit German Strings",
-      "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 20
-    },
-    {
-      "title": "Former TLM that was involuntarily reclassified as an EM because I had too many r... | Hacker News",
-      "href": "https://news.ycombinator.com/item?id=45046164",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 21
-    },
-    {
-      "title": "doxx - A viewer for Microsoft Word .docx files in the terminal",
-      "href": "https://terminaltrove.com/doxx/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Chez Scheme vs. SBCL: a comparison (2019)",
-      "href": "https://elmord.org/blog/?entry=20191114-sbcl-chez",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 23
     },
     {
       "title": "Rust for Everyone",
       "href": "https://www.youtube.com/watch?v=R0dP-QR5wQo",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Efficient Array Programming",
+      "href": "https://github.com/razetime/efficient-array-programming",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Das Problem mit German Strings",
+      "href": "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 21
+    },
+    {
+      "title": "Former TLM that was involuntarily reclassified as an EM because I had too many r... | Hacker News",
+      "href": "https://news.ycombinator.com/item?id=45046164",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 22
+    },
+    {
+      "title": "doxx - A viewer for Microsoft Word .docx files in the terminal",
+      "href": "https://terminaltrove.com/doxx/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Chez Scheme vs. SBCL: a comparison (2019)",
+      "href": "https://elmord.org/blog/?entry=20191114-sbcl-chez",
+      "points": "",
+      "comments": "\n              14 comments",
       "index": 24
     },
     {
       "title": "Developing an alt text button for images on my website",
       "href": "https://jamesg.blog/2025/08/17/alt-text-button",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              24 comments",
       "index": 25
     }
   ]
