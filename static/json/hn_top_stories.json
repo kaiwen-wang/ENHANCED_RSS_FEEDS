@@ -1,214 +1,214 @@
 {
-  "date": "Thursday, August 28, 2025 at 6:15 PM GMT-5",
+  "date": "Thursday, August 28, 2025 at 8:25 PM GMT-5",
   "articles": [
+    {
+      "title": "Python: The Documentary",
+      "href": "https://lwn.net/Articles/1035537/",
+      "points": "49 points",
+      "comments": "3 comments",
+      "index": 1
+    },
     {
       "title": "Ask HN: The government of my country blocked VPN access. What should I use?",
       "href": "item?id=45054260",
-      "points": "593 points",
-      "comments": "345 comments",
-      "index": 1
+      "points": "728 points",
+      "comments": "420 comments",
+      "index": 2
     },
     {
       "title": "Fuck up my site – Turn any website into beautiful chaos",
       "href": "https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true",
-      "points": "77 points",
-      "comments": "28 comments",
-      "index": 2
-    },
-    {
-      "title": "My startup banking story (2023)",
-      "href": "https://mitchellh.com/writing/my-startup-banking-story",
-      "points": "124 points",
-      "comments": "46 comments",
+      "points": "140 points",
+      "comments": "43 comments",
       "index": 3
     },
     {
       "title": "Some thoughts on LLMs and software development",
       "href": "https://martinfowler.com/articles/202508-ai-thoughts.html",
-      "points": "144 points",
-      "comments": "127 comments",
+      "points": "183 points",
+      "comments": "165 comments",
       "index": 4
+    },
+    {
+      "title": "My startup banking story (2023)",
+      "href": "https://mitchellh.com/writing/my-startup-banking-story",
+      "points": "169 points",
+      "comments": "75 comments",
+      "index": 5
+    },
+    {
+      "title": "Death by PowerPoint: the slide that killed seven people",
+      "href": "https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx",
+      "points": "60 points",
+      "comments": "28 comments",
+      "index": 6
     },
     {
       "title": "Uncertain<T>",
       "href": "https://nshipster.com/uncertainty/",
-      "points": "200 points",
-      "comments": "42 comments",
-      "index": 5
+      "points": "244 points",
+      "comments": "53 comments",
+      "index": 7
     },
     {
       "title": "Expert LSP the official language server implementation for Elixir",
       "href": "https://github.com/elixir-lang/expert",
-      "points": "20 points",
-      "comments": "3 comments",
-      "index": 6
-    },
-    {
-      "title": "TuneD is a system tuning service for Linux",
-      "href": "https://tuned-project.org/",
-      "points": "18 points",
-      "comments": "1 comment",
-      "index": 7
+      "points": "49 points",
+      "comments": "10 comments",
+      "index": 8
     },
     {
       "title": "Building your own CLI coding agent with Pydantic-AI",
       "href": "https://martinfowler.com/articles/build-own-coding-agent.html",
-      "points": "77 points",
-      "comments": "17 comments",
-      "index": 8
-    },
-    {
-      "title": "Sometimes CPU cores are odd – Anubis",
-      "href": "https://anubis.techaro.lol/blog/2025/cpu-core-odd/",
-      "points": "21 points",
-      "comments": "17 comments",
+      "points": "107 points",
+      "comments": "23 comments",
       "index": 9
     },
     {
-      "title": "Are OpenAI and Anthropic losing money on inference?",
-      "href": "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/",
-      "points": "406 points",
-      "comments": "403 comments",
+      "title": "RSS Is Awesome",
+      "href": "https://evanverma.com/rss-is-awesome",
+      "points": "67 points",
+      "comments": "16 comments",
       "index": 10
     },
     {
-      "title": "Launch HN: Dedalus Labs (YC S25) – Vercel for Agents",
-      "href": "item?id=45054040",
-      "points": "41 points",
-      "comments": "11 comments",
+      "title": "TuneD is a system tuning service for Linux",
+      "href": "https://tuned-project.org/",
+      "points": "32 points",
+      "comments": "9 comments",
       "index": 11
-    },
-    {
-      "title": "A forgotten medieval fruit with a vulgar name (2021)",
-      "href": "https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot",
-      "points": "47 points",
-      "comments": "22 comments",
-      "index": 12
     },
     {
       "title": "AI adoption linked to 13% decline in jobs for young U.S. workers: study",
       "href": "https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html",
-      "points": "123 points",
-      "comments": "193 comments",
+      "points": "181 points",
+      "comments": "269 comments",
+      "index": 12
+    },
+    {
+      "title": "Are OpenAI and Anthropic losing money on inference?",
+      "href": "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/",
+      "points": "436 points",
+      "comments": "419 comments",
       "index": 13
     },
     {
-      "title": "VLT observations of interstellar comet 3I/ATLAS II",
-      "href": "https://arxiv.org/abs/2508.18382",
-      "points": "38 points",
-      "comments": "30 comments",
+      "title": "Claude Sonnet Will Ship in Xcode",
+      "href": "https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes",
+      "points": "3 points",
+      "comments": "discuss",
       "index": 14
     },
     {
-      "title": "Web Bot Auth",
-      "href": "https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/",
-      "points": "33 points",
-      "comments": "33 comments",
+      "title": "Launch HN: Dedalus Labs (YC S25) – Vercel for Agents",
+      "href": "item?id=45054040",
+      "points": "44 points",
+      "comments": "11 comments",
       "index": 15
     },
     {
-      "title": "Speed-coding for the 6502 – a simple example",
-      "href": "https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/",
-      "points": "9 points",
-      "comments": "1 comment",
+      "title": "A forgotten medieval fruit with a vulgar name (2021)",
+      "href": "https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot",
+      "points": "67 points",
+      "comments": "27 comments",
       "index": 16
-    },
-    {
-      "title": "In Search of AI Psychosis",
-      "href": "https://www.astralcodexten.com/p/in-search-of-ai-psychosis",
-      "points": "70 points",
-      "comments": "41 comments",
-      "index": 17
-    },
-    {
-      "title": "Optimising for maintainability – Gleam in production at Strand",
-      "href": "https://gleam.run/case-studies/strand/",
-      "points": "78 points",
-      "comments": "20 comments",
-      "index": 18
-    },
-    {
-      "title": "Will AI Replace Human Thinking? The Case for Writing and Coding Manually",
-      "href": "https://www.ssp.sh/brain/will-ai-replace-humans/",
-      "points": "93 points",
-      "comments": "84 comments",
-      "index": 19
-    },
-    {
-      "title": "RFC 8594: The Sunset HTTP Header Field (2019)",
-      "href": "https://datatracker.ietf.org/doc/html/rfc8594",
-      "points": "19 points",
-      "comments": "6 comments",
-      "index": 20
-    },
-    {
-      "title": "Thrashing",
-      "href": "https://exple.tive.org/blarg/2025/08/26/thrashing/",
-      "points": "3 points",
-      "comments": "discuss",
-      "index": 21
-    },
-    {
-      "title": "Show HN: SwiftAI – open-source library to easily build LLM features on iOS/macOS",
-      "href": "https://github.com/mi12labs/SwiftAI",
-      "points": "43 points",
-      "comments": "6 comments",
-      "index": 22
     },
     {
       "title": "You no longer need JavaScript: an overview of what makes modern CSS so awesome",
       "href": "https://lyra.horse/blog/2025/08/you-dont-need-js/",
-      "points": "34 points",
-      "comments": "7 comments",
-      "index": 23
+      "points": "94 points",
+      "comments": "36 comments",
+      "index": 17
+    },
+    {
+      "title": "Thrashing",
+      "href": "https://exple.tive.org/blarg/2025/08/26/thrashing/",
+      "points": "18 points",
+      "comments": "1 comment",
+      "index": 18
     },
     {
       "title": "Rupert's Property",
       "href": "https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/",
-      "points": "3 points",
+      "points": "22 points",
       "comments": "1 comment",
+      "index": 19
+    },
+    {
+      "title": "Dependent types I › Universes, or types of types",
+      "href": "https://www.jonmsterling.com/01ET/index.xml",
+      "points": "8 points",
+      "comments": "discuss",
+      "index": 20
+    },
+    {
+      "title": "Will AI Replace Human Thinking? The Case for Writing and Coding Manually",
+      "href": "https://www.ssp.sh/brain/will-ai-replace-humans/",
+      "points": "112 points",
+      "comments": "93 comments",
+      "index": 21
+    },
+    {
+      "title": "Ask HN: What to Learn for Math for Modeling?",
+      "href": "item?id=45036708",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 22
+    },
+    {
+      "title": "Speed-coding for the 6502 – a simple example",
+      "href": "https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/",
+      "points": "20 points",
+      "comments": "7 comments",
+      "index": 23
+    },
+    {
+      "title": "VLT observations of interstellar comet 3I/ATLAS II",
+      "href": "https://arxiv.org/abs/2508.18382",
+      "points": "46 points",
+      "comments": "32 comments",
       "index": 24
     },
     {
-      "title": "That boolean should probably be something else",
-      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
-      "points": "71 points",
-      "comments": "85 comments",
+      "title": "Web Bot Auth",
+      "href": "https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/",
+      "points": "43 points",
+      "comments": "39 comments",
       "index": 25
     },
     {
-      "title": "Performance Speed Limits (2019)",
-      "href": "https://travisdowns.github.io/blog/2019/06/11/speed-limits.html",
-      "points": "9 points",
-      "comments": "1 comment",
+      "title": "Show HN: SwiftAI – open-source library to easily build LLM features on iOS/macOS",
+      "href": "https://github.com/mi12labs/SwiftAI",
+      "points": "54 points",
+      "comments": "12 comments",
       "index": 26
+    },
+    {
+      "title": "RFC 8594: The Sunset HTTP Header Field (2019)",
+      "href": "https://datatracker.ietf.org/doc/html/rfc8594",
+      "points": "26 points",
+      "comments": "9 comments",
+      "index": 27
     },
     {
       "title": "Microbial metabolite repairs liver injury by restoring hepatic lipid metabolism",
       "href": "https://journals.asm.org/doi/10.1128/mbio.01718-25",
-      "points": "100 points",
-      "comments": "26 comments",
-      "index": 27
-    },
-    {
-      "title": "Charting Form Ds to roughly see the state of venture capital “fund” raising",
-      "href": "https://tj401.com/blog/formd/index.html",
-      "points": "153 points",
-      "comments": "67 comments",
+      "points": "109 points",
+      "comments": "28 comments",
       "index": 28
     },
     {
-      "title": "Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC)",
-      "href": "https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8",
-      "points": "",
-      "comments": "hide",
+      "title": "That boolean should probably be something else",
+      "href": "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/",
+      "points": "84 points",
+      "comments": "100 comments",
       "index": 29
     },
     {
-      "title": "Spiped – secure pipe for SSH, SMTP, etc.",
-      "href": "https://www.tarsnap.com/spiped.html",
-      "points": "22 points",
-      "comments": "4 comments",
+      "title": "In Search of AI Psychosis",
+      "href": "https://www.astralcodexten.com/p/in-search-of-ai-psychosis",
+      "points": "88 points",
+      "comments": "52 comments",
       "index": 30
     }
   ]
