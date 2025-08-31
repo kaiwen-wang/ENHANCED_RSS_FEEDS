@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, August 30, 2025 at 8:40 PM GMT-5",
+  "date": "Saturday, August 30, 2025 at 10:05 PM GMT-5",
   "articles": [
     {
       "title": "Niri v25.08",
@@ -12,21 +12,21 @@
       "title": "Appealing the ban of user friendlysock",
       "href": "/s/zoirhl/appealing_ban_user_friendlysock",
       "points": "",
-      "comments": "\n              99 comments",
+      "comments": "\n              104 comments",
       "index": 2
+    },
+    {
+      "title": "NetSurf on reMarkable 2",
+      "href": "https://akselmo.dev/posts/netsurf-on-remarkable-2/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 3
     },
     {
       "title": "Why I use Debian",
       "href": "https://blog.liw.fi/posts/2025/why-debian/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 3
-    },
-    {
-      "title": "NetSurf on reMarkable 2",
-      "href": "https://akselmo.dev/posts/netsurf-on-remarkable-2/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 4
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "Quirks of Common Lisp Types",
-      "href": "https://www.fosskers.ca/en/blog/cl-type-quirks",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 8
-    },
-    {
       "title": "Are We Decentralized Yet?",
       "href": "https://arewedecentralizedyet.online/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
+      "title": "Quirks of Common Lisp Types",
+      "href": "https://www.fosskers.ca/en/blog/cl-type-quirks",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 9
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
+      "title": "Quake's PVS: A hidden gem of rendering optimization",
+      "href": "https://www.youtube.com/watch?v=IfCRHSIg6zo",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
       "title": "Pyret: A programming language for programming education",
       "href": "https://pyret.org/",
       "points": "",
       "comments": "\n              28 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Condor’s Cuzco RISC-V Core at Hot Chips 2025",
       "href": "https://old.chipsandcheese.com/2025/08/29/condors-cuzco-risc-v-core-at-hot-chips-2025/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
-    },
-    {
-      "title": "God created the real numbers",
-      "href": "https://www.ethanheilman.com/x/34/index.html",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 16
-    },
-    {
-      "title": "Bootstrapping a Forth for Art",
-      "href": "https://tia.mat.br/posts/2025/08/30/forth-haiku.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
     },
     {
       "title": "snuffle / salsa / chacha",
       "href": "https://graydon2.dreamwidth.org/319755.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
+      "title": "God created the real numbers",
+      "href": "https://www.ethanheilman.com/x/34/index.html",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 18
+    },
+    {
+      "title": "Bootstrapping a Forth for Art",
+      "href": "https://tia.mat.br/posts/2025/08/30/forth-haiku.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "Rust ints to Rust enums with less instructions",
       "href": "https://sailor.li/ints-to-enums",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Do the simplest thing that could possibly work",
       "href": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "You no longer need JavaScript: an overview of what makes modern CSS so awesome",
       "href": "https://lyra.horse/blog/2025/08/you-dont-need-js/",
       "points": "",
       "comments": "\n              47 comments",
-      "index": 21
-    },
-    {
-      "title": "A type system for RCL (2024)",
-      "href": "https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-1-introduction",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 22
     },
     {
       "title": "The rationale for the Nickel configuration language",
       "href": "https://github.com/tweag/nickel/blob/master/RATIONALE.md",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 23
+    },
+    {
+      "title": "A type system for RCL (2024)",
+      "href": "https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-1-introduction",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "SQLite's Durability Settings are a Mess",
       "href": "https://www.agwa.name/blog/post/sqlite_durability",
       "points": "",
       "comments": "\n              21 comments",
-      "index": 24
-    },
-    {
-      "title": "Quake's PVS: A hidden gem of rendering optimization",
-      "href": "https://www.youtube.com/watch?v=IfCRHSIg6zo",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
