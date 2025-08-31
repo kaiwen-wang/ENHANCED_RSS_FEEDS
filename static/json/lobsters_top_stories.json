@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, August 30, 2025 at 11:20 PM GMT-5",
+  "date": "Sunday, August 31, 2025 at 12:15 AM GMT-5",
   "articles": [
     {
       "title": "Niri v25.08",
@@ -30,31 +30,31 @@
       "index": 4
     },
     {
-      "title": "Linus Torvalds marks bcachefs as \"externally maintained\"",
-      "href": "https://lwn.net/Articles/1035736/",
-      "points": "",
-      "comments": "\n              27 comments",
-      "index": 5
-    },
-    {
-      "title": "Default search engine: Wikipedia",
-      "href": "https://paste.sr.ht/~awal/2310cfca431e9f723df281d02558eaebd77e2091",
-      "points": "",
-      "comments": "\n              43 comments",
-      "index": 6
-    },
-    {
       "title": "Quirks of Common Lisp Types",
       "href": "https://www.fosskers.ca/en/blog/cl-type-quirks",
       "points": "",
       "comments": "\n              no comments",
-      "index": 7
+      "index": 5
     },
     {
       "title": "Are We Decentralized Yet?",
       "href": "https://arewedecentralizedyet.online/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
+      "title": "Linus Torvalds marks bcachefs as \"externally maintained\"",
+      "href": "https://lwn.net/Articles/1035736/",
+      "points": "",
+      "comments": "\n              27 comments",
+      "index": 7
+    },
+    {
+      "title": "Default search engine: Wikipedia",
+      "href": "https://paste.sr.ht/~awal/2310cfca431e9f723df281d02558eaebd77e2091",
+      "points": "",
+      "comments": "\n              43 comments",
       "index": 8
     },
     {
@@ -103,7 +103,7 @@
       "title": "Condor’s Cuzco RISC-V Core at Hot Chips 2025",
       "href": "https://old.chipsandcheese.com/2025/08/29/condors-cuzco-risc-v-core-at-hot-chips-2025/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
       "index": 15
     },
     {
@@ -135,24 +135,24 @@
       "index": 19
     },
     {
+      "title": "The rationale for the Nickel configuration language",
+      "href": "https://github.com/tweag/nickel/blob/master/RATIONALE.md",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 20
+    },
+    {
       "title": "Do the simplest thing that could possibly work",
       "href": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Rust ints to Rust enums with less instructions",
       "href": "https://sailor.li/ints-to-enums",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 21
-    },
-    {
-      "title": "The rationale for the Nickel configuration language",
-      "href": "https://github.com/tweag/nickel/blob/master/RATIONALE.md",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
+      "title": "I'm concerned (excerpt)",
+      "href": "https://studium.dev/tech/im-concerned-integrity",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 24
+    },
+    {
       "title": "A type system for RCL (2024)",
       "href": "https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-1-introduction",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "SQLite's Durability Settings are a Mess",
-      "href": "https://www.agwa.name/blog/post/sqlite_durability",
-      "points": "",
-      "comments": "\n              21 comments",
       "index": 25
     }
   ]
