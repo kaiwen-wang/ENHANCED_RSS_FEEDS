@@ -1,11 +1,11 @@
 {
-  "date": "Monday, September 1, 2025 at 9:20 AM GMT-5",
+  "date": "Monday, September 1, 2025 at 10:20 AM GMT-5",
   "articles": [
     {
       "title": "Passkeys are incompatible with open-source software",
       "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              26 comments",
       "index": 1
     },
     {
@@ -16,31 +16,31 @@
       "index": 2
     },
     {
+      "title": "End of (Windows) 10",
+      "href": "https://endof10.org/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 3
+    },
+    {
       "title": "Why do browsers throttle JavaScript timers?",
       "href": "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "things rust shipped without (2015)",
       "href": "https://graydon2.dreamwidth.org/218040.html",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "We need to seriously think about what to do with C++ modules",
       "href": "https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html",
       "points": "",
-      "comments": "\n              31 comments",
-      "index": 5
-    },
-    {
-      "title": "End of (Windows) 10",
-      "href": "https://endof10.org/",
-      "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              33 comments",
       "index": 6
     },
     {
@@ -54,7 +54,7 @@
       "title": "\"This telegram must be closely paraphrased before being communicated to anyone.\" Why?",
       "href": "https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 8
     },
     {
@@ -68,7 +68,7 @@
       "title": "Thinking about coding",
       "href": "https://www.robinsloan.com/lab/thinking-about-coding/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 10
     },
     {
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
+      "title": "Default Methods in Go",
+      "href": "https://mcyoung.xyz/2025/08/25/go-default-methods/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 12
+    },
+    {
       "title": "Run a legal LTE network at home for $100",
       "href": "https://lantian.pub/en/article/modify-computer/legal-lte-network-at-home-for-100-bucks.lantian/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 12
-    },
-    {
-      "title": "Default Methods in Go",
-      "href": "https://mcyoung.xyz/2025/08/25/go-default-methods/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 13
     },
     {
@@ -100,50 +100,50 @@
       "index": 14
     },
     {
-      "title": "A Case Study in Rewriting a Critical Service in Rust",
-      "href": "https://wxiaoyun.com/blog/rust-rewrite-case-study/",
+      "title": "What are you doing this week?",
+      "href": "/s/uu8ynw/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              3 comments",
       "index": 15
     },
     {
+      "title": "A Case Study in Rewriting a Critical Service in Rust",
+      "href": "https://wxiaoyun.com/blog/rust-rewrite-case-study/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 16
+    },
+    {
       "title": "Is it possible to allow sideloading *and* keep users safe?",
       "href": "https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/",
       "points": "",
-      "comments": "\n              65 comments",
-      "index": 16
+      "comments": "\n              66 comments",
+      "index": 17
+    },
+    {
+      "title": "zfsbackrest: pgbackrest style encrypted backups for ZFS filesystems",
+      "href": "https://github.com/gargakshit/zfsbackrest",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "1 Problem, 16 Programming Languages (2021)",
+      "href": "https://www.youtube.com/watch?v=UVUjnzpQKUo",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 19
     },
     {
       "title": "A Review of Nim 2: The Good & Bad with Example Code",
       "href": "https://miguel-martin.com/blog/nim2-review",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "1 Problem, 16 Programming Languages (2021)",
-      "href": "https://www.youtube.com/watch?v=UVUjnzpQKUo",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "The ASCII Side of the Moon",
       "href": "https://aleyan.com/projects/ascii-side-of-the-moon/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/uu8ynw/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 20
-    },
-    {
-      "title": "Stacked Branches With Lazygit",
-      "href": "https://www.youtube.com/watch?v=M6S-9Y8peDY&list=LL&index=133&pp=gAQBiAQB2AbVAg%3D%3D",
       "points": "",
       "comments": "\n              no comments",
       "index": 21
@@ -152,28 +152,28 @@
       "title": "What Every Argument About Sideloading Gets Wrong",
       "href": "https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 22
+    },
+    {
+      "title": "Stacked Branches With Lazygit",
+      "href": "https://www.youtube.com/watch?v=M6S-9Y8peDY&list=LL&index=133&pp=gAQBiAQB2AbVAg%3D%3D",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "How a VPN kill-switch caused sudo to hang",
       "href": "https://anagogistis.com/posts/vpn-sudo-hang/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 23
-    },
-    {
-      "title": "Dyslexic people working in the tech industry",
-      "href": "https://www.reddit.com/r/Dyslexia/comments/1n3wi4r/im_looking_for_dyslexic_people_working_in_the/",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 24
     },
     {
-      "title": "The Internet Roadtrip Pathfinder",
-      "href": "https://matdoes.dev/internet-roadtrip-pathfinder",
+      "title": "How is Ultrassembler so fast?",
+      "href": "https://jghuff.com/articles/ultrassembler-so-fast/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
