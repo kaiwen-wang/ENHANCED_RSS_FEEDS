@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, September 2, 2025 at 7:40 AM GMT-5",
+  "date": "Tuesday, September 2, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "Bear is now source-available",
       "href": "https://herman.bearblog.dev/license/",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              23 comments",
       "index": 1
     },
     {
@@ -23,45 +23,45 @@
       "index": 3
     },
     {
-      "title": "Passkeys are incompatible with open-source software",
-      "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
-      "points": "",
-      "comments": "\n              123 comments",
-      "index": 4
-    },
-    {
       "title": "The future of 32-bit support in the kernel",
       "href": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
       "points": "",
       "comments": "\n              8 comments",
+      "index": 4
+    },
+    {
+      "title": "Of Rats and Ratchets (2024)",
+      "href": "https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 5
+    },
+    {
+      "title": "Passkeys are incompatible with open-source software",
+      "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
+      "points": "",
+      "comments": "\n              124 comments",
+      "index": 6
     },
     {
       "title": "Saturation and the Triumph of History: How most of the behavior of Tech Leaders since 2016 can be explained by smartphone market saturation",
       "href": "https://notes.hella.cheap/saturation-and-the-triumph-of-history.html",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 6
+      "index": 7
     },
     {
-      "title": "Of Rats and Ratchets (2024)",
-      "href": "https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html",
+      "title": "Next.js Is Infuriating",
+      "href": "https://blog.meca.sh/3lxoty3shjc2z",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 7
+      "comments": "\n              4 comments",
+      "index": 8
     },
     {
       "title": "Faster linking times with 1.90.0 stable on Linux using the LLD linker",
       "href": "https://blog.rust-lang.org/2025/09/01/rust-lld-on-1.90.0-stable/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
-    },
-    {
-      "title": "Next.js Is Infuriating",
-      "href": "https://blog.meca.sh/3lxoty3shjc2z",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 9
     },
     {
@@ -72,17 +72,17 @@
       "index": 10
     },
     {
+      "title": "Baba Yaga License",
+      "href": "https://smallandnearlysilent.com/baba-yaga/LICENSE.txt",
+      "points": "",
+      "comments": "\n              27 comments",
+      "index": 11
+    },
+    {
       "title": "Processors are getting wider",
       "href": "https://lemire.me/blog/2025/09/01/processors-are-getting-wider/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 11
-    },
-    {
-      "title": "Baba Yaga License",
-      "href": "https://smallandnearlysilent.com/baba-yaga/LICENSE.txt",
-      "points": "",
-      "comments": "\n              24 comments",
       "index": 12
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "Aperiodic Tilings V: the Refinable Frontier",
+      "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-refine/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
       "title": "Jujutsu for everyone",
       "href": "https://jj-for-everyone.github.io/",
       "points": "",
-      "comments": "\n              21 comments",
-      "index": 18
+      "comments": "\n              22 comments",
+      "index": 19
     },
     {
       "title": "Automatic updating Spotify status... without JavaScript",
       "href": "https://lina.sh/blog/spotify-status-without-js",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 20
     },
     {
       "title": "things rust shipped without (2015)",
       "href": "https://graydon2.dreamwidth.org/218040.html",
       "points": "",
       "comments": "\n              27 comments",
-      "index": 20
+      "index": 21
+    },
+    {
+      "title": "Understanding Apache Fluss",
+      "href": "https://jack-vanlightly.com/blog/2025/9/2/understanding-apache-fluss",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Why do browsers throttle JavaScript timers?",
       "href": "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "A Review of Nim 2: The Good & Bad with Example Code",
       "href": "https://miguel-martin.com/blog/nim2-review",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Building a WASM compiler in Roc (series)",
       "href": "https://dusty.phillips.codes/roc/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 23
-    },
-    {
-      "title": "We need to seriously think about what to do with C++ modules",
-      "href": "https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html",
-      "points": "",
-      "comments": "\n              47 comments",
-      "index": 24
-    },
-    {
-      "title": "C++ Memory Safety in WebKit",
-      "href": "https://m.youtube.com/watch?v=RLw13wLM5Ko",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
