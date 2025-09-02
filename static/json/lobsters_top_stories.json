@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, September 2, 2025 at 8:30 AM GMT-5",
+  "date": "Tuesday, September 2, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Bear is now source-available",
       "href": "https://herman.bearblog.dev/license/",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              24 comments",
       "index": 1
     },
     {
       "title": "Debugging Rustler on illumos",
       "href": "https://system-illumination.org/01-rustler.html",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 2
     },
     {
@@ -23,38 +23,38 @@
       "index": 3
     },
     {
-      "title": "The future of 32-bit support in the kernel",
-      "href": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 4
-    },
-    {
       "title": "Of Rats and Ratchets (2024)",
       "href": "https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 4
+    },
+    {
+      "title": "The future of 32-bit support in the kernel",
+      "href": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
+      "points": "",
+      "comments": "\n              9 comments",
       "index": 5
-    },
-    {
-      "title": "Passkeys are incompatible with open-source software",
-      "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
-      "points": "",
-      "comments": "\n              124 comments",
-      "index": 6
-    },
-    {
-      "title": "Saturation and the Triumph of History: How most of the behavior of Tech Leaders since 2016 can be explained by smartphone market saturation",
-      "href": "https://notes.hella.cheap/saturation-and-the-triumph-of-history.html",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 7
     },
     {
       "title": "Next.js Is Infuriating",
       "href": "https://blog.meca.sh/3lxoty3shjc2z",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 6
+    },
+    {
+      "title": "Saturation and the Triumph of History: How most of the behavior of Tech Leaders since 2016 can be explained by smartphone market saturation",
+      "href": "https://notes.hella.cheap/saturation-and-the-triumph-of-history.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 7
+    },
+    {
+      "title": "Passkeys are incompatible with open-source software",
+      "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
+      "points": "",
+      "comments": "\n              125 comments",
       "index": 8
     },
     {
@@ -65,45 +65,45 @@
       "index": 9
     },
     {
-      "title": "End of (Windows) 10",
-      "href": "https://endof10.org/",
+      "title": "What's cooking on SourceHut? Q3 2025",
+      "href": "https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/",
       "points": "",
-      "comments": "\n              55 comments",
+      "comments": "\n              6 comments",
       "index": 10
     },
     {
       "title": "Baba Yaga License",
       "href": "https://smallandnearlysilent.com/baba-yaga/LICENSE.txt",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              29 comments",
       "index": 11
+    },
+    {
+      "title": "End of (Windows) 10",
+      "href": "https://endof10.org/",
+      "points": "",
+      "comments": "\n              55 comments",
+      "index": 12
     },
     {
       "title": "Processors are getting wider",
       "href": "https://lemire.me/blog/2025/09/01/processors-are-getting-wider/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 12
+      "index": 13
     },
     {
-      "title": "What's cooking on SourceHut? Q3 2025",
-      "href": "https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/",
+      "title": "Compile Svelte 5 in your head",
+      "href": "https://lihautan.com/compile-svelte-5-in-your-head",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
+      "comments": "\n              no comments",
+      "index": 14
     },
     {
       "title": "[Optimising] Spatial Joins in DuckDB",
       "href": "https://duckdb.org/2025/08/08/spatial-joins.html",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 14
-    },
-    {
-      "title": "Nimony: Design principles",
-      "href": "https://nim-lang.org/araq/nimony.html",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 15
     },
     {
@@ -114,10 +114,10 @@
       "index": 16
     },
     {
-      "title": "Compile Svelte 5 in your head",
-      "href": "https://lihautan.com/compile-svelte-5-in-your-head",
+      "title": "Nimony: Design principles",
+      "href": "https://nim-lang.org/araq/nimony.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 17
     },
     {
@@ -128,17 +128,17 @@
       "index": 18
     },
     {
+      "title": "Automatic updating Spotify status... without JavaScript",
+      "href": "https://lina.sh/blog/spotify-status-without-js",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 19
+    },
+    {
       "title": "Jujutsu for everyone",
       "href": "https://jj-for-everyone.github.io/",
       "points": "",
       "comments": "\n              22 comments",
-      "index": 19
-    },
-    {
-      "title": "Automatic updating Spotify status... without JavaScript",
-      "href": "https://lina.sh/blog/spotify-status-without-js",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Building a WASM compiler in Roc (series)",
+      "href": "https://dusty.phillips.codes/roc/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 22
+    },
+    {
       "title": "Understanding Apache Fluss",
       "href": "https://jack-vanlightly.com/blog/2025/9/2/understanding-apache-fluss",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Why do browsers throttle JavaScript timers?",
       "href": "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "A Review of Nim 2: The Good & Bad with Example Code",
       "href": "https://miguel-martin.com/blog/nim2-review",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 24
-    },
-    {
-      "title": "Building a WASM compiler in Roc (series)",
-      "href": "https://dusty.phillips.codes/roc/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 25
     }
   ]
