@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, September 2, 2025 at 5:15 PM GMT-5",
+  "date": "Tuesday, September 2, 2025 at 6:15 PM GMT-5",
   "articles": [
-    {
-      "title": "Debugging Rustler on illumos",
-      "href": "https://system-illumination.org/01-rustler.html",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 1
-    },
     {
       "title": "Of Rats and Ratchets (2024)",
       "href": "https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html",
       "points": "",
       "comments": "\n              8 comments",
+      "index": 1
+    },
+    {
+      "title": "Debugging Rustler on illumos",
+      "href": "https://system-illumination.org/01-rustler.html",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 2
     },
     {
@@ -26,7 +26,7 @@
       "title": "IRC - The Serial Port's love letter to Internet Relay Chat",
       "href": "https://www.youtube.com/watch?v=6UbKenFipjo",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 4
     },
     {
@@ -37,38 +37,38 @@
       "index": 5
     },
     {
-      "title": "Bear is now source-available",
-      "href": "https://herman.bearblog.dev/license/",
-      "points": "",
-      "comments": "\n              30 comments",
-      "index": 6
-    },
-    {
-      "title": "Python has had async for 10 years -- why isn't it more popular?",
-      "href": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 7
-    },
-    {
       "title": "matrix.org Major Outage - Database Incident (September 2nd 2025)",
       "href": "https://status.matrix.org/incidents/mm9hdm78svgv",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 8
+      "index": 6
     },
     {
-      "title": "Next.js Is Infuriating",
-      "href": "https://blog.meca.sh/3lxoty3shjc2z",
+      "title": "Bear is now source-available",
+      "href": "https://herman.bearblog.dev/license/",
       "points": "",
-      "comments": "\n              15 comments",
-      "index": 9
+      "comments": "\n              30 comments",
+      "index": 7
     },
     {
       "title": "why self-host 9front",
       "href": "https://orib.dev/selfhost.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
+      "title": "Python has had async for 10 years -- why isn't it more popular?",
+      "href": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 9
+    },
+    {
+      "title": "Next.js Is Infuriating",
+      "href": "https://blog.meca.sh/3lxoty3shjc2z",
+      "points": "",
+      "comments": "\n              17 comments",
       "index": 10
     },
     {
@@ -82,91 +82,91 @@
       "title": "The future of 32-bit support in the kernel",
       "href": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
       "points": "",
-      "comments": "\n              39 comments",
+      "comments": "\n              40 comments",
       "index": 12
     },
     {
       "title": "Saturation and the Triumph of History: How most of the behavior of Tech Leaders since 2016 can be explained by smartphone market saturation",
       "href": "https://notes.hella.cheap/saturation-and-the-triumph-of-history.html",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              20 comments",
       "index": 13
-    },
-    {
-      "title": "Faster linking times with 1.90.0 stable on Linux using the LLD linker",
-      "href": "https://blog.rust-lang.org/2025/09/01/rust-lld-on-1.90.0-stable/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 14
-    },
-    {
-      "title": "Aperiodic Tilings V: the Refinable Frontier",
-      "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-refine/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
     },
     {
       "title": "ClonOS: FreeBSD based distro for virtual hosting platform and appliances",
       "href": "https://clonos.convectix.com/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Faster linking times with 1.90.0 stable on Linux using the LLD linker",
+      "href": "https://blog.rust-lang.org/2025/09/01/rust-lld-on-1.90.0-stable/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 15
+    },
+    {
+      "title": "Aperiodic Tilings V: the Refinable Frontier",
+      "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-refine/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 16
-    },
-    {
-      "title": "What's cooking on SourceHut? Q3 2025",
-      "href": "https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 17
-    },
-    {
-      "title": "Passkeys are incompatible with open-source software",
-      "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
-      "points": "",
-      "comments": "\n              193 comments",
-      "index": 18
-    },
-    {
-      "title": "Introduction to Ada: a project-based exploration with rosettas",
-      "href": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Reflections on Haskell@Meta",
-      "href": "https://www.youtube.com/watch?v=gEWBHP0PvRw",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Compile Svelte 5 in your head",
-      "href": "https://lihautan.com/compile-svelte-5-in-your-head",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 21
-    },
-    {
-      "title": "Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel",
-      "href": "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Using AI Coding Agents for finding vulnerabilities: strengths, weaknesses, and serious consistency problems",
-      "href": "https://semgrep.dev/blog/2025/finding-vulnerabilities-in-modern-web-apps-using-claude-code-and-openai-codex",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
     },
     {
       "title": "Making XML human-readable without XSLT",
       "href": "https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
+      "title": "Reflections on Haskell@Meta",
+      "href": "https://www.youtube.com/watch?v=gEWBHP0PvRw",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "What's cooking on SourceHut? Q3 2025",
+      "href": "https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 19
+    },
+    {
+      "title": "Passkeys are incompatible with open-source software",
+      "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
+      "points": "",
+      "comments": "\n              196 comments",
+      "index": 20
+    },
+    {
+      "title": "Introduction to Ada: a project-based exploration with rosettas",
+      "href": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Compile Svelte 5 in your head",
+      "href": "https://lihautan.com/compile-svelte-5-in-your-head",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 22
+    },
+    {
+      "title": "Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel",
+      "href": "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Using AI Coding Agents for finding vulnerabilities: strengths, weaknesses, and serious consistency problems",
+      "href": "https://semgrep.dev/blog/2025/finding-vulnerabilities-in-modern-web-apps-using-claude-code-and-openai-codex",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
