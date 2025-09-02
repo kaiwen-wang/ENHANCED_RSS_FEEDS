@@ -1,214 +1,214 @@
 {
-  "date": "Tuesday, September 2, 2025 at 12:15 PM GMT-5",
+  "date": "Tuesday, September 2, 2025 at 1:25 PM GMT-5",
   "articles": [
     {
-      "title": "Anthropic raises $13B Series F at $183B post-money valuation",
-      "href": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
-      "points": "178 points",
-      "comments": "164 comments",
+      "title": "Introduction to Ada: a project-based exploration with rosettas",
+      "href": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
+      "points": "39 points",
+      "comments": "2 comments",
       "index": 1
+    },
+    {
+      "title": "'World Models,' an old idea in AI, mount a comeback",
+      "href": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
+      "points": "34 points",
+      "comments": "6 comments",
+      "index": 2
     },
     {
       "title": "Static sites enable a good time travel experience",
       "href": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/",
-      "points": "42 points",
-      "comments": "10 comments",
-      "index": 2
+      "points": "75 points",
+      "comments": "19 comments",
+      "index": 3
+    },
+    {
+      "title": "<template>: The Content Template element",
+      "href": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
+      "points": "21 points",
+      "comments": "discuss",
+      "index": 4
     },
     {
       "title": "The Little Book of Linear Algebra",
       "href": "https://github.com/the-litte-book-of/linear-algebra",
-      "points": "65 points",
-      "comments": "3 comments",
-      "index": 3
-    },
-    {
-      "title": "Show HN: Moribito – A TUI for LDAP Viewing/Queries",
-      "href": "https://github.com/ericschmar/moribito",
-      "points": "68 points",
-      "comments": "19 comments",
-      "index": 4
+      "points": "123 points",
+      "comments": "16 comments",
+      "index": 5
     },
     {
       "title": "Launch HN: Datafruit (YC S25) – AI for DevOps",
       "href": "item?id=45104974",
-      "points": "9 points",
-      "comments": "7 comments",
-      "index": 5
+      "points": "18 points",
+      "comments": "9 comments",
+      "index": 6
+    },
+    {
+      "title": "Writing a Hypervisor in 1k Lines",
+      "href": "https://seiya.me/blog/hypervisor-in-1000-lines",
+      "points": "39 points",
+      "comments": "1 comment",
+      "index": 7
+    },
+    {
+      "title": "Anthropic raises $13B Series F at $183B post-money valuation",
+      "href": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "points": "252 points",
+      "comments": "279 comments",
+      "index": 8
     },
     {
       "title": "Removing Guix from Debian",
       "href": "https://lwn.net/SubscriberLink/1035491/d8100135a8ae4246/",
-      "points": "24 points",
-      "comments": "2 comments",
-      "index": 6
-    },
-    {
-      "title": "Passkeys and Modern Authentication",
-      "href": "https://lucumr.pocoo.org/2025/9/2/passkeys/",
-      "points": "43 points",
-      "comments": "5 comments",
-      "index": 7
-    },
-    {
-      "title": "X(Twitter) Shadow Bans Turkish Presidential Candidate",
-      "href": "https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish",
-      "points": "143 points",
-      "comments": "66 comments",
-      "index": 8
-    },
-    {
-      "title": "Run Erlang/Elixir on Microcontrollers and Embedded Linux",
-      "href": "https://www.grisp.org/software",
-      "points": "158 points",
-      "comments": "34 comments",
+      "points": "53 points",
+      "comments": "9 comments",
       "index": 9
     },
     {
-      "title": "Reusing Computation in Text-to-Image Diffusion for Efficient Image Generation",
-      "href": "https://arxiv.org/abs/2508.21032",
-      "points": "17 points",
-      "comments": "1 comment",
+      "title": "Show HN: Moribito – A TUI for LDAP Viewing/Queries",
+      "href": "https://github.com/ericschmar/moribito",
+      "points": "76 points",
+      "comments": "21 comments",
       "index": 10
-    },
-    {
-      "title": "Collecting All Causal Knowledge",
-      "href": "https://causenet.org/",
-      "points": "186 points",
-      "comments": "87 comments",
-      "index": 11
-    },
-    {
-      "title": "Quirks of Common Lisp Types",
-      "href": "https://www.fosskers.ca/en/blog/cl-type-quirks",
-      "points": "80 points",
-      "comments": "13 comments",
-      "index": 12
-    },
-    {
-      "title": "The easy way to make a website with Markdown",
-      "href": "https://github.com/dtedesco1/nextjs-markdown-boilerplate",
-      "points": "9 points",
-      "comments": "15 comments",
-      "index": 13
-    },
-    {
-      "title": "An LLM is a lossy encyclopedia",
-      "href": "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/",
-      "points": "330 points",
-      "comments": "241 comments",
-      "index": 14
-    },
-    {
-      "title": "Kazeta: An operating system that brings the console gaming experience of 90s",
-      "href": "https://kazeta.org/",
-      "points": "278 points",
-      "comments": "123 comments",
-      "index": 15
     },
     {
       "title": "AI web crawlers are destroying websites in their never-ending content hunger",
       "href": "https://www.theregister.com/2025/08/29/ai_web_crawlers_are_destroying/",
-      "points": "21 points",
-      "comments": "5 comments",
+      "points": "79 points",
+      "comments": "33 comments",
+      "index": 11
+    },
+    {
+      "title": "Python has had async for 10 years – why isn't it more popular?",
+      "href": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html",
+      "points": "57 points",
+      "comments": "56 comments",
+      "index": 12
+    },
+    {
+      "title": "Run Erlang/Elixir on Microcontrollers and Embedded Linux",
+      "href": "https://www.grisp.org/software",
+      "points": "168 points",
+      "comments": "40 comments",
+      "index": 13
+    },
+    {
+      "title": "We already live in social credit, we just don't call it that",
+      "href": "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/",
+      "points": "80 points",
+      "comments": "85 comments",
+      "index": 14
+    },
+    {
+      "title": "OpenAI says it's scanning users' conversations and reporting content to police",
+      "href": "https://futurism.com/openai-scanning-conversations-police",
+      "points": "59 points",
+      "comments": "15 comments",
+      "index": 15
+    },
+    {
+      "title": "Reusing Computation in Text-to-Image Diffusion for Efficient Image Generation",
+      "href": "https://arxiv.org/abs/2508.21032",
+      "points": "23 points",
+      "comments": "1 comment",
       "index": 16
     },
     {
-      "title": "You don't want to hire \"the best engineers\"",
-      "href": "https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers",
-      "points": "285 points",
-      "comments": "205 comments",
+      "title": "The easy way to make a website with Markdown",
+      "href": "https://github.com/dtedesco1/nextjs-markdown-boilerplate",
+      "points": "24 points",
+      "comments": "23 comments",
       "index": 17
     },
     {
-      "title": "Keyboards from my collection (2023)",
-      "href": "https://aresluna.org/50-keyboards-from-my-collection/",
-      "points": "100 points",
-      "comments": "14 comments",
+      "title": "AI Models Need a Virtual Machine",
+      "href": "https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/",
+      "points": "4 points",
+      "comments": "discuss",
       "index": 18
     },
     {
-      "title": "RubyMine is now free for non-commercial use",
-      "href": "https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/",
-      "points": "115 points",
-      "comments": "52 comments",
+      "title": "Collecting All Causal Knowledge",
+      "href": "https://causenet.org/",
+      "points": "199 points",
+      "comments": "93 comments",
       "index": 19
     },
     {
-      "title": "Amazon has mostly sat out the AI talent war",
-      "href": "https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8",
-      "points": "334 points",
-      "comments": "602 comments",
+      "title": "Quirks of Common Lisp Types",
+      "href": "https://www.fosskers.ca/en/blog/cl-type-quirks",
+      "points": "88 points",
+      "comments": "15 comments",
       "index": 20
     },
     {
-      "title": "The day Return became Enter (2023)",
-      "href": "https://aresluna.org/the-day-return-became-enter/",
-      "points": "307 points",
-      "comments": "147 comments",
+      "title": "Passkeys and Modern Authentication",
+      "href": "https://lucumr.pocoo.org/2025/9/2/passkeys/",
+      "points": "84 points",
+      "comments": "60 comments",
       "index": 21
     },
     {
-      "title": "Next.js is infuriating",
-      "href": "https://blog.meca.sh/3lxoty3shjc2z",
-      "points": "795 points",
-      "comments": "441 comments",
+      "title": "An LLM is a lossy encyclopedia",
+      "href": "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/",
+      "points": "363 points",
+      "comments": "259 comments",
       "index": 22
+    },
+    {
+      "title": "Kazeta: An operating system that brings the console gaming experience of 90s",
+      "href": "https://kazeta.org/",
+      "points": "288 points",
+      "comments": "131 comments",
+      "index": 23
+    },
+    {
+      "title": "X(Twitter) Shadow Bans Turkish Presidential Candidate",
+      "href": "https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish",
+      "points": "241 points",
+      "comments": "104 comments",
+      "index": 24
     },
     {
       "title": "The staff ate it later",
       "href": "https://en.wikipedia.org/wiki/The_staff_ate_it_later",
-      "points": "32 points",
-      "comments": "5 comments",
-      "index": 23
-    },
-    {
-      "title": "Making Minecraft Spherical",
-      "href": "https://www.bowerbyte.com/posts/blocky-planet/",
-      "points": "825 points",
-      "comments": "115 comments",
-      "index": 24
+      "points": "59 points",
+      "comments": "20 comments",
+      "index": 25
     },
     {
       "title": "Kapa.ai (YC S23) is hiring research and software engineers",
       "href": "https://www.ycombinator.com/companies/kapa-ai/jobs",
       "points": "",
       "comments": "hide",
-      "index": 25
-    },
-    {
-      "title": "Implementing a Foil Sticker Effect",
-      "href": "https://www.4rknova.com/blog/2025/08/30/foil-sticker",
-      "points": "457 points",
-      "comments": "45 comments",
       "index": 26
     },
     {
-      "title": "Patrick Winston: How to Speak (2018) [video]",
-      "href": "https://www.youtube.com/watch?v=Unzc731iCUY",
-      "points": "393 points",
-      "comments": "72 comments",
+      "title": "Keyboards from my collection (2023)",
+      "href": "https://aresluna.org/50-keyboards-from-my-collection/",
+      "points": "109 points",
+      "comments": "21 comments",
       "index": 27
     },
     {
-      "title": "How to Argue with an AI Booster",
-      "href": "https://www.wheresyoured.at/how-to-argue-with-an-ai-booster/",
-      "points": "7 points",
-      "comments": "1 comment",
+      "title": "Amazon has mostly sat out the AI talent war",
+      "href": "https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8",
+      "points": "344 points",
+      "comments": "608 comments",
       "index": 28
     },
     {
-      "title": "FreeDroidWarn",
-      "href": "https://github.com/woheller69/FreeDroidWarn",
-      "points": "369 points",
-      "comments": "265 comments",
+      "title": "RubyMine is now free for non-commercial use",
+      "href": "https://blog.jetbrains.com/ruby/2025/09/rubymine-is-now-free-for-non-commercial-use/",
+      "points": "138 points",
+      "comments": "57 comments",
       "index": 29
     },
     {
-      "title": "Bear is now source-available",
-      "href": "https://herman.bearblog.dev/license/",
-      "points": "498 points",
-      "comments": "440 comments",
+      "title": "Ask HN: Is your company still hiring junior engineers?",
+      "href": "item?id=45105532",
+      "points": "13 points",
+      "comments": "7 comments",
       "index": 30
     }
   ]
