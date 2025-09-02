@@ -1,116 +1,116 @@
 {
-  "date": "Monday, September 1, 2025 at 10:05 PM GMT-5",
+  "date": "Monday, September 1, 2025 at 11:25 PM GMT-5",
   "articles": [
     {
       "title": "Bear is now source-available",
       "href": "https://herman.bearblog.dev/license/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 1
     },
     {
       "title": "Passkeys are incompatible with open-source software",
       "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
       "points": "",
-      "comments": "\n              94 comments",
+      "comments": "\n              96 comments",
       "index": 2
     },
     {
       "title": "End of (Windows) 10",
       "href": "https://endof10.org/",
       "points": "",
-      "comments": "\n              43 comments",
+      "comments": "\n              44 comments",
       "index": 3
     },
     {
       "title": "Baba Yaga License",
       "href": "https://smallandnearlysilent.com/baba-yaga/LICENSE.txt",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
       "index": 4
     },
     {
       "title": "The ASCII Side of the Moon",
       "href": "https://aleyan.com/projects/ascii-side-of-the-moon/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 5
     },
     {
-      "title": "Jujutsu for everyone",
-      "href": "https://jj-for-everyone.github.io/",
+      "title": "The future of 32-bit support in the kernel",
+      "href": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              2 comments",
       "index": 6
-    },
-    {
-      "title": "things rust shipped without (2015)",
-      "href": "https://graydon2.dreamwidth.org/218040.html",
-      "points": "",
-      "comments": "\n              24 comments",
-      "index": 7
-    },
-    {
-      "title": "Processors are getting wider",
-      "href": "https://lemire.me/blog/2025/09/01/processors-are-getting-wider/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 8
-    },
-    {
-      "title": "Why do browsers throttle JavaScript timers?",
-      "href": "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 9
     },
     {
       "title": "What's cooking on SourceHut? Q3 2025",
       "href": "https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 7
     },
     {
-      "title": "A Review of Nim 2: The Good & Bad with Example Code",
-      "href": "https://miguel-martin.com/blog/nim2-review",
+      "title": "Jujutsu for everyone",
+      "href": "https://jj-for-everyone.github.io/",
       "points": "",
-      "comments": "\n              9 comments",
-      "index": 11
-    },
-    {
-      "title": "Automatic updating Spotify status... without JavaScript",
-      "href": "https://lina.sh/blog/spotify-status-without-js",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
+      "comments": "\n              19 comments",
+      "index": 8
     },
     {
       "title": "Faster linking times with 1.90.0 stable on Linux using the LLD linker",
       "href": "https://blog.rust-lang.org/2025/09/01/rust-lld-on-1.90.0-stable/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 9
+    },
+    {
+      "title": "things rust shipped without (2015)",
+      "href": "https://graydon2.dreamwidth.org/218040.html",
+      "points": "",
+      "comments": "\n              25 comments",
+      "index": 10
     },
     {
       "title": "Nimony: Design principles",
       "href": "https://nim-lang.org/araq/nimony.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "The future of 32-bit support in the kernel",
-      "href": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
+      "index": 11
     },
     {
       "title": "Saturation and the Triumph of History: How most of the behavior of Tech Leaders since 2016 can be explained by smartphone market saturation",
       "href": "https://notes.hella.cheap/saturation-and-the-triumph-of-history.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "A Review of Nim 2: The Good & Bad with Example Code",
+      "href": "https://miguel-martin.com/blog/nim2-review",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 13
+    },
+    {
+      "title": "Processors are getting wider",
+      "href": "https://lemire.me/blog/2025/09/01/processors-are-getting-wider/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 14
+    },
+    {
+      "title": "Why do browsers throttle JavaScript timers?",
+      "href": "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 15
+    },
+    {
+      "title": "Automatic updating Spotify status... without JavaScript",
+      "href": "https://lina.sh/blog/spotify-status-without-js",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 16
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "C++ Memory Safety in WebKit",
+      "href": "https://m.youtube.com/watch?v=RLw13wLM5Ko",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
       "title": "Building a WASM compiler in Roc (series)",
       "href": "https://dusty.phillips.codes/roc/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Three years of building no-code software for grassroots political organizations",
       "href": "https://write.as/conjure-utopia/three-years-of-building-no-code-software-for-political-organizations",
       "points": "",
       "comments": "\n              30 comments",
-      "index": 22
-    },
-    {
-      "title": "C++ Memory Safety in WebKit",
-      "href": "https://m.youtube.com/watch?v=RLw13wLM5Ko",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 23
-    },
-    {
-      "title": "Baby's first type checker",
-      "href": "https://austinhenley.com/blog/babytypechecker.html",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 24
     },
     {
       "title": "What Every Argument About Sideloading Gets Wrong",
       "href": "https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 24
+    },
+    {
+      "title": "Baby's first type checker",
+      "href": "https://austinhenley.com/blog/babytypechecker.html",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 25
     }
   ]
