@@ -1,46 +1,46 @@
 {
-  "date": "Tuesday, September 2, 2025 at 1:30 AM GMT-5",
+  "date": "Tuesday, September 2, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "Bear is now source-available",
       "href": "https://herman.bearblog.dev/license/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
       "title": "Passkeys are incompatible with open-source software",
       "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
       "points": "",
-      "comments": "\n              104 comments",
+      "comments": "\n              110 comments",
       "index": 2
     },
     {
       "title": "End of (Windows) 10",
       "href": "https://endof10.org/",
       "points": "",
-      "comments": "\n              47 comments",
+      "comments": "\n              48 comments",
       "index": 3
-    },
-    {
-      "title": "Baba Yaga License",
-      "href": "https://smallandnearlysilent.com/baba-yaga/LICENSE.txt",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 4
     },
     {
       "title": "The future of 32-bit support in the kernel",
       "href": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 4
+    },
+    {
+      "title": "Faster linking times with 1.90.0 stable on Linux using the LLD linker",
+      "href": "https://blog.rust-lang.org/2025/09/01/rust-lld-on-1.90.0-stable/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 5
     },
     {
-      "title": "What's cooking on SourceHut? Q3 2025",
-      "href": "https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/",
+      "title": "Baba Yaga License",
+      "href": "https://smallandnearlysilent.com/baba-yaga/LICENSE.txt",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              17 comments",
       "index": 6
     },
     {
@@ -51,8 +51,8 @@
       "index": 7
     },
     {
-      "title": "Faster linking times with 1.90.0 stable on Linux using the LLD linker",
-      "href": "https://blog.rust-lang.org/2025/09/01/rust-lld-on-1.90.0-stable/",
+      "title": "What's cooking on SourceHut? Q3 2025",
+      "href": "https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/",
       "points": "",
       "comments": "\n              no comments",
       "index": 8
@@ -93,50 +93,50 @@
       "index": 13
     },
     {
+      "title": "[Optimising] Spatial Joins in DuckDB",
+      "href": "https://duckdb.org/2025/08/08/spatial-joins.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 14
+    },
+    {
       "title": "A Review of Nim 2: The Good & Bad with Example Code",
       "href": "https://miguel-martin.com/blog/nim2-review",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Automatic updating Spotify status... without JavaScript",
       "href": "https://lina.sh/blog/spotify-status-without-js",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Why do browsers throttle JavaScript timers?",
       "href": "https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 16
+      "index": 17
     },
     {
-      "title": "[Optimising] Spatial Joins in DuckDB",
-      "href": "https://duckdb.org/2025/08/08/spatial-joins.html",
+      "title": "Building a WASM compiler in Roc (series)",
+      "href": "https://dusty.phillips.codes/roc/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 17
+      "comments": "\n              1 comment",
+      "index": 18
     },
     {
       "title": "We need to seriously think about what to do with C++ modules",
       "href": "https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html",
       "points": "",
       "comments": "\n              45 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Compile Svelte 5 in your head",
       "href": "https://lihautan.com/compile-svelte-5-in-your-head",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Building a WASM compiler in Roc (series)",
-      "href": "https://dusty.phillips.codes/roc/",
       "points": "",
       "comments": "\n              no comments",
       "index": 20
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Next.js Is Infuriating",
+      "href": "https://blog.meca.sh/3lxoty3shjc2z",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "Thinking about coding",
       "href": "https://www.robinsloan.com/lab/thinking-about-coding/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Default Methods in Go",
       "href": "https://mcyoung.xyz/2025/08/25/go-default-methods/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "How DuckLake Simplifies Lakehouse Architecture",
       "href": "https://www.youtube.com/watch?v=-PYLFx3FRfQ",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "What Every Argument About Sideloading Gets Wrong",
-      "href": "https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 25
     }
   ]
