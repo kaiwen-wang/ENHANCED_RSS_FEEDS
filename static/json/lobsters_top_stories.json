@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, September 2, 2025 at 10:20 AM GMT-5",
+  "date": "Tuesday, September 2, 2025 at 11:25 AM GMT-5",
   "articles": [
-    {
-      "title": "Bear is now source-available",
-      "href": "https://herman.bearblog.dev/license/",
-      "points": "",
-      "comments": "\n              27 comments",
-      "index": 1
-    },
     {
       "title": "Debugging Rustler on illumos",
       "href": "https://system-illumination.org/01-rustler.html",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 1
+    },
+    {
+      "title": "Bear is now source-available",
+      "href": "https://herman.bearblog.dev/license/",
+      "points": "",
+      "comments": "\n              28 comments",
       "index": 2
     },
     {
@@ -30,52 +30,52 @@
       "index": 4
     },
     {
-      "title": "The future of 32-bit support in the kernel",
-      "href": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
+      "title": "Next.js Is Infuriating",
+      "href": "https://blog.meca.sh/3lxoty3shjc2z",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              6 comments",
       "index": 5
     },
     {
       "title": "Saturation and the Triumph of History: How most of the behavior of Tech Leaders since 2016 can be explained by smartphone market saturation",
       "href": "https://notes.hella.cheap/saturation-and-the-triumph-of-history.html",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              11 comments",
       "index": 6
-    },
-    {
-      "title": "Next.js Is Infuriating",
-      "href": "https://blog.meca.sh/3lxoty3shjc2z",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 7
-    },
-    {
-      "title": "Passkeys are incompatible with open-source software",
-      "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
-      "points": "",
-      "comments": "\n              131 comments",
-      "index": 8
     },
     {
       "title": "Wikidata and Mundaneum - The Triumph of the Commons",
       "href": "https://schmud.de/programs/2025-09-02-wikidata-mundaneum.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "The future of 32-bit support in the kernel",
+      "href": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 8
+    },
+    {
+      "title": "Passkeys are incompatible with open-source software",
+      "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
+      "points": "",
+      "comments": "\n              134 comments",
       "index": 9
     },
     {
       "title": "Faster linking times with 1.90.0 stable on Linux using the LLD linker",
       "href": "https://blog.rust-lang.org/2025/09/01/rust-lld-on-1.90.0-stable/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 10
     },
     {
       "title": "What's cooking on SourceHut? Q3 2025",
       "href": "https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 11
     },
     {
@@ -89,7 +89,7 @@
       "title": "End of (Windows) 10",
       "href": "https://endof10.org/",
       "points": "",
-      "comments": "\n              59 comments",
+      "comments": "\n              60 comments",
       "index": 13
     },
     {
@@ -114,59 +114,59 @@
       "index": 16
     },
     {
+      "title": "Beware of Sorting Locales",
+      "href": "https://www.adrianstoll.com/post/beware-of-sorting-locales/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
       "title": "The ASCII Side of the Moon",
       "href": "https://aleyan.com/projects/ascii-side-of-the-moon/",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 17
+      "comments": "\n              10 comments",
+      "index": 18
     },
     {
       "title": "Nimony: Design principles",
       "href": "https://nim-lang.org/araq/nimony.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Automatic updating Spotify status... without JavaScript",
       "href": "https://lina.sh/blog/spotify-status-without-js",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Aperiodic Tilings V: the Refinable Frontier",
       "href": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-refine/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Jujutsu for everyone",
       "href": "https://jj-for-everyone.github.io/",
       "points": "",
       "comments": "\n              24 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Building a WASM compiler in Roc (series)",
       "href": "https://dusty.phillips.codes/roc/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "things rust shipped without (2015)",
       "href": "https://graydon2.dreamwidth.org/218040.html",
       "points": "",
-      "comments": "\n              27 comments",
-      "index": 23
-    },
-    {
-      "title": "Understanding Apache Fluss",
-      "href": "https://jack-vanlightly.com/blog/2025/9/2/understanding-apache-fluss",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              28 comments",
       "index": 24
     },
     {
