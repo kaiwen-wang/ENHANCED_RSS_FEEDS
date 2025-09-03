@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, September 3, 2025 at 3:20 PM GMT-5",
+  "date": "Wednesday, September 3, 2025 at 4:15 PM GMT-5",
   "articles": [
-    {
-      "title": "The first Gleam Conference – Gathering 2026",
-      "href": "https://gleamgathering.com/",
-      "points": "41 points",
-      "comments": "8 comments",
-      "index": 1
-    },
-    {
-      "title": "Tufte CSS",
-      "href": "https://edwardtufte.github.io/tufte-css/",
-      "points": "61 points",
-      "comments": "10 comments",
-      "index": 2
-    },
     {
       "title": "Claude Code: Now in Beta in Zed",
       "href": "https://zed.dev/blog/claude-code-via-acp",
-      "points": "325 points",
-      "comments": "242 comments",
-      "index": 3
+      "points": "368 points",
+      "comments": "265 comments",
+      "index": 1
     },
     {
       "title": "Nuclear: Desktop music player focused on streaming from free sources",
       "href": "https://github.com/nukeop/nuclear",
-      "points": "168 points",
-      "comments": "93 comments",
-      "index": 4
+      "points": "190 points",
+      "comments": "112 comments",
+      "index": 2
+    },
+    {
+      "title": "We're Joining OpenAI",
+      "href": "https://www.alexcodes.app/blog/alex-team-joins-openai",
+      "points": "49 points",
+      "comments": "21 comments",
+      "index": 3
     },
     {
       "title": "Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels",
       "href": "https://gimletlabs.ai/blog/ai-generated-metal-kernels",
-      "points": "88 points",
-      "comments": "7 comments",
-      "index": 5
+      "points": "103 points",
+      "comments": "11 comments",
+      "index": 4
     },
     {
       "title": "Microsoft BASIC for 6502 Microprocessor – Version 1.1",
       "href": "https://github.com/microsoft/BASIC-M6502",
-      "points": "165 points",
-      "comments": "105 comments",
+      "points": "190 points",
+      "comments": "121 comments",
+      "index": 5
+    },
+    {
+      "title": "Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)",
+      "href": "https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer",
+      "points": "",
+      "comments": "hide",
       "index": 6
     },
     {
       "title": "What Is It Like to Be a Bat?",
       "href": "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F",
-      "points": "48 points",
-      "comments": "37 comments",
+      "points": "63 points",
+      "comments": "61 comments",
       "index": 7
-    },
-    {
-      "title": "Poor man's bitemporal data system in SQLite and Clojure",
-      "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
-      "points": "72 points",
-      "comments": "15 comments",
-      "index": 8
     },
     {
       "title": "Writing a C compiler in 500 lines of Python (2023)",
       "href": "https://vgel.me/posts/c500/",
-      "points": "74 points",
-      "comments": "8 comments",
-      "index": 9
+      "points": "94 points",
+      "comments": "15 comments",
+      "index": 8
     },
     {
-      "title": "Understanding Transformers Using a Minimal Example",
-      "href": "https://rti.github.io/gptvis/",
-      "points": "89 points",
-      "comments": "3 comments",
-      "index": 10
+      "title": "Poor man's bitemporal data system in SQLite and Clojure",
+      "href": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
+      "points": "90 points",
+      "comments": "21 comments",
+      "index": 9
     },
     {
       "title": "VibeVoice: A Frontier Open-Source Text-to-Speech Model",
       "href": "https://microsoft.github.io/VibeVoice/",
-      "points": "342 points",
-      "comments": "135 comments",
+      "points": "354 points",
+      "comments": "136 comments",
+      "index": 10
+    },
+    {
+      "title": "OSMAnd vs. Organic Maps",
+      "href": "https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html",
+      "points": "38 points",
+      "comments": "17 comments",
       "index": 11
     },
     {
-      "title": "The Theoretical Limitations of Embedding-Based Retrieval",
-      "href": "https://www.alphaxiv.org/abs/2508.21038v1",
-      "points": "10 points",
-      "comments": "2 comments",
+      "title": "Understanding Transformers Using a Minimal Example",
+      "href": "https://rti.github.io/gptvis/",
+      "points": "100 points",
+      "comments": "4 comments",
       "index": 12
     },
     {
-      "title": "Svix (webhooks as a service) is hiring for a founding marketing lead",
-      "href": "https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22",
-      "points": "",
-      "comments": "hide",
+      "title": "Tufte CSS",
+      "href": "https://edwardtufte.github.io/tufte-css/",
+      "points": "92 points",
+      "comments": "20 comments",
       "index": 13
     },
     {
       "title": "The wall confronting large language models",
       "href": "https://arxiv.org/abs/2507.19703",
-      "points": "54 points",
-      "comments": "9 comments",
+      "points": "68 points",
+      "comments": "26 comments",
       "index": 14
-    },
-    {
-      "title": "6NF File Format",
-      "href": "https://habr.com/en/articles/942516/",
-      "points": "26 points",
-      "comments": "2 comments",
-      "index": 15
     },
     {
       "title": "Voyager – An interactive video generation model with realtime 3D reconstruction",
       "href": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
-      "points": "270 points",
-      "comments": "187 comments",
+      "points": "278 points",
+      "comments": "195 comments",
+      "index": 15
+    },
+    {
+      "title": "6NF File Format",
+      "href": "https://habr.com/en/articles/942516/",
+      "points": "34 points",
+      "comments": "4 comments",
       "index": 16
     },
     {
       "title": "A Random Walk in 10 Dimensions (2021)",
       "href": "https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/",
-      "points": "69 points",
-      "comments": "10 comments",
+      "points": "77 points",
+      "comments": "12 comments",
       "index": 17
     },
     {
-      "title": "OSMAnd vs. Organic Maps",
-      "href": "https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html",
-      "points": "17 points",
-      "comments": "7 comments",
+      "title": "Building the most accurate DIY CNC lathe in the world [video]",
+      "href": "https://www.youtube.com/watch?v=vEr2CJruwEM",
+      "points": "115 points",
+      "comments": "37 comments",
       "index": 18
     },
     {
       "title": "Launch HN: Risely (YC S25) – AI Agents for Universities",
       "href": "item?id=45116859",
-      "points": "29 points",
+      "points": "31 points",
       "comments": "18 comments",
       "index": 19
     },
     {
-      "title": "Building the most accurate DIY CNC lathe in the world [video]",
-      "href": "https://www.youtube.com/watch?v=vEr2CJruwEM",
-      "points": "107 points",
-      "comments": "29 comments",
+      "title": "The Theoretical Limitations of Embedding-Based Retrieval",
+      "href": "https://www.alphaxiv.org/abs/2508.21038v1",
+      "points": "17 points",
+      "comments": "3 comments",
       "index": 20
     },
     {
-      "title": "Another YC company was acquihired today by OpenAI",
-      "href": "https://www.alexcodes.app/blog/alex-team-joins-openai",
-      "points": "17 points",
-      "comments": "7 comments",
+      "title": "Lively Linear Lisp (1992) [pdf]",
+      "href": "https://www.cs.utexas.edu/users/hunt/research/hash-cons/hash-cons-papers/BakerLinearLisp.pdf",
+      "points": "6 points",
+      "comments": "discuss",
       "index": 21
     },
     {
-      "title": "John Coltrane's Tone Circle",
-      "href": "https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/",
-      "points": "123 points",
-      "comments": "46 comments",
+      "title": "The Sudden Surges That Forge Evolutionary Trees",
+      "href": "https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/",
+      "points": "27 points",
+      "comments": "5 comments",
       "index": 22
-    },
-    {
-      "title": "Who Owns, Operates, and Develops Your VPN Matters",
-      "href": "https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/",
-      "points": "131 points",
-      "comments": "110 comments",
-      "index": 23
     },
     {
       "title": "The 16-year odyssey it took to emulate the Pioneer LaserActive",
       "href": "https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/",
-      "points": "225 points",
-      "comments": "45 comments",
+      "points": "236 points",
+      "comments": "48 comments",
+      "index": 23
+    },
+    {
+      "title": "John Coltrane's Tone Circle",
+      "href": "https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/",
+      "points": "129 points",
+      "comments": "48 comments",
       "index": 24
+    },
+    {
+      "title": "The worst possible antitrust outcome",
+      "href": "https://pluralistic.net/2025/09/03/unpunishing-process/",
+      "points": "27 points",
+      "comments": "1 comment",
+      "index": 25
+    },
+    {
+      "title": "Ask HN: Gandi is holding my domain hostage. What can I do?",
+      "href": "item?id=45118689",
+      "points": "27 points",
+      "comments": "10 comments",
+      "index": 26
     },
     {
       "title": "This Page Is a Quine (2021)",
       "href": "https://pranavg.me/",
-      "points": "31 points",
+      "points": "35 points",
       "comments": "6 comments",
-      "index": 25
-    },
-    {
-      "title": "PFP: A Probabilistic Functional Programming Library for Haskell (2006)",
-      "href": "https://web.engr.oregonstate.edu/~erwig/pfp/",
-      "points": "20 points",
-      "comments": "2 comments",
-      "index": 26
-    },
-    {
-      "title": "How to Give a Good Talk",
-      "href": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/",
-      "points": "175 points",
-      "comments": "62 comments",
       "index": 27
+    },
+    {
+      "title": "Gleam Gathering 2026",
+      "href": "https://gleamgathering.com/",
+      "points": "52 points",
+      "comments": "21 comments",
+      "index": 28
     },
     {
       "title": "UK Electricity Generation Map",
       "href": "https://www.energydashboard.co.uk/map",
-      "points": "126 points",
-      "comments": "79 comments",
-      "index": 28
-    },
-    {
-      "title": "Magic Lantern Is Back",
-      "href": "https://www.magiclantern.fm/forum/index.php?topic=27315.0",
-      "points": "450 points",
-      "comments": "145 comments",
+      "points": "138 points",
+      "comments": "84 comments",
       "index": 29
     },
     {
-      "title": "Abstract Machine Models (2022)",
-      "href": "https://dr-knz.net/abstract-machine-models.html",
-      "points": "69 points",
-      "comments": "6 comments",
+      "title": "PFP: A Probabilistic Functional Programming Library for Haskell (2006)",
+      "href": "https://web.engr.oregonstate.edu/~erwig/pfp/",
+      "points": "26 points",
+      "comments": "2 comments",
       "index": 30
     }
   ]
