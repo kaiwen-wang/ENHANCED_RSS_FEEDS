@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, September 3, 2025 at 2:15 PM GMT-5",
+  "date": "Wednesday, September 3, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Video Game Blurs (and how the best one works)",
@@ -12,14 +12,14 @@
       "title": "Wild Performance Tricks",
       "href": "https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              12 comments",
       "index": 2
     },
     {
       "title": "Why Rewriting Emacs Is Hard",
       "href": "https://kyo.iroiro.party/en/posts/why-rewriting-emacs-is-hard/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 3
     },
     {
@@ -30,38 +30,38 @@
       "index": 4
     },
     {
+      "title": "The first Gleam Conference - Gathering 2026",
+      "href": "https://gleamgathering.com/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 5
+    },
+    {
       "title": "2025 Financial Report and Fundraiser",
       "href": "https://ziglang.org/news/2025-financials/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Physically based rendering from first principles",
       "href": "https://imadr.me/pbr/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 6
+      "index": 7
+    },
+    {
+      "title": "How we made Kagi Assistant load twice as fast",
+      "href": "https://jacobwinters.com/kagi-assistant-optimization/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 8
     },
     {
       "title": "Passkeys and Modern Authentication",
       "href": "https://lucumr.pocoo.org/2025/9/2/passkeys/",
       "points": "",
-      "comments": "\n              16 comments",
-      "index": 7
-    },
-    {
-      "title": "%CPU Utilization Is A Lie",
-      "href": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 8
-    },
-    {
-      "title": "Adding #[derive(From)] to Rust",
-      "href": "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html",
-      "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              18 comments",
       "index": 9
     },
     {
@@ -79,66 +79,66 @@
       "index": 11
     },
     {
-      "title": "matrix.org Major Outage - Database Incident (September 2nd 2025)",
-      "href": "https://status.matrix.org/incidents/mm9hdm78svgv",
+      "title": "%CPU Utilization Is A Lie",
+      "href": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              4 comments",
       "index": 12
     },
     {
-      "title": "How we made Kagi Assistant load twice as fast",
-      "href": "https://jacobwinters.com/kagi-assistant-optimization/",
+      "title": "Adding #[derive(From)] to Rust",
+      "href": "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 13
+    },
+    {
+      "title": "matrix.org Major Outage - Database Incident (September 2nd 2025)",
+      "href": "https://status.matrix.org/incidents/mm9hdm78svgv",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 14
+    },
+    {
+      "title": "Making a small Clippy lint",
+      "href": "https://erk.dev/2025/08/21/clippy-lint",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 15
     },
     {
       "title": "New gABI/ELF Spec Available for Public Review",
       "href": "https://groups.google.com/g/generic-abi/c/doY6WIIPqhU/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 14
+      "index": 16
     },
     {
       "title": "why self-host 9front",
       "href": "https://orib.dev/selfhost.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 15
+      "index": 17
     },
     {
-      "title": "Of Rats and Ratchets (2024)",
-      "href": "https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html",
+      "title": "Slint 1.13 Released with Live-Preview for Rust and C++",
+      "href": "https://slint.dev/blog/slint-1.13-released",
       "points": "",
-      "comments": "\n              20 comments",
-      "index": 16
+      "comments": "\n              no comments",
+      "index": 18
     },
     {
       "title": "Search Index in 150 Lines of Haskell",
       "href": "https://entropicthoughts.com/search-index-150-lines-haskell",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "Your Biggest Customer Might Be Your Biggest Bottleneck",
-      "href": "https://densumesh.dev/blog/fair-queue/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "Debugging Rustler on illumos",
-      "href": "https://system-illumination.org/01-rustler.html",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 19
     },
     {
-      "title": "Making XML human-readable without XSLT",
-      "href": "https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/",
+      "title": "Of Rats and Ratchets (2024)",
+      "href": "https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              20 comments",
       "index": 20
     },
     {
@@ -149,10 +149,10 @@
       "index": 21
     },
     {
-      "title": "Python has had async for 10 years -- why isn't it more popular?",
-      "href": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html",
+      "title": "Your Biggest Customer Might Be Your Biggest Bottleneck",
+      "href": "https://densumesh.dev/blog/fair-queue/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              1 comment",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "IRC - The Serial Port's love letter to Internet Relay Chat",
-      "href": "https://www.youtube.com/watch?v=6UbKenFipjo",
+      "title": "Abstract Machine Models",
+      "href": "https://dr-knz.net/abstract-machine-models.html",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Wikidata and Mundaneum - The Triumph of the Commons",
-      "href": "https://schmud.de/programs/2025-09-02-wikidata-mundaneum.html",
+      "title": "Debugging Rustler on illumos",
+      "href": "https://system-illumination.org/01-rustler.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              7 comments",
       "index": 25
     }
   ]
