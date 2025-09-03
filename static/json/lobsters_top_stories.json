@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, September 2, 2025 at 8:20 PM GMT-5",
+  "date": "Tuesday, September 2, 2025 at 9:55 PM GMT-5",
   "articles": [
     {
       "title": "Of Rats and Ratchets (2024)",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
-      "title": "Debugging Rustler on illumos",
-      "href": "https://system-illumination.org/01-rustler.html",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 2
-    },
-    {
       "title": "matrix.org Major Outage - Database Incident (September 2nd 2025)",
       "href": "https://status.matrix.org/incidents/mm9hdm78svgv",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 2
+    },
+    {
+      "title": "Debugging Rustler on illumos",
+      "href": "https://system-illumination.org/01-rustler.html",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 3
     },
     {
@@ -54,7 +54,7 @@
       "title": "why self-host 9front",
       "href": "https://orib.dev/selfhost.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 8
     },
     {
@@ -68,21 +68,21 @@
       "title": "Next.js Is Infuriating",
       "href": "https://blog.meca.sh/3lxoty3shjc2z",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              22 comments",
       "index": 10
+    },
+    {
+      "title": "Adding #[derive(From)] to Rust",
+      "href": "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
     },
     {
       "title": "Making XML human-readable without XSLT",
       "href": "https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 11
-    },
-    {
-      "title": "Reflections on Haskell@Meta",
-      "href": "https://www.youtube.com/watch?v=gEWBHP0PvRw",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 12
     },
     {
@@ -93,29 +93,29 @@
       "index": 13
     },
     {
+      "title": "Reflections on Haskell@Meta",
+      "href": "https://www.youtube.com/watch?v=gEWBHP0PvRw",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
       "title": "The future of 32-bit support in the kernel",
       "href": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
       "points": "",
-      "comments": "\n              42 comments",
-      "index": 14
+      "comments": "\n              44 comments",
+      "index": 15
     },
     {
       "title": "Saturation and the Triumph of History: How most of the behavior of Tech Leaders since 2016 can be explained by smartphone market saturation",
       "href": "https://notes.hella.cheap/saturation-and-the-triumph-of-history.html",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Passkeys and Modern Authentication",
       "href": "https://lucumr.pocoo.org/2025/9/2/passkeys/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Adding #[derive(From)] to Rust",
-      "href": "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 17
@@ -159,7 +159,7 @@
       "title": "Passkeys are incompatible with open-source software",
       "href": "https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/",
       "points": "",
-      "comments": "\n              200 comments",
+      "comments": "\n              201 comments",
       "index": 23
     },
     {
