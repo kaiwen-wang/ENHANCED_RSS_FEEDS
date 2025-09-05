@@ -1,67 +1,67 @@
 {
-  "date": "Friday, September 5, 2025 at 12:15 PM GMT-5",
+  "date": "Friday, September 5, 2025 at 1:25 PM GMT-5",
   "articles": [
     {
       "title": "NixOS is the endgame of distrohopping",
       "href": "https://joshblais.com/blog/nixos-is-the-endgame-of-distrohopping/",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              21 comments",
       "index": 1
     },
     {
       "title": "SQL needed structure",
       "href": "https://www.scattered-thoughts.net/writing/sql-needed-structure/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              14 comments",
       "index": 2
     },
     {
       "title": "Fil's Unbelievable Garbage Collector",
       "href": "https://fil-c.org/fugc",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 3
+    },
+    {
+      "title": "Your mouse-free setups",
+      "href": "/s/o0x7rb/your_mouse_free_setups",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 4
+    },
+    {
+      "title": "Use singular nouns for database table names",
+      "href": "https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 5
     },
     {
       "title": "Let's rename the \"vibecoding\" tag to \"llms\"",
       "href": "/s/gkzmfy/let_s_rename_vibecoding_tag_llms",
       "points": "",
-      "comments": "\n              106 comments",
-      "index": 4
+      "comments": "\n              108 comments",
+      "index": 6
     },
     {
       "title": "You Don't Need Animations",
       "href": "https://emilkowal.ski/ui/you-dont-need-animations",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 5
+      "index": 7
     },
     {
       "title": "Dealing with cancel safety in async Rust",
       "href": "https://rfd.shared.oxide.computer/rfd/400",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 6
-    },
-    {
-      "title": "Your mouse-free setups",
-      "href": "/s/o0x7rb/your_mouse_free_setups",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Type Checking is a Symptom, Not a Solution",
       "href": "https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a",
       "points": "",
-      "comments": "\n              21 comments",
-      "index": 8
-    },
-    {
-      "title": "Use singular nouns for database table names",
-      "href": "https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html",
-      "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              23 comments",
       "index": 9
     },
     {
@@ -89,7 +89,7 @@
       "title": "What are you doing this weekend?",
       "href": "/s/ezmgyy/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              16 comments",
       "index": 13
     },
     {
@@ -117,7 +117,7 @@
       "title": "If I hear \"design pattern\" one more time, I'll go mad",
       "href": "https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              27 comments",
       "index": 17
     },
     {
@@ -142,17 +142,17 @@
       "index": 20
     },
     {
+      "title": "Faster Rust builds on Mac",
+      "href": "https://nnethercote.github.io/2025/09/04/faster-rust-builds-on-mac.html",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 21
+    },
+    {
       "title": "The Programming-Lang of the Future",
       "href": "https://vimeo.com/1115794889",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 21
-    },
-    {
-      "title": "Faster Rust builds on Mac",
-      "href": "https://nnethercote.github.io/2025/09/04/faster-rust-builds-on-mac.html",
-      "points": "",
-      "comments": "\n              12 comments",
       "index": 22
     },
     {
@@ -166,14 +166,14 @@
       "title": "A CA Trusted by Microsoft Mis-issued Certificates for 1.1.1.1 in May 2025, According to Logs",
       "href": "https://arstechnica.com/security/2025/09/mis-issued-certificates-for-1-1-1-1-dns-service-pose-a-threat-to-the-internet/",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              22 comments",
       "index": 24
     },
     {
-      "title": "maak: The infinitely extensible command runner and automation project build system à la Make",
-      "href": "https://codeberg.org/jjba23/maak",
+      "title": "EmbeddingGemma: Best-in-Class Open Model for On-Device Embeddings",
+      "href": "https://developers.googleblog.com/en/introducing-embeddinggemma/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
