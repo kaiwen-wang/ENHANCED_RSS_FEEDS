@@ -1,46 +1,46 @@
 {
-  "date": "Friday, September 5, 2025 at 12:15 AM GMT-5",
+  "date": "Friday, September 5, 2025 at 1:30 AM GMT-5",
   "articles": [
+    {
+      "title": "Let's rename the \"vibecoding\" tag to \"llms\"",
+      "href": "/s/gkzmfy/let_s_rename_vibecoding_tag_llms",
+      "points": "",
+      "comments": "\n              48 comments",
+      "index": 1
+    },
     {
       "title": "jujutsu v0.33.0 released",
       "href": "https://github.com/jj-vcs/jj/releases/tag/v0.33.0",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 1
-    },
-    {
-      "title": "Let's rename the \"vibecoding\" tag to \"llms\"",
-      "href": "/s/gkzmfy/let_s_rename_vibecoding_tag_llms",
-      "points": "",
-      "comments": "\n              45 comments",
       "index": 2
     },
     {
       "title": "Why ML Needs a New Programming Language",
       "href": "https://signalsandthreads.com/why-ml-needs-a-new-programming-language/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 3
     },
     {
       "title": "You Don't Need Animations",
       "href": "https://emilkowal.ski/ui/you-dont-need-animations",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 4
-    },
-    {
-      "title": "Where's the Shovelware? Why AI Coding Claims Don't Add Up",
-      "href": "https://substack.com/inbox/post/172538377",
-      "points": "",
-      "comments": "\n              81 comments",
-      "index": 5
     },
     {
       "title": "Look Out For Bugs",
       "href": "https://matklad.github.io/2025/09/04/look-for-bugs.html",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
+      "index": 5
+    },
+    {
+      "title": "Where's the Shovelware? Why AI Coding Claims Don't Add Up",
+      "href": "https://substack.com/inbox/post/172538377",
+      "points": "",
+      "comments": "\n              85 comments",
       "index": 6
     },
     {
@@ -51,127 +51,127 @@
       "index": 7
     },
     {
+      "title": "Fil's Unbelievable Garbage Collector",
+      "href": "https://fil-c.org/fugc",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
+    },
+    {
       "title": "A CA Trusted by Microsoft Mis-issued Certificates for 1.1.1.1 in May 2025, According to Logs",
       "href": "https://arstechnica.com/security/2025/09/mis-issued-certificates-for-1-1-1-1-dns-service-pose-a-threat-to-the-internet/",
       "points": "",
-      "comments": "\n              10 comments",
-      "index": 8
+      "comments": "\n              12 comments",
+      "index": 9
     },
     {
       "title": "maak: The infinitely extensible command runner and automation project build system à la Make",
       "href": "https://codeberg.org/jjba23/maak",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Classic 8×8-pixel B&W Mac patterns",
       "href": "https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "The Programming-Lang of the Future",
       "href": "https://vimeo.com/1115794889",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Integer Programming (1977)",
       "href": "https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 12
+      "index": 13
     },
     {
-      "title": "Fil's Unbelievable Garbage Collector",
-      "href": "https://fil-c.org/fugc",
+      "title": "Xmake v3.0.2 has been released, Improve C++ modules and new native thread support",
+      "href": "https://github.com/xmake-io/xmake/releases/tag/v3.0.2",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Glamorous Toolkit: The Moldable Development Environment",
       "href": "https://github.com/feenkcom/gtoolkit",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Git exclude, a handy feature you might not know about",
       "href": "https://marijkeluttekes.dev/blog/articles/2025/09/03/git-exclude-a-handy-feature-you-might-not-know-about/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "The first Gleam Conference - Gathering 2026",
       "href": "https://gleamgathering.com/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Setting up cgit with Caddy v2 (2022)",
       "href": "https://www.sixfoisneuf.fr/posts/setting-up-cgit-with-caddy2/",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 17
+      "comments": "\n              8 comments",
+      "index": 18
     },
     {
       "title": "Why Rewriting Emacs Is Hard",
       "href": "https://kyo.iroiro.party/en/posts/why-rewriting-emacs-is-hard/",
       "points": "",
       "comments": "\n              39 comments",
-      "index": 18
-    },
-    {
-      "title": "A practical introduction to parsing in Rust",
-      "href": "https://jhwlr.io/intro-to-parsing/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 19
-    },
-    {
-      "title": "Subverting code integrity checks to locally backdoor Signal, 1Password, Slack, and more",
-      "href": "https://blog.trailofbits.com/2025/09/03/subverting-code-integrity-checks-to-locally-backdoor-signal-1password-slack-and-more/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
     },
     {
       "title": "Evolving the OCaml Programming Language (2025)",
       "href": "https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Subverting code integrity checks to locally backdoor Signal, 1Password, Slack, and more",
+      "href": "https://blog.trailofbits.com/2025/09/03/subverting-code-integrity-checks-to-locally-backdoor-signal-1password-slack-and-more/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 21
     },
     {
-      "title": "Video Game Blurs (and how the best one works)",
-      "href": "https://blog.frost.kiwi/dual-kawase/",
+      "title": "A practical introduction to parsing in Rust",
+      "href": "https://jhwlr.io/intro-to-parsing/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              1 comment",
       "index": 22
     },
     {
-      "title": "An embedded dev kit for EndBASIC with NetBSD",
-      "href": "https://youtu.be/WZFYTInWAqc",
+      "title": "Dealing with cancel safety in async Rust",
+      "href": "https://rfd.shared.oxide.computer/rfd/400",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "Your MCP Doesn’t Need 30 Tools: It Needs Code",
-      "href": "https://lucumr.pocoo.org/2025/8/18/code-mcps/",
+      "title": "Type Checking is a Symptom, Not a Solution",
+      "href": "https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "If I hear \"design pattern\" one more time, I'll go mad",
-      "href": "https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/",
+      "title": "wal3: A Write-Ahead Log for Chroma, Build on Object Storage",
+      "href": "https://trychroma.com/engineering/wal3",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
