@@ -1,32 +1,32 @@
 {
-  "date": "Saturday, September 6, 2025 at 9:15 AM GMT-5",
+  "date": "Saturday, September 6, 2025 at 10:15 AM GMT-5",
   "articles": [
     {
       "title": "996 – There is cost to your lifestyle",
       "href": "https://lucumr.pocoo.org/2025/9/4/996/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              12 comments",
       "index": 1
+    },
+    {
+      "title": "Oldest recorded transaction",
+      "href": "https://avi.im/blag/2025/oldest-txn/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 2
     },
     {
       "title": "Your mouse-free setups",
       "href": "/s/o0x7rb/your_mouse_free_setups",
       "points": "",
-      "comments": "\n              55 comments",
-      "index": 2
+      "comments": "\n              56 comments",
+      "index": 3
     },
     {
       "title": "Leptos",
       "href": "https://leptos.dev/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 3
-    },
-    {
-      "title": "NixOS is the endgame of distrohopping",
-      "href": "https://joshblais.com/blog/nixos-is-the-endgame-of-distrohopping/",
-      "points": "",
-      "comments": "\n              40 comments",
       "index": 4
     },
     {
@@ -37,143 +37,143 @@
       "index": 5
     },
     {
+      "title": "NixOS is the endgame of distrohopping",
+      "href": "https://joshblais.com/blog/nixos-is-the-endgame-of-distrohopping/",
+      "points": "",
+      "comments": "\n              41 comments",
+      "index": 6
+    },
+    {
       "title": "Use singular nouns for database table names",
       "href": "https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html",
       "points": "",
       "comments": "\n              48 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Fil's Unbelievable Garbage Collector",
       "href": "https://fil-c.org/fugc",
       "points": "",
-      "comments": "\n              19 comments",
-      "index": 7
+      "comments": "\n              20 comments",
+      "index": 8
+    },
+    {
+      "title": "Wayland. (Budgie Desktop, 2023)",
+      "href": "https://buddiesofbudgie.org/blog/wayland",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 9
     },
     {
       "title": "Unexplanations: relational algebra is math (2024)",
       "href": "https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 8
+      "index": 10
     },
     {
       "title": "Ray Tracing in One Weekend",
       "href": "https://raytracing.github.io/books/RayTracingInOneWeekend.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 9
+      "index": 11
     },
     {
       "title": "Basecamp Campfire is now open source",
       "href": "https://github.com/basecamp/once-campfire",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 10
+      "index": 12
     },
     {
       "title": "SQL needed structure",
       "href": "https://www.scattered-thoughts.net/writing/sql-needed-structure/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 11
-    },
-    {
-      "title": "Wayland. (Budgie Desktop, 2023)",
-      "href": "https://buddiesofbudgie.org/blog/wayland",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Patterns vs. \"Patterns\"",
       "href": "https://perl.plover.com/classes/design/samples/slide012a.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Capitalization of Initialisms (2009)",
       "href": "https://www.teamten.com/lawrence/writings/capitalization_of_initialisms.html",
       "points": "",
-      "comments": "\n              10 comments",
-      "index": 14
+      "comments": "\n              11 comments",
+      "index": 15
     },
     {
       "title": "Developing a Space Flight Simulator in Clojure",
       "href": "https://www.wedesoft.de/software/2025/09/05/clojure-game/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
-      "title": "Formality on demand",
-      "href": "https://www.inkandswitch.com/ink/notes/formality-on-demand/",
+      "title": "Odin does have undefined behavior",
+      "href": "https://www.youtube.com/watch?v=k8iCkbbBHyg",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "stelvio: AWS for Python devs - made simple",
       "href": "https://github.com/michal-stlv/stelvio",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "Formality on demand",
+      "href": "https://www.inkandswitch.com/ink/notes/formality-on-demand/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "Bringing restartable sequences out of the niche",
       "href": "https://lwn.net/Articles/1033955/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "Let's rename the \"vibecoding\" tag to \"llms\"",
       "href": "/s/gkzmfy/let_s_rename_vibecoding_tag_llms",
       "points": "",
-      "comments": "\n              154 comments",
-      "index": 19
+      "comments": "\n              158 comments",
+      "index": 21
     },
     {
       "title": "You Don't Need Animations",
       "href": "https://emilkowal.ski/ui/you-dont-need-animations",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "ICFP contest 2025",
       "href": "https://icfpcontest2025.github.io/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Dealing with cancel safety in async Rust",
       "href": "https://rfd.shared.oxide.computer/rfd/400",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Type Checking is a Symptom, Not a Solution",
       "href": "https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a",
       "points": "",
-      "comments": "\n              45 comments",
-      "index": 23
-    },
-    {
-      "title": "Natural transformations as a basis of control",
-      "href": "https://muratkasimov.art/Ya/Articles/Natural-transformation-as-a-basis-of-control",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "X Design Notes: Unifying OCaml Modules and Values",
-      "href": "https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              46 comments",
       "index": 25
     }
   ]
