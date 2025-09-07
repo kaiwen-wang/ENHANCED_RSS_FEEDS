@@ -1,32 +1,32 @@
 {
-  "date": "Sunday, September 7, 2025 at 2:15 PM GMT-5",
+  "date": "Sunday, September 7, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
       "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
       "points": "",
-      "comments": "\n              30 comments",
+      "comments": "\n              31 comments",
       "index": 1
     },
     {
       "title": "Do you have a personal wiki?",
       "href": "/s/odeql3/do_you_have_personal_wiki",
       "points": "",
-      "comments": "\n              39 comments",
+      "comments": "\n              42 comments",
       "index": 2
-    },
-    {
-      "title": "Stop writing CLI validation. Parse it right the first time",
-      "href": "https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 3
     },
     {
       "title": "Everything is a []u8",
       "href": "https://www.openmymind.net/Everything-Is-A-u8-array/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 3
+    },
+    {
+      "title": "Stop writing CLI validation. Parse it right the first time",
+      "href": "https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time",
+      "points": "",
+      "comments": "\n              14 comments",
       "index": 4
     },
     {
@@ -37,10 +37,10 @@
       "index": 5
     },
     {
-      "title": "Algebraic Effects in Practice with Flix",
-      "href": "https://www.relax.software/blog/flix-effects-intro/",
+      "title": "The Expression Problem and its solutions (2016)",
+      "href": "https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 6
     },
     {
@@ -51,8 +51,8 @@
       "index": 7
     },
     {
-      "title": "The Expression Problem and its solutions (2016)",
-      "href": "https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions",
+      "title": "Algebraic Effects in Practice with Flix",
+      "href": "https://www.relax.software/blog/flix-effects-intro/",
       "points": "",
       "comments": "\n              2 comments",
       "index": 8
@@ -68,7 +68,7 @@
       "title": "Semantic Line Breaks",
       "href": "https://sembr.org",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 10
     },
     {
@@ -82,28 +82,28 @@
       "title": "Longhorn – a Kubernetes-native filesystem",
       "href": "https://vegard.blog.engen.priv.no/?p=518",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
       "index": 12
     },
     {
       "title": "The CoPilot productivity paradox",
       "href": "https://www.marginalia.nu/log/a_125_ai_assistants/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 13
-    },
-    {
-      "title": "C++26: erroneous behaviour",
-      "href": "https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 14
     },
     {
       "title": "Hitting Peak File IO Performance with Zig",
       "href": "https://steelcake.com/blog/nvme-zig/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "C++26: erroneous behaviour",
+      "href": "https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 15
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "Hilbert space: treating functions as vectors",
+      "href": "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
       "title": "Local-first access control",
       "href": "https://www.inkandswitch.com/keyhive/notebook/",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 18
+      "comments": "\n              9 comments",
+      "index": 19
     },
     {
       "title": "How can I help? Volunteer opportunities: Lobste.rs, OSS, programming, Internet related, other?",
       "href": "/s/dnsdwz/how_can_i_help_volunteer_opportunities",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Emulating Rust's Result and ? in Jai with Metaprogramming",
       "href": "https://jamesoswald.dev/posts/jai-result/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Unexplanations: relational algebra is math (2024)",
       "href": "https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Leptos",
       "href": "https://leptos.dev/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Resources, Laziness, and Continuation-Passing Style",
       "href": "https://journal.infinitenegativeutility.com/resources-laziness-and-continuation-passing-style",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Odin does have undefined behavior",
       "href": "https://www.youtube.com/watch?v=k8iCkbbBHyg",
       "points": "",
       "comments": "\n              50 comments",
-      "index": 24
-    },
-    {
-      "title": "Choose Your Own Adventure",
-      "href": "https://www.filfre.net/2025/09/choose-your-own-adventure/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
