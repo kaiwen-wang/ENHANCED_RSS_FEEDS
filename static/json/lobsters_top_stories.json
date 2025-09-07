@@ -1,25 +1,25 @@
 {
-  "date": "Sunday, September 7, 2025 at 7:35 AM GMT-5",
+  "date": "Sunday, September 7, 2025 at 8:20 AM GMT-5",
   "articles": [
     {
       "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
       "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              17 comments",
       "index": 1
-    },
-    {
-      "title": "996 – There is cost to your lifestyle",
-      "href": "https://lucumr.pocoo.org/2025/9/4/996/",
-      "points": "",
-      "comments": "\n              71 comments",
-      "index": 2
     },
     {
       "title": "Stop writing CLI validation. Parse it right the first time",
       "href": "https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time",
       "points": "",
       "comments": "\n              10 comments",
+      "index": 2
+    },
+    {
+      "title": "996 – There is cost to your lifestyle",
+      "href": "https://lucumr.pocoo.org/2025/9/4/996/",
+      "points": "",
+      "comments": "\n              72 comments",
       "index": 3
     },
     {
@@ -33,21 +33,21 @@
       "title": "Oldest recorded transaction",
       "href": "https://avi.im/blag/2025/oldest-txn/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              11 comments",
       "index": 5
+    },
+    {
+      "title": "Do you have a personal wiki?",
+      "href": "/s/odeql3/do_you_have_personal_wiki",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 6
     },
     {
       "title": "Don't write bugs",
       "href": "https://www.teamten.com/lawrence/programming/dont-write-bugs.html",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 6
-    },
-    {
-      "title": "C++26: erroneous behaviour",
-      "href": "https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour",
-      "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              9 comments",
       "index": 7
     },
     {
@@ -58,120 +58,120 @@
       "index": 8
     },
     {
-      "title": "The CoPilot productivity paradox",
-      "href": "https://www.marginalia.nu/log/a_125_ai_assistants/",
+      "title": "C++26: erroneous behaviour",
+      "href": "https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour",
       "points": "",
       "comments": "\n              2 comments",
       "index": 9
+    },
+    {
+      "title": "The CoPilot productivity paradox",
+      "href": "https://www.marginalia.nu/log/a_125_ai_assistants/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 10
+    },
+    {
+      "title": "difdef: Utility to do an N-way diff and N-way merge, for N>2",
+      "href": "https://github.com/Quuxplusone/difdef",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 11
     },
     {
       "title": "The day Return became Enter",
       "href": "https://aresluna.org/the-day-return-became-enter/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 10
-    },
-    {
-      "title": "Emulating Rust's Result and ? in Jai with Metaprogramming",
-      "href": "https://jamesoswald.dev/posts/jai-result/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "Unexplanations: relational algebra is math (2024)",
-      "href": "https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 12
-    },
-    {
-      "title": "difdef: Utility to do an N-way diff and N-way merge, for N>2",
-      "href": "https://github.com/Quuxplusone/difdef",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "How can I help? Volunteer opportunities: Lobste.rs, OSS, programming, Internet related, other?",
-      "href": "/s/dnsdwz/how_can_i_help_volunteer_opportunities",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 14
-    },
-    {
-      "title": "Semantic Line Breaks",
-      "href": "https://sembr.org",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Leptos",
-      "href": "https://leptos.dev/",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 16
     },
     {
       "title": "Hitting Peak File IO Performance with Zig",
       "href": "https://steelcake.com/blog/nvme-zig/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "Emulating Rust's Result and ? in Jai with Metaprogramming",
+      "href": "https://jamesoswald.dev/posts/jai-result/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Unexplanations: relational algebra is math (2024)",
+      "href": "https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 15
+    },
+    {
+      "title": "How can I help? Volunteer opportunities: Lobste.rs, OSS, programming, Internet related, other?",
+      "href": "/s/dnsdwz/how_can_i_help_volunteer_opportunities",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 16
+    },
+    {
+      "title": "Leptos",
+      "href": "https://leptos.dev/",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 17
+    },
+    {
+      "title": "Semantic Line Breaks",
+      "href": "https://sembr.org",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
     },
     {
       "title": "Odin does have undefined behavior",
       "href": "https://www.youtube.com/watch?v=k8iCkbbBHyg",
       "points": "",
       "comments": "\n              46 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Local-first access control",
       "href": "https://www.inkandswitch.com/keyhive/notebook/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 19
-    },
-    {
-      "title": "Choose Your Own Adventure",
-      "href": "https://www.filfre.net/2025/09/choose-your-own-adventure/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 20
-    },
-    {
-      "title": "Formality on demand",
-      "href": "https://www.inkandswitch.com/ink/notes/formality-on-demand/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
     },
     {
       "title": "Resources, Laziness, and Continuation-Passing Style",
       "href": "https://journal.infinitenegativeutility.com/resources-laziness-and-continuation-passing-style",
       "points": "",
       "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Choose Your Own Adventure",
+      "href": "https://www.filfre.net/2025/09/choose-your-own-adventure/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 22
+    },
+    {
+      "title": "Formality on demand",
+      "href": "https://www.inkandswitch.com/ink/notes/formality-on-demand/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Your mouse-free setups",
       "href": "/s/o0x7rb/your_mouse_free_setups",
       "points": "",
       "comments": "\n              66 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Wayland. (Budgie Desktop, 2023)",
       "href": "https://buddiesofbudgie.org/blog/wayland",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "Debugging a dropped async Task",
-      "href": "https://slugcat.systems/post/25-08-27-debugging-a-dropped-async-task/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 25
