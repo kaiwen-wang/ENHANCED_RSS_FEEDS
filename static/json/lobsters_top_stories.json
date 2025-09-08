@@ -1,32 +1,32 @@
 {
-  "date": "Monday, September 8, 2025 at 2:15 PM GMT-5",
+  "date": "Monday, September 8, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Package Managers are Evil",
       "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
       "points": "",
-      "comments": "\n              41 comments",
+      "comments": "\n              46 comments",
       "index": 1
     },
     {
       "title": "'Make invalid states unrepresentable' considered harmful",
       "href": "https://www.seangoedecke.com/invalid-states/",
       "points": "",
-      "comments": "\n              51 comments",
+      "comments": "\n              58 comments",
       "index": 2
     },
     {
       "title": "We will not accept changes created with the aid of \"AI\"",
       "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              31 comments",
       "index": 3
     },
     {
       "title": "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
       "href": "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              7 comments",
       "index": 4
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "Anatomy of a billion-download NPM supply-chain attack",
-      "href": "https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 8
-    },
-    {
       "title": "Experimenting with local LLMs on macOS",
       "href": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 8
+    },
+    {
+      "title": "Anatomy of a billion-download NPM supply-chain attack",
+      "href": "https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 9
     },
     {
@@ -79,52 +79,52 @@
       "index": 11
     },
     {
+      "title": "Deliberate Abstraction",
+      "href": "https://entropicthoughts.com/deliberate-abstraction",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 12
+    },
+    {
       "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
       "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
       "points": "",
       "comments": "\n              44 comments",
-      "index": 12
+      "index": 13
     },
     {
-      "title": "Deliberate Abstraction",
-      "href": "https://entropicthoughts.com/deliberate-abstraction",
+      "title": "color npm package compromised",
+      "href": "https://fasterthanli.me/articles/color-npm-package-compromised",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 14
+    },
+    {
+      "title": "Wikimedia sunsets separate mobile domains",
+      "href": "https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
+      "index": 15
     },
     {
       "title": "Do you have a personal wiki?",
       "href": "/s/odeql3/do_you_have_personal_wiki",
       "points": "",
-      "comments": "\n              79 comments",
-      "index": 14
+      "comments": "\n              80 comments",
+      "index": 16
     },
     {
       "title": "Pico CSS • Minimal CSS Framework for semantic HTML",
       "href": "https://picocss.com",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 15
+      "index": 17
     },
     {
       "title": "Using Claude Code to modernize a 25-year-old kernel driver",
       "href": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 16
-    },
-    {
-      "title": "Adventures in porting a Wayland Compositor to NetBSD and OpenBSD",
-      "href": "https://youtu.be/oo_8gnWQ4xo",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 17
-    },
-    {
-      "title": "Ever shared a Spotify link on the internet? Someone you don't know can now message you",
-      "href": "https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/",
-      "points": "",
-      "comments": "\n              12 comments",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "The CP-SAT Primer",
+      "href": "https://d-krupke.github.io/cpsat-primer/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "Adventures in porting a Wayland Compositor to NetBSD and OpenBSD",
+      "href": "https://youtu.be/oo_8gnWQ4xo",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 21
+    },
+    {
+      "title": "Ever shared a Spotify link on the internet? Someone you don't know can now message you",
+      "href": "https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 22
+    },
+    {
       "title": "What are you doing this week?",
       "href": "/s/z3iuxt/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Beyond Markdown (2018)",
       "href": "https://johnmacfarlane.net/beyond-markdown.html",
       "points": "",
-      "comments": "\n              15 comments",
-      "index": 21
+      "comments": "\n              16 comments",
+      "index": 24
     },
     {
       "title": "Everything is a []u8",
       "href": "https://www.openmymind.net/Everything-Is-A-u8-array/",
       "points": "",
-      "comments": "\n              16 comments",
-      "index": 22
-    },
-    {
-      "title": "color npm package compromised",
-      "href": "https://fasterthanli.me/articles/color-npm-package-compromised",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Tiny LLM - LLM Serving in a Week",
-      "href": "https://skyzh.github.io/tiny-llm/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Hilbert space: treating functions as vectors",
-      "href": "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/",
-      "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              17 comments",
       "index": 25
     }
   ]
