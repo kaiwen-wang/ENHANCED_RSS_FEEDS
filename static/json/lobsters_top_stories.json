@@ -1,39 +1,39 @@
 {
-  "date": "Monday, September 8, 2025 at 1:30 PM GMT-5",
+  "date": "Monday, September 8, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Package Managers are Evil",
       "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
       "points": "",
-      "comments": "\n              32 comments",
+      "comments": "\n              41 comments",
       "index": 1
     },
     {
       "title": "'Make invalid states unrepresentable' considered harmful",
       "href": "https://www.seangoedecke.com/invalid-states/",
       "points": "",
-      "comments": "\n              49 comments",
+      "comments": "\n              51 comments",
       "index": 2
     },
     {
       "title": "We will not accept changes created with the aid of \"AI\"",
       "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              26 comments",
       "index": 3
+    },
+    {
+      "title": "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
+      "href": "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 4
     },
     {
       "title": "Hashed sorting is typically faster than hash tables",
       "href": "https://reiner.org/hashed-sorting",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 4
-    },
-    {
-      "title": "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
-      "href": "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 5
     },
     {
@@ -54,49 +54,49 @@
       "title": "Anatomy of a billion-download NPM supply-chain attack",
       "href": "https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 8
     },
     {
-      "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
-      "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
+      "title": "Experimenting with local LLMs on macOS",
+      "href": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
       "points": "",
-      "comments": "\n              44 comments",
+      "comments": "\n              2 comments",
       "index": 9
-    },
-    {
-      "title": "Deliberate Abstraction",
-      "href": "https://entropicthoughts.com/deliberate-abstraction",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 10
     },
     {
       "title": "Introducing Signal Secure Backups",
       "href": "https://signal.org/blog/introducing-secure-backups/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 11
-    },
-    {
-      "title": "Experimenting with local LLMs on macOS",
-      "href": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
+      "index": 10
     },
     {
       "title": "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
       "href": "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              5 comments",
+      "index": 11
+    },
+    {
+      "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
+      "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
+      "points": "",
+      "comments": "\n              44 comments",
+      "index": 12
+    },
+    {
+      "title": "Deliberate Abstraction",
+      "href": "https://entropicthoughts.com/deliberate-abstraction",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 13
     },
     {
       "title": "Do you have a personal wiki?",
       "href": "/s/odeql3/do_you_have_personal_wiki",
       "points": "",
-      "comments": "\n              78 comments",
+      "comments": "\n              79 comments",
       "index": 14
     },
     {
@@ -124,7 +124,7 @@
       "title": "Ever shared a Spotify link on the internet? Someone you don't know can now message you",
       "href": "https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 18
     },
     {
@@ -135,24 +135,24 @@
       "index": 19
     },
     {
+      "title": "What are you doing this week?",
+      "href": "/s/z3iuxt/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 20
+    },
+    {
       "title": "Beyond Markdown (2018)",
       "href": "https://johnmacfarlane.net/beyond-markdown.html",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Everything is a []u8",
       "href": "https://www.openmymind.net/Everything-Is-A-u8-array/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 21
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/z3iuxt/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 22
     },
     {
