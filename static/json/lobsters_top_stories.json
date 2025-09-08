@@ -1,88 +1,88 @@
 {
-  "date": "Monday, September 8, 2025 at 8:30 AM GMT-5",
+  "date": "Monday, September 8, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "'Make invalid states unrepresentable' considered harmful",
       "href": "https://www.seangoedecke.com/invalid-states/",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              24 comments",
       "index": 1
+    },
+    {
+      "title": "Package Managers are Evil",
+      "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 2
     },
     {
       "title": "Hashed sorting is typically faster than hash tables",
       "href": "https://reiner.org/hashed-sorting",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 2
+      "comments": "\n              3 comments",
+      "index": 3
+    },
+    {
+      "title": "Vibe-coded build system NX gets hacked, steals vibe-coders’ crypto",
+      "href": "https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 4
     },
     {
       "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
       "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
       "points": "",
       "comments": "\n              40 comments",
-      "index": 3
+      "index": 5
     },
     {
       "title": "Strong Eventual Consistency - The Big Idea behind CRDTs",
       "href": "https://lewiscampbell.tech/blog/250908.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 4
-    },
-    {
-      "title": "Vibe-coded build system NX gets hacked, steals vibe-coders’ crypto",
-      "href": "https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Deliberate Abstraction",
       "href": "https://entropicthoughts.com/deliberate-abstraction",
       "points": "",
       "comments": "\n              no comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Do you have a personal wiki?",
       "href": "/s/odeql3/do_you_have_personal_wiki",
       "points": "",
-      "comments": "\n              70 comments",
-      "index": 7
+      "comments": "\n              71 comments",
+      "index": 8
     },
     {
       "title": "Pico CSS • Minimal CSS Framework for semantic HTML",
       "href": "https://picocss.com",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Using Claude Code to modernize a 25-year-old kernel driver",
       "href": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 9
+      "comments": "\n              3 comments",
+      "index": 10
     },
     {
       "title": "CSS Bed",
       "href": "https://www.cssbed.com/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 10
-    },
-    {
-      "title": "Package Managers are Evil",
-      "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 11
     },
     {
       "title": "Beyond Markdown (2018)",
       "href": "https://johnmacfarlane.net/beyond-markdown.html",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              10 comments",
       "index": 12
     },
     {
@@ -93,17 +93,17 @@
       "index": 13
     },
     {
+      "title": "Adventures in porting a Wayland Compositor to NetBSD and OpenBSD",
+      "href": "https://youtu.be/oo_8gnWQ4xo",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 14
+    },
+    {
       "title": "Everything is a []u8",
       "href": "https://www.openmymind.net/Everything-Is-A-u8-array/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 14
-    },
-    {
-      "title": "Adventures in porting a Wayland Compositor to NetBSD and OpenBSD",
-      "href": "https://youtu.be/oo_8gnWQ4xo",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 15
     },
     {
@@ -121,10 +121,10 @@
       "index": 17
     },
     {
-      "title": "A Secret Web",
-      "href": "https://blog.clew.se/posts/secret-web/",
+      "title": "What are you doing this week?",
+      "href": "/s/z3iuxt/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              1 comment",
       "index": 18
     },
     {
@@ -135,29 +135,29 @@
       "index": 19
     },
     {
+      "title": "A Secret Web",
+      "href": "https://blog.clew.se/posts/secret-web/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 20
+    },
+    {
       "title": "How I solved a distributed queue problem after 15 years",
       "href": "https://www.dbos.dev/blog/durable-queues",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/z3iuxt/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 21
-    },
-    {
-      "title": "Semantic Line Breaks",
-      "href": "https://sembr.org",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 22
     },
     {
       "title": "Algebraic Effects in Practice with Flix",
       "href": "https://www.relax.software/blog/flix-effects-intro/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 22
+    },
+    {
+      "title": "Semantic Line Breaks",
+      "href": "https://sembr.org",
       "points": "",
       "comments": "\n              5 comments",
       "index": 23
@@ -166,7 +166,7 @@
       "title": "Ready prek go",
       "href": "https://hugovk.dev/blog/2025/ready-prek-go/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 24
     },
     {
