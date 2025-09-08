@@ -1,18 +1,18 @@
 {
-  "date": "Monday, September 8, 2025 at 5:20 AM GMT-5",
+  "date": "Monday, September 8, 2025 at 6:15 AM GMT-5",
   "articles": [
-    {
-      "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
-      "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
-      "points": "",
-      "comments": "\n              36 comments",
-      "index": 1
-    },
     {
       "title": "'Make invalid states unrepresentable' considered harmful",
       "href": "https://www.seangoedecke.com/invalid-states/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              12 comments",
+      "index": 1
+    },
+    {
+      "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
+      "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
+      "points": "",
+      "comments": "\n              37 comments",
       "index": 2
     },
     {
@@ -51,129 +51,129 @@
       "index": 7
     },
     {
+      "title": "Beyond Markdown (2018)",
+      "href": "https://johnmacfarlane.net/beyond-markdown.html",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 8
+    },
+    {
       "title": "CSS Bed",
       "href": "https://www.cssbed.com/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 8
+      "index": 9
     },
     {
-      "title": "Beyond Markdown (2018)",
-      "href": "https://johnmacfarlane.net/beyond-markdown.html",
+      "title": "Ever shared a Spotify link on the internet? Someone you don't know can now message you",
+      "href": "https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 9
+      "comments": "\n              7 comments",
+      "index": 10
     },
     {
       "title": "Everything is a []u8",
       "href": "https://www.openmymind.net/Everything-Is-A-u8-array/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 10
-    },
-    {
-      "title": "Ever shared a Spotify link on the internet? Someone you don't know can now message you",
-      "href": "https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 11
-    },
-    {
-      "title": "Hilbert space: treating functions as vectors",
-      "href": "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "Adventures in porting a Wayland Compositor to NetBSD and OpenBSD",
-      "href": "https://youtu.be/oo_8gnWQ4xo",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
     },
     {
       "title": "Vibe-coded build system NX gets hacked, steals vibe-coders’ crypto",
       "href": "https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Strong Eventual Consistency - The Big Idea behind CRDTs",
+      "href": "https://lewiscampbell.tech/blog/250908.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "Adventures in porting a Wayland Compositor to NetBSD and OpenBSD",
+      "href": "https://youtu.be/oo_8gnWQ4xo",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 14
+    },
+    {
+      "title": "Hilbert space: treating functions as vectors",
+      "href": "https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 15
     },
     {
       "title": "Stop writing CLI validation. Parse it right the first time",
       "href": "https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time",
       "points": "",
       "comments": "\n              27 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "A Secret Web",
       "href": "https://blog.clew.se/posts/secret-web/",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 16
+      "comments": "\n              12 comments",
+      "index": 17
     },
     {
       "title": "How I solved a distributed queue problem after 15 years",
       "href": "https://www.dbos.dev/blog/durable-queues",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "The Expression Problem and its solutions (2016)",
       "href": "https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Semantic Line Breaks",
       "href": "https://sembr.org",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Algebraic Effects in Practice with Flix",
       "href": "https://www.relax.software/blog/flix-effects-intro/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/z3iuxt/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Ready prek go",
       "href": "https://hugovk.dev/blog/2025/ready-prek-go/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (2021)",
       "href": "https://arxiv.org/abs/2104.13478",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Oldest recorded transaction",
       "href": "https://avi.im/blag/2025/oldest-txn/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 24
-    },
-    {
-      "title": "Don't write bugs",
-      "href": "https://www.teamten.com/lawrence/programming/dont-write-bugs.html",
-      "points": "",
-      "comments": "\n              25 comments",
       "index": 25
     }
   ]
