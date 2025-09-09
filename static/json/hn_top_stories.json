@@ -1,214 +1,214 @@
 {
-  "date": "Tuesday, September 9, 2025 at 7:40 AM GMT-5",
+  "date": "Tuesday, September 9, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "Mistral AI raises 1.7B€, enters strategic partnership with ASML",
       "href": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai",
-      "points": "394 points",
-      "comments": "231 comments",
+      "points": "448 points",
+      "comments": "265 comments",
       "index": 1
     },
     {
       "title": "A clickable visual guide to the Rust type system",
       "href": "https://rustcurious.com/elements/",
-      "points": "88 points",
-      "comments": "9 comments",
+      "points": "112 points",
+      "comments": "10 comments",
       "index": 2
     },
     {
       "title": "You too can run malware from NPM (I mean without consequences)",
       "href": "https://github.com/naugtur/running-qix-malware",
-      "points": "47 points",
-      "comments": "36 comments",
+      "points": "65 points",
+      "comments": "47 comments",
       "index": 3
+    },
+    {
+      "title": "Hallucination Risk Calculator",
+      "href": "https://github.com/leochlon/hallbayes",
+      "points": "31 points",
+      "comments": "8 comments",
+      "index": 4
     },
     {
       "title": "DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware",
       "href": "https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c",
-      "points": "93 points",
-      "comments": "53 comments",
-      "index": 4
+      "points": "134 points",
+      "comments": "82 comments",
+      "index": 5
     },
     {
       "title": "How can England possibly be running out of water?",
       "href": "https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water",
-      "points": "163 points",
-      "comments": "246 comments",
-      "index": 5
+      "points": "186 points",
+      "comments": "279 comments",
+      "index": 6
+    },
+    {
+      "title": "Weaponizing Ads: How Google and Facebook Ads Are Used to Wage Propaganda Wars",
+      "href": "https://medium.com/@eslam.elsewedy/weaponizing-ads-how-governments-use-google-ads-and-facebook-ads-to-wage-propaganda-wars-199c707704cc",
+      "points": "36 points",
+      "comments": "15 comments",
+      "index": 7
     },
     {
       "title": "Signal Secure Backups",
       "href": "https://signal.org/blog/introducing-secure-backups/",
-      "points": "880 points",
-      "comments": "390 comments",
-      "index": 6
+      "points": "891 points",
+      "comments": "394 comments",
+      "index": 8
     },
     {
       "title": "Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote)",
       "href": "https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84",
       "points": "",
       "comments": "hide",
-      "index": 7
-    },
-    {
-      "title": "Hallucination Risk Calculator",
-      "href": "https://github.com/leochlon/hallbayes",
-      "points": "11 points",
-      "comments": "2 comments",
-      "index": 8
-    },
-    {
-      "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
-      "href": "https://kube.io/blog/liquid-glass-css-svg/",
-      "points": "351 points",
-      "comments": "90 comments",
       "index": 9
-    },
-    {
-      "title": "iPhone dumbphone",
-      "href": "https://stopa.io/post/297",
-      "points": "516 points",
-      "comments": "311 comments",
-      "index": 10
-    },
-    {
-      "title": "Strong Eventual Consistency – The Big Idea Behind CRDTs",
-      "href": "https://lewiscampbell.tech/blog/250908.html",
-      "points": "77 points",
-      "comments": "27 comments",
-      "index": 11
     },
     {
       "title": "Anscombe's Quartet",
       "href": "https://en.wikipedia.org/wiki/Anscombe%27s_quartet",
-      "points": "8 points",
-      "comments": "3 comments",
+      "points": "21 points",
+      "comments": "8 comments",
+      "index": 10
+    },
+    {
+      "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
+      "href": "https://kube.io/blog/liquid-glass-css-svg/",
+      "points": "376 points",
+      "comments": "96 comments",
+      "index": 11
+    },
+    {
+      "title": "iPhone dumbphone",
+      "href": "https://stopa.io/post/297",
+      "points": "536 points",
+      "comments": "315 comments",
       "index": 12
     },
     {
-      "title": "UK toughens Online Safety Act with ban on self-harm content",
-      "href": "https://www.gov.uk/government/news/online-safety-laws-to-strengthen-to-protect-people-of-all-ages-from-devastating-self-harm-content",
-      "points": "14 points",
-      "comments": "5 comments",
+      "title": "Strong Eventual Consistency – The Big Idea Behind CRDTs",
+      "href": "https://lewiscampbell.tech/blog/250908.html",
+      "points": "86 points",
+      "comments": "35 comments",
       "index": 13
     },
     {
       "title": "NPM debug and chalk packages compromised",
       "href": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised",
-      "points": "1223 points",
-      "comments": "658 comments",
+      "points": "1236 points",
+      "comments": "662 comments",
       "index": 14
-    },
-    {
-      "title": "No adblocker detected",
-      "href": "https://maurycyz.com/misc/ads/",
-      "points": "489 points",
-      "comments": "239 comments",
-      "index": 15
     },
     {
       "title": "Experimenting with Local LLMs on macOS",
       "href": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
-      "points": "335 points",
-      "comments": "216 comments",
+      "points": "342 points",
+      "comments": "226 comments",
+      "index": 15
+    },
+    {
+      "title": "Deluxe Paint on the Commodore Amiga",
+      "href": "https://stonetools.ghost.io/deluxepaint-amiga/",
+      "points": "52 points",
+      "comments": "13 comments",
       "index": 16
     },
     {
-      "title": "Contracts for C",
-      "href": "https://gustedt.wordpress.com/2025/03/10/contracts-for-c/",
-      "points": "87 points",
-      "comments": "66 comments",
+      "title": "Microsoft doubles down on small modular reactors and fusion energy",
+      "href": "https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy",
+      "points": "149 points",
+      "comments": "260 comments",
       "index": 17
     },
     {
       "title": "The elegance of movement in Silksong",
       "href": "https://theahura.substack.com/p/the-elegance-of-movement-in-silksong",
-      "points": "134 points",
-      "comments": "191 comments",
+      "points": "137 points",
+      "comments": "209 comments",
       "index": 18
     },
     {
       "title": "Alterego: Thought to Text",
       "href": "https://www.alterego.io/",
-      "points": "152 points",
-      "comments": "103 comments",
+      "points": "159 points",
+      "comments": "105 comments",
       "index": 19
     },
     {
-      "title": "Microsoft doubles down on small modular reactors and fusion energy",
-      "href": "https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy",
-      "points": "140 points",
-      "comments": "250 comments",
+      "title": "Contracts for C",
+      "href": "https://gustedt.wordpress.com/2025/03/10/contracts-for-c/",
+      "points": "90 points",
+      "comments": "69 comments",
       "index": 20
     },
     {
-      "title": "Deluxe Paint on the Commodore Amiga",
-      "href": "https://stonetools.ghost.io/deluxepaint-amiga/",
-      "points": "47 points",
-      "comments": "12 comments",
+      "title": "X Design Notes: Unifying OCaml Modules and Values",
+      "href": "https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html",
+      "points": "13 points",
+      "comments": "discuss",
       "index": 21
     },
     {
       "title": "Is OOXML Artifically Complex?",
       "href": "https://hsu.cy/2025/09/is-ooxml-artificially-complex/",
-      "points": "106 points",
-      "comments": "108 comments",
+      "points": "118 points",
+      "comments": "113 comments",
       "index": 22
     },
     {
-      "title": "Will Amazon S3 Vectors kill vector databases or save them?",
-      "href": "https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them",
-      "points": "243 points",
-      "comments": "111 comments",
+      "title": "No adblocker detected",
+      "href": "https://maurycyz.com/misc/ads/",
+      "points": "508 points",
+      "comments": "262 comments",
       "index": 23
     },
     {
       "title": "Clankers Die on Christmas",
       "href": "https://remyhax.xyz/posts/clankers-die-on-christmas/",
-      "points": "232 points",
-      "comments": "185 comments",
+      "points": "240 points",
+      "comments": "195 comments",
       "index": 24
     },
     {
-      "title": "CPR in space could be made easier by chest compression machines",
-      "href": "https://www.newscientist.com/article/2493803-cpr-in-space-could-be-made-easier-by-chest-compression-machines/",
-      "points": "13 points",
-      "comments": "5 comments",
+      "title": "Will Amazon S3 Vectors kill vector databases or save them?",
+      "href": "https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them",
+      "points": "246 points",
+      "comments": "111 comments",
       "index": 25
+    },
+    {
+      "title": "Majority in EU's biggest states believes bloc 'sold out' in US tariff deal",
+      "href": "https://www.theguardian.com/world/2025/sep/09/majority-in-eu-biggest-states-believes-bloc-sold-out-in-us-tariff-deal-poll-donald-trump",
+      "points": "11 points",
+      "comments": "2 comments",
+      "index": 26
     },
     {
       "title": "Seedship – Text-Based Game",
       "href": "https://philome.la/johnayliff/seedship/play/index.html",
-      "points": "104 points",
-      "comments": "39 comments",
-      "index": 26
-    },
-    {
-      "title": "AMD claims Arm ISA doesn't offer efficiency advantage over x86",
-      "href": "https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86",
-      "points": "194 points",
-      "comments": "352 comments",
+      "points": "109 points",
+      "comments": "42 comments",
       "index": 27
-    },
-    {
-      "title": "The key points of \"Working Effectively with Legacy Code\"",
-      "href": "https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/",
-      "points": "151 points",
-      "comments": "57 comments",
-      "index": 28
     },
     {
       "title": "Show HN: Attempt – A CLI for retrying fallible commands",
       "href": "https://github.com/MaxBondABE/attempt",
-      "points": "50 points",
+      "points": "58 points",
       "comments": "15 comments",
+      "index": 28
+    },
+    {
+      "title": "The key points of \"Working Effectively with Legacy Code\"",
+      "href": "https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/",
+      "points": "157 points",
+      "comments": "61 comments",
       "index": 29
     },
     {
-      "title": "I have left Branch and am no longer involved with Nova Launcher",
-      "href": "https://teslacoilapps.com/nova/solong.html",
-      "points": "182 points",
-      "comments": "81 comments",
+      "title": "AMD claims Arm ISA doesn't offer efficiency advantage over x86",
+      "href": "https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86",
+      "points": "197 points",
+      "comments": "365 comments",
       "index": 30
     }
   ]

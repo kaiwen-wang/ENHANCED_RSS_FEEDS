@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, September 9, 2025 at 7:40 AM GMT-5",
+  "date": "Tuesday, September 9, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "The First ziglang.org Outage",
       "href": "https://ziglang.org/news/first-outage/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              14 comments",
       "index": 1
     },
     {
@@ -19,77 +19,77 @@
       "title": "Package Managers are Evil",
       "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
       "points": "",
-      "comments": "\n              84 comments",
+      "comments": "\n              86 comments",
       "index": 3
+    },
+    {
+      "title": "Batched Critical Sections",
+      "href": "http://kprotty.me/2025/09/08/batched-critical-sections.html",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 4
     },
     {
       "title": "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
       "href": "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "We will not accept changes created with the aid of \"AI\"",
       "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
       "points": "",
-      "comments": "\n              80 comments",
-      "index": 5
-    },
-    {
-      "title": "Introducing Signal Secure Backups",
-      "href": "https://signal.org/blog/introducing-secure-backups/",
-      "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              85 comments",
       "index": 6
     },
     {
       "title": "i ran Claude in a loop for three months, and it created a genz programming language called cursed",
       "href": "https://ghuntley.com/cursed/",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              23 comments",
       "index": 7
     },
     {
-      "title": "Batched Critical Sections",
-      "href": "http://kprotty.me/2025/09/08/batched-critical-sections.html",
+      "title": "Introducing Signal Secure Backups",
+      "href": "https://signal.org/blog/introducing-secure-backups/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              10 comments",
       "index": 8
-    },
-    {
-      "title": "Hashed sorting is typically faster than hash tables",
-      "href": "https://reiner.org/hashed-sorting",
-      "points": "",
-      "comments": "\n              21 comments",
-      "index": 9
     },
     {
       "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
       "href": "https://kube.io/blog/liquid-glass-css-svg/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 9
+    },
+    {
+      "title": "Hashed sorting is typically faster than hash tables",
+      "href": "https://reiner.org/hashed-sorting",
+      "points": "",
+      "comments": "\n              21 comments",
       "index": 10
     },
     {
       "title": "'Make invalid states unrepresentable' considered harmful",
       "href": "https://www.seangoedecke.com/invalid-states/",
       "points": "",
-      "comments": "\n              78 comments",
+      "comments": "\n              79 comments",
       "index": 11
-    },
-    {
-      "title": "Anatomy of a billion-download NPM supply-chain attack",
-      "href": "https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 12
     },
     {
       "title": "color npm package compromised",
       "href": "https://fasterthanli.me/articles/color-npm-package-compromised",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
+      "index": 12
+    },
+    {
+      "title": "Anatomy of a billion-download NPM supply-chain attack",
+      "href": "https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
+      "title": "How to Build Python Code with Bazel (and Why)",
+      "href": "https://ohadravid.github.io/posts/2025-09-hello-bazel/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle",
+      "href": "https://www.ethanheilman.com/x/35/index.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "term.everything: Run any GUI app in the terminal",
+      "href": "https://github.com/mmulet/term.everything",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
       "title": "Vibe-coded build system NX gets hacked, steals vibe-coders’ crypto",
       "href": "https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 15
-    },
-    {
-      "title": "Experimenting with local LLMs on macOS",
-      "href": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 16
-    },
-    {
-      "title": "Strong Eventual Consistency - The Big Idea behind CRDTs",
-      "href": "https://lewiscampbell.tech/blog/250908.html",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Text format feature matrix",
       "href": "https://keenwrite.com/blog/2025/09/08/feature-matrix/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
+      "index": 19
+    },
+    {
+      "title": "Experimenting with local LLMs on macOS",
+      "href": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 20
+    },
+    {
+      "title": "Strong Eventual Consistency - The Big Idea behind CRDTs",
+      "href": "https://lewiscampbell.tech/blog/250908.html",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 21
     },
     {
       "title": "GSoC 2025 - Byte Type: Supporting Raw Data Copies in the LLVM IR",
       "href": "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 22
     },
     {
       "title": "What I Learned Building My First Jenkins Plugin",
       "href": "https://mergify.com/blog/what-i-learned-building-my-first-jenkins-plugin",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "A Novel Technique for SQL Injection in PDO’s Prepared Statements",
-      "href": "https://slcyber.io/assetnote-security-research-center/a-novel-technique-for-sql-injection-in-pdos-prepared-statements/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 21
-    },
-    {
-      "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
-      "href": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Compiling a functional language to LLVM",
       "href": "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Can Collations Be Used Over citext?",
-      "href": "https://www.cybertec-postgresql.com/en/can-collations-be-used-over-citext/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Using Emacs Org-Mode With Databases: A getting-started guide",
-      "href": "https://gitlab.com/ryanprior/emacs-org-data-starter",
+      "title": "A Novel Technique for SQL Injection in PDO’s Prepared Statements",
+      "href": "https://slcyber.io/assetnote-security-research-center/a-novel-technique-for-sql-injection-in-pdos-prepared-statements/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 25
     }
   ]
