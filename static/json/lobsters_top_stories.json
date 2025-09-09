@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, September 9, 2025 at 12:20 AM GMT-5",
+  "date": "Tuesday, September 9, 2025 at 1:30 AM GMT-5",
   "articles": [
-    {
-      "title": "Package Managers are Evil",
-      "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
-      "points": "",
-      "comments": "\n              68 comments",
-      "index": 1
-    },
     {
       "title": "The First ziglang.org Outage",
       "href": "https://ziglang.org/news/first-outage/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 1
+    },
+    {
+      "title": "Package Managers are Evil",
+      "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
+      "points": "",
+      "comments": "\n              70 comments",
       "index": 2
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "We will not accept changes created with the aid of \"AI\"",
-      "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
-      "points": "",
-      "comments": "\n              57 comments",
-      "index": 4
-    },
-    {
       "title": "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
       "href": "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
+      "index": 4
+    },
+    {
+      "title": "We will not accept changes created with the aid of \"AI\"",
+      "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
+      "points": "",
+      "comments": "\n              62 comments",
       "index": 5
     },
     {
@@ -54,7 +54,7 @@
       "title": "'Make invalid states unrepresentable' considered harmful",
       "href": "https://www.seangoedecke.com/invalid-states/",
       "points": "",
-      "comments": "\n              69 comments",
+      "comments": "\n              70 comments",
       "index": 8
     },
     {
@@ -65,24 +65,24 @@
       "index": 9
     },
     {
+      "title": "KeenWrite 3.6.3",
+      "href": "https://keenwrite.com/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
       "title": "color npm package compromised",
       "href": "https://fasterthanli.me/articles/color-npm-package-compromised",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 10
+      "comments": "\n              6 comments",
+      "index": 11
     },
     {
       "title": "Vibe-coded build system NX gets hacked, steals vibe-coders’ crypto",
       "href": "https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 11
-    },
-    {
-      "title": "KeenWrite 3.6.3",
-      "href": "https://keenwrite.com/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 12
     },
     {
@@ -100,57 +100,57 @@
       "index": 14
     },
     {
+      "title": "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
+      "href": "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 15
+    },
+    {
       "title": "Text format feature matrix",
       "href": "https://keenwrite.com/blog/2025/09/08/feature-matrix/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Deliberate Abstraction",
       "href": "https://entropicthoughts.com/deliberate-abstraction",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 16
-    },
-    {
-      "title": "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
-      "href": "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 17
     },
     {
       "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
       "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
       "points": "",
-      "comments": "\n              46 comments",
+      "comments": "\n              47 comments",
       "index": 18
-    },
-    {
-      "title": "The CP-SAT Primer",
-      "href": "https://d-krupke.github.io/cpsat-primer/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
     },
     {
       "title": "Using Emacs Org-Mode With Databases: A getting-started guide",
       "href": "https://gitlab.com/ryanprior/emacs-org-data-starter",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "The CP-SAT Primer",
+      "href": "https://d-krupke.github.io/cpsat-primer/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 20
     },
     {
-      "title": "Do you have a personal wiki?",
-      "href": "/s/odeql3/do_you_have_personal_wiki",
+      "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
+      "href": "https://kube.io/blog/liquid-glass-css-svg/",
       "points": "",
-      "comments": "\n              81 comments",
+      "comments": "\n              no comments",
       "index": 21
     },
     {
-      "title": "GSoC 2025 - Byte Type: Supporting Raw Data Copies in the LLVM IR",
-      "href": "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/",
+      "title": "Compiling a functional language to LLVM",
+      "href": "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "CSS Bed",
-      "href": "https://www.cssbed.com/",
+      "title": "Do you have a personal wiki?",
+      "href": "/s/odeql3/do_you_have_personal_wiki",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              81 comments",
       "index": 24
     },
     {
-      "title": "Pico CSS • Minimal CSS Framework for semantic HTML",
-      "href": "https://picocss.com",
+      "title": "GSoC 2025 - Byte Type: Supporting Raw Data Copies in the LLVM IR",
+      "href": "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
