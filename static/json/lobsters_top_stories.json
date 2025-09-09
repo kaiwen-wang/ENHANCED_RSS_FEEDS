@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, September 9, 2025 at 1:30 AM GMT-5",
+  "date": "Tuesday, September 9, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "The First ziglang.org Outage",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
+      "title": "Wikimedia sunsets separate mobile domains",
+      "href": "https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 2
+    },
+    {
       "title": "Package Managers are Evil",
       "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
       "points": "",
       "comments": "\n              70 comments",
-      "index": 2
-    },
-    {
-      "title": "Wikimedia sunsets separate mobile domains",
-      "href": "https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 3
     },
     {
@@ -33,28 +33,28 @@
       "title": "We will not accept changes created with the aid of \"AI\"",
       "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
       "points": "",
-      "comments": "\n              62 comments",
+      "comments": "\n              64 comments",
       "index": 5
-    },
-    {
-      "title": "Hashed sorting is typically faster than hash tables",
-      "href": "https://reiner.org/hashed-sorting",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 6
     },
     {
       "title": "Introducing Signal Secure Backups",
       "href": "https://signal.org/blog/introducing-secure-backups/",
       "points": "",
       "comments": "\n              7 comments",
+      "index": 6
+    },
+    {
+      "title": "Hashed sorting is typically faster than hash tables",
+      "href": "https://reiner.org/hashed-sorting",
+      "points": "",
+      "comments": "\n              20 comments",
       "index": 7
     },
     {
       "title": "'Make invalid states unrepresentable' considered harmful",
       "href": "https://www.seangoedecke.com/invalid-states/",
       "points": "",
-      "comments": "\n              70 comments",
+      "comments": "\n              73 comments",
       "index": 8
     },
     {
@@ -75,7 +75,7 @@
       "title": "color npm package compromised",
       "href": "https://fasterthanli.me/articles/color-npm-package-compromised",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 11
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
-      "href": "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/",
+      "title": "i ran Claude in a loop for three months, and it created a genz programming language called cursed",
+      "href": "https://ghuntley.com/cursed/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              1 comment",
       "index": 15
     },
     {
@@ -114,64 +114,64 @@
       "index": 16
     },
     {
-      "title": "Deliberate Abstraction",
-      "href": "https://entropicthoughts.com/deliberate-abstraction",
+      "title": "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
+      "href": "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              6 comments",
       "index": 17
-    },
-    {
-      "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
-      "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
-      "points": "",
-      "comments": "\n              47 comments",
-      "index": 18
-    },
-    {
-      "title": "Using Emacs Org-Mode With Databases: A getting-started guide",
-      "href": "https://gitlab.com/ryanprior/emacs-org-data-starter",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "The CP-SAT Primer",
-      "href": "https://d-krupke.github.io/cpsat-primer/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
     },
     {
       "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
       "href": "https://kube.io/blog/liquid-glass-css-svg/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "GSoC 2025 - Byte Type: Supporting Raw Data Copies in the LLVM IR",
+      "href": "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Using Emacs Org-Mode With Databases: A getting-started guide",
+      "href": "https://gitlab.com/ryanprior/emacs-org-data-starter",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "Deliberate Abstraction",
+      "href": "https://entropicthoughts.com/deliberate-abstraction",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 21
     },
     {
-      "title": "Compiling a functional language to LLVM",
-      "href": "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html",
+      "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
+      "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              47 comments",
       "index": 22
+    },
+    {
+      "title": "The CP-SAT Primer",
+      "href": "https://d-krupke.github.io/cpsat-primer/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 23
     },
     {
       "title": "Tiny LLM - LLM Serving in a Week",
       "href": "https://skyzh.github.io/tiny-llm/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Do you have a personal wiki?",
-      "href": "/s/odeql3/do_you_have_personal_wiki",
-      "points": "",
-      "comments": "\n              81 comments",
       "index": 24
     },
     {
-      "title": "GSoC 2025 - Byte Type: Supporting Raw Data Copies in the LLVM IR",
-      "href": "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/",
+      "title": "Introducing the MCP Registry",
+      "href": "http://blog.modelcontextprotocol.io/posts/2025-09-08-mcp-registry-preview/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
