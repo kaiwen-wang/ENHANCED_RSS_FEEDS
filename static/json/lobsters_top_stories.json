@@ -1,53 +1,53 @@
 {
-  "date": "Monday, September 8, 2025 at 10:00 PM GMT-5",
+  "date": "Monday, September 8, 2025 at 11:25 PM GMT-5",
   "articles": [
     {
       "title": "Package Managers are Evil",
       "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
       "points": "",
-      "comments": "\n              67 comments",
+      "comments": "\n              68 comments",
       "index": 1
-    },
-    {
-      "title": "Wikimedia sunsets separate mobile domains",
-      "href": "https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 2
     },
     {
       "title": "The First ziglang.org Outage",
       "href": "https://ziglang.org/news/first-outage/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 2
+    },
+    {
+      "title": "Wikimedia sunsets separate mobile domains",
+      "href": "https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 3
     },
     {
       "title": "We will not accept changes created with the aid of \"AI\"",
       "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
       "points": "",
-      "comments": "\n              56 comments",
+      "comments": "\n              57 comments",
       "index": 4
     },
     {
       "title": "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
       "href": "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 5
     },
     {
       "title": "Hashed sorting is typically faster than hash tables",
       "href": "https://reiner.org/hashed-sorting",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              19 comments",
       "index": 6
     },
     {
       "title": "'Make invalid states unrepresentable' considered harmful",
       "href": "https://www.seangoedecke.com/invalid-states/",
       "points": "",
-      "comments": "\n              68 comments",
+      "comments": "\n              69 comments",
       "index": 7
     },
     {
@@ -65,31 +65,31 @@
       "index": 9
     },
     {
+      "title": "color npm package compromised",
+      "href": "https://fasterthanli.me/articles/color-npm-package-compromised",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 10
+    },
+    {
       "title": "Vibe-coded build system NX gets hacked, steals vibe-coders’ crypto",
       "href": "https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 10
-    },
-    {
-      "title": "Strong Eventual Consistency - The Big Idea behind CRDTs",
-      "href": "https://lewiscampbell.tech/blog/250908.html",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 11
-    },
-    {
-      "title": "color npm package compromised",
-      "href": "https://fasterthanli.me/articles/color-npm-package-compromised",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 12
     },
     {
       "title": "KeenWrite 3.6.3",
       "href": "https://keenwrite.com/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 12
+    },
+    {
+      "title": "Strong Eventual Consistency - The Big Idea behind CRDTs",
+      "href": "https://lewiscampbell.tech/blog/250908.html",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 13
     },
     {
@@ -100,24 +100,24 @@
       "index": 14
     },
     {
+      "title": "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
+      "href": "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 15
+    },
+    {
       "title": "Text format feature matrix",
       "href": "https://keenwrite.com/blog/2025/09/08/feature-matrix/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Deliberate Abstraction",
       "href": "https://entropicthoughts.com/deliberate-abstraction",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 16
-    },
-    {
-      "title": "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
-      "href": "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 17
     },
     {
@@ -128,29 +128,29 @@
       "index": 18
     },
     {
+      "title": "Using Emacs Org-Mode With Databases: A getting-started guide",
+      "href": "https://gitlab.com/ryanprior/emacs-org-data-starter",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
       "title": "The CP-SAT Primer",
       "href": "https://d-krupke.github.io/cpsat-primer/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Do you have a personal wiki?",
       "href": "/s/odeql3/do_you_have_personal_wiki",
       "points": "",
       "comments": "\n              81 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Tiny LLM - LLM Serving in a Week",
       "href": "https://skyzh.github.io/tiny-llm/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Using Emacs Org-Mode With Databases: A getting-started guide",
-      "href": "https://gitlab.com/ryanprior/emacs-org-data-starter",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
