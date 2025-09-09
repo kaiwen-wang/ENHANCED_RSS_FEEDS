@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, September 9, 2025 at 4:15 PM GMT-5",
+  "date": "Tuesday, September 9, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "term.everything: Run any GUI app in the terminal",
@@ -12,21 +12,21 @@
       "title": "Apple Event for September 9th, 2025",
       "href": "https://www.apple.com/apple-events/",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              25 comments",
       "index": 2
     },
     {
       "title": "The First ziglang.org Outage",
       "href": "https://ziglang.org/news/first-outage/",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              25 comments",
       "index": 3
     },
     {
       "title": "Formatting code should be unnecessary",
       "href": "https://maxleiter.com/blog/formatting",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 4
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
-      "title": "A new experimental Go API for JSON",
-      "href": "https://go.dev/blog/jsonv2-exp",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 7
-    },
-    {
       "title": "Rich Already Answered That",
       "href": "https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 7
+    },
+    {
+      "title": "A new experimental Go API for JSON",
+      "href": "https://go.dev/blog/jsonv2-exp",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 8
     },
     {
@@ -72,24 +72,24 @@
       "index": 10
     },
     {
+      "title": "I don’t want AI agents controlling my laptop",
+      "href": "https://sophiebits.com/2025/09/09/ai-agents-security",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 11
+    },
+    {
       "title": "Testing the compiler optimizations your code relies on",
       "href": "https://pythonspeed.com/articles/testing-compiler-optimizations/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle",
       "href": "https://www.ethanheilman.com/x/35/index.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "Package Managers are Evil",
-      "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
-      "points": "",
-      "comments": "\n              102 comments",
       "index": 13
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "How to Build Python Code with Bazel (and Why)",
-      "href": "https://ohadravid.github.io/posts/2025-09-hello-bazel/",
+      "title": "Package Managers are Evil",
+      "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              104 comments",
       "index": 15
     },
     {
@@ -114,31 +114,31 @@
       "index": 16
     },
     {
+      "title": "How to Build Python Code with Bazel (and Why)",
+      "href": "https://ohadravid.github.io/posts/2025-09-hello-bazel/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Unauthorized Windows/386",
+      "href": "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
       "title": "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
       "href": "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Introducing Signal Secure Backups",
       "href": "https://signal.org/blog/introducing-secure-backups/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 18
-    },
-    {
-      "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
-      "href": "https://kube.io/blog/liquid-glass-css-svg/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 19
-    },
-    {
-      "title": "We will not accept changes created with the aid of \"AI\"",
-      "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
-      "points": "",
-      "comments": "\n              101 comments",
       "index": 20
     },
     {
@@ -149,29 +149,29 @@
       "index": 21
     },
     {
-      "title": "Unauthorized Windows/386",
-      "href": "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/",
+      "title": "We will not accept changes created with the aid of \"AI\"",
+      "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              103 comments",
       "index": 22
     },
     {
-      "title": "I don’t want AI agents controlling my laptop",
-      "href": "https://sophiebits.com/2025/09/09/ai-agents-security",
+      "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
+      "href": "https://kube.io/blog/liquid-glass-css-svg/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 23
     },
     {
-      "title": "Compiling a functional language to LLVM",
-      "href": "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html",
+      "title": "All You Need Is SSH",
+      "href": "https://wrongthink.link/posts/all-you-need-is-ssh/",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Analyzing the memory ordering models of the Apple M1 (2023)",
-      "href": "https://www.sciencedirect.com/science/article/pii/S1383762124000390",
+      "title": "Compiling a functional language to LLVM",
+      "href": "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
