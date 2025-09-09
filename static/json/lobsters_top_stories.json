@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, September 9, 2025 at 3:25 AM GMT-5",
+  "date": "Tuesday, September 9, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "The First ziglang.org Outage",
       "href": "https://ziglang.org/news/first-outage/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
       "title": "Wikimedia sunsets separate mobile domains",
       "href": "https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 2
     },
     {
       "title": "Package Managers are Evil",
       "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
       "points": "",
-      "comments": "\n              73 comments",
+      "comments": "\n              74 comments",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "We will not accept changes created with the aid of \"AI\"",
       "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
       "points": "",
-      "comments": "\n              73 comments",
+      "comments": "\n              76 comments",
       "index": 5
     },
     {
@@ -54,14 +54,14 @@
       "title": "'Make invalid states unrepresentable' considered harmful",
       "href": "https://www.seangoedecke.com/invalid-states/",
       "points": "",
-      "comments": "\n              75 comments",
+      "comments": "\n              76 comments",
       "index": 8
     },
     {
       "title": "Anatomy of a billion-download NPM supply-chain attack",
       "href": "https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 9
     },
     {
@@ -86,94 +86,94 @@
       "index": 12
     },
     {
+      "title": "Experimenting with local LLMs on macOS",
+      "href": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 13
+    },
+    {
       "title": "Strong Eventual Consistency - The Big Idea behind CRDTs",
       "href": "https://lewiscampbell.tech/blog/250908.html",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 13
+      "index": 14
     },
     {
-      "title": "Experimenting with local LLMs on macOS",
-      "href": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
+      "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
+      "href": "https://kube.io/blog/liquid-glass-css-svg/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 14
+      "comments": "\n              1 comment",
+      "index": 15
     },
     {
       "title": "i ran Claude in a loop for three months, and it created a genz programming language called cursed",
       "href": "https://ghuntley.com/cursed/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 15
+      "index": 16
+    },
+    {
+      "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
+      "href": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "GSoC 2025 - Byte Type: Supporting Raw Data Copies in the LLVM IR",
       "href": "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
-      "href": "https://kube.io/blog/liquid-glass-css-svg/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Text format feature matrix",
       "href": "https://keenwrite.com/blog/2025/09/08/feature-matrix/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
       "href": "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Using Emacs Org-Mode With Databases: A getting-started guide",
       "href": "https://gitlab.com/ryanprior/emacs-org-data-starter",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 21
+    },
+    {
+      "title": "Compiling a functional language to LLVM",
+      "href": "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Deliberate Abstraction",
       "href": "https://entropicthoughts.com/deliberate-abstraction",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 21
-    },
-    {
-      "title": "The CP-SAT Primer",
-      "href": "https://d-krupke.github.io/cpsat-primer/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
       "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
       "points": "",
       "comments": "\n              48 comments",
-      "index": 23
-    },
-    {
-      "title": "A Novel Technique for SQL Injection in PDO’s Prepared Statements",
-      "href": "https://slcyber.io/assetnote-security-research-center/a-novel-technique-for-sql-injection-in-pdos-prepared-statements/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "IO is special",
-      "href": "https://blog.ploeh.dk/2025/09/08/io-is-special/",
+      "title": "The CP-SAT Primer",
+      "href": "https://d-krupke.github.io/cpsat-primer/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
