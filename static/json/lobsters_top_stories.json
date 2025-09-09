@@ -1,11 +1,11 @@
 {
-  "date": "Monday, September 8, 2025 at 8:25 PM GMT-5",
+  "date": "Monday, September 8, 2025 at 10:00 PM GMT-5",
   "articles": [
     {
       "title": "Package Managers are Evil",
       "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
       "points": "",
-      "comments": "\n              64 comments",
+      "comments": "\n              67 comments",
       "index": 1
     },
     {
@@ -16,17 +16,17 @@
       "index": 2
     },
     {
-      "title": "We will not accept changes created with the aid of \"AI\"",
-      "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
-      "points": "",
-      "comments": "\n              55 comments",
-      "index": 3
-    },
-    {
       "title": "The First ziglang.org Outage",
       "href": "https://ziglang.org/news/first-outage/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 3
+    },
+    {
+      "title": "We will not accept changes created with the aid of \"AI\"",
+      "href": "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md",
+      "points": "",
+      "comments": "\n              56 comments",
       "index": 4
     },
     {
@@ -47,133 +47,133 @@
       "title": "'Make invalid states unrepresentable' considered harmful",
       "href": "https://www.seangoedecke.com/invalid-states/",
       "points": "",
-      "comments": "\n              64 comments",
+      "comments": "\n              68 comments",
       "index": 7
+    },
+    {
+      "title": "Introducing Signal Secure Backups",
+      "href": "https://signal.org/blog/introducing-secure-backups/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 8
     },
     {
       "title": "Anatomy of a billion-download NPM supply-chain attack",
       "href": "https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 8
-    },
-    {
-      "title": "Introducing Signal Secure Backups",
-      "href": "https://signal.org/blog/introducing-secure-backups/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 9
     },
     {
       "title": "Vibe-coded build system NX gets hacked, steals vibe-coders’ crypto",
       "href": "https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 10
     },
     {
       "title": "Strong Eventual Consistency - The Big Idea behind CRDTs",
       "href": "https://lewiscampbell.tech/blog/250908.html",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 11
-    },
-    {
-      "title": "KeenWrite 3.6.3",
-      "href": "https://keenwrite.com/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 12
     },
     {
       "title": "color npm package compromised",
       "href": "https://fasterthanli.me/articles/color-npm-package-compromised",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 12
+    },
+    {
+      "title": "KeenWrite 3.6.3",
+      "href": "https://keenwrite.com/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 13
     },
     {
       "title": "Experimenting with local LLMs on macOS",
       "href": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 14
-    },
-    {
-      "title": "Deliberate Abstraction",
-      "href": "https://entropicthoughts.com/deliberate-abstraction",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 15
-    },
-    {
-      "title": "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
-      "href": "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 16
-    },
-    {
-      "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
-      "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
-      "points": "",
-      "comments": "\n              46 comments",
-      "index": 17
-    },
-    {
-      "title": "The CP-SAT Primer",
-      "href": "https://d-krupke.github.io/cpsat-primer/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "Do you have a personal wiki?",
-      "href": "/s/odeql3/do_you_have_personal_wiki",
-      "points": "",
-      "comments": "\n              80 comments",
-      "index": 19
-    },
-    {
-      "title": "Using Emacs Org-Mode With Databases: A getting-started guide",
-      "href": "https://gitlab.com/ryanprior/emacs-org-data-starter",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Pico CSS • Minimal CSS Framework for semantic HTML",
-      "href": "https://picocss.com",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 21
-    },
-    {
-      "title": "CSS Bed",
-      "href": "https://www.cssbed.com/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 22
-    },
-    {
-      "title": "Using Claude Code to modernize a 25-year-old kernel driver",
-      "href": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 23
     },
     {
       "title": "Text format feature matrix",
       "href": "https://keenwrite.com/blog/2025/09/08/feature-matrix/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Deliberate Abstraction",
+      "href": "https://entropicthoughts.com/deliberate-abstraction",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 16
+    },
+    {
+      "title": "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
+      "href": "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 17
+    },
+    {
+      "title": "Bye Intel, hi AMD! I’m done after 2 dead Intels",
+      "href": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
+      "points": "",
+      "comments": "\n              46 comments",
+      "index": 18
+    },
+    {
+      "title": "The CP-SAT Primer",
+      "href": "https://d-krupke.github.io/cpsat-primer/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Do you have a personal wiki?",
+      "href": "/s/odeql3/do_you_have_personal_wiki",
+      "points": "",
+      "comments": "\n              81 comments",
+      "index": 20
+    },
+    {
+      "title": "Tiny LLM - LLM Serving in a Week",
+      "href": "https://skyzh.github.io/tiny-llm/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Using Emacs Org-Mode With Databases: A getting-started guide",
+      "href": "https://gitlab.com/ryanprior/emacs-org-data-starter",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "CSS Bed",
+      "href": "https://www.cssbed.com/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 23
+    },
+    {
+      "title": "Pico CSS • Minimal CSS Framework for semantic HTML",
+      "href": "https://picocss.com",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 24
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/z3iuxt/what_are_you_doing_this_week",
+      "title": "Using Claude Code to modernize a 25-year-old kernel driver",
+      "href": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              4 comments",
       "index": 25
     }
   ]
