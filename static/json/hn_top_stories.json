@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, September 10, 2025 at 1:25 PM GMT-5",
+  "date": "Wednesday, September 10, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
-      "title": "ChatGPT Developer Mode",
+      "title": "ChatGPT Developer Mode: Full MCP client access",
       "href": "https://platform.openai.com/docs/guides/developer-mode",
-      "points": "166 points",
-      "comments": "73 comments",
+      "points": "218 points",
+      "comments": "107 comments",
       "index": 1
     },
     {
       "title": "Show HN: Term.everything – Run any GUI app in the terminal",
       "href": "https://github.com/mmulet/term.everything",
-      "points": "290 points",
-      "comments": "45 comments",
+      "points": "351 points",
+      "comments": "52 comments",
       "index": 2
-    },
-    {
-      "title": "I didn't bring my son to a museum to look at screens",
-      "href": "https://sethpurcell.com/writing/screens-in-museums/",
-      "points": "314 points",
-      "comments": "111 comments",
-      "index": 3
-    },
-    {
-      "title": "OrioleDB Patent: now freely available to the Postgres community",
-      "href": "https://supabase.com/blog/orioledb-patent-free",
-      "points": "279 points",
-      "comments": "98 comments",
-      "index": 4
     },
     {
       "title": "Defeating Nondeterminism in LLM Inference",
       "href": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
-      "points": "22 points",
-      "comments": "5 comments",
+      "points": "56 points",
+      "comments": "16 comments",
+      "index": 3
+    },
+    {
+      "title": "Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts",
+      "href": "item?id=45199648",
+      "points": "18 points",
+      "comments": "8 comments",
+      "index": 4
+    },
+    {
+      "title": "The HackberryPi CM5 handheld computer",
+      "href": "https://github.com/ZitaoTech/HackberryPiCM5",
+      "points": "59 points",
+      "comments": "11 comments",
       "index": 5
+    },
+    {
+      "title": "OrioleDB Patent: now freely available to the Postgres community",
+      "href": "https://supabase.com/blog/orioledb-patent-free",
+      "points": "293 points",
+      "comments": "101 comments",
+      "index": 6
+    },
+    {
+      "title": "I didn't bring my son to a museum to look at screens",
+      "href": "https://sethpurcell.com/writing/screens-in-museums/",
+      "points": "414 points",
+      "comments": "157 comments",
+      "index": 7
+    },
+    {
+      "title": "CPU Utilization is Wrong (2017)",
+      "href": "https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html",
+      "points": "21 points",
+      "comments": "1 comment",
+      "index": 8
     },
     {
       "title": "The Origin Story of Merge Queues",
       "href": "https://mergify.com/blog/the-origin-story-of-merge-queues",
-      "points": "50 points",
-      "comments": "14 comments",
-      "index": 6
-    },
-    {
-      "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
-      "href": "https://joshfonseca.com/blogs/animal-crossing-llm",
-      "points": "761 points",
-      "comments": "166 comments",
-      "index": 7
-    },
-    {
-      "title": "TikTok has turned culture into a feedback loop of impulse and machine learning",
-      "href": "https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/",
-      "points": "159 points",
-      "comments": "138 comments",
-      "index": 8
+      "points": "55 points",
+      "comments": "15 comments",
+      "index": 9
     },
     {
       "title": "Bild AI (YC W25) Is Hiring",
       "href": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai",
       "points": "",
       "comments": "hide",
-      "index": 9
-    },
-    {
-      "title": "The HackberryPi CM5 handheld computer",
-      "href": "https://github.com/ZitaoTech/HackberryPiCM5",
-      "points": "27 points",
-      "comments": "2 comments",
       "index": 10
     },
     {
-      "title": "Kerberoasting",
-      "href": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
-      "points": "105 points",
-      "comments": "35 comments",
+      "title": "Insufficiently sanitized data allows unauthenticated access to FreePBX Admin",
+      "href": "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/",
+      "points": "22 points",
+      "comments": "3 comments",
       "index": 11
     },
     {
-      "title": "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
-      "href": "https://github.com/juhovh/tailguard",
-      "points": "46 points",
-      "comments": "16 comments",
+      "title": "Zoox robotaxi launches in Las Vegas",
+      "href": "https://zoox.com/journal/las-vegas",
+      "points": "115 points",
+      "comments": "152 comments",
       "index": 12
     },
     {
-      "title": "We can’t circumvent the work needed to train our minds",
-      "href": "https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/",
-      "points": "222 points",
-      "comments": "114 comments",
+      "title": "TikTok has turned culture into a feedback loop of impulse and machine learning",
+      "href": "https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/",
+      "points": "191 points",
+      "comments": "148 comments",
       "index": 13
-    },
-    {
-      "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
-      "href": "https://jiratui.sh/",
-      "points": "24 points",
-      "comments": "6 comments",
-      "index": 14
-    },
-    {
-      "title": "'Block Everything' protests sweep across France, scores arrested",
-      "href": "https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/",
-      "points": "54 points",
-      "comments": "45 comments",
-      "index": 15
-    },
-    {
-      "title": "Distributing your own scripts via Homebrew",
-      "href": "https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/",
-      "points": "25 points",
-      "comments": "4 comments",
-      "index": 16
-    },
-    {
-      "title": "Wiggling into Correlation",
-      "href": "https://entropicthoughts.com/wiggling-into-correlation",
-      "points": "6 points",
-      "comments": "discuss",
-      "index": 17
-    },
-    {
-      "title": "Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps",
-      "href": "https://crates.io/crates/crabcamera",
-      "points": "52 points",
-      "comments": "9 comments",
-      "index": 18
-    },
-    {
-      "title": "Guy running a Google rival from his laundry room",
-      "href": "https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines",
-      "points": "164 points",
-      "comments": "116 comments",
-      "index": 19
     },
     {
       "title": "Anthropic Services Down",
       "href": "https://status.anthropic.com/incidents/k6gkm2b8cjk9",
-      "points": "86 points",
-      "comments": "58 comments",
-      "index": 20
+      "points": "107 points",
+      "comments": "61 comments",
+      "index": 14
     },
     {
-      "title": "Knowledge and memory",
-      "href": "https://www.robinsloan.com/lab/knowledge-and-memory/",
-      "points": "85 points",
-      "comments": "42 comments",
-      "index": 21
+      "title": "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
+      "href": "https://github.com/juhovh/tailguard",
+      "points": "56 points",
+      "comments": "21 comments",
+      "index": 15
     },
     {
-      "title": "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
-      "href": "https://www.sciencedaily.com/releases/2025/08/250831112449.htm",
-      "points": "249 points",
-      "comments": "84 comments",
-      "index": 22
+      "title": "Kerberoasting",
+      "href": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
+      "points": "111 points",
+      "comments": "38 comments",
+      "index": 16
     },
     {
-      "title": "Performance Improvements in .NET 10",
-      "href": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/",
-      "points": "117 points",
-      "comments": "47 comments",
-      "index": 23
+      "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
+      "href": "https://jiratui.sh/",
+      "points": "43 points",
+      "comments": "12 comments",
+      "index": 17
     },
     {
-      "title": "Rendering flame fractals with a compute shader (2023)",
-      "href": "https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader",
-      "points": "49 points",
-      "comments": "9 comments",
-      "index": 24
-    },
-    {
-      "title": "All clickwheel iPod games have now been preserved for posterity",
-      "href": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/",
-      "points": "210 points",
-      "comments": "55 comments",
-      "index": 25
-    },
-    {
-      "title": "Zoox launches its robotaxi service to the public in Las Vegas",
-      "href": "https://zoox.com/journal/las-vegas",
-      "points": "108 points",
-      "comments": "138 comments",
-      "index": 26
-    },
-    {
-      "title": "AI negotiator successfully haggles down the price of a car thousands of dollars",
-      "href": "https://fortune.com/2025/09/10/this-30-year-old-ceo-says-his-ai-negotiator-can-successfully-haggle-down-the-price-of-a-car-by-thousands-of-dollars/",
-      "points": "5 points",
-      "comments": "1 comment",
-      "index": 27
+      "title": "We can’t circumvent the work needed to train our minds",
+      "href": "https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/",
+      "points": "247 points",
+      "comments": "125 comments",
+      "index": 18
     },
     {
       "title": "Delphi 13 Florence Released",
       "href": "https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/",
-      "points": "5 points",
+      "points": "20 points",
+      "comments": "7 comments",
+      "index": 19
+    },
+    {
+      "title": "Rayhunter: IMSI Catchers We Have Found So Far",
+      "href": "https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far",
+      "points": "13 points",
       "comments": "discuss",
+      "index": 20
+    },
+    {
+      "title": "Distributing your own scripts via Homebrew",
+      "href": "https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/",
+      "points": "32 points",
+      "comments": "5 comments",
+      "index": 21
+    },
+    {
+      "title": "Semantic Line Breaks (2017)",
+      "href": "https://sembr.org",
+      "points": "56 points",
+      "comments": "42 comments",
+      "index": 22
+    },
+    {
+      "title": "Wiggling into Correlation",
+      "href": "https://entropicthoughts.com/wiggling-into-correlation",
+      "points": "8 points",
+      "comments": "discuss",
+      "index": 23
+    },
+    {
+      "title": "Tarsnap Is Cozy",
+      "href": "https://til.andrew-quinn.me/posts/tarsnap-is-cozy/",
+      "points": "54 points",
+      "comments": "46 comments",
+      "index": 24
+    },
+    {
+      "title": "Things you can do with a debugger but not with print debugging",
+      "href": "https://mahesh-hegde.github.io/posts/what_debugger_can/",
+      "points": "146 points",
+      "comments": "175 comments",
+      "index": 25
+    },
+    {
+      "title": "'Block Everything' protests sweep across France, scores arrested",
+      "href": "https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/",
+      "points": "83 points",
+      "comments": "87 comments",
+      "index": 26
+    },
+    {
+      "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
+      "href": "https://joshfonseca.com/blogs/animal-crossing-llm",
+      "points": "772 points",
+      "comments": "167 comments",
+      "index": 27
+    },
+    {
+      "title": "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
+      "href": "https://www.sciencedaily.com/releases/2025/08/250831112449.htm",
+      "points": "259 points",
+      "comments": "96 comments",
       "index": 28
     },
     {
-      "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
-      "href": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
-      "points": "521 points",
-      "comments": "658 comments",
+      "title": "Guy running a Google rival from his laundry room",
+      "href": "https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines",
+      "points": "187 points",
+      "comments": "123 comments",
       "index": 29
     },
     {
-      "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
-      "href": "https://arxiv.org/abs/2508.05004",
-      "points": "102 points",
-      "comments": "53 comments",
+      "title": "Knowledge and memory",
+      "href": "https://www.robinsloan.com/lab/knowledge-and-memory/",
+      "points": "87 points",
+      "comments": "43 comments",
       "index": 30
     }
   ]
