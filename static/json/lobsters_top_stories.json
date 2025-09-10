@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, September 10, 2025 at 1:30 AM GMT-5",
+  "date": "Wednesday, September 10, 2025 at 2:15 AM GMT-5",
   "articles": [
     {
       "title": "term.everything: Run any GUI app in the terminal",
@@ -12,7 +12,7 @@
       "title": "Apple Event for September 9th, 2025",
       "href": "https://www.apple.com/apple-events/",
       "points": "",
-      "comments": "\n              36 comments",
+      "comments": "\n              42 comments",
       "index": 2
     },
     {
@@ -23,52 +23,52 @@
       "index": 3
     },
     {
+      "title": "Rich Already Answered That",
+      "href": "https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 4
+    },
+    {
       "title": "The First ziglang.org Outage",
       "href": "https://ziglang.org/news/first-outage/",
       "points": "",
       "comments": "\n              28 comments",
-      "index": 4
-    },
-    {
-      "title": "Rich Already Answered That",
-      "href": "https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f",
-      "points": "",
-      "comments": "\n              9 comments",
       "index": 5
     },
     {
       "title": "A new experimental Go API for JSON",
       "href": "https://go.dev/blog/jsonv2-exp",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 6
     },
     {
       "title": "I don’t want AI agents controlling my laptop",
       "href": "https://sophiebits.com/2025/09/09/ai-agents-security",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              11 comments",
       "index": 7
+    },
+    {
+      "title": "The bloat of edge-case first libraries",
+      "href": "https://43081j.com/2025/09/bloat-of-edge-case-libraries",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 8
     },
     {
       "title": "Batched Critical Sections",
       "href": "http://kprotty.me/2025/09/08/batched-critical-sections.html",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Building a DOOM-like multiplayer shooter in pure SQL",
       "href": "https://cedardb.com/blog/doomql/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 9
-    },
-    {
-      "title": "The bloat of edge-case first libraries",
-      "href": "https://43081j.com/2025/09/bloat-of-edge-case-libraries",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 10
     },
     {
@@ -82,7 +82,7 @@
       "title": "Wikimedia sunsets separate mobile domains",
       "href": "https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              21 comments",
       "index": 12
     },
     {
@@ -110,7 +110,7 @@
       "title": "The Last Programmers",
       "href": "https://www.xipu.li/posts/the-last-programmers",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 16
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "The Weird OS Built Around a Database",
+      "href": "https://www.youtube.com/watch?v=pWZBQMRmW7k",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
       "title": "Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle",
       "href": "https://www.ethanheilman.com/x/35/index.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "How to Prove False Statements: Practical Attacks on Fiat-Shamir",
       "href": "https://eprint.iacr.org/2025/118.pdf",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Package Managers are Evil",
       "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
       "points": "",
       "comments": "\n              112 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Unauthorized Windows/386",
       "href": "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "My Quarterly System Health Check-in",
+      "href": "https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
       "href": "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 22
-    },
-    {
-      "title": "The Weird OS Built Around a Database",
-      "href": "https://www.youtube.com/watch?v=pWZBQMRmW7k",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Introducing Signal Secure Backups",
       "href": "https://signal.org/blog/introducing-secure-backups/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 24
-    },
-    {
-      "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
-      "href": "https://kube.io/blog/liquid-glass-css-svg/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 25
     }
   ]
