@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, September 10, 2025 at 2:15 PM GMT-5",
+  "date": "Wednesday, September 10, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "ChatGPT Developer Mode: Full MCP client access",
       "href": "https://platform.openai.com/docs/guides/developer-mode",
-      "points": "218 points",
-      "comments": "107 comments",
+      "points": "257 points",
+      "comments": "130 comments",
       "index": 1
     },
     {
       "title": "Show HN: Term.everything – Run any GUI app in the terminal",
       "href": "https://github.com/mmulet/term.everything",
-      "points": "351 points",
-      "comments": "52 comments",
+      "points": "428 points",
+      "comments": "59 comments",
       "index": 2
     },
     {
       "title": "Defeating Nondeterminism in LLM Inference",
       "href": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
-      "points": "56 points",
-      "comments": "16 comments",
+      "points": "96 points",
+      "comments": "30 comments",
       "index": 3
+    },
+    {
+      "title": "Show HN: Haystack – Review pull requests like you wrote them yourself",
+      "href": "https://haystackeditor.com",
+      "points": "23 points",
+      "comments": "9 comments",
+      "index": 4
     },
     {
       "title": "Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts",
       "href": "item?id=45199648",
-      "points": "18 points",
-      "comments": "8 comments",
-      "index": 4
+      "points": "28 points",
+      "comments": "13 comments",
+      "index": 5
     },
     {
       "title": "The HackberryPi CM5 handheld computer",
       "href": "https://github.com/ZitaoTech/HackberryPiCM5",
-      "points": "59 points",
-      "comments": "11 comments",
-      "index": 5
+      "points": "84 points",
+      "comments": "22 comments",
+      "index": 6
     },
     {
       "title": "OrioleDB Patent: now freely available to the Postgres community",
       "href": "https://supabase.com/blog/orioledb-patent-free",
-      "points": "293 points",
-      "comments": "101 comments",
-      "index": 6
+      "points": "317 points",
+      "comments": "108 comments",
+      "index": 7
+    },
+    {
+      "title": "Charlie Kirk shot at event in Utah",
+      "href": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437",
+      "points": "98 points",
+      "comments": "113 comments",
+      "index": 8
     },
     {
       "title": "I didn't bring my son to a museum to look at screens",
       "href": "https://sethpurcell.com/writing/screens-in-museums/",
-      "points": "414 points",
-      "comments": "157 comments",
-      "index": 7
-    },
-    {
-      "title": "CPU Utilization is Wrong (2017)",
-      "href": "https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html",
-      "points": "21 points",
-      "comments": "1 comment",
-      "index": 8
-    },
-    {
-      "title": "The Origin Story of Merge Queues",
-      "href": "https://mergify.com/blog/the-origin-story-of-merge-queues",
-      "points": "55 points",
-      "comments": "15 comments",
+      "points": "526 points",
+      "comments": "199 comments",
       "index": 9
+    },
+    {
+      "title": "Dotter: Dotfile manager and templater written in Rust",
+      "href": "https://github.com/SuperCuber/dotter",
+      "points": "12 points",
+      "comments": "2 comments",
+      "index": 10
+    },
+    {
+      "title": "UGMM-NN: Univariate Gaussian Mixture Model Neural Network",
+      "href": "https://arxiv.org/abs/2509.07569",
+      "points": "9 points",
+      "comments": "1 comment",
+      "index": 11
+    },
+    {
+      "title": "Harvey Mudd Miniature Machine",
+      "href": "https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html",
+      "points": "17 points",
+      "comments": "3 comments",
+      "index": 12
     },
     {
       "title": "Bild AI (YC W25) Is Hiring",
       "href": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai",
       "points": "",
       "comments": "hide",
-      "index": 10
-    },
-    {
-      "title": "Insufficiently sanitized data allows unauthenticated access to FreePBX Admin",
-      "href": "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/",
-      "points": "22 points",
-      "comments": "3 comments",
-      "index": 11
-    },
-    {
-      "title": "Zoox robotaxi launches in Las Vegas",
-      "href": "https://zoox.com/journal/las-vegas",
-      "points": "115 points",
-      "comments": "152 comments",
-      "index": 12
-    },
-    {
-      "title": "TikTok has turned culture into a feedback loop of impulse and machine learning",
-      "href": "https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/",
-      "points": "191 points",
-      "comments": "148 comments",
       "index": 13
     },
     {
-      "title": "Anthropic Services Down",
-      "href": "https://status.anthropic.com/incidents/k6gkm2b8cjk9",
-      "points": "107 points",
-      "comments": "61 comments",
+      "title": "'Clearest sign' yet of ancient life on Mars",
+      "href": "https://www.nature.com/articles/s41586-025-09413-0",
+      "points": "30 points",
+      "comments": "1 comment",
       "index": 14
-    },
-    {
-      "title": "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
-      "href": "https://github.com/juhovh/tailguard",
-      "points": "56 points",
-      "comments": "21 comments",
-      "index": 15
-    },
-    {
-      "title": "Kerberoasting",
-      "href": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
-      "points": "111 points",
-      "comments": "38 comments",
-      "index": 16
     },
     {
       "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
       "href": "https://jiratui.sh/",
-      "points": "43 points",
-      "comments": "12 comments",
+      "points": "60 points",
+      "comments": "17 comments",
+      "index": 15
+    },
+    {
+      "title": "The origin story of merge queues",
+      "href": "https://mergify.com/blog/the-origin-story-of-merge-queues",
+      "points": "57 points",
+      "comments": "19 comments",
+      "index": 16
+    },
+    {
+      "title": "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
+      "href": "https://github.com/juhovh/tailguard",
+      "points": "65 points",
+      "comments": "21 comments",
       "index": 17
+    },
+    {
+      "title": "Kerberoasting",
+      "href": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
+      "points": "120 points",
+      "comments": "40 comments",
+      "index": 18
+    },
+    {
+      "title": "Zoox robotaxi launches in Las Vegas",
+      "href": "https://zoox.com/journal/las-vegas",
+      "points": "126 points",
+      "comments": "169 comments",
+      "index": 19
+    },
+    {
+      "title": "TikTok has turned culture into a feedback loop of impulse and machine learning",
+      "href": "https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/",
+      "points": "209 points",
+      "comments": "161 comments",
+      "index": 20
+    },
+    {
+      "title": "Anthropic Services Down",
+      "href": "https://status.anthropic.com/incidents/k6gkm2b8cjk9",
+      "points": "129 points",
+      "comments": "68 comments",
+      "index": 21
+    },
+    {
+      "title": "Insufficiently sanitized data allows unauthenticated access to FreePBX Admin",
+      "href": "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/",
+      "points": "33 points",
+      "comments": "5 comments",
+      "index": 22
     },
     {
       "title": "We can’t circumvent the work needed to train our minds",
       "href": "https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/",
-      "points": "247 points",
-      "comments": "125 comments",
-      "index": 18
-    },
-    {
-      "title": "Delphi 13 Florence Released",
-      "href": "https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/",
-      "points": "20 points",
-      "comments": "7 comments",
-      "index": 19
+      "points": "273 points",
+      "comments": "134 comments",
+      "index": 23
     },
     {
       "title": "Rayhunter: IMSI Catchers We Have Found So Far",
       "href": "https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far",
-      "points": "13 points",
-      "comments": "discuss",
-      "index": 20
-    },
-    {
-      "title": "Distributing your own scripts via Homebrew",
-      "href": "https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/",
-      "points": "32 points",
-      "comments": "5 comments",
-      "index": 21
-    },
-    {
-      "title": "Semantic Line Breaks (2017)",
-      "href": "https://sembr.org",
-      "points": "56 points",
-      "comments": "42 comments",
-      "index": 22
-    },
-    {
-      "title": "Wiggling into Correlation",
-      "href": "https://entropicthoughts.com/wiggling-into-correlation",
-      "points": "8 points",
-      "comments": "discuss",
-      "index": 23
+      "points": "38 points",
+      "comments": "3 comments",
+      "index": 24
     },
     {
       "title": "Tarsnap Is Cozy",
       "href": "https://til.andrew-quinn.me/posts/tarsnap-is-cozy/",
-      "points": "54 points",
-      "comments": "46 comments",
-      "index": 24
+      "points": "68 points",
+      "comments": "50 comments",
+      "index": 25
+    },
+    {
+      "title": "Delphi 13 Florence Released",
+      "href": "https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/",
+      "points": "36 points",
+      "comments": "18 comments",
+      "index": 26
+    },
+    {
+      "title": "Distributing your own scripts via Homebrew",
+      "href": "https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/",
+      "points": "41 points",
+      "comments": "6 comments",
+      "index": 27
+    },
+    {
+      "title": "Semantic Line Breaks (2017)",
+      "href": "https://sembr.org",
+      "points": "62 points",
+      "comments": "42 comments",
+      "index": 28
     },
     {
       "title": "Things you can do with a debugger but not with print debugging",
       "href": "https://mahesh-hegde.github.io/posts/what_debugger_can/",
-      "points": "146 points",
-      "comments": "175 comments",
-      "index": 25
-    },
-    {
-      "title": "'Block Everything' protests sweep across France, scores arrested",
-      "href": "https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/",
-      "points": "83 points",
-      "comments": "87 comments",
-      "index": 26
-    },
-    {
-      "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
-      "href": "https://joshfonseca.com/blogs/animal-crossing-llm",
-      "points": "772 points",
-      "comments": "167 comments",
-      "index": 27
-    },
-    {
-      "title": "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
-      "href": "https://www.sciencedaily.com/releases/2025/08/250831112449.htm",
-      "points": "259 points",
-      "comments": "96 comments",
-      "index": 28
-    },
-    {
-      "title": "Guy running a Google rival from his laundry room",
-      "href": "https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines",
-      "points": "187 points",
-      "comments": "123 comments",
+      "points": "160 points",
+      "comments": "178 comments",
       "index": 29
     },
     {
-      "title": "Knowledge and memory",
-      "href": "https://www.robinsloan.com/lab/knowledge-and-memory/",
-      "points": "87 points",
-      "comments": "43 comments",
+      "title": "Wiggling into Correlation",
+      "href": "https://entropicthoughts.com/wiggling-into-correlation",
+      "points": "11 points",
+      "comments": "discuss",
       "index": 30
     }
   ]

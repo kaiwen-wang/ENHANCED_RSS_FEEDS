@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, September 10, 2025 at 2:15 PM GMT-5",
+  "date": "Wednesday, September 10, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Many Hard Leetcode Problems are Easy Constraint Problems",
       "href": "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 1
     },
     {
@@ -26,7 +26,7 @@
       "title": "A love letter to the CSV format (2024)",
       "href": "https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              13 comments",
       "index": 4
     },
     {
@@ -61,28 +61,28 @@
       "title": "Formatting code should be unnecessary",
       "href": "https://maxleiter.com/blog/formatting",
       "points": "",
-      "comments": "\n              38 comments",
+      "comments": "\n              39 comments",
       "index": 9
-    },
-    {
-      "title": "Fenwick layout for interval trees",
-      "href": "https://purplesyringa.moe/blog/fenwick-layout-for-interval-trees/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "Rich Already Answered That",
-      "href": "https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f",
-      "points": "",
-      "comments": "\n              23 comments",
-      "index": 11
     },
     {
       "title": "Effects as Capabilities in Scala",
       "href": "https://nrinaudo.github.io/articles/capabilities.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "Fenwick layout for interval trees",
+      "href": "https://purplesyringa.moe/blog/fenwick-layout-for-interval-trees/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "Rich Already Answered That",
+      "href": "https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f",
+      "points": "",
+      "comments": "\n              23 comments",
       "index": 12
     },
     {
@@ -93,85 +93,85 @@
       "index": 13
     },
     {
+      "title": "Raku",
+      "href": "https://raku.org/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
+      "title": "Flox, the Nix Foundation, and NVIDIA Partner for CUDA",
+      "href": "https://flox.dev/blog/flox-the-nix-foundation-and-nvidia-partner-for-cuda/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
       "title": "A new experimental Go API for JSON",
       "href": "https://go.dev/blog/jsonv2-exp",
       "points": "",
       "comments": "\n              24 comments",
-      "index": 14
+      "index": 16
     },
     {
-      "title": "I don’t want AI agents controlling my laptop",
-      "href": "https://sophiebits.com/2025/09/09/ai-agents-security",
+      "title": "TWISTED: The dramatic history of twisted-pair Ethernet",
+      "href": "https://www.youtube.com/watch?v=f8PP5IHsL8Y",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 15
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "The bloat of edge-case first libraries",
       "href": "https://43081j.com/2025/09/bloat-of-edge-case-libraries",
       "points": "",
-      "comments": "\n              12 comments",
-      "index": 16
+      "comments": "\n              13 comments",
+      "index": 18
+    },
+    {
+      "title": "I don’t want AI agents controlling my laptop",
+      "href": "https://sophiebits.com/2025/09/09/ai-agents-security",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 19
+    },
+    {
+      "title": "What's new in Kotlin 2.2.20",
+      "href": "https://kotlinlang.org/docs/whatsnew2220.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "The First ziglang.org Outage",
       "href": "https://ziglang.org/news/first-outage/",
       "points": "",
-      "comments": "\n              36 comments",
-      "index": 17
+      "comments": "\n              39 comments",
+      "index": 21
     },
     {
       "title": "Memory Integrity Enforcement: A complete vision for memory safety in Apple devices",
       "href": "https://security.apple.com/blog/memory-integrity-enforcement/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 18
+      "index": 22
     },
     {
       "title": "LisaGUI",
       "href": "https://lisagui.com/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 19
+      "index": 23
     },
     {
       "title": "All You Need Is SSH",
       "href": "https://wrongthink.link/posts/all-you-need-is-ssh/",
       "points": "",
-      "comments": "\n              9 comments",
-      "index": 20
+      "comments": "\n              12 comments",
+      "index": 24
     },
     {
       "title": "My Quarterly System Health Check-in",
       "href": "https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Building a DOOM-like multiplayer shooter in pure SQL",
-      "href": "https://cedardb.com/blog/doomql/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 22
-    },
-    {
-      "title": "Performance Improvements in .NET 10",
-      "href": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "The Last Programmers",
-      "href": "https://www.xipu.li/posts/the-last-programmers",
-      "points": "",
-      "comments": "\n              23 comments",
-      "index": 24
-    },
-    {
-      "title": "Flox, the Nix Foundation, and NVIDIA Partner for CUDA",
-      "href": "https://flox.dev/blog/flox-the-nix-foundation-and-nvidia-partner-for-cuda/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
