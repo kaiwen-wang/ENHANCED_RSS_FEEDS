@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, September 10, 2025 at 6:15 AM GMT-5",
+  "date": "Wednesday, September 10, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "term.everything: Run any GUI app in the terminal",
@@ -12,42 +12,42 @@
       "title": "Formatting code should be unnecessary",
       "href": "https://maxleiter.com/blog/formatting",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              27 comments",
       "index": 2
     },
     {
       "title": "Apple Event for September 9th, 2025",
       "href": "https://www.apple.com/apple-events/",
       "points": "",
-      "comments": "\n              49 comments",
+      "comments": "\n              42 comments",
       "index": 3
     },
     {
       "title": "Rich Already Answered That",
       "href": "https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              17 comments",
       "index": 4
     },
     {
-      "title": "The First ziglang.org Outage",
-      "href": "https://ziglang.org/news/first-outage/",
+      "title": "A love letter to the CSV format (2024)",
+      "href": "https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              1 comment",
       "index": 5
     },
     {
       "title": "A new experimental Go API for JSON",
       "href": "https://go.dev/blog/jsonv2-exp",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              13 comments",
       "index": 6
     },
     {
       "title": "I don’t want AI agents controlling my laptop",
       "href": "https://sophiebits.com/2025/09/09/ai-agents-security",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              13 comments",
       "index": 7
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
+      "title": "The First ziglang.org Outage",
+      "href": "https://ziglang.org/news/first-outage/",
+      "points": "",
+      "comments": "\n              30 comments",
+      "index": 9
+    },
+    {
       "title": "Building a DOOM-like multiplayer shooter in pure SQL",
       "href": "https://cedardb.com/blog/doomql/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 9
-    },
-    {
-      "title": "Batched Critical Sections",
-      "href": "http://kprotty.me/2025/09/08/batched-critical-sections.html",
-      "points": "",
-      "comments": "\n              14 comments",
       "index": 10
     },
     {
@@ -79,99 +79,99 @@
       "index": 11
     },
     {
-      "title": "A love letter to the CSV format (2024)",
-      "href": "https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/",
+      "title": "Batched Critical Sections",
+      "href": "http://kprotty.me/2025/09/08/batched-critical-sections.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              14 comments",
       "index": 12
+    },
+    {
+      "title": "All You Need Is SSH",
+      "href": "https://wrongthink.link/posts/all-you-need-is-ssh/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 13
+    },
+    {
+      "title": "Scaling asyncio on Free-Threaded Python",
+      "href": "https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
     },
     {
       "title": "Wikimedia sunsets separate mobile domains",
       "href": "https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement",
       "points": "",
       "comments": "\n              21 comments",
-      "index": 13
-    },
-    {
-      "title": "All You Need Is SSH",
-      "href": "https://wrongthink.link/posts/all-you-need-is-ssh/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "The Last Programmers",
       "href": "https://www.xipu.li/posts/the-last-programmers",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 15
-    },
-    {
-      "title": "Ten Years of D3D12",
-      "href": "https://therealmjp.github.io/posts/ten-years-of-d3d12/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 16
-    },
-    {
-      "title": "Writing a book in the age of open source",
-      "href": "https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 17
-    },
-    {
-      "title": "How I Made Ruby Faster than Ruby",
-      "href": "https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "The Weird OS Built Around a Database",
-      "href": "https://www.youtube.com/watch?v=pWZBQMRmW7k",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "How to Build Python Code with Bazel (and Why)",
-      "href": "https://ohadravid.github.io/posts/2025-09-hello-bazel/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 20
     },
     {
       "title": "My Quarterly System Health Check-in",
       "href": "https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Memory Integrity Enforcement: A complete vision for memory safety in Apple devices",
+      "href": "https://security.apple.com/blog/memory-integrity-enforcement/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 18
+    },
+    {
+      "title": "Effects as Capabilities in Scala",
+      "href": "https://nrinaudo.github.io/articles/capabilities.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Ten Years of D3D12",
+      "href": "https://therealmjp.github.io/posts/ten-years-of-d3d12/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "LisaGUI",
+      "href": "https://lisagui.com/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 21
     },
     {
-      "title": "Function Composition in Programming Languages - Conor Hoekstra - CppNorth 2023",
-      "href": "https://www.youtube.com/watch?v=JELcdZLre3s&list=PLd3zPEznMobrQ8qkEmjKQi8vySIWPa93L",
+      "title": "Writing a book in the age of open source",
+      "href": "https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              11 comments",
       "index": 22
     },
     {
-      "title": "Popular npm software packages hit in supply-chain attack",
-      "href": "https://arstechnica.com/security/2025/09/software-packages-with-more-than-2-billion-weekly-downloads-hit-in-supply-chain-attack/",
+      "title": "How to Build Python Code with Bazel (and Why)",
+      "href": "https://ohadravid.github.io/posts/2025-09-hello-bazel/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              5 comments",
       "index": 23
     },
     {
-      "title": "Unauthorized Windows/386",
-      "href": "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/",
+      "title": "How I Made Ruby Faster than Ruby",
+      "href": "https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 24
     },
     {
-      "title": "Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle",
-      "href": "https://www.ethanheilman.com/x/35/index.html",
+      "title": "The Weird OS Built Around a Database",
+      "href": "https://www.youtube.com/watch?v=pWZBQMRmW7k",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
