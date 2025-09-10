@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, September 10, 2025 at 10:20 AM GMT-5",
+  "date": "Wednesday, September 10, 2025 at 11:25 AM GMT-5",
   "articles": [
+    {
+      "title": "The Scam Called \"You Don't Have to Remember Anything\"",
+      "href": "https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/",
+      "points": "101 points",
+      "comments": "50 comments",
+      "index": 1
+    },
+    {
+      "title": "Show HN: Term.everything – Run any GUI app in the terminal",
+      "href": "https://github.com/mmulet/term.everything",
+      "points": "123 points",
+      "comments": "13 comments",
+      "index": 2
+    },
     {
       "title": "OrioleDB Patent: now freely available to the Postgres community",
       "href": "https://supabase.com/blog/orioledb-patent-free",
-      "points": "195 points",
-      "comments": "68 comments",
-      "index": 1
+      "points": "240 points",
+      "comments": "83 comments",
+      "index": 3
+    },
+    {
+      "title": "The Origin Story of Merge Queues",
+      "href": "https://mergify.com/blog/the-origin-story-of-merge-queues",
+      "points": "17 points",
+      "comments": "discuss",
+      "index": 4
+    },
+    {
+      "title": "Zoox launches its robotaxi service to the public in Las Vegas",
+      "href": "https://zoox.com/journal/las-vegas",
+      "points": "70 points",
+      "comments": "71 comments",
+      "index": 5
     },
     {
       "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
       "href": "https://joshfonseca.com/blogs/animal-crossing-llm",
-      "points": "664 points",
-      "comments": "138 comments",
-      "index": 2
+      "points": "717 points",
+      "comments": "153 comments",
+      "index": 6
     },
     {
       "title": "Kerberoasting",
       "href": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
-      "points": "65 points",
-      "comments": "25 comments",
-      "index": 3
+      "points": "78 points",
+      "comments": "30 comments",
+      "index": 7
     },
     {
-      "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
-      "href": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
-      "points": "415 points",
-      "comments": "474 comments",
-      "index": 4
-    },
-    {
-      "title": "iPhone Air",
-      "href": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
-      "points": "830 points",
-      "comments": "1694 comments",
-      "index": 5
-    },
-    {
-      "title": "Guy running a Google rival from his laundry room",
-      "href": "https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines",
-      "points": "87 points",
-      "comments": "61 comments",
-      "index": 6
+      "title": "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
+      "href": "https://github.com/juhovh/tailguard",
+      "points": "20 points",
+      "comments": "4 comments",
+      "index": 8
     },
     {
       "title": "Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps",
       "href": "https://crates.io/crates/crabcamera",
-      "points": "23 points",
-      "comments": "2 comments",
-      "index": 7
+      "points": "33 points",
+      "comments": "5 comments",
+      "index": 9
+    },
+    {
+      "title": "iPhone Air",
+      "href": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+      "points": "845 points",
+      "comments": "1734 comments",
+      "index": 10
+    },
+    {
+      "title": "Guy running a Google rival from his laundry room",
+      "href": "https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines",
+      "points": "127 points",
+      "comments": "92 comments",
+      "index": 11
+    },
+    {
+      "title": "Performance Improvements in .NET 10",
+      "href": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/",
+      "points": "70 points",
+      "comments": "10 comments",
+      "index": 12
+    },
+    {
+      "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
+      "href": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
+      "points": "468 points",
+      "comments": "554 comments",
+      "index": 13
     },
     {
       "title": "E-paper display reaches the realm of LCD screens",
       "href": "https://spectrum.ieee.org/e-paper-display-modos",
-      "points": "525 points",
-      "comments": "171 comments",
-      "index": 8
-    },
-    {
-      "title": "Rendering flame fractals with a compute shader (2023)",
-      "href": "https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader",
-      "points": "32 points",
-      "comments": "6 comments",
-      "index": 9
-    },
-    {
-      "title": "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
-      "href": "https://www.sciencedaily.com/releases/2025/08/250831112449.htm",
-      "points": "210 points",
-      "comments": "54 comments",
-      "index": 10
-    },
-    {
-      "title": "Claude now has access to a server-side container environment",
-      "href": "https://www.anthropic.com/news/create-files",
-      "points": "604 points",
-      "comments": "316 comments",
-      "index": 11
-    },
-    {
-      "title": "Knowledge and memory",
-      "href": "https://www.robinsloan.com/lab/knowledge-and-memory/",
-      "points": "53 points",
-      "comments": "25 comments",
-      "index": 12
+      "points": "557 points",
+      "comments": "178 comments",
+      "index": 14
     },
     {
       "title": "Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left",
       "href": "https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager",
       "points": "",
       "comments": "hide",
-      "index": 13
-    },
-    {
-      "title": "US High school students' scores fall in reading and math",
-      "href": "https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a",
-      "points": "447 points",
-      "comments": "807 comments",
-      "index": 14
-    },
-    {
-      "title": "All clickwheel iPod games have now been preserved for posterity",
-      "href": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/",
-      "points": "177 points",
-      "comments": "47 comments",
       "index": 15
     },
     {
-      "title": "We all dodged a bullet",
-      "href": "https://xeiaso.net/notes/2025/we-dodged-a-bullet/",
-      "points": "774 points",
-      "comments": "430 comments",
+      "title": "Rendering flame fractals with a compute shader (2023)",
+      "href": "https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader",
+      "points": "43 points",
+      "comments": "7 comments",
       "index": 16
     },
     {
-      "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
-      "href": "https://arxiv.org/abs/2508.05004",
-      "points": "79 points",
+      "title": "Knowledge and memory",
+      "href": "https://www.robinsloan.com/lab/knowledge-and-memory/",
+      "points": "73 points",
       "comments": "33 comments",
       "index": 17
     },
     {
-      "title": "Tarsnap Is Cozy",
-      "href": "https://til.andrew-quinn.me/posts/tarsnap-is-cozy/",
-      "points": "41 points",
-      "comments": "26 comments",
+      "title": "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
+      "href": "https://www.sciencedaily.com/releases/2025/08/250831112449.htm",
+      "points": "231 points",
+      "comments": "70 comments",
       "index": 18
+    },
+    {
+      "title": "Microsoft PowerToys",
+      "href": "https://learn.microsoft.com/en-us/windows/powertoys/",
+      "points": "22 points",
+      "comments": "15 comments",
+      "index": 19
+    },
+    {
+      "title": "Claude now has access to a server-side container environment",
+      "href": "https://www.anthropic.com/news/create-files",
+      "points": "616 points",
+      "comments": "321 comments",
+      "index": 20
+    },
+    {
+      "title": "US High school students' scores fall in reading and math",
+      "href": "https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a",
+      "points": "468 points",
+      "comments": "884 comments",
+      "index": 21
+    },
+    {
+      "title": "All clickwheel iPod games have now been preserved for posterity",
+      "href": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/",
+      "points": "189 points",
+      "comments": "52 comments",
+      "index": 22
+    },
+    {
+      "title": "We all dodged a bullet",
+      "href": "https://xeiaso.net/notes/2025/we-dodged-a-bullet/",
+      "points": "788 points",
+      "comments": "444 comments",
+      "index": 23
+    },
+    {
+      "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
+      "href": "https://arxiv.org/abs/2508.05004",
+      "points": "91 points",
+      "comments": "42 comments",
+      "index": 24
     },
     {
       "title": "YouTube is a mysterious monopoly",
       "href": "https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly",
-      "points": "318 points",
-      "comments": "413 comments",
-      "index": 19
-    },
-    {
-      "title": "PKM apps need to get better at resurfacing information",
-      "href": "https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/",
-      "points": "27 points",
-      "comments": "17 comments",
-      "index": 20
+      "points": "335 points",
+      "comments": "431 comments",
+      "index": 25
     },
     {
       "title": "Children and young people's reading in 2025",
       "href": "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/",
-      "points": "56 points",
-      "comments": "48 comments",
-      "index": 21
+      "points": "70 points",
+      "comments": "72 comments",
+      "index": 26
     },
     {
       "title": "Axial twist theory",
       "href": "https://en.wikipedia.org/wiki/Axial_twist_theory",
-      "points": "162 points",
-      "comments": "39 comments",
-      "index": 22
+      "points": "166 points",
+      "comments": "43 comments",
+      "index": 27
     },
     {
       "title": "Memory Integrity Enforcement",
       "href": "https://security.apple.com/blog/memory-integrity-enforcement/",
-      "points": "449 points",
-      "comments": "208 comments",
-      "index": 23
-    },
-    {
-      "title": "Hypervisor in 1k Lines",
-      "href": "https://1000hv.seiya.me/en",
-      "points": "109 points",
-      "comments": "11 comments",
-      "index": 24
-    },
-    {
-      "title": "Some thoughts on personal Git hosting",
-      "href": "https://shkspr.mobi/blog/2025/09/some-thoughts-on-personal-git-hosting/",
-      "points": "51 points",
-      "comments": "48 comments",
-      "index": 25
-    },
-    {
-      "title": "Tomorrow's emoji today: Unicode 17.0",
-      "href": "https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170",
-      "points": "187 points",
-      "comments": "301 comments",
-      "index": 26
-    },
-    {
-      "title": "Show HN: Bottlefire – Build single-executable microVMs from Docker images",
-      "href": "https://bottlefire.dev/",
-      "points": "142 points",
-      "comments": "21 comments",
-      "index": 27
-    },
-    {
-      "title": "Building a DOOM-like multiplayer shooter in pure SQL",
-      "href": "https://cedardb.com/blog/doomql/",
-      "points": "227 points",
-      "comments": "35 comments",
+      "points": "457 points",
+      "comments": "212 comments",
       "index": 28
     },
     {
-      "title": "Semantic Line Breaks",
-      "href": "https://sembr.org",
-      "points": "40 points",
-      "comments": "33 comments",
+      "title": "PKM apps need to get better at resurfacing information",
+      "href": "https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/",
+      "points": "28 points",
+      "comments": "20 comments",
       "index": 29
     },
     {
-      "title": "A new experimental Go API for JSON",
-      "href": "https://go.dev/blog/jsonv2-exp",
-      "points": "248 points",
-      "comments": "87 comments",
+      "title": "Memory Safety in ProcASM",
+      "href": "https://temware.site/html/blogs/procasm_memory_safety.html",
+      "points": "4 points",
+      "comments": "discuss",
       "index": 30
     }
   ]
