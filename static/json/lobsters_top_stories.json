@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, September 10, 2025 at 5:20 AM GMT-5",
+  "date": "Wednesday, September 10, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "term.everything: Run any GUI app in the terminal",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
+      "title": "Formatting code should be unnecessary",
+      "href": "https://maxleiter.com/blog/formatting",
+      "points": "",
+      "comments": "\n              26 comments",
+      "index": 2
+    },
+    {
       "title": "Apple Event for September 9th, 2025",
       "href": "https://www.apple.com/apple-events/",
       "points": "",
       "comments": "\n              49 comments",
-      "index": 2
-    },
-    {
-      "title": "Formatting code should be unnecessary",
-      "href": "https://maxleiter.com/blog/formatting",
-      "points": "",
-      "comments": "\n              25 comments",
       "index": 3
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
-      "title": "The bloat of edge-case first libraries",
-      "href": "https://43081j.com/2025/09/bloat-of-edge-case-libraries",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 7
-    },
-    {
       "title": "I don’t want AI agents controlling my laptop",
       "href": "https://sophiebits.com/2025/09/09/ai-agents-security",
       "points": "",
       "comments": "\n              12 comments",
+      "index": 7
+    },
+    {
+      "title": "The bloat of edge-case first libraries",
+      "href": "https://43081j.com/2025/09/bloat-of-edge-case-libraries",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 8
     },
     {
@@ -68,7 +68,7 @@
       "title": "Batched Critical Sections",
       "href": "http://kprotty.me/2025/09/08/batched-critical-sections.html",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 10
     },
     {
@@ -79,45 +79,45 @@
       "index": 11
     },
     {
+      "title": "A love letter to the CSV format (2024)",
+      "href": "https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
       "title": "Wikimedia sunsets separate mobile domains",
       "href": "https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement",
       "points": "",
       "comments": "\n              21 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "All You Need Is SSH",
       "href": "https://wrongthink.link/posts/all-you-need-is-ssh/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "The Last Programmers",
       "href": "https://www.xipu.li/posts/the-last-programmers",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 14
+      "comments": "\n              19 comments",
+      "index": 15
     },
     {
-      "title": "A love letter to the CSV format (2024)",
-      "href": "https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/",
+      "title": "Ten Years of D3D12",
+      "href": "https://therealmjp.github.io/posts/ten-years-of-d3d12/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Writing a book in the age of open source",
       "href": "https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 16
-    },
-    {
-      "title": "The Weird OS Built Around a Database",
-      "href": "https://www.youtube.com/watch?v=pWZBQMRmW7k",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -128,8 +128,8 @@
       "index": 18
     },
     {
-      "title": "Ten Years of D3D12",
-      "href": "https://therealmjp.github.io/posts/ten-years-of-d3d12/",
+      "title": "The Weird OS Built Around a Database",
+      "href": "https://www.youtube.com/watch?v=pWZBQMRmW7k",
       "points": "",
       "comments": "\n              no comments",
       "index": 19
@@ -138,40 +138,40 @@
       "title": "How to Build Python Code with Bazel (and Why)",
       "href": "https://ohadravid.github.io/posts/2025-09-hello-bazel/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 20
     },
     {
-      "title": "Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle",
-      "href": "https://www.ethanheilman.com/x/35/index.html",
+      "title": "My Quarterly System Health Check-in",
+      "href": "https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/",
       "points": "",
       "comments": "\n              no comments",
       "index": 21
     },
     {
-      "title": "How to Prove False Statements: Practical Attacks on Fiat-Shamir",
-      "href": "https://eprint.iacr.org/2025/118.pdf",
+      "title": "Function Composition in Programming Languages - Conor Hoekstra - CppNorth 2023",
+      "href": "https://www.youtube.com/watch?v=JELcdZLre3s&list=PLd3zPEznMobrQ8qkEmjKQi8vySIWPa93L",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 22
+    },
+    {
+      "title": "Popular npm software packages hit in supply-chain attack",
+      "href": "https://arstechnica.com/security/2025/09/software-packages-with-more-than-2-billion-weekly-downloads-hit-in-supply-chain-attack/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Unauthorized Windows/386",
       "href": "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Package Managers are Evil",
-      "href": "https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/",
-      "points": "",
-      "comments": "\n              117 comments",
       "index": 24
     },
     {
-      "title": "My Quarterly System Health Check-in",
-      "href": "https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/",
+      "title": "Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle",
+      "href": "https://www.ethanheilman.com/x/35/index.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
