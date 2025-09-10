@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, September 10, 2025 at 5:15 PM GMT-5",
+  "date": "Wednesday, September 10, 2025 at 6:15 PM GMT-5",
   "articles": [
     {
       "title": "Many Hard Leetcode Problems are Easy Constraint Problems",
@@ -12,7 +12,7 @@
       "title": "Kerberoasting",
       "href": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 2
     },
     {
@@ -26,26 +26,26 @@
       "title": "A love letter to the CSV format (2024)",
       "href": "https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 4
+    },
+    {
+      "title": "Unicode 17.0 Release Announcement",
+      "href": "http://blog.unicode.org/2025/09/unicode-170-release-announcement.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 5
     },
     {
       "title": "JEP 401: Value Classes and Objects (Preview)",
       "href": "https://openjdk.org/jeps/401",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Raku",
       "href": "https://raku.org/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 6
-    },
-    {
-      "title": "Unicode 17.0 Release Announcement",
-      "href": "http://blog.unicode.org/2025/09/unicode-170-release-announcement.html",
       "points": "",
       "comments": "\n              3 comments",
       "index": 7
@@ -58,122 +58,122 @@
       "index": 8
     },
     {
+      "title": "KDE launches its own distribution (again)",
+      "href": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 9
+    },
+    {
       "title": "Scaling asyncio on Free-Threaded Python",
       "href": "https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Effects as Capabilities in Scala",
       "href": "https://nrinaudo.github.io/articles/capabilities.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Fenwick layout for interval trees",
       "href": "https://purplesyringa.moe/blog/fenwick-layout-for-interval-trees/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Formatting code should be unnecessary",
       "href": "https://maxleiter.com/blog/formatting",
       "points": "",
-      "comments": "\n              41 comments",
-      "index": 12
+      "comments": "\n              42 comments",
+      "index": 13
     },
     {
       "title": "Rich Already Answered That",
       "href": "https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f",
       "points": "",
       "comments": "\n              24 comments",
-      "index": 13
-    },
-    {
-      "title": "TWISTED: The dramatic history of twisted-pair Ethernet",
-      "href": "https://www.youtube.com/watch?v=f8PP5IHsL8Y",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 14
-    },
-    {
-      "title": "Apple Event for September 9th, 2025",
-      "href": "https://www.apple.com/apple-events/",
-      "points": "",
-      "comments": "\n              45 comments",
-      "index": 15
     },
     {
       "title": "Flox, the Nix Foundation, and NVIDIA Partner for CUDA",
       "href": "https://flox.dev/blog/flox-the-nix-foundation-and-nvidia-partner-for-cuda/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
+      "title": "TWISTED: The dramatic history of twisted-pair Ethernet",
+      "href": "https://www.youtube.com/watch?v=f8PP5IHsL8Y",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 16
     },
     {
-      "title": "A new experimental Go API for JSON",
-      "href": "https://go.dev/blog/jsonv2-exp",
-      "points": "",
-      "comments": "\n              24 comments",
-      "index": 17
-    },
-    {
-      "title": "The bloat of edge-case first libraries",
-      "href": "https://43081j.com/2025/09/bloat-of-edge-case-libraries",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 18
-    },
-    {
-      "title": "What's new in Kotlin 2.2.20",
-      "href": "https://kotlinlang.org/docs/whatsnew2220.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "I don’t want AI agents controlling my laptop",
-      "href": "https://sophiebits.com/2025/09/09/ai-agents-security",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 20
-    },
-    {
-      "title": "KDE launches its own distribution (again)",
-      "href": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 21
-    },
-    {
-      "title": "The First ziglang.org Outage",
-      "href": "https://ziglang.org/news/first-outage/",
+      "title": "Apple Event for September 9th, 2025",
+      "href": "https://www.apple.com/apple-events/",
       "points": "",
       "comments": "\n              45 comments",
-      "index": 22
+      "index": 17
     },
     {
       "title": "On the weird economics of semiconductors and GenAI",
       "href": "https://gauthierroussilhe.com/en/articles/how-to-use-computing-power-faster",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "A new experimental Go API for JSON",
+      "href": "https://go.dev/blog/jsonv2-exp",
+      "points": "",
+      "comments": "\n              24 comments",
+      "index": 19
+    },
+    {
+      "title": "The bloat of edge-case first libraries",
+      "href": "https://43081j.com/2025/09/bloat-of-edge-case-libraries",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 20
+    },
+    {
+      "title": "I don’t want AI agents controlling my laptop",
+      "href": "https://sophiebits.com/2025/09/09/ai-agents-security",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 21
+    },
+    {
+      "title": "What's new in Kotlin 2.2.20",
+      "href": "https://kotlinlang.org/docs/whatsnew2220.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "ARM is great, ARM is terrible (and so is RISC-V) | The Changelog",
+      "href": "https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "My Quarterly System Health Check-in",
-      "href": "https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/",
+      "title": "LisaGUI",
+      "href": "https://lisagui.com/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 24
     },
     {
-      "title": "All You Need Is SSH",
-      "href": "https://wrongthink.link/posts/all-you-need-is-ssh/",
+      "title": "The First ziglang.org Outage",
+      "href": "https://ziglang.org/news/first-outage/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              45 comments",
       "index": 25
     }
   ]
