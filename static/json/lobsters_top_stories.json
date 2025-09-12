@@ -1,60 +1,60 @@
 {
-  "date": "Friday, September 12, 2025 at 7:35 AM GMT-5",
+  "date": "Friday, September 12, 2025 at 8:25 AM GMT-5",
   "articles": [
+    {
+      "title": "FatNums: An Alternate Representation for School Arithmetic (2020)",
+      "href": "https://parentheticallyspeaking.org/articles/fat-nums/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 1
+    },
     {
       "title": "Jetzig Web Framework for Zig",
       "href": "https://www.jetzig.dev",
       "points": "",
-      "comments": "\n              12 comments",
-      "index": 1
+      "comments": "\n              13 comments",
+      "index": 2
     },
     {
       "title": "A positive lambda: '+[]{}'",
       "href": "https://stackoverflow.com/questions/18889028/a-positive-lambda-what-sorcery-is-this",
       "points": "",
       "comments": "\n              no comments",
-      "index": 2
+      "index": 3
+    },
+    {
+      "title": "Declarative music - 2 Minute Deep Acid in Strudel (from scratch)",
+      "href": "https://www.youtube.com/watch?v=HkgV_-nJOuE",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 4
     },
     {
       "title": "First-class merges and cover letters",
       "href": "https://dotat.at/@/2025-09-11-cover-letter.html",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 3
-    },
-    {
-      "title": "FatNums: An Alternate Representation for School Arithmetic (2020)",
-      "href": "https://parentheticallyspeaking.org/articles/fat-nums/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 4
-    },
-    {
-      "title": "Declarative music - 2 Minute Deep Acid in Strudel (from scratch)",
-      "href": "https://www.youtube.com/watch?v=HkgV_-nJOuE",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 5
-    },
-    {
-      "title": "humanely dealing with humungus crawlers",
-      "href": "https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 6
     },
     {
       "title": "Learning to use GoLand",
       "href": "https://blog.jetbrains.com/go/2025/09/08/goland-can-do-that-ten-secret-superpowers-you-might-not-know/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 6
+    },
+    {
+      "title": "humanely dealing with humungus crawlers",
+      "href": "https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 7
     },
     {
-      "title": "Program verification is not all-or-nothing",
-      "href": "https://lawrencecpaulson.github.io/2025/09/05/All_or_nothing.html",
+      "title": "Logging in Go with Slog: A Practitioner's Guide",
+      "href": "https://www.dash0.com/guides/logging-in-go-with-slog",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              1 comment",
       "index": 8
     },
     {
@@ -65,113 +65,113 @@
       "index": 9
     },
     {
+      "title": "Really Simple Licensing",
+      "href": "https://rslstandard.org/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
+      "title": "Program verification is not all-or-nothing",
+      "href": "https://lawrencecpaulson.github.io/2025/09/05/All_or_nothing.html",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 11
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/gcygu7/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 12
+    },
+    {
+      "title": "Classic GTK1 GUI Library for Windows, Linux and MacOS",
+      "href": "https://gitlab.com/robinrowe/gtk1",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
       "title": "Emacs Wants You to Extend It: Sorting My Reading List",
       "href": "https://edoput.it/2025/04/16/emacs-paradigm-shift.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 14
     },
     {
-      "title": "Logging in Go with Slog: A Practitioner's Guide",
-      "href": "https://www.dash0.com/guides/logging-in-go-with-slog",
+      "title": "Improving state machine code generation",
+      "href": "https://trifectatech.org/blog/improving-state-machine-code-generation/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 11
-    },
-    {
-      "title": "Really Simple Licensing",
-      "href": "https://rslstandard.org/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
+      "index": 15
     },
     {
       "title": "Kefir 0.5.0 Release Announcement (C17/C23 compiler)",
       "href": "https://kefir.protopopov.lv/posts/announce0.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 13
+      "index": 16
     },
     {
       "title": "Racintosh Plus",
       "href": "http://www.identity4.com/2025-racintosh-plus/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 14
-    },
-    {
-      "title": "Behind The Scenes of Bun Install",
-      "href": "https://bun.com/blog/behind-the-scenes-of-bun-install",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 15
-    },
-    {
-      "title": "ANN: doom-ada: Doom Emacs Ada language module with syntax highlighting, LSP and Alire support",
-      "href": "https://github.com/tomekw/doom-ada",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Many Hard Leetcode Problems are Easy Constraint Problems",
-      "href": "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/",
-      "points": "",
-      "comments": "\n              48 comments",
       "index": 17
-    },
-    {
-      "title": "Stop Outsourcing Thinking",
-      "href": "https://vaibhawvipul.github.io/2025/09/10/Stop-outsourcing-thinking.html",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 18
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/gcygu7/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
     },
     {
       "title": "The Evolution of Logical Replication in PostgreSQL: A Firsthand Account",
       "href": "https://www.enterprisedb.com/blog/evolution-logical-replication-postgresql-firsthand-account",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Behind The Scenes of Bun Install",
+      "href": "https://bun.com/blog/behind-the-scenes-of-bun-install",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 19
+    },
+    {
+      "title": "ANN: doom-ada: Doom Emacs Ada language module with syntax highlighting, LSP and Alire support",
+      "href": "https://github.com/tomekw/doom-ada",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 20
+    },
+    {
+      "title": "Many Hard Leetcode Problems are Easy Constraint Problems",
+      "href": "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/",
+      "points": "",
+      "comments": "\n              49 comments",
+      "index": 21
+    },
+    {
+      "title": "Stop Outsourcing Thinking",
+      "href": "https://vaibhawvipul.github.io/2025/09/10/Stop-outsourcing-thinking.html",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 22
     },
     {
       "title": "Architecture by Fashion, Not Fundamentals",
       "href": "https://substack.com/inbox/post/173391778",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Semlib: LLM-powered Data Processing",
       "href": "https://anishathalye.com/semlib/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 22
-    },
-    {
-      "title": "Defeating Nondeterminism in LLM Inference",
-      "href": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 23
-    },
-    {
-      "title": "links ~ glfmn.io",
-      "href": "https://glfmn.io/links/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              7 comments",
       "index": 24
     },
     {
-      "title": "ASTs with Fix and Free",
-      "href": "https://chrispenner.ca/posts/asts-with-fix-and-free",
+      "title": "Lessons in Disabling RC4 in Active Directory",
+      "href": "https://syfuhs.net/lessons-in-disabling-rc4-in-active-directory",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
