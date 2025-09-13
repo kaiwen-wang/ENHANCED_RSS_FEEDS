@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, September 13, 2025 at 5:15 PM GMT-5",
+  "date": "Saturday, September 13, 2025 at 6:15 PM GMT-5",
   "articles": [
     {
       "title": "My first CVE",
@@ -9,38 +9,38 @@
       "index": 1
     },
     {
+      "title": "RIP pthread_cancel",
+      "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 2
+    },
+    {
       "title": "Safe C++ proposal is not being continued",
       "href": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 2
+      "index": 3
+    },
+    {
+      "title": "AI Coding",
+      "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 4
     },
     {
       "title": "Setsum – order agnostic, additive, subtractive checksum",
       "href": "https://avi.im/blag/2025/setsum",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 3
-    },
-    {
-      "title": "RIP pthread_cancel",
-      "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 4
-    },
-    {
-      "title": "AI Coding",
-      "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 5
     },
     {
       "title": "Flow Control: a programmer's text editor",
       "href": "https://github.com/neurocyte/flow",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 6
     },
     {
@@ -58,15 +58,15 @@
       "index": 8
     },
     {
-      "title": "Learning to fuzz with LibAFL by solving puzzles",
-      "href": "https://github.com/addisoncrump/parking-game-fuzzer",
+      "title": "Weird CPU architectures: the MOV only CPU",
+      "href": "https://justanotherelectronicsblog.com/?p=771",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 9
     },
     {
-      "title": "Weird CPU architectures: the MOV only CPU",
-      "href": "https://justanotherelectronicsblog.com/?p=771",
+      "title": "Learning to fuzz with LibAFL by solving puzzles",
+      "href": "https://github.com/addisoncrump/parking-game-fuzzer",
       "points": "",
       "comments": "\n              1 comment",
       "index": 10
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
+      "title": "Diesel 2.3.0",
+      "href": "https://diesel.rs/news/2_3_0_release.html",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 12
+    },
+    {
       "title": "Text Files > Complex Tools: A Minimalist Snippet Manager",
       "href": "https://quarters.captaintouch.com/blog/posts/2025-09-13-text-files-%3E-complex-tools:-a-minimalist-snippet-manager.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "Diesel 2.3.0",
-      "href": "https://diesel.rs/news/2_3_0_release.html",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 13
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "Pass: Unix Password Manager",
+      "href": "https://www.passwordstore.org/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
       "title": "Splitting a long string in lines using AVX2",
       "href": "https://lemire.me/blog/2025/09/07/splitting-a-long-string-in-lines-efficiently/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Fun Friday Question: What Easter Eggs have you Found or Made?",
       "href": "/s/eyjir3/fun_friday_question_what_easter_eggs_have",
       "points": "",
-      "comments": "\n              41 comments",
-      "index": 19
+      "comments": "\n              43 comments",
+      "index": 20
     },
     {
       "title": "Debian 13, Postgres, and the US/* time zones",
       "href": "https://rachelbythebay.com/w/2025/09/11/debtz/",
       "points": "",
-      "comments": "\n              32 comments",
-      "index": 20
+      "comments": "\n              34 comments",
+      "index": 21
     },
     {
       "title": "Linux 6.17 Fix Lands To Address Regression With \"Serious Breakage\" In Hibernation",
       "href": "https://www.phoronix.com/news/Linux-6.17-PM-Hibernation-FIxes",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Normal-order syntax-rules and proving the fix-point of call/cc",
       "href": "https://okmij.org/ftp/Scheme/callcc-calc-page.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Trusting builds with Bazel remote execution",
       "href": "https://blogsystem5.substack.com/p/bazel-remote-execution",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
+      "index": 24
     },
     {
       "title": "oq: Terminal OpenAPI Spec viewer",
       "href": "https://github.com/plutov/oq",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 24
-    },
-    {
-      "title": "Tips for installing Windows 98 in QEMU/UTM",
-      "href": "https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
