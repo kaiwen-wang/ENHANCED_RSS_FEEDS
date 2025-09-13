@@ -1,18 +1,18 @@
 {
-  "date": "Saturday, September 13, 2025 at 4:15 PM GMT-5",
+  "date": "Saturday, September 13, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "My first CVE",
       "href": "https://natkr.com/2025-09-13-my-first-cve/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
       "title": "Safe C++ proposal is not being continued",
       "href": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              15 comments",
       "index": 2
     },
     {
@@ -33,7 +33,7 @@
       "title": "AI Coding",
       "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 5
     },
     {
@@ -79,24 +79,24 @@
       "index": 11
     },
     {
+      "title": "Text Files > Complex Tools: A Minimalist Snippet Manager",
+      "href": "https://quarters.captaintouch.com/blog/posts/2025-09-13-text-files-%3E-complex-tools:-a-minimalist-snippet-manager.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
       "title": "Diesel 2.3.0",
       "href": "https://diesel.rs/news/2_3_0_release.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Basics of Equality Saturation",
       "href": "https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Lobsters Interview with Susam",
-      "href": "/s/kltoas/lobsters_interview_with_susam",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 14
     },
     {
@@ -107,10 +107,10 @@
       "index": 15
     },
     {
-      "title": "Text Files > Complex Tools: A Minimalist Snippet Manager",
-      "href": "https://quarters.captaintouch.com/blog/posts/2025-09-13-text-files-%3E-complex-tools:-a-minimalist-snippet-manager.html",
+      "title": "Lobsters Interview with Susam",
+      "href": "/s/kltoas/lobsters_interview_with_susam",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              8 comments",
       "index": 16
     },
     {
@@ -121,17 +121,17 @@
       "index": 17
     },
     {
+      "title": "Splitting a long string in lines using AVX2",
+      "href": "https://lemire.me/blog/2025/09/07/splitting-a-long-string-in-lines-efficiently/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 18
+    },
+    {
       "title": "Fun Friday Question: What Easter Eggs have you Found or Made?",
       "href": "/s/eyjir3/fun_friday_question_what_easter_eggs_have",
       "points": "",
       "comments": "\n              41 comments",
-      "index": 18
-    },
-    {
-      "title": "Splitting a long string in lines using AVX2",
-      "href": "https://lemire.me/blog/2025/09/07/splitting-a-long-string-in-lines-efficiently/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 19
     },
     {
@@ -149,29 +149,29 @@
       "index": 21
     },
     {
+      "title": "Normal-order syntax-rules and proving the fix-point of call/cc",
+      "href": "https://okmij.org/ftp/Scheme/callcc-calc-page.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "Trusting builds with Bazel remote execution",
       "href": "https://blogsystem5.substack.com/p/bazel-remote-execution",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "oq: Terminal OpenAPI Spec viewer",
       "href": "https://github.com/plutov/oq",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Tips for installing Windows 98 in QEMU/UTM",
       "href": "https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Link Graveyard: A snapshot of my abandoned browser tabs",
-      "href": "https://timkellogg.me/blog/2025/09/13/link-graveyard",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
