@@ -1,18 +1,18 @@
 {
-  "date": "Saturday, September 13, 2025 at 4:15 AM GMT-5",
+  "date": "Saturday, September 13, 2025 at 5:15 AM GMT-5",
   "articles": [
+    {
+      "title": "UTF-8 is a Brilliant Design",
+      "href": "https://iamvishnu.com/posts/utf8-is-brilliant-design",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 1
+    },
     {
       "title": "Lobsters Interview with Susam",
       "href": "/s/kltoas/lobsters_interview_with_susam",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 1
-    },
-    {
-      "title": "UTF-8 is a Brilliant Design",
-      "href": "https://iamvishnu.com/posts/utf8-is-brilliant-design",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 2
     },
     {
@@ -23,24 +23,24 @@
       "index": 3
     },
     {
+      "title": "Basics of Equality Saturation",
+      "href": "https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 4
+    },
+    {
       "title": "Fun Friday Question: What Easter Eggs have you Found or Made?",
       "href": "/s/eyjir3/fun_friday_question_what_easter_eggs_have",
       "points": "",
       "comments": "\n              40 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Debian 13, Postgres, and the US/* time zones",
       "href": "https://rachelbythebay.com/w/2025/09/11/debtz/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 5
-    },
-    {
-      "title": "Basics of Equality Saturation",
-      "href": "https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 6
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
+      "title": "Linux 6.17 Fix Lands To Address Regression With \"Serious Breakage\" In Hibernation",
+      "href": "https://www.phoronix.com/news/Linux-6.17-PM-Hibernation-FIxes",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
       "title": "Phishing campaign targeting crates.io users",
       "href": "https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "I Vibe Coded an R Package and it ... actually works?!?",
       "href": "https://jcarroll.com.au/2025/09/13/i-vibe-coded-an-r-package/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Improving state machine code generation",
       "href": "https://trifectatech.org/blog/improving-state-machine-code-generation/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 12
-    },
-    {
-      "title": "DuckLake for busy engineering managers",
-      "href": "https://blog.incrementalforgetting.tech/p/ducklake-for-busy-engineering-managers",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 13
-    },
-    {
-      "title": "FatNums: An Alternate Representation for School Arithmetic (2020)",
-      "href": "https://parentheticallyspeaking.org/articles/fat-nums/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 14
     },
     {
       "title": "meow: Yet another modal editing on Emacs",
       "href": "https://github.com/meow-edit/meow",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
-    },
-    {
-      "title": "From 19k to 4.2M events/sec: story of a SQLite query optimisation",
-      "href": "https://mnt.io/articles/from-19k-to-4-2m-events-per-sec-story-of-a-sqlite-query-optimisation/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Grimoire CSS - flexible utility class tool",
-      "href": "https://grimoirecss.com/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 17
-    },
-    {
-      "title": "Adding FRM parser utility to MariaDB",
-      "href": "https://hp77-creator.github.io",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Linux 6.17 Fix Lands To Address Regression With \"Serious Breakage\" In Hibernation",
-      "href": "https://www.phoronix.com/news/Linux-6.17-PM-Hibernation-FIxes",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Splitting a long string in lines using AVX2",
-      "href": "https://lemire.me/blog/2025/09/07/splitting-a-long-string-in-lines-efficiently/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "Logging in Go with Slog: A Practitioner's Guide",
-      "href": "https://www.dash0.com/guides/logging-in-go-with-slog",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 21
-    },
-    {
-      "title": "A positive lambda: '+[]{}'",
-      "href": "https://stackoverflow.com/questions/18889028/a-positive-lambda-what-sorcery-is-this",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
+      "index": 14
     },
     {
       "title": "Diesel 2.3.0",
       "href": "https://diesel.rs/news/2_3_0_release.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 15
     },
     {
-      "title": "Declarative music - 2 Minute Deep Acid in Strudel (from scratch)",
-      "href": "https://www.youtube.com/watch?v=HkgV_-nJOuE",
+      "title": "Grimoire CSS - flexible utility class tool",
+      "href": "https://grimoirecss.com/",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 24
+      "comments": "\n              7 comments",
+      "index": 16
+    },
+    {
+      "title": "DuckLake for busy engineering managers",
+      "href": "https://blog.incrementalforgetting.tech/p/ducklake-for-busy-engineering-managers",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "From 19k to 4.2M events/sec: story of a SQLite query optimisation",
+      "href": "https://mnt.io/articles/from-19k-to-4-2m-events-per-sec-story-of-a-sqlite-query-optimisation/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "FatNums: An Alternate Representation for School Arithmetic (2020)",
+      "href": "https://parentheticallyspeaking.org/articles/fat-nums/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 19
+    },
+    {
+      "title": "Adding FRM parser utility to MariaDB",
+      "href": "https://hp77-creator.github.io",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Splitting a long string in lines using AVX2",
+      "href": "https://lemire.me/blog/2025/09/07/splitting-a-long-string-in-lines-efficiently/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "Logging in Go with Slog: A Practitioner's Guide",
+      "href": "https://www.dash0.com/guides/logging-in-go-with-slog",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 22
     },
     {
       "title": "Center for the Alignment of AI Alignment Centers",
       "href": "https://alignmentalignment.ai",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 23
+    },
+    {
+      "title": "A positive lambda: '+[]{}'",
+      "href": "https://stackoverflow.com/questions/18889028/a-positive-lambda-what-sorcery-is-this",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
+    },
+    {
+      "title": "Declarative music - 2 Minute Deep Acid in Strudel (from scratch)",
+      "href": "https://www.youtube.com/watch?v=HkgV_-nJOuE",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 25
     }
   ]
