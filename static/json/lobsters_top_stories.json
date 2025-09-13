@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, September 13, 2025 at 3:15 PM GMT-5",
+  "date": "Saturday, September 13, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "My first CVE",
@@ -12,28 +12,28 @@
       "title": "Safe C++ proposal is not being continued",
       "href": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              13 comments",
       "index": 2
-    },
-    {
-      "title": "AI Coding",
-      "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 3
     },
     {
       "title": "Setsum – order agnostic, additive, subtractive checksum",
       "href": "https://avi.im/blag/2025/setsum",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 4
+      "index": 3
     },
     {
       "title": "RIP pthread_cancel",
       "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 4
+    },
+    {
+      "title": "AI Coding",
+      "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 5
     },
     {
@@ -44,36 +44,36 @@
       "index": 6
     },
     {
+      "title": "A fast PHP toolchain written in Rust",
+      "href": "https://github.com/carthage-software/mago",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 7
+    },
+    {
       "title": "UTF-8 is a Brilliant Design",
       "href": "https://iamvishnu.com/posts/utf8-is-brilliant-design",
       "points": "",
       "comments": "\n              21 comments",
-      "index": 7
-    },
-    {
-      "title": "Weird CPU architectures: the MOV only CPU",
-      "href": "https://justanotherelectronicsblog.com/?p=771",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 8
-    },
-    {
-      "title": "The Internet Coup",
-      "href": "https://interseclab.org/research/the-internet-coup/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 9
     },
     {
       "title": "Learning to fuzz with LibAFL by solving puzzles",
       "href": "https://github.com/addisoncrump/parking-game-fuzzer",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
+      "title": "Weird CPU architectures: the MOV only CPU",
+      "href": "https://justanotherelectronicsblog.com/?p=771",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 10
     },
     {
-      "title": "A fast PHP toolchain written in Rust",
-      "href": "https://github.com/carthage-software/mago",
+      "title": "The Internet Coup",
+      "href": "https://interseclab.org/research/the-internet-coup/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 11
@@ -86,17 +86,17 @@
       "index": 12
     },
     {
-      "title": "Lobsters Interview with Susam",
-      "href": "/s/kltoas/lobsters_interview_with_susam",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 13
-    },
-    {
       "title": "Basics of Equality Saturation",
       "href": "https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "Lobsters Interview with Susam",
+      "href": "/s/kltoas/lobsters_interview_with_susam",
+      "points": "",
+      "comments": "\n              7 comments",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "Text Files > Complex Tools: A Minimalist Snippet Manager",
+      "href": "https://quarters.captaintouch.com/blog/posts/2025-09-13-text-files-%3E-complex-tools:-a-minimalist-snippet-manager.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
       "title": "DuckLake for busy engineering managers",
       "href": "https://blog.incrementalforgetting.tech/p/ducklake-for-busy-engineering-managers",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
+      "comments": "\n              2 comments",
+      "index": 17
     },
     {
       "title": "Fun Friday Question: What Easter Eggs have you Found or Made?",
       "href": "/s/eyjir3/fun_friday_question_what_easter_eggs_have",
       "points": "",
       "comments": "\n              41 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Splitting a long string in lines using AVX2",
       "href": "https://lemire.me/blog/2025/09/07/splitting-a-long-string-in-lines-efficiently/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Debian 13, Postgres, and the US/* time zones",
       "href": "https://rachelbythebay.com/w/2025/09/11/debtz/",
       "points": "",
       "comments": "\n              32 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Linux 6.17 Fix Lands To Address Regression With \"Serious Breakage\" In Hibernation",
       "href": "https://www.phoronix.com/news/Linux-6.17-PM-Hibernation-FIxes",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Trusting builds with Bazel remote execution",
       "href": "https://blogsystem5.substack.com/p/bazel-remote-execution",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 22
     },
     {
       "title": "oq: Terminal OpenAPI Spec viewer",
       "href": "https://github.com/plutov/oq",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Tips for installing Windows 98 in QEMU/UTM",
       "href": "https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Link Graveyard: A snapshot of my abandoned browser tabs",
       "href": "https://timkellogg.me/blog/2025/09/13/link-graveyard",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Classic GTK1 GUI Library for Windows, Linux and MacOS",
-      "href": "https://gitlab.com/robinrowe/gtk1",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 25
     }
   ]
