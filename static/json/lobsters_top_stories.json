@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, September 14, 2025 at 6:10 AM GMT-5",
+  "date": "Sunday, September 14, 2025 at 7:35 AM GMT-5",
   "articles": [
     {
       "title": "Debian 12 installer promotes US/* time zones",
       "href": "https://rachelbythebay.com/w/2025/09/12/tz/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 1
     },
     {
-      "title": "RIP pthread_cancel",
-      "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
+      "title": "a few notes on ratelimiting",
+      "href": "https://dotat.at/@/2025-09-14-ratelimit.html",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              no comments",
       "index": 2
     },
     {
@@ -23,31 +23,31 @@
       "index": 3
     },
     {
-      "title": "a few notes on ratelimiting",
-      "href": "https://dotat.at/@/2025-09-14-ratelimit.html",
+      "title": "RIP pthread_cancel",
+      "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              16 comments",
       "index": 4
-    },
-    {
-      "title": "Setsum – order agnostic, additive, subtractive checksum",
-      "href": "https://avi.im/blag/2025/setsum",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 5
     },
     {
       "title": "Redox Development Priorities for 2025/26",
       "href": "https://www.redox-os.org/news/development-priorities-2025-09/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 5
+    },
+    {
+      "title": "Setsum – order agnostic, additive, subtractive checksum",
+      "href": "https://avi.im/blag/2025/setsum",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 6
     },
     {
       "title": "Pass: Unix Password Manager",
       "href": "https://www.passwordstore.org/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 7
     },
     {
@@ -65,24 +65,24 @@
       "index": 9
     },
     {
+      "title": "The Many Broken Feeds",
+      "href": "https://notes.abhinavsarkar.net/2025/broken-feeds",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
       "title": "Flow Control: a programmer's text editor",
       "href": "https://github.com/neurocyte/flow",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "AI Coding",
       "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 11
-    },
-    {
-      "title": "A fast PHP toolchain written in Rust",
-      "href": "https://github.com/carthage-software/mago",
-      "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              8 comments",
       "index": 12
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "The Many Broken Feeds",
-      "href": "https://notes.abhinavsarkar.net/2025/broken-feeds",
+      "title": "A fast PHP toolchain written in Rust",
+      "href": "https://github.com/carthage-software/mago",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              4 comments",
       "index": 15
     },
     {
