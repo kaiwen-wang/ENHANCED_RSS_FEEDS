@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, September 14, 2025 at 3:15 PM GMT-5",
+  "date": "Sunday, September 14, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "Gleam is my new obsession",
       "href": "https://ericcodes.io/blog/gleam-my-new-obsession.html",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 1
     },
     {
@@ -19,35 +19,35 @@
       "title": "Writing an operating system kernel from scratch",
       "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 3
-    },
-    {
-      "title": "a few notes on ratelimiting",
-      "href": "https://dotat.at/@/2025-09-14-ratelimit.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 4
-    },
-    {
-      "title": "Motorola, Intel, IBM Make A Mainframe in a PC - The PC XT/370",
-      "href": "https://thechipletter.substack.com/p/motorola-intel-ibm-make-a-mainframe",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 5
-    },
-    {
-      "title": "Debian 12 installer promotes US/* time zones",
-      "href": "https://rachelbythebay.com/w/2025/09/12/tz/",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 6
     },
     {
       "title": "The unreasonable effectiveness of modern sort algorithms",
       "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
       "points": "",
       "comments": "\n              no comments",
+      "index": 4
+    },
+    {
+      "title": "a few notes on ratelimiting",
+      "href": "https://dotat.at/@/2025-09-14-ratelimit.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 5
+    },
+    {
+      "title": "Motorola, Intel, IBM Make A Mainframe in a PC - The PC XT/370",
+      "href": "https://thechipletter.substack.com/p/motorola-intel-ibm-make-a-mainframe",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 6
+    },
+    {
+      "title": "Debian 12 installer promotes US/* time zones",
+      "href": "https://rachelbythebay.com/w/2025/09/12/tz/",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 7
     },
     {
@@ -65,31 +65,31 @@
       "index": 9
     },
     {
-      "title": "My first CVE",
-      "href": "https://natkr.com/2025-09-13-my-first-cve/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 10
-    },
-    {
       "title": "RIP pthread_cancel",
       "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 11
+      "index": 10
     },
     {
-      "title": "On the Security of SSH Client Signatures",
-      "href": "https://arxiv.org/abs/2509.09331",
+      "title": "My first CVE",
+      "href": "https://natkr.com/2025-09-13-my-first-cve/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 12
+      "comments": "\n              16 comments",
+      "index": 11
     },
     {
       "title": "Pass: Unix Password Manager",
       "href": "https://www.passwordstore.org/",
       "points": "",
       "comments": "\n              13 comments",
+      "index": 12
+    },
+    {
+      "title": "On the Security of SSH Client Signatures",
+      "href": "https://arxiv.org/abs/2509.09331",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 13
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
+      "title": "DriftDB: An experimental append-only database with built-in time travel",
+      "href": "https://github.com/DavidLiedle/DriftDB",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
       "title": "Flow Control: a programmer's text editor",
       "href": "https://github.com/neurocyte/flow",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "A fast PHP toolchain written in Rust",
       "href": "https://github.com/carthage-software/mago",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "AI Coding",
       "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "bsd-user-4-linux project",
       "href": "https://www.freebsd.org/status/report-2024-10-2024-12/qemu_l4b/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Text Files > Complex Tools: A Minimalist Snippet Manager",
       "href": "https://quarters.captaintouch.com/blog/posts/2025-09-13-text-files-%3E-complex-tools:-a-minimalist-snippet-manager.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Learning to fuzz with LibAFL by solving puzzles",
       "href": "https://github.com/addisoncrump/parking-game-fuzzer",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "The Internet Coup",
       "href": "https://interseclab.org/research/the-internet-coup/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Weird CPU architectures: the MOV only CPU",
       "href": "https://justanotherelectronicsblog.com/?p=771",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 24
-    },
-    {
-      "title": "Diesel 2.3.0",
-      "href": "https://diesel.rs/news/2_3_0_release.html",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 25
     }
   ]
