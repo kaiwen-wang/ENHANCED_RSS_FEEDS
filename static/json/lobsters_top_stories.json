@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, September 14, 2025 at 4:15 PM GMT-5",
+  "date": "Sunday, September 14, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "Gleam is my new obsession",
@@ -16,24 +16,24 @@
       "index": 2
     },
     {
-      "title": "Writing an operating system kernel from scratch",
-      "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 3
-    },
-    {
       "title": "The unreasonable effectiveness of modern sort algorithms",
       "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
       "points": "",
       "comments": "\n              no comments",
+      "index": 3
+    },
+    {
+      "title": "Writing an operating system kernel from scratch",
+      "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 4
     },
     {
       "title": "a few notes on ratelimiting",
       "href": "https://dotat.at/@/2025-09-14-ratelimit.html",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
       "index": 5
     },
     {
@@ -58,122 +58,122 @@
       "index": 8
     },
     {
-      "title": "tag2upload in the first month of Debian forky",
-      "href": "https://diziet.dreamwidth.org/20143.html",
+      "title": "Rating 26 years of Java changes",
+      "href": "https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 9
-    },
-    {
-      "title": "RIP pthread_cancel",
-      "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 10
-    },
-    {
-      "title": "My first CVE",
-      "href": "https://natkr.com/2025-09-13-my-first-cve/",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 11
-    },
-    {
-      "title": "Pass: Unix Password Manager",
-      "href": "https://www.passwordstore.org/",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 12
     },
     {
       "title": "On the Security of SSH Client Signatures",
       "href": "https://arxiv.org/abs/2509.09331",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
+      "title": "tag2upload in the first month of Debian forky",
+      "href": "https://diziet.dreamwidth.org/20143.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 11
+    },
+    {
+      "title": "RIP pthread_cancel",
+      "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 12
+    },
+    {
+      "title": "My first CVE",
+      "href": "https://natkr.com/2025-09-13-my-first-cve/",
+      "points": "",
+      "comments": "\n              16 comments",
       "index": 13
     },
     {
-      "title": "Setsum – order agnostic, additive, subtractive checksum",
-      "href": "https://avi.im/blag/2025/setsum",
+      "title": "tsink: Embedded time-series database for Rust",
+      "href": "https://github.com/h2337/tsink",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              no comments",
       "index": 14
+    },
+    {
+      "title": "Pass: Unix Password Manager",
+      "href": "https://www.passwordstore.org/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 15
+    },
+    {
+      "title": "Networking for System Administrators (2nd Edition)",
+      "href": "https://www.kickstarter.com/projects/mwlucas/networking-for-system-administrators-2nd-edition/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
     },
     {
       "title": "Redox Development Priorities for 2025/26",
       "href": "https://www.redox-os.org/news/development-priorities-2025-09/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
-    },
-    {
-      "title": "Safe C++ proposal is not being continued",
-      "href": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
-      "points": "",
-      "comments": "\n              50 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "DriftDB: An experimental append-only database with built-in time travel",
       "href": "https://github.com/DavidLiedle/DriftDB",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "Setsum – order agnostic, additive, subtractive checksum",
+      "href": "https://avi.im/blag/2025/setsum",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 19
+    },
+    {
+      "title": "Safe C++ proposal is not being continued",
+      "href": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
+      "points": "",
+      "comments": "\n              51 comments",
+      "index": 20
     },
     {
       "title": "Flow Control: a programmer's text editor",
       "href": "https://github.com/neurocyte/flow",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 18
+      "index": 21
     },
     {
       "title": "A fast PHP toolchain written in Rust",
       "href": "https://github.com/carthage-software/mago",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 19
+      "index": 22
     },
     {
       "title": "AI Coding",
       "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 20
-    },
-    {
-      "title": "bsd-user-4-linux project",
-      "href": "https://www.freebsd.org/status/report-2024-10-2024-12/qemu_l4b/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Text Files > Complex Tools: A Minimalist Snippet Manager",
       "href": "https://quarters.captaintouch.com/blog/posts/2025-09-13-text-files-%3E-complex-tools:-a-minimalist-snippet-manager.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Learning to fuzz with LibAFL by solving puzzles",
-      "href": "https://github.com/addisoncrump/parking-game-fuzzer",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "The Internet Coup",
-      "href": "https://interseclab.org/research/the-internet-coup/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 24
     },
     {
-      "title": "Weird CPU architectures: the MOV only CPU",
-      "href": "https://justanotherelectronicsblog.com/?p=771",
+      "title": "bsd-user-4-linux project",
+      "href": "https://www.freebsd.org/status/report-2024-10-2024-12/qemu_l4b/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 25
     }
   ]
