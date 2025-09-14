@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, September 14, 2025 at 11:20 AM GMT-5",
+  "date": "Sunday, September 14, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "The Many Broken Feeds",
       "href": "https://notes.abhinavsarkar.net/2025/broken-feeds",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 1
     },
     {
@@ -16,31 +16,31 @@
       "index": 2
     },
     {
+      "title": "Gleam is my new obsession",
+      "href": "https://ericcodes.io/blog/gleam-my-new-obsession.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 3
+    },
+    {
       "title": "Debian 12 installer promotes US/* time zones",
       "href": "https://rachelbythebay.com/w/2025/09/12/tz/",
       "points": "",
-      "comments": "\n              15 comments",
-      "index": 3
+      "comments": "\n              16 comments",
+      "index": 4
     },
     {
       "title": "Motorola, Intel, IBM Make A Mainframe in a PC - The PC XT/370",
       "href": "https://thechipletter.substack.com/p/motorola-intel-ibm-make-a-mainframe",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 4
+      "comments": "\n              1 comment",
+      "index": 5
     },
     {
       "title": "My first CVE",
       "href": "https://natkr.com/2025-09-13-my-first-cve/",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 5
-    },
-    {
-      "title": "RIP pthread_cancel",
-      "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
-      "points": "",
-      "comments": "\n              18 comments",
       "index": 6
     },
     {
@@ -51,24 +51,24 @@
       "index": 7
     },
     {
-      "title": "Pass: Unix Password Manager",
-      "href": "https://www.passwordstore.org/",
+      "title": "RIP pthread_cancel",
+      "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              18 comments",
       "index": 8
     },
     {
-      "title": "Redox Development Priorities for 2025/26",
-      "href": "https://www.redox-os.org/news/development-priorities-2025-09/",
+      "title": "Writing an operating system kernel from scratch",
+      "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
       "points": "",
       "comments": "\n              no comments",
       "index": 9
     },
     {
-      "title": "Safe C++ proposal is not being continued",
-      "href": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
+      "title": "Pass: Unix Password Manager",
+      "href": "https://www.passwordstore.org/",
       "points": "",
-      "comments": "\n              34 comments",
+      "comments": "\n              11 comments",
       "index": 10
     },
     {
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
-      "title": "Writing an operating system kernel from scratch",
-      "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
+      "title": "Redox Development Priorities for 2025/26",
+      "href": "https://www.redox-os.org/news/development-priorities-2025-09/",
       "points": "",
       "comments": "\n              no comments",
       "index": 12
     },
     {
-      "title": "AI Coding",
-      "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
+      "title": "Safe C++ proposal is not being continued",
+      "href": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              37 comments",
       "index": 13
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "bsd-user-4-linux project",
-      "href": "https://www.freebsd.org/status/report-2024-10-2024-12/qemu_l4b/",
+      "title": "AI Coding",
+      "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              8 comments",
       "index": 15
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "bsd-user-4-linux project",
+      "href": "https://www.freebsd.org/status/report-2024-10-2024-12/qemu_l4b/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 18
+    },
+    {
+      "title": "On the Security of SSH Client Signatures",
+      "href": "https://arxiv.org/abs/2509.09331",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
       "title": "Learning to fuzz with LibAFL by solving puzzles",
       "href": "https://github.com/addisoncrump/parking-game-fuzzer",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
+      "index": 20
     },
     {
       "title": "The Internet Coup",
       "href": "https://interseclab.org/research/the-internet-coup/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Weird CPU architectures: the MOV only CPU",
       "href": "https://justanotherelectronicsblog.com/?p=771",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Diesel 2.3.0",
       "href": "https://diesel.rs/news/2_3_0_release.html",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "UTF-8 is a Brilliant Design",
       "href": "https://iamvishnu.com/posts/utf8-is-brilliant-design",
       "points": "",
-      "comments": "\n              25 comments",
-      "index": 22
+      "comments": "\n              26 comments",
+      "index": 24
     },
     {
       "title": "DuckLake for busy engineering managers",
       "href": "https://blog.incrementalforgetting.tech/p/ducklake-for-busy-engineering-managers",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 23
-    },
-    {
-      "title": "Basics of Equality Saturation",
-      "href": "https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "What Happens After I'm Gone? The Future of the Online Me",
-      "href": "https://btxx.org/posts/planning-ahead/",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 25
     }
   ]
