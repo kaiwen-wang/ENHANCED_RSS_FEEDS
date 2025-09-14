@@ -1,32 +1,32 @@
 {
-  "date": "Sunday, September 14, 2025 at 12:15 PM GMT-5",
+  "date": "Sunday, September 14, 2025 at 1:25 PM GMT-5",
   "articles": [
     {
       "title": "The Many Broken Feeds",
       "href": "https://notes.abhinavsarkar.net/2025/broken-feeds",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              14 comments",
       "index": 1
-    },
-    {
-      "title": "a few notes on ratelimiting",
-      "href": "https://dotat.at/@/2025-09-14-ratelimit.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 2
     },
     {
       "title": "Gleam is my new obsession",
       "href": "https://ericcodes.io/blog/gleam-my-new-obsession.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 2
+    },
+    {
+      "title": "a few notes on ratelimiting",
+      "href": "https://dotat.at/@/2025-09-14-ratelimit.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 3
     },
     {
       "title": "Debian 12 installer promotes US/* time zones",
       "href": "https://rachelbythebay.com/w/2025/09/12/tz/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              17 comments",
       "index": 4
     },
     {
@@ -37,10 +37,10 @@
       "index": 5
     },
     {
-      "title": "My first CVE",
-      "href": "https://natkr.com/2025-09-13-my-first-cve/",
+      "title": "Writing an operating system kernel from scratch",
+      "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              no comments",
       "index": 6
     },
     {
@@ -51,129 +51,129 @@
       "index": 7
     },
     {
+      "title": "My first CVE",
+      "href": "https://natkr.com/2025-09-13-my-first-cve/",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 8
+    },
+    {
       "title": "RIP pthread_cancel",
       "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 8
+      "index": 9
     },
     {
-      "title": "Writing an operating system kernel from scratch",
-      "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
+      "title": "The unreasonable effectiveness of modern sort algorithms",
+      "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
       "points": "",
       "comments": "\n              no comments",
-      "index": 9
+      "index": 10
+    },
+    {
+      "title": "tag2upload in the first month of Debian forky",
+      "href": "https://diziet.dreamwidth.org/20143.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 11
     },
     {
       "title": "Pass: Unix Password Manager",
       "href": "https://www.passwordstore.org/",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 10
+      "comments": "\n              12 comments",
+      "index": 12
     },
     {
       "title": "Setsum – order agnostic, additive, subtractive checksum",
       "href": "https://avi.im/blag/2025/setsum",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 11
+      "index": 13
     },
     {
       "title": "Redox Development Priorities for 2025/26",
       "href": "https://www.redox-os.org/news/development-priorities-2025-09/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
+      "index": 14
     },
     {
       "title": "Safe C++ proposal is not being continued",
       "href": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
       "points": "",
-      "comments": "\n              37 comments",
-      "index": 13
-    },
-    {
-      "title": "Flow Control: a programmer's text editor",
-      "href": "https://github.com/neurocyte/flow",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 14
-    },
-    {
-      "title": "AI Coding",
-      "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
-      "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              46 comments",
       "index": 15
-    },
-    {
-      "title": "A fast PHP toolchain written in Rust",
-      "href": "https://github.com/carthage-software/mago",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 16
-    },
-    {
-      "title": "Text Files > Complex Tools: A Minimalist Snippet Manager",
-      "href": "https://quarters.captaintouch.com/blog/posts/2025-09-13-text-files-%3E-complex-tools:-a-minimalist-snippet-manager.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "bsd-user-4-linux project",
-      "href": "https://www.freebsd.org/status/report-2024-10-2024-12/qemu_l4b/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 18
     },
     {
       "title": "On the Security of SSH Client Signatures",
       "href": "https://arxiv.org/abs/2509.09331",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Flow Control: a programmer's text editor",
+      "href": "https://github.com/neurocyte/flow",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 17
+    },
+    {
+      "title": "AI Coding",
+      "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 18
+    },
+    {
+      "title": "A fast PHP toolchain written in Rust",
+      "href": "https://github.com/carthage-software/mago",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 19
+    },
+    {
+      "title": "bsd-user-4-linux project",
+      "href": "https://www.freebsd.org/status/report-2024-10-2024-12/qemu_l4b/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 20
+    },
+    {
+      "title": "Text Files > Complex Tools: A Minimalist Snippet Manager",
+      "href": "https://quarters.captaintouch.com/blog/posts/2025-09-13-text-files-%3E-complex-tools:-a-minimalist-snippet-manager.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
     },
     {
       "title": "Learning to fuzz with LibAFL by solving puzzles",
       "href": "https://github.com/addisoncrump/parking-game-fuzzer",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 22
     },
     {
       "title": "The Internet Coup",
       "href": "https://interseclab.org/research/the-internet-coup/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Weird CPU architectures: the MOV only CPU",
       "href": "https://justanotherelectronicsblog.com/?p=771",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Diesel 2.3.0",
       "href": "https://diesel.rs/news/2_3_0_release.html",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 23
-    },
-    {
-      "title": "UTF-8 is a Brilliant Design",
-      "href": "https://iamvishnu.com/posts/utf8-is-brilliant-design",
-      "points": "",
-      "comments": "\n              26 comments",
-      "index": 24
-    },
-    {
-      "title": "DuckLake for busy engineering managers",
-      "href": "https://blog.incrementalforgetting.tech/p/ducklake-for-busy-engineering-managers",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 25
     }
   ]
