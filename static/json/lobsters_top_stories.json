@@ -1,100 +1,100 @@
 {
-  "date": "Monday, September 15, 2025 at 4:20 AM GMT-5",
+  "date": "Monday, September 15, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
       "title": "Hosting a WebSite on a Disposable Vape",
       "href": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 1
+    },
+    {
+      "title": "The idea of /usr/sbin has failed in practice",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/UsrSbinFailedInPractice",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 2
+    },
+    {
+      "title": "Rating 26 years of Java changes",
+      "href": "https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/",
+      "points": "",
+      "comments": "\n              24 comments",
+      "index": 3
     },
     {
       "title": "Gleam is my new obsession",
       "href": "https://ericcodes.io/blog/gleam-my-new-obsession.html",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 2
-    },
-    {
-      "title": "The idea of /usr/sbin has failed in practice",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/UsrSbinFailedInPractice",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 3
-    },
-    {
-      "title": "Rating 26 years of Java changes",
-      "href": "https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/",
-      "points": "",
-      "comments": "\n              22 comments",
       "index": 4
     },
     {
       "title": "Moonbit developers are lying to you",
       "href": "https://bitemyapp.com/blog/moonbit-developers-are-lying-to-you/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 5
-    },
-    {
-      "title": "The unreasonable effectiveness of modern sort algorithms",
-      "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 6
-    },
-    {
-      "title": "Smalltalk and Lambda Calculus",
-      "href": "https://blog.ielliott.io/smalltalk-and-lambda-calculus",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 7
-    },
-    {
-      "title": "The Many Broken Feeds",
-      "href": "https://notes.abhinavsarkar.net/2025/broken-feeds",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 8
-    },
-    {
-      "title": "Writing an operating system kernel from scratch",
-      "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 9
-    },
-    {
-      "title": "Linking to text fragments with a bookmarklet",
-      "href": "https://alexwlchan.net/2025/text-fragments-bookmarklet",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 10
-    },
-    {
-      "title": "tsink: Embedded time-series database for Rust",
-      "href": "https://github.com/h2337/tsink",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 11
-    },
-    {
-      "title": "Org Social Preview Generator",
-      "href": "https://github.com/tanrax/org-social-preview",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
     },
     {
       "title": "Rye Tables vs Python/Pandas: A Different Way to Wrangle Data",
       "href": "https://ryelang.org/blog/posts/comparing_tables_to_python/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 6
+    },
+    {
+      "title": "The unreasonable effectiveness of modern sort algorithms",
+      "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 7
+    },
+    {
+      "title": "Smalltalk and Lambda Calculus",
+      "href": "https://blog.ielliott.io/smalltalk-and-lambda-calculus",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
+      "title": "The Many Broken Feeds",
+      "href": "https://notes.abhinavsarkar.net/2025/broken-feeds",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 9
+    },
+    {
+      "title": "Writing an operating system kernel from scratch",
+      "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
+      "title": "Linking to text fragments with a bookmarklet",
+      "href": "https://alexwlchan.net/2025/text-fragments-bookmarklet",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 11
+    },
+    {
+      "title": "tsink: Embedded time-series database for Rust",
+      "href": "https://github.com/h2337/tsink",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 12
+    },
+    {
+      "title": "Algebraic Types are not Scary, Actually",
+      "href": "https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 13
     },
     {
-      "title": "Networking for System Administrators (2nd Edition)",
-      "href": "https://www.kickstarter.com/projects/mwlucas/networking-for-system-administrators-2nd-edition/",
+      "title": "Org Social Preview Generator",
+      "href": "https://github.com/tanrax/org-social-preview",
       "points": "",
       "comments": "\n              no comments",
       "index": 14
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
-      "title": "a few notes on ratelimiting",
-      "href": "https://dotat.at/@/2025-09-14-ratelimit.html",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 16
-    },
-    {
       "title": "riffq is a Postgres wire protocol compatibility layer for Python",
       "href": "https://riffq.com/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
+      "title": "Networking for System Administrators (2nd Edition)",
+      "href": "https://www.kickstarter.com/projects/mwlucas/networking-for-system-administrators-2nd-edition/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 17
+    },
+    {
+      "title": "a few notes on ratelimiting",
+      "href": "https://dotat.at/@/2025-09-14-ratelimit.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 18
     },
     {
       "title": "OCSP Service Has Reached End of Life",
       "href": "https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Protecting Rust against supply chain attacks",
       "href": "https://kerkour.com/rust-supply-chain-attacks",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
+      "comments": "\n              3 comments",
+      "index": 20
     },
     {
       "title": "DriftDB: An experimental append-only database with built-in time travel",
       "href": "https://github.com/DavidLiedle/DriftDB",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 21
     },
     {
       "title": "On the Security of SSH Client Signatures",
       "href": "https://arxiv.org/abs/2509.09331",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "tag2upload in the first month of Debian forky",
       "href": "https://diziet.dreamwidth.org/20143.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Debian 12 installer promotes US/* time zones",
       "href": "https://rachelbythebay.com/w/2025/09/12/tz/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Refurb weekend: Silicon Graphics Indigo² IMPACT 10000",
       "href": "http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "RIP pthread_cancel",
-      "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
-      "points": "",
-      "comments": "\n              26 comments",
       "index": 25
     }
   ]
