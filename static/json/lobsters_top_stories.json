@@ -1,95 +1,95 @@
 {
-  "date": "Monday, September 15, 2025 at 10:20 AM GMT-5",
+  "date": "Monday, September 15, 2025 at 11:25 AM GMT-5",
   "articles": [
+    {
+      "title": "Algebraic Types are not Scary, Actually",
+      "href": "https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 1
+    },
     {
       "title": "Hosting a WebSite on a Disposable Vape",
       "href": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 1
+      "index": 2
     },
     {
       "title": "The idea of /usr/sbin has failed in practice",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/UsrSbinFailedInPractice",
       "points": "",
-      "comments": "\n              16 comments",
-      "index": 2
-    },
-    {
-      "title": "Algebraic Types are not Scary, Actually",
-      "href": "https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html",
-      "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              17 comments",
       "index": 3
     },
     {
       "title": "Rye Tables vs Python/Pandas: A Different Way to Wrangle Data",
       "href": "https://ryelang.org/blog/posts/comparing_tables_to_python/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 4
+    },
+    {
+      "title": "The E Language",
+      "href": "http://erights.org/elang/index.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 5
     },
     {
       "title": "Rating 26 years of Java changes",
       "href": "https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/",
       "points": "",
-      "comments": "\n              33 comments",
-      "index": 5
+      "comments": "\n              36 comments",
+      "index": 6
     },
     {
       "title": "Gleam is my new obsession",
       "href": "https://ericcodes.io/blog/gleam-my-new-obsession.html",
       "points": "",
-      "comments": "\n              17 comments",
-      "index": 6
+      "comments": "\n              18 comments",
+      "index": 7
     },
     {
       "title": "Moonbit developers are lying to you",
       "href": "https://bitemyapp.com/blog/moonbit-developers-are-lying-to-you/",
       "points": "",
-      "comments": "\n              17 comments",
-      "index": 7
+      "comments": "\n              23 comments",
+      "index": 8
     },
     {
       "title": "Org Social Preview Generator",
       "href": "https://github.com/tanrax/org-social-preview",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 8
+      "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
+      "title": "Varnish: 8.0.0 with bonus project news",
+      "href": "https://varnish-cache.org/#new-release-8-0-0-with-bonus-project-news",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/z5vm7k/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 9
+      "comments": "\n              11 comments",
+      "index": 11
     },
     {
       "title": "Linking to text fragments with a bookmarklet",
       "href": "https://alexwlchan.net/2025/text-fragments-bookmarklet",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 10
-    },
-    {
-      "title": "The E Language",
-      "href": "http://erights.org/elang/index.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Smalltalk and Lambda Calculus",
       "href": "https://blog.ielliott.io/smalltalk-and-lambda-calculus",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "The unreasonable effectiveness of modern sort algorithms",
-      "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
-      "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 13
     },
     {
@@ -100,31 +100,31 @@
       "index": 14
     },
     {
+      "title": "The unreasonable effectiveness of modern sort algorithms",
+      "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
       "title": "Protecting Rust against supply chain attacks",
       "href": "https://kerkour.com/rust-supply-chain-attacks",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 15
+      "comments": "\n              6 comments",
+      "index": 16
     },
     {
       "title": "The Many Broken Feeds",
       "href": "https://notes.abhinavsarkar.net/2025/broken-feeds",
       "points": "",
-      "comments": "\n              19 comments",
-      "index": 16
+      "comments": "\n              20 comments",
+      "index": 17
     },
     {
       "title": "Writing an operating system kernel from scratch",
       "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
-    },
-    {
-      "title": "Varnish: 8.0.0 with bonus project news",
-      "href": "https://varnish-cache.org/#new-release-8-0-0-with-bonus-project-news",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
-      "title": "Networking for System Administrators (2nd Edition)",
-      "href": "https://www.kickstarter.com/projects/mwlucas/networking-for-system-administrators-2nd-edition/",
+      "title": "Waterpark: Transforming Healthcare with Distributed Actors",
+      "href": "https://youtu.be/hdBm4K-vvt0",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 20
-    },
-    {
-      "title": "The pirate-based logic of Rust shared references",
-      "href": "http://ais523.me.uk/blog/logic-of-shared-references.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Motorola, Intel, IBM Make A Mainframe in a PC - The PC XT/370",
-      "href": "https://thechipletter.substack.com/p/motorola-intel-ibm-make-a-mainframe",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 22
-    },
-    {
-      "title": "a few notes on ratelimiting",
-      "href": "https://dotat.at/@/2025-09-14-ratelimit.html",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 23
     },
     {
       "title": "OCSP Service Has Reached End of Life",
       "href": "https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "Motorola, Intel, IBM Make A Mainframe in a PC - The PC XT/370",
+      "href": "https://thechipletter.substack.com/p/motorola-intel-ibm-make-a-mainframe",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 22
+    },
+    {
+      "title": "Networking for System Administrators (2nd Edition)",
+      "href": "https://www.kickstarter.com/projects/mwlucas/networking-for-system-administrators-2nd-edition/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "The pirate-based logic of Rust shared references",
+      "href": "http://ais523.me.uk/blog/logic-of-shared-references.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "riffq is a Postgres wire protocol compatibility layer for Python",
-      "href": "https://riffq.com/",
+      "title": "a few notes on ratelimiting",
+      "href": "https://dotat.at/@/2025-09-14-ratelimit.html",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              6 comments",
       "index": 25
     }
   ]
