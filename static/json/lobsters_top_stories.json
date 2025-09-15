@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, September 14, 2025 at 8:35 PM GMT-5",
+  "date": "Sunday, September 14, 2025 at 10:05 PM GMT-5",
   "articles": [
     {
       "title": "Gleam is my new obsession",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
-      "title": "The Many Broken Feeds",
-      "href": "https://notes.abhinavsarkar.net/2025/broken-feeds",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 2
-    },
-    {
       "title": "The unreasonable effectiveness of modern sort algorithms",
       "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
       "points": "",
       "comments": "\n              no comments",
+      "index": 2
+    },
+    {
+      "title": "The Many Broken Feeds",
+      "href": "https://notes.abhinavsarkar.net/2025/broken-feeds",
+      "points": "",
+      "comments": "\n              15 comments",
       "index": 3
     },
     {
@@ -44,134 +44,134 @@
       "index": 6
     },
     {
+      "title": "tsink: Embedded time-series database for Rust",
+      "href": "https://github.com/h2337/tsink",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 7
+    },
+    {
       "title": "Motorola, Intel, IBM Make A Mainframe in a PC - The PC XT/370",
       "href": "https://thechipletter.substack.com/p/motorola-intel-ibm-make-a-mainframe",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 7
+      "comments": "\n              5 comments",
+      "index": 8
     },
     {
       "title": "Debian 12 installer promotes US/* time zones",
       "href": "https://rachelbythebay.com/w/2025/09/12/tz/",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "On the Security of SSH Client Signatures",
       "href": "https://arxiv.org/abs/2509.09331",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 9
-    },
-    {
-      "title": "Refurb weekend: Silicon Graphics Indigo² IMPACT 10000",
-      "href": "http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 10
-    },
-    {
-      "title": "Networking for System Administrators (2nd Edition)",
-      "href": "https://www.kickstarter.com/projects/mwlucas/networking-for-system-administrators-2nd-edition/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "tag2upload in the first month of Debian forky",
-      "href": "https://diziet.dreamwidth.org/20143.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "tsink: Embedded time-series database for Rust",
-      "href": "https://github.com/h2337/tsink",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
     },
     {
       "title": "DriftDB: An experimental append-only database with built-in time travel",
       "href": "https://github.com/DavidLiedle/DriftDB",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 11
+    },
+    {
+      "title": "Refurb weekend: Silicon Graphics Indigo² IMPACT 10000",
+      "href": "http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 12
+    },
+    {
+      "title": "Networking for System Administrators (2nd Edition)",
+      "href": "https://www.kickstarter.com/projects/mwlucas/networking-for-system-administrators-2nd-edition/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "tag2upload in the first month of Debian forky",
+      "href": "https://diziet.dreamwidth.org/20143.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 14
+    },
+    {
+      "title": "Hosting a WebSite on a Disposable Vape",
+      "href": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "OCSP Service Has Reached End of Life",
+      "href": "https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
     },
     {
       "title": "RIP pthread_cancel",
       "href": "https://eissing.org/icing/posts/rip_pthread_cancel/",
       "points": "",
       "comments": "\n              22 comments",
-      "index": 15
+      "index": 17
     },
     {
       "title": "My first CVE",
       "href": "https://natkr.com/2025-09-13-my-first-cve/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "Pass: Unix Password Manager",
       "href": "https://www.passwordstore.org/",
       "points": "",
-      "comments": "\n              18 comments",
-      "index": 17
+      "comments": "\n              19 comments",
+      "index": 19
     },
     {
       "title": "Redox Development Priorities for 2025/26",
       "href": "https://www.redox-os.org/news/development-priorities-2025-09/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 18
+      "index": 20
     },
     {
-      "title": "OCSP Service Has Reached End of Life",
-      "href": "https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life",
+      "title": "riffq is a Postgres wire protocol compatibility layer for Python",
+      "href": "https://riffq.com/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Safe C++ proposal is not being continued",
-      "href": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
-      "points": "",
-      "comments": "\n              55 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Setsum – order agnostic, additive, subtractive checksum",
       "href": "https://avi.im/blag/2025/setsum",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 21
+      "comments": "\n              8 comments",
+      "index": 22
+    },
+    {
+      "title": "Safe C++ proposal is not being continued",
+      "href": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
+      "points": "",
+      "comments": "\n              56 comments",
+      "index": 23
     },
     {
       "title": "Flow Control: a programmer's text editor",
       "href": "https://github.com/neurocyte/flow",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "A fast PHP toolchain written in Rust",
       "href": "https://github.com/carthage-software/mago",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 23
-    },
-    {
-      "title": "AI Coding",
-      "href": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 24
-    },
-    {
-      "title": "bsd-user-4-linux project",
-      "href": "https://www.freebsd.org/status/report-2024-10-2024-12/qemu_l4b/",
       "points": "",
       "comments": "\n              4 comments",
       "index": 25
