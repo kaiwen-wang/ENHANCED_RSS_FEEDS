@@ -1,5 +1,5 @@
 {
-  "date": "Monday, September 15, 2025 at 7:40 AM GMT-5",
+  "date": "Monday, September 15, 2025 at 8:25 AM GMT-5",
   "articles": [
     {
       "title": "Hosting a WebSite on a Disposable Vape",
@@ -12,35 +12,35 @@
       "title": "The idea of /usr/sbin has failed in practice",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/UsrSbinFailedInPractice",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              13 comments",
       "index": 2
+    },
+    {
+      "title": "Algebraic Types are not Scary, Actually",
+      "href": "https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 3
     },
     {
       "title": "Rating 26 years of Java changes",
       "href": "https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/",
       "points": "",
-      "comments": "\n              26 comments",
-      "index": 3
-    },
-    {
-      "title": "Gleam is my new obsession",
-      "href": "https://ericcodes.io/blog/gleam-my-new-obsession.html",
-      "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              29 comments",
       "index": 4
     },
     {
       "title": "Rye Tables vs Python/Pandas: A Different Way to Wrangle Data",
       "href": "https://ryelang.org/blog/posts/comparing_tables_to_python/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 5
     },
     {
-      "title": "Algebraic Types are not Scary, Actually",
-      "href": "https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html",
+      "title": "Gleam is my new obsession",
+      "href": "https://ericcodes.io/blog/gleam-my-new-obsession.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              16 comments",
       "index": 6
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
-      "title": "The unreasonable effectiveness of modern sort algorithms",
-      "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 9
-    },
-    {
       "title": "Linking to text fragments with a bookmarklet",
       "href": "https://alexwlchan.net/2025/text-fragments-bookmarklet",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 9
+    },
+    {
+      "title": "The unreasonable effectiveness of modern sort algorithms",
+      "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 10
     },
     {
@@ -86,24 +86,24 @@
       "index": 12
     },
     {
-      "title": "Writing an operating system kernel from scratch",
-      "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
+      "title": "What are you doing this week?",
+      "href": "/s/z5vm7k/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 13
-    },
-    {
-      "title": "tsink: Embedded time-series database for Rust",
-      "href": "https://github.com/h2337/tsink",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
     },
     {
       "title": "Protecting Rust against supply chain attacks",
       "href": "https://kerkour.com/rust-supply-chain-attacks",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 14
+    },
+    {
+      "title": "Writing an operating system kernel from scratch",
+      "href": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 15
     },
     {
@@ -114,8 +114,8 @@
       "index": 16
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/z5vm7k/what_are_you_doing_this_week",
+      "title": "tsink: Embedded time-series database for Rust",
+      "href": "https://github.com/h2337/tsink",
       "points": "",
       "comments": "\n              1 comment",
       "index": 17
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "DriftDB: An experimental append-only database with built-in time travel",
+      "href": "https://github.com/DavidLiedle/DriftDB",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 22
+    },
+    {
       "title": "On the Security of SSH Client Signatures",
       "href": "https://arxiv.org/abs/2509.09331",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "tag2upload in the first month of Debian forky",
+      "href": "https://diziet.dreamwidth.org/20143.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 24
     },
     {
       "title": "OCSP Service Has Reached End of Life",
       "href": "https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "DriftDB: An experimental append-only database with built-in time travel",
-      "href": "https://github.com/DavidLiedle/DriftDB",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "Debian 12 installer promotes US/* time zones",
-      "href": "https://rachelbythebay.com/w/2025/09/12/tz/",
-      "points": "",
-      "comments": "\n              21 comments",
       "index": 25
     }
   ]
