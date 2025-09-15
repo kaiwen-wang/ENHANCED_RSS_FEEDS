@@ -1,53 +1,53 @@
 {
-  "date": "Monday, September 15, 2025 at 3:20 PM GMT-5",
+  "date": "Monday, September 15, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "Algebraic Types are not Scary, Actually",
       "href": "https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              27 comments",
       "index": 1
     },
     {
       "title": "The idea of /usr/sbin has failed in practice",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/UsrSbinFailedInPractice",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              28 comments",
       "index": 2
     },
     {
       "title": "The E Language",
       "href": "http://erights.org/elang/index.html",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 3
     },
     {
       "title": "Hosting a WebSite on a Disposable Vape",
       "href": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              15 comments",
       "index": 4
-    },
-    {
-      "title": "Rye Tables vs Python/Pandas: A Different Way to Wrangle Data",
-      "href": "https://ryelang.org/blog/posts/comparing_tables_to_python/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 5
     },
     {
       "title": "Ghostty 1.2.0 - Release Notes",
       "href": "https://ghostty.org/docs/install/release-notes/1-2-0",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 5
+    },
+    {
+      "title": "Rye Tables vs Python/Pandas: A Different Way to Wrangle Data",
+      "href": "https://ryelang.org/blog/posts/comparing_tables_to_python/",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 6
     },
     {
       "title": "React Won by Default – And It's Killing Frontend Innovation",
       "href": "https://www.lorenstew.art/blog/react-won-by-default/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              8 comments",
       "index": 7
     },
     {
@@ -58,24 +58,24 @@
       "index": 8
     },
     {
-      "title": "Rating 26 years of Java changes",
-      "href": "https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/",
-      "points": "",
-      "comments": "\n              39 comments",
-      "index": 9
-    },
-    {
       "title": "asciinema 3.0 adds live streaming and local-first recording",
       "href": "https://blog.asciinema.org/post/three-point-o/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 9
     },
     {
       "title": "Introducing the Constexpr Debugger",
       "href": "https://blog.jetbrains.com/clion/2025/09/introducing-constexpr-debugger/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
+      "title": "Rating 26 years of Java changes",
+      "href": "https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/",
+      "points": "",
+      "comments": "\n              39 comments",
       "index": 11
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
+      "title": "Org Social Preview Generator",
+      "href": "https://github.com/tanrax/org-social-preview",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
       "title": "Linking to text fragments with a bookmarklet",
       "href": "https://alexwlchan.net/2025/text-fragments-bookmarklet",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 15
-    },
-    {
-      "title": "Org Social Preview Generator",
-      "href": "https://github.com/tanrax/org-social-preview",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 16
     },
     {
       "title": "Beyond Orthogonality: How Language Models Pack Billions of Concepts into 12,000 Dimensions",
       "href": "https://nickyoder.com/johnson-lindenstrauss/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 17
     },
     {
       "title": "Moonbit developers are lying to you",
       "href": "https://bitemyapp.com/blog/moonbit-developers-are-lying-to-you/",
       "points": "",
-      "comments": "\n              39 comments",
+      "comments": "\n              41 comments",
       "index": 18
+    },
+    {
+      "title": "The pirate-based logic of Rust shared references",
+      "href": "http://ais523.me.uk/blog/logic-of-shared-references.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 19
+    },
+    {
+      "title": "Why is the name of the Microsoft Wireless Notebook Presenter Mouse 8000 hard-coded into the Bluetooth drivers?",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20250915-00/?p=111599",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
     },
     {
       "title": "Protecting Rust against supply chain attacks",
       "href": "https://kerkour.com/rust-supply-chain-attacks",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 19
+      "index": 21
     },
     {
-      "title": "The unreasonable effectiveness of modern sort algorithms",
-      "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
+      "title": "Waterpark: Transforming Healthcare with Distributed Actors",
+      "href": "https://youtu.be/hdBm4K-vvt0",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
+      "comments": "\n              2 comments",
+      "index": 22
     },
     {
-      "title": "The pirate-based logic of Rust shared references",
-      "href": "http://ais523.me.uk/blog/logic-of-shared-references.html",
+      "title": "WebKit Features in Safari 26.0",
+      "href": "https://webkit.org/blog/17333/webkit-features-in-safari-26-0/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Rendezvous Hashing Explained (2020)",
       "href": "https://randorithms.com/2020/12/26/rendezvous-hashing.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "Infinite Relations",
-      "href": "https://buttondown.com/jaffray/archive/infinite-relations/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Waterpark: Transforming Healthcare with Distributed Actors",
-      "href": "https://youtu.be/hdBm4K-vvt0",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 24
     },
     {
-      "title": "The Many Broken Feeds",
-      "href": "https://notes.abhinavsarkar.net/2025/broken-feeds",
+      "title": "The unreasonable effectiveness of modern sort algorithms",
+      "href": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
