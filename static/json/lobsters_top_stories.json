@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, September 17, 2025 at 2:15 AM GMT-5",
+  "date": "Wednesday, September 17, 2025 at 3:25 AM GMT-5",
   "articles": [
     {
       "title": "You Want Technology With Warts",
@@ -9,31 +9,31 @@
       "index": 1
     },
     {
-      "title": "How I Use AI",
-      "href": "https://timkellogg.me/blog/2025/09/15/ai-tools",
+      "title": "Ubuntu 25.10's Rust Coreutils Transition Has Uncovered Performance Shortcomings",
+      "href": "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Perf",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              5 comments",
       "index": 2
+    },
+    {
+      "title": "How to implement the Outbox pattern in Go and Postgres",
+      "href": "https://medium.com/@pliutau/how-to-implement-the-outbox-pattern-in-go-and-postgres-e9bc2699cbe2",
+      "points": "",
+      "comments": "\n              20 comments",
+      "index": 3
     },
     {
       "title": "Java 25",
       "href": "https://openjdk.org/projects/jdk/25/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 3
-    },
-    {
-      "title": "How to implement the Outbox pattern in Go and Postgres",
-      "href": "https://medium.com/@pliutau/how-to-implement-the-outbox-pattern-in-go-and-postgres-e9bc2699cbe2",
-      "points": "",
-      "comments": "\n              16 comments",
       "index": 4
     },
     {
-      "title": "Ubuntu 25.10's Rust Coreutils Transition Has Uncovered Performance Shortcomings",
-      "href": "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Perf",
+      "title": "How I Use AI",
+      "href": "https://timkellogg.me/blog/2025/09/15/ai-tools",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              8 comments",
       "index": 5
     },
     {
@@ -54,7 +54,7 @@
       "title": "Ghostty 1.2.0 - Release Notes",
       "href": "https://ghostty.org/docs/install/release-notes/1-2-0",
       "points": "",
-      "comments": "\n              46 comments",
+      "comments": "\n              49 comments",
       "index": 8
     },
     {
@@ -72,108 +72,108 @@
       "index": 10
     },
     {
-      "title": "Wanted to spy on my dog, ended up spying on TP-Link",
-      "href": "https://kennedn.com/blog/posts/tapo/",
+      "title": "The ASUS Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
+      "href": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
       "points": "",
       "comments": "\n              1 comment",
       "index": 11
-    },
-    {
-      "title": "Swift 6.2 Released",
-      "href": "https://www.swift.org/blog/swift-6.2-released/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "A detailed review of macOS 26 Tahoe",
-      "href": "https://arstechnica.com/gadgets/2025/09/macos-26-tahoe-the-ars-technica-review/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 13
-    },
-    {
-      "title": "Rupert's Snub Cube and other Math Holes",
-      "href": "http://tom7.org/ruperts/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
     },
     {
       "title": "In Defense of C++",
       "href": "https://dayvster.com/blog/in-defense-of-cpp/",
       "points": "",
       "comments": "\n              14 comments",
+      "index": 12
+    },
+    {
+      "title": "Rupert's Snub Cube and other Math Holes",
+      "href": "http://tom7.org/ruperts/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
+      "title": "A detailed review of macOS 26 Tahoe",
+      "href": "https://arstechnica.com/gadgets/2025/09/macos-26-tahoe-the-ars-technica-review/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 14
+    },
+    {
+      "title": "Wanted to spy on my dog, ended up spying on TP-Link",
+      "href": "https://kennedn.com/blog/posts/tapo/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 15
+    },
+    {
+      "title": "Swift 6.2 Released",
+      "href": "https://www.swift.org/blog/swift-6.2-released/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "PyPI Token Exfiltration Campaign via GitHub Actions Workflows",
+      "href": "https://blog.pypi.org/posts/2025-09-16-github-actions-token-exfiltration/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 17
     },
     {
       "title": "Why is the name of the Microsoft Wireless Notebook Presenter Mouse 8000 hard-coded into the Bluetooth drivers?",
       "href": "https://devblogs.microsoft.com/oldnewthing/20250915-00/?p=111599",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 16
+      "index": 18
+    },
+    {
+      "title": "Solving a Wooden Puzzle Using Haskell",
+      "href": "https://glocq.github.io/en/blog/20250428/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "I have divided (and partly uninformed) views on OpenTelemetry",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenTelemetryDividedViews",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
+      "index": 20
     },
     {
-      "title": "The ASUS Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
-      "href": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
+      "title": "Our AI policy vs code of conduct and vs reality",
+      "href": "https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "PyPI Token Exfiltration Campaign via GitHub Actions Workflows",
-      "href": "https://blog.pypi.org/posts/2025-09-16-github-actions-token-exfiltration/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Godot 4.5 release",
       "href": "https://godotengine.org/releases/4.5/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Dolphin Progress Report: Release 2509",
       "href": "https://dolphin-emu.org/blog/2025/09/16/dolphin-progress-report-release-2509/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 21
-    },
-    {
-      "title": "Good Times in River City: Bridgetown 2.0 is Here",
-      "href": "https://www.bridgetownrb.com/release/bridgetown-v2-river-city-released/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Algebraic Types are not Scary, Actually",
       "href": "https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html",
       "points": "",
       "comments": "\n              66 comments",
-      "index": 23
-    },
-    {
-      "title": "ioctls from Rust",
-      "href": "https://blogsystem5.substack.com/p/ioctls-rust",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "React Won by Default – And It's Killing Frontend Innovation",
-      "href": "https://www.lorenstew.art/blog/react-won-by-default/",
+      "title": "Good Times in River City: Bridgetown 2.0 is Here",
+      "href": "https://www.bridgetownrb.com/release/bridgetown-v2-river-city-released/",
       "points": "",
-      "comments": "\n              51 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
