@@ -1,23 +1,23 @@
 {
-  "date": "Wednesday, September 17, 2025 at 1:25 PM GMT-5",
+  "date": "Wednesday, September 17, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Ubuntu 25.10's Rust Coreutils Transition Has Uncovered Performance Shortcomings",
       "href": "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Perf",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              27 comments",
       "index": 1
     },
     {
       "title": "what the go proxy has been doing",
       "href": "https://flak.tedunangst.com/post/what-the-go-proxy-has-been-doing",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 2
     },
     {
-      "title": "PureVPN IPv6 leak",
-      "href": "https://anagogistis.com/posts/purevpn-ipv6-leak/",
+      "title": "Arrival Radar Air Traffic Control Game",
+      "href": "https://xkqr.org/arrival-radar/",
       "points": "",
       "comments": "\n              no comments",
       "index": 3
@@ -26,26 +26,26 @@
       "title": "Our AI policy vs code of conduct and vs reality",
       "href": "https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 4
     },
     {
-      "title": "Arrival Radar Air Traffic Control Game",
-      "href": "https://xkqr.org/arrival-radar/",
+      "title": "PureVPN IPv6 leak",
+      "href": "https://anagogistis.com/posts/purevpn-ipv6-leak/",
       "points": "",
       "comments": "\n              no comments",
       "index": 5
     },
     {
-      "title": "Determination of the fifth Busy Beaver value",
-      "href": "https://arxiv.org/abs/2509.12337",
+      "title": "Wasm 3.0 Completed",
+      "href": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
       "points": "",
       "comments": "\n              3 comments",
       "index": 6
     },
     {
-      "title": "The ASUS Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
-      "href": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
+      "title": "Determination of the fifth Busy Beaver value",
+      "href": "https://arxiv.org/abs/2509.12337",
       "points": "",
       "comments": "\n              4 comments",
       "index": 7
@@ -58,101 +58,101 @@
       "index": 8
     },
     {
+      "title": "The ASUS Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
+      "href": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 9
+    },
+    {
       "title": "Is GitHub Actions suitable for running benchmarks?",
       "href": "https://labs.quansight.org/blog/2021/08/github-actions-benchmarks",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "devenv 1.9: Scaling Nix projects using modules and profiles - devenv",
       "href": "https://devenv.sh/blog/2025/09/17/devenv-19-scaling-nix-projects-using-modules-and-profiles/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Installing and Using Debian With My Decades-Old Genuine DEC vt510 Serial Terminal",
       "href": "https://changelog.complete.org/archives/10886-installing-and-using-debian-using-my-decades-old-genuine-dec-vt510-serial-terminal",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "How to implement the Outbox pattern in Go and Postgres",
       "href": "https://medium.com/@pliutau/how-to-implement-the-outbox-pattern-in-go-and-postgres-e9bc2699cbe2",
       "points": "",
       "comments": "\n              31 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "You Want Technology With Warts",
       "href": "https://entropicthoughts.com/you-want-technology-with-warts",
       "points": "",
       "comments": "\n              32 comments",
-      "index": 13
-    },
-    {
-      "title": "Java 25",
-      "href": "https://openjdk.org/projects/jdk/25/",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 14
-    },
-    {
-      "title": "Wasm 3.0 Completed",
-      "href": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "A Dumb Introduction to z3",
-      "href": "https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
     },
     {
       "title": "ZeroFS: 9P, NFS, or block devices on top of S3-compatible storage",
       "href": "https://github.com/Barre/ZeroFS",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Java 25",
+      "href": "https://openjdk.org/projects/jdk/25/",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 16
+    },
+    {
+      "title": "A Dumb Introduction to z3",
+      "href": "https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 17
+    },
+    {
+      "title": "Rupert's Snub Cube and other Math Holes",
+      "href": "http://tom7.org/ruperts/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 18
     },
     {
       "title": "How I Use AI",
       "href": "https://timkellogg.me/blog/2025/09/15/ai-tools",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Introducing Obelisk 0.24.1",
       "href": "https://obeli.sk/blog/introducing-obelisk-0-24-1/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "IISCV (Lisp-based Version Control System) - image-based",
       "href": "https://github.com/gassechen/iiscv",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Claude Can (Sometimes) Prove It",
       "href": "https://www.galois.com/articles/claude-can-sometimes-prove-it",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
-    },
-    {
-      "title": "Rupert's Snub Cube and other Math Holes",
-      "href": "http://tom7.org/ruperts/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 22
     },
     {
