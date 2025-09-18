@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, September 17, 2025 at 8:20 PM GMT-5",
+  "date": "Wednesday, September 17, 2025 at 9:55 PM GMT-5",
   "articles": [
     {
       "title": "Wasm 3.0 Completed",
       "href": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              19 comments",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "Ubuntu 25.10's Rust Coreutils Transition Has Uncovered Performance Shortcomings",
       "href": "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Perf",
       "points": "",
-      "comments": "\n              31 comments",
+      "comments": "\n              32 comments",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
-      "title": "Our AI policy vs code of conduct and vs reality",
-      "href": "https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 5
-    },
-    {
       "title": "Steering Committee Retrospective",
       "href": "https://www.haskellforall.com/2025/09/steering-committee-retrospective.html",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 5
+    },
+    {
+      "title": "Our AI policy vs code of conduct and vs reality",
+      "href": "https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300",
+      "points": "",
+      "comments": "\n              21 comments",
       "index": 6
     },
     {
@@ -58,122 +58,122 @@
       "index": 8
     },
     {
+      "title": "Introducing GNOME 49, “Brescia”",
+      "href": "https://release.gnome.org/49/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 9
+    },
+    {
       "title": "The ASUS Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
       "href": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Why We're Building Stategraph: Terraform State as a Distributed Systems Problem",
       "href": "https://stategraph.dev/blog/why-stategraph/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Is GitHub Actions suitable for running benchmarks?",
       "href": "https://labs.quansight.org/blog/2021/08/github-actions-benchmarks",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 11
-    },
-    {
-      "title": "ZeroFS: 9P, NFS, or block devices on top of S3-compatible storage",
-      "href": "https://github.com/Barre/ZeroFS",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 12
-    },
-    {
-      "title": "devenv 1.9: Scaling Nix projects using modules and profiles - devenv",
-      "href": "https://devenv.sh/blog/2025/09/17/devenv-19-scaling-nix-projects-using-modules-and-profiles/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "django.tasks exists",
-      "href": "https://theorangeone.net/posts/django-dot-tasks-exists/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 14
-    },
-    {
-      "title": "Installing and Using Debian With My Decades-Old Genuine DEC vt510 Serial Terminal",
-      "href": "https://changelog.complete.org/archives/10886-installing-and-using-debian-using-my-decades-old-genuine-dec-vt510-serial-terminal",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
     },
     {
       "title": "Shai-Hulud: The novel self-replicating worm infecting hundreds of NPM packages",
       "href": "https://www.sysdig.com/blog/shai-hulud-the-novel-self-replicating-worm-infecting-hundreds-of-npm-packages",
       "points": "",
       "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "ZeroFS: 9P, NFS, or block devices on top of S3-compatible storage",
+      "href": "https://github.com/Barre/ZeroFS",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "devenv 1.9: Scaling Nix projects using modules and profiles - devenv",
+      "href": "https://devenv.sh/blog/2025/09/17/devenv-19-scaling-nix-projects-using-modules-and-profiles/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
+      "title": "django.tasks exists",
+      "href": "https://theorangeone.net/posts/django-dot-tasks-exists/",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 16
+    },
+    {
+      "title": "Installing and Using Debian With My Decades-Old Genuine DEC vt510 Serial Terminal",
+      "href": "https://changelog.complete.org/archives/10886-installing-and-using-debian-using-my-decades-old-genuine-dec-vt510-serial-terminal",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "Introducing Obelisk 0.24.1",
       "href": "https://obeli.sk/blog/introducing-obelisk-0-24-1/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "IISCV (Lisp-based Version Control System) - image-based",
       "href": "https://github.com/gassechen/iiscv",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "How to implement the Outbox pattern in Go and Postgres",
       "href": "https://medium.com/@pliutau/how-to-implement-the-outbox-pattern-in-go-and-postgres-e9bc2699cbe2",
       "points": "",
       "comments": "\n              37 comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "You Want Technology With Warts",
       "href": "https://entropicthoughts.com/you-want-technology-with-warts",
       "points": "",
       "comments": "\n              32 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Rupert's Snub Cube and other Math Holes",
       "href": "http://tom7.org/ruperts/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "A Dumb Introduction to z3",
       "href": "https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens",
+      "href": "https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "Java 25",
       "href": "https://openjdk.org/projects/jdk/25/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 23
-    },
-    {
-      "title": "Introducing GNOME 49, “Brescia”",
-      "href": "https://release.gnome.org/49/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Death to type classes",
-      "href": "https://jappie.me/death-to-type-classes.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
