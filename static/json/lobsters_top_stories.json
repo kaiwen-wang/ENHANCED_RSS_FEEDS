@@ -1,25 +1,25 @@
 {
-  "date": "Thursday, September 18, 2025 at 3:25 AM GMT-5",
+  "date": "Thursday, September 18, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "Wasm 3.0 Completed",
       "href": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              26 comments",
       "index": 1
+    },
+    {
+      "title": "Nick Wellnhofer steps down as libxml2 maintainer",
+      "href": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 2
     },
     {
       "title": "Introducing GNOME 49, “Brescia”",
       "href": "https://release.gnome.org/49/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 2
-    },
-    {
-      "title": "Arrival Radar Air Traffic Control Game",
-      "href": "https://xkqr.org/arrival-radar/",
-      "points": "",
-      "comments": "\n              11 comments",
       "index": 3
     },
     {
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
-      "title": "Nick Wellnhofer steps down as libxml2 maintainer",
-      "href": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
+      "title": "Arrival Radar Air Traffic Control Game",
+      "href": "https://xkqr.org/arrival-radar/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              11 comments",
       "index": 5
-    },
-    {
-      "title": "Ubuntu 25.10's Rust Coreutils Transition Has Uncovered Performance Shortcomings",
-      "href": "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Perf",
-      "points": "",
-      "comments": "\n              32 comments",
-      "index": 6
     },
     {
       "title": "Shai-Hulud: The novel self-replicating worm infecting hundreds of NPM packages",
       "href": "https://www.sysdig.com/blog/shai-hulud-the-novel-self-replicating-worm-infecting-hundreds-of-npm-packages",
       "points": "",
       "comments": "\n              no comments",
+      "index": 6
+    },
+    {
+      "title": "Ubuntu 25.10's Rust Coreutils Transition Has Uncovered Performance Shortcomings",
+      "href": "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Perf",
+      "points": "",
+      "comments": "\n              32 comments",
       "index": 7
     },
     {
@@ -65,113 +65,113 @@
       "index": 9
     },
     {
-      "title": "Our AI policy vs code of conduct and vs reality",
-      "href": "https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 10
-    },
-    {
       "title": "Determination of the fifth Busy Beaver value",
       "href": "https://arxiv.org/abs/2509.12337",
       "points": "",
       "comments": "\n              6 comments",
+      "index": 10
+    },
+    {
+      "title": "Our AI policy vs code of conduct and vs reality",
+      "href": "https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300",
+      "points": "",
+      "comments": "\n              25 comments",
       "index": 11
+    },
+    {
+      "title": "Sunsetting the rustwasm GitHub org | Inside Rust Blog",
+      "href": "https://blog.rust-lang.org/inside-rust/2025/07/21/sunsetting-the-rustwasm-github-org/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 12
     },
     {
       "title": "PureVPN IPv6 leak",
       "href": "https://anagogistis.com/posts/purevpn-ipv6-leak/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
+      "index": 13
+    },
+    {
+      "title": "Monoids in Public",
+      "href": "https://blog.veritates.love/monoids_in_public.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 14
+    },
+    {
+      "title": "Why We're Building Stategraph: Terraform State as a Distributed Systems Problem",
+      "href": "https://stategraph.dev/blog/why-stategraph/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 15
     },
     {
       "title": "The ASUS Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
       "href": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 13
+      "index": 16
     },
     {
-      "title": "Why We're Building Stategraph: Terraform State as a Distributed Systems Problem",
-      "href": "https://stategraph.dev/blog/why-stategraph/",
+      "title": "django.tasks exists",
+      "href": "https://theorangeone.net/posts/django-dot-tasks-exists/",
       "points": "",
-      "comments": "\n              11 comments",
-      "index": 14
+      "comments": "\n              7 comments",
+      "index": 17
     },
     {
       "title": "Is GitHub Actions suitable for running benchmarks?",
       "href": "https://labs.quansight.org/blog/2021/08/github-actions-benchmarks",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 15
+      "index": 18
     },
     {
       "title": "ZeroFS: 9P, NFS, or block devices on top of S3-compatible storage",
       "href": "https://github.com/Barre/ZeroFS",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 19
+    },
+    {
+      "title": "Access logging in 2025",
+      "href": "https://neugierig.org/software/blog/2025/09/access-log.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens",
       "href": "https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
-    },
-    {
-      "title": "Sunsetting the rustwasm GitHub org | Inside Rust Blog",
-      "href": "https://blog.rust-lang.org/inside-rust/2025/07/21/sunsetting-the-rustwasm-github-org/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "django.tasks exists",
-      "href": "https://theorangeone.net/posts/django-dot-tasks-exists/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "devenv 1.9: Scaling Nix projects using modules and profiles - devenv",
       "href": "https://devenv.sh/blog/2025/09/17/devenv-19-scaling-nix-projects-using-modules-and-profiles/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "Monoids in Public",
-      "href": "https://blog.veritates.love/monoids_in_public.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Go channels to solve interface impedance mismatch",
       "href": "https://dolthub.com/blog/2025-09-12-go-channels-for-period-mismatch/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Installing and Using Debian With My Decades-Old Genuine DEC vt510 Serial Terminal",
       "href": "https://changelog.complete.org/archives/10886-installing-and-using-debian-using-my-decades-old-genuine-dec-vt510-serial-terminal",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Digging deeper into YouTube's view count discrepancy",
       "href": "https://www.jeffgeerling.com/blog/2025/digging-deeper-youtubes-view-count-discrepancy",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "IISCV (Lisp-based Version Control System) - image-based",
-      "href": "https://github.com/gassechen/iiscv",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
