@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, September 18, 2025 at 12:15 AM GMT-5",
+  "date": "Thursday, September 18, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "Wasm 3.0 Completed",
@@ -9,45 +9,45 @@
       "index": 1
     },
     {
+      "title": "Introducing GNOME 49, “Brescia”",
+      "href": "https://release.gnome.org/49/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 2
+    },
+    {
       "title": "Arrival Radar Air Traffic Control Game",
       "href": "https://xkqr.org/arrival-radar/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 2
+      "comments": "\n              8 comments",
+      "index": 3
     },
     {
       "title": "Steering Committee Retrospective",
       "href": "https://www.haskellforall.com/2025/09/steering-committee-retrospective.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Ubuntu 25.10's Rust Coreutils Transition Has Uncovered Performance Shortcomings",
       "href": "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Perf",
       "points": "",
       "comments": "\n              32 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "what the go proxy has been doing",
       "href": "https://flak.tedunangst.com/post/what-the-go-proxy-has-been-doing",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Our AI policy vs code of conduct and vs reality",
       "href": "https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300",
       "points": "",
       "comments": "\n              22 comments",
-      "index": 6
-    },
-    {
-      "title": "Introducing GNOME 49, “Brescia”",
-      "href": "https://release.gnome.org/49/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 7
     },
     {
@@ -86,78 +86,78 @@
       "index": 12
     },
     {
+      "title": "Nick Wellnhofer steps down as libxml2 maintainer",
+      "href": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
       "title": "Is GitHub Actions suitable for running benchmarks?",
       "href": "https://labs.quansight.org/blog/2021/08/github-actions-benchmarks",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "ZeroFS: 9P, NFS, or block devices on top of S3-compatible storage",
       "href": "https://github.com/Barre/ZeroFS",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 15
+    },
+    {
+      "title": "We have outgrown the Process model",
+      "href": "https://sidhion.com/blog/process_model_outgrown/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
     },
     {
       "title": "devenv 1.9: Scaling Nix projects using modules and profiles - devenv",
       "href": "https://devenv.sh/blog/2025/09/17/devenv-19-scaling-nix-projects-using-modules-and-profiles/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 15
+      "index": 17
     },
     {
-      "title": "django.tasks exists",
-      "href": "https://theorangeone.net/posts/django-dot-tasks-exists/",
+      "title": "One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens",
+      "href": "https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 16
+      "comments": "\n              no comments",
+      "index": 18
     },
     {
       "title": "Installing and Using Debian With My Decades-Old Genuine DEC vt510 Serial Terminal",
       "href": "https://changelog.complete.org/archives/10886-installing-and-using-debian-using-my-decades-old-genuine-dec-vt510-serial-terminal",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 19
     },
     {
-      "title": "Nick Wellnhofer steps down as libxml2 maintainer",
-      "href": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
+      "title": "django.tasks exists",
+      "href": "https://theorangeone.net/posts/django-dot-tasks-exists/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 18
+      "comments": "\n              4 comments",
+      "index": 20
     },
     {
       "title": "IISCV (Lisp-based Version Control System) - image-based",
       "href": "https://github.com/gassechen/iiscv",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Introducing Obelisk 0.24.1",
       "href": "https://obeli.sk/blog/introducing-obelisk-0-24-1/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "We have outgrown the Process model",
-      "href": "https://sidhion.com/blog/process_model_outgrown/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Monoids in Public",
       "href": "https://blog.veritates.love/monoids_in_public.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens",
-      "href": "https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/",
       "points": "",
       "comments": "\n              no comments",
       "index": 23
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "You Want Technology With Warts",
-      "href": "https://entropicthoughts.com/you-want-technology-with-warts",
+      "title": "Rupert's Snub Cube and other Math Holes",
+      "href": "http://tom7.org/ruperts/",
       "points": "",
-      "comments": "\n              32 comments",
+      "comments": "\n              6 comments",
       "index": 25
     }
   ]
