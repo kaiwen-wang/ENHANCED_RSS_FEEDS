@@ -1,46 +1,46 @@
 {
-  "date": "Friday, September 19, 2025 at 5:20 AM GMT-5",
+  "date": "Friday, September 19, 2025 at 6:15 AM GMT-5",
   "articles": [
-    {
-      "title": "KDE is now my favorite desktop",
-      "href": "https://kokada.dev/blog/kde-is-now-my-favorite-desktop/",
-      "points": "",
-      "comments": "\n              35 comments",
-      "index": 1
-    },
     {
       "title": "Dark patterns killed my wife’s Windows 11 installation",
       "href": "https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/",
       "points": "",
       "comments": "\n              7 comments",
+      "index": 1
+    },
+    {
+      "title": "KDE is now my favorite desktop",
+      "href": "https://kokada.dev/blog/kde-is-now-my-favorite-desktop/",
+      "points": "",
+      "comments": "\n              35 comments",
       "index": 2
     },
     {
       "title": "Pocket Casts, You Altered The Deal, So I Will Alter Your App",
       "href": "https://blog.matthewbrunelle.com/podcasts-you-altered-the-deal-so-i-will-alter-your-app/",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              24 comments",
       "index": 3
+    },
+    {
+      "title": "FreeBSD vs. SmartOS: Who's Faster for Jails, Zones, and bhyve VMs?",
+      "href": "https://it-notes.dragas.net/2025/09/19/freebsd-vs-smartos-whos-faster-for-jails-zones-bhyve/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 4
+    },
+    {
+      "title": "Ruby Central’s Attack on RubyGems",
+      "href": "https://pup-e.com/goodbye-rubygems.pdf",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 5
     },
     {
       "title": "Announcing Rust 1.90.0",
       "href": "https://blog.rust-lang.org/2025/09/18/Rust-1.90.0/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 4
-    },
-    {
-      "title": "FreeBSD vs. SmartOS: Who's Faster for Jails, Zones, and bhyve VMs?",
-      "href": "https://it-notes.dragas.net/2025/09/19/freebsd-vs-smartos-whos-faster-for-jails-zones-bhyve/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 5
-    },
-    {
-      "title": "Ruby Central’s Attack on RubyGems",
-      "href": "https://pup-e.com/goodbye-rubygems.pdf",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 6
     },
     {
@@ -61,7 +61,7 @@
       "title": "Nick Wellnhofer steps down as libxml2 maintainer",
       "href": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
       "points": "",
-      "comments": "\n              46 comments",
+      "comments": "\n              47 comments",
       "index": 9
     },
     {
@@ -72,29 +72,29 @@
       "index": 10
     },
     {
-      "title": "Reflection — C++’s decade-defining rocket engine",
-      "href": "https://herbsutter.com/2025/09/18/yesterdays-talk-video-posted-reflection-cs-decade-defining-rocket-engine/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 11
-    },
-    {
       "title": "Netscape Navigator 2.0 was released 30 years ago today",
       "href": "https://www.jwz.org/blog/2025/09/netscape-navigator-2-0-was-released-30-years-ago-today/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 12
+      "comments": "\n              7 comments",
+      "index": 11
     },
     {
-      "title": "Faking ADTs and GADTs in Languages That Shouldn't Have Them",
-      "href": "https://blog.jle.im/entry/faking-adts-and-gadts.html",
+      "title": "Reflection — C++’s decade-defining rocket engine",
+      "href": "https://herbsutter.com/2025/09/18/yesterdays-talk-video-posted-reflection-cs-decade-defining-rocket-engine/",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 13
+      "comments": "\n              13 comments",
+      "index": 12
     },
     {
       "title": "TernFS: an exabyte scale, multi-region distributed filesystem",
       "href": "https://www.xtxmarkets.com/tech/2025-ternfs/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 13
+    },
+    {
+      "title": "Faking ADTs and GADTs in Languages That Shouldn't Have Them",
+      "href": "https://blog.jle.im/entry/faking-adts-and-gadts.html",
       "points": "",
       "comments": "\n              1 comment",
       "index": 14
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "What are you doing this weekend?",
+      "href": "/s/x2c5dn/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 21
+    },
+    {
       "title": "Introducing GNOME 49, “Brescia”",
       "href": "https://release.gnome.org/49/",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 21
+      "comments": "\n              15 comments",
+      "index": 22
     },
     {
       "title": "Access logging in 2025",
       "href": "https://neugierig.org/software/blog/2025/09/access-log.html",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "The common sense unit of work",
       "href": "https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
-    },
-    {
-      "title": "From suspicion to published curl CVE",
-      "href": "https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 24
     },
     {
-      "title": "We have outgrown the Process model",
-      "href": "https://sidhion.com/blog/process_model_outgrown/",
+      "title": "Evolving our real-time timeseries storage again: Built in Rust for performance at scale",
+      "href": "https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/",
       "points": "",
-      "comments": "\n              44 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
