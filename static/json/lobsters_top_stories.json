@@ -1,81 +1,81 @@
 {
-  "date": "Friday, September 19, 2025 at 2:15 PM GMT-5",
+  "date": "Friday, September 19, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Ruby Central’s Attack on RubyGems",
       "href": "https://pup-e.com/goodbye-rubygems.pdf",
       "points": "",
-      "comments": "\n              43 comments",
+      "comments": "\n              46 comments",
       "index": 1
     },
     {
       "title": "Dark patterns killed my wife’s Windows 11 installation",
       "href": "https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              24 comments",
       "index": 2
+    },
+    {
+      "title": "Jazz Guitarist Stanley Jordan wrote APL for Music",
+      "href": "https://dl.acm.org/doi/pdf/10.1145/75144.75174",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 3
     },
     {
       "title": "FreeBSD vs. SmartOS: Who's Faster for Jails, Zones, and bhyve VMs?",
       "href": "https://it-notes.dragas.net/2025/09/19/freebsd-vs-smartos-whos-faster-for-jails-zones-bhyve/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "KDE is now my favorite desktop",
       "href": "https://kokada.dev/blog/kde-is-now-my-favorite-desktop/",
       "points": "",
       "comments": "\n              42 comments",
-      "index": 4
-    },
-    {
-      "title": "Jazz Guitarist Stanley Jordan wrote APL for Music",
-      "href": "https://dl.acm.org/doi/pdf/10.1145/75144.75174",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 5
-    },
-    {
-      "title": "Pocket Casts, You Altered The Deal, So I Will Alter Your App",
-      "href": "https://blog.matthewbrunelle.com/podcasts-you-altered-the-deal-so-i-will-alter-your-app/",
-      "points": "",
-      "comments": "\n              42 comments",
-      "index": 6
     },
     {
       "title": "The myth and reality of Mac OS X Snow Leopard (2023)",
       "href": "https://lapcatsoftware.com/articles/2023/11/5.html",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 6
+    },
+    {
+      "title": "Pocket Casts, You Altered The Deal, So I Will Alter Your App",
+      "href": "https://blog.matthewbrunelle.com/podcasts-you-altered-the-deal-so-i-will-alter-your-app/",
+      "points": "",
+      "comments": "\n              44 comments",
       "index": 7
     },
     {
       "title": "Type Branding in Typescript",
       "href": "https://azraelsec.sh/2025/09/06/Typescript-Branding/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 8
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/x2c5dn/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              21 comments",
-      "index": 9
-    },
-    {
-      "title": "1K+ agentic project schemas reconstructed from posts on related subreddits",
-      "href": "https://altsoph.com/pp/aps/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
     },
     {
       "title": "run a UNIX command in multiple sub-processes with line-buffered I/O",
       "href": "https://kmx.io/blog/released-runj-v0.1-and-runj-v0.2-run-unix-command-sub-processes-with-line-buffered-io",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 9
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/x2c5dn/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              26 comments",
+      "index": 10
+    },
+    {
+      "title": "1K+ agentic project schemas reconstructed from posts on related subreddits",
+      "href": "https://altsoph.com/pp/aps/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 11
     },
     {
@@ -117,21 +117,21 @@
       "title": "Release automation and testing on CI",
       "href": "https://lucasew.github.io/post/20250919-project-automations/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 17
-    },
-    {
-      "title": "Hypervisor in 1,000 Lines",
-      "href": "https://1000hv.seiya.me/en/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
     },
     {
       "title": "Nick Wellnhofer steps down as libxml2 maintainer",
       "href": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
       "points": "",
       "comments": "\n              52 comments",
+      "index": 18
+    },
+    {
+      "title": "Hypervisor in 1,000 Lines",
+      "href": "https://1000hv.seiya.me/en/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 19
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Apple: SSH and FileVault",
+      "href": "https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "Elasticsearch: Search Index, Not System of Record",
       "href": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "TernFS: an exabyte scale, multi-region distributed filesystem",
       "href": "https://www.xtxmarkets.com/tech/2025-ternfs/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "History of the GEM Desktop Environment",
       "href": "https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 24
-    },
-    {
-      "title": "Ton Roosendaal to step down as Blender chairman and CEO",
-      "href": "https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 25
     }
   ]
