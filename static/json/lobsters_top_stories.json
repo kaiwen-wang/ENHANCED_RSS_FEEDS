@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, September 21, 2025 at 1:25 PM GMT-5",
+  "date": "Sunday, September 21, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "NixCon 2025 Trip Report",
@@ -37,22 +37,22 @@
       "index": 5
     },
     {
-      "title": "Git: Introduce Rust and announce that it will become mandatory",
-      "href": "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/",
-      "points": "",
-      "comments": "\n              91 comments",
-      "index": 6
-    },
-    {
       "title": "I Once Appeared in The Old New Thing",
       "href": "https://mtlynch.io/my-old-new-thing-cameo/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
+      "title": "Git: Introduce Rust and announce that it will become mandatory",
+      "href": "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/",
+      "points": "",
+      "comments": "\n              92 comments",
       "index": 7
     },
     {
-      "title": "Linkgraphs are fun",
-      "href": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
+      "title": "A simulator significantly inspired by the first commercial transistor computer, the Metrovick 950",
+      "href": "https://git.sr.ht/~nkali/mv950toy",
       "points": "",
       "comments": "\n              2 comments",
       "index": 8
@@ -61,40 +61,40 @@
       "title": "self-reliant programmer manifesto",
       "href": "https://yobibyte.github.io/self_reliant_programmer.html",
       "points": "",
-      "comments": "\n              30 comments",
+      "comments": "\n              31 comments",
       "index": 9
+    },
+    {
+      "title": "Linkgraphs are fun",
+      "href": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
     },
     {
       "title": "Not a Robot",
       "href": "https://neal.fun/not-a-robot/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 10
+      "comments": "\n              9 comments",
+      "index": 11
     },
     {
       "title": "9 Things Every Fresh Graduate Should Know About Software Performance",
       "href": "https://johnnysswlab.com/9-things-every-fresh-graduate-should-know-about-software-performance/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Ephemeral Win11 testing VM for a few bucks per month",
       "href": "https://paretosecurity.com/blog/ephemeral-win11-testing-vm-for-a-few-bucks-per-month/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Sequoia: Rust OpenPGP implementation",
       "href": "https://gitlab.com/sequoia-pgp/sequoia",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "A simulator significantly inspired by the first commercial transistor computer, the Metrovick 950",
-      "href": "https://git.sr.ht/~nkali/mv950toy",
       "points": "",
       "comments": "\n              no comments",
       "index": 14
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "Storing Unwise Amounts of Data in JavaScript Bigints",
+      "href": "https://jonathan-frere.com/posts/bigints-are-cool/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
       "title": "12 Git commands visualized in 3D: a spatial approach to understanding version control",
       "href": "https://www.youtube.com/watch?v=C2aFC8wFp2A",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
+      "index": 17
     },
     {
       "title": "The Napkin project",
       "href": "https://web.evanchen.cc/napkin.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "TV Time Machine: A Raspberry Pi That Plays Random 90s TV",
-      "href": "https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 18
-    },
-    {
-      "title": "Beyond Sandbox Domains: Rendering Untrusted Web Content with SafeContentFrame",
-      "href": "https://bughunters.google.com/blog/6715529872080896/beyond-sandbox-domains-rendering-untrusted-web-content-with-safecontentframe",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
     },
     {
       "title": "Vulkan graphics in OCaml vs C",
       "href": "https://roscidus.com/blog/blog/2025/09/20/ocaml-vulkan/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 19
+    },
+    {
+      "title": "TV Time Machine: A Raspberry Pi That Plays Random 90s TV",
+      "href": "https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 20
+    },
+    {
+      "title": "Beyond Sandbox Domains: Rendering Untrusted Web Content with SafeContentFrame",
+      "href": "https://bughunters.google.com/blog/6715529872080896/beyond-sandbox-domains-rendering-untrusted-web-content-with-safecontentframe",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
     },
     {
       "title": "Introducing the Forklift Certified License",
       "href": "https://aria.dog/barks/forklift-certified-license/",
       "points": "",
       "comments": "\n              33 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Microstacks or megadependencies over at Webdevcon 2025",
       "href": "https://berthub.eu/articles/posts/microstacks-or-megadependencies-webdev/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Shai-Hulud, The Most Dangerous NPM Breach In History Affecting CrowdStrike and Hundreds of Popular Packages",
       "href": "https://www.koi.security/incident/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Is Zig's New Writer Unsafe?",
       "href": "https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/",
       "points": "",
       "comments": "\n              21 comments",
-      "index": 24
-    },
-    {
-      "title": "Be Simple",
-      "href": "https://corrode.dev/blog/simple/",
-      "points": "",
-      "comments": "\n              26 comments",
       "index": 25
     }
   ]
