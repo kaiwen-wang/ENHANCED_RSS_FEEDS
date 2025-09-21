@@ -1,67 +1,67 @@
 {
-  "date": "Sunday, September 21, 2025 at 10:15 AM GMT-5",
+  "date": "Sunday, September 21, 2025 at 11:20 AM GMT-5",
   "articles": [
     {
       "title": "NixCon 2025 Trip Report",
       "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 1
     },
     {
       "title": "My Hacking Simulator runs on a Cyberdeck",
       "href": "https://tiniuc.com/hacksim-on-cyberdeck/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 2
-    },
-    {
-      "title": "Git: Introduce Rust and announce that it will become mandatory",
-      "href": "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/",
-      "points": "",
-      "comments": "\n              79 comments",
-      "index": 3
     },
     {
       "title": "Less is safer: how Obsidian reduces the risk of supply chain attacks",
       "href": "https://obsidian.md/blog/less-is-safer/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 4
+      "index": 3
     },
     {
-      "title": "self-reliant programmer manifesto",
-      "href": "https://yobibyte.github.io/self_reliant_programmer.html",
+      "title": "Git: Introduce Rust and announce that it will become mandatory",
+      "href": "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/",
       "points": "",
-      "comments": "\n              28 comments",
-      "index": 5
+      "comments": "\n              81 comments",
+      "index": 4
     },
     {
       "title": "Linkgraphs are fun",
       "href": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 6
+      "comments": "\n              2 comments",
+      "index": 5
     },
     {
-      "title": "9 Things Every Fresh Graduate Should Know About Software Performance",
-      "href": "https://johnnysswlab.com/9-things-every-fresh-graduate-should-know-about-software-performance/",
+      "title": "self-reliant programmer manifesto",
+      "href": "https://yobibyte.github.io/self_reliant_programmer.html",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 7
+      "comments": "\n              29 comments",
+      "index": 6
     },
     {
       "title": "I Once Appeared in The Old New Thing",
       "href": "https://mtlynch.io/my-old-new-thing-cameo/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
+      "index": 7
     },
     {
       "title": "DXGI debugging: Microsoft put me on a list",
       "href": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 8
+    },
+    {
+      "title": "9 Things Every Fresh Graduate Should Know About Software Performance",
+      "href": "https://johnnysswlab.com/9-things-every-fresh-graduate-should-know-about-software-performance/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 9
     },
     {
@@ -72,59 +72,59 @@
       "index": 10
     },
     {
-      "title": "TV Time Machine: A Raspberry Pi That Plays Random 90s TV",
-      "href": "https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html",
+      "title": "12 Git commands visualized in 3D: a spatial approach to understanding version control",
+      "href": "https://www.youtube.com/watch?v=C2aFC8wFp2A",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              1 comment",
       "index": 11
-    },
-    {
-      "title": "Ephemeral Win11 testing VM for a few bucks per month",
-      "href": "https://paretosecurity.com/blog/ephemeral-win11-testing-vm-for-a-few-bucks-per-month/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
     },
     {
       "title": "The Napkin project",
       "href": "https://web.evanchen.cc/napkin.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 12
+    },
+    {
+      "title": "TV Time Machine: A Raspberry Pi That Plays Random 90s TV",
+      "href": "https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 13
+    },
+    {
+      "title": "Ephemeral Win11 testing VM for a few bucks per month",
+      "href": "https://paretosecurity.com/blog/ephemeral-win11-testing-vm-for-a-few-bucks-per-month/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Not a Robot",
+      "href": "https://neal.fun/not-a-robot/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 15
     },
     {
       "title": "Introducing the Forklift Certified License",
       "href": "https://aria.dog/barks/forklift-certified-license/",
       "points": "",
-      "comments": "\n              29 comments",
-      "index": 14
+      "comments": "\n              32 comments",
+      "index": 16
     },
     {
       "title": "Sequoia: Rust OpenPGP implementation",
       "href": "https://gitlab.com/sequoia-pgp/sequoia",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 17
     },
     {
       "title": "Vulkan graphics in OCaml vs C",
       "href": "https://roscidus.com/blog/blog/2025/09/20/ocaml-vulkan/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 16
-    },
-    {
-      "title": "12 Git commands visualized in 3D: a spatial approach to understanding version control",
-      "href": "https://www.youtube.com/watch?v=C2aFC8wFp2A",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Not a Robot",
-      "href": "https://neal.fun/not-a-robot/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "A simulator significantly inspired by the first commercial transistor computer, the Metrovick 950",
+      "href": "https://git.sr.ht/~nkali/mv950toy",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Microstacks or megadependencies over at Webdevcon 2025",
+      "href": "https://berthub.eu/articles/posts/microstacks-or-megadependencies-webdev/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
       "title": "Shai-Hulud, The Most Dangerous NPM Breach In History Affecting CrowdStrike and Hundreds of Popular Packages",
       "href": "https://www.koi.security/incident/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Is Zig's New Writer Unsafe?",
       "href": "https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/",
       "points": "",
       "comments": "\n              21 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Protect your keys with the Secure Enclave",
       "href": "https://octet-stream.net/b/scb/2025-09-16-protect-your-keys-with-the-secure-enclave.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Be Simple",
       "href": "https://corrode.dev/blog/simple/",
       "points": "",
       "comments": "\n              26 comments",
-      "index": 23
-    },
-    {
-      "title": "A brief history of threads and threading",
-      "href": "https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "Ruby Central’s Attack on RubyGems",
-      "href": "https://pup-e.com/goodbye-rubygems.pdf",
-      "points": "",
-      "comments": "\n              83 comments",
       "index": 25
     }
   ]
