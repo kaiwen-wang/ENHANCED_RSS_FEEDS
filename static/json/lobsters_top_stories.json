@@ -1,53 +1,53 @@
 {
-  "date": "Monday, September 22, 2025 at 3:20 PM GMT-5",
+  "date": "Monday, September 22, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
       "href": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
       "points": "",
-      "comments": "\n              38 comments",
+      "comments": "\n              39 comments",
       "index": 1
+    },
+    {
+      "title": "Cloudflare is sponsoring Ladybird and Omarchy",
+      "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
+      "points": "",
+      "comments": "\n              32 comments",
+      "index": 2
     },
     {
       "title": "Dear GitHub: no YAML anchors, please",
       "href": "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 2
+      "index": 3
     },
     {
       "title": "Cap'n Web: a new RPC system for browsers and web servers",
       "href": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 3
-    },
-    {
-      "title": "Cloudflare is sponsoring Ladybird and Omarchy",
-      "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
-      "points": "",
-      "comments": "\n              29 comments",
       "index": 4
-    },
-    {
-      "title": "Under the hood: Vec<T>",
-      "href": "https://marma.dev/articles/2025/under-the-hood-vec-t",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 5
     },
     {
       "title": "Memory Allocation in Go",
       "href": "https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 5
+    },
+    {
+      "title": "Under the hood: Vec<T>",
+      "href": "https://marma.dev/articles/2025/under-the-hood-vec-t",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 6
     },
     {
       "title": "Testing is better than Data Structures and Algorithms",
       "href": "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 7
     },
     {
@@ -61,7 +61,7 @@
       "title": "Steve Jobs, Jef Raskin, and the first great war for your thumbs",
       "href": "https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 9
     },
     {
@@ -72,106 +72,106 @@
       "index": 10
     },
     {
-      "title": "A long look at NetBSD 10.1",
-      "href": "https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 11
-    },
-    {
       "title": "The FLP theorem",
       "href": "https://shachaf.net/w/flp",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "A long look at NetBSD 10.1",
+      "href": "https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 12
+    },
+    {
+      "title": "Some observations concerning large programming efforts (1964)",
+      "href": "https://dl.acm.org/doi/10.1145/1464122.1464146",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 13
     },
     {
       "title": "@ts-ignore is almost always the worst option",
       "href": "https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Multikernel architecture proposed for Linux",
       "href": "https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "I Once Appeared in The Old New Thing",
       "href": "https://mtlynch.io/my-old-new-thing-cameo/",
       "points": "",
-      "comments": "\n              15 comments",
-      "index": 15
+      "comments": "\n              16 comments",
+      "index": 16
     },
     {
       "title": "第四: a Japanese and Forth inspired postfix language",
       "href": "https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Are XSLT stylesheets pure functions?",
       "href": "/s/altuop/are_xslt_stylesheets_pure_functions",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Tips for Working with Legacy Code",
       "href": "https://www.esveo.com/en/blog/tips-for-working-with-legacy-code/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Parsing Crusader Kings III data files to generate mods",
-      "href": "https://wheybags.com/blog/ck3mods.html",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 19
-    },
-    {
-      "title": "NixCon 2025 Trip Report",
-      "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 20
     },
     {
       "title": "aposd-vs-clean-code: A discussion between John Ousterhout and Robert Martin",
       "href": "https://github.com/johnousterhout/aposd-vs-clean-code",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "Parsing Crusader Kings III data files to generate mods",
+      "href": "https://wheybags.com/blog/ck3mods.html",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 21
+    },
+    {
+      "title": "NixCon 2025 Trip Report",
+      "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 22
     },
     {
       "title": "The free software commons (2024)",
       "href": "https://jenniferplusplus.com/the-free-software-commons/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "DXGI debugging: Microsoft put me on a list",
-      "href": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 23
     },
     {
-      "title": "Less is safer: how Obsidian reduces the risk of supply chain attacks",
-      "href": "https://obsidian.md/blog/less-is-safer/",
+      "title": "GitHub replaces dashboard feed with AI-generated shit",
+      "href": "https://github.com/dashboard-feed",
       "points": "",
-      "comments": "\n              31 comments",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "The story of Musium",
-      "href": "https://ruudvanasseldonk.com/2025/musium",
+      "title": "Elite: \"The game that couldn't be written\"",
+      "href": "https://www.youtube.com/watch?v=lC4YLMLar5I",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
