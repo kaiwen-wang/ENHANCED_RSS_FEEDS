@@ -1,5 +1,5 @@
 {
-  "date": "Monday, September 22, 2025 at 2:20 AM GMT-5",
+  "date": "Monday, September 22, 2025 at 3:25 AM GMT-5",
   "articles": [
     {
       "title": "@ts-ignore is almost always the worst option",
@@ -12,7 +12,7 @@
       "title": "NixCon 2025 Trip Report",
       "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 2
     },
     {
@@ -23,24 +23,24 @@
       "index": 3
     },
     {
+      "title": "Are XSLT stylesheets pure functions?",
+      "href": "/s/altuop/are_xslt_stylesheets_pure_functions",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 4
+    },
+    {
       "title": "Parsing Crusader Kings III data files to generate mods",
       "href": "https://wheybags.com/blog/ck3mods.html",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 4
+      "comments": "\n              2 comments",
+      "index": 5
     },
     {
       "title": "Less is safer: how Obsidian reduces the risk of supply chain attacks",
       "href": "https://obsidian.md/blog/less-is-safer/",
       "points": "",
-      "comments": "\n              18 comments",
-      "index": 5
-    },
-    {
-      "title": "Are XSLT stylesheets pure functions?",
-      "href": "/s/altuop/are_xslt_stylesheets_pure_functions",
-      "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              22 comments",
       "index": 6
     },
     {
@@ -51,24 +51,24 @@
       "index": 7
     },
     {
-      "title": "第四: a Japanese and Forth inspired postfix language",
-      "href": "https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 8
-    },
-    {
       "title": "Multikernel architecture proposed for Linux",
       "href": "https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 9
+      "comments": "\n              3 comments",
+      "index": 8
     },
     {
       "title": "My Hacking Simulator runs on a Cyberdeck",
       "href": "https://tiniuc.com/hacksim-on-cyberdeck/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
+      "index": 9
+    },
+    {
+      "title": "第四: a Japanese and Forth inspired postfix language",
+      "href": "https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 10
     },
     {
@@ -89,7 +89,7 @@
       "title": "Git: Introduce Rust and announce that it will become mandatory",
       "href": "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/",
       "points": "",
-      "comments": "\n              112 comments",
+      "comments": "\n              114 comments",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "A simulator significantly inspired by the first commercial transistor computer, the Metrovick 950",
-      "href": "https://git.sr.ht/~nkali/mv950toy",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 15
-    },
-    {
       "title": "Ephemeral Win11 testing VM for a few bucks per month",
       "href": "https://paretosecurity.com/blog/ephemeral-win11-testing-vm-for-a-few-bucks-per-month/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 16
+      "comments": "\n              4 comments",
+      "index": 15
     },
     {
       "title": "Storing Unwise Amounts of Data in JavaScript Bigints",
       "href": "https://jonathan-frere.com/posts/bigints-are-cool/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 17
+      "comments": "\n              1 comment",
+      "index": 16
     },
     {
-      "title": "self-reliant programmer manifesto",
-      "href": "https://yobibyte.github.io/self_reliant_programmer.html",
+      "title": "A simulator significantly inspired by the first commercial transistor computer, the Metrovick 950",
+      "href": "https://git.sr.ht/~nkali/mv950toy",
       "points": "",
-      "comments": "\n              35 comments",
-      "index": 18
+      "comments": "\n              2 comments",
+      "index": 17
     },
     {
       "title": "Sequoia: Rust OpenPGP implementation",
       "href": "https://gitlab.com/sequoia-pgp/sequoia",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 18
+    },
+    {
+      "title": "kernel: Introduce multikernel architecture support",
+      "href": "https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 19
     },
     {
-      "title": "Apple Silicon GPU support in Mojo",
-      "href": "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295",
+      "title": "self-reliant programmer manifesto",
+      "href": "https://yobibyte.github.io/self_reliant_programmer.html",
+      "points": "",
+      "comments": "\n              36 comments",
+      "index": 20
+    },
+    {
+      "title": "Under the hood: Vec<T>",
+      "href": "https://marma.dev/articles/2025/under-the-hood-vec-t",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "12 Git commands visualized in 3D: a spatial approach to understanding version control",
       "href": "https://www.youtube.com/watch?v=C2aFC8wFp2A",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "Apple Silicon GPU support in Mojo",
+      "href": "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Linux Kernel Runtime Guard (LKRG) 1.0",
       "href": "https://www.openwall.com/presentations/NullconBerlin2025-LKRG/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "9 Things Every Fresh Graduate Should Know About Software Performance",
       "href": "https://johnnysswlab.com/9-things-every-fresh-graduate-should-know-about-software-performance/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 23
-    },
-    {
-      "title": "IndiaFoss 2025 Video Livestream",
-      "href": "https://fossunited.org/indiafoss/livestream",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "CBFC Watch: Archive of film censorship in India",
-      "href": "https://cbfc.watch/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
