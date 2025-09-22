@@ -1,18 +1,18 @@
 {
-  "date": "Monday, September 22, 2025 at 9:20 AM GMT-5",
+  "date": "Monday, September 22, 2025 at 10:20 AM GMT-5",
   "articles": [
-    {
-      "title": "Under the hood: Vec<T>",
-      "href": "https://marma.dev/articles/2025/under-the-hood-vec-t",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 1
-    },
     {
       "title": "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
       "href": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              5 comments",
+      "index": 1
+    },
+    {
+      "title": "Under the hood: Vec<T>",
+      "href": "https://marma.dev/articles/2025/under-the-hood-vec-t",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 2
     },
     {
@@ -30,150 +30,150 @@
       "index": 4
     },
     {
+      "title": "Cloudflare is sponsoring Ladybird and Omarchy",
+      "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 5
+    },
+    {
+      "title": "Dear GitHub: no YAML anchors, please",
+      "href": "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 6
+    },
+    {
       "title": "I Once Appeared in The Old New Thing",
       "href": "https://mtlynch.io/my-old-new-thing-cameo/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 5
+      "index": 7
     },
     {
       "title": "Multikernel architecture proposed for Linux",
       "href": "https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 6
+      "index": 8
     },
     {
       "title": "NixCon 2025 Trip Report",
       "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 7
+      "index": 9
     },
     {
       "title": "Parsing Crusader Kings III data files to generate mods",
       "href": "https://wheybags.com/blog/ck3mods.html",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 8
+      "index": 10
+    },
+    {
+      "title": "Cap'n Web: a new RPC system for browsers and web servers",
+      "href": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 11
     },
     {
       "title": "Are XSLT stylesheets pure functions?",
       "href": "/s/altuop/are_xslt_stylesheets_pure_functions",
       "points": "",
-      "comments": "\n              16 comments",
-      "index": 9
+      "comments": "\n              17 comments",
+      "index": 12
     },
     {
       "title": "第四: a Japanese and Forth inspired postfix language",
       "href": "https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 13
     },
     {
-      "title": "DXGI debugging: Microsoft put me on a list",
-      "href": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
+      "title": "What are you doing this week?",
+      "href": "/s/zxxdp0/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 11
+      "comments": "\n              6 comments",
+      "index": 14
     },
     {
       "title": "Less is safer: how Obsidian reduces the risk of supply chain attacks",
       "href": "https://obsidian.md/blog/less-is-safer/",
       "points": "",
       "comments": "\n              27 comments",
-      "index": 12
+      "index": 15
+    },
+    {
+      "title": "DXGI debugging: Microsoft put me on a list",
+      "href": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 16
     },
     {
       "title": "Tips for Working with Legacy Code",
       "href": "https://www.esveo.com/en/blog/tips-for-working-with-legacy-code/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 17
     },
     {
       "title": "The free software commons",
       "href": "https://jenniferplusplus.com/the-free-software-commons/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/zxxdp0/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 15
+      "index": 18
     },
     {
       "title": "My Hacking Simulator runs on a Cyberdeck",
       "href": "https://tiniuc.com/hacksim-on-cyberdeck/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 16
+      "index": 19
     },
     {
       "title": "Linux Kernel Runtime Guard (LKRG) 1.0",
       "href": "https://www.openwall.com/presentations/NullconBerlin2025-LKRG/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
+      "index": 20
     },
     {
-      "title": "Cloudflare is sponsoring Ladybird and Omarchy",
-      "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
+      "title": "A long look at NetBSD 10.1",
+      "href": "https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Not a Robot",
-      "href": "https://neal.fun/not-a-robot/",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Storing Unwise Amounts of Data in JavaScript Bigints",
       "href": "https://jonathan-frere.com/posts/bigints-are-cool/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
-    },
-    {
-      "title": "Cap'n Web: a new RPC system for browsers and web servers",
-      "href": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Linkgraphs are fun",
-      "href": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 22
+    },
+    {
+      "title": "Not a Robot",
+      "href": "https://neal.fun/not-a-robot/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 23
     },
     {
       "title": "Apple Silicon GPU support in Mojo",
       "href": "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 23
-    },
-    {
-      "title": "Ephemeral Win11 testing VM for a few bucks per month",
-      "href": "https://paretosecurity.com/blog/ephemeral-win11-testing-vm-for-a-few-bucks-per-month/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 24
     },
     {
-      "title": "Diagram Chasing",
-      "href": "https://diagramchasing.fun",
+      "title": "Linkgraphs are fun",
+      "href": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 25
     }
   ]
