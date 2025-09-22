@@ -1,67 +1,67 @@
 {
-  "date": "Monday, September 22, 2025 at 6:15 AM GMT-5",
+  "date": "Monday, September 22, 2025 at 7:40 AM GMT-5",
   "articles": [
-    {
-      "title": "@ts-ignore is almost always the worst option",
-      "href": "https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 1
-    },
-    {
-      "title": "NixCon 2025 Trip Report",
-      "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 2
-    },
-    {
-      "title": "Multikernel architecture proposed for Linux",
-      "href": "https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 3
-    },
     {
       "title": "Under the hood: Vec<T>",
       "href": "https://marma.dev/articles/2025/under-the-hood-vec-t",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 4
-    },
-    {
-      "title": "I Once Appeared in The Old New Thing",
-      "href": "https://mtlynch.io/my-old-new-thing-cameo/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 5
-    },
-    {
-      "title": "Parsing Crusader Kings III data files to generate mods",
-      "href": "https://wheybags.com/blog/ck3mods.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 6
-    },
-    {
-      "title": "Are XSLT stylesheets pure functions?",
-      "href": "/s/altuop/are_xslt_stylesheets_pure_functions",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 7
+      "index": 1
     },
     {
       "title": "kernel: Introduce multikernel architecture support",
       "href": "https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
+      "index": 2
+    },
+    {
+      "title": "@ts-ignore is almost always the worst option",
+      "href": "https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 3
+    },
+    {
+      "title": "NixCon 2025 Trip Report",
+      "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 4
+    },
+    {
+      "title": "Multikernel architecture proposed for Linux",
+      "href": "https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 5
+    },
+    {
+      "title": "I Once Appeared in The Old New Thing",
+      "href": "https://mtlynch.io/my-old-new-thing-cameo/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 6
+    },
+    {
+      "title": "Parsing Crusader Kings III data files to generate mods",
+      "href": "https://wheybags.com/blog/ck3mods.html",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 7
+    },
+    {
+      "title": "Are XSLT stylesheets pure functions?",
+      "href": "/s/altuop/are_xslt_stylesheets_pure_functions",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 8
     },
     {
       "title": "Less is safer: how Obsidian reduces the risk of supply chain attacks",
       "href": "https://obsidian.md/blog/less-is-safer/",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              26 comments",
       "index": 9
     },
     {
@@ -72,15 +72,15 @@
       "index": 10
     },
     {
-      "title": "The free software commons",
-      "href": "https://jenniferplusplus.com/the-free-software-commons/",
+      "title": "第四: a Japanese and Forth inspired postfix language",
+      "href": "https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8",
       "points": "",
       "comments": "\n              no comments",
       "index": 11
     },
     {
-      "title": "第四: a Japanese and Forth inspired postfix language",
-      "href": "https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8",
+      "title": "The free software commons",
+      "href": "https://jenniferplusplus.com/the-free-software-commons/",
       "points": "",
       "comments": "\n              no comments",
       "index": 12
@@ -107,45 +107,45 @@
       "index": 15
     },
     {
+      "title": "Storing Unwise Amounts of Data in JavaScript Bigints",
+      "href": "https://jonathan-frere.com/posts/bigints-are-cool/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 16
+    },
+    {
       "title": "Linkgraphs are fun",
       "href": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Linux Kernel Runtime Guard (LKRG) 1.0",
       "href": "https://www.openwall.com/presentations/NullconBerlin2025-LKRG/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Ephemeral Win11 testing VM for a few bucks per month",
       "href": "https://paretosecurity.com/blog/ephemeral-win11-testing-vm-for-a-few-bucks-per-month/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Apple Silicon GPU support in Mojo",
       "href": "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
+      "comments": "\n              2 comments",
+      "index": 20
     },
     {
       "title": "Git: Introduce Rust and announce that it will become mandatory",
       "href": "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/",
       "points": "",
-      "comments": "\n              117 comments",
-      "index": 20
-    },
-    {
-      "title": "Storing Unwise Amounts of Data in JavaScript Bigints",
-      "href": "https://jonathan-frere.com/posts/bigints-are-cool/",
-      "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              119 comments",
       "index": 21
     },
     {
