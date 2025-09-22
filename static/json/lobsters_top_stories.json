@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, September 21, 2025 at 8:40 PM GMT-5",
+  "date": "Sunday, September 21, 2025 at 10:05 PM GMT-5",
   "articles": [
+    {
+      "title": "@ts-ignore is almost always the worst option",
+      "href": "https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 1
+    },
     {
       "title": "NixCon 2025 Trip Report",
       "href": "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 1
-    },
-    {
-      "title": "@ts-ignore is almost always the worst option",
-      "href": "https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 2
     },
     {
@@ -30,31 +30,31 @@
       "index": 4
     },
     {
-      "title": "DXGI debugging: Microsoft put me on a list",
-      "href": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
+      "title": "Parsing Crusader Kings III data files to generate mods",
+      "href": "https://wheybags.com/blog/ck3mods.html",
       "points": "",
       "comments": "\n              1 comment",
       "index": 5
     },
     {
-      "title": "Parsing Crusader Kings III data files to generate mods",
-      "href": "https://wheybags.com/blog/ck3mods.html",
+      "title": "DXGI debugging: Microsoft put me on a list",
+      "href": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 6
+    },
+    {
+      "title": "Are XSLT stylesheets pure functions?",
+      "href": "/s/altuop/are_xslt_stylesheets_pure_functions",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 7
     },
     {
       "title": "My Hacking Simulator runs on a Cyberdeck",
       "href": "https://tiniuc.com/hacksim-on-cyberdeck/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 7
-    },
-    {
-      "title": "Git: Introduce Rust and announce that it will become mandatory",
-      "href": "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/",
-      "points": "",
-      "comments": "\n              100 comments",
       "index": 8
     },
     {
@@ -65,15 +65,15 @@
       "index": 9
     },
     {
-      "title": "Linkgraphs are fun",
-      "href": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
+      "title": "Git: Introduce Rust and announce that it will become mandatory",
+      "href": "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              100 comments",
       "index": 10
     },
     {
-      "title": "Are XSLT stylesheets pure functions?",
-      "href": "/s/altuop/are_xslt_stylesheets_pure_functions",
+      "title": "Linkgraphs are fun",
+      "href": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
       "points": "",
       "comments": "\n              2 comments",
       "index": 11
@@ -107,31 +107,31 @@
       "index": 15
     },
     {
+      "title": "Sequoia: Rust OpenPGP implementation",
+      "href": "https://gitlab.com/sequoia-pgp/sequoia",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 16
+    },
+    {
       "title": "12 Git commands visualized in 3D: a spatial approach to understanding version control",
       "href": "https://www.youtube.com/watch?v=C2aFC8wFp2A",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
+      "index": 17
     },
     {
       "title": "The free software commons",
       "href": "https://jenniferplusplus.com/the-free-software-commons/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Sequoia: Rust OpenPGP implementation",
-      "href": "https://gitlab.com/sequoia-pgp/sequoia",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 18
     },
     {
       "title": "9 Things Every Fresh Graduate Should Know About Software Performance",
       "href": "https://johnnysswlab.com/9-things-every-fresh-graduate-should-know-about-software-performance/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 19
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Multikernel architecture proposed for Linux",
+      "href": "https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "Understanding Apple Debug Info",
       "href": "https://www.smileykeith.com/2025/09/21/understanding-apple-debug-info/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Microstacks or megadependencies over at Webdevcon 2025",
       "href": "https://berthub.eu/articles/posts/microstacks-or-megadependencies-webdev/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "The Napkin project",
       "href": "https://web.evanchen.cc/napkin.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "Kernel Security in the Wild: Side-Channel-Assisted Exploit Techniques, Kernel-Level Defenses, and Real-World Analysis",
-      "href": "https://tugraz.elsevierpure.com/ws/portalfiles/portal/98775241/main.pdf",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
