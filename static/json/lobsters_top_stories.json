@@ -1,18 +1,18 @@
 {
-  "date": "Monday, September 22, 2025 at 6:15 PM GMT-5",
+  "date": "Monday, September 22, 2025 at 8:25 PM GMT-5",
   "articles": [
     {
       "title": "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
       "href": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
       "points": "",
-      "comments": "\n              44 comments",
+      "comments": "\n              47 comments",
       "index": 1
     },
     {
       "title": "Cloudflare is sponsoring Ladybird and Omarchy",
       "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
       "points": "",
-      "comments": "\n              33 comments",
+      "comments": "\n              34 comments",
       "index": 2
     },
     {
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
+      "title": "Libghostty Is Coming",
+      "href": "https://mitchellh.com/writing/libghostty-is-coming",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 5
+    },
+    {
       "title": "Memory Allocation in Go",
       "href": "https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Under the hood: Vec<T>",
       "href": "https://marma.dev/articles/2025/under-the-hood-vec-t",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 6
-    },
-    {
-      "title": "Testing is better than Data Structures and Algorithms",
-      "href": "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 7
     },
     {
@@ -58,31 +58,31 @@
       "index": 8
     },
     {
-      "title": "kernel: Introduce multikernel architecture support",
-      "href": "https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/",
+      "title": "Testing is better than Data Structures and Algorithms",
+      "href": "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              8 comments",
       "index": 9
-    },
-    {
-      "title": "Steve Jobs, Jef Raskin, and the first great war for your thumbs",
-      "href": "https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 10
-    },
-    {
-      "title": "Libghostty Is Coming",
-      "href": "https://mitchellh.com/writing/libghostty-is-coming",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 11
     },
     {
       "title": "A long look at NetBSD 10.1",
       "href": "https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
+      "index": 10
+    },
+    {
+      "title": "Steve Jobs, Jef Raskin, and the first great war for your thumbs (2023)",
+      "href": "https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 11
+    },
+    {
+      "title": "kernel: Introduce multikernel architecture support",
+      "href": "https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 12
     },
     {
@@ -96,7 +96,7 @@
       "title": "What are you doing this week?",
       "href": "/s/zxxdp0/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              15 comments",
       "index": 14
     },
     {
@@ -107,24 +107,24 @@
       "index": 15
     },
     {
+      "title": "aposd-vs-clean-code: A discussion between John Ousterhout and Robert Martin",
+      "href": "https://github.com/johnousterhout/aposd-vs-clean-code",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
       "title": "@ts-ignore is almost always the worst option",
       "href": "https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Multikernel architecture proposed for Linux",
       "href": "https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 17
-    },
-    {
-      "title": "aposd-vs-clean-code: A discussion between John Ousterhout and Robert Martin",
-      "href": "https://github.com/johnousterhout/aposd-vs-clean-code",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 18
     },
     {
@@ -135,17 +135,17 @@
       "index": 19
     },
     {
+      "title": "Are XSLT stylesheets pure functions?",
+      "href": "/s/altuop/are_xslt_stylesheets_pure_functions",
+      "points": "",
+      "comments": "\n              20 comments",
+      "index": 20
+    },
+    {
       "title": "第四: a Japanese and Forth inspired postfix language",
       "href": "https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 20
-    },
-    {
-      "title": "Are XSLT stylesheets pure functions?",
-      "href": "/s/altuop/are_xslt_stylesheets_pure_functions",
-      "points": "",
-      "comments": "\n              19 comments",
       "index": 21
     },
     {
