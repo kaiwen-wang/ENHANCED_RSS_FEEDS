@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, September 23, 2025 at 6:15 AM GMT-5",
+  "date": "Tuesday, September 23, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "Imagining a Language without Booleans",
       "href": "https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
@@ -16,24 +16,24 @@
       "index": 2
     },
     {
+      "title": "Crypto Miner in hotio/qbittorrent",
+      "href": "https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 3
+    },
+    {
       "title": "Libghostty Is Coming",
       "href": "https://mitchellh.com/writing/libghostty-is-coming",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "AI-Generated “Workslop” Is Destroying Productivity",
       "href": "https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 4
-    },
-    {
-      "title": "Cloudflare is sponsoring Ladybird and Omarchy",
-      "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
-      "points": "",
-      "comments": "\n              44 comments",
       "index": 5
     },
     {
@@ -44,31 +44,31 @@
       "index": 6
     },
     {
-      "title": "Cap'n Web: a new RPC system for browsers and web servers",
-      "href": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
+      "title": "Cloudflare is sponsoring Ladybird and Omarchy",
+      "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              46 comments",
       "index": 7
     },
     {
-      "title": "Memory Allocation in Go",
-      "href": "https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html",
+      "title": "Cap'n Web: a new RPC system for browsers and web servers",
+      "href": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              18 comments",
       "index": 8
     },
     {
       "title": "Dear GitHub: no YAML anchors, please",
       "href": "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              11 comments",
       "index": 9
     },
     {
-      "title": "Crypto Miner in hotio/qbittorrent",
-      "href": "https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/",
+      "title": "Memory Allocation in Go",
+      "href": "https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
       "index": 10
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
-      "title": "Some observations concerning large programming efforts (1964)",
-      "href": "https://dl.acm.org/doi/10.1145/1464122.1464146",
+      "title": "Lark 1.3.0 - Introduces text-slices, Earley fix, and various small improvements",
+      "href": "https://github.com/lark-parser/lark/releases/tag/1.3.0",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 14
-    },
-    {
-      "title": "A long look at NetBSD 10.1",
-      "href": "https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 15
     },
     {
       "title": "Altoids by the Fistful",
       "href": "https://www.scottsmitelli.com/articles/altoids-by-the-fistful/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
+      "index": 15
+    },
+    {
+      "title": "Some observations concerning large programming efforts (1964)",
+      "href": "https://dl.acm.org/doi/10.1145/1464122.1464146",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 16
+    },
+    {
+      "title": "A long look at NetBSD 10.1",
+      "href": "https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 17
     },
     {
       "title": "Steve Jobs, Jef Raskin, and the first great war for your thumbs (2023)",
       "href": "https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "kernel: Introduce multikernel architecture support",
       "href": "https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 18
+      "index": 19
+    },
+    {
+      "title": "Go has added Valgrind support",
+      "href": "https://go-review.googlesource.com/c/go/+/674077",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "The FLP theorem",
       "href": "https://shachaf.net/w/flp",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/zxxdp0/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              17 comments",
-      "index": 20
+      "comments": "\n              18 comments",
+      "index": 22
     },
     {
       "title": "aposd-vs-clean-code: A discussion between John Ousterhout and Robert Martin",
       "href": "https://github.com/johnousterhout/aposd-vs-clean-code",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Multikernel architecture proposed for Linux",
       "href": "https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "@ts-ignore is almost always the worst option",
       "href": "https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 23
-    },
-    {
-      "title": "第四: a Japanese and Forth inspired postfix language",
-      "href": "https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 24
-    },
-    {
-      "title": "Are XSLT stylesheets pure functions?",
-      "href": "/s/altuop/are_xslt_stylesheets_pure_functions",
-      "points": "",
-      "comments": "\n              20 comments",
       "index": 25
     }
   ]
