@@ -1,214 +1,214 @@
 {
-  "date": "Tuesday, September 23, 2025 at 5:15 PM GMT-5",
+  "date": "Tuesday, September 23, 2025 at 6:15 PM GMT-5",
   "articles": [
-    {
-      "title": "I can't stay after what Ruby Central did",
-      "href": "https://gist.github.com/simi/349d881d16d3d86947945615a47c60ca",
-      "points": "135 points",
-      "comments": "63 comments",
-      "index": 1
-    },
     {
       "title": "Find SF parking cops",
       "href": "https://walzr.com/sf-parking/",
-      "points": "400 points",
-      "comments": "238 comments",
-      "index": 2
+      "points": "454 points",
+      "comments": "268 comments",
+      "index": 1
     },
     {
       "title": "Libghostty is coming",
       "href": "https://mitchellh.com/writing/libghostty-is-coming",
-      "points": "433 points",
-      "comments": "122 comments",
+      "points": "469 points",
+      "comments": "134 comments",
+      "index": 2
+    },
+    {
+      "title": "From Rust to reality: The hidden journey of fetch_max",
+      "href": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
+      "points": "48 points",
+      "comments": "6 comments",
       "index": 3
     },
     {
       "title": "Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action",
       "href": "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list",
-      "points": "51 points",
-      "comments": "4 comments",
+      "points": "85 points",
+      "comments": "17 comments",
       "index": 4
-    },
-    {
-      "title": "From Rust to Reality: The Hidden Journey of Fetch_max",
-      "href": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
-      "points": "19 points",
-      "comments": "3 comments",
-      "index": 5
     },
     {
       "title": "Markov chains are the original language models",
       "href": "https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models",
-      "points": "191 points",
-      "comments": "88 comments",
-      "index": 6
+      "points": "214 points",
+      "comments": "91 comments",
+      "index": 5
     },
     {
-      "title": "Privacy Commissioners find TikTok collected sensitive data from children",
-      "href": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/",
-      "points": "45 points",
-      "comments": "16 comments",
-      "index": 7
+      "title": "YouTube says it'll bring back creators banned for Covid and election content",
+      "href": "https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9",
+      "points": "147 points",
+      "comments": "184 comments",
+      "index": 6
     },
     {
       "title": "Getting AI to work in complex codebases",
       "href": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md",
-      "points": "154 points",
-      "comments": "169 comments",
+      "points": "177 points",
+      "comments": "191 comments",
+      "index": 7
+    },
+    {
+      "title": "Kitty – GPU based terminal emulator",
+      "href": "https://sw.kovidgoyal.net/kitty/",
+      "points": "14 points",
+      "comments": "5 comments",
       "index": 8
-    },
-    {
-      "title": "Is life a form of computation?",
-      "href": "https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/",
-      "points": "23 points",
-      "comments": "23 comments",
-      "index": 9
-    },
-    {
-      "title": "Apple A19 SoC die shot",
-      "href": "https://chipwise.tech/our-portfolio/apple-a19-dieshot/",
-      "points": "52 points",
-      "comments": "23 comments",
-      "index": 10
-    },
-    {
-      "title": "YouTube will let users booted for violations of COVID, elections policies rejoin",
-      "href": "https://www.offthepress.com/youtube-will-let-users-booted-for-repeated-violations-of-covid-elections-policies-rejoin/",
-      "points": "94 points",
-      "comments": "72 comments",
-      "index": 11
-    },
-    {
-      "title": "How to draw construction equipment for kids",
-      "href": "https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment",
-      "points": "57 points",
-      "comments": "28 comments",
-      "index": 12
     },
     {
       "title": "Go has added Valgrind support",
       "href": "https://go-review.googlesource.com/c/go/+/674077",
-      "points": "438 points",
-      "comments": "111 comments",
-      "index": 13
+      "points": "449 points",
+      "comments": "118 comments",
+      "index": 9
     },
     {
-      "title": "Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools",
-      "href": "item?id=45347914",
-      "points": "106 points",
-      "comments": "58 comments",
-      "index": 14
-    },
-    {
-      "title": "Show HN: Ggc – A Git CLI tool written in Go with interactive UI",
-      "href": "https://github.com/bmf-san/ggc/releases/tag/v6.0.0",
-      "points": "8 points",
+      "title": "Podman Desktop celebrates 3M downloads",
+      "href": "https://podman-desktop.io/blog/3-million",
+      "points": "18 points",
       "comments": "discuss",
-      "index": 15
+      "index": 10
     },
     {
-      "title": "Is Fortran better than Python for teaching basics of numerical linear algebra?",
-      "href": "https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html",
-      "points": "27 points",
-      "comments": "27 comments",
-      "index": 16
-    },
-    {
-      "title": "From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more",
-      "href": "https://verialabs.com/blog/from-mcp-to-shell/",
-      "points": "102 points",
-      "comments": "30 comments",
-      "index": 17
-    },
-    {
-      "title": "Always Invite Anna",
-      "href": "https://sharif.io/anna-alexei",
-      "points": "502 points",
-      "comments": "42 comments",
-      "index": 18
+      "title": "How to draw construction equipment for kids",
+      "href": "https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment",
+      "points": "66 points",
+      "comments": "29 comments",
+      "index": 11
     },
     {
       "title": "Context Engineering for AI Agents: Lessons",
       "href": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
-      "points": "7 points",
+      "points": "21 points",
+      "comments": "1 comment",
+      "index": 12
+    },
+    {
+      "title": "Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools",
+      "href": "item?id=45347914",
+      "points": "110 points",
+      "comments": "58 comments",
+      "index": 13
+    },
+    {
+      "title": "Is Fortran better than Python for teaching basics of numerical linear algebra?",
+      "href": "https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html",
+      "points": "32 points",
+      "comments": "33 comments",
+      "index": 14
+    },
+    {
+      "title": "From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more",
+      "href": "https://verialabs.com/blog/from-mcp-to-shell/",
+      "points": "108 points",
+      "comments": "30 comments",
+      "index": 15
+    },
+    {
+      "title": "Always Invite Anna",
+      "href": "https://sharif.io/anna-alexei",
+      "points": "541 points",
+      "comments": "50 comments",
+      "index": 16
+    },
+    {
+      "title": "Apple A19 SoC die shot",
+      "href": "https://chipwise.tech/our-portfolio/apple-a19-dieshot/",
+      "points": "58 points",
+      "comments": "27 comments",
+      "index": 17
+    },
+    {
+      "title": "Show HN: Ggc – A Git CLI tool written in Go with interactive UI",
+      "href": "https://github.com/bmf-san/ggc/releases/tag/v6.0.0",
+      "points": "12 points",
       "comments": "discuss",
+      "index": 18
+    },
+    {
+      "title": "Is life a form of computation?",
+      "href": "https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/",
+      "points": "43 points",
+      "comments": "40 comments",
       "index": 19
     },
     {
       "title": "consumed.today",
       "href": "https://consumed.today/",
-      "points": "116 points",
-      "comments": "26 comments",
+      "points": "133 points",
+      "comments": "27 comments",
       "index": 20
+    },
+    {
+      "title": "Mesh: I tried Htmx, then ditched it",
+      "href": "https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it",
+      "points": "157 points",
+      "comments": "103 comments",
+      "index": 21
     },
     {
       "title": "Denmark wants to push through Chat Control",
       "href": "https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/",
-      "points": "153 points",
-      "comments": "63 comments",
-      "index": 21
-    },
-    {
-      "title": "Preventing IoT Edge Device Cloning",
-      "href": "https://www.embedded.com/preventing-iot-device-cloning/",
-      "points": "4 points",
-      "comments": "2 comments",
+      "points": "175 points",
+      "comments": "83 comments",
       "index": 22
     },
     {
       "title": "Triple Buffering in Rendering APIs",
       "href": "https://www.4rknova.com//blog/2025/09/12/triple-buffering",
-      "points": "17 points",
+      "points": "19 points",
       "comments": "1 comment",
       "index": 23
     },
     {
-      "title": "Zip Code Map of the United States",
-      "href": "https://engaging-data.com/us-zip-code-map/",
-      "points": "77 points",
-      "comments": "75 comments",
+      "title": "Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover",
+      "href": "https://joel.drapper.me/p/rubygems-takeover/",
+      "points": "389 points",
+      "comments": "248 comments",
       "index": 24
     },
     {
-      "title": "Mesh: I tried Htmx, then ditched it",
-      "href": "https://ajmoon.com/posts/mesh-i-tried-htmx-then-ditched-it",
-      "points": "145 points",
-      "comments": "97 comments",
+      "title": "Zip Code Map of the United States",
+      "href": "https://engaging-data.com/us-zip-code-map/",
+      "points": "80 points",
+      "comments": "82 comments",
       "index": 25
     },
     {
       "title": "Android users can now use conversational editing in Google Photos",
       "href": "https://blog.google/products/photos/android-conversational-editing-google-photos/",
-      "points": "108 points",
-      "comments": "101 comments",
+      "points": "113 points",
+      "comments": "104 comments",
       "index": 26
+    },
+    {
+      "title": "Getting More Strategic",
+      "href": "https://cate.blog/2025/09/23/getting-more-strategic/",
+      "points": "145 points",
+      "comments": "20 comments",
+      "index": 27
     },
     {
       "title": "Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC)",
       "href": "https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084",
       "points": "",
       "comments": "hide",
-      "index": 27
-    },
-    {
-      "title": "Getting More Strategic",
-      "href": "https://cate.blog/2025/09/23/getting-more-strategic/",
-      "points": "141 points",
-      "comments": "20 comments",
       "index": 28
     },
     {
-      "title": "Structured Outputs in LLMs",
-      "href": "https://parthsareen.com/blog.html#sampling.md",
-      "points": "189 points",
-      "comments": "83 comments",
+      "title": "Show HN: The Blots Programming Language",
+      "href": "https://blots-lang.org/",
+      "points": "31 points",
+      "comments": "9 comments",
       "index": 29
     },
     {
-      "title": "Thundering herd problem: Preventing the stampede",
-      "href": "https://distributed-computing-musings.com/2025/08/thundering-herd-problem-preventing-the-stampede/",
-      "points": "30 points",
-      "comments": "16 comments",
+      "title": "Privacy Commissioners find TikTok collected sensitive data from children",
+      "href": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/",
+      "points": "61 points",
+      "comments": "19 comments",
       "index": 30
     }
   ]
