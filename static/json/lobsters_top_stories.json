@@ -1,32 +1,32 @@
 {
-  "date": "Tuesday, September 23, 2025 at 7:40 AM GMT-5",
+  "date": "Tuesday, September 23, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "Imagining a Language without Booleans",
       "href": "https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              15 comments",
       "index": 1
-    },
-    {
-      "title": "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
-      "href": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
-      "points": "",
-      "comments": "\n              58 comments",
-      "index": 2
     },
     {
       "title": "Crypto Miner in hotio/qbittorrent",
       "href": "https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
+      "index": 2
+    },
+    {
+      "title": "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
+      "href": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
+      "points": "",
+      "comments": "\n              60 comments",
       "index": 3
     },
     {
       "title": "Libghostty Is Coming",
       "href": "https://mitchellh.com/writing/libghostty-is-coming",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              10 comments",
       "index": 4
     },
     {
@@ -47,7 +47,7 @@
       "title": "Cloudflare is sponsoring Ladybird and Omarchy",
       "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
       "points": "",
-      "comments": "\n              46 comments",
+      "comments": "\n              47 comments",
       "index": 7
     },
     {
@@ -79,66 +79,66 @@
       "index": 11
     },
     {
+      "title": "Go has added Valgrind support",
+      "href": "https://go-review.googlesource.com/c/go/+/674077",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
       "title": "Testing is better than Data Structures and Algorithms",
       "href": "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 12
-    },
-    {
-      "title": "Under the hood: Vec<T>",
-      "href": "https://marma.dev/articles/2025/under-the-hood-vec-t",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 13
-    },
-    {
-      "title": "Lark 1.3.0 - Introduces text-slices, Earley fix, and various small improvements",
-      "href": "https://github.com/lark-parser/lark/releases/tag/1.3.0",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
     },
     {
       "title": "Altoids by the Fistful",
       "href": "https://www.scottsmitelli.com/articles/altoids-by-the-fistful/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 14
+    },
+    {
+      "title": "Under the hood: Vec<T>",
+      "href": "https://marma.dev/articles/2025/under-the-hood-vec-t",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 15
+    },
+    {
+      "title": "Lark 1.3.0 - Introduces text-slices, Earley fix, and various small improvements",
+      "href": "https://github.com/lark-parser/lark/releases/tag/1.3.0",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
     },
     {
       "title": "Some observations concerning large programming efforts (1964)",
       "href": "https://dl.acm.org/doi/10.1145/1464122.1464146",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "A long look at NetBSD 10.1",
       "href": "https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Steve Jobs, Jef Raskin, and the first great war for your thumbs (2023)",
       "href": "https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "kernel: Introduce multikernel architecture support",
       "href": "https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 19
-    },
-    {
-      "title": "Go has added Valgrind support",
-      "href": "https://go-review.googlesource.com/c/go/+/674077",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 20
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
+      "title": "Exploring GrapheneOS secure allocator: Hardened Malloc",
+      "href": "https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
+    },
+    {
       "title": "Multikernel architecture proposed for Linux",
       "href": "https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 24
-    },
-    {
-      "title": "@ts-ignore is almost always the worst option",
-      "href": "https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/",
-      "points": "",
-      "comments": "\n              9 comments",
       "index": 25
     }
   ]
