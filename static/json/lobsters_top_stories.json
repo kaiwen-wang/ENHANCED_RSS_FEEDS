@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, September 24, 2025 at 8:30 AM GMT-5",
+  "date": "Wednesday, September 24, 2025 at 9:15 AM GMT-5",
   "articles": [
     {
       "title": "Should Neovim support transitive plugin dependencies?",
       "href": "https://sink.io/jmk/neovim-plugin-deps/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              15 comments",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "Google continues to invest 350k in the Rust ecosystem",
       "href": "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 3
     },
     {
@@ -107,38 +107,38 @@
       "index": 15
     },
     {
-      "title": "Using DNS for responding to ACME challenges",
-      "href": "https://hsm.tunnel53.net/article/dns-for-acme-challenges/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 16
-    },
-    {
       "title": "Moving fast in hardware: how the iPod shipped in 6 months",
       "href": "https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Using DNS for responding to ACME challenges",
+      "href": "https://hsm.tunnel53.net/article/dns-for-acme-challenges/",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 17
+    },
+    {
+      "title": "Software substrates: should there be only one?",
+      "href": "https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "pixi global: now with desktop shortcuts and CLI autocompletions",
+      "href": "https://prefix.dev/blog/using-pixi-as-a-system-package-manager-with-shortcuts-and-completions",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "Libghostty Is Coming",
       "href": "https://mitchellh.com/writing/libghostty-is-coming",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 18
-    },
-    {
-      "title": "Wild Linker Update - 0.6.0",
-      "href": "https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Walking around the compiler",
-      "href": "https://bernsteinbear.com/blog/walking-around/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Wild Linker Update - 0.6.0",
+      "href": "https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Walking around the compiler",
+      "href": "https://bernsteinbear.com/blog/walking-around/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
       "title": "Preemption in Go (2021)",
       "href": "https://hidetatz.github.io/goroutine_preemption/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Confidential Computing with OpenBSD",
       "href": "https://toobnix.org/w/v7xpcN8MyouxGTnwYt35WM",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "pixi global: now with desktop shortcuts and CLI autocompletions",
-      "href": "https://prefix.dev/blog/using-pixi-as-a-system-package-manager-with-shortcuts-and-completions",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "AI-Generated “Workslop” Is Destroying Productivity",
-      "href": "https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity",
-      "points": "",
-      "comments": "\n              19 comments",
       "index": 25
     }
   ]
