@@ -1,25 +1,25 @@
 {
-  "date": "Wednesday, September 24, 2025 at 7:40 AM GMT-5",
+  "date": "Wednesday, September 24, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "Should Neovim support transitive plugin dependencies?",
       "href": "https://sink.io/jmk/neovim-plugin-deps/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 1
     },
     {
       "title": "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
       "href": "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 2
     },
     {
       "title": "Google continues to invest 350k in the Rust ecosystem",
       "href": "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 3
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
+      "title": "Benjamin Button Reviews macOS",
+      "href": "https://rakhim.exotext.com/benjamin-button-reviews-macos",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 7
+    },
+    {
       "title": "Fifty Years of Open Source Software Supply-Chain Security",
       "href": "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 7
-    },
-    {
-      "title": "Benjamin Button Reviews macOS",
-      "href": "https://rakhim.exotext.com/benjamin-button-reviews-macos",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 8
     },
     {
@@ -65,17 +65,17 @@
       "index": 9
     },
     {
-      "title": "Imagining a Language without Booleans",
-      "href": "https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html",
-      "points": "",
-      "comments": "\n              37 comments",
-      "index": 10
-    },
-    {
       "title": "From Rust to Reality: The Hidden Journey of fetch_max",
       "href": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "Imagining a Language without Booleans",
+      "href": "https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html",
+      "points": "",
+      "comments": "\n              37 comments",
       "index": 11
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
+      "title": "Grammar induction",
+      "href": "https://en.wikipedia.org/wiki/Grammar_induction",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
       "title": "Our plan for a more secure npm supply chain",
       "href": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 14
+      "comments": "\n              8 comments",
+      "index": 15
     },
     {
       "title": "Using DNS for responding to ACME challenges",
       "href": "https://hsm.tunnel53.net/article/dns-for-acme-challenges/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Moving fast in hardware: how the iPod shipped in 6 months",
       "href": "https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Libghostty Is Coming",
       "href": "https://mitchellh.com/writing/libghostty-is-coming",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 17
-    },
-    {
-      "title": "Walking around the compiler",
-      "href": "https://bernsteinbear.com/blog/walking-around/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 18
-    },
-    {
-      "title": "What if Humanity forgot how to make CPUs?",
-      "href": "https://www.youtube.com/watch?v=L2OJFqs8bUk",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
     },
     {
       "title": "Wild Linker Update - 0.6.0",
       "href": "https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Walking around the compiler",
+      "href": "https://bernsteinbear.com/blog/walking-around/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 20
+    },
+    {
+      "title": "What if Humanity forgot how to make CPUs?",
+      "href": "https://www.youtube.com/watch?v=L2OJFqs8bUk",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
     },
     {
       "title": "Preemption in Go (2021)",
       "href": "https://hidetatz.github.io/goroutine_preemption/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 21
+      "comments": "\n              7 comments",
+      "index": 22
     },
     {
       "title": "Confidential Computing with OpenBSD",
       "href": "https://toobnix.org/w/v7xpcN8MyouxGTnwYt35WM",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "pixi global: now with desktop shortcuts and CLI autocompletions",
+      "href": "https://prefix.dev/blog/using-pixi-as-a-system-package-manager-with-shortcuts-and-completions",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "AI-Generated “Workslop” Is Destroying Productivity",
       "href": "https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 23
-    },
-    {
-      "title": "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
-      "href": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
-      "points": "",
-      "comments": "\n              64 comments",
-      "index": 24
-    },
-    {
-      "title": "Grammar induction",
-      "href": "https://en.wikipedia.org/wiki/Grammar_induction",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
