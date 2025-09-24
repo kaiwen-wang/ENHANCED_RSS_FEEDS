@@ -1,46 +1,46 @@
 {
-  "date": "Wednesday, September 24, 2025 at 4:20 AM GMT-5",
+  "date": "Wednesday, September 24, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
       "title": "Should Neovim support transitive plugin dependencies?",
       "href": "https://sink.io/jmk/neovim-plugin-deps/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
       "title": "Google continues to invest 350k in the Rust ecosystem",
       "href": "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 2
     },
     {
       "title": "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
       "href": "https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              19 comments",
       "index": 3
     },
     {
       "title": "Crypto Miner in hotio/qbittorrent",
       "href": "https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 4
-    },
-    {
-      "title": "Fifty Years of Open Source Software Supply-Chain Security",
-      "href": "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 5
     },
     {
       "title": "AI is impressive because we’ve failed at semantic web and personal computing",
       "href": "https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 5
+    },
+    {
+      "title": "Fifty Years of Open Source Software Supply-Chain Security",
+      "href": "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 6
     },
     {
@@ -54,42 +54,42 @@
       "title": "Benjamin Button Reviews macOS",
       "href": "https://rakhim.exotext.com/benjamin-button-reviews-macos",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 8
     },
     {
       "title": "Imagining a Language without Booleans",
       "href": "https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html",
       "points": "",
-      "comments": "\n              36 comments",
+      "comments": "\n              37 comments",
       "index": 9
+    },
+    {
+      "title": "The 128-Language Quine Relay (2018)",
+      "href": "https://esoteric.codes/blog/the-128-language-quine-relay",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 10
     },
     {
       "title": "Our plan for a more secure npm supply chain",
       "href": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 10
-    },
-    {
-      "title": "ZubanLS: A Mypy-compatible Python Language Server built in Rust",
-      "href": "https://zubanls.com/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 11
-    },
-    {
-      "title": "The 128-Language Quine Relay (2018)",
-      "href": "https://esoteric.codes/blog/the-128-language-quine-relay",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 12
     },
     {
       "title": "From Rust to Reality: The Hidden Journey of fetch_max",
       "href": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "ZubanLS: A Mypy-compatible Python Language Server built in Rust",
+      "href": "https://zubanls.com/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 13
     },
     {
@@ -114,8 +114,8 @@
       "index": 16
     },
     {
-      "title": "What if Humanity forgot how to make CPUs?",
-      "href": "https://www.youtube.com/watch?v=L2OJFqs8bUk",
+      "title": "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
+      "href": "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
       "points": "",
       "comments": "\n              no comments",
       "index": 17
@@ -128,50 +128,50 @@
       "index": 18
     },
     {
-      "title": "Preemption in Go (2021)",
-      "href": "https://hidetatz.github.io/goroutine_preemption/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 19
-    },
-    {
       "title": "Moving fast in hardware: how the iPod shipped in 6 months",
       "href": "https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "What if Humanity forgot how to make CPUs?",
+      "href": "https://www.youtube.com/watch?v=L2OJFqs8bUk",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 20
+    },
+    {
+      "title": "Preemption in Go (2021)",
+      "href": "https://hidetatz.github.io/goroutine_preemption/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 21
     },
     {
       "title": "Confidential Computing with OpenBSD",
       "href": "https://toobnix.org/w/v7xpcN8MyouxGTnwYt35WM",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "AI-Generated “Workslop” Is Destroying Productivity",
       "href": "https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
       "href": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
       "points": "",
       "comments": "\n              64 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "VBARE: A simple alternative to Protobuf & Cap'n Proto for schema evolution",
       "href": "https://www.rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Apples, Trees, and Quasimodes",
-      "href": "https://systemstack.dev/2025/09/humane-computing/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
