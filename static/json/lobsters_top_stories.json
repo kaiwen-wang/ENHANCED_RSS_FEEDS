@@ -1,39 +1,39 @@
 {
-  "date": "Wednesday, September 24, 2025 at 4:15 PM GMT-5",
+  "date": "Wednesday, September 24, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "Don't even consider starting with Microsoft",
       "href": "https://lionelbarrow.substack.com/p/dont-even-consider-starting-with",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              24 comments",
       "index": 1
-    },
-    {
-      "title": "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
-      "href": "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 2
     },
     {
       "title": "Temporal_rs is here! The datetime library powering Temporal in Boa, Kiesel, and V8",
       "href": "https://boajs.dev/blog/2025/09/24/temporal-release",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 3
+      "comments": "\n              8 comments",
+      "index": 2
     },
     {
-      "title": "Should Neovim support transitive plugin dependencies?",
-      "href": "https://sink.io/jmk/neovim-plugin-deps/",
+      "title": "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
+      "href": "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
       "points": "",
-      "comments": "\n              21 comments",
-      "index": 4
+      "comments": "\n              9 comments",
+      "index": 3
     },
     {
       "title": "JRuby and JDK 25: Startup Time with AOTCache",
       "href": "https://blog.headius.com/2025/09/jruby-jdk25-startup-time-with-aotcache.html",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 4
+    },
+    {
+      "title": "Should Neovim support transitive plugin dependencies?",
+      "href": "https://sink.io/jmk/neovim-plugin-deps/",
+      "points": "",
+      "comments": "\n              22 comments",
       "index": 5
     },
     {
@@ -47,42 +47,42 @@
       "title": "Google continues to invest 350k in the Rust ecosystem",
       "href": "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              14 comments",
       "index": 7
-    },
-    {
-      "title": "Engineering a fixed-width bit-packed Integer Vector in Rust",
-      "href": "https://lukefleed.xyz/posts/compressed-fixedvec/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 8
     },
     {
       "title": "crates.io: Malicious crates faster_log and async_println",
       "href": "https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 8
+    },
+    {
+      "title": "PHP: a fractal of bad design (2012)",
+      "href": "https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 9
+    },
+    {
+      "title": "Engineering a fixed-width bit-packed Integer Vector in Rust",
+      "href": "https://lukefleed.xyz/posts/compressed-fixedvec/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 10
     },
     {
       "title": "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
       "href": "https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/",
       "points": "",
       "comments": "\n              27 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Software substrates: should there be only one?",
       "href": "https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "PHP: a fractal of bad design (2012)",
-      "href": "https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 12
     },
     {
@@ -93,10 +93,10 @@
       "index": 13
     },
     {
-      "title": "Crypto Miner in hotio/qbittorrent",
-      "href": "https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/",
+      "title": "Realtime Raytracing in Bevy 0.17 (Solari)",
+      "href": "https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              no comments",
       "index": 14
     },
     {
@@ -107,24 +107,24 @@
       "index": 15
     },
     {
-      "title": "Realtime Raytracing in Bevy 0.17 (Solari)",
-      "href": "https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/",
+      "title": "Crypto Miner in hotio/qbittorrent",
+      "href": "https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              18 comments",
       "index": 16
-    },
-    {
-      "title": "Fifty Years of Open Source Software Supply-Chain Security",
-      "href": "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 17
     },
     {
       "title": "From Rust to Reality: The Hidden Journey of fetch_max",
       "href": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Fifty Years of Open Source Software Supply-Chain Security",
+      "href": "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 18
     },
     {
@@ -149,29 +149,29 @@
       "index": 21
     },
     {
-      "title": "Unlocking Performance in Python's Free-Threaded Future: GC Optimizations",
-      "href": "https://labs.quansight.org/blog/free-threaded-gc-3-14",
+      "title": "The Growth of the Swift Server Ecosystem",
+      "href": "https://www.swift.org/blog/swift-on-the-server-ecosystem/",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
     },
     {
-      "title": "Grammar induction",
-      "href": "https://en.wikipedia.org/wiki/Grammar_induction",
+      "title": "Unlocking Performance in Python's Free-Threaded Future: GC Optimizations",
+      "href": "https://labs.quansight.org/blog/free-threaded-gc-3-14",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 23
-    },
-    {
-      "title": "The 128-Language Quine Relay (2018)",
-      "href": "https://esoteric.codes/blog/the-128-language-quine-relay",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 24
     },
     {
       "title": "VBARE: A simple alternative to Protobuf & Cap'n Proto for schema evolution",
       "href": "https://www.rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 24
+    },
+    {
+      "title": "Grammar induction",
+      "href": "https://en.wikipedia.org/wiki/Grammar_induction",
       "points": "",
       "comments": "\n              1 comment",
       "index": 25
