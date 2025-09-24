@@ -1,46 +1,46 @@
 {
-  "date": "Wednesday, September 24, 2025 at 6:15 AM GMT-5",
+  "date": "Wednesday, September 24, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "Should Neovim support transitive plugin dependencies?",
       "href": "https://sink.io/jmk/neovim-plugin-deps/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 1
+    },
+    {
+      "title": "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
+      "href": "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 2
     },
     {
       "title": "Google continues to invest 350k in the Rust ecosystem",
       "href": "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 2
-    },
-    {
-      "title": "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
-      "href": "https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/",
-      "points": "",
-      "comments": "\n              21 comments",
       "index": 3
-    },
-    {
-      "title": "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
-      "href": "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 4
-    },
-    {
-      "title": "Crypto Miner in hotio/qbittorrent",
-      "href": "https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 5
     },
     {
       "title": "AI is impressive because we’ve failed at semantic web and personal computing",
       "href": "https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 4
+    },
+    {
+      "title": "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
+      "href": "https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/",
+      "points": "",
+      "comments": "\n              24 comments",
+      "index": 5
+    },
+    {
+      "title": "Crypto Miner in hotio/qbittorrent",
+      "href": "https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 6
     },
     {
@@ -54,7 +54,7 @@
       "title": "Benjamin Button Reviews macOS",
       "href": "https://rakhim.exotext.com/benjamin-button-reviews-macos",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 8
     },
     {
@@ -72,73 +72,73 @@
       "index": 10
     },
     {
-      "title": "The 128-Language Quine Relay (2018)",
-      "href": "https://esoteric.codes/blog/the-128-language-quine-relay",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 11
-    },
-    {
-      "title": "Our plan for a more secure npm supply chain",
-      "href": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 12
-    },
-    {
       "title": "From Rust to Reality: The Hidden Journey of fetch_max",
       "href": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 11
     },
     {
       "title": "ZubanLS: A Mypy-compatible Python Language Server built in Rust",
       "href": "https://zubanls.com/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
+      "index": 12
+    },
+    {
+      "title": "The 128-Language Quine Relay (2018)",
+      "href": "https://esoteric.codes/blog/the-128-language-quine-relay",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 13
+    },
+    {
+      "title": "Our plan for a more secure npm supply chain",
+      "href": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 14
     },
     {
       "title": "Using DNS for responding to ACME challenges",
       "href": "https://hsm.tunnel53.net/article/dns-for-acme-challenges/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
       "index": 15
-    },
-    {
-      "title": "Libghostty Is Coming",
-      "href": "https://mitchellh.com/writing/libghostty-is-coming",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 16
-    },
-    {
-      "title": "Walking around the compiler",
-      "href": "https://bernsteinbear.com/blog/walking-around/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Wild Linker Update - 0.6.0",
-      "href": "https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
     },
     {
       "title": "Moving fast in hardware: how the iPod shipped in 6 months",
       "href": "https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 16
+    },
+    {
+      "title": "Libghostty Is Coming",
+      "href": "https://mitchellh.com/writing/libghostty-is-coming",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 17
+    },
+    {
+      "title": "Walking around the compiler",
+      "href": "https://bernsteinbear.com/blog/walking-around/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
     },
     {
       "title": "What if Humanity forgot how to make CPUs?",
       "href": "https://www.youtube.com/watch?v=L2OJFqs8bUk",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Wild Linker Update - 0.6.0",
+      "href": "https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 20
     },
     {
@@ -170,8 +170,8 @@
       "index": 24
     },
     {
-      "title": "Apples, Trees, and Quasimodes",
-      "href": "https://systemstack.dev/2025/09/humane-computing/",
+      "title": "Grammar induction",
+      "href": "https://en.wikipedia.org/wiki/Grammar_induction",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
