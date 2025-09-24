@@ -1,46 +1,46 @@
 {
-  "date": "Wednesday, September 24, 2025 at 11:25 AM GMT-5",
+  "date": "Wednesday, September 24, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
       "href": "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 1
     },
     {
       "title": "Should Neovim support transitive plugin dependencies?",
       "href": "https://sink.io/jmk/neovim-plugin-deps/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 2
+    },
+    {
+      "title": "Don't even consider starting with Microsoft",
+      "href": "https://lionelbarrow.substack.com/p/dont-even-consider-starting-with",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 3
     },
     {
       "title": "Google continues to invest 350k in the Rust ecosystem",
       "href": "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "AI is impressive because we’ve failed at semantic web and personal computing",
       "href": "https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing",
       "points": "",
-      "comments": "\n              10 comments",
-      "index": 4
-    },
-    {
-      "title": "Don't even consider starting with Microsoft",
-      "href": "https://lionelbarrow.substack.com/p/dont-even-consider-starting-with",
-      "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              13 comments",
       "index": 5
     },
     {
       "title": "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
       "href": "https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              26 comments",
       "index": 6
     },
     {
@@ -58,122 +58,122 @@
       "index": 8
     },
     {
+      "title": "Temporal_rs is here! The datetime library powering Temporal in Boa, Kiesel, and V8 | Boa JS",
+      "href": "https://boajs.dev/blog/2025/09/24/temporal-release",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 9
+    },
+    {
       "title": "Fifty Years of Open Source Software Supply-Chain Security",
       "href": "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 9
-    },
-    {
-      "title": "From Rust to Reality: The Hidden Journey of fetch_max",
-      "href": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 10
-    },
-    {
-      "title": "Go has added Valgrind support",
-      "href": "https://go-review.googlesource.com/c/go/+/674077",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 11
     },
     {
       "title": "Engineering a fixed-width bit-packed Integer Vector in Rust",
       "href": "https://lukefleed.xyz/posts/compressed-fixedvec/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
+      "index": 11
     },
     {
-      "title": "ZubanLS: A Mypy-compatible Python Language Server built in Rust",
-      "href": "https://zubanls.com/",
+      "title": "From Rust to Reality: The Hidden Journey of fetch_max",
+      "href": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 13
+      "comments": "\n              no comments",
+      "index": 12
     },
     {
       "title": "Moving fast in hardware: how the iPod shipped in 6 months",
       "href": "https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
-      "title": "The 128-Language Quine Relay (2018)",
-      "href": "https://esoteric.codes/blog/the-128-language-quine-relay",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 15
-    },
-    {
-      "title": "Imagining a Language without Booleans",
-      "href": "https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html",
-      "points": "",
-      "comments": "\n              39 comments",
-      "index": 16
-    },
-    {
-      "title": "Using DNS for responding to ACME challenges",
-      "href": "https://hsm.tunnel53.net/article/dns-for-acme-challenges/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 17
-    },
-    {
-      "title": "Grammar induction",
-      "href": "https://en.wikipedia.org/wiki/Grammar_induction",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "Unlocking Performance in Python's Free-Threaded Future: GC Optimizations",
-      "href": "https://labs.quansight.org/blog/free-threaded-gc-3-14",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "From Steam to Floppy: Porting Modern TypeScript to Run on DOS",
-      "href": "https://jimb.ly/2025/09/23/qauntumpulse-from-steam-to-floppy/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
+      "index": 13
     },
     {
       "title": "Software substrates: should there be only one?",
       "href": "https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 14
     },
     {
-      "title": "Our plan for a more secure npm supply chain",
-      "href": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
+      "title": "Go has added Valgrind support",
+      "href": "https://go-review.googlesource.com/c/go/+/674077",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 22
+      "index": 15
+    },
+    {
+      "title": "ZubanLS: A Mypy-compatible Python Language Server built in Rust",
+      "href": "https://zubanls.com/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 16
+    },
+    {
+      "title": "The 128-Language Quine Relay (2018)",
+      "href": "https://esoteric.codes/blog/the-128-language-quine-relay",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 17
+    },
+    {
+      "title": "Imagining a Language without Booleans",
+      "href": "https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html",
+      "points": "",
+      "comments": "\n              39 comments",
+      "index": 18
     },
     {
       "title": "Adventures in CPU contention",
       "href": "https://andre.arko.net/2025/09/23/adventures-in-cpu-contention/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Using DNS for responding to ACME challenges",
+      "href": "https://hsm.tunnel53.net/article/dns-for-acme-challenges/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 20
+    },
+    {
+      "title": "Grammar induction",
+      "href": "https://en.wikipedia.org/wiki/Grammar_induction",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "Unlocking Performance in Python's Free-Threaded Future: GC Optimizations",
+      "href": "https://labs.quansight.org/blog/free-threaded-gc-3-14",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "From Steam to Floppy: Porting Modern TypeScript to Run on DOS",
+      "href": "https://jimb.ly/2025/09/23/qauntumpulse-from-steam-to-floppy/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 23
+    },
+    {
+      "title": "Our plan for a more secure npm supply chain",
+      "href": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 24
     },
     {
       "title": "What if Humanity forgot how to make CPUs?",
       "href": "https://www.youtube.com/watch?v=L2OJFqs8bUk",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 24
-    },
-    {
-      "title": "Libghostty Is Coming",
-      "href": "https://mitchellh.com/writing/libghostty-is-coming",
-      "points": "",
-      "comments": "\n              16 comments",
       "index": 25
     }
   ]
