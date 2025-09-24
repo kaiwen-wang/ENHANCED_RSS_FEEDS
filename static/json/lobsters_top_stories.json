@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, September 23, 2025 at 8:25 PM GMT-5",
+  "date": "Tuesday, September 23, 2025 at 10:00 PM GMT-5",
   "articles": [
     {
       "title": "Crypto Miner in hotio/qbittorrent",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
+      "title": "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
+      "href": "https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 2
+    },
+    {
       "title": "Go has added Valgrind support",
       "href": "https://go-review.googlesource.com/c/go/+/674077",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 2
-    },
-    {
-      "title": "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
-      "href": "https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 3
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
-      "title": "Libghostty Is Coming",
-      "href": "https://mitchellh.com/writing/libghostty-is-coming",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 6
-    },
-    {
       "title": "Wild Linker Update - 0.6.0",
       "href": "https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 6
+    },
+    {
+      "title": "Libghostty Is Coming",
+      "href": "https://mitchellh.com/writing/libghostty-is-coming",
+      "points": "",
+      "comments": "\n              16 comments",
       "index": 7
     },
     {
@@ -58,31 +58,31 @@
       "index": 8
     },
     {
+      "title": "Preemption in Go (2021)",
+      "href": "https://hidetatz.github.io/goroutine_preemption/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 9
+    },
+    {
       "title": "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
       "href": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
       "points": "",
-      "comments": "\n              63 comments",
-      "index": 9
+      "comments": "\n              64 comments",
+      "index": 10
     },
     {
       "title": "AI-Generated “Workslop” Is Destroying Productivity",
       "href": "https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Using DNS for responding to ACME challenges",
       "href": "https://hsm.tunnel53.net/article/dns-for-acme-challenges/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 11
-    },
-    {
-      "title": "Preemption in Go (2021)",
-      "href": "https://hidetatz.github.io/goroutine_preemption/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 12
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
+      "title": "Confidential Computing with OpenBSD",
+      "href": "https://toobnix.org/w/v7xpcN8MyouxGTnwYt35WM",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "From Rust to Reality: The Hidden Journey of fetch_max",
+      "href": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
       "title": "Cloudflare is sponsoring Ladybird and Omarchy",
       "href": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
       "points": "",
-      "comments": "\n              69 comments",
-      "index": 17
+      "comments": "\n              70 comments",
+      "index": 19
     },
     {
       "title": "Procedural Rhetoric: Opinions as Algorithms",
       "href": "https://entropicthoughts.com/reed-on-opinions-as-algorithms",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "Targetting specific characters with CSS rules",
       "href": "https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "What if Humanity forgot how to make CPUs?",
-      "href": "https://www.youtube.com/watch?v=L2OJFqs8bUk",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Cap'n Web: a new RPC system for browsers and web servers",
-      "href": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
-      "points": "",
-      "comments": "\n              33 comments",
       "index": 21
-    },
-    {
-      "title": "Altoids by the Fistful",
-      "href": "https://www.scottsmitelli.com/articles/altoids-by-the-fistful/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 22
-    },
-    {
-      "title": "From hand-tuned Go to self-optimizing code: Building BitsEvolve",
-      "href": "https://www.datadoghq.com/blog/engineering/self-optimizing-system/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
     },
     {
       "title": "Benjamin Button Reviews macOS",
       "href": "https://rakhim.exotext.com/benjamin-button-reviews-macos",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "What if Humanity forgot how to make CPUs?",
+      "href": "https://www.youtube.com/watch?v=L2OJFqs8bUk",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Cap'n Web: a new RPC system for browsers and web servers",
+      "href": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
+      "points": "",
+      "comments": "\n              33 comments",
       "index": 24
     },
     {
-      "title": "Dear GitHub: no YAML anchors, please",
-      "href": "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors",
+      "title": "Altoids by the Fistful",
+      "href": "https://www.scottsmitelli.com/articles/altoids-by-the-fistful/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              8 comments",
       "index": 25
     }
   ]
