@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, September 24, 2025 at 2:20 AM GMT-5",
+  "date": "Wednesday, September 24, 2025 at 3:25 AM GMT-5",
   "articles": [
     {
       "title": "Should Neovim support transitive plugin dependencies?",
       "href": "https://sink.io/jmk/neovim-plugin-deps/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
       "index": 1
     },
     {
@@ -19,21 +19,21 @@
       "title": "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
       "href": "https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              16 comments",
       "index": 3
+    },
+    {
+      "title": "Google continues to invest 350k in the Rust ecosystem",
+      "href": "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 4
     },
     {
       "title": "Fifty Years of Open Source Software Supply-Chain Security",
       "href": "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 4
-    },
-    {
-      "title": "Google continues to invest 350k in the Rust ecosystem",
-      "href": "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 5
     },
     {
@@ -44,24 +44,24 @@
       "index": 6
     },
     {
+      "title": "Benjamin Button Reviews macOS",
+      "href": "https://rakhim.exotext.com/benjamin-button-reviews-macos",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 7
+    },
+    {
       "title": "Imagining a Language without Booleans",
       "href": "https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html",
       "points": "",
       "comments": "\n              35 comments",
-      "index": 7
-    },
-    {
-      "title": "Benjamin Button Reviews macOS",
-      "href": "https://rakhim.exotext.com/benjamin-button-reviews-macos",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 8
     },
     {
       "title": "AI is impressive because we’ve failed at semantic web and personal computing",
       "href": "https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 9
     },
     {
@@ -75,96 +75,96 @@
       "title": "Our plan for a more secure npm supply chain",
       "href": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 11
-    },
-    {
-      "title": "Libghostty Is Coming",
-      "href": "https://mitchellh.com/writing/libghostty-is-coming",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 12
-    },
-    {
-      "title": "Wild Linker Update - 0.6.0",
-      "href": "https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Using DNS for responding to ACME challenges",
-      "href": "https://hsm.tunnel53.net/article/dns-for-acme-challenges/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 14
     },
     {
       "title": "From Rust to Reality: The Hidden Journey of fetch_max",
       "href": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 12
     },
     {
-      "title": "Preemption in Go (2021)",
-      "href": "https://hidetatz.github.io/goroutine_preemption/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 16
-    },
-    {
-      "title": "AI-Generated “Workslop” Is Destroying Productivity",
-      "href": "https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity",
+      "title": "Libghostty Is Coming",
+      "href": "https://mitchellh.com/writing/libghostty-is-coming",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 17
+      "index": 13
     },
     {
-      "title": "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
-      "href": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
+      "title": "Wild Linker Update - 0.6.0",
+      "href": "https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html",
       "points": "",
-      "comments": "\n              64 comments",
-      "index": 18
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Using DNS for responding to ACME challenges",
+      "href": "https://hsm.tunnel53.net/article/dns-for-acme-challenges/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 15
     },
     {
       "title": "Walking around the compiler",
       "href": "https://bernsteinbear.com/blog/walking-around/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 16
     },
     {
-      "title": "Confidential Computing with OpenBSD",
-      "href": "https://toobnix.org/w/v7xpcN8MyouxGTnwYt35WM",
+      "title": "Preemption in Go (2021)",
+      "href": "https://hidetatz.github.io/goroutine_preemption/",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "VBARE: A simple alternative to Protobuf & Cap'n Proto for schema evolution",
-      "href": "https://www.rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
+      "comments": "\n              5 comments",
+      "index": 17
     },
     {
       "title": "What if Humanity forgot how to make CPUs?",
       "href": "https://www.youtube.com/watch?v=L2OJFqs8bUk",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Confidential Computing with OpenBSD",
+      "href": "https://toobnix.org/w/v7xpcN8MyouxGTnwYt35WM",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "AI-Generated “Workslop” Is Destroying Productivity",
+      "href": "https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 20
+    },
+    {
+      "title": "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
+      "href": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
+      "points": "",
+      "comments": "\n              64 comments",
+      "index": 21
+    },
+    {
+      "title": "ZubanLS: A Mypy-compatible Python Language Server built in Rust",
+      "href": "https://zubanls.com/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 22
     },
     {
-      "title": "Apples, Trees, and Quasimodes",
-      "href": "https://systemstack.dev/2025/09/humane-computing/",
+      "title": "VBARE: A simple alternative to Protobuf & Cap'n Proto for schema evolution",
+      "href": "https://www.rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance",
       "points": "",
       "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "ZubanLS: A Mypy-compatible Python Language Server built in Rust",
-      "href": "https://zubanls.com/",
+      "title": "Apples, Trees, and Quasimodes",
+      "href": "https://systemstack.dev/2025/09/humane-computing/",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
