@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, September 25, 2025 at 1:30 PM GMT-5",
+  "date": "Thursday, September 25, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Thoughts on Cloudflare",
       "href": "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 1
     },
     {
       "title": "¡Step right up to the Lobsters! Blog! Carnival",
       "href": "/s/p3wmty/step_right_up_lobsters_blog_carnival",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              24 comments",
       "index": 2
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "A Very Early History of Algebraic Data Types",
-      "href": "https://www.hillelwayne.com/post/algdt-history/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 4
-    },
-    {
       "title": "Some interesting stuff I found on IX LANs",
       "href": "https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting",
       "points": "",
       "comments": "\n              no comments",
+      "index": 4
+    },
+    {
+      "title": "A Very Early History of Algebraic Data Types",
+      "href": "https://www.hillelwayne.com/post/algdt-history/",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 5
     },
     {
@@ -44,31 +44,31 @@
       "index": 6
     },
     {
+      "title": "PostgreSQL 18 Released",
+      "href": "https://www.postgresql.org/about/news/postgresql-18-released-3142/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 7
+    },
+    {
       "title": "The Theatre of Pull Requests and Code Review",
       "href": "https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Don't even consider starting with Microsoft",
       "href": "https://lionelbarrow.substack.com/p/dont-even-consider-starting-with",
       "points": "",
       "comments": "\n              51 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "CHERI and the efforts to get Linux running on it",
       "href": "https://lwn.net/SubscriberLink/1037974/903c6f9a42f7782a/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 9
-    },
-    {
-      "title": "How many valid JSON strings are there?",
-      "href": "https://qntm.org/jsoncount",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 10
     },
     {
@@ -82,77 +82,77 @@
       "title": "Helium Browser",
       "href": "https://helium.computer",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 12
     },
     {
-      "title": "Temporal_rs is here! The datetime library powering Temporal in Boa, Kiesel, and V8",
-      "href": "https://boajs.dev/blog/2025/09/24/temporal-release",
+      "title": "How many valid JSON strings are there?",
+      "href": "https://qntm.org/jsoncount",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              4 comments",
       "index": 13
-    },
-    {
-      "title": "Use the Force (Feedback) to Solder Small Things",
-      "href": "https://www.bunniestudios.com/blog/2025/use-the-force-feedback-to-solder-small-things/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 14
     },
     {
       "title": "This month in Servo: variable fonts, network tools, SVG",
       "href": "https://servo.org/blog/2025/09/25/this-month-in-servo/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Temporal_rs is here! The datetime library powering Temporal in Boa, Kiesel, and V8",
+      "href": "https://boajs.dev/blog/2025/09/24/temporal-release",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 15
     },
     {
-      "title": "Announcing \"do\" v2.0 - Dependency injection for Go",
-      "href": "https://github.com/samber/do/releases/tag/v2.0.0",
+      "title": "Use the Force (Feedback) to Solder Small Things",
+      "href": "https://www.bunniestudios.com/blog/2025/use-the-force-feedback-to-solder-small-things/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              5 comments",
       "index": 16
-    },
-    {
-      "title": "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
-      "href": "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
-      "points": "",
-      "comments": "\n              15 comments",
-      "index": 17
-    },
-    {
-      "title": "PostgreSQL 18 Released",
-      "href": "https://www.postgresql.org/about/news/postgresql-18-released-3142/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
     },
     {
       "title": "Knotty: A domain-specific language for knitting patterns",
       "href": "https://t0mpr1c3.github.io/knotty/index.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
+      "title": "Announcing \"do\" v2.0 - Dependency injection for Go",
+      "href": "https://github.com/samber/do/releases/tag/v2.0.0",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
+      "href": "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives",
+      "points": "",
+      "comments": "\n              15 comments",
       "index": 19
-    },
-    {
-      "title": "crates.io: Malicious crates faster_log and async_println",
-      "href": "https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 20
-    },
-    {
-      "title": "What Does Actual Functional Programming Look Like?",
-      "href": "https://jerf.org/iri/post/2025/fp_lessons_actual_fp/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 21
     },
     {
       "title": "Ceiling division and mip map sizes",
       "href": "https://fgiesen.wordpress.com/2025/09/25/ceiling-division-and-mip-map-sizes/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "crates.io: Malicious crates faster_log and async_println",
+      "href": "https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 21
+    },
+    {
+      "title": "What Does Actual Functional Programming Look Like?",
+      "href": "https://jerf.org/iri/post/2025/fp_lessons_actual_fp/",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "What are popular AI coding benchmarks actually measuring?",
-      "href": "https://blog.nilenso.com/blog/2025/09/25/swe-benchmarks/",
+      "title": "Investigating a Forged PDF",
+      "href": "https://mjg59.dreamwidth.org/73317.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Should Neovim support transitive plugin dependencies?",
-      "href": "https://sink.io/jmk/neovim-plugin-deps/",
+      "title": "What are popular AI coding benchmarks actually measuring?",
+      "href": "https://blog.nilenso.com/blog/2025/09/25/swe-benchmarks/",
       "points": "",
-      "comments": "\n              30 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
