@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, September 25, 2025 at 3:25 AM GMT-5",
+  "date": "Thursday, September 25, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "¡Step right up to the Lobsters! Blog! Carnival",
       "href": "/s/p3wmty/step_right_up_lobsters_blog_carnival",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 1
     },
     {
@@ -30,31 +30,31 @@
       "index": 4
     },
     {
-      "title": "crates.io: Malicious crates faster_log and async_println",
-      "href": "https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 5
-    },
-    {
       "title": "JRuby and JDK 25: Startup Time with AOTCache",
       "href": "https://blog.headius.com/2025/09/jruby-jdk25-startup-time-with-aotcache.html",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 5
+    },
+    {
+      "title": "crates.io: Malicious crates faster_log and async_println",
+      "href": "https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 6
     },
     {
-      "title": "Should Neovim support transitive plugin dependencies?",
-      "href": "https://sink.io/jmk/neovim-plugin-deps/",
+      "title": "Raspberry Pi 500+ launched",
+      "href": "https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              1 comment",
       "index": 7
     },
     {
       "title": "Use the Force (Feedback) to Solder Small Things",
       "href": "https://www.bunniestudios.com/blog/2025/use-the-force-feedback-to-solder-small-things/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 8
     },
     {
@@ -65,113 +65,113 @@
       "index": 9
     },
     {
-      "title": "PHP: a fractal of bad design (2012)",
-      "href": "https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/",
+      "title": "Should Neovim support transitive plugin dependencies?",
+      "href": "https://sink.io/jmk/neovim-plugin-deps/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              25 comments",
       "index": 10
-    },
-    {
-      "title": "AI is impressive because we’ve failed at semantic web and personal computing",
-      "href": "https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing",
-      "points": "",
-      "comments": "\n              30 comments",
-      "index": 11
     },
     {
       "title": "CHERI and the efforts to get Linux running on it",
       "href": "https://lwn.net/SubscriberLink/1037974/903c6f9a42f7782a/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 11
+    },
+    {
+      "title": "PHP: a fractal of bad design (2012)",
+      "href": "https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 12
+    },
+    {
+      "title": "AI is impressive because we’ve failed at semantic web and personal computing",
+      "href": "https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing",
+      "points": "",
+      "comments": "\n              31 comments",
+      "index": 13
     },
     {
       "title": "Realtime Raytracing in Bevy 0.17 (Solari)",
       "href": "https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "Google continues to invest 350k in the Rust ecosystem",
-      "href": "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P",
-      "points": "",
-      "comments": "\n              16 comments",
       "index": 14
-    },
-    {
-      "title": "Graal Truffle tutorial part 0 – what is Truffle?",
-      "href": "https://www.endoflineblog.com/graal-truffle-tutorial-part-0-what-is-truffle",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Knotty: A domain-specific language for knitting patterns",
-      "href": "https://t0mpr1c3.github.io/knotty/index.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "Engineering a fixed-width bit-packed Integer Vector in Rust",
-      "href": "https://lukefleed.xyz/posts/compressed-fixedvec/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 17
-    },
-    {
-      "title": "The Naming of Tack Symbols",
-      "href": "https://www.math.uwaterloo.ca/~ljdickey/apl-rep/tables/note1.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "Zed's Pricing Has Changed: LLM Usage Is Now Token-Based",
-      "href": "https://zed.dev/blog/pricing-change-llm-usage-is-now-token-based",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Raspberry Pi 500+ launched",
-      "href": "https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
     },
     {
       "title": "What Does Actual Functional Programming Look Like?",
       "href": "https://jerf.org/iri/post/2025/fp_lessons_actual_fp/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Google continues to invest 350k in the Rust ecosystem",
+      "href": "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 16
+    },
+    {
+      "title": "Graal Truffle tutorial part 0 – what is Truffle?",
+      "href": "https://www.endoflineblog.com/graal-truffle-tutorial-part-0-what-is-truffle",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Knotty: A domain-specific language for knitting patterns",
+      "href": "https://t0mpr1c3.github.io/knotty/index.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Engineering a fixed-width bit-packed Integer Vector in Rust",
+      "href": "https://lukefleed.xyz/posts/compressed-fixedvec/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 19
+    },
+    {
+      "title": "The Naming of Tack Symbols",
+      "href": "https://www.math.uwaterloo.ca/~ljdickey/apl-rep/tables/note1.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "Zed's Pricing Has Changed: LLM Usage Is Now Token-Based",
+      "href": "https://zed.dev/blog/pricing-change-llm-usage-is-now-token-based",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 21
     },
     {
-      "title": "Software substrates: should there be only one?",
-      "href": "https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf",
+      "title": "Helium Browser",
+      "href": "https://helium.computer",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
+    },
+    {
+      "title": "Drinking with Datalog",
+      "href": "https://ianthehenry.com/posts/drinking-with-datalog/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Tuning AIO in PostgreSQL 18",
       "href": "https://vondra.me/posts/tuning-aio-in-postgresql-18/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 23
-    },
-    {
-      "title": "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
-      "href": "https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/",
-      "points": "",
-      "comments": "\n              32 comments",
       "index": 24
     },
     {
-      "title": "Drinking with Datalog",
-      "href": "https://ianthehenry.com/posts/drinking-with-datalog/",
+      "title": "Software substrates: should there be only one?",
+      "href": "https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
