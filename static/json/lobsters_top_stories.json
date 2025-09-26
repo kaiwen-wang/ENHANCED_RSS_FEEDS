@@ -1,18 +1,18 @@
 {
-  "date": "Friday, September 26, 2025 at 10:20 AM GMT-5",
+  "date": "Friday, September 26, 2025 at 11:25 AM GMT-5",
   "articles": [
-    {
-      "title": "Fast UDP I/O for Firefox in Rust",
-      "href": "https://max-inden.de/post/fast-udp-io-in-firefox/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 1
-    },
     {
       "title": "Rio Terminal: A hardware-accelerated GPU terminal emulator",
       "href": "https://rioterm.com/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              12 comments",
+      "index": 1
+    },
+    {
+      "title": "Fast UDP I/O for Firefox in Rust",
+      "href": "https://max-inden.de/post/fast-udp-io-in-firefox/",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 2
     },
     {
@@ -37,101 +37,101 @@
       "index": 5
     },
     {
-      "title": "PostgreSQL 18 Released",
-      "href": "https://www.postgresql.org/about/news/postgresql-18-released-3142/",
+      "title": "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
+      "href": "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              2 comments",
       "index": 6
     },
     {
       "title": "Zoomer Tries RSS: In Praise of Yarr (2024)",
       "href": "https://tudorr.ro/blog/2024-04-04-zoomer-tries-rss/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
       "index": 7
+    },
+    {
+      "title": "PostgreSQL 18 Released",
+      "href": "https://www.postgresql.org/about/news/postgresql-18-released-3142/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 8
     },
     {
       "title": "¡Step right up to the Lobsters! Blog! Carnival",
       "href": "/s/p3wmty/step_right_up_lobsters_blog_carnival",
       "points": "",
-      "comments": "\n              40 comments",
-      "index": 8
+      "comments": "\n              43 comments",
+      "index": 9
     },
     {
-      "title": "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
-      "href": "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/",
+      "title": "What happens when hackathon judging is a public benchmark (Hack the North edition)",
+      "href": "https://github.com/trycua/cua/blob/main/blog/hack-the-north.md",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 9
+      "comments": "\n              no comments",
+      "index": 10
     },
     {
       "title": "Raspberry Pi 500+ launched",
       "href": "https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/",
       "points": "",
       "comments": "\n              54 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "This month in Servo: variable fonts, network tools, SVG",
       "href": "https://servo.org/blog/2025/09/25/this-month-in-servo/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Some interesting stuff I found on IX LANs",
       "href": "https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
+      "index": 13
+    },
+    {
+      "title": "Introducing Emacs agent-shell (powered by ACP)",
+      "href": "https://xenodium.com/introducing-agent-shell",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 14
+    },
+    {
+      "title": "New PopOS beta shipped with Cosmis DE",
+      "href": "https://system76.com/pop/pop-beta/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
     },
     {
       "title": "Athlon 64: How AMD turned the tables on Intel",
       "href": "https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 13
+      "index": 16
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/hvrtkq/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 17
     },
     {
       "title": "Identity Types",
       "href": "https://bartoszmilewski.com/2025/09/22/identity-types/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "Introducing Emacs agent-shell (powered by ACP)",
-      "href": "https://xenodium.com/introducing-agent-shell",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 15
+      "index": 18
     },
     {
       "title": "The Wind, a Pole, and the Dragon",
       "href": "https://entropicthoughts.com/the-wind-a-pole-and-the-dragon",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 16
-    },
-    {
-      "title": "The PGM-index",
-      "href": "https://pgm.di.unipi.it/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "A workaround for using custom properties in media queries",
-      "href": "https://piccalil.li/blog/a-workaround-for-using-custom-properties-in-media-queries",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "Starless: How we accidentally vanished our most popular GitHub repos",
-      "href": "https://www.elastic.co/blog/starless-github-repos",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 19
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "The PGM-index",
+      "href": "https://pgm.di.unipi.it/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
       "title": "The Theatre of Pull Requests and Code Review",
       "href": "https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review",
       "points": "",
       "comments": "\n              22 comments",
-      "index": 21
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/hvrtkq/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 22
     },
     {
-      "title": "CHERI and the efforts to get Linux running on it",
-      "href": "https://lwn.net/SubscriberLink/1037974/903c6f9a42f7782a/",
+      "title": "A workaround for using custom properties in media queries",
+      "href": "https://piccalil.li/blog/a-workaround-for-using-custom-properties-in-media-queries",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              1 comment",
       "index": 23
     },
     {
-      "title": "How many valid JSON strings are there?",
-      "href": "https://qntm.org/jsoncount",
+      "title": "Starless: How we accidentally vanished our most popular GitHub repos",
+      "href": "https://www.elastic.co/blog/starless-github-repos",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              4 comments",
       "index": 24
     },
     {
-      "title": "Helium Browser",
-      "href": "https://helium.computer",
+      "title": "Dotfiles with make",
+      "href": "https://www.matheusmoreira.com/articles/managing-dotfiles-with-make",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
