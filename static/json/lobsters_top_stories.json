@@ -1,39 +1,39 @@
 {
-  "date": "Friday, September 26, 2025 at 4:15 PM GMT-5",
+  "date": "Friday, September 26, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "Rio Terminal: A hardware-accelerated GPU terminal emulator",
       "href": "https://rioterm.com/",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              27 comments",
       "index": 1
     },
     {
       "title": "Turning Billions of Strings into Integers Every Second Without Collisions",
       "href": "https://jazco.dev/2025/09/26/interning/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 2
+    },
+    {
+      "title": "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
+      "href": "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 3
     },
     {
       "title": "Fast UDP I/O for Firefox in Rust",
       "href": "https://max-inden.de/post/fast-udp-io-in-firefox/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 3
-    },
-    {
-      "title": "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
-      "href": "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/",
-      "points": "",
-      "comments": "\n              10 comments",
       "index": 4
     },
     {
       "title": "Redis is fast - I'll cache in Postgres",
       "href": "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 5
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
-      "title": "Zoomer Tries RSS: In Praise of Yarr (2024)",
-      "href": "https://tudorr.ro/blog/2024-04-04-zoomer-tries-rss/",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 10
-    },
-    {
       "title": "Investigating a Forged PDF",
       "href": "https://mjg59.dreamwidth.org/73317.html",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 10
+    },
+    {
+      "title": "Zoomer Tries RSS: In Praise of Yarr (2024)",
+      "href": "https://tudorr.ro/blog/2024-04-04-zoomer-tries-rss/",
+      "points": "",
+      "comments": "\n              14 comments",
       "index": 11
+    },
+    {
+      "title": "New PopOS beta shipped with Cosmis DE",
+      "href": "https://system76.com/pop/pop-beta/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 12
     },
     {
       "title": "Thoughts on Cloudflare",
       "href": "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/",
       "points": "",
       "comments": "\n              38 comments",
-      "index": 12
-    },
-    {
-      "title": "PostgreSQL 18 Released",
-      "href": "https://www.postgresql.org/about/news/postgresql-18-released-3142/",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 13
-    },
-    {
-      "title": "New PopOS beta shipped with Cosmis DE",
-      "href": "https://system76.com/pop/pop-beta/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "¡Step right up to the Lobsters! Blog! Carnival",
-      "href": "/s/p3wmty/step_right_up_lobsters_blog_carnival",
-      "points": "",
-      "comments": "\n              45 comments",
-      "index": 15
-    },
-    {
-      "title": "Handling Negative Feedback",
-      "href": "https://youtu.be/clARvO_AthM",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "What happens when hackathon judging is a public benchmark (Hack the North edition)",
-      "href": "https://github.com/trycua/cua/blob/main/blog/hack-the-north.md",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "This month in Servo: variable fonts, network tools, SVG",
-      "href": "https://servo.org/blog/2025/09/25/this-month-in-servo/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Raspberry Pi 500+ launched",
-      "href": "https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/",
-      "points": "",
-      "comments": "\n              59 comments",
-      "index": 19
     },
     {
       "title": "Open Social",
       "href": "https://overreacted.io/open-social/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Identity Types",
-      "href": "https://bartoszmilewski.com/2025/09/22/identity-types/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Some interesting stuff I found on IX LANs",
-      "href": "https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/hvrtkq/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 23
-    },
-    {
-      "title": "Athlon 64: How AMD turned the tables on Intel",
-      "href": "https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 24
+      "index": 14
     },
     {
       "title": "The File System Belongs in the Kernel (1991)",
       "href": "https://www.usenix.org/legacy/publications/library/proceedings/mach91/welch.pdf",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "PostgreSQL 18 Released",
+      "href": "https://www.postgresql.org/about/news/postgresql-18-released-3142/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 16
+    },
+    {
+      "title": "Flight Recorder in Go 1.25",
+      "href": "https://go.dev/blog/flight-recorder",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Handling Negative Feedback",
+      "href": "https://youtu.be/clARvO_AthM",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
+      "title": "¡Step right up to the Lobsters! Blog! Carnival",
+      "href": "/s/p3wmty/step_right_up_lobsters_blog_carnival",
+      "points": "",
+      "comments": "\n              45 comments",
+      "index": 19
+    },
+    {
+      "title": "What happens when hackathon judging is a public benchmark (Hack the North edition)",
+      "href": "https://github.com/trycua/cua/blob/main/blog/hack-the-north.md",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/hvrtkq/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              18 comments",
+      "index": 21
+    },
+    {
+      "title": "Identity Types",
+      "href": "https://bartoszmilewski.com/2025/09/22/identity-types/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "This month in Servo: variable fonts, network tools, SVG",
+      "href": "https://servo.org/blog/2025/09/25/this-month-in-servo/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Raspberry Pi 500+ launched",
+      "href": "https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/",
+      "points": "",
+      "comments": "\n              59 comments",
+      "index": 24
+    },
+    {
+      "title": "Some interesting stuff I found on IX LANs",
+      "href": "https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 25
     }
   ]
