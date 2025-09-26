@@ -1,32 +1,32 @@
 {
-  "date": "Friday, September 26, 2025 at 5:15 PM GMT-5",
+  "date": "Friday, September 26, 2025 at 6:15 PM GMT-5",
   "articles": [
+    {
+      "title": "Turning Billions of Strings into Integers Every Second Without Collisions",
+      "href": "https://jazco.dev/2025/09/26/interning/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 1
+    },
     {
       "title": "Rio Terminal: A hardware-accelerated GPU terminal emulator",
       "href": "https://rioterm.com/",
       "points": "",
       "comments": "\n              27 comments",
-      "index": 1
-    },
-    {
-      "title": "Turning Billions of Strings into Integers Every Second Without Collisions",
-      "href": "https://jazco.dev/2025/09/26/interning/",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 2
-    },
-    {
-      "title": "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
-      "href": "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 3
     },
     {
       "title": "Fast UDP I/O for Firefox in Rust",
       "href": "https://max-inden.de/post/fast-udp-io-in-firefox/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 3
+    },
+    {
+      "title": "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
+      "href": "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 4
     },
     {
@@ -51,73 +51,73 @@
       "index": 7
     },
     {
+      "title": "Flight Recorder in Go 1.25",
+      "href": "https://go.dev/blog/flight-recorder",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
+    },
+    {
       "title": "Dotfiles with make",
       "href": "https://www.matheusmoreira.com/articles/managing-dotfiles-with-make",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "A Very Early History of Algebraic Data Types",
       "href": "https://www.hillelwayne.com/post/algdt-history/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 9
-    },
-    {
-      "title": "Investigating a Forged PDF",
-      "href": "https://mjg59.dreamwidth.org/73317.html",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 10
-    },
-    {
-      "title": "Zoomer Tries RSS: In Praise of Yarr (2024)",
-      "href": "https://tudorr.ro/blog/2024-04-04-zoomer-tries-rss/",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 11
     },
     {
       "title": "New PopOS beta shipped with Cosmis DE",
       "href": "https://system76.com/pop/pop-beta/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "Thoughts on Cloudflare",
-      "href": "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/",
-      "points": "",
-      "comments": "\n              38 comments",
-      "index": 13
+      "index": 11
     },
     {
       "title": "Open Social",
       "href": "https://overreacted.io/open-social/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Zoomer Tries RSS: In Praise of Yarr (2024)",
+      "href": "https://tudorr.ro/blog/2024-04-04-zoomer-tries-rss/",
+      "points": "",
+      "comments": "\n              14 comments",
+      "index": 13
+    },
+    {
+      "title": "Investigating a Forged PDF",
+      "href": "https://mjg59.dreamwidth.org/73317.html",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 14
+    },
+    {
+      "title": "Thoughts on Cloudflare",
+      "href": "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/",
+      "points": "",
+      "comments": "\n              38 comments",
+      "index": 15
     },
     {
       "title": "The File System Belongs in the Kernel (1991)",
       "href": "https://www.usenix.org/legacy/publications/library/proceedings/mach91/welch.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "PostgreSQL 18 Released",
       "href": "https://www.postgresql.org/about/news/postgresql-18-released-3142/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 16
-    },
-    {
-      "title": "Flight Recorder in Go 1.25",
-      "href": "https://go.dev/blog/flight-recorder",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 17
     },
     {
