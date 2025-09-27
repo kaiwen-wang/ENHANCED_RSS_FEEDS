@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, September 27, 2025 at 10:15 AM GMT-5",
+  "date": "Saturday, September 27, 2025 at 11:20 AM GMT-5",
   "articles": [
     {
       "title": "Typst: a possible LaTeX replacement",
       "href": "https://lwn.net/Articles/1037577/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 1
     },
     {
@@ -19,63 +19,63 @@
       "title": "Fun Friday Question: What's the Best Way you've Broken Prod?",
       "href": "/s/ybzisr/fun_friday_question_what_s_best_way_you_ve",
       "points": "",
-      "comments": "\n              39 comments",
+      "comments": "\n              42 comments",
       "index": 3
-    },
-    {
-      "title": "Open Social",
-      "href": "https://overreacted.io/open-social/",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 4
     },
     {
       "title": "Property-Based Testing of OCaml 5’s Runtime System",
       "href": "https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf",
       "points": "",
       "comments": "\n              no comments",
+      "index": 4
+    },
+    {
+      "title": "Meshtastic 64 - A meshtastic radio for the Commodore 64",
+      "href": "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 5
+    },
+    {
+      "title": "Open Social",
+      "href": "https://overreacted.io/open-social/",
+      "points": "",
+      "comments": "\n              25 comments",
+      "index": 6
     },
     {
       "title": "Redis is fast - I'll cache in Postgres",
       "href": "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 6
+      "comments": "\n              7 comments",
+      "index": 7
     },
     {
       "title": "Turning Billions of Strings into Integers Every Second Without Collisions",
       "href": "https://jazco.dev/2025/09/26/interning/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 7
-    },
-    {
-      "title": "Meshtastic 64 - A meshtastic radio for the Commodore 64",
-      "href": "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 8
-    },
-    {
-      "title": "Rio Terminal: A hardware-accelerated GPU terminal emulator",
-      "href": "https://rioterm.com/",
-      "points": "",
-      "comments": "\n              35 comments",
-      "index": 9
     },
     {
       "title": "Flight Recorder in Go 1.25",
       "href": "https://go.dev/blog/flight-recorder",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 9
+    },
+    {
+      "title": "Rio Terminal: A hardware-accelerated GPU terminal emulator",
+      "href": "https://rioterm.com/",
+      "points": "",
+      "comments": "\n              35 comments",
       "index": 10
     },
     {
       "title": "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
       "href": "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/",
       "points": "",
-      "comments": "\n              28 comments",
+      "comments": "\n              34 comments",
       "index": 11
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
-      "title": "Fast UDP I/O for Firefox in Rust",
-      "href": "https://max-inden.de/post/fast-udp-io-in-firefox/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 14
-    },
-    {
       "title": "Informed poll",
       "href": "https://pigweed.dev/pw_async2/informed_poll.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Fast UDP I/O for Firefox in Rust",
+      "href": "https://max-inden.de/post/fast-udp-io-in-firefox/",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 15
+    },
+    {
+      "title": "Checkboxes that kill your product (2013)",
+      "href": "https://limi.net/checkboxes",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "LIVE 2025: live talks about live programming",
+      "href": "https://www.youtube.com/watch?v=5m5g4UO5W44",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "New PopOS beta shipped with Cosmis DE",
       "href": "https://system76.com/pop/pop-beta/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "Why a decades old architecture decision is impeding the power of AI computing",
       "href": "https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "HSBC publishes yet another claim of quantum advantage that isn’t",
       "href": "https://scottaaronson.blog/?p=9170",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "The File System Belongs in the Kernel (1991)",
       "href": "https://www.usenix.org/legacy/publications/library/proceedings/mach91/welch.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 21
     },
     {
       "title": "A Very Early History of Algebraic Data Types",
       "href": "https://www.hillelwayne.com/post/algdt-history/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Investigating a Forged PDF",
       "href": "https://mjg59.dreamwidth.org/73317.html",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Zoomer Tries RSS: In Praise of Yarr (2024)",
       "href": "https://tudorr.ro/blog/2024-04-04-zoomer-tries-rss/",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Thoughts on Cloudflare",
       "href": "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/",
       "points": "",
       "comments": "\n              39 comments",
-      "index": 23
-    },
-    {
-      "title": "PostgreSQL 18 Released",
-      "href": "https://www.postgresql.org/about/news/postgresql-18-released-3142/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 24
-    },
-    {
-      "title": "Identity Types",
-      "href": "https://bartoszmilewski.com/2025/09/22/identity-types/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
