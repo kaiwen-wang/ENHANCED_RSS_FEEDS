@@ -1,102 +1,102 @@
 {
-  "date": "Saturday, September 27, 2025 at 2:10 PM GMT-5",
+  "date": "Saturday, September 27, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Typst: a possible LaTeX replacement",
       "href": "https://lwn.net/Articles/1037577/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              15 comments",
       "index": 1
     },
     {
       "title": "Go's builtin 'new()' function will take an expression in Go 1.26",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              7 comments",
       "index": 2
+    },
+    {
+      "title": "Checkboxes that kill your product (2013)",
+      "href": "https://limi.net/checkboxes",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 3
     },
     {
       "title": "Fun Friday Question: What's the Best Way you've Broken Prod?",
       "href": "/s/ybzisr/fun_friday_question_what_s_best_way_you_ve",
       "points": "",
       "comments": "\n              47 comments",
-      "index": 3
+      "index": 4
     },
     {
-      "title": "Checkboxes that kill your product (2013)",
-      "href": "https://limi.net/checkboxes",
+      "title": "Docker Was Too Slow, So We Replaced It: Nix in Production",
+      "href": "https://www.youtube.com/watch?v=iPoL03tFBtU",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 4
+      "comments": "\n              3 comments",
+      "index": 5
     },
     {
       "title": "Property-Based Testing of OCaml 5’s Runtime System",
       "href": "https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Meshtastic 64 - A meshtastic radio for the Commodore 64",
       "href": "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 6
+      "comments": "\n              4 comments",
+      "index": 7
     },
     {
       "title": "Open Social",
       "href": "https://overreacted.io/open-social/",
       "points": "",
       "comments": "\n              30 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Redis is fast - I'll cache in Postgres",
       "href": "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/",
       "points": "",
       "comments": "\n              10 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "LIVE 2025: live talks about live programming",
       "href": "https://www.youtube.com/watch?v=5m5g4UO5W44",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 9
+      "index": 10
     },
     {
-      "title": "Docker Was Too Slow, So We Replaced It: Nix in Production",
-      "href": "https://www.youtube.com/watch?v=iPoL03tFBtU",
+      "title": "Why Today’s Humanoids Won’t Learn Dexterity",
+      "href": "https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Flight Recorder in Go 1.25",
       "href": "https://go.dev/blog/flight-recorder",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Turning Billions of Strings into Integers Every Second Without Collisions",
       "href": "https://jazco.dev/2025/09/26/interning/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Rio Terminal: A hardware-accelerated GPU terminal emulator",
       "href": "https://rioterm.com/",
       "points": "",
       "comments": "\n              36 comments",
-      "index": 13
-    },
-    {
-      "title": "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
-      "href": "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/",
-      "points": "",
-      "comments": "\n              35 comments",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
-      "title": "Building a Serverless WASM AI Runtime in Rust",
-      "href": "https://www.youtube.com/watch?v=PSkUOIgYs0Y",
+      "title": "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
+      "href": "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              35 comments",
       "index": 16
     },
     {
-      "title": "Why Today’s Humanoids Won’t Learn Dexterity",
-      "href": "https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/",
+      "title": "The Case for Hybrid Cache for Object Stores",
+      "href": "https://risingwave.com/blog/the-case-for-hybrid-cache-for-object-stores/",
       "points": "",
       "comments": "\n              no comments",
       "index": 17
     },
     {
-      "title": "Dotfiles with make",
-      "href": "https://www.matheusmoreira.com/articles/managing-dotfiles-with-make",
+      "title": "Building a Serverless WASM AI Runtime in Rust",
+      "href": "https://www.youtube.com/watch?v=PSkUOIgYs0Y",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              no comments",
       "index": 18
-    },
-    {
-      "title": "Process Tracing Projects",
-      "href": "https://github.com/oils-for-unix/oils/wiki/Process-Tracing-Projects",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 19
-    },
-    {
-      "title": "Fast UDP I/O for Firefox in Rust",
-      "href": "https://max-inden.de/post/fast-udp-io-in-firefox/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 20
     },
     {
       "title": "Informed poll",
       "href": "https://pigweed.dev/pw_async2/informed_poll.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Dotfiles with make",
+      "href": "https://www.matheusmoreira.com/articles/managing-dotfiles-with-make",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 20
+    },
+    {
+      "title": "Process Tracing Projects",
+      "href": "https://github.com/oils-for-unix/oils/wiki/Process-Tracing-Projects",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 21
     },
     {
-      "title": "New PopOS beta shipped with Cosmis DE",
-      "href": "https://system76.com/pop/pop-beta/",
+      "title": "Fast UDP I/O for Firefox in Rust",
+      "href": "https://max-inden.de/post/fast-udp-io-in-firefox/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              3 comments",
       "index": 22
     },
     {
       "title": "Why a decades old architecture decision is impeding the power of AI computing",
       "href": "https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 23
+    },
+    {
+      "title": "New PopOS beta shipped with Cosmis DE",
+      "href": "https://system76.com/pop/pop-beta/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 24
     },
     {
       "title": "The File System Belongs in the Kernel (1991)",
       "href": "https://www.usenix.org/legacy/publications/library/proceedings/mach91/welch.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "A Very Early History of Algebraic Data Types",
-      "href": "https://www.hillelwayne.com/post/algdt-history/",
-      "points": "",
-      "comments": "\n              12 comments",
       "index": 25
     }
   ]
