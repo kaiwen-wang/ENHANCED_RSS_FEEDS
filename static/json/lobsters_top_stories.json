@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, September 28, 2025 at 12:15 AM GMT-5",
+  "date": "Sunday, September 28, 2025 at 1:25 AM GMT-5",
   "articles": [
     {
       "title": "Typst: a possible LaTeX replacement",
@@ -19,7 +19,7 @@
       "title": "Checkboxes that kill your product (2013)",
       "href": "https://limi.net/checkboxes",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 3
     },
     {
@@ -37,43 +37,43 @@
       "index": 5
     },
     {
-      "title": "Docker Was Too Slow, So We Replaced It: Nix in Production",
-      "href": "https://www.youtube.com/watch?v=iPoL03tFBtU",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 6
-    },
-    {
       "title": "First Malicious MCP in the Wild: The Postmark Backdoor That's Stealing Your Emails",
       "href": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
+      "title": "Docker Was Too Slow, So We Replaced It: Nix in Production",
+      "href": "https://www.youtube.com/watch?v=iPoL03tFBtU",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 7
+    },
+    {
+      "title": "Linus Torvalds and the Supposedly “Garbage Code”",
+      "href": "https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
     },
     {
       "title": "Fun Friday Question: What's the Best Way you've Broken Prod?",
       "href": "/s/ybzisr/fun_friday_question_what_s_best_way_you_ve",
       "points": "",
       "comments": "\n              59 comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "A statement from members of the NixOS moderation team",
       "href": "https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 9
-    },
-    {
-      "title": "Meshtastic 64 - A meshtastic radio for the Commodore 64",
-      "href": "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html",
-      "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              3 comments",
       "index": 10
     },
     {
-      "title": "Property-Based Testing of OCaml 5’s Runtime System",
-      "href": "https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf",
+      "title": "seL4 2025 Playlist",
+      "href": "https://youtube.com/playlist?list=PLtoQeavghzr3jKkKOQxDagndQboRfU_I4",
       "points": "",
       "comments": "\n              no comments",
       "index": 11
@@ -86,29 +86,29 @@
       "index": 12
     },
     {
-      "title": "LIVE 2025: live talks about live programming",
-      "href": "https://www.youtube.com/watch?v=5m5g4UO5W44",
+      "title": "Meshtastic 64 - A meshtastic radio for the Commodore 64",
+      "href": "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
       "index": 13
     },
     {
-      "title": "HSBC publishes yet another claim of quantum advantage that isn’t",
-      "href": "https://scottaaronson.blog/?p=9170",
+      "title": "Property-Based Testing of OCaml 5’s Runtime System",
+      "href": "https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf",
       "points": "",
       "comments": "\n              no comments",
       "index": 14
     },
     {
-      "title": "Linus Torvalds and the Supposedly “Garbage Code”",
-      "href": "https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/",
+      "title": "LIVE 2025: live talks about live programming",
+      "href": "https://www.youtube.com/watch?v=5m5g4UO5W44",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 15
     },
     {
-      "title": "The Unite Real Time Operating System",
-      "href": "https://jacquesmattheij.com/unite-operating-system/",
+      "title": "HSBC publishes yet another claim of quantum advantage that isn’t",
+      "href": "https://scottaaronson.blog/?p=9170",
       "points": "",
       "comments": "\n              no comments",
       "index": 16
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "The Unite Real Time Operating System",
+      "href": "https://jacquesmattheij.com/unite-operating-system/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
       "title": "Redis is fast - I'll cache in Postgres",
       "href": "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Code Mode: the better way to use MCP",
       "href": "https://blog.cloudflare.com/code-mode/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Flight Recorder in Go 1.25",
       "href": "https://go.dev/blog/flight-recorder",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Building a Serverless WASM AI Runtime in Rust",
       "href": "https://www.youtube.com/watch?v=PSkUOIgYs0Y",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Turning Billions of Strings into Integers Every Second Without Collisions",
       "href": "https://jazco.dev/2025/09/26/interning/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Rio Terminal: A hardware-accelerated GPU terminal emulator",
       "href": "https://rioterm.com/",
       "points": "",
       "comments": "\n              36 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
       "href": "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/",
       "points": "",
       "comments": "\n              36 comments",
-      "index": 24
-    },
-    {
-      "title": "The Case for Hybrid Cache for Object Stores",
-      "href": "https://risingwave.com/blog/the-case-for-hybrid-cache-for-object-stores/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
