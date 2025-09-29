@@ -1,39 +1,39 @@
 {
-  "date": "Monday, September 29, 2025 at 5:15 PM GMT-5",
+  "date": "Monday, September 29, 2025 at 6:15 PM GMT-5",
   "articles": [
     {
       "title": "F-Droid and Google's Developer Registration Decree",
       "href": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              23 comments",
       "index": 1
     },
     {
       "title": "Announcing Software You Can Love 2026",
       "href": "https://mattnite.net/blog/sycl-2026-announcement/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              9 comments",
       "index": 2
-    },
-    {
-      "title": "Just Let Me Select Text",
-      "href": "https://aartaka.me/select-text.html",
-      "points": "",
-      "comments": "\n              31 comments",
-      "index": 3
     },
     {
       "title": "Subtleties of SQLite Indexes",
       "href": "https://emschwartz.me/subtleties-of-sqlite-indexes/",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 3
+    },
+    {
+      "title": "Just Let Me Select Text",
+      "href": "https://aartaka.me/select-text.html",
+      "points": "",
+      "comments": "\n              31 comments",
       "index": 4
     },
     {
       "title": "AI is writing 90% of the code",
       "href": "https://lucumr.pocoo.org/2025/9/29/90-percent/",
       "points": "",
-      "comments": "\n              78 comments",
+      "comments": "\n              79 comments",
       "index": 5
     },
     {
@@ -65,17 +65,17 @@
       "index": 9
     },
     {
-      "title": "Go Proposal: architecture-specific SIMD intrinsics",
-      "href": "https://github.com/golang/go/issues/73787",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 10
-    },
-    {
       "title": "The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)",
       "href": "https://github.com/raphamorim/gameboy",
       "points": "",
       "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "Go Proposal: architecture-specific SIMD intrinsics",
+      "href": "https://github.com/golang/go/issues/73787",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 11
     },
     {
@@ -121,17 +121,17 @@
       "index": 17
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/pvyfsg/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              32 comments",
-      "index": 18
-    },
-    {
       "title": "In C++ modules globally unique module names seem to be unavoidable",
       "href": "https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 18
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/pvyfsg/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              33 comments",
       "index": 19
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
+      "title": "Heuristic: Ors Are Expensive",
+      "href": "https://ethanseal.com/articles/ors-are-expensive",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
       "title": "Why I'm not rushing to take sides in the RubyGems fiasco",
       "href": "https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/",
       "points": "",
-      "comments": "\n              55 comments",
-      "index": 23
+      "comments": "\n              57 comments",
+      "index": 24
     },
     {
       "title": "My (concurrency) Wishlist for Xcode 27",
       "href": "https://iamkonstantin.eu/blog/my-concurrency-wishlist-for-xcode-27/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Spent an hour or so working with claude to write a minimal static web server in COBOL",
-      "href": "https://github.com/jmsdnns/webbol",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 25
     }
   ]
