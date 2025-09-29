@@ -1,102 +1,102 @@
 {
-  "date": "Monday, September 29, 2025 at 8:30 AM GMT-5",
+  "date": "Monday, September 29, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "F-Droid and Google's Developer Registration Decree",
       "href": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 1
     },
     {
       "title": "Just Let Me Select Text",
       "href": "https://aartaka.me/select-text.html",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              24 comments",
       "index": 2
     },
     {
       "title": "stupid jj tricks",
       "href": "https://andre.arko.net/2025/09/28/stupid-jj-tricks/",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              21 comments",
       "index": 3
     },
     {
       "title": "Comparing Rust to Carbon",
       "href": "https://lwn.net/Articles/1036912/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              10 comments",
       "index": 4
     },
     {
       "title": "Small Data",
       "href": "https://topicpartition.io/definitions/small-data",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              22 comments",
       "index": 5
-    },
-    {
-      "title": "Why I'm not rushing to take sides in the RubyGems fiasco",
-      "href": "https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/",
-      "points": "",
-      "comments": "\n              40 comments",
-      "index": 6
-    },
-    {
-      "title": "My (concurrency) Wishlist for Xcode 27",
-      "href": "https://iamkonstantin.eu/blog/my-concurrency-wishlist-for-xcode-27/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 7
-    },
-    {
-      "title": "Offline translator for Android",
-      "href": "https://github.com/DavidVentura/firefox-translator",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 8
-    },
-    {
-      "title": "In C++ modules globally unique module names seem to be unavoidable",
-      "href": "https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 9
     },
     {
       "title": "Go Proposal: architecture-specific SIMD intrinsics",
       "href": "https://github.com/golang/go/issues/73787",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 10
+      "index": 6
+    },
+    {
+      "title": "Why I'm not rushing to take sides in the RubyGems fiasco",
+      "href": "https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/",
+      "points": "",
+      "comments": "\n              40 comments",
+      "index": 7
     },
     {
       "title": "Spent an hour or so working with claude to write a minimal static web server in COBOL",
       "href": "https://github.com/jmsdnns/webbol",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 8
+    },
+    {
+      "title": "AI is writing 90% of the code",
+      "href": "https://lucumr.pocoo.org/2025/9/29/90-percent/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 9
+    },
+    {
+      "title": "Code golfing a tiny demo using maths and a pinch of insanity",
+      "href": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
     },
     {
       "title": "Does AI Get Bored?",
       "href": "https://timkellogg.me/blog/2025/09/27/boredom",
       "points": "",
       "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "My (concurrency) Wishlist for Xcode 27",
+      "href": "https://iamkonstantin.eu/blog/my-concurrency-wishlist-for-xcode-27/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 12
     },
     {
-      "title": "RISC-V Conditional Moves",
-      "href": "https://www.corsix.org/content/riscv-conditional-moves",
+      "title": "Offline translator for Android",
+      "href": "https://github.com/DavidVentura/firefox-translator",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              12 comments",
       "index": 13
     },
     {
-      "title": "Slop Machines: on the interaction between feed recommender systems and genai",
-      "href": "https://notes.hella.cheap/slop-machines.html",
+      "title": "In C++ modules globally unique module names seem to be unavoidable",
+      "href": "https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
-      "title": "scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC",
-      "href": "https://git.lain.faith/iitalics/scm2wasm",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 16
-    },
-    {
-      "title": "NES Super Mario Bros. \"arbitrary code execution\"",
-      "href": "https://tasvideos.org/8991S",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "Tag suggestion: plan9",
-      "href": "/s/ijemcw/tag_suggestion_plan9",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 18
-    },
-    {
       "title": "What's New in PostgreSQL 18 - a Developer's Perspective",
       "href": "https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 16
+    },
+    {
+      "title": "RISC-V Conditional Moves",
+      "href": "https://www.corsix.org/content/riscv-conditional-moves",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 17
     },
     {
       "title": "dbos: Durable Workflow Orchestration with Go and Postgresql",
       "href": "https://github.com/dbos-inc/dbos-transact-golang",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Slop Machines: on the interaction between feed recommender systems and genai",
+      "href": "https://notes.hella.cheap/slop-machines.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC",
+      "href": "https://git.lain.faith/iitalics/scm2wasm",
+      "points": "",
+      "comments": "\n              5 comments",
       "index": 20
+    },
+    {
+      "title": "NES Super Mario Bros. \"arbitrary code execution\"",
+      "href": "https://tasvideos.org/8991S",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "Tag suggestion: plan9",
+      "href": "/s/ijemcw/tag_suggestion_plan9",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 22
     },
     {
       "title": "Testing \"exotic\" p2p VPN",
       "href": "https://blog.nommy.moe/blog/exotic-mesh-vpn/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Linus Torvalds and the Supposedly “Garbage Code”",
       "href": "https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/",
       "points": "",
       "comments": "\n              23 comments",
-      "index": 22
-    },
-    {
-      "title": "Supply chain security for the 0.001% (and why it won’t catch on)",
-      "href": "https://blog.viraptor.info/post/supply-chain-security-for-the-0001-and-why-it-wont-catch-on",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Urgency vs importance",
       "href": "https://archaeologist.dev/artifacts/priorities",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 24
-    },
-    {
-      "title": "Detaching GraalVM from the Java Ecosystem Train",
-      "href": "https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 25
     }
   ]
