@@ -1,11 +1,11 @@
 {
-  "date": "Monday, September 29, 2025 at 9:20 AM GMT-5",
+  "date": "Monday, September 29, 2025 at 10:20 AM GMT-5",
   "articles": [
     {
       "title": "F-Droid and Google's Developer Registration Decree",
       "href": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
@@ -26,98 +26,98 @@
       "title": "Comparing Rust to Carbon",
       "href": "https://lwn.net/Articles/1036912/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 4
-    },
-    {
-      "title": "Small Data",
-      "href": "https://topicpartition.io/definitions/small-data",
-      "points": "",
-      "comments": "\n              22 comments",
-      "index": 5
     },
     {
       "title": "Go Proposal: architecture-specific SIMD intrinsics",
       "href": "https://github.com/golang/go/issues/73787",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 6
-    },
-    {
-      "title": "Why I'm not rushing to take sides in the RubyGems fiasco",
-      "href": "https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/",
-      "points": "",
-      "comments": "\n              40 comments",
-      "index": 7
-    },
-    {
-      "title": "Spent an hour or so working with claude to write a minimal static web server in COBOL",
-      "href": "https://github.com/jmsdnns/webbol",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 8
+      "index": 5
     },
     {
       "title": "AI is writing 90% of the code",
       "href": "https://lucumr.pocoo.org/2025/9/29/90-percent/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 9
+      "comments": "\n              8 comments",
+      "index": 6
     },
     {
-      "title": "Code golfing a tiny demo using maths and a pinch of insanity",
-      "href": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
+      "title": "Small Data",
+      "href": "https://topicpartition.io/definitions/small-data",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "Does AI Get Bored?",
-      "href": "https://timkellogg.me/blog/2025/09/27/boredom",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "My (concurrency) Wishlist for Xcode 27",
-      "href": "https://iamkonstantin.eu/blog/my-concurrency-wishlist-for-xcode-27/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "Offline translator for Android",
-      "href": "https://github.com/DavidVentura/firefox-translator",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 13
+      "comments": "\n              22 comments",
+      "index": 7
     },
     {
       "title": "In C++ modules globally unique module names seem to be unavoidable",
       "href": "https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 14
+      "index": 8
+    },
+    {
+      "title": "Why I'm not rushing to take sides in the RubyGems fiasco",
+      "href": "https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/",
+      "points": "",
+      "comments": "\n              44 comments",
+      "index": 9
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/pvyfsg/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 15
+      "comments": "\n              8 comments",
+      "index": 10
     },
     {
-      "title": "What's New in PostgreSQL 18 - a Developer's Perspective",
-      "href": "https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/",
+      "title": "Spent an hour or so working with claude to write a minimal static web server in COBOL",
+      "href": "https://github.com/jmsdnns/webbol",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 11
+    },
+    {
+      "title": "Code golfing a tiny demo using maths and a pinch of insanity",
+      "href": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Does AI Get Bored?",
+      "href": "https://timkellogg.me/blog/2025/09/27/boredom",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "My (concurrency) Wishlist for Xcode 27",
+      "href": "https://iamkonstantin.eu/blog/my-concurrency-wishlist-for-xcode-27/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Offline translator for Android",
+      "href": "https://github.com/DavidVentura/firefox-translator",
+      "points": "",
+      "comments": "\n              12 comments",
+      "index": 15
     },
     {
       "title": "RISC-V Conditional Moves",
       "href": "https://www.corsix.org/content/riscv-conditional-moves",
       "points": "",
       "comments": "\n              4 comments",
+      "index": 16
+    },
+    {
+      "title": "What's New in PostgreSQL 18 - a Developer's Perspective",
+      "href": "https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "Tag suggestion: plan9",
+      "href": "/s/ijemcw/tag_suggestion_plan9",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 20
+    },
+    {
+      "title": "LLM Inference Economics from First Principles",
+      "href": "https://www.tensoreconomics.com/p/llm-inference-economics-from-first",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
       "title": "scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC",
       "href": "https://git.lain.faith/iitalics/scm2wasm",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 20
+      "index": 22
     },
     {
       "title": "NES Super Mario Bros. \"arbitrary code execution\"",
       "href": "https://tasvideos.org/8991S",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
-    },
-    {
-      "title": "Tag suggestion: plan9",
-      "href": "/s/ijemcw/tag_suggestion_plan9",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Testing \"exotic\" p2p VPN",
       "href": "https://blog.nommy.moe/blog/exotic-mesh-vpn/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Linus Torvalds and the Supposedly “Garbage Code”",
       "href": "https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/",
       "points": "",
       "comments": "\n              23 comments",
-      "index": 24
-    },
-    {
-      "title": "Urgency vs importance",
-      "href": "https://archaeologist.dev/artifacts/priorities",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 25
     }
   ]
