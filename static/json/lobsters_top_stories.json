@@ -1,5 +1,5 @@
 {
-  "date": "Monday, September 29, 2025 at 3:20 PM GMT-5",
+  "date": "Monday, September 29, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "F-Droid and Google's Developer Registration Decree",
@@ -33,14 +33,14 @@
       "title": "AI is writing 90% of the code",
       "href": "https://lucumr.pocoo.org/2025/9/29/90-percent/",
       "points": "",
-      "comments": "\n              68 comments",
+      "comments": "\n              74 comments",
       "index": 5
     },
     {
       "title": "stupid jj tricks",
       "href": "https://andre.arko.net/2025/09/28/stupid-jj-tricks/",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              24 comments",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "UNIX99: UNIX for the TI-99/4A",
-      "href": "https://www.osnews.com/story/143436/unix99-unix-for-the-ti-99-4a/",
+      "title": "Code golfing a tiny demo using maths and a pinch of insanity",
+      "href": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
       "points": "",
       "comments": "\n              4 comments",
       "index": 8
     },
     {
-      "title": "Code golfing a tiny demo using maths and a pinch of insanity",
-      "href": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
+      "title": "UNIX99: UNIX for the TI-99/4A",
+      "href": "https://www.osnews.com/story/143436/unix99-unix-for-the-ti-99-4a/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              4 comments",
       "index": 9
     },
     {
@@ -86,10 +86,10 @@
       "index": 12
     },
     {
-      "title": "Small Data",
-      "href": "https://topicpartition.io/definitions/small-data",
+      "title": "Can LIGO Detect Daylight Savings Time?",
+      "href": "https://arxiv.org/abs/2509.11849",
       "points": "",
-      "comments": "\n              22 comments",
+      "comments": "\n              no comments",
       "index": 13
     },
     {
@@ -100,73 +100,73 @@
       "index": 14
     },
     {
-      "title": "Adding a new instruction to RISC-V backend in LLVM",
-      "href": "https://blog.gustavoleite.me/llvm-riscv-instruction",
+      "title": "std::flip",
+      "href": "https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 15
-    },
-    {
-      "title": "In C++ modules globally unique module names seem to be unavoidable",
-      "href": "https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 16
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/pvyfsg/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              32 comments",
+      "index": 16
+    },
+    {
+      "title": "In C++ modules globally unique module names seem to be unavoidable",
+      "href": "https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 17
+    },
+    {
+      "title": "Small Data",
+      "href": "https://topicpartition.io/definitions/small-data",
+      "points": "",
+      "comments": "\n              22 comments",
+      "index": 18
+    },
+    {
+      "title": "Adding a new instruction to RISC-V backend in LLVM",
+      "href": "https://blog.gustavoleite.me/llvm-riscv-instruction",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "Does AI Get Bored?",
       "href": "https://timkellogg.me/blog/2025/09/27/boredom",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "My (concurrency) Wishlist for Xcode 27",
-      "href": "https://iamkonstantin.eu/blog/my-concurrency-wishlist-for-xcode-27/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "dbos: Durable Workflow Orchestration with Go and Postgresql",
       "href": "https://github.com/dbos-inc/dbos-transact-golang",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Why I'm not rushing to take sides in the RubyGems fiasco",
       "href": "https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/",
       "points": "",
-      "comments": "\n              50 comments",
-      "index": 21
+      "comments": "\n              51 comments",
+      "index": 22
     },
     {
-      "title": "Can LIGO Detect Daylight Savings Time?",
-      "href": "https://arxiv.org/abs/2509.11849",
+      "title": "My (concurrency) Wishlist for Xcode 27",
+      "href": "https://iamkonstantin.eu/blog/my-concurrency-wishlist-for-xcode-27/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Spent an hour or so working with claude to write a minimal static web server in COBOL",
       "href": "https://github.com/jmsdnns/webbol",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 23
-    },
-    {
-      "title": "std::flip",
-      "href": "https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
