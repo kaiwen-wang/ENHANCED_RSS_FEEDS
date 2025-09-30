@@ -1,214 +1,214 @@
 {
-  "date": "Tuesday, September 30, 2025 at 12:15 PM GMT-5",
+  "date": "Tuesday, September 30, 2025 at 1:25 PM GMT-5",
   "articles": [
     {
-      "title": "Kagi News",
-      "href": "https://blog.kagi.com/kagi-news",
-      "points": "352 points",
-      "comments": "118 comments",
+      "title": "A $196 fine-tuned 7B model outperforms OpenAI o3 on document extraction",
+      "href": "https://arxiv.org/abs/2509.22906",
+      "points": "110 points",
+      "comments": "28 comments",
       "index": 1
     },
     {
       "title": "Launch HN: Airweave (YC X25) – Let agents search any app",
       "href": "https://github.com/airweave-ai/airweave",
-      "points": "53 points",
-      "comments": "2 comments",
+      "points": "83 points",
+      "comments": "5 comments",
       "index": 2
+    },
+    {
+      "title": "Boeing Has Started Working on a 737 MAX Replacement",
+      "href": "https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df",
+      "points": "22 points",
+      "comments": "30 comments",
+      "index": 3
     },
     {
       "title": "Leaked Apple M5 9 core Geekbench scores",
       "href": "https://browser.geekbench.com/v6/cpu/14173685",
-      "points": "47 points",
-      "comments": "6 comments",
-      "index": 3
-    },
-    {
-      "title": "Show HN: Sculptor, the Missing UI for Claude Code",
-      "href": "https://imbue.com/sculptor/",
-      "points": "39 points",
-      "comments": "20 comments",
+      "points": "103 points",
+      "comments": "72 comments",
       "index": 4
     },
     {
-      "title": "Visualizations of Random Attractors Found Using Lyapunov Exponents",
-      "href": "https://paulbourke.net/fractals/lyapunov/",
-      "points": "35 points",
-      "comments": "4 comments",
+      "title": "Kagi News",
+      "href": "https://blog.kagi.com/kagi-news",
+      "points": "502 points",
+      "comments": "205 comments",
       "index": 5
+    },
+    {
+      "title": "Show HN: Sculptor – UI for Claude Code",
+      "href": "https://imbue.com/sculptor/",
+      "points": "79 points",
+      "comments": "44 comments",
+      "index": 6
+    },
+    {
+      "title": "Sora 2",
+      "href": "https://openai.com/index/sora-2/",
+      "points": "147 points",
+      "comments": "104 comments",
+      "index": 7
+    },
+    {
+      "title": "Frank Chimero: I think we're in the lemon stage of the internet",
+      "href": "https://frankchimero.com/blog/2025/selling-lemons/",
+      "points": "115 points",
+      "comments": "56 comments",
+      "index": 8
     },
     {
       "title": "Bild AI (YC W25) Is Hiring",
       "href": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai",
       "points": "",
       "comments": "hide",
-      "index": 6
+      "index": 9
     },
     {
-      "title": "Frank Chimero: I think we're in the lemon stage of the internet",
-      "href": "https://frankchimero.com/blog/2025/selling-lemons/",
-      "points": "57 points",
-      "comments": "23 comments",
-      "index": 7
+      "title": "Visualizations of Random Attractors Found Using Lyapunov Exponents",
+      "href": "https://paulbourke.net/fractals/lyapunov/",
+      "points": "51 points",
+      "comments": "7 comments",
+      "index": 10
+    },
+    {
+      "title": "Hedge Funds Have to Be Big",
+      "href": "https://www.bloomberg.com/opinion/newsletters/2025-09-30/hedge-funds-have-to-be-big",
+      "points": "10 points",
+      "comments": "8 comments",
+      "index": 11
     },
     {
       "title": "dgsh – Directed Graph Shell",
       "href": "https://www2.dmst.aueb.gr/dds/sw/dgsh/",
-      "points": "57 points",
-      "comments": "23 comments",
-      "index": 8
+      "points": "72 points",
+      "comments": "31 comments",
+      "index": 12
+    },
+    {
+      "title": "Cerebras Systems Raises $1.1B Series G at $8.1B Valuation",
+      "href": "https://www.cerebras.ai/press-release/series-g",
+      "points": "31 points",
+      "comments": "7 comments",
+      "index": 13
+    },
+    {
+      "title": "A Gentle Introduction to CUDA PTX",
+      "href": "https://philipfabianek.com/posts/cuda-ptx-introduction/",
+      "points": "21 points",
+      "comments": "discuss",
+      "index": 14
     },
     {
       "title": "Computer Vision: Algorithms and Applications, 2nd ed",
       "href": "https://szeliski.org/Book/",
-      "points": "24 points",
-      "comments": "4 comments",
-      "index": 9
+      "points": "45 points",
+      "comments": "5 comments",
+      "index": 15
     },
     {
       "title": "Deml: The Directed Acyclic Graph Elevation Markup Language",
       "href": "https://github.com/Mcmartelle/deml",
-      "points": "38 points",
-      "comments": "6 comments",
-      "index": 10
-    },
-    {
-      "title": "Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table",
-      "href": "https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English",
-      "points": "67 points",
-      "comments": "11 comments",
-      "index": 11
-    },
-    {
-      "title": "Bcachefs removed from the mainline kernel",
-      "href": "https://lwn.net/Articles/1040120/",
-      "points": "191 points",
-      "comments": "114 comments",
-      "index": 12
-    },
-    {
-      "title": "Comprehension debt: A ticking time bomb of LLM-generated code",
-      "href": "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/",
-      "points": "407 points",
-      "comments": "265 comments",
-      "index": 13
-    },
-    {
-      "title": "Sora 2",
-      "href": "https://openai.com/index/sora-2/",
-      "points": "25 points",
-      "comments": "5 comments",
-      "index": 14
-    },
-    {
-      "title": "BrowserPod: In-browser full-stack environments for IDEs and Agents via WASM",
-      "href": "https://labs.leaningtech.com/blog/browserpod-annoucement",
-      "points": "20 points",
-      "comments": "2 comments",
-      "index": 15
-    },
-    {
-      "title": "Correctness and composability bugs in the Julia ecosystem (2022)",
-      "href": "https://yuri.is/not-julia/",
-      "points": "88 points",
-      "comments": "36 comments",
+      "points": "47 points",
+      "comments": "8 comments",
       "index": 16
     },
     {
-      "title": "AI will happily design the wrong thing for you",
-      "href": "https://www.antonsten.com/articles/ai-will-happily-design-the-wrong-thing-for-you/",
-      "points": "62 points",
-      "comments": "9 comments",
+      "title": "Genomic analyses of hair from Ludwig van Beethoven",
+      "href": "https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1",
+      "points": "9 points",
+      "comments": "discuss",
       "index": 17
-    },
-    {
-      "title": "How Does Lossless Compression in Fuji RAF Files Work? (2020)",
-      "href": "https://capnfabs.net/posts/fuji-raf-compression-algorithm/",
-      "points": "67 points",
-      "comments": "30 comments",
-      "index": 18
-    },
-    {
-      "title": "Claude Code 2.0",
-      "href": "https://www.npmjs.com/package/@anthropic-ai/claude-code",
-      "points": "802 points",
-      "comments": "377 comments",
-      "index": 19
-    },
-    {
-      "title": "Show HN: A web version of Pips game (NYT domino game)",
-      "href": "https://pipsgamer.com",
-      "points": "27 points",
-      "comments": "15 comments",
-      "index": 20
-    },
-    {
-      "title": "Geolocation and Starlink",
-      "href": "https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html",
-      "points": "116 points",
-      "comments": "51 comments",
-      "index": 21
-    },
-    {
-      "title": "I’ve removed Disqus. It was making my blog worse",
-      "href": "https://ryansouthgate.com/goodbye-disqus/",
-      "points": "482 points",
-      "comments": "269 comments",
-      "index": 22
-    },
-    {
-      "title": "Orbiting the Hénon Attractor",
-      "href": "https://observablehq.com/@yurivish/orbiting-the-henon-attractor",
-      "points": "35 points",
-      "comments": "6 comments",
-      "index": 23
     },
     {
       "title": "Introducing Sora 2 [video]",
       "href": "https://www.youtube.com/watch?v=gzneGhpXwjU",
-      "points": "10 points",
-      "comments": "discuss",
+      "points": "58 points",
+      "comments": "16 comments",
+      "index": 18
+    },
+    {
+      "title": "Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table",
+      "href": "https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English",
+      "points": "75 points",
+      "comments": "11 comments",
+      "index": 19
+    },
+    {
+      "title": "Comprehension debt: A ticking time bomb of LLM-generated code",
+      "href": "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/",
+      "points": "441 points",
+      "comments": "279 comments",
+      "index": 20
+    },
+    {
+      "title": "BrowserPod: In-browser full-stack environments for IDEs and Agents via WASM",
+      "href": "https://labs.leaningtech.com/blog/browserpod-annoucement",
+      "points": "31 points",
+      "comments": "9 comments",
+      "index": 21
+    },
+    {
+      "title": "Conway's Pinwheel Tiling",
+      "href": "https://www.johndcook.com/blog/2025/09/25/conways-pinwheel-tiling/",
+      "points": "5 points",
+      "comments": "1 comment",
+      "index": 22
+    },
+    {
+      "title": "Designing Agentic Loops",
+      "href": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
+      "points": "14 points",
+      "comments": "1 comment",
+      "index": 23
+    },
+    {
+      "title": "There is a huge pool of exceptional junior engineers",
+      "href": "https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies",
+      "points": "163 points",
+      "comments": "252 comments",
       "index": 24
     },
     {
-      "title": "How to create an OS from scratch",
-      "href": "https://github.com/cfenollosa/os-tutorial",
-      "points": "205 points",
-      "comments": "69 comments",
+      "title": "Bcachefs removed from the mainline kernel",
+      "href": "https://lwn.net/Articles/1040120/",
+      "points": "202 points",
+      "comments": "143 comments",
       "index": 25
     },
     {
-      "title": "The Dismantling of the Forest Service",
-      "href": "https://www.hcn.org/articles/trump-looks-to-dismantle-the-forest-service/",
-      "points": "11 points",
-      "comments": "discuss",
+      "title": "AI will happily design the wrong thing for you",
+      "href": "https://www.antonsten.com/articles/ai-will-happily-design-the-wrong-thing-for-you/",
+      "points": "81 points",
+      "comments": "10 comments",
       "index": 26
     },
     {
-      "title": "Claude Sonnet 4.5",
-      "href": "https://www.anthropic.com/news/claude-sonnet-4-5",
-      "points": "1501 points",
-      "comments": "744 comments",
+      "title": "Geolocation and Starlink",
+      "href": "https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html",
+      "points": "136 points",
+      "comments": "57 comments",
       "index": 27
     },
     {
-      "title": "Safe zero-copy operations in C#",
-      "href": "https://ssg.dev/safe-zero-copy-operations-in-c/",
-      "points": "196 points",
-      "comments": "58 comments",
+      "title": "Correctness and composability bugs in the Julia ecosystem (2022)",
+      "href": "https://yuri.is/not-julia/",
+      "points": "97 points",
+      "comments": "48 comments",
       "index": 28
     },
     {
-      "title": "Using the TPDE Codegen Back End in LLVM Orc",
-      "href": "https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html",
-      "points": "18 points",
-      "comments": "2 comments",
+      "title": "Show HN: A web version of Pips game (NYT domino game)",
+      "href": "https://pipsgamer.com",
+      "points": "32 points",
+      "comments": "16 comments",
       "index": 29
     },
     {
-      "title": "Bad Apple but it's played inside Super Mario Bros",
-      "href": "https://tasvideos.org/8991S",
-      "points": "194 points",
-      "comments": "29 comments",
+      "title": "Orbiting the Hénon Attractor",
+      "href": "https://observablehq.com/@yurivish/orbiting-the-henon-attractor",
+      "points": "46 points",
+      "comments": "8 comments",
       "index": 30
     }
   ]
