@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, September 30, 2025 at 5:20 AM GMT-5",
+  "date": "Tuesday, September 30, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "MAML - a new configuration language (similar to JSON, YAML, and TOML)",
       "href": "https://maml.dev/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              14 comments",
       "index": 1
     },
     {
@@ -16,36 +16,36 @@
       "index": 2
     },
     {
-      "title": "F-Droid and Google's Developer Registration Decree",
-      "href": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
-      "points": "",
-      "comments": "\n              29 comments",
-      "index": 3
-    },
-    {
       "title": "Pidgin 3.0 Experimental 4 (2.93.0) has been released",
       "href": "https://discourse.imfreedom.org/t/pidgin-3-0-experimental-4-2-93-0-has-been-released/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 3
+    },
+    {
+      "title": "F-Droid and Google's Developer Registration Decree",
+      "href": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
+      "points": "",
+      "comments": "\n              29 comments",
       "index": 4
     },
     {
       "title": "Subtleties of SQLite Indexes",
       "href": "https://emschwartz.me/subtleties-of-sqlite-indexes/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 5
-    },
-    {
-      "title": "The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)",
-      "href": "https://github.com/raphamorim/gameboy",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 6
     },
     {
       "title": "Bcachefs removed from the mainline kernel",
       "href": "https://lwn.net/Articles/1040120/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 6
+    },
+    {
+      "title": "The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)",
+      "href": "https://github.com/raphamorim/gameboy",
       "points": "",
       "comments": "\n              1 comment",
       "index": 7
@@ -54,7 +54,7 @@
       "title": "Just Let Me Select Text",
       "href": "https://aartaka.me/select-text.html",
       "points": "",
-      "comments": "\n              33 comments",
+      "comments": "\n              34 comments",
       "index": 8
     },
     {
@@ -82,7 +82,7 @@
       "title": "Go Proposal: architecture-specific SIMD intrinsics",
       "href": "https://github.com/golang/go/issues/73787",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 12
     },
     {
@@ -100,78 +100,78 @@
       "index": 14
     },
     {
+      "title": "Introducing tdom: HTML templating with t‑strings",
+      "href": "https://davepeck.org/2025/09/22/introducing-tdom-html-templating-with-python-t-strings/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 15
+    },
+    {
       "title": "UNIX99: UNIX for the TI-99/4A",
       "href": "https://www.osnews.com/story/143436/unix99-unix-for-the-ti-99-4a/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "stupid jj tricks",
       "href": "https://andre.arko.net/2025/09/28/stupid-jj-tricks/",
       "points": "",
       "comments": "\n              25 comments",
-      "index": 16
-    },
-    {
-      "title": "Introducing tdom: HTML templating with t‑strings",
-      "href": "https://davepeck.org/2025/09/22/introducing-tdom-html-templating-with-python-t-strings/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 17
-    },
-    {
-      "title": "Adding a new instruction to RISC-V backend in LLVM",
-      "href": "https://blog.gustavoleite.me/llvm-riscv-instruction",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
     },
     {
       "title": "Can LIGO Detect Daylight Savings Time?",
       "href": "https://arxiv.org/abs/2509.11849",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
+      "title": "Adding a new instruction to RISC-V backend in LLVM",
+      "href": "https://blog.gustavoleite.me/llvm-riscv-instruction",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 19
+    },
+    {
+      "title": "io_uring is not an event system (2021)",
+      "href": "https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "Comparing Rust to Carbon",
       "href": "https://lwn.net/Articles/1036912/",
       "points": "",
       "comments": "\n              18 comments",
-      "index": 20
+      "index": 21
+    },
+    {
+      "title": "Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code",
+      "href": "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Subtext Retrospective",
       "href": "https://www.subtext-lang.org/retrospective.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Brownian motion: Modeling random fields over arbitrary geometries",
-      "href": "https://stopthrowingrocks.github.io/random-fields/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Sguaba: Type-safe spatial math in Rust",
-      "href": "https://www.youtube.com/watch?v=kESBAiTYMoQ",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 23
     },
     {
-      "title": "Matrix Derivation",
-      "href": "https://stopthrowingrocks.github.io/matrix-derivation/",
+      "title": "What's New in PostgreSQL 18 - a Developer's Perspective",
+      "href": "https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "std::flip",
-      "href": "https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html",
+      "title": "Brownian motion: Modeling random fields over arbitrary geometries",
+      "href": "https://stopthrowingrocks.github.io/random-fields/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
