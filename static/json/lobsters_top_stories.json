@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, September 30, 2025 at 4:15 PM GMT-5",
+  "date": "Tuesday, September 30, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "The Software Essays that Shaped Me",
       "href": "https://refactoringenglish.com/blog/software-essays-that-shaped-me/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
-      "title": "Bcachefs removed from the mainline kernel",
-      "href": "https://lwn.net/Articles/1040120/",
+      "title": "Glide, an extensible, keyboard-focused web browser",
+      "href": "https://blog.craigie.dev/introducing-glide/",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              10 comments",
       "index": 2
     },
     {
@@ -23,24 +23,24 @@
       "index": 3
     },
     {
+      "title": "Bcachefs removed from the mainline kernel",
+      "href": "https://lwn.net/Articles/1040120/",
+      "points": "",
+      "comments": "\n              24 comments",
+      "index": 4
+    },
+    {
       "title": "we move as 1",
       "href": "https://stopthrowingrocks.github.io/wma1/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "MAML - a new configuration language (similar to JSON, YAML, and TOML)",
       "href": "https://maml.dev/",
       "points": "",
-      "comments": "\n              43 comments",
-      "index": 5
-    },
-    {
-      "title": "Glide, an extensible, keyboard-focused web browser",
-      "href": "https://blog.craigie.dev/introducing-glide/",
-      "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              46 comments",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
+      "title": "The expression problem and Rust",
+      "href": "https://purplesyringa.moe/blog/the-expression-problem-and-rust/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 8
+    },
+    {
       "title": "Go proposal: Hashers",
       "href": "https://antonz.org/accepted/maphash-hasher/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 8
-    },
-    {
-      "title": "The expression problem and Rust",
-      "href": "https://purplesyringa.moe/blog/the-expression-problem-and-rust/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 9
     },
     {
@@ -86,45 +86,45 @@
       "index": 12
     },
     {
-      "title": "Shellshock (2014, 2025)",
-      "href": "https://dwheeler.com/essays/shellshock.html",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 13
-    },
-    {
       "title": "Organize your Slack channels by “How Often”, not “What”",
       "href": "https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "Shellshock (2014, 2025)",
+      "href": "https://dwheeler.com/essays/shellshock.html",
+      "points": "",
+      "comments": "\n              3 comments",
       "index": 14
+    },
+    {
+      "title": "Radicle 1.5.0 – Hibiscus",
+      "href": "https://radicle.xyz/2025/09/30/radicle-1.5.0",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 15
     },
     {
       "title": "Announcing Software You Can Love 2026",
       "href": "https://mattnite.net/blog/sycl-2026-announcement/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 15
+      "index": 16
     },
     {
-      "title": "Radicle 1.5.0 – Hibiscus",
-      "href": "https://radicle.xyz/2025/09/30/radicle-1.5.0",
+      "title": "Designing agentic loops",
+      "href": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 16
+      "comments": "\n              3 comments",
+      "index": 17
     },
     {
       "title": "F-Droid and Google's Developer Registration Decree",
       "href": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
       "points": "",
-      "comments": "\n              38 comments",
-      "index": 17
-    },
-    {
-      "title": "Subtleties of SQLite Indexes",
-      "href": "https://emschwartz.me/subtleties-of-sqlite-indexes/",
-      "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              39 comments",
       "index": 18
     },
     {
@@ -135,43 +135,43 @@
       "index": 19
     },
     {
-      "title": "The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)",
-      "href": "https://github.com/raphamorim/gameboy",
+      "title": "Subtleties of SQLite Indexes",
+      "href": "https://emschwartz.me/subtleties-of-sqlite-indexes/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              20 comments",
       "index": 20
     },
     {
-      "title": "Designing agentic loops",
-      "href": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
+      "title": "The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)",
+      "href": "https://github.com/raphamorim/gameboy",
       "points": "",
       "comments": "\n              2 comments",
       "index": 21
     },
     {
-      "title": "Systems Programming with Zig",
-      "href": "https://www.manning.com/books/systems-programming-with-zig",
+      "title": "Bevy 0.17",
+      "href": "https://bevy.org/news/bevy-0-17/",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
-    },
-    {
-      "title": "3 critical TTL patterns for in-memory caching",
-      "href": "https://samuelberthe.substack.com/p/3-critical-ttl-patterns-for-in-memory",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
     },
     {
       "title": "More speculations on arenas in C++",
       "href": "https://nullprogram.com/blog/2025/09/30/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Systems Programming with Zig",
+      "href": "https://www.manning.com/books/systems-programming-with-zig",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Bevy 0.17",
-      "href": "https://bevy.org/news/bevy-0-17/",
+      "title": "3 critical TTL patterns for in-memory caching",
+      "href": "https://samuelberthe.substack.com/p/3-critical-ttl-patterns-for-in-memory",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
