@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, September 30, 2025 at 1:30 AM GMT-5",
+  "date": "Tuesday, September 30, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "Announcing Software You Can Love 2026",
@@ -12,49 +12,49 @@
       "title": "F-Droid and Google's Developer Registration Decree",
       "href": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
       "points": "",
-      "comments": "\n              27 comments",
+      "comments": "\n              28 comments",
       "index": 2
+    },
+    {
+      "title": "MAML - a new configuration language (similar to JSON, YAML, and TOML)",
+      "href": "https://maml.dev/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 3
     },
     {
       "title": "Subtleties of SQLite Indexes",
       "href": "https://emschwartz.me/subtleties-of-sqlite-indexes/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 3
-    },
-    {
-      "title": "MAML - a new configuration language (similar to JSON, YAML, and TOML)",
-      "href": "https://maml.dev/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 4
-    },
-    {
-      "title": "Just Let Me Select Text",
-      "href": "https://aartaka.me/select-text.html",
-      "points": "",
-      "comments": "\n              32 comments",
-      "index": 5
     },
     {
       "title": "Pidgin 3.0 Experimental 4 (2.93.0) has been released",
       "href": "https://discourse.imfreedom.org/t/pidgin-3-0-experimental-4-2-93-0-has-been-released/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 6
-    },
-    {
-      "title": "AI is writing 90% of the code",
-      "href": "https://lucumr.pocoo.org/2025/9/29/90-percent/",
-      "points": "",
-      "comments": "\n              96 comments",
-      "index": 7
+      "index": 5
     },
     {
       "title": "The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)",
       "href": "https://github.com/raphamorim/gameboy",
       "points": "",
       "comments": "\n              no comments",
+      "index": 6
+    },
+    {
+      "title": "Just Let Me Select Text",
+      "href": "https://aartaka.me/select-text.html",
+      "points": "",
+      "comments": "\n              32 comments",
+      "index": 7
+    },
+    {
+      "title": "AI is writing 90% of the code",
+      "href": "https://lucumr.pocoo.org/2025/9/29/90-percent/",
+      "points": "",
+      "comments": "\n              96 comments",
       "index": 8
     },
     {
@@ -65,66 +65,66 @@
       "index": 9
     },
     {
+      "title": "Code golfing a tiny demo using maths and a pinch of insanity",
+      "href": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 10
+    },
+    {
       "title": "Go Proposal: architecture-specific SIMD intrinsics",
       "href": "https://github.com/golang/go/issues/73787",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Introducing Claude Sonnet 4.5",
       "href": "https://www.anthropic.com/news/claude-sonnet-4-5",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 11
+      "index": 12
+    },
+    {
+      "title": "UNIX99: UNIX for the TI-99/4A",
+      "href": "https://www.osnews.com/story/143436/unix99-unix-for-the-ti-99-4a/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 13
     },
     {
       "title": "stupid jj tricks",
       "href": "https://andre.arko.net/2025/09/28/stupid-jj-tricks/",
       "points": "",
       "comments": "\n              25 comments",
-      "index": 12
+      "index": 14
     },
     {
       "title": "we move as 1",
       "href": "https://stopthrowingrocks.github.io/wma1/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "Code golfing a tiny demo using maths and a pinch of insanity",
-      "href": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 14
-    },
-    {
-      "title": "UNIX99: UNIX for the TI-99/4A",
-      "href": "https://www.osnews.com/story/143436/unix99-unix-for-the-ti-99-4a/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 15
     },
     {
       "title": "Introducing tdom: HTML templating with t‑strings",
       "href": "https://davepeck.org/2025/09/22/introducing-tdom-html-templating-with-python-t-strings/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 16
+    },
+    {
+      "title": "Subtext Retrospective",
+      "href": "https://www.subtext-lang.org/retrospective.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "Comparing Rust to Carbon",
       "href": "https://lwn.net/Articles/1036912/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 17
-    },
-    {
-      "title": "Adding a new instruction to RISC-V backend in LLVM",
-      "href": "https://blog.gustavoleite.me/llvm-riscv-instruction",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 18
     },
     {
@@ -135,22 +135,22 @@
       "index": 19
     },
     {
-      "title": "std::flip",
-      "href": "https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html",
+      "title": "Adding a new instruction to RISC-V backend in LLVM",
+      "href": "https://blog.gustavoleite.me/llvm-riscv-instruction",
       "points": "",
       "comments": "\n              no comments",
       "index": 20
     },
     {
-      "title": "How much do you really know about media queries?",
-      "href": "https://frontendmasters.com/blog/learn-media-queries/",
+      "title": "std::flip",
+      "href": "https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 21
     },
     {
-      "title": "io_uring is not an event system (2021)",
-      "href": "https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/",
+      "title": "How much do you really know about media queries?",
+      "href": "https://frontendmasters.com/blog/learn-media-queries/",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
@@ -163,15 +163,15 @@
       "index": 23
     },
     {
-      "title": "Brownian motion: Modeling random fields over arbitrary geometries",
-      "href": "https://stopthrowingrocks.github.io/random-fields/",
+      "title": "io_uring is not an event system (2021)",
+      "href": "https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Matrix Derivation",
-      "href": "https://stopthrowingrocks.github.io/matrix-derivation/",
+      "title": "How We Made SWE-Bench 50x Smaller",
+      "href": "https://logicstar.ai/blog/how-we-made-swe-bench-50x-smaller",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
