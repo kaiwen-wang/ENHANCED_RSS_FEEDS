@@ -1,39 +1,39 @@
 {
-  "date": "Tuesday, September 30, 2025 at 1:25 PM GMT-5",
+  "date": "Tuesday, September 30, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Bcachefs removed from the mainline kernel",
       "href": "https://lwn.net/Articles/1040120/",
       "points": "",
-      "comments": "\n              21 comments",
+      "comments": "\n              22 comments",
       "index": 1
+    },
+    {
+      "title": "The Software Essays that Shaped Me",
+      "href": "https://refactoringenglish.com/blog/software-essays-that-shaped-me/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 2
     },
     {
       "title": "Open Printer is an open source inkjet printer with DRM-free ink and roll paper support",
       "href": "https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 2
+      "index": 3
     },
     {
       "title": "we move as 1",
       "href": "https://stopthrowingrocks.github.io/wma1/",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 3
-    },
-    {
-      "title": "The Software Essays that Shaped Me",
-      "href": "https://refactoringenglish.com/blog/software-essays-that-shaped-me/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 4
     },
     {
       "title": "MAML - a new configuration language (similar to JSON, YAML, and TOML)",
       "href": "https://maml.dev/",
       "points": "",
-      "comments": "\n              38 comments",
+      "comments": "\n              39 comments",
       "index": 5
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
+      "title": "Go proposal: Hashers",
+      "href": "https://antonz.org/accepted/maphash-hasher/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 7
+    },
+    {
       "title": "The expression problem and Rust",
       "href": "https://purplesyringa.moe/blog/the-expression-problem-and-rust/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 7
-    },
-    {
-      "title": "Go proposal: Hashers",
-      "href": "https://antonz.org/accepted/maphash-hasher/",
-      "points": "",
-      "comments": "\n              12 comments",
       "index": 8
     },
     {
@@ -65,113 +65,113 @@
       "index": 9
     },
     {
-      "title": "Announcing Software You Can Love 2026",
-      "href": "https://mattnite.net/blog/sycl-2026-announcement/",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 10
-    },
-    {
       "title": "How to write a complete GNOME application in Lua",
       "href": "https://www.vtrlx.ca/posts/2025/howto-complete-lua-gnome-app/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
+      "title": "Announcing Software You Can Love 2026",
+      "href": "https://mattnite.net/blog/sycl-2026-announcement/",
+      "points": "",
+      "comments": "\n              12 comments",
       "index": 11
+    },
+    {
+      "title": "Steel Bank Common Lisp 2.5.9",
+      "href": "https://www.sbcl.org/news.html#2.5.9",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 12
     },
     {
       "title": "F-Droid and Google's Developer Registration Decree",
       "href": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
       "points": "",
-      "comments": "\n              34 comments",
-      "index": 12
+      "comments": "\n              36 comments",
+      "index": 13
     },
     {
       "title": "Radicle 1.5.0 – Hibiscus",
       "href": "https://radicle.xyz/2025/09/30/radicle-1.5.0",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Subtleties of SQLite Indexes",
       "href": "https://emschwartz.me/subtleties-of-sqlite-indexes/",
       "points": "",
-      "comments": "\n              18 comments",
-      "index": 14
+      "comments": "\n              19 comments",
+      "index": 15
     },
     {
       "title": "The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)",
       "href": "https://github.com/raphamorim/gameboy",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 15
-    },
-    {
-      "title": "Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code",
-      "href": "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 16
-    },
-    {
-      "title": "city2graph",
-      "href": "https://city2graph.net/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
     },
     {
       "title": "Shellshock (2014, 2025)",
       "href": "https://dwheeler.com/essays/shellshock.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 17
+    },
+    {
+      "title": "Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code",
+      "href": "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 18
     },
     {
-      "title": "Just Let Me Select Text",
-      "href": "https://aartaka.me/select-text.html",
-      "points": "",
-      "comments": "\n              36 comments",
-      "index": 19
-    },
-    {
-      "title": "deml: The Directed Acyclic Graph Elevation Markup Language",
-      "href": "https://github.com/Mcmartelle/deml",
+      "title": "city2graph",
+      "href": "https://city2graph.net/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 19
     },
     {
       "title": "More speculations on arenas in C++",
       "href": "https://nullprogram.com/blog/2025/09/30/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Just Let Me Select Text",
+      "href": "https://aartaka.me/select-text.html",
+      "points": "",
+      "comments": "\n              36 comments",
       "index": 21
     },
     {
-      "title": "Subtext Retrospective",
-      "href": "https://www.subtext-lang.org/retrospective.html",
+      "title": "deml: The Directed Acyclic Graph Elevation Markup Language",
+      "href": "https://github.com/Mcmartelle/deml",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
     },
     {
+      "title": "Subtext Retrospective",
+      "href": "https://www.subtext-lang.org/retrospective.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 23
+    },
+    {
       "title": "AI is writing 90% of the code",
       "href": "https://lucumr.pocoo.org/2025/9/29/90-percent/",
       "points": "",
-      "comments": "\n              92 comments",
-      "index": 23
+      "comments": "\n              93 comments",
+      "index": 24
     },
     {
       "title": "Designing agentic loops",
       "href": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Investigating and fixing \"StopPodSandbox from runtime service failed\" Kubelet errors",
-      "href": "https://marcusnoble.co.uk/2025-09-28-investigating-and-fixing-stoppodsandbox-from-runtime-service-failed-kubelet-errors/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
