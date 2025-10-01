@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, October 1, 2025 at 3:25 AM GMT-5",
+  "date": "Wednesday, October 1, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "Type Theory and Functional Programming (1999) [pdf]",
       "href": "https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf",
-      "points": "36 points",
-      "comments": "4 comments",
+      "points": "54 points",
+      "comments": "10 comments",
       "index": 1
-    },
-    {
-      "title": "CDC File Transfer",
-      "href": "https://github.com/google/cdc-file-transfer",
-      "points": "199 points",
-      "comments": "49 comments",
-      "index": 2
-    },
-    {
-      "title": "High-resolution efficient image generation from WiFi Mapping",
-      "href": "https://arxiv.org/abs/2506.10605",
-      "points": "31 points",
-      "comments": "7 comments",
-      "index": 3
-    },
-    {
-      "title": "Sora 2",
-      "href": "https://openai.com/index/sora-2/",
-      "points": "722 points",
-      "comments": "714 comments",
-      "index": 4
-    },
-    {
-      "title": "Intelligent Kubernetes Load Balancing at Databricks",
-      "href": "https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks",
-      "points": "47 points",
-      "comments": "11 comments",
-      "index": 5
-    },
-    {
-      "title": "Defer: Resource cleanup in C with GCCs magic",
-      "href": "https://oshub.org/projects/retros-32/posts/defer-resource-cleanup-in-c-with-gccs-magic",
-      "points": "16 points",
-      "comments": "15 comments",
-      "index": 6
-    },
-    {
-      "title": "The gaslit asset class",
-      "href": "https://blog.dshr.org/2025/09/the-gaslit-asset-class.html",
-      "points": "124 points",
-      "comments": "67 comments",
-      "index": 7
     },
     {
       "title": "Category Theory Illustrated – Natural Transformations",
       "href": "https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/",
-      "points": "3 points",
-      "comments": "discuss",
-      "index": 8
+      "points": "17 points",
+      "comments": "2 comments",
+      "index": 2
     },
     {
-      "title": "NJ theme park puts animatronic dinosaurs on Facebook Marketplace",
-      "href": "https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489",
-      "points": "72 points",
-      "comments": "18 comments",
-      "index": 9
+      "title": "CDC File Transfer",
+      "href": "https://github.com/google/cdc-file-transfer",
+      "points": "213 points",
+      "comments": "54 comments",
+      "index": 3
+    },
+    {
+      "title": "High-resolution efficient image generation from WiFi Mapping",
+      "href": "https://arxiv.org/abs/2506.10605",
+      "points": "43 points",
+      "comments": "15 comments",
+      "index": 4
+    },
+    {
+      "title": "Sora 2",
+      "href": "https://openai.com/index/sora-2/",
+      "points": "736 points",
+      "comments": "723 comments",
+      "index": 5
+    },
+    {
+      "title": "Intelligent Kubernetes Load Balancing at Databricks",
+      "href": "https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks",
+      "points": "52 points",
+      "comments": "15 comments",
+      "index": 6
+    },
+    {
+      "title": "Defer: Resource cleanup in C with GCCs magic",
+      "href": "https://oshub.org/projects/retros-32/posts/defer-resource-cleanup-in-c-with-gccs-magic",
+      "points": "20 points",
+      "comments": "24 comments",
+      "index": 7
+    },
+    {
+      "title": "The Prehistory of Computing, Part II",
+      "href": "https://www.oranlooney.com/post/history-of-computing-2/",
+      "points": "18 points",
+      "comments": "1 comment",
+      "index": 8
     },
     {
       "title": "Imgur pulls out of UK as data watchdog threatens fine",
       "href": "https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out",
-      "points": "449 points",
-      "comments": "447 comments",
+      "points": "459 points",
+      "comments": "466 comments",
+      "index": 9
+    },
+    {
+      "title": "NJ theme park puts animatronic dinosaurs on Facebook Marketplace",
+      "href": "https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489",
+      "points": "76 points",
+      "comments": "20 comments",
       "index": 10
     },
     {
       "title": "Blockdiff: We built our own file format for VM disk snapshots",
       "href": "https://cognition.ai/blog/blockdiff",
-      "points": "39 points",
+      "points": "45 points",
       "comments": "7 comments",
       "index": 11
     },
     {
       "title": "Diff Algorithms",
       "href": "https://flo.znkr.io/diff/",
-      "points": "204 points",
-      "comments": "38 comments",
+      "points": "210 points",
+      "comments": "41 comments",
       "index": 12
     },
     {
       "title": "Washi: The Japanese paper crafted to last 1000 years [video]",
       "href": "https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years",
-      "points": "66 points",
-      "comments": "16 comments",
+      "points": "71 points",
+      "comments": "18 comments",
       "index": 13
-    },
-    {
-      "title": "The Prehistory of Computing, Part II",
-      "href": "https://www.oranlooney.com/post/history-of-computing-2/",
-      "points": "12 points",
-      "comments": "1 comment",
-      "index": 14
     },
     {
       "title": "Introduction to Multi-Armed Bandits (2019)",
       "href": "https://arxiv.org/abs/1904.07272",
-      "points": "106 points",
-      "comments": "19 comments",
-      "index": 15
+      "points": "108 points",
+      "comments": "20 comments",
+      "index": 14
     },
     {
       "title": "Designing agentic loops",
       "href": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
-      "points": "203 points",
-      "comments": "87 comments",
-      "index": 16
+      "points": "212 points",
+      "comments": "93 comments",
+      "index": 15
     },
     {
       "title": "Boeing has started working on a 737 MAX replacement",
       "href": "https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df",
-      "points": "241 points",
-      "comments": "377 comments",
-      "index": 17
+      "points": "247 points",
+      "comments": "385 comments",
+      "index": 16
     },
     {
-      "title": "Inflammation now predicts heart disease more strongly than cholesterol",
-      "href": "https://www.empirical.health/blog/inflammation-and-heart-health/",
-      "points": "498 points",
-      "comments": "251 comments",
-      "index": 18
+      "title": "Fundamental of Virtual Memory",
+      "href": "https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html",
+      "points": "26 points",
+      "comments": "7 comments",
+      "index": 17
     },
     {
       "title": "Leaked Apple M5 9 core Geekbench scores",
       "href": "https://browser.geekbench.com/v6/cpu/14173685",
-      "points": "257 points",
-      "comments": "376 comments",
-      "index": 19
-    },
-    {
-      "title": "Mind the encryptionroot: How to save your data when ZFS loses its mind",
-      "href": "https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/",
-      "points": "108 points",
-      "comments": "33 comments",
-      "index": 20
+      "points": "265 points",
+      "comments": "387 comments",
+      "index": 18
     },
     {
       "title": "Founder sentenced to seven years in prison for fraudulent sale to JPMorgan",
       "href": "https://www.cnn.com/2025/09/30/business/charlie-javice-frank-sentenced-jpmorgan-intl",
-      "points": "216 points",
-      "comments": "270 comments",
+      "points": "219 points",
+      "comments": "273 comments",
+      "index": 19
+    },
+    {
+      "title": "The gaslit asset class",
+      "href": "https://blog.dshr.org/2025/09/the-gaslit-asset-class.html",
+      "points": "133 points",
+      "comments": "91 comments",
+      "index": 20
+    },
+    {
+      "title": "Inflammation now predicts heart disease more strongly than cholesterol",
+      "href": "https://www.empirical.health/blog/inflammation-and-heart-health/",
+      "points": "508 points",
+      "comments": "254 comments",
       "index": 21
+    },
+    {
+      "title": "Mind the encryptionroot: How to save your data when ZFS loses its mind",
+      "href": "https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/",
+      "points": "110 points",
+      "comments": "33 comments",
+      "index": 22
     },
     {
       "title": "Launch HN: Airweave (YC X25) – Let agents search any app",
       "href": "https://github.com/airweave-ai/airweave",
-      "points": "149 points",
+      "points": "153 points",
       "comments": "23 comments",
-      "index": 22
-    },
-    {
-      "title": "An opinionated critique of Duolingo",
-      "href": "https://isomorphism.xyz/blog/2025/duolingo/",
-      "points": "192 points",
-      "comments": "205 comments",
       "index": 23
     },
     {
       "title": "Pasta Cooking Time",
       "href": "https://www.jefftk.com/p/pasta-cooking-time",
-      "points": "164 points",
-      "comments": "158 comments",
+      "points": "169 points",
+      "comments": "164 comments",
       "index": 24
     },
     {
-      "title": "Coding a new BASIC interpreter in 2025 to replace a slow one",
-      "href": "https://nanochess.org/ecs_basic.html",
-      "points": "73 points",
-      "comments": "15 comments",
+      "title": "An opinionated critique of Duolingo",
+      "href": "https://isomorphism.xyz/blog/2025/duolingo/",
+      "points": "197 points",
+      "comments": "216 comments",
       "index": 25
     },
     {
-      "title": "Kagi News",
-      "href": "https://blog.kagi.com/kagi-news",
-      "points": "834 points",
-      "comments": "394 comments",
+      "title": "Basic Dialects, IDEs, and Tutorials",
+      "href": "https://github.com/JohnBlood/awesome-basic",
+      "points": "5 points",
+      "comments": "discuss",
       "index": 26
-    },
-    {
-      "title": "Software essays that shaped me",
-      "href": "https://refactoringenglish.com/blog/software-essays-that-shaped-me/",
-      "points": "193 points",
-      "comments": "29 comments",
-      "index": 27
     },
     {
       "title": "Tiny worlds: A minimal implementation of DeepMind's Genie world model",
       "href": "https://github.com/AlmondGod/tinyworlds",
-      "points": "25 points",
+      "points": "30 points",
       "comments": "2 comments",
+      "index": 27
+    },
+    {
+      "title": "Software essays that shaped me",
+      "href": "https://refactoringenglish.com/blog/software-essays-that-shaped-me/",
+      "points": "209 points",
+      "comments": "31 comments",
       "index": 28
     },
     {
-      "title": "Atuin Desktop: Runbooks That Run – Now Open Source",
-      "href": "https://blog.atuin.sh/atuin-desktop-open-source/",
-      "points": "216 points",
-      "comments": "66 comments",
+      "title": "Kagi News",
+      "href": "https://blog.kagi.com/kagi-news",
+      "points": "840 points",
+      "comments": "396 comments",
       "index": 29
     },
     {
-      "title": "Random Attractors – Found using Lyapunov Exponents (2001)",
-      "href": "https://paulbourke.net/fractals/lyapunov/",
-      "points": "119 points",
-      "comments": "27 comments",
+      "title": "Coding a new BASIC interpreter in 2025 to replace a slow one",
+      "href": "https://nanochess.org/ecs_basic.html",
+      "points": "74 points",
+      "comments": "16 comments",
       "index": 30
     }
   ]
