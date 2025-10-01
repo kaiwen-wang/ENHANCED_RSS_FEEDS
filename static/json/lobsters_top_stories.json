@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, October 1, 2025 at 5:15 PM GMT-5",
+  "date": "Wednesday, October 1, 2025 at 6:15 PM GMT-5",
   "articles": [
     {
       "title": "Nix Steering Committee vote of no confidence",
       "href": "https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html",
       "points": "",
-      "comments": "\n              33 comments",
+      "comments": "\n              36 comments",
       "index": 1
     },
     {
@@ -26,49 +26,49 @@
       "title": "Stop Trusting Nix Caches",
       "href": "https://garnix.io/blog/stop-trusting-nix-caches",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              5 comments",
       "index": 4
     },
     {
       "title": "F3: The Open-Source Data File Format for the Future",
       "href": "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              11 comments",
       "index": 5
+    },
+    {
+      "title": "Serving a half billion requests per day with Rust + CGI",
+      "href": "https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 6
     },
     {
       "title": "is tech inevitable",
       "href": "https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "What was the longest time you ever took to return to a software project?",
       "href": "/s/rthlbj/what_was_longest_time_you_ever_took_return",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "The Software Essays that Shaped Me",
       "href": "https://refactoringenglish.com/blog/software-essays-that-shaped-me/",
       "points": "",
-      "comments": "\n              27 comments",
-      "index": 8
+      "comments": "\n              28 comments",
+      "index": 9
     },
     {
       "title": "Category Theory Illustrated - Natural transformations",
       "href": "https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 9
-    },
-    {
-      "title": "Serving a half billion requests per day with Rust + CGI",
-      "href": "https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 10
     },
     {
@@ -79,15 +79,15 @@
       "index": 11
     },
     {
-      "title": "We tried Go's experimental Green Tea garbage collector and it didn't help performance",
-      "href": "https://www.dolthub.com/blog/2025-09-26-greentea-gc-with-dolt/",
+      "title": "IP Over Lasers",
+      "href": "https://www.mikekohn.net/micro/ip_over_lasers.php",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              1 comment",
       "index": 12
     },
     {
-      "title": "IP Over Lasers",
-      "href": "https://www.mikekohn.net/micro/ip_over_lasers.php",
+      "title": "As a Gopher I'm excited about Gleam, maybe you'll be too",
+      "href": "https://www.youtube.com/watch?v=ctiRV4rRYYc",
       "points": "",
       "comments": "\n              no comments",
       "index": 13
@@ -107,66 +107,66 @@
       "index": 15
     },
     {
-      "title": "Why TigerBeetle is the most interesting database in the world",
-      "href": "https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world",
+      "title": "Gernot's List of Systems Benchmarking Crimes",
+      "href": "https://gernot-heiser.org/benchmarking-crimes.html",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              1 comment",
       "index": 16
-    },
-    {
-      "title": "As a Gopher I'm excited about Gleam, maybe you'll be too",
-      "href": "https://www.youtube.com/watch?v=ctiRV4rRYYc",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
     },
     {
       "title": "Open Printer is an open source inkjet printer with DRM-free ink and roll paper support",
       "href": "https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 18
+      "index": 17
     },
     {
       "title": "Systems Programming with Zig",
       "href": "https://www.manning.com/books/systems-programming-with-zig",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 19
+      "index": 18
     },
     {
-      "title": "Gernot's List of Systems Benchmarking Crimes",
-      "href": "https://gernot-heiser.org/benchmarking-crimes.html",
+      "title": "We tried Go's experimental Green Tea garbage collector and it didn't help performance",
+      "href": "https://www.dolthub.com/blog/2025-09-26-greentea-gc-with-dolt/",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
+      "comments": "\n              2 comments",
+      "index": 19
     },
     {
       "title": "Steel Bank Common Lisp 2.5.9",
       "href": "https://www.sbcl.org/news.html#2.5.9",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 21
+      "index": 20
     },
     {
       "title": "Our efforts, in part, define us",
       "href": "https://weakty.com/posts/efforts/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 21
     },
     {
       "title": "Bcachefs removed from the mainline kernel",
       "href": "https://lwn.net/Articles/1040120/",
       "points": "",
       "comments": "\n              33 comments",
-      "index": 23
+      "index": 22
     },
     {
       "title": "Kubernetes features stage changes in a visual way",
       "href": "https://kaniuse.gerome.dev/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Programs/utilities (especially small ones) with funny/crude acronyms for their name?",
+      "href": "/s/vh58xf/programs_utilities_especially_small",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 24
     },
     {
