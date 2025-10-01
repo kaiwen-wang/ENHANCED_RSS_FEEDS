@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, October 1, 2025 at 7:40 AM GMT-5",
+  "date": "Wednesday, October 1, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "Glide, an extensible, keyboard-focused web browser",
       "href": "https://blog.craigie.dev/introducing-glide/",
       "points": "",
-      "comments": "\n              41 comments",
+      "comments": "\n              43 comments",
       "index": 1
     },
     {
@@ -16,31 +16,31 @@
       "index": 2
     },
     {
+      "title": "What was the longest time you ever took to return to a software project?",
+      "href": "/s/rthlbj/what_was_longest_time_you_ever_took_return",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 3
+    },
+    {
       "title": "Organize your Slack channels by “How Often”, not “What”",
       "href": "https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 3
-    },
-    {
-      "title": "What was the longest time you ever took to return to a software project?",
-      "href": "/s/rthlbj/what_was_longest_time_you_ever_took_return",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 4
-    },
-    {
-      "title": "Open Printer is an open source inkjet printer with DRM-free ink and roll paper support",
-      "href": "https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 5
     },
     {
       "title": "Category Theory Illustrated - Natural transformations",
       "href": "https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 5
+    },
+    {
+      "title": "Open Printer is an open source inkjet printer with DRM-free ink and roll paper support",
+      "href": "https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "Bcachefs removed from the mainline kernel",
-      "href": "https://lwn.net/Articles/1040120/",
-      "points": "",
-      "comments": "\n              31 comments",
-      "index": 8
-    },
-    {
       "title": "Steel Bank Common Lisp 2.5.9",
       "href": "https://www.sbcl.org/news.html#2.5.9",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 8
+    },
+    {
+      "title": "Bcachefs removed from the mainline kernel",
+      "href": "https://lwn.net/Articles/1040120/",
+      "points": "",
+      "comments": "\n              31 comments",
       "index": 9
     },
     {
@@ -75,70 +75,70 @@
       "title": "Systems Programming with Zig",
       "href": "https://www.manning.com/books/systems-programming-with-zig",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 11
-    },
-    {
-      "title": "Why TigerBeetle is the most interesting database in the world",
-      "href": "https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
     },
     {
       "title": "RubyGems stewardship: Where we are, what’s changing and how we’ll engage",
       "href": "https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              8 comments",
+      "index": 12
+    },
+    {
+      "title": "Why TigerBeetle is the most interesting database in the world",
+      "href": "https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 13
     },
     {
       "title": "MAML - a new configuration language (similar to JSON, YAML, and TOML)",
       "href": "https://maml.dev/",
       "points": "",
-      "comments": "\n              51 comments",
+      "comments": "\n              54 comments",
       "index": 14
-    },
-    {
-      "title": "Pidgin 3.0 Experimental 4 (2.93.0) has been released",
-      "href": "https://discourse.imfreedom.org/t/pidgin-3-0-experimental-4-2-93-0-has-been-released/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 15
-    },
-    {
-      "title": "The expression problem and Rust",
-      "href": "https://purplesyringa.moe/blog/the-expression-problem-and-rust/",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 16
-    },
-    {
-      "title": "Our efforts, in part, define us",
-      "href": "https://weakty.com/posts/efforts/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "How to write a complete GNOME application in Lua",
-      "href": "https://www.vtrlx.ca/posts/2025/howto-complete-lua-gnome-app/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 18
-    },
-    {
-      "title": "Go proposal: Hashers",
-      "href": "https://antonz.org/accepted/maphash-hasher/",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 19
     },
     {
       "title": "Register allocation in the Go compiler [2024]",
       "href": "https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Our efforts, in part, define us",
+      "href": "https://weakty.com/posts/efforts/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "The expression problem and Rust",
+      "href": "https://purplesyringa.moe/blog/the-expression-problem-and-rust/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 17
+    },
+    {
+      "title": "Pidgin 3.0 Experimental 4 (2.93.0) has been released",
+      "href": "https://discourse.imfreedom.org/t/pidgin-3-0-experimental-4-2-93-0-has-been-released/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 18
+    },
+    {
+      "title": "How to write a complete GNOME application in Lua",
+      "href": "https://www.vtrlx.ca/posts/2025/howto-complete-lua-gnome-app/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 19
+    },
+    {
+      "title": "Go proposal: Hashers",
+      "href": "https://antonz.org/accepted/maphash-hasher/",
+      "points": "",
+      "comments": "\n              25 comments",
       "index": 20
     },
     {
