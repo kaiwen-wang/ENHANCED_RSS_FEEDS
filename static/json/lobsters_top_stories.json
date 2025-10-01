@@ -1,39 +1,39 @@
 {
-  "date": "Tuesday, September 30, 2025 at 8:40 PM GMT-5",
+  "date": "Tuesday, September 30, 2025 at 10:10 PM GMT-5",
   "articles": [
     {
       "title": "Glide, an extensible, keyboard-focused web browser",
       "href": "https://blog.craigie.dev/introducing-glide/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              19 comments",
       "index": 1
     },
     {
       "title": "The Software Essays that Shaped Me",
       "href": "https://refactoringenglish.com/blog/software-essays-that-shaped-me/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              12 comments",
       "index": 2
+    },
+    {
+      "title": "Organize your Slack channels by “How Often”, not “What”",
+      "href": "https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 3
     },
     {
       "title": "Open Printer is an open source inkjet printer with DRM-free ink and roll paper support",
       "href": "https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Bcachefs removed from the mainline kernel",
       "href": "https://lwn.net/Articles/1040120/",
       "points": "",
-      "comments": "\n              26 comments",
-      "index": 4
-    },
-    {
-      "title": "Organize your Slack channels by “How Often”, not “What”",
-      "href": "https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/",
-      "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              27 comments",
       "index": 5
     },
     {
@@ -58,66 +58,66 @@
       "index": 8
     },
     {
+      "title": "The expression problem and Rust",
+      "href": "https://purplesyringa.moe/blog/the-expression-problem-and-rust/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 9
+    },
+    {
       "title": "Steel Bank Common Lisp 2.5.9",
       "href": "https://www.sbcl.org/news.html#2.5.9",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 9
-    },
-    {
-      "title": "The expression problem and Rust",
-      "href": "https://purplesyringa.moe/blog/the-expression-problem-and-rust/",
-      "points": "",
-      "comments": "\n              5 comments",
       "index": 10
-    },
-    {
-      "title": "Go proposal: Hashers",
-      "href": "https://antonz.org/accepted/maphash-hasher/",
-      "points": "",
-      "comments": "\n              21 comments",
-      "index": 11
     },
     {
       "title": "Bevy 0.17",
       "href": "https://bevy.org/news/bevy-0-17/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
+      "index": 11
+    },
+    {
+      "title": "Go proposal: Hashers",
+      "href": "https://antonz.org/accepted/maphash-hasher/",
+      "points": "",
+      "comments": "\n              22 comments",
       "index": 12
+    },
+    {
+      "title": "RubyGems stewardship: Where we are, what’s changing and how we’ll engage",
+      "href": "https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 13
+    },
+    {
+      "title": "Systems Programming with Zig",
+      "href": "https://www.manning.com/books/systems-programming-with-zig",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 14
     },
     {
       "title": "How to write a complete GNOME application in Lua",
       "href": "https://www.vtrlx.ca/posts/2025/howto-complete-lua-gnome-app/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 13
+      "index": 15
     },
     {
       "title": "Behind y-s2: serverless multiplayer rooms",
       "href": "https://s2.dev/blog/durable-yjs-rooms",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 14
-    },
-    {
-      "title": "RubyGems stewardship: Where we are, what’s changing and how we’ll engage",
-      "href": "https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Radicle 1.5.0 – Hibiscus",
       "href": "https://radicle.xyz/2025/09/30/radicle-1.5.0",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 16
-    },
-    {
-      "title": "Systems Programming with Zig",
-      "href": "https://www.manning.com/books/systems-programming-with-zig",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -149,24 +149,24 @@
       "index": 21
     },
     {
+      "title": "Diff Algorithms",
+      "href": "https://flo.znkr.io/diff/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
       "title": "Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code",
       "href": "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Subtleties of SQLite Indexes",
       "href": "https://emschwartz.me/subtleties-of-sqlite-indexes/",
       "points": "",
       "comments": "\n              21 comments",
-      "index": 23
-    },
-    {
-      "title": "Diff Algorithms",
-      "href": "https://flo.znkr.io/diff/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
