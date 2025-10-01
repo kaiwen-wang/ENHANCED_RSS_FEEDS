@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, October 1, 2025 at 1:25 PM GMT-5",
+  "date": "Wednesday, October 1, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Glide, an extensible, keyboard-focused web browser",
       "href": "https://blog.craigie.dev/introducing-glide/",
       "points": "",
-      "comments": "\n              51 comments",
+      "comments": "\n              54 comments",
       "index": 1
     },
     {
       "title": "Nix Steering Committee vote of no confidence",
       "href": "https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html",
       "points": "",
-      "comments": "\n              18 comments",
+      "comments": "\n              22 comments",
       "index": 2
     },
     {
@@ -23,24 +23,24 @@
       "index": 3
     },
     {
-      "title": "Category Theory Illustrated - Natural transformations",
-      "href": "https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 4
-    },
-    {
       "title": "What was the longest time you ever took to return to a software project?",
       "href": "/s/rthlbj/what_was_longest_time_you_ever_took_return",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 5
+      "comments": "\n              15 comments",
+      "index": 4
     },
     {
       "title": "Who's Hiring? Q4 2025",
       "href": "/s/a3wcu0/who_s_hiring_q4_2025",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
+      "index": 5
+    },
+    {
+      "title": "Category Theory Illustrated - Natural transformations",
+      "href": "https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 6
     },
     {
@@ -58,31 +58,31 @@
       "index": 8
     },
     {
+      "title": "F3: The Open-Source Data File Format for the Future",
+      "href": "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 9
+    },
+    {
       "title": "is tech inevitable",
       "href": "https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Bevy 0.17",
       "href": "https://bevy.org/news/bevy-0-17/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Why TigerBeetle is the most interesting database in the world",
       "href": "https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world",
       "points": "",
-      "comments": "\n              8 comments",
-      "index": 11
-    },
-    {
-      "title": "F3: The Open-Source Data File Format for the Future",
-      "href": "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf",
-      "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              9 comments",
       "index": 12
     },
     {
@@ -103,7 +103,7 @@
       "title": "Systems Programming with Zig",
       "href": "https://www.manning.com/books/systems-programming-with-zig",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              9 comments",
       "index": 15
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "Kubernetes features stage changes in a visual way",
+      "href": "https://kaniuse.gerome.dev/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
       "title": "Our efforts, in part, define us",
       "href": "https://weakty.com/posts/efforts/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "As a Gopher I'm excited about Gleam, maybe you'll be too",
       "href": "https://www.youtube.com/watch?v=ctiRV4rRYYc",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
-      "title": "Kubernetes features stage changes in a visual way",
-      "href": "https://kaniuse.gerome.dev/",
+      "title": "We tried Go's experimental Green Tea garbage collector and it didn't help performance",
+      "href": "https://www.dolthub.com/blog/2025-09-26-greentea-gc-with-dolt/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Gernot's List of Systems Benchmarking Crimes",
       "href": "https://gernot-heiser.org/benchmarking-crimes.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Generate HTML conveniently and efficiently with Python generators",
       "href": "https://github.com/pcarbonn/fast_html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "The expression problem and Rust",
       "href": "https://purplesyringa.moe/blog/the-expression-problem-and-rust/",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Pidgin 3.0 Experimental 4 (2.93.0) has been released",
       "href": "https://discourse.imfreedom.org/t/pidgin-3-0-experimental-4-2-93-0-has-been-released/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 24
-    },
-    {
-      "title": "MAML - a new configuration language (similar to JSON, YAML, and TOML)",
-      "href": "https://maml.dev/",
-      "points": "",
-      "comments": "\n              58 comments",
       "index": 25
     }
   ]
