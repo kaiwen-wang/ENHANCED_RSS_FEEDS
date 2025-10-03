@@ -1,30 +1,30 @@
 {
-  "date": "Friday, October 3, 2025 at 10:20 AM GMT-5",
+  "date": "Friday, October 3, 2025 at 11:20 AM GMT-5",
   "articles": [
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/vzvlgy/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 1
+    },
     {
       "title": "Asked to do something illegal at work? Here’s what these software engineers did",
       "href": "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/",
       "points": "",
       "comments": "\n              29 comments",
-      "index": 1
+      "index": 2
     },
     {
       "title": "Where It's at://",
       "href": "https://overreacted.io/where-its-at/",
       "points": "",
-      "comments": "\n              12 comments",
-      "index": 2
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/vzvlgy/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              13 comments",
       "index": 3
     },
     {
-      "title": "A threat model for accessibility on the web",
-      "href": "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/",
+      "title": "Fundraising campaign to sustain GNU Guix",
+      "href": "https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/",
       "points": "",
       "comments": "\n              no comments",
       "index": 4
@@ -33,147 +33,147 @@
       "title": "Dropping upstream Nix from Determinate Nix Installer",
       "href": "https://determinate.systems/blog/installer-dropping-upstream/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              14 comments",
       "index": 5
+    },
+    {
+      "title": "A threat model for accessibility on the web",
+      "href": "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 6
     },
     {
       "title": "Signal Protocol and Post-Quantum Ratchets",
       "href": "https://signal.org/blog/spqr/",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 6
+      "comments": "\n              4 comments",
+      "index": 7
+    },
+    {
+      "title": "Atuin desktop: Runbooks that run",
+      "href": "https://github.com/atuinsh/desktop",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
     },
     {
       "title": "Litestream v0.5.0 is Here",
       "href": "https://fly.io/blog/litestream-v050-is-here/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 7
+      "comments": "\n              6 comments",
+      "index": 9
     },
     {
       "title": "Wombat’s Book of Nix",
       "href": "https://mhwombat.codeberg.page/nix-book/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 8
-    },
-    {
-      "title": "C++26: std::optional<T&>",
-      "href": "https://www.sandordargo.com/blog/2025/10/01/cpp26-optional-of-reference",
-      "points": "",
-      "comments": "\n              12 comments",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Whatever happened to SHA-256 support in Git? (2022)",
       "href": "https://lwn.net/Articles/898522/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 10
-    },
-    {
-      "title": "Fundraising campaign to sustain GNU Guix",
-      "href": "https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 11
     },
     {
-      "title": "I turned the Lego Game Boy into a working Game Boy",
-      "href": "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/",
+      "title": "Cancelling async Rust",
+      "href": "https://sunshowers.io/posts/cancelling-async-rust/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              no comments",
       "index": 12
+    },
+    {
+      "title": "C++26: std::optional<T&>",
+      "href": "https://www.sandordargo.com/blog/2025/10/01/cpp26-optional-of-reference",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 13
+    },
+    {
+      "title": "Hey Siri. Block Reddit",
+      "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
     },
     {
       "title": "We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU",
       "href": "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main",
       "points": "",
       "comments": "\n              no comments",
-      "index": 13
+      "index": 15
+    },
+    {
+      "title": "I turned the Lego Game Boy into a working Game Boy",
+      "href": "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 16
     },
     {
       "title": "Nine HTTP Edge Cases",
       "href": "https://blog.dochia.dev/blog/http_edge_cases/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 14
+      "index": 17
     },
     {
       "title": "Beginner-friendly issues across all repositories",
       "href": "https://tangled.org/goodfirstissues",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 18
     },
     {
       "title": "A neural network written completely in jq (2017)",
       "href": "https://github.com/kevin-albert/jq-neural-network",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 19
     },
     {
       "title": "Domain Driven Design in Clojure with generalized Hiccup",
       "href": "https://www.biotz.io/post/domain-driven-design-in-clojure-with-generalized-hiccup",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
+      "index": 20
     },
     {
       "title": "Risk Rolls Downhill",
       "href": "https://corecursive.com/horizon-scandal-with-scott-darlington/",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 18
-    },
-    {
-      "title": "Immich v2.0.0 - Stable Release",
-      "href": "https://github.com/immich-app/immich/releases/tag/v2.0.0",
-      "points": "",
-      "comments": "\n              40 comments",
-      "index": 19
-    },
-    {
-      "title": "A Tutorial for the Sam Command Language",
-      "href": "https://ratfactor.com/papers/sam-language",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 20
-    },
-    {
-      "title": "Ghosts of Unix Past: a historical search for design patterns (2010)",
-      "href": "https://lwn.net/Articles/411845/",
-      "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              2 comments",
       "index": 21
-    },
-    {
-      "title": "CI/CD components to generate and verify provenance attestation",
-      "href": "https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "What on Earth Does Pointer Provenance Have to do With RCU?",
-      "href": "https://people.kernel.org/paulmck/what-on-earth-does-lifetime-end-pointer-zap-have-to-do-with-rcu",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "How would you approach a browser automation project?",
-      "href": "/s/rzdz98/how_would_you_approach_browser",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 24
     },
     {
       "title": "CVE-2025-59489: Arbitrary Code Execution in Unity Runtime",
       "href": "https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "How would you approach a browser automation project?",
+      "href": "/s/rzdz98/how_would_you_approach_browser",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 23
+    },
+    {
+      "title": "Immich v2.0.0 - Stable Release",
+      "href": "https://github.com/immich-app/immich/releases/tag/v2.0.0",
+      "points": "",
+      "comments": "\n              41 comments",
+      "index": 24
+    },
+    {
+      "title": "A Tutorial for the Sam Command Language",
+      "href": "https://ratfactor.com/papers/sam-language",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 25
     }
   ]
