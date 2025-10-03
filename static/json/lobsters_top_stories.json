@@ -1,5 +1,5 @@
 {
-  "date": "Friday, October 3, 2025 at 1:25 PM GMT-5",
+  "date": "Friday, October 3, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Cancelling async Rust",
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "What are you doing this weekend?",
-      "href": "/s/vzvlgy/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 4
-    },
-    {
       "title": "Atuin desktop: Runbooks that run",
       "href": "https://github.com/atuinsh/desktop",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 4
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/vzvlgy/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              19 comments",
       "index": 5
     },
     {
@@ -51,24 +51,24 @@
       "index": 7
     },
     {
+      "title": "Hey Siri. Block Reddit",
+      "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 8
+    },
+    {
       "title": "A threat model for accessibility on the web",
       "href": "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Dropping upstream Nix from Determinate Nix Installer",
       "href": "https://determinate.systems/blog/installer-dropping-upstream/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 9
-    },
-    {
-      "title": "Hey Siri. Block Reddit",
-      "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 10
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
-      "title": "Whatever happened to SHA-256 support in Git? (2022)",
-      "href": "https://lwn.net/Articles/898522/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 16
-    },
-    {
       "title": "CVE-2025-59489: Arbitrary Code Execution in Unity Runtime",
       "href": "https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
+      "title": "Linus Torvalds Lashes Out At RISC-V Big Endian Plans - Phoronix",
+      "href": "https://www.phoronix.com/news/Torvalds-No-RISC-V-BE",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 17
     },
     {
-      "title": "I turned the Lego Game Boy into a working Game Boy",
-      "href": "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/",
+      "title": "Whatever happened to SHA-256 support in Git? (2022)",
+      "href": "https://lwn.net/Articles/898522/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
       "index": 18
-    },
-    {
-      "title": "Nine HTTP Edge Cases",
-      "href": "https://blog.dochia.dev/blog/http_edge_cases/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 19
     },
     {
       "title": "Beginner-friendly issues across all repositories",
       "href": "https://tangled.org/goodfirstissues",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Procedural Generation with Wave Function Collapse",
+      "href": "https://www.gridbugs.org/wave-function-collapse/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 20
+    },
+    {
+      "title": "Programming in Assembly without an Operating System",
+      "href": "https://www.youtube.com/watch?v=ZFHnbozz7b4",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Nine HTTP Edge Cases",
+      "href": "https://blog.dochia.dev/blog/http_edge_cases/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 22
+    },
+    {
+      "title": "I turned the Lego Game Boy into a working Game Boy",
+      "href": "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 23
+    },
+    {
+      "title": "Pointer leaks through pointer-keyed data structures",
+      "href": "https://googleprojectzero.blogspot.com/2025/09/pointer-leaks-through-pointer-keyed.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "A neural network written completely in jq (2017)",
       "href": "https://github.com/kevin-albert/jq-neural-network",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
-    },
-    {
-      "title": "Domain Driven Design in Clojure with generalized Hiccup",
-      "href": "https://www.biotz.io/post/domain-driven-design-in-clojure-with-generalized-hiccup",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 22
-    },
-    {
-      "title": "Risk Rolls Downhill",
-      "href": "https://corecursive.com/horizon-scandal-with-scott-darlington/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 23
-    },
-    {
-      "title": "How would you approach a browser automation project?",
-      "href": "/s/rzdz98/how_would_you_approach_browser",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 24
-    },
-    {
-      "title": "CI/CD components to generate and verify provenance attestation",
-      "href": "https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
