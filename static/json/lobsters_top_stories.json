@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, October 2, 2025 at 6:15 PM GMT-5",
+  "date": "Thursday, October 2, 2025 at 8:20 PM GMT-5",
   "articles": [
     {
       "title": "Asked to do something illegal at work? Here’s what these software engineers did",
       "href": "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 1
     },
     {
@@ -16,38 +16,38 @@
       "index": 2
     },
     {
+      "title": "Litestream v0.5.0 is Here",
+      "href": "https://fly.io/blog/litestream-v050-is-here/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 3
+    },
+    {
       "title": "Immich v2.0.0 - Stable Release",
       "href": "https://github.com/immich-app/immich/releases/tag/v2.0.0",
       "points": "",
-      "comments": "\n              33 comments",
-      "index": 3
+      "comments": "\n              36 comments",
+      "index": 4
+    },
+    {
+      "title": "Wombat’s Book of Nix",
+      "href": "https://mhwombat.codeberg.page/nix-book/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 5
     },
     {
       "title": "I turned the Lego Game Boy into a working Game Boy",
       "href": "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 4
-    },
-    {
-      "title": "A public record of questions for Ruby Central",
-      "href": "https://github.com/community-research-on-ruby-governance/questions-for-ruby-central",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 5
-    },
-    {
-      "title": "Litestream v0.5.0 is Here",
-      "href": "https://fly.io/blog/litestream-v050-is-here/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 6
     },
     {
-      "title": "The biggest semantic mess in Futhark",
-      "href": "https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html",
+      "title": "Nine HTTP Edge Cases",
+      "href": "https://blog.dochia.dev/blog/http_edge_cases/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              1 comment",
       "index": 7
     },
     {
@@ -65,71 +65,71 @@
       "index": 9
     },
     {
-      "title": "Installing NixOS on Raspberry Pi 4",
-      "href": "https://mtlynch.io/nixos-pi4/",
+      "title": "The biggest semantic mess in Futhark",
+      "href": "https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              10 comments",
       "index": 10
     },
     {
-      "title": "Nine HTTP Edge Cases",
-      "href": "https://blog.dochia.dev/blog/http_edge_cases/",
+      "title": "Installing NixOS on Raspberry Pi 4",
+      "href": "https://mtlynch.io/nixos-pi4/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              5 comments",
       "index": 11
-    },
-    {
-      "title": "Wombat’s Book of Nix",
-      "href": "https://mhwombat.codeberg.page/nix-book/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "datafusion-postgres: postgres protocol adapter for datafusion query engine",
-      "href": "https://github.com/datafusion-contrib/datafusion-postgres",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 13
-    },
-    {
-      "title": "Nix Steering Committee vote of no confidence",
-      "href": "https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html",
-      "points": "",
-      "comments": "\n              80 comments",
-      "index": 14
-    },
-    {
-      "title": "is tech inevitable",
-      "href": "https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 15
     },
     {
       "title": "Whatever happened to SHA-256 support in Git? (2022)",
       "href": "https://lwn.net/Articles/898522/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Dropping upstream Nix from Determinate Nix Installer",
+      "href": "https://determinate.systems/blog/installer-dropping-upstream/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 13
+    },
+    {
+      "title": "A neural network written completely in jq (2017)",
+      "href": "https://github.com/kevin-albert/jq-neural-network",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Signal Protocol and Post-Quantum Ratchets",
+      "href": "https://signal.org/blog/spqr/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
+      "title": "datafusion-postgres: postgres protocol adapter for datafusion query engine",
+      "href": "https://github.com/datafusion-contrib/datafusion-postgres",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 16
     },
     {
-      "title": "Glide, an extensible, keyboard-focused web browser",
-      "href": "https://blog.craigie.dev/introducing-glide/",
+      "title": "Nix Steering Committee vote of no confidence",
+      "href": "https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html",
       "points": "",
-      "comments": "\n              76 comments",
+      "comments": "\n              82 comments",
       "index": 17
+    },
+    {
+      "title": "is tech inevitable",
+      "href": "https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/",
+      "points": "",
+      "comments": "\n              19 comments",
+      "index": 18
     },
     {
       "title": "An Empirical Evaluation of Property-Based Testing in Python",
       "href": "https://cseweb.ucsd.edu/~mcoblenz/assets/pdf/OOPSLA_2025_PBT.pdf",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Custom Carets and Users",
-      "href": "https://adrianroselli.com/2025/09/custom-carets-and-users-when-the-caret-is-no-longer-a-stick-yes-thats-a-poor-attempt-at-a-pun.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 19
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
-      "title": "A neural network written completely in jq (2017)",
-      "href": "https://github.com/kevin-albert/jq-neural-network",
+      "title": "Glide, an extensible, keyboard-focused web browser",
+      "href": "https://blog.craigie.dev/introducing-glide/",
+      "points": "",
+      "comments": "\n              76 comments",
+      "index": 21
+    },
+    {
+      "title": "Custom Carets and Users",
+      "href": "https://adrianroselli.com/2025/09/custom-carets-and-users-when-the-caret-is-no-longer-a-stick-yes-thats-a-poor-attempt-at-a-pun.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "Measuring Reorder Buffer Capacity",
+      "href": "https://blog.stuffedcow.net/2013/05/measuring-rob-capacity/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "ZLUDA update Q3 2025 – ZLUDA 5 is here",
+      "href": "https://vosen.github.io/ZLUDA/blog/zluda-update-q3-2025/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
     },
     {
       "title": "Stop Trusting Nix Caches",
       "href": "https://garnix.io/blog/stop-trusting-nix-caches",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 22
-    },
-    {
-      "title": "Who's Hiring? Q4 2025",
-      "href": "/s/a3wcu0/who_s_hiring_q4_2025",
-      "points": "",
-      "comments": "\n              20 comments",
-      "index": 23
-    },
-    {
-      "title": "Risk Rolls Downhill",
-      "href": "https://corecursive.com/horizon-scandal-with-scott-darlington/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Serving a half billion requests per day with Rust + CGI",
-      "href": "https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/",
-      "points": "",
-      "comments": "\n              24 comments",
       "index": 25
     }
   ]
