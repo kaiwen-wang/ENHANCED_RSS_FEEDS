@@ -1,109 +1,109 @@
 {
-  "date": "Friday, October 3, 2025 at 11:20 AM GMT-5",
+  "date": "Friday, October 3, 2025 at 12:15 PM GMT-5",
   "articles": [
+    {
+      "title": "Cancelling async Rust",
+      "href": "https://sunshowers.io/posts/cancelling-async-rust/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 1
+    },
+    {
+      "title": "Fundraising campaign to sustain GNU Guix",
+      "href": "https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 2
+    },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/vzvlgy/what_are_you_doing_this_weekend",
       "points": "",
       "comments": "\n              13 comments",
-      "index": 1
+      "index": 3
     },
     {
       "title": "Asked to do something illegal at work? Here’s what these software engineers did",
       "href": "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/",
       "points": "",
       "comments": "\n              29 comments",
-      "index": 2
+      "index": 4
     },
     {
       "title": "Where It's at://",
       "href": "https://overreacted.io/where-its-at/",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 3
-    },
-    {
-      "title": "Fundraising campaign to sustain GNU Guix",
-      "href": "https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 4
-    },
-    {
-      "title": "Dropping upstream Nix from Determinate Nix Installer",
-      "href": "https://determinate.systems/blog/installer-dropping-upstream/",
-      "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              15 comments",
       "index": 5
-    },
-    {
-      "title": "A threat model for accessibility on the web",
-      "href": "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 6
-    },
-    {
-      "title": "Signal Protocol and Post-Quantum Ratchets",
-      "href": "https://signal.org/blog/spqr/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 7
     },
     {
       "title": "Atuin desktop: Runbooks that run",
       "href": "https://github.com/atuinsh/desktop",
       "points": "",
       "comments": "\n              no comments",
+      "index": 6
+    },
+    {
+      "title": "A threat model for accessibility on the web",
+      "href": "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 7
+    },
+    {
+      "title": "Dropping upstream Nix from Determinate Nix Installer",
+      "href": "https://determinate.systems/blog/installer-dropping-upstream/",
+      "points": "",
+      "comments": "\n              14 comments",
       "index": 8
+    },
+    {
+      "title": "Signal Protocol and Post-Quantum Ratchets",
+      "href": "https://signal.org/blog/spqr/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 9
     },
     {
       "title": "Litestream v0.5.0 is Here",
       "href": "https://fly.io/blog/litestream-v050-is-here/",
       "points": "",
-      "comments": "\n              6 comments",
-      "index": 9
-    },
-    {
-      "title": "Wombat’s Book of Nix",
-      "href": "https://mhwombat.codeberg.page/nix-book/",
-      "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              8 comments",
       "index": 10
-    },
-    {
-      "title": "Whatever happened to SHA-256 support in Git? (2022)",
-      "href": "https://lwn.net/Articles/898522/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 11
-    },
-    {
-      "title": "Cancelling async Rust",
-      "href": "https://sunshowers.io/posts/cancelling-async-rust/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "C++26: std::optional<T&>",
-      "href": "https://www.sandordargo.com/blog/2025/10/01/cpp26-optional-of-reference",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 13
     },
     {
       "title": "Hey Siri. Block Reddit",
       "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 11
+    },
+    {
+      "title": "Wombat’s Book of Nix",
+      "href": "https://mhwombat.codeberg.page/nix-book/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 12
+    },
+    {
+      "title": "Whatever happened to SHA-256 support in Git? (2022)",
+      "href": "https://lwn.net/Articles/898522/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 13
     },
     {
       "title": "We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU",
       "href": "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "C++26: std::optional<T&>",
+      "href": "https://www.sandordargo.com/blog/2025/10/01/cpp26-optional-of-reference",
+      "points": "",
+      "comments": "\n              14 comments",
       "index": 15
     },
     {
@@ -159,14 +159,14 @@
       "title": "How would you approach a browser automation project?",
       "href": "/s/rzdz98/how_would_you_approach_browser",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 23
     },
     {
-      "title": "Immich v2.0.0 - Stable Release",
-      "href": "https://github.com/immich-app/immich/releases/tag/v2.0.0",
+      "title": "CI/CD components to generate and verify provenance attestation",
+      "href": "https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548",
       "points": "",
-      "comments": "\n              41 comments",
+      "comments": "\n              1 comment",
       "index": 24
     },
     {
