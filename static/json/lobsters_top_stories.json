@@ -1,5 +1,5 @@
 {
-  "date": "Friday, October 3, 2025 at 9:50 PM GMT-5",
+  "date": "Friday, October 3, 2025 at 10:25 PM GMT-5",
   "articles": [
     {
       "title": "Cancelling async Rust",
@@ -12,21 +12,21 @@
       "title": "Fundraising campaign to sustain GNU Guix",
       "href": "https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/",
       "points": "",
-      "comments": "\n              19 comments",
+      "comments": "\n              20 comments",
       "index": 2
     },
     {
       "title": "The jank community has stepped up",
       "href": "https://jank-lang.org/blog/2025-10-03-community/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 3
     },
     {
       "title": "PEP 810: Explicit lazy imports",
       "href": "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              11 comments",
       "index": 4
     },
     {
@@ -44,29 +44,29 @@
       "index": 6
     },
     {
-      "title": "WireGuard topologies for self-hosting at home",
-      "href": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
+      "title": "Don't Parse, Call",
+      "href": "https://timkellogg.me/blog/2025/10/03/functions",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              1 comment",
       "index": 7
     },
     {
-      "title": "Hey Siri. Block Reddit",
-      "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
+      "title": "WireGuard topologies for self-hosting at home",
+      "href": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
       "points": "",
       "comments": "\n              2 comments",
       "index": 8
     },
     {
-      "title": "Don't Parse, Call",
-      "href": "https://timkellogg.me/blog/2025/10/03/functions",
+      "title": "Zig Builds Are Getting Faster",
+      "href": "https://mitchellh.com/writing/zig-builds-getting-faster",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 9
     },
     {
-      "title": "Zig Builds Are Getting Faster",
-      "href": "https://mitchellh.com/writing/zig-builds-getting-faster",
+      "title": "Hey Siri. Block Reddit",
+      "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
       "points": "",
       "comments": "\n              2 comments",
       "index": 10
@@ -79,22 +79,22 @@
       "index": 11
     },
     {
+      "title": "Modernizing GNOME",
+      "href": "https://www.youtube.com/watch?v=uCAlzx_x6rY",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
       "title": "PEP 810 – Explicit lazy imports | peps.python.org",
       "href": "https://peps.python.org/pep-0810/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "fssimu2: Fast SSIMULACRA2 implementation in Zig",
       "href": "https://github.com/gianni-rosato/fssimu2",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "Modernizing GNOME",
-      "href": "https://www.youtube.com/watch?v=uCAlzx_x6rY",
       "points": "",
       "comments": "\n              no comments",
       "index": 14
@@ -107,71 +107,71 @@
       "index": 15
     },
     {
-      "title": "Where It's at://",
-      "href": "https://overreacted.io/where-its-at/",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 16
-    },
-    {
       "title": "Linus Torvalds Lashes Out At RISC-V Big Endian Plans",
       "href": "https://www.phoronix.com/news/Torvalds-No-RISC-V-BE",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 17
+      "index": 16
     },
     {
-      "title": "Asked to do something illegal at work? Here’s what these software engineers did",
-      "href": "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/",
+      "title": "Where It's at://",
+      "href": "https://overreacted.io/where-its-at/",
       "points": "",
-      "comments": "\n              32 comments",
-      "index": 18
+      "comments": "\n              19 comments",
+      "index": 17
     },
     {
       "title": "A threat model for accessibility on the web",
       "href": "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Asked to do something illegal at work? Here’s what these software engineers did",
+      "href": "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/",
+      "points": "",
+      "comments": "\n              32 comments",
       "index": 19
-    },
-    {
-      "title": "Alibaba cloud FPGA: the 200$ Kintex UltraScale+",
-      "href": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Dropping upstream Nix from Determinate Nix Installer",
-      "href": "https://determinate.systems/blog/installer-dropping-upstream/",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 21
-    },
-    {
-      "title": "CVE-2025-59489: Arbitrary Code Execution in Unity Runtime",
-      "href": "https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 22
     },
     {
       "title": "How We're Redesigning Audacity For The Future",
       "href": "https://youtu.be/QYM3TWf_G38",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Optique 0.6.0: Shell completion support for type-safe CLI parsers",
+      "href": "https://hackers.pub/@hongminhee/2025/optique-060",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Alibaba cloud FPGA: the 200$ Kintex UltraScale+",
+      "href": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Dropping upstream Nix from Determinate Nix Installer",
+      "href": "https://determinate.systems/blog/installer-dropping-upstream/",
+      "points": "",
+      "comments": "\n              16 comments",
       "index": 23
+    },
+    {
+      "title": "CVE-2025-59489: Arbitrary Code Execution in Unity Runtime",
+      "href": "https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 24
     },
     {
       "title": "UTF-8, explained simply - Nic Barker",
       "href": "https://www.youtube.com/watch?v=vpSkBV5vydg",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Programming in Assembly without an Operating System",
-      "href": "https://www.youtube.com/watch?v=ZFHnbozz7b4",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
