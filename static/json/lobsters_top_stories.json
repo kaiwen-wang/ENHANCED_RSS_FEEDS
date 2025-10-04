@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, October 4, 2025 at 8:20 AM GMT-5",
+  "date": "Saturday, October 4, 2025 at 9:15 AM GMT-5",
   "articles": [
     {
       "title": "Cancelling async Rust",
@@ -12,7 +12,7 @@
       "title": "Zig Builds Are Getting Faster",
       "href": "https://mitchellh.com/writing/zig-builds-getting-faster",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              13 comments",
       "index": 2
     },
     {
@@ -23,24 +23,24 @@
       "index": 3
     },
     {
+      "title": "WireGuard topologies for self-hosting at home",
+      "href": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 4
+    },
+    {
       "title": "Fundraising campaign to sustain GNU Guix",
       "href": "https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/",
       "points": "",
       "comments": "\n              23 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Don't Parse, Call",
       "href": "https://timkellogg.me/blog/2025/10/03/functions",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 5
-    },
-    {
-      "title": "WireGuard topologies for self-hosting at home",
-      "href": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 6
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
-      "title": "The end of tt-rss.org",
-      "href": "https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 9
-    },
-    {
       "title": "Paged Out! Issue #7",
       "href": "https://pagedout.institute/download/PagedOut_007.pdf",
       "points": "",
       "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "The end of tt-rss.org",
+      "href": "https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164",
+      "points": "",
+      "comments": "\n              21 comments",
       "index": 10
     },
     {
@@ -93,17 +93,17 @@
       "index": 13
     },
     {
-      "title": "Hey Siri. Block Reddit",
-      "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 14
-    },
-    {
       "title": "OSWALD - Object Storage Write-Ahead Log Device",
       "href": "https://nvartolomei.com/oswald/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "Hey Siri. Block Reddit",
+      "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
+      "points": "",
+      "comments": "\n              6 comments",
       "index": 15
     },
     {
@@ -138,7 +138,7 @@
       "title": "Linus Torvalds Lashes Out At RISC-V Big Endian Plans",
       "href": "https://www.phoronix.com/news/Torvalds-No-RISC-V-BE",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              24 comments",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Procedural Generation with Wave Function Collapse",
+      "href": "https://www.gridbugs.org/wave-function-collapse/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 22
+    },
+    {
       "title": "Alibaba cloud FPGA: the 200$ Kintex UltraScale+",
       "href": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Optique 0.6.0: Shell completion support for type-safe CLI parsers",
       "href": "https://hackers.pub/@hongminhee/2025/optique-060",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Procedural Generation with Wave Function Collapse",
-      "href": "https://www.gridbugs.org/wave-function-collapse/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 24
     },
     {
       "title": "Where It's at://",
       "href": "https://overreacted.io/where-its-at/",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              21 comments",
       "index": 25
     }
   ]
