@@ -1,11 +1,11 @@
 {
-  "date": "Friday, October 3, 2025 at 6:15 PM GMT-5",
+  "date": "Friday, October 3, 2025 at 8:20 PM GMT-5",
   "articles": [
     {
       "title": "Cancelling async Rust",
       "href": "https://sunshowers.io/posts/cancelling-async-rust/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              15 comments",
       "index": 1
     },
     {
@@ -23,143 +23,143 @@
       "index": 3
     },
     {
-      "title": "Atuin desktop: Runbooks that run",
-      "href": "https://github.com/atuinsh/desktop",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 4
-    },
-    {
       "title": "PEP 810: Explicit lazy imports",
       "href": "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 5
+      "comments": "\n              9 comments",
+      "index": 4
     },
     {
       "title": "The end of tt-rss.org",
       "href": "https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              5 comments",
+      "index": 5
+    },
+    {
+      "title": "Atuin desktop: Runbooks that run",
+      "href": "https://github.com/atuinsh/desktop",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 6
-    },
-    {
-      "title": "Hey Siri. Block Reddit",
-      "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 7
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/vzvlgy/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 8
     },
     {
       "title": "WireGuard topologies for self-hosting at home",
       "href": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
+      "index": 7
+    },
+    {
+      "title": "Hey Siri. Block Reddit",
+      "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/vzvlgy/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              26 comments",
       "index": 9
+    },
+    {
+      "title": "Zig Builds Are Getting Faster",
+      "href": "https://mitchellh.com/writing/zig-builds-getting-faster",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
     },
     {
       "title": "fssimu2: Fast SSIMULACRA2 implementation in Zig",
       "href": "https://github.com/gianni-rosato/fssimu2",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Where It's at://",
       "href": "https://overreacted.io/where-its-at/",
       "points": "",
-      "comments": "\n              18 comments",
-      "index": 11
+      "comments": "\n              19 comments",
+      "index": 12
     },
     {
       "title": "Asked to do something illegal at work? Here’s what these software engineers did",
       "href": "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/",
       "points": "",
       "comments": "\n              32 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Linus Torvalds Lashes Out At RISC-V Big Endian Plans",
       "href": "https://www.phoronix.com/news/Torvalds-No-RISC-V-BE",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 13
-    },
-    {
-      "title": "A threat model for accessibility on the web",
-      "href": "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              12 comments",
       "index": 14
-    },
-    {
-      "title": "Procedural Generation with Wave Function Collapse",
-      "href": "https://www.gridbugs.org/wave-function-collapse/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 15
     },
     {
       "title": "Modernizing GNOME",
       "href": "https://www.youtube.com/watch?v=uCAlzx_x6rY",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 15
     },
     {
-      "title": "Dropping upstream Nix from Determinate Nix Installer",
-      "href": "https://determinate.systems/blog/installer-dropping-upstream/",
+      "title": "A threat model for accessibility on the web",
+      "href": "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/",
       "points": "",
-      "comments": "\n              16 comments",
-      "index": 17
+      "comments": "\n              no comments",
+      "index": 16
     },
     {
       "title": "PEP 810 – Explicit lazy imports | peps.python.org",
       "href": "https://peps.python.org/pep-0810/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Procedural Generation with Wave Function Collapse",
+      "href": "https://www.gridbugs.org/wave-function-collapse/",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 18
+    },
+    {
+      "title": "Dropping upstream Nix from Determinate Nix Installer",
+      "href": "https://determinate.systems/blog/installer-dropping-upstream/",
+      "points": "",
+      "comments": "\n              16 comments",
+      "index": 19
+    },
+    {
+      "title": "How We're Redesigning Audacity For The Future",
+      "href": "https://youtu.be/QYM3TWf_G38",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
     },
     {
       "title": "CVE-2025-59489: Arbitrary Code Execution in Unity Runtime",
       "href": "https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 21
+    },
+    {
+      "title": "UTF-8, explained simply - Nic Barker",
+      "href": "https://www.youtube.com/watch?v=vpSkBV5vydg",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "Alibaba cloud FPGA: the 200$ Kintex UltraScale+",
       "href": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Signal Protocol and Post-Quantum Ratchets",
-      "href": "https://signal.org/blog/spqr/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 21
-    },
-    {
-      "title": "Zig Builds Are Getting Faster",
-      "href": "https://mitchellh.com/writing/zig-builds-getting-faster",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Litestream v0.5.0 is Here",
-      "href": "https://fly.io/blog/litestream-v050-is-here/",
-      "points": "",
-      "comments": "\n              8 comments",
       "index": 23
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU",
-      "href": "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main",
+      "title": "Signal Protocol and Post-Quantum Ratchets",
+      "href": "https://signal.org/blog/spqr/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              5 comments",
       "index": 25
     }
   ]
