@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, October 4, 2025 at 7:35 AM GMT-5",
+  "date": "Saturday, October 4, 2025 at 8:20 AM GMT-5",
   "articles": [
     {
       "title": "Cancelling async Rust",
@@ -12,7 +12,7 @@
       "title": "Zig Builds Are Getting Faster",
       "href": "https://mitchellh.com/writing/zig-builds-getting-faster",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              12 comments",
       "index": 2
     },
     {
@@ -33,21 +33,21 @@
       "title": "Don't Parse, Call",
       "href": "https://timkellogg.me/blog/2025/10/03/functions",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 5
+    },
+    {
+      "title": "WireGuard topologies for self-hosting at home",
+      "href": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 6
     },
     {
       "title": "PEP 810: Explicit lazy imports",
       "href": "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 6
-    },
-    {
-      "title": "WireGuard topologies for self-hosting at home",
-      "href": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 7
     },
     {
@@ -61,7 +61,7 @@
       "title": "The end of tt-rss.org",
       "href": "https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              19 comments",
       "index": 9
     },
     {
@@ -75,105 +75,105 @@
       "title": "Atuin desktop: Runbooks that run",
       "href": "https://github.com/atuinsh/desktop",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 11
     },
     {
-      "title": "Hey Siri. Block Reddit",
-      "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
+      "title": "Thunderscan: A clever device transforms a printer into a scanner",
+      "href": "https://www.folklore.org/Thunderscan.html",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              1 comment",
       "index": 12
     },
     {
       "title": "You can't parse XML with regex. Let's do it anyways",
       "href": "https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 13
+    },
+    {
+      "title": "Hey Siri. Block Reddit",
+      "href": "https://www.jasontokoph.com/hey-siri-block-reddit/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 14
+    },
+    {
+      "title": "OSWALD - Object Storage Write-Ahead Log Device",
+      "href": "https://nvartolomei.com/oswald/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
     },
     {
       "title": "Modernizing GNOME",
       "href": "https://www.youtube.com/watch?v=uCAlzx_x6rY",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
+      "index": 16
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/vzvlgy/what_are_you_doing_this_weekend",
       "points": "",
       "comments": "\n              32 comments",
-      "index": 15
+      "index": 17
     },
     {
       "title": "fssimu2: Fast SSIMULACRA2 implementation in Zig",
       "href": "https://github.com/gianni-rosato/fssimu2",
       "points": "",
       "comments": "\n              no comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "PEP 810 – Explicit lazy imports | peps.python.org",
       "href": "https://peps.python.org/pep-0810/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Linus Torvalds Lashes Out At RISC-V Big Endian Plans",
       "href": "https://www.phoronix.com/news/Torvalds-No-RISC-V-BE",
       "points": "",
-      "comments": "\n              22 comments",
-      "index": 18
+      "comments": "\n              23 comments",
+      "index": 20
     },
     {
       "title": "UTF-8, explained simply - Nic Barker",
       "href": "https://www.youtube.com/watch?v=vpSkBV5vydg",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Optique 0.6.0: Shell completion support for type-safe CLI parsers",
-      "href": "https://hackers.pub/@hongminhee/2025/optique-060",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 20
-    },
-    {
-      "title": "Thunderscan: A clever device transforms a printer into a scanner",
-      "href": "https://www.folklore.org/Thunderscan.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 21
-    },
-    {
-      "title": "Procedural Generation with Wave Function Collapse",
-      "href": "https://www.gridbugs.org/wave-function-collapse/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 22
     },
     {
       "title": "Alibaba cloud FPGA: the 200$ Kintex UltraScale+",
       "href": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Optique 0.6.0: Shell completion support for type-safe CLI parsers",
+      "href": "https://hackers.pub/@hongminhee/2025/optique-060",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 23
+    },
+    {
+      "title": "Procedural Generation with Wave Function Collapse",
+      "href": "https://www.gridbugs.org/wave-function-collapse/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 24
     },
     {
       "title": "Where It's at://",
       "href": "https://overreacted.io/where-its-at/",
       "points": "",
       "comments": "\n              20 comments",
-      "index": 24
-    },
-    {
-      "title": "A threat model for accessibility on the web",
-      "href": "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
