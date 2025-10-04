@@ -1,144 +1,144 @@
 {
-  "date": "Saturday, October 4, 2025 at 4:15 PM GMT-5",
+  "date": "Saturday, October 4, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "Breaking “provably correct” Leftpad",
       "href": "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              10 comments",
       "index": 1
+    },
+    {
+      "title": "A Mac-like experience on Linux",
+      "href": "https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 2
     },
     {
       "title": "Zig Builds Are Getting Faster",
       "href": "https://mitchellh.com/writing/zig-builds-getting-faster",
       "points": "",
-      "comments": "\n              17 comments",
-      "index": 2
+      "comments": "\n              18 comments",
+      "index": 3
+    },
+    {
+      "title": "Retiring test-ipv6.com",
+      "href": "https://retire.test-ipv6.com/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 4
     },
     {
       "title": "Cancelling async Rust",
       "href": "https://sunshowers.io/posts/cancelling-async-rust/",
       "points": "",
       "comments": "\n              21 comments",
-      "index": 3
+      "index": 5
     },
     {
       "title": "Paged Out! Issue #7",
       "href": "https://pagedout.institute/download/PagedOut_007.pdf",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 4
-    },
-    {
-      "title": "A Mac-like experience on Linux",
-      "href": "https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Self-Hosting Email Like It’s 1984",
       "href": "https://maxadamski.com/blog/2025/10/email.html",
       "points": "",
-      "comments": "\n              2 comments",
-      "index": 6
-    },
-    {
-      "title": "The jank community has stepped up",
-      "href": "https://jank-lang.org/blog/2025-10-03-community/",
-      "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              3 comments",
       "index": 7
-    },
-    {
-      "title": "How We're Redesigning Audacity For The Future",
-      "href": "https://youtu.be/QYM3TWf_G38",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 8
-    },
-    {
-      "title": "WireGuard topologies for self-hosting at home",
-      "href": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 9
-    },
-    {
-      "title": "Don't Parse, Call",
-      "href": "https://timkellogg.me/blog/2025/10/03/functions",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 10
-    },
-    {
-      "title": "Retiring test-ipv6.com",
-      "href": "https://retire.test-ipv6.com/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 11
     },
     {
       "title": "Cuckoo hashing improves SIMD hash tables",
       "href": "https://reiner.org/cuckoo-hashing",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
+      "index": 8
+    },
+    {
+      "title": "The jank community has stepped up",
+      "href": "https://jank-lang.org/blog/2025-10-03-community/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 9
+    },
+    {
+      "title": "How We're Redesigning Audacity For The Future",
+      "href": "https://youtu.be/QYM3TWf_G38",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 10
+    },
+    {
+      "title": "WireGuard topologies for self-hosting at home",
+      "href": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
+      "points": "",
+      "comments": "\n              9 comments",
+      "index": 11
     },
     {
       "title": "Apertus: a fully open, transparent, multilingual language model",
       "href": "https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 13
+      "index": 12
     },
     {
-      "title": "Thunderscan: A clever device transforms a printer into a scanner",
-      "href": "https://www.folklore.org/Thunderscan.html",
+      "title": "Don't Parse, Call",
+      "href": "https://timkellogg.me/blog/2025/10/03/functions",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 14
+      "comments": "\n              18 comments",
+      "index": 13
     },
     {
       "title": "OSWALD - Object Storage Write-Ahead Log Device",
       "href": "https://nvartolomei.com/oswald/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 15
-    },
-    {
-      "title": "Fundraising campaign to sustain GNU Guix",
-      "href": "https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/",
-      "points": "",
-      "comments": "\n              26 comments",
-      "index": 16
+      "index": 14
     },
     {
       "title": "You can't parse XML with regex. Let's do it anyways",
       "href": "https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/",
       "points": "",
       "comments": "\n              9 comments",
+      "index": 15
+    },
+    {
+      "title": "Thunderscan: A clever device transforms a printer into a scanner",
+      "href": "https://www.folklore.org/Thunderscan.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
+      "title": "Fundraising campaign to sustain GNU Guix",
+      "href": "https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/",
+      "points": "",
+      "comments": "\n              27 comments",
       "index": 17
-    },
-    {
-      "title": "PEP 810: Explicit lazy imports",
-      "href": "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 18
-    },
-    {
-      "title": "The end of tt-rss.org",
-      "href": "https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 19
     },
     {
       "title": "Delimited continuations in lone lisp",
       "href": "https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "PEP 810: Explicit lazy imports",
+      "href": "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131",
+      "points": "",
+      "comments": "\n              17 comments",
+      "index": 19
+    },
+    {
+      "title": "The end of tt-rss.org",
+      "href": "https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164",
+      "points": "",
+      "comments": "\n              25 comments",
       "index": 20
     },
     {
@@ -149,8 +149,8 @@
       "index": 21
     },
     {
-      "title": "Game Development: History, Industry, and Engine Design",
-      "href": "https://spiiin.github.io/blog/490626496/",
+      "title": "Stone Tools: Exploring retro productivity software from the 8/16-bit era",
+      "href": "https://stonetools.ghost.io/",
       "points": "",
       "comments": "\n              no comments",
       "index": 22
@@ -159,12 +159,12 @@
       "title": "Atuin desktop: Runbooks that run",
       "href": "https://github.com/atuinsh/desktop",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              7 comments",
       "index": 23
     },
     {
-      "title": "Stone Tools: Exploring retro productivity software from the 8/16-bit era",
-      "href": "https://stonetools.ghost.io/",
+      "title": "Game Development: History, Industry, and Engine Design",
+      "href": "https://spiiin.github.io/blog/490626496/",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
