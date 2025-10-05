@@ -1,37 +1,37 @@
 {
-  "date": "Sunday, October 5, 2025 at 11:20 AM GMT-5",
+  "date": "Sunday, October 5, 2025 at 12:15 PM GMT-5",
   "articles": [
+    {
+      "title": "Conventional Commits considered harmful",
+      "href": "https://larr.net/p/cc.html",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 1
+    },
     {
       "title": "Why NetNewsWire Is Not a Web App",
       "href": "https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html",
       "points": "",
       "comments": "\n              22 comments",
-      "index": 1
-    },
-    {
-      "title": "Conventional Commits considered harmful",
-      "href": "https://larr.net/p/cc.html",
-      "points": "",
-      "comments": "\n              6 comments",
       "index": 2
-    },
-    {
-      "title": "Hashcards: A Plain-Text Spaced Repetition System",
-      "href": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 3
     },
     {
       "title": "Exit the Feed: The Best Coders Should Walk Away",
       "href": "https://abner.page/post/exit-the-feed/",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 4
+      "comments": "\n              4 comments",
+      "index": 3
     },
     {
       "title": "Personal data storage is an idea whose time has come",
       "href": "https://blog.muni.town/personal-data-storage-idea/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 4
+    },
+    {
+      "title": "Hashcards: A Plain-Text Spaced Repetition System",
+      "href": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
       "points": "",
       "comments": "\n              2 comments",
       "index": 5
@@ -40,7 +40,7 @@
       "title": "Breaking “provably correct” Leftpad",
       "href": "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/",
       "points": "",
-      "comments": "\n              36 comments",
+      "comments": "\n              37 comments",
       "index": 6
     },
     {
@@ -54,7 +54,7 @@
       "title": "A Mac-like experience on Linux",
       "href": "https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              26 comments",
       "index": 8
     },
     {
@@ -93,8 +93,8 @@
       "index": 13
     },
     {
-      "title": "Cuckoo hashing improves SIMD hash tables",
-      "href": "https://reiner.org/cuckoo-hashing",
+      "title": "The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements",
+      "href": "https://vincentrolfs.dev/blog/ts-var",
       "points": "",
       "comments": "\n              no comments",
       "index": 14
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
-      "title": "Paged Out! Issue #7",
-      "href": "https://pagedout.institute/download/PagedOut_007.pdf",
+      "title": "Cuckoo hashing improves SIMD hash tables",
+      "href": "https://reiner.org/cuckoo-hashing",
       "points": "",
       "comments": "\n              1 comment",
       "index": 16
-    },
-    {
-      "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
-      "href": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "mesh-spreadsheet: data & code editor",
-      "href": "https://github.com/chrispsn/mesh-spreadsheet",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "File Format Gallery for Kaitai Struct",
-      "href": "https://formats.kaitai.io/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
     },
     {
       "title": "Announcing GoboLinux 017.01 - Passing the Torch",
       "href": "https://gobolinux.org//news/119.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 17
+    },
+    {
+      "title": "Paged Out! Issue #7",
+      "href": "https://pagedout.institute/download/PagedOut_007.pdf",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
+      "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
+      "href": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
     },
     {
       "title": "Adding Stride Scheduling to xv6",
       "href": "https://nickchandler.dev/articles/2025/10/03/lab-report-adding-stride-scheduling-to-xv6/",
       "points": "",
+      "comments": "\n              1 comment",
+      "index": 20
+    },
+    {
+      "title": "mesh-spreadsheet: data & code editor",
+      "href": "https://github.com/chrispsn/mesh-spreadsheet",
+      "points": "",
       "comments": "\n              no comments",
       "index": 21
+    },
+    {
+      "title": "TESID: Textualised Encrypted Sequential Identifiers",
+      "href": "https://temp.chrismorgan.info/2025-09-17-tesid/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 22
+    },
+    {
+      "title": "UUIDv47 = v4 privacy + v7 performance",
+      "href": "https://github.com/stateless-me/uuidv47",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 23
+    },
+    {
+      "title": "File Format Gallery for Kaitai Struct",
+      "href": "https://formats.kaitai.io/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 24
     },
     {
       "title": "Delimited continuations in lone lisp",
       "href": "https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 22
-    },
-    {
-      "title": "Zig Builds Are Getting Faster",
-      "href": "https://mitchellh.com/writing/zig-builds-getting-faster",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 23
-    },
-    {
-      "title": "Cancelling async Rust",
-      "href": "https://sunshowers.io/posts/cancelling-async-rust/",
-      "points": "",
-      "comments": "\n              23 comments",
-      "index": 24
-    },
-    {
-      "title": "RacketCon - Day 2 - Livestream",
-      "href": "https://con.racket-lang.org/",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 25
     }
   ]
