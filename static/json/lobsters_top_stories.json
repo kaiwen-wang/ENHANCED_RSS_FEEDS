@@ -1,60 +1,60 @@
 {
-  "date": "Sunday, October 5, 2025 at 12:15 PM GMT-5",
+  "date": "Sunday, October 5, 2025 at 1:25 PM GMT-5",
   "articles": [
     {
       "title": "Conventional Commits considered harmful",
       "href": "https://larr.net/p/cc.html",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              11 comments",
       "index": 1
-    },
-    {
-      "title": "Why NetNewsWire Is Not a Web App",
-      "href": "https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html",
-      "points": "",
-      "comments": "\n              22 comments",
-      "index": 2
     },
     {
       "title": "Exit the Feed: The Best Coders Should Walk Away",
       "href": "https://abner.page/post/exit-the-feed/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              8 comments",
+      "index": 2
+    },
+    {
+      "title": "Why NetNewsWire Is Not a Web App",
+      "href": "https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html",
+      "points": "",
+      "comments": "\n              26 comments",
       "index": 3
     },
     {
       "title": "Personal data storage is an idea whose time has come",
       "href": "https://blog.muni.town/personal-data-storage-idea/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              4 comments",
       "index": 4
     },
     {
       "title": "Hashcards: A Plain-Text Spaced Repetition System",
       "href": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 5
+    },
+    {
+      "title": "The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements",
+      "href": "https://vincentrolfs.dev/blog/ts-var",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 6
     },
     {
       "title": "Breaking “provably correct” Leftpad",
       "href": "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/",
       "points": "",
-      "comments": "\n              37 comments",
-      "index": 6
-    },
-    {
-      "title": "Retiring test-ipv6.com",
-      "href": "https://retire.test-ipv6.com/",
-      "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              39 comments",
       "index": 7
     },
     {
-      "title": "A Mac-like experience on Linux",
-      "href": "https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/",
+      "title": "UUIDv47 = v4 privacy + v7 performance",
+      "href": "https://github.com/stateless-me/uuidv47",
       "points": "",
-      "comments": "\n              26 comments",
+      "comments": "\n              4 comments",
       "index": 8
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
+      "title": "Retiring test-ipv6.com",
+      "href": "https://retire.test-ipv6.com/",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 10
+    },
+    {
+      "title": "A Mac-like experience on Linux",
+      "href": "https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/",
+      "points": "",
+      "comments": "\n              29 comments",
+      "index": 11
+    },
+    {
       "title": "Hobby Hilbert Simplex",
       "href": "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 10
+      "index": 12
     },
     {
       "title": "Self-Hosting Email Like It’s 1984",
       "href": "https://maxadamski.com/blog/2025/10/email.html",
       "points": "",
       "comments": "\n              14 comments",
-      "index": 11
+      "index": 13
+    },
+    {
+      "title": "valuetier.org (and some thoughts on LLMs)",
+      "href": "https://ericphanson.com/blog/2025/valuetier.org-and-some-thoughts-on-llms/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
     },
     {
       "title": "What .NET 10 GC Changes Mean for Developers",
       "href": "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "Achieving period-correct graphics in personal computer emulators - Part 1: The Amiga",
-      "href": "https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 13
-    },
-    {
-      "title": "The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements",
-      "href": "https://vincentrolfs.dev/blog/ts-var",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Wherever you get your Podcasts",
       "href": "https://knotbin.leaflet.pub/3lx3uqveyj22f",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 15
-    },
-    {
-      "title": "Cuckoo hashing improves SIMD hash tables",
-      "href": "https://reiner.org/cuckoo-hashing",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 16
     },
     {
-      "title": "Announcing GoboLinux 017.01 - Passing the Torch",
-      "href": "https://gobolinux.org//news/119.html",
+      "title": "Achieving period-correct graphics in personal computer emulators - Part 1: The Amiga",
+      "href": "https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/",
       "points": "",
       "comments": "\n              no comments",
       "index": 17
-    },
-    {
-      "title": "Paged Out! Issue #7",
-      "href": "https://pagedout.institute/download/PagedOut_007.pdf",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 18
-    },
-    {
-      "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
-      "href": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Adding Stride Scheduling to xv6",
-      "href": "https://nickchandler.dev/articles/2025/10/03/lab-report-adding-stride-scheduling-to-xv6/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "mesh-spreadsheet: data & code editor",
-      "href": "https://github.com/chrispsn/mesh-spreadsheet",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
     },
     {
       "title": "TESID: Textualised Encrypted Sequential Identifiers",
       "href": "https://temp.chrismorgan.info/2025-09-17-tesid/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
+      "title": "Cuckoo hashing improves SIMD hash tables",
+      "href": "https://reiner.org/cuckoo-hashing",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 19
+    },
+    {
+      "title": "Announcing GoboLinux 017.01 - Passing the Torch",
+      "href": "https://gobolinux.org//news/119.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Paged Out! Issue #7",
+      "href": "https://pagedout.institute/download/PagedOut_007.pdf",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
+      "href": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 22
     },
     {
-      "title": "UUIDv47 = v4 privacy + v7 performance",
-      "href": "https://github.com/stateless-me/uuidv47",
+      "title": "Adding Stride Scheduling to xv6",
+      "href": "https://nickchandler.dev/articles/2025/10/03/lab-report-adding-stride-scheduling-to-xv6/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 23
     },
     {
-      "title": "File Format Gallery for Kaitai Struct",
-      "href": "https://formats.kaitai.io/",
+      "title": "mesh-spreadsheet: data & code editor",
+      "href": "https://github.com/chrispsn/mesh-spreadsheet",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Delimited continuations in lone lisp",
-      "href": "https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp",
+      "title": "How to Discover the Binary System as a Child",
+      "href": "https://www.youtube.com/watch?v=lg0RYLlmjJM",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
