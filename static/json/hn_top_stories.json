@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, October 5, 2025 at 7:35 AM GMT-5",
+  "date": "Sunday, October 5, 2025 at 8:20 AM GMT-5",
   "articles": [
     {
       "title": "Personal data storage is an idea whose time has come",
       "href": "https://blog.muni.town/personal-data-storage-idea/",
-      "points": "106 points",
-      "comments": "52 comments",
+      "points": "136 points",
+      "comments": "79 comments",
       "index": 1
     },
     {
       "title": "Beginner Guide to VPS Hetzner and Coolify",
       "href": "https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide",
-      "points": "60 points",
-      "comments": "21 comments",
+      "points": "86 points",
+      "comments": "37 comments",
       "index": 2
+    },
+    {
+      "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
+      "href": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+      "points": "6 points",
+      "comments": "discuss",
+      "index": 3
     },
     {
       "title": "What .NET 10 GC Changes Mean for Developers",
       "href": "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/",
-      "points": "157 points",
-      "comments": "67 comments",
-      "index": 3
+      "points": "169 points",
+      "comments": "82 comments",
+      "index": 4
     },
     {
       "title": "Managing context on the Claude Developer Platform",
       "href": "https://www.anthropic.com/news/context-management",
-      "points": "82 points",
-      "comments": "40 comments",
-      "index": 4
+      "points": "92 points",
+      "comments": "44 comments",
+      "index": 5
     },
     {
       "title": "Ambigr.am",
       "href": "https://ambigr.am/hall-of-fame",
-      "points": "96 points",
-      "comments": "8 comments",
-      "index": 5
+      "points": "103 points",
+      "comments": "9 comments",
+      "index": 6
     },
     {
       "title": "Social Cooling (2017)",
       "href": "https://www.socialcooling.com/",
-      "points": "263 points",
+      "points": "277 points",
       "comments": "98 comments",
-      "index": 6
-    },
-    {
-      "title": "Leveling Up My Homelab",
-      "href": "https://cweagans.net/2025/09/leveling-up-my-homelab/",
-      "points": "52 points",
-      "comments": "21 comments",
       "index": 7
     },
     {
       "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
       "href": "https://github.com/DebarghaG/proofofthought",
-      "points": "280 points",
-      "comments": "147 comments",
+      "points": "285 points",
+      "comments": "148 comments",
       "index": 8
     },
     {
       "title": "The best worst hack that saved our bacon",
       "href": "https://jeffersonheard.ghost.io/the-best-worst-hack-that-saved-our-bacon/",
-      "points": "48 points",
-      "comments": "23 comments",
+      "points": "57 points",
+      "comments": "29 comments",
       "index": 9
+    },
+    {
+      "title": "Why I Choose Email over Messaging",
+      "href": "https://www.spinellis.gr/blog/20250926/?li",
+      "points": "87 points",
+      "comments": "73 comments",
+      "index": 10
+    },
+    {
+      "title": "Leveling Up My Homelab",
+      "href": "https://cweagans.net/2025/09/leveling-up-my-homelab/",
+      "points": "62 points",
+      "comments": "28 comments",
+      "index": 11
     },
     {
       "title": "Comparing a RISC and a CISC with Similar Hardware Organization (1991)",
       "href": "https://dl.acm.org/doi/pdf/10.1145/106972.107003",
-      "points": "29 points",
-      "comments": "5 comments",
-      "index": 10
-    },
-    {
-      "title": "1Password CLI Vulnerability",
-      "href": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
-      "points": "79 points",
-      "comments": "24 comments",
-      "index": 11
+      "points": "30 points",
+      "comments": "8 comments",
+      "index": 12
     },
     {
       "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
       "href": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-      "points": "254 points",
-      "comments": "167 comments",
-      "index": 12
+      "points": "259 points",
+      "comments": "169 comments",
+      "index": 13
+    },
+    {
+      "title": "1Password CLI Vulnerability",
+      "href": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
+      "points": "84 points",
+      "comments": "28 comments",
+      "index": 14
     },
     {
       "title": "Laptops create systems. Phones feed algorithms. The asymmetry determines power",
       "href": "https://zakelfassi.com/command-interface-device-power",
-      "points": "14 points",
-      "comments": "discuss",
-      "index": 13
+      "points": "40 points",
+      "comments": "8 comments",
+      "index": 15
+    },
+    {
+      "title": "Which Table Format Do LLMs Understand Best? (Results for 11 Formats)",
+      "href": "https://www.improvingagents.com/blog/best-input-data-format-for-llms",
+      "points": "16 points",
+      "comments": "3 comments",
+      "index": 16
     },
     {
       "title": "Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
       "href": "https://github.com/daniellionel01/parrot",
-      "points": "76 points",
-      "comments": "20 comments",
-      "index": 14
-    },
-    {
-      "title": "Mod. 5140 - IBM's First Laptop Computer",
-      "href": "https://richardsapperdesign.com/products/mod-5140/",
-      "points": "61 points",
-      "comments": "25 comments",
-      "index": 15
+      "points": "78 points",
+      "comments": "21 comments",
+      "index": 17
     },
     {
       "title": "Newton: physics simulation engine built upon NVIDIA Warp",
       "href": "https://github.com/newton-physics/newton",
-      "points": "104 points",
-      "comments": "19 comments",
-      "index": 16
-    },
-    {
-      "title": "Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)",
-      "href": "https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/",
-      "points": "29 points",
+      "points": "105 points",
       "comments": "20 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Blog Feeds",
       "href": "https://blogfeeds.net",
-      "points": "189 points",
-      "comments": "60 comments",
-      "index": 18
+      "points": "194 points",
+      "comments": "63 comments",
+      "index": 19
+    },
+    {
+      "title": "Mod. 5140 - IBM's First Laptop Computer",
+      "href": "https://richardsapperdesign.com/products/mod-5140/",
+      "points": "64 points",
+      "comments": "26 comments",
+      "index": 20
+    },
+    {
+      "title": "Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)",
+      "href": "https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/",
+      "points": "32 points",
+      "comments": "21 comments",
+      "index": 21
     },
     {
       "title": "NSA and IETF: Can an attacker purchase standardization of weakened cryptography?",
       "href": "https://blog.cr.yp.to/20251004-weakened.html",
-      "points": "157 points",
-      "comments": "59 comments",
-      "index": 19
+      "points": "163 points",
+      "comments": "60 comments",
+      "index": 22
+    },
+    {
+      "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
+      "href": "https://arxiv.org/abs/2509.12351",
+      "points": "66 points",
+      "comments": "15 comments",
+      "index": 23
+    },
+    {
+      "title": "Matrix Core Programming on AMD GPUs",
+      "href": "https://salykova.github.io/matrix-cores-cdna",
+      "points": "91 points",
+      "comments": "4 comments",
+      "index": 24
     },
     {
       "title": "Show HN: 2D Spine Animation AI for Game",
       "href": "https://www.godmodeai.co/ai-spine-animation",
       "points": "9 points",
       "comments": "1 comment",
-      "index": 20
+      "index": 25
     },
     {
-      "title": "Skills I Was Missing as a MongoDB User",
-      "href": "https://www.mongodb.com/company/blog/technical/10-skills-was-missing-as-mongodb-user",
+      "title": "Self hosting 10TB in S3 on a framework laptop and disks",
+      "href": "https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/",
       "points": "4 points",
       "comments": "1 comment",
-      "index": 21
+      "index": 26
     },
     {
-      "title": "Why I Choose Email over Messaging",
-      "href": "https://www.spinellis.gr/blog/20250926/?li",
-      "points": "72 points",
-      "comments": "65 comments",
-      "index": 22
-    },
-    {
-      "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
-      "href": "https://arxiv.org/abs/2509.12351",
-      "points": "65 points",
-      "comments": "13 comments",
-      "index": 23
-    },
-    {
-      "title": "Matrix Core Programming on AMD GPUs",
-      "href": "https://salykova.github.io/matrix-cores-cdna",
-      "points": "89 points",
+      "title": "Machine Learnability as a Measure of Order in Aperiodic Sequences",
+      "href": "https://arxiv.org/abs/2509.18103",
+      "points": "36 points",
       "comments": "4 comments",
-      "index": 24
+      "index": 27
     },
     {
       "title": "XiangShan Vector Floating-Point Unit Design",
       "href": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
       "points": "59 points",
       "comments": "6 comments",
-      "index": 25
-    },
-    {
-      "title": "Machine Learnability as a Measure of Order in Aperiodic Sequences",
-      "href": "https://arxiv.org/abs/2509.18103",
-      "points": "33 points",
-      "comments": "4 comments",
-      "index": 26
+      "index": 28
     },
     {
       "title": "Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]",
       "href": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf",
       "points": "59 points",
       "comments": "discuss",
-      "index": 27
+      "index": 29
     },
     {
       "title": "Earth was born dry until a cosmic collision made it a blue planet",
       "href": "https://www.sciencedaily.com/releases/2025/09/250928095654.htm",
-      "points": "243 points",
-      "comments": "227 comments",
-      "index": 28
-    },
-    {
-      "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
-      "href": "https://arxiv.org/abs/2509.19371",
-      "points": "92 points",
-      "comments": "30 comments",
-      "index": 29
-    },
-    {
-      "title": "Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces",
-      "href": "https://github.com/lsartory/Clavier",
-      "points": "91 points",
-      "comments": "31 comments",
+      "points": "249 points",
+      "comments": "230 comments",
       "index": 30
     }
   ]
