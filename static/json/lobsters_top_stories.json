@@ -1,18 +1,18 @@
 {
-  "date": "Monday, October 6, 2025 at 4:15 PM GMT-5",
+  "date": "Monday, October 6, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "I brain coded a static image gallery in a few hours",
       "href": "https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              5 comments",
       "index": 1
     },
     {
       "title": "gem.coop",
       "href": "https://gem.coop/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              18 comments",
       "index": 2
     },
     {
@@ -33,7 +33,7 @@
       "title": "Saving My Commit With `jj evolog`",
       "href": "https://landaire.net/jj-evolog/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 5
     },
     {
@@ -82,7 +82,7 @@
       "title": "Django: one ORM to rule all databases",
       "href": "https://www.paulox.net/2025/10/06/django-orm-comparison/",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              12 comments",
       "index": 12
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
+      "title": "A mere add_foreign_key can wipe out your whole Rails + SQLite production table",
+      "href": "https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 14
+    },
+    {
       "title": "The QNX Operating System",
       "href": "https://www.abortretry.fail/p/the-qnx-operating-system",
       "points": "",
       "comments": "\n              no comments",
-      "index": 14
-    },
-    {
-      "title": "A mere add_foreign_key can wipe out your whole Rails + SQLite production table",
-      "href": "https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 15
     },
     {
       "title": "Simple automated deployments using git push (2024)",
       "href": "https://garrido.io/notes/simple-automated-deployments-git-push/",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              14 comments",
       "index": 16
+    },
+    {
+      "title": "A case for learning GPU programming with a compute-first mindset",
+      "href": "https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 17
     },
     {
       "title": "Exit the Feed: The Best Coders Should Walk Away",
       "href": "https://abner.page/post/exit-the-feed/",
       "points": "",
       "comments": "\n              47 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/mahsz8/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              9 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "OpenZL: An Open Source Format-Aware Compression Framework",
       "href": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "A case for learning GPU programming with a compute-first mindset",
-      "href": "https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 20
-    },
-    {
-      "title": "Packing The World For Longest Lines Of Sight",
-      "href": "https://tombh.co.uk/packing-world-lines-of-sight",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 21
-    },
-    {
-      "title": "WebGPU and the price of compiling WGSL",
-      "href": "https://hugodaniel.com/posts/webgpu-diagnostics/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "TinqerJS – LINQ Inspired ORM for TypeScript Supporting Postgres, SQLite",
-      "href": "https://tinqerjs.org/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 23
-    },
-    {
-      "title": "Personal data storage is an idea whose time has come",
-      "href": "https://blog.muni.town/personal-data-storage-idea/",
-      "points": "",
-      "comments": "\n              23 comments",
-      "index": 24
     },
     {
       "title": "Beating the L1 cache with value speculation (2021)",
       "href": "https://mazzo.li/posts/value-speculation.html",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "This Month in Redox - September 2025",
+      "href": "https://www.redox-os.org/news/this-month-250930/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Packing The World For Longest Lines Of Sight",
+      "href": "https://tombh.co.uk/packing-world-lines-of-sight",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 23
+    },
+    {
+      "title": "WebGPU and the price of compiling WGSL",
+      "href": "https://hugodaniel.com/posts/webgpu-diagnostics/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 24
+    },
+    {
+      "title": "fibonacci-numbers crate",
+      "href": "https://docs.rs/crate/fibonacci-numbers/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
