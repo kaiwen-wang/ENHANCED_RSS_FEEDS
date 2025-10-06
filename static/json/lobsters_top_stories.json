@@ -1,5 +1,5 @@
 {
-  "date": "Monday, October 6, 2025 at 12:20 AM GMT-5",
+  "date": "Monday, October 6, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "Exit the Feed: The Best Coders Should Walk Away",
@@ -9,45 +9,45 @@
       "index": 1
     },
     {
-      "title": "Conventional Commits considered harmful",
-      "href": "https://larr.net/p/cc.html",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 2
-    },
-    {
       "title": "NIRS fire destroys [South Korean] government's cloud storage system, no backups available",
       "href": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
       "points": "",
       "comments": "\n              no comments",
+      "index": 2
+    },
+    {
+      "title": "Conventional Commits considered harmful",
+      "href": "https://larr.net/p/cc.html",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 3
     },
     {
       "title": "Personal data storage is an idea whose time has come",
       "href": "https://blog.muni.town/personal-data-storage-idea/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              12 comments",
       "index": 4
+    },
+    {
+      "title": "cargo-subspace: Make rust-analyzer work better with very large cargo workspaces",
+      "href": "https://github.com/ethowitz/cargo-subspace",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 5
     },
     {
       "title": "The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements",
       "href": "https://vincentrolfs.dev/blog/ts-var",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Why NetNewsWire Is Not a Web App",
       "href": "https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html",
       "points": "",
-      "comments": "\n              29 comments",
-      "index": 6
-    },
-    {
-      "title": "cargo-subspace: Make rust-analyzer work better with very large cargo workspaces",
-      "href": "https://github.com/ethowitz/cargo-subspace",
-      "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              30 comments",
       "index": 7
     },
     {
@@ -79,15 +79,15 @@
       "index": 11
     },
     {
-      "title": "valuetier.org (and some thoughts on LLMs)",
-      "href": "https://ericphanson.com/blog/2025/valuetier.org-and-some-thoughts-on-llms/",
+      "title": "The Server in the Closet",
+      "href": "https://robertgreiner.com/the-server-in-the-closet/",
       "points": "",
       "comments": "\n              no comments",
       "index": 12
     },
     {
-      "title": "The Server in the Closet",
-      "href": "https://robertgreiner.com/the-server-in-the-closet/",
+      "title": "valuetier.org (and some thoughts on LLMs)",
+      "href": "https://ericphanson.com/blog/2025/valuetier.org-and-some-thoughts-on-llms/",
       "points": "",
       "comments": "\n              no comments",
       "index": 13
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
+      "title": "gem.coop",
+      "href": "https://gem.coop/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
       "title": "Announcing GoboLinux 017.01 - Passing the Torch",
       "href": "https://gobolinux.org//news/119.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 16
+    },
+    {
+      "title": "Simple automated deployments using git push (2024)",
+      "href": "https://garrido.io/notes/simple-automated-deployments-git-push/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
     },
     {
       "title": "Hobby Hilbert Simplex",
       "href": "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
+      "index": 18
     },
     {
       "title": "The Case for Learned Index Structures",
       "href": "https://dl.acm.org/doi/10.1145/3183713.3196909",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Retiring test-ipv6.com",
       "href": "https://retire.test-ipv6.com/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 18
+      "index": 20
     },
     {
       "title": "A Mac-like experience on Linux",
       "href": "https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/",
       "points": "",
       "comments": "\n              35 comments",
-      "index": 19
-    },
-    {
-      "title": "TESID: Textualised Encrypted Sequential Identifiers",
-      "href": "https://temp.chrismorgan.info/2025-09-17-tesid/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
       "href": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "TESID: Textualised Encrypted Sequential Identifiers",
+      "href": "https://temp.chrismorgan.info/2025-09-17-tesid/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 23
     },
     {
       "title": "What .NET 10 GC Changes Mean for Developers",
       "href": "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Self-Hosting Email Like It’s 1984",
       "href": "https://maxadamski.com/blog/2025/10/email.html",
       "points": "",
-      "comments": "\n              16 comments",
-      "index": 23
-    },
-    {
-      "title": "Adding Stride Scheduling to xv6",
-      "href": "https://nickchandler.dev/articles/2025/10/03/lab-report-adding-stride-scheduling-to-xv6/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 24
-    },
-    {
-      "title": "Wherever you get your Podcasts",
-      "href": "https://knotbin.leaflet.pub/3lx3uqveyj22f",
-      "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              17 comments",
       "index": 25
     }
   ]
