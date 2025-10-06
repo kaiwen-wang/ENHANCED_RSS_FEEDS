@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, October 5, 2025 at 10:00 PM GMT-5",
+  "date": "Sunday, October 5, 2025 at 11:20 PM GMT-5",
   "articles": [
     {
       "title": "Exit the Feed: The Best Coders Should Walk Away",
       "href": "https://abner.page/post/exit-the-feed/",
       "points": "",
-      "comments": "\n              17 comments",
+      "comments": "\n              20 comments",
       "index": 1
     },
     {
@@ -26,7 +26,7 @@
       "title": "The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements",
       "href": "https://vincentrolfs.dev/blog/ts-var",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              8 comments",
       "index": 4
     },
     {
@@ -37,29 +37,29 @@
       "index": 5
     },
     {
-      "title": "cargo-subspace: Make rust-analyzer work better with very large cargo workspaces",
-      "href": "https://github.com/ethowitz/cargo-subspace",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 6
-    },
-    {
       "title": "UUIDv47 = v4 privacy + v7 performance",
       "href": "https://github.com/stateless-me/uuidv47",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 7
+      "comments": "\n              5 comments",
+      "index": 6
     },
     {
       "title": "How and why EasyOS is different",
       "href": "https://easyos.org/about/how-and-why-easyos-is-different.html",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 7
+    },
+    {
+      "title": "NIRS fire destroys [South Korean] government's cloud storage system, no backups available",
+      "href": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 8
     },
     {
-      "title": "Hashcards: A Plain-Text Spaced Repetition System",
-      "href": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
+      "title": "cargo-subspace: Make rust-analyzer work better with very large cargo workspaces",
+      "href": "https://github.com/ethowitz/cargo-subspace",
       "points": "",
       "comments": "\n              3 comments",
       "index": 9
@@ -72,10 +72,10 @@
       "index": 10
     },
     {
-      "title": "NIRS fire destroys [South Korean] government's cloud storage system, no backups available",
-      "href": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
+      "title": "Hashcards: A Plain-Text Spaced Repetition System",
+      "href": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 11
     },
     {
@@ -86,38 +86,38 @@
       "index": 12
     },
     {
+      "title": "The Server in the Closet",
+      "href": "https://robertgreiner.com/the-server-in-the-closet/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
       "title": "Breaking “provably correct” Leftpad",
       "href": "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/",
       "points": "",
       "comments": "\n              42 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "The Case for Learned Index Structures",
       "href": "https://dl.acm.org/doi/10.1145/3183713.3196909",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Retiring test-ipv6.com",
       "href": "https://retire.test-ipv6.com/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Hobby Hilbert Simplex",
       "href": "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
-    },
-    {
-      "title": "Announcing GoboLinux 017.01 - Passing the Torch",
-      "href": "https://gobolinux.org//news/119.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "Announcing GoboLinux 017.01 - Passing the Torch",
+      "href": "https://gobolinux.org//news/119.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
       "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
       "href": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
       "points": "",
       "comments": "\n              no comments",
-      "index": 19
+      "index": 20
     },
     {
       "title": "What .NET 10 GC Changes Mean for Developers",
       "href": "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
+    },
+    {
+      "title": "TESID: Textualised Encrypted Sequential Identifiers",
+      "href": "https://temp.chrismorgan.info/2025-09-17-tesid/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 22
     },
     {
       "title": "Self-Hosting Email Like It’s 1984",
       "href": "https://maxadamski.com/blog/2025/10/email.html",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Adding Stride Scheduling to xv6",
       "href": "https://nickchandler.dev/articles/2025/10/03/lab-report-adding-stride-scheduling-to-xv6/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "TESID: Textualised Encrypted Sequential Identifiers",
-      "href": "https://temp.chrismorgan.info/2025-09-17-tesid/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Wherever you get your Podcasts",
       "href": "https://knotbin.leaflet.pub/3lx3uqveyj22f",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 24
-    },
-    {
-      "title": "Premature Generalization",
-      "href": "https://youtu.be/P5lNzRA8rYI",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 25
     }
   ]
