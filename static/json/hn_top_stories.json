@@ -1,193 +1,193 @@
 {
-  "date": "Monday, October 6, 2025 at 10:30 PM GMT-5",
+  "date": "Monday, October 6, 2025 at 11:20 PM GMT-5",
   "articles": [
+    {
+      "title": "Pdoc – Generate API documentation for Python projects",
+      "href": "https://pdoc.dev/",
+      "points": "16 points",
+      "comments": "3 comments",
+      "index": 1
+    },
     {
       "title": "The least amount of CSS for a decent looking site (2023)",
       "href": "https://thecascade.dev/article/least-amount-of-css/",
-      "points": "109 points",
-      "comments": "25 comments",
-      "index": 1
+      "points": "135 points",
+      "comments": "35 comments",
+      "index": 2
     },
     {
       "title": "Apps SDK",
       "href": "https://developers.openai.com/apps-sdk/",
-      "points": "321 points",
-      "comments": "276 comments",
-      "index": 2
+      "points": "333 points",
+      "comments": "286 comments",
+      "index": 3
     },
     {
       "title": "Why did Crunchyroll's subtitles just get worse?",
       "href": "https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles",
-      "points": "106 points",
-      "comments": "94 comments",
-      "index": 3
+      "points": "126 points",
+      "comments": "114 comments",
+      "index": 4
     },
     {
       "title": "Kirigami-inspired parachute falls on target",
       "href": "https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/",
-      "points": "171 points",
-      "comments": "44 comments",
-      "index": 4
+      "points": "175 points",
+      "comments": "48 comments",
+      "index": 5
     },
     {
       "title": "Using Deno as my game engine",
       "href": "https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine",
-      "points": "22 points",
-      "comments": "2 comments",
-      "index": 5
+      "points": "29 points",
+      "comments": "9 comments",
+      "index": 6
     },
     {
       "title": "Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)",
       "href": "https://windscribe.com/blog/the-vpn-relationship-map/",
-      "points": "270 points",
-      "comments": "176 comments",
-      "index": 6
+      "points": "286 points",
+      "comments": "187 comments",
+      "index": 7
     },
     {
       "title": "OpenZL: An open source format-aware compression framework",
       "href": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
-      "points": "272 points",
-      "comments": "58 comments",
-      "index": 7
+      "points": "280 points",
+      "comments": "61 comments",
+      "index": 8
     },
     {
       "title": "What makes 5% of AI agents work in production?",
       "href": "https://www.motivenotes.ai/p/what-makes-5-of-ai-agents-actually",
-      "points": "23 points",
-      "comments": "16 comments",
-      "index": 8
+      "points": "33 points",
+      "comments": "21 comments",
+      "index": 9
     },
     {
       "title": "CodeMender: an AI agent for code security",
       "href": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
-      "points": "120 points",
+      "points": "127 points",
       "comments": "19 comments",
-      "index": 9
-    },
-    {
-      "title": "RediShell: Critical remote code execution vulnerability in Redis",
-      "href": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
-      "points": "52 points",
-      "comments": "25 comments",
       "index": 10
     },
     {
-      "title": "Microsoft is plugging more holes that let you use Windows 11 without MS account",
-      "href": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
-      "points": "188 points",
-      "comments": "251 comments",
+      "title": "Removing these 50 objects from orbit would cut danger from space junk in half",
+      "href": "https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/",
+      "points": "47 points",
+      "comments": "2 comments",
       "index": 11
     },
     {
       "title": "Origami Patterns Solve a Major Physics Riddle",
       "href": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
-      "points": "9 points",
+      "points": "16 points",
       "comments": "discuss",
       "index": 12
     },
     {
-      "title": "Removing these 50 objects from orbit would cut danger from space junk in half",
-      "href": "https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/",
-      "points": "39 points",
-      "comments": "3 comments",
+      "title": "Microsoft is plugging more holes that let you use Windows 11 without MS account",
+      "href": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
+      "points": "216 points",
+      "comments": "282 comments",
       "index": 13
     },
     {
       "title": "Mise: Monorepo Tasks",
       "href": "https://github.com/jdx/mise/discussions/6564",
-      "points": "303 points",
-      "comments": "63 comments",
+      "points": "308 points",
+      "comments": "66 comments",
       "index": 14
-    },
-    {
-      "title": "Ladybird passes the Apple 90% threshold on web-platform-tests",
-      "href": "https://twitter.com/awesomekling/status/1974781722953953601",
-      "points": "723 points",
-      "comments": "204 comments",
-      "index": 15
     },
     {
       "title": "Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)",
       "href": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
-      "points": "191 points",
-      "comments": "34 comments",
+      "points": "193 points",
+      "comments": "36 comments",
+      "index": 15
+    },
+    {
+      "title": "Ladybird passes the Apple 90% threshold on web-platform-tests",
+      "href": "https://twitter.com/awesomekling/status/1974781722953953601",
+      "points": "734 points",
+      "comments": "206 comments",
       "index": 16
     },
     {
       "title": "How to tile matrix multiplication (2023)",
       "href": "https://alvinwan.com/how-to-tile-matrix-multiplication/",
-      "points": "52 points",
+      "points": "55 points",
       "comments": "2 comments",
       "index": 17
     },
     {
       "title": "Indefinite Backpack Travel",
       "href": "https://jeremymaluf.com/onebag/",
-      "points": "291 points",
-      "comments": "253 comments",
+      "points": "299 points",
+      "comments": "256 comments",
       "index": 18
-    },
-    {
-      "title": "Valorant's 128-Tick Servers (2020)",
-      "href": "https://technology.riotgames.com/news/valorants-128-tick-servers",
-      "points": "179 points",
-      "comments": "97 comments",
-      "index": 19
-    },
-    {
-      "title": "Translating Cython to Mojo, a first attempt",
-      "href": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
-      "points": "48 points",
-      "comments": "6 comments",
-      "index": 20
-    },
-    {
-      "title": "Ghosts of Unix Past: a historical search for design patterns (2010)",
-      "href": "https://lwn.net/Articles/411845/",
-      "points": "13 points",
-      "comments": "discuss",
-      "index": 21
-    },
-    {
-      "title": "Analytical review of depression and suicidality from finasteride",
-      "href": "https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/",
-      "points": "50 points",
-      "comments": "48 comments",
-      "index": 22
-    },
-    {
-      "title": "My Life in Ambigrammia",
-      "href": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
-      "points": "32 points",
-      "comments": "11 comments",
-      "index": 23
     },
     {
       "title": "Being blocked from contributing to lodash",
       "href": "https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/",
-      "points": "43 points",
-      "comments": "16 comments",
+      "points": "52 points",
+      "comments": "23 comments",
+      "index": 19
+    },
+    {
+      "title": "Compiling a Forth",
+      "href": "https://healeycodes.com/compiling-a-forth",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 20
+    },
+    {
+      "title": "Translating Cython to Mojo, a first attempt",
+      "href": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+      "points": "50 points",
+      "comments": "7 comments",
+      "index": 21
+    },
+    {
+      "title": "Valorant's 128-Tick Servers (2020)",
+      "href": "https://technology.riotgames.com/news/valorants-128-tick-servers",
+      "points": "182 points",
+      "comments": "99 comments",
+      "index": 22
+    },
+    {
+      "title": "Ghosts of Unix Past: a historical search for design patterns (2010)",
+      "href": "https://lwn.net/Articles/411845/",
+      "points": "15 points",
+      "comments": "1 comment",
+      "index": 23
+    },
+    {
+      "title": "RediShell: Critical remote code execution vulnerability in Redis",
+      "href": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
+      "points": "58 points",
+      "comments": "27 comments",
       "index": 24
     },
     {
-      "title": "WebGPU and the Price of Compiling WGSL",
-      "href": "https://hugodaniel.com/posts/webgpu-diagnostics/",
-      "points": "38 points",
-      "comments": "14 comments",
+      "title": "Analytical review of depression and suicidality from finasteride",
+      "href": "https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/",
+      "points": "54 points",
+      "comments": "52 comments",
       "index": 25
+    },
+    {
+      "title": "My Life in Ambigrammia",
+      "href": "https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/",
+      "points": "33 points",
+      "comments": "11 comments",
+      "index": 26
     },
     {
       "title": "OpenAI ChatKit",
       "href": "https://github.com/openai/chatkit-js",
-      "points": "108 points",
-      "comments": "21 comments",
-      "index": 26
-    },
-    {
-      "title": "UpCodes (YC S17) is hiring remote engineers across the Americas",
-      "href": "https://up.codes/careers?utm_source=HN",
-      "points": "",
-      "comments": "hide",
+      "points": "115 points",
+      "comments": "22 comments",
       "index": 27
     },
     {
@@ -198,17 +198,17 @@
       "index": 28
     },
     {
-      "title": "It's just a virus, the E.R. told him – days later, he was dead",
-      "href": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
-      "points": "145 points",
-      "comments": "270 comments",
+      "title": "UpCodes (YC S17) is hiring remote engineers across the Americas",
+      "href": "https://up.codes/careers?utm_source=HN",
+      "points": "",
+      "comments": "hide",
       "index": 29
     },
     {
-      "title": "Hardware Stockholm Syndrome",
-      "href": "https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome",
-      "points": "10 points",
-      "comments": "1 comment",
+      "title": "WebGPU and the Price of Compiling WGSL",
+      "href": "https://hugodaniel.com/posts/webgpu-diagnostics/",
+      "points": "38 points",
+      "comments": "15 comments",
       "index": 30
     }
   ]
