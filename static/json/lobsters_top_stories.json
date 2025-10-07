@@ -1,32 +1,32 @@
 {
-  "date": "Tuesday, October 7, 2025 at 7:40 AM GMT-5",
+  "date": "Tuesday, October 7, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "I brain coded a static image gallery in a few hours",
       "href": "https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html",
       "points": "",
-      "comments": "\n              29 comments",
+      "comments": "\n              30 comments",
       "index": 1
     },
     {
       "title": "My First Contribution to Linux",
       "href": "https://vkoskiv.com/first-linux-patch/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
       "index": 2
+    },
+    {
+      "title": "The fix to the iPhone Antennagate in 2010 was 20 bytes",
+      "href": "https://hachyderm.io/@samhenrigold/115330105694760262",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 3
     },
     {
       "title": "Servo GTK",
       "href": "https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 3
-    },
-    {
-      "title": "gem.coop",
-      "href": "https://gem.coop/",
-      "points": "",
-      "comments": "\n              20 comments",
       "index": 4
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
-      "title": "Why do LLMs freak out over the seahorse emoji?",
-      "href": "https://vgel.me/posts/seahorse",
+      "title": "gem.coop",
+      "href": "https://gem.coop/",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              20 comments",
       "index": 6
     },
     {
-      "title": "The fix to the iPhone Antennagate in 2010 was 20 bytes",
-      "href": "https://hachyderm.io/@samhenrigold/115330105694760262",
+      "title": "Why do LLMs freak out over the seahorse emoji?",
+      "href": "https://vgel.me/posts/seahorse",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              14 comments",
       "index": 7
     },
     {
@@ -61,7 +61,7 @@
       "title": "What are PolyForm licenses?",
       "href": "https://polyformproject.org/what-is-polyform/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              15 comments",
       "index": 9
     },
     {
@@ -86,24 +86,24 @@
       "index": 12
     },
     {
+      "title": "A mere add_foreign_key can wipe out your whole Rails + SQLite production table",
+      "href": "https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 13
+    },
+    {
       "title": "The QNX Operating System",
       "href": "https://www.abortretry.fail/p/the-qnx-operating-system",
       "points": "",
-      "comments": "\n              7 comments",
-      "index": 13
+      "comments": "\n              8 comments",
+      "index": 14
     },
     {
       "title": "NIRS fire destroys [South Korean] government's cloud storage system, no backups available",
       "href": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
       "points": "",
       "comments": "\n              24 comments",
-      "index": 14
-    },
-    {
-      "title": "A mere add_foreign_key can wipe out your whole Rails + SQLite production table",
-      "href": "https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html",
-      "points": "",
-      "comments": "\n              10 comments",
       "index": 15
     },
     {
@@ -121,45 +121,45 @@
       "index": 17
     },
     {
-      "title": "Seeing like a software company",
-      "href": "https://www.seangoedecke.com/seeing-like-a-software-company/",
+      "title": "The evolution of Lua, continued",
+      "href": "https://www.lua.org/doc/cola.pdf",
       "points": "",
       "comments": "\n              no comments",
       "index": 18
-    },
-    {
-      "title": "Django: one ORM to rule all databases",
-      "href": "https://www.paulox.net/2025/10/06/django-orm-comparison/",
-      "points": "",
-      "comments": "\n              22 comments",
-      "index": 19
     },
     {
       "title": "Birth of Prettier",
       "href": "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Seeing like a software company",
+      "href": "https://www.seangoedecke.com/seeing-like-a-software-company/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 20
+    },
+    {
+      "title": "Django: one ORM to rule all databases",
+      "href": "https://www.paulox.net/2025/10/06/django-orm-comparison/",
+      "points": "",
+      "comments": "\n              23 comments",
+      "index": 21
     },
     {
       "title": "nanopb: Protocol Buffers with small code size",
       "href": "https://github.com/nanopb/nanopb",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Common Lisp implementation of the Forth 2012 Standard",
       "href": "https://github.com/gmpalter/cl-forth/tree/main",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Simple automated deployments using git push (2024)",
-      "href": "https://garrido.io/notes/simple-automated-deployments-git-push/",
-      "points": "",
-      "comments": "\n              16 comments",
       "index": 23
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "fibonacci-numbers crate",
-      "href": "https://docs.rs/crate/fibonacci-numbers/",
+      "title": "Simple automated deployments using git push (2024)",
+      "href": "https://garrido.io/notes/simple-automated-deployments-git-push/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              16 comments",
       "index": 25
     }
   ]
