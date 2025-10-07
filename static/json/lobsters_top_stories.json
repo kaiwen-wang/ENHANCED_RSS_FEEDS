@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, October 7, 2025 at 12:15 AM GMT-5",
+  "date": "Tuesday, October 7, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "I brain coded a static image gallery in a few hours",
       "href": "https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
       "index": 1
     },
     {
       "title": "My First Contribution to Linux",
       "href": "https://vkoskiv.com/first-linux-patch/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              4 comments",
       "index": 2
     },
     {
@@ -54,7 +54,7 @@
       "title": "What are PolyForm licenses?",
       "href": "https://polyformproject.org/what-is-polyform/",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              12 comments",
       "index": 8
     },
     {
@@ -86,17 +86,17 @@
       "index": 12
     },
     {
+      "title": "A mere add_foreign_key can wipe out your whole Rails + SQLite production table",
+      "href": "https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 13
+    },
+    {
       "title": "The QNX Operating System",
       "href": "https://www.abortretry.fail/p/the-qnx-operating-system",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 13
-    },
-    {
-      "title": "A mere add_foreign_key can wipe out your whole Rails + SQLite production table",
-      "href": "https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 14
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
+      "title": "Birth of Prettier",
+      "href": "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
       "title": "This Month in Redox - September 2025",
       "href": "https://www.redox-os.org/news/this-month-250930/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
+      "index": 18
     },
     {
       "title": "nanopb: Protocol Buffers with small code size",
       "href": "https://github.com/nanopb/nanopb",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Simple automated deployments using git push (2024)",
       "href": "https://garrido.io/notes/simple-automated-deployments-git-push/",
       "points": "",
-      "comments": "\n              15 comments",
-      "index": 19
+      "comments": "\n              16 comments",
+      "index": 20
     },
     {
       "title": "A case for learning GPU programming with a compute-first mindset",
       "href": "https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 20
-    },
-    {
-      "title": "Birth of Prettier",
-      "href": "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 21
-    },
-    {
-      "title": "Beating the L1 cache with value speculation (2021)",
-      "href": "https://mazzo.li/posts/value-speculation.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
-    },
-    {
-      "title": "Exit the Feed: The Best Coders Should Walk Away",
-      "href": "https://abner.page/post/exit-the-feed/",
-      "points": "",
-      "comments": "\n              50 comments",
-      "index": 23
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/mahsz8/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 24
     },
     {
       "title": "WebGPU and the price of compiling WGSL",
       "href": "https://hugodaniel.com/posts/webgpu-diagnostics/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Beating the L1 cache with value speculation (2021)",
+      "href": "https://mazzo.li/posts/value-speculation.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 23
+    },
+    {
+      "title": "Exit the Feed: The Best Coders Should Walk Away",
+      "href": "https://abner.page/post/exit-the-feed/",
+      "points": "",
+      "comments": "\n              50 comments",
+      "index": 24
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/mahsz8/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 25
     }
   ]
