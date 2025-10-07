@@ -1,214 +1,214 @@
 {
-  "date": "Tuesday, October 7, 2025 at 12:15 PM GMT-5",
+  "date": "Tuesday, October 7, 2025 at 1:30 PM GMT-5",
   "articles": [
+    {
+      "title": "You're Doing Rails Wrong",
+      "href": "https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong",
+      "points": "171 points",
+      "comments": "83 comments",
+      "index": 1
+    },
     {
       "title": "Qualcomm to Acquire Arduino",
       "href": "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i",
-      "points": "558 points",
-      "comments": "272 comments",
-      "index": 1
+      "points": "678 points",
+      "comments": "318 comments",
+      "index": 2
     },
     {
       "title": "IKEA Catalogs 1951-2021",
       "href": "https://ikeamuseum.com/en/explore/ikea-catalogue/",
-      "points": "78 points",
-      "comments": "11 comments",
-      "index": 2
-    },
-    {
-      "title": "You're Doing Rails Wrong",
-      "href": "https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong",
-      "points": "19 points",
-      "comments": "2 comments",
+      "points": "140 points",
+      "comments": "23 comments",
       "index": 3
     },
     {
       "title": "Show HN: Timelinize – Privately organize your own data from everywhere, locally",
       "href": "https://timelinize.com",
-      "points": "55 points",
-      "comments": "16 comments",
+      "points": "114 points",
+      "comments": "26 comments",
       "index": 4
     },
     {
-      "title": "Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI",
-      "href": "https://github.com/llama-farm/llamafarm",
-      "points": "25 points",
-      "comments": "14 comments",
+      "title": "German government comes out against Chat Control",
+      "href": "https://xcancel.com/paddi_hansen/status/1975595307800142205",
+      "points": "120 points",
+      "comments": "37 comments",
       "index": 5
     },
     {
-      "title": "Police Said They Surveilled Woman Who Had an Abortion for Her 'Safety.'",
-      "href": "https://www.404media.co/police-said-they-surveilled-woman-who-had-an-abortion-for-her-safety-court-records-show-they-considered-charging-her-with-a-crime/",
-      "points": "88 points",
-      "comments": "19 comments",
+      "title": "An Illustrated Introduction to Linear Algebra",
+      "href": "https://www.ducktyped.org/p/an-illustrated-introduction-to-linear",
+      "points": "63 points",
+      "comments": "9 comments",
       "index": 6
+    },
+    {
+      "title": "Cache-Friendly B+Tree Nodes with Dynamic Fanout",
+      "href": "https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/",
+      "points": "21 points",
+      "comments": "discuss",
+      "index": 7
+    },
+    {
+      "title": "Building a Browser for Reverse Engineers",
+      "href": "https://nullpt.rs/reverse-engineering-browser",
+      "points": "36 points",
+      "comments": "1 comment",
+      "index": 8
     },
     {
       "title": "Pigeon (YC W23) is hiring a lead full stack engineer",
       "href": "https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us",
       "points": "",
       "comments": "hide",
-      "index": 7
-    },
-    {
-      "title": "Erlang ARM32 JIT is born",
-      "href": "https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3",
-      "points": "108 points",
-      "comments": "13 comments",
-      "index": 8
-    },
-    {
-      "title": "Tcl-Lang Showcase",
-      "href": "https://wiki.tcl-lang.org/page/Showcase",
-      "points": "78 points",
-      "comments": "14 comments",
       "index": 9
+    },
+    {
+      "title": "Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI",
+      "href": "https://github.com/llama-farm/llamafarm",
+      "points": "35 points",
+      "comments": "22 comments",
+      "index": 10
     },
     {
       "title": "How does gradient descent work?",
       "href": "https://centralflows.github.io/part1/",
-      "points": "62 points",
-      "comments": "7 comments",
-      "index": 10
-    },
-    {
-      "title": "An Illustrated Introduction to Linear Algebra",
-      "href": "https://www.ducktyped.org/p/an-illustrated-introduction-to-linear",
-      "points": "23 points",
-      "comments": "2 comments",
+      "points": "91 points",
+      "comments": "9 comments",
       "index": 11
     },
     {
-      "title": "Building a Browser for Reverse Engineers",
-      "href": "https://nullpt.rs/reverse-engineering-browser",
-      "points": "6 points",
-      "comments": "discuss",
+      "title": "Police Said They Surveilled Woman Who Had an Abortion for Her 'Safety.'",
+      "href": "https://www.404media.co/police-said-they-surveilled-woman-who-had-an-abortion-for-her-safety-court-records-show-they-considered-charging-her-with-a-crime/",
+      "points": "192 points",
+      "comments": "74 comments",
       "index": 12
     },
     {
-      "title": "The least amount of CSS for a decent looking site (2023)",
-      "href": "https://thecascade.dev/article/least-amount-of-css/",
-      "points": "665 points",
-      "comments": "289 comments",
+      "title": "Functional Threading \"Macros\"",
+      "href": "https://aartaka.me/threading.html",
+      "points": "14 points",
+      "comments": "discuss",
       "index": 13
+    },
+    {
+      "title": "Tcl-Lang Showcase",
+      "href": "https://wiki.tcl-lang.org/page/Showcase",
+      "points": "92 points",
+      "comments": "22 comments",
+      "index": 14
+    },
+    {
+      "title": "Less Is More: Recursive Reasoning with Tiny Networks",
+      "href": "https://arxiv.org/abs/2510.04871",
+      "points": "10 points",
+      "comments": "1 comment",
+      "index": 15
+    },
+    {
+      "title": "Erlang ARM32 JIT is born",
+      "href": "https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3",
+      "points": "119 points",
+      "comments": "14 comments",
+      "index": 16
     },
     {
       "title": "Robin Williams' daughter pleads for people to stop sending AI videos of her dad",
       "href": "https://www.bbc.co.uk/news/articles/c0r0erqk18jo",
-      "points": "21 points",
-      "comments": "8 comments",
-      "index": 14
-    },
-    {
-      "title": "No account? No Windows 11, Microsoft says as another loophole snaps shut",
-      "href": "https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/",
-      "points": "220 points",
-      "comments": "204 comments",
-      "index": 15
-    },
-    {
-      "title": "The evolution of Lua, continued [pdf]",
-      "href": "https://www.lua.org/doc/cola.pdf",
-      "points": "109 points",
-      "comments": "82 comments",
-      "index": 16
-    },
-    {
-      "title": "Cache-Friendly B+Tree Nodes with Dynamic Fanout",
-      "href": "https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/",
-      "points": "5 points",
-      "comments": "discuss",
+      "points": "105 points",
+      "comments": "77 comments",
       "index": 17
+    },
+    {
+      "title": "Show HN: Arc – high-throughput time-series warehouse with DuckDB analytics",
+      "href": "https://github.com/Basekick-Labs/arc",
+      "points": "6 points",
+      "comments": "4 comments",
+      "index": 18
     },
     {
       "title": "Reconstruction of Konrad Zuse's Z3 Computer",
       "href": "https://dcmlr.inf.fu-berlin.de/rojas/index.html%3Fp=560.html",
-      "points": "40 points",
-      "comments": "10 comments",
-      "index": 18
+      "points": "49 points",
+      "comments": "12 comments",
+      "index": 19
+    },
+    {
+      "title": "The evolution of Lua, continued [pdf]",
+      "href": "https://www.lua.org/doc/cola.pdf",
+      "points": "121 points",
+      "comments": "94 comments",
+      "index": 20
     },
     {
       "title": "Nobel Prize in Physics 2025",
       "href": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
-      "points": "286 points",
-      "comments": "67 comments",
-      "index": 19
-    },
-    {
-      "title": "Swiss glaciers have shrunk by a quarter since 2015, study says",
-      "href": "https://www.france24.com/en/live-news/20251001-swiss-glaciers-shrank-by-a-quarter-in-past-decade-study",
-      "points": "60 points",
-      "comments": "22 comments",
-      "index": 20
+      "points": "304 points",
+      "comments": "72 comments",
+      "index": 21
     },
     {
       "title": "A mechanic offered a reason why no one wants to work in the industry",
       "href": "https://www.motor1.com/news/774805/ford-ceo-complains-shortage-mechanics/",
-      "points": "102 points",
-      "comments": "141 comments",
-      "index": 21
-    },
-    {
-      "title": "3M May Escape Toxic Chemical, PFAS Manufacturing Legacy",
-      "href": "https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/",
-      "points": "94 points",
-      "comments": "54 comments",
+      "points": "131 points",
+      "comments": "163 comments",
       "index": 22
     },
     {
       "title": "Who needs Git when you have 1M context windows?",
       "href": "https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html",
-      "points": "88 points",
-      "comments": "111 comments",
+      "points": "106 points",
+      "comments": "132 comments",
       "index": 23
     },
     {
-      "title": "Ahab's Arithmetic: The Mathematics of Moby-Dick",
-      "href": "https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1720&context=jhm",
-      "points": "26 points",
-      "comments": "2 comments",
+      "title": "Swiss glaciers have shrunk by a quarter since 2015, study says",
+      "href": "https://www.france24.com/en/live-news/20251001-swiss-glaciers-shrank-by-a-quarter-in-past-decade-study",
+      "points": "78 points",
+      "comments": "57 comments",
       "index": 24
     },
     {
-      "title": "Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)",
-      "href": "https://windscribe.com/blog/the-vpn-relationship-map/",
-      "points": "615 points",
-      "comments": "354 comments",
+      "title": "3M May Escape Toxic Chemical, PFAS Manufacturing Legacy",
+      "href": "https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/",
+      "points": "115 points",
+      "comments": "66 comments",
       "index": 25
     },
     {
       "title": "Why did Crunchyroll's subtitles just get worse?",
       "href": "https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles",
-      "points": "378 points",
-      "comments": "264 comments",
+      "points": "387 points",
+      "comments": "276 comments",
       "index": 26
+    },
+    {
+      "title": "Ahab's Arithmetic: The Mathematics of Moby-Dick",
+      "href": "https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1720&context=jhm",
+      "points": "33 points",
+      "comments": "3 comments",
+      "index": 27
+    },
+    {
+      "title": "No account? No Windows 11, Microsoft says as another loophole snaps shut",
+      "href": "https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/",
+      "points": "267 points",
+      "comments": "276 comments",
+      "index": 28
     },
     {
       "title": "The Mondrian introduction to functional optics",
       "href": "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html",
-      "points": "60 points",
-      "comments": "17 comments",
-      "index": 27
-    },
-    {
-      "title": "Apps SDK",
-      "href": "https://developers.openai.com/apps-sdk/",
-      "points": "446 points",
-      "comments": "363 comments",
-      "index": 28
+      "points": "65 points",
+      "comments": "19 comments",
+      "index": 29
     },
     {
       "title": "Removing these 50 objects from orbit would cut danger from space junk in half",
       "href": "https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/",
-      "points": "215 points",
-      "comments": "95 comments",
-      "index": 29
-    },
-    {
-      "title": "Devpush – Open-source and self-hostable alternative to Vercel, Render, Netlify",
-      "href": "https://github.com/hunvreus/devpush",
-      "points": "213 points",
-      "comments": "82 comments",
+      "points": "230 points",
+      "comments": "98 comments",
       "index": 30
     }
   ]
