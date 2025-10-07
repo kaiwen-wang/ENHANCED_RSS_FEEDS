@@ -1,39 +1,39 @@
 {
-  "date": "Tuesday, October 7, 2025 at 2:15 PM GMT-5",
+  "date": "Tuesday, October 7, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Seeing like a software company",
       "href": "https://www.seangoedecke.com/seeing-like-a-software-company/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
       "index": 1
     },
     {
       "title": "The Handle trait",
       "href": "https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/",
       "points": "",
-      "comments": "\n              7 comments",
+      "comments": "\n              9 comments",
       "index": 2
+    },
+    {
+      "title": "Vibe engineering",
+      "href": "https://simonwillison.net/2025/Oct/7/vibe-engineering/",
+      "points": "",
+      "comments": "\n              13 comments",
+      "index": 3
     },
     {
       "title": "The fix to the iPhone Antennagate in 2010 was 20 bytes",
       "href": "https://hachyderm.io/@samhenrigold/115330105694760262",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "The evolution of Lua, continued",
       "href": "https://www.lua.org/doc/cola.pdf",
       "points": "",
       "comments": "\n              no comments",
-      "index": 4
-    },
-    {
-      "title": "Vibe engineering",
-      "href": "https://simonwillison.net/2025/Oct/7/vibe-engineering/",
-      "points": "",
-      "comments": "\n              12 comments",
       "index": 5
     },
     {
@@ -54,7 +54,7 @@
       "title": "My First Contribution to Linux",
       "href": "https://vkoskiv.com/first-linux-patch/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              15 comments",
       "index": 8
     },
     {
@@ -79,94 +79,94 @@
       "index": 11
     },
     {
+      "title": "Qualcomm's buying Arduino – what it means for makers",
+      "href": "https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 12
+    },
+    {
       "title": "Why do LLMs freak out over the seahorse emoji?",
       "href": "https://vgel.me/posts/seahorse",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 12
+      "index": 13
     },
     {
       "title": "gem.coop",
       "href": "https://gem.coop/",
       "points": "",
       "comments": "\n              23 comments",
-      "index": 13
-    },
-    {
-      "title": "Saving My Commit With `jj evolog`",
-      "href": "https://landaire.net/jj-evolog/",
-      "points": "",
-      "comments": "\n              10 comments",
       "index": 14
-    },
-    {
-      "title": "Common Lisp implementation of the Forth 2012 Standard",
-      "href": "https://github.com/gmpalter/cl-forth/tree/main",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "What are PolyForm licenses?",
-      "href": "https://polyformproject.org/what-is-polyform/",
-      "points": "",
-      "comments": "\n              22 comments",
-      "index": 16
-    },
-    {
-      "title": "I vibecoded a port of snig image gallery generator in php",
-      "href": "https://github.com/i04n/sphpig",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
     },
     {
       "title": "Qt 6.10 Released, with Flexbox in QML",
       "href": "https://www.qt.io/blog/qt-6.10-released",
       "points": "",
       "comments": "\n              no comments",
-      "index": 18
+      "index": 15
+    },
+    {
+      "title": "Common Lisp implementation of the Forth 2012 Standard",
+      "href": "https://github.com/gmpalter/cl-forth/tree/main",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Saving My Commit With `jj evolog`",
+      "href": "https://landaire.net/jj-evolog/",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 17
     },
     {
       "title": "Putting a Dumb Weather Station on the Internet",
       "href": "https://colincogle.name/blog/byo-weather-station/",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
+      "title": "What are PolyForm licenses?",
+      "href": "https://polyformproject.org/what-is-polyform/",
+      "points": "",
+      "comments": "\n              23 comments",
       "index": 19
     },
     {
-      "title": "AI and Home-Cooked Software",
-      "href": "https://mrkaran.dev/posts/ai-home-cooked-software/",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 20
-    },
-    {
-      "title": "Bringing NumPy's type-completeness score to nearly 90%",
-      "href": "https://pyrefly.org/blog/numpy-type-completeness/",
+      "title": "I vibecoded a port of snig image gallery generator in php",
+      "href": "https://github.com/i04n/sphpig",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 20
     },
     {
       "title": "The QNX Operating System",
       "href": "https://www.abortretry.fail/p/the-qnx-operating-system",
       "points": "",
       "comments": "\n              9 comments",
+      "index": 21
+    },
+    {
+      "title": "AI and Home-Cooked Software",
+      "href": "https://mrkaran.dev/posts/ai-home-cooked-software/",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 22
+    },
+    {
+      "title": "Bringing NumPy's type-completeness score to nearly 90%",
+      "href": "https://pyrefly.org/blog/numpy-type-completeness/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "Why you should be using pathlib (2018)",
       "href": "https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/",
       "points": "",
       "comments": "\n              21 comments",
-      "index": 23
-    },
-    {
-      "title": "buffalo::buffalo::buffalo",
-      "href": "https://blog.ganets.ky/Buffalo/",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 24
     },
     {
