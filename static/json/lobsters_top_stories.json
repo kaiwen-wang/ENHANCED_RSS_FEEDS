@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, October 7, 2025 at 8:30 AM GMT-5",
+  "date": "Tuesday, October 7, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "I brain coded a static image gallery in a few hours",
       "href": "https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html",
       "points": "",
-      "comments": "\n              30 comments",
+      "comments": "\n              31 comments",
       "index": 1
-    },
-    {
-      "title": "My First Contribution to Linux",
-      "href": "https://vkoskiv.com/first-linux-patch/",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 2
     },
     {
       "title": "The fix to the iPhone Antennagate in 2010 was 20 bytes",
       "href": "https://hachyderm.io/@samhenrigold/115330105694760262",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              1 comment",
+      "index": 2
+    },
+    {
+      "title": "My First Contribution to Linux",
+      "href": "https://vkoskiv.com/first-linux-patch/",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 3
     },
     {
@@ -51,45 +51,45 @@
       "index": 7
     },
     {
+      "title": "Seeing like a software company",
+      "href": "https://www.seangoedecke.com/seeing-like-a-software-company/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 8
+    },
+    {
       "title": "Saving My Commit With `jj evolog`",
       "href": "https://landaire.net/jj-evolog/",
       "points": "",
-      "comments": "\n              9 comments",
-      "index": 8
+      "comments": "\n              10 comments",
+      "index": 9
     },
     {
       "title": "What are PolyForm licenses?",
       "href": "https://polyformproject.org/what-is-polyform/",
       "points": "",
       "comments": "\n              15 comments",
-      "index": 9
+      "index": 10
+    },
+    {
+      "title": "The evolution of Lua, continued",
+      "href": "https://www.lua.org/doc/cola.pdf",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
     },
     {
       "title": "AI and Home-Cooked Software",
       "href": "https://mrkaran.dev/posts/ai-home-cooked-software/",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 10
+      "index": 12
     },
     {
       "title": "Why you should be using pathlib (2018)",
       "href": "https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 11
-    },
-    {
-      "title": "buffalo::buffalo::buffalo",
-      "href": "https://blog.ganets.ky/Buffalo/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "A mere add_foreign_key can wipe out your whole Rails + SQLite production table",
-      "href": "https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html",
-      "points": "",
-      "comments": "\n              10 comments",
       "index": 13
     },
     {
@@ -100,43 +100,43 @@
       "index": 14
     },
     {
+      "title": "buffalo::buffalo::buffalo",
+      "href": "https://blog.ganets.ky/Buffalo/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 15
+    },
+    {
+      "title": "A mere add_foreign_key can wipe out your whole Rails + SQLite production table",
+      "href": "https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 16
+    },
+    {
       "title": "NIRS fire destroys [South Korean] government's cloud storage system, no backups available",
       "href": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
       "points": "",
-      "comments": "\n              24 comments",
-      "index": 15
+      "comments": "\n              26 comments",
+      "index": 17
     },
     {
       "title": "OpenZL: An Open Source Format-Aware Compression Framework",
       "href": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 16
+      "index": 18
     },
     {
       "title": "This Month in Redox - September 2025",
       "href": "https://www.redox-os.org/news/this-month-250930/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 17
-    },
-    {
-      "title": "The evolution of Lua, continued",
-      "href": "https://www.lua.org/doc/cola.pdf",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Birth of Prettier",
       "href": "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Seeing like a software company",
-      "href": "https://www.seangoedecke.com/seeing-like-a-software-company/",
       "points": "",
       "comments": "\n              no comments",
       "index": 20
@@ -145,35 +145,35 @@
       "title": "Django: one ORM to rule all databases",
       "href": "https://www.paulox.net/2025/10/06/django-orm-comparison/",
       "points": "",
-      "comments": "\n              23 comments",
+      "comments": "\n              24 comments",
       "index": 21
-    },
-    {
-      "title": "nanopb: Protocol Buffers with small code size",
-      "href": "https://github.com/nanopb/nanopb",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 22
     },
     {
       "title": "Common Lisp implementation of the Forth 2012 Standard",
       "href": "https://github.com/gmpalter/cl-forth/tree/main",
       "points": "",
       "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "nanopb: Protocol Buffers with small code size",
+      "href": "https://github.com/nanopb/nanopb",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 23
+    },
+    {
+      "title": "fibonacci-numbers crate",
+      "href": "https://docs.rs/crate/fibonacci-numbers/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 24
     },
     {
       "title": "A case for learning GPU programming with a compute-first mindset",
       "href": "https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 24
-    },
-    {
-      "title": "Simple automated deployments using git push (2024)",
-      "href": "https://garrido.io/notes/simple-automated-deployments-git-push/",
-      "points": "",
-      "comments": "\n              16 comments",
       "index": 25
     }
   ]
