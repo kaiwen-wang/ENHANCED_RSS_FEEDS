@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, October 7, 2025 at 4:20 AM GMT-5",
+  "date": "Tuesday, October 7, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
       "title": "I brain coded a static image gallery in a few hours",
       "href": "https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              17 comments",
       "index": 1
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
+      "title": "I'm Building a Browser for Reverse Engineers",
+      "href": "https://nullpt.rs/reverse-engineering-browser",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 5
+    },
+    {
       "title": "Why do LLMs freak out over the seahorse emoji?",
       "href": "https://vgel.me/posts/seahorse",
       "points": "",
       "comments": "\n              11 comments",
-      "index": 5
-    },
-    {
-      "title": "I'm Building a Browser for Reverse Engineers",
-      "href": "https://nullpt.rs/reverse-engineering-browser",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 6
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
-      "title": "Why you should be using pathlib (2018)",
-      "href": "https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/",
-      "points": "",
-      "comments": "\n              14 comments",
-      "index": 9
-    },
-    {
       "title": "AI and Home-Cooked Software",
       "href": "https://mrkaran.dev/posts/ai-home-cooked-software/",
       "points": "",
       "comments": "\n              10 comments",
+      "index": 9
+    },
+    {
+      "title": "Why you should be using pathlib (2018)",
+      "href": "https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/",
+      "points": "",
+      "comments": "\n              16 comments",
       "index": 10
     },
     {
@@ -89,7 +89,7 @@
       "title": "The QNX Operating System",
       "href": "https://www.abortretry.fail/p/the-qnx-operating-system",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              6 comments",
       "index": 13
     },
     {
@@ -114,22 +114,22 @@
       "index": 16
     },
     {
+      "title": "The fix to the iPhone Antennagate in 2010 was 20 bytes",
+      "href": "https://hachyderm.io/@samhenrigold/115330105694760262",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
       "title": "Django: one ORM to rule all databases",
       "href": "https://www.paulox.net/2025/10/06/django-orm-comparison/",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Birth of Prettier",
       "href": "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "The fix to the iPhone Antennagate in 2010 was 20 bytes",
-      "href": "https://hachyderm.io/@samhenrigold/115330105694760262",
       "points": "",
       "comments": "\n              no comments",
       "index": 19
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "fibonacci-numbers crate",
+      "href": "https://docs.rs/crate/fibonacci-numbers/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 22
+    },
+    {
       "title": "Beating the L1 cache with value speculation (2021)",
       "href": "https://mazzo.li/posts/value-speculation.html",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Simple automated deployments using git push (2024)",
       "href": "https://garrido.io/notes/simple-automated-deployments-git-push/",
       "points": "",
       "comments": "\n              16 comments",
-      "index": 23
-    },
-    {
-      "title": "WebGPU and the price of compiling WGSL",
-      "href": "https://hugodaniel.com/posts/webgpu-diagnostics/",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "fibonacci-numbers crate",
-      "href": "https://docs.rs/crate/fibonacci-numbers/",
+      "title": "Bringing NumPy's type-completeness score to nearly 90%",
+      "href": "https://pyrefly.org/blog/numpy-type-completeness/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
