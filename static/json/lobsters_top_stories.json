@@ -1,44 +1,44 @@
 {
-  "date": "Tuesday, October 7, 2025 at 10:20 AM GMT-5",
+  "date": "Tuesday, October 7, 2025 at 11:25 AM GMT-5",
   "articles": [
+    {
+      "title": "The fix to the iPhone Antennagate in 2010 was 20 bytes",
+      "href": "https://hachyderm.io/@samhenrigold/115330105694760262",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 1
+    },
+    {
+      "title": "Seeing like a software company",
+      "href": "https://www.seangoedecke.com/seeing-like-a-software-company/",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 2
+    },
     {
       "title": "I brain coded a static image gallery in a few hours",
       "href": "https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html",
       "points": "",
       "comments": "\n              32 comments",
-      "index": 1
+      "index": 3
     },
     {
-      "title": "The fix to the iPhone Antennagate in 2010 was 20 bytes",
-      "href": "https://hachyderm.io/@samhenrigold/115330105694760262",
+      "title": "The evolution of Lua, continued",
+      "href": "https://www.lua.org/doc/cola.pdf",
       "points": "",
-      "comments": "\n              3 comments",
-      "index": 2
+      "comments": "\n              no comments",
+      "index": 4
     },
     {
       "title": "My First Contribution to Linux",
       "href": "https://vkoskiv.com/first-linux-patch/",
       "points": "",
       "comments": "\n              12 comments",
-      "index": 3
-    },
-    {
-      "title": "Seeing like a software company",
-      "href": "https://www.seangoedecke.com/seeing-like-a-software-company/",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Servo GTK",
       "href": "https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 5
-    },
-    {
-      "title": "The evolution of Lua, continued",
-      "href": "https://www.lua.org/doc/cola.pdf",
       "points": "",
       "comments": "\n              no comments",
       "index": 6
@@ -54,7 +54,7 @@
       "title": "gem.coop",
       "href": "https://gem.coop/",
       "points": "",
-      "comments": "\n              20 comments",
+      "comments": "\n              21 comments",
       "index": 8
     },
     {
@@ -72,101 +72,101 @@
       "index": 10
     },
     {
-      "title": "What are PolyForm licenses?",
-      "href": "https://polyformproject.org/what-is-polyform/",
+      "title": "Vibe engineering",
+      "href": "https://simonwillison.net/2025/Oct/7/vibe-engineering/",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              1 comment",
       "index": 11
     },
     {
-      "title": "Python 3.14.0 (final) is here",
-      "href": "https://discuss.python.org/t/python-3-14-0-final-is-here/104210",
+      "title": "Python Insider: Python 3.14.0 (final) is here",
+      "href": "https://pythoninsider.blogspot.com/2025/10/python-3140-final-is-here.html",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              2 comments",
       "index": 12
     },
     {
-      "title": "AI and Home-Cooked Software",
-      "href": "https://mrkaran.dev/posts/ai-home-cooked-software/",
-      "points": "",
-      "comments": "\n              11 comments",
-      "index": 13
-    },
-    {
-      "title": "Why you should be using pathlib (2018)",
-      "href": "https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/",
+      "title": "What are PolyForm licenses?",
+      "href": "https://polyformproject.org/what-is-polyform/",
       "points": "",
       "comments": "\n              19 comments",
-      "index": 14
-    },
-    {
-      "title": "The QNX Operating System",
-      "href": "https://www.abortretry.fail/p/the-qnx-operating-system",
-      "points": "",
-      "comments": "\n              8 comments",
-      "index": 15
-    },
-    {
-      "title": "buffalo::buffalo::buffalo",
-      "href": "https://blog.ganets.ky/Buffalo/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
+      "index": 13
     },
     {
       "title": "Common Lisp implementation of the Forth 2012 Standard",
       "href": "https://github.com/gmpalter/cl-forth/tree/main",
       "points": "",
       "comments": "\n              no comments",
+      "index": 14
+    },
+    {
+      "title": "An agentic terminal notepad that's integral to your docs",
+      "href": "https://visr.sh/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "AI and Home-Cooked Software",
+      "href": "https://mrkaran.dev/posts/ai-home-cooked-software/",
+      "points": "",
+      "comments": "\n              11 comments",
+      "index": 16
+    },
+    {
+      "title": "Why you should be using pathlib (2018)",
+      "href": "https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/",
+      "points": "",
+      "comments": "\n              21 comments",
       "index": 17
     },
     {
-      "title": "A mere add_foreign_key can wipe out your whole Rails + SQLite production table",
-      "href": "https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html",
+      "title": "The QNX Operating System",
+      "href": "https://www.abortretry.fail/p/the-qnx-operating-system",
       "points": "",
-      "comments": "\n              10 comments",
+      "comments": "\n              8 comments",
       "index": 18
     },
     {
-      "title": "This Month in Redox - September 2025",
-      "href": "https://www.redox-os.org/news/this-month-250930/",
+      "title": "buffalo::buffalo::buffalo",
+      "href": "https://blog.ganets.ky/Buffalo/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 19
-    },
-    {
-      "title": "NIRS fire destroys [South Korean] government's cloud storage system, no backups available",
-      "href": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
-      "points": "",
-      "comments": "\n              26 comments",
-      "index": 20
-    },
-    {
-      "title": "OpenZL: An Open Source Format-Aware Compression Framework",
-      "href": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 21
     },
     {
       "title": "Birth of Prettier",
       "href": "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "The Handle trait",
+      "href": "https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "A mere add_foreign_key can wipe out your whole Rails + SQLite production table",
+      "href": "https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 22
     },
     {
-      "title": "nanopb: Protocol Buffers with small code size",
-      "href": "https://github.com/nanopb/nanopb",
+      "title": "This Month in Redox - September 2025",
+      "href": "https://www.redox-os.org/news/this-month-250930/",
       "points": "",
       "comments": "\n              1 comment",
       "index": 23
     },
     {
-      "title": "Django: one ORM to rule all databases",
-      "href": "https://www.paulox.net/2025/10/06/django-orm-comparison/",
+      "title": "OpenZL: An Open Source Format-Aware Compression Framework",
+      "href": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
       "points": "",
-      "comments": "\n              24 comments",
+      "comments": "\n              6 comments",
       "index": 24
     },
     {
