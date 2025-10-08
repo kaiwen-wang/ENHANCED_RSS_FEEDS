@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, October 8, 2025 at 7:40 AM GMT-5",
+  "date": "Wednesday, October 8, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "Why we didn't rewrite our feed handler in Rust",
       "href": "https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              18 comments",
       "index": 1
     },
     {
       "title": "The Handle trait",
       "href": "https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/",
       "points": "",
-      "comments": "\n              35 comments",
+      "comments": "\n              36 comments",
       "index": 2
     },
     {
@@ -26,7 +26,7 @@
       "title": "Half an year on Alpine: just musl aside",
       "href": "https://blog.jutty.dev/posts/half-an-year-on-alpine/",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              6 comments",
       "index": 4
     },
     {
@@ -40,21 +40,21 @@
       "title": "Python Insider: Python 3.14.0 (final) is here",
       "href": "https://pythoninsider.blogspot.com/2025/10/python-3140-final-is-here.html",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              13 comments",
       "index": 6
-    },
-    {
-      "title": "My Email to Tim Cook",
-      "href": "https://substack.com/inbox/post/175351960",
-      "points": "",
-      "comments": "\n              9 comments",
-      "index": 7
     },
     {
       "title": "Test your README in a fresh VM",
       "href": "https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/",
       "points": "",
       "comments": "\n              7 comments",
+      "index": 7
+    },
+    {
+      "title": "My Email to Tim Cook",
+      "href": "https://substack.com/inbox/post/175351960",
+      "points": "",
+      "comments": "\n              10 comments",
       "index": 8
     },
     {
@@ -65,113 +65,113 @@
       "index": 9
     },
     {
+      "title": "The Programmer Identity Crisis",
+      "href": "https://hojberg.xyz/the-programmer-identity-crisis/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 10
+    },
+    {
       "title": "The evolution of Lua, continued",
       "href": "https://www.lua.org/doc/cola.pdf",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Qualcomm's buying Arduino – what it means for makers",
       "href": "https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "The fix to the iPhone Antennagate in 2010 was 20 bytes",
       "href": "https://hachyderm.io/@samhenrigold/115330105694760262",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 12
-    },
-    {
-      "title": "asPipes: working pipelines today in pure JavaScript",
-      "href": "https://github.com/irony/aspipes",
-      "points": "",
-      "comments": "\n              1 comment",
       "index": 13
     },
     {
-      "title": "TypeScript is Like C#",
-      "href": "https://typescript-is-like-csharp.chrlschn.dev/pages/intro-and-motivation.html",
+      "title": "devenv 1.10: monorepo Nix support with devenv.yaml imports - devenv",
+      "href": "https://devenv.sh/blog/2025/10/07/devenv-110-monorepo-nix-support-with-devenvyaml-imports/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              no comments",
       "index": 14
-    },
-    {
-      "title": "The Mondrian introduction to functional optics",
-      "href": "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "I brain coded a static image gallery in a few hours",
-      "href": "https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html",
-      "points": "",
-      "comments": "\n              41 comments",
-      "index": 16
-    },
-    {
-      "title": "walrus: ingesting data at memory speeds",
-      "href": "https://nubskr.com/2025/10/06/walrus.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Stealing Part of a Production Language Model (2024)",
-      "href": "https://arxiv.org/abs/2403.06634",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
     },
     {
       "title": "Generative design of novel bacteriophages with genome language models",
       "href": "https://www.biorxiv.org/content/10.1101/2025.09.12.675911v1",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "The Mondrian introduction to functional optics",
+      "href": "http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "TypeScript is Like C#",
+      "href": "https://typescript-is-like-csharp.chrlschn.dev/pages/intro-and-motivation.html",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 17
+    },
+    {
+      "title": "asPipes: working pipelines today in pure JavaScript",
+      "href": "https://github.com/irony/aspipes",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
+      "title": "walrus: ingesting data at memory speeds",
+      "href": "https://nubskr.com/2025/10/06/walrus.html",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 19
     },
     {
-      "title": "The Programmer Identity Crisis",
-      "href": "https://hojberg.xyz/the-programmer-identity-crisis/",
+      "title": "I brain coded a static image gallery in a few hours",
+      "href": "https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html",
+      "points": "",
+      "comments": "\n              41 comments",
+      "index": 20
+    },
+    {
+      "title": "Stealing Part of a Production Language Model (2024)",
+      "href": "https://arxiv.org/abs/2403.06634",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Should You Use Upper Bound Version Constraints?",
       "href": "https://iscinumpy.dev/post/bound-version-constraints/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "I vibecoded a port of snig image gallery generator in php",
       "href": "https://github.com/i04n/sphpig",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Apache Kafka creators Confluent explore company sale",
       "href": "https://www.reuters.com/business/data-streaming-software-maker-confluent-explores-sale-sources-say-2025-10-08/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Falsehoods Programmers Believe About Reality",
       "href": "https://www.youtube.com/watch?v=GBHGHrlRlKs",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "N3694: Functions with Data - Closures in C (A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas)",
-      "href": "https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functions%20with%20Data%20-%20Closures%20in%20C.html",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
