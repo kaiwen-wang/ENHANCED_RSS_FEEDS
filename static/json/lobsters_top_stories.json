@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, October 9, 2025 at 3:20 PM GMT-5",
+  "date": "Thursday, October 9, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "TIL: Python's splitlines does a lot more than just newlines",
       "href": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              5 comments",
       "index": 1
     },
     {
       "title": "Citizen Protest Halts Chat Control",
       "href": "https://www.patrick-breyer.de/en/citizen-protest-halts-chat-control-breyer-celebrates-major-victory-for-digital-privacy/",
       "points": "",
-      "comments": "\n              25 comments",
+      "comments": "\n              26 comments",
       "index": 2
     },
     {
@@ -30,150 +30,150 @@
       "index": 4
     },
     {
+      "title": "A small number of samples can poison LLMs of any size",
+      "href": "https://www.anthropic.com/research/small-samples-poison",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 5
+    },
+    {
       "title": "How to store ordered information in a Relational Database (2015)",
       "href": "https://softwareengineering.stackexchange.com/questions/304593/how-to-store-ordered-information-in-a-relational-database",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 5
-    },
-    {
-      "title": "A small number of samples can poison LLMs of any size",
-      "href": "https://www.anthropic.com/research/small-samples-poison",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 6
-    },
-    {
-      "title": "Solving Git's Pain Points with Jujutsu",
-      "href": "https://www.youtube.com/watch?v=ulJ_Pw8qqsE",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 7
-    },
-    {
-      "title": "The Programmer Identity Crisis",
-      "href": "https://hojberg.xyz/the-programmer-identity-crisis/",
-      "points": "",
-      "comments": "\n              25 comments",
-      "index": 8
     },
     {
       "title": "What is Algebraic about Algebraic Effects?",
       "href": "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 9
+      "index": 7
     },
     {
       "title": "Examples are the best documentation",
       "href": "https://rakhim.exotext.com/examples-are-the-best-documentation",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 10
+      "index": 8
     },
     {
-      "title": "Introducing the React Foundation: The New Home for React & React Native",
-      "href": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/",
+      "title": "Solving Git's Pain Points with Jujutsu",
+      "href": "https://www.youtube.com/watch?v=ulJ_Pw8qqsE",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 9
+    },
+    {
+      "title": "The Programmer Identity Crisis",
+      "href": "https://hojberg.xyz/the-programmer-identity-crisis/",
+      "points": "",
+      "comments": "\n              25 comments",
+      "index": 10
     },
     {
       "title": "Two Kinds of \"Relicensing\" (2023)",
       "href": "https://writing.kemitchell.com/2023/09/23/Two-Kinds-Relicensing",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 12
-    },
-    {
-      "title": "Four years, Five failures, One compiler - The journey",
-      "href": "https://daymare.net/blogs/four-years-five-failures-one-compiler/",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 13
-    },
-    {
-      "title": "Fedora floats AI-assisted contributions policy",
-      "href": "https://lwn.net/Articles/1039623/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 14
-    },
-    {
-      "title": "The Write Stuff: Concurrent Write Transactions in SQLite",
-      "href": "https://oldmoe.blog/2024/07/08/the-write-stuff-concurrent-write-transactions-in-sqlite/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "HUML :: Human-oriented Markup Language",
-      "href": "https://huml.io",
-      "points": "",
-      "comments": "\n              42 comments",
-      "index": 16
-    },
-    {
-      "title": "Julia v1.12 release highlights",
-      "href": "https://julialang.org/blog/2025/10/julia-1.12-highlights/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 17
-    },
-    {
-      "title": "Oral History of Ken Thompson",
-      "href": "https://www.youtube.com/watch?v=OmVHkL0IWk4",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 18
-    },
-    {
-      "title": "Code is Never Neutral: Why All Software is Political",
-      "href": "https://www.youtube.com/watch?v=Kpfff6TS018",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 19
-    },
-    {
-      "title": "How I Learned to Code (using Japanese Method)",
-      "href": "https://blog.stackademic.com/how-i-learned-to-code-using-japanese-method-a01a74c35224",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 20
-    },
-    {
-      "title": "How we found a bug in Go's arm64 compiler",
-      "href": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 21
+      "index": 11
     },
     {
       "title": "Making Slint Desktop-Ready",
       "href": "https://slint.dev/blog/making-slint-desktop-ready",
       "points": "",
       "comments": "\n              no comments",
+      "index": 12
+    },
+    {
+      "title": "Introducing the React Foundation: The New Home for React & React Native",
+      "href": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 13
+    },
+    {
+      "title": "Four years, Five failures, One compiler - The journey",
+      "href": "https://daymare.net/blogs/four-years-five-failures-one-compiler/",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 14
+    },
+    {
+      "title": "Fedora floats AI-assisted contributions policy",
+      "href": "https://lwn.net/Articles/1039623/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 15
+    },
+    {
+      "title": "magnolia: Interactive shell navigation and history",
+      "href": "https://codeberg.org/mtmn/magnolia",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 16
+    },
+    {
+      "title": "The Write Stuff: Concurrent Write Transactions in SQLite",
+      "href": "https://oldmoe.blog/2024/07/08/the-write-stuff-concurrent-write-transactions-in-sqlite/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Julia v1.12 release highlights",
+      "href": "https://julialang.org/blog/2025/10/julia-1.12-highlights/",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 18
+    },
+    {
+      "title": "HUML :: Human-oriented Markup Language",
+      "href": "https://huml.io",
+      "points": "",
+      "comments": "\n              45 comments",
+      "index": 19
+    },
+    {
+      "title": "Oral History of Ken Thompson",
+      "href": "https://www.youtube.com/watch?v=OmVHkL0IWk4",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 20
+    },
+    {
+      "title": "Code is Never Neutral: Why All Software is Political",
+      "href": "https://www.youtube.com/watch?v=Kpfff6TS018",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 21
+    },
+    {
+      "title": "How I Learned to Code (using Japanese Method)",
+      "href": "https://blog.stackademic.com/how-i-learned-to-code-using-japanese-method-a01a74c35224",
+      "points": "",
+      "comments": "\n              2 comments",
       "index": 22
+    },
+    {
+      "title": "How we found a bug in Go's arm64 compiler",
+      "href": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 23
     },
     {
       "title": "Why we didn't rewrite our feed handler in Rust",
       "href": "https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust",
       "points": "",
-      "comments": "\n              43 comments",
-      "index": 23
+      "comments": "\n              44 comments",
+      "index": 24
     },
     {
       "title": "Fireman Sam (COMMODORE 64)",
       "href": "http://retrovania-vgjunk.blogspot.com/2016/11/fireman-sam-commodore-64.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "Half an year on Alpine: just musl aside",
-      "href": "https://blog.jutty.dev/posts/half-an-year-on-alpine/",
-      "points": "",
-      "comments": "\n              30 comments",
       "index": 25
     }
   ]
