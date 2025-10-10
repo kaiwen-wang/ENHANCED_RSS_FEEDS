@@ -1,214 +1,214 @@
 {
-  "date": "Friday, October 10, 2025 at 5:20 AM GMT-5",
+  "date": "Friday, October 10, 2025 at 6:15 AM GMT-5",
   "articles": [
-    {
-      "title": "Nobel Peace Prize 2025: María Corina Machado",
-      "href": "https://www.nobelprize.org/prizes/peace/2025/summary/",
-      "points": "148 points",
-      "comments": "93 comments",
-      "index": 1
-    },
     {
       "title": "Datastar: Lightweight hypermedia framework for building interactive web apps",
       "href": "https://data-star.dev/",
-      "points": "16 points",
-      "comments": "3 comments",
+      "points": "67 points",
+      "comments": "24 comments",
+      "index": 1
+    },
+    {
+      "title": "Nobel Peace Prize 2025: María Corina Machado",
+      "href": "https://www.nobelprize.org/prizes/peace/2025/summary/",
+      "points": "216 points",
+      "comments": "174 comments",
       "index": 2
     },
     {
-      "title": "My approach to building large technical projects (2023)",
-      "href": "https://mitchellh.com/writing/building-large-technical-projects",
-      "points": "162 points",
-      "comments": "17 comments",
+      "title": "Show HN: I invented a new generative model and got accepted to ICLR",
+      "href": "https://discrete-distribution-networks.github.io/",
+      "points": "32 points",
+      "comments": "5 comments",
       "index": 3
     },
     {
       "title": "A small number of samples can poison LLMs of any size",
       "href": "https://www.anthropic.com/research/small-samples-poison",
-      "points": "926 points",
-      "comments": "339 comments",
+      "points": "946 points",
+      "comments": "350 comments",
       "index": 4
     },
     {
-      "title": "Parallelizing Cellular Automata with WebGPU Compute Shaders",
-      "href": "https://vectrx.substack.com/p/webgpu-cellular-automata",
-      "points": "7 points",
-      "comments": "1 comment",
+      "title": "My approach to building large technical projects (2023)",
+      "href": "https://mitchellh.com/writing/building-large-technical-projects",
+      "points": "173 points",
+      "comments": "18 comments",
       "index": 5
-    },
-    {
-      "title": "Python 3.14 is here. How fast is it?",
-      "href": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
-      "points": "563 points",
-      "comments": "414 comments",
-      "index": 6
-    },
-    {
-      "title": "I tracked Amazon's Prime Day prices. We've been played",
-      "href": "https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/",
-      "points": "75 points",
-      "comments": "42 comments",
-      "index": 7
-    },
-    {
-      "title": "After nine years of grinding, Replit found its market. Can it keep it?",
-      "href": "https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/",
-      "points": "34 points",
-      "comments": "25 comments",
-      "index": 8
-    },
-    {
-      "title": "Show HN: I invented a new generative model and got accepted to ICLR",
-      "href": "https://discrete-distribution-networks.github.io/",
-      "points": "5 points",
-      "comments": "discuss",
-      "index": 9
-    },
-    {
-      "title": "Examples Are the Best Documentation",
-      "href": "https://rakhim.exotext.com/examples-are-the-best-documentation",
-      "points": "151 points",
-      "comments": "45 comments",
-      "index": 10
-    },
-    {
-      "title": "My first contribution to Linux",
-      "href": "https://vkoskiv.com/first-linux-patch/",
-      "points": "555 points",
-      "comments": "64 comments",
-      "index": 11
     },
     {
       "title": "I Switched from Htmx to Datastar",
       "href": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
-      "points": "88 points",
-      "comments": "54 comments",
+      "points": "109 points",
+      "comments": "61 comments",
+      "index": 6
+    },
+    {
+      "title": "Parallelizing Cellular Automata with WebGPU Compute Shaders",
+      "href": "https://vectrx.substack.com/p/webgpu-cellular-automata",
+      "points": "14 points",
+      "comments": "1 comment",
+      "index": 7
+    },
+    {
+      "title": "Python 3.14 is here. How fast is it?",
+      "href": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
+      "points": "580 points",
+      "comments": "421 comments",
+      "index": 8
+    },
+    {
+      "title": "Vite+ – The Unified Toolchain for the Web",
+      "href": "https://viteplus.dev/",
+      "points": "13 points",
+      "comments": "2 comments",
+      "index": 9
+    },
+    {
+      "title": "After nine years of grinding, Replit found its market. Can it keep it?",
+      "href": "https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/",
+      "points": "39 points",
+      "comments": "31 comments",
+      "index": 10
+    },
+    {
+      "title": "Examples Are the Best Documentation",
+      "href": "https://rakhim.exotext.com/examples-are-the-best-documentation",
+      "points": "172 points",
+      "comments": "51 comments",
+      "index": 11
+    },
+    {
+      "title": "A Story About Bypassing Air Canada's In-Flight Network Restrictions",
+      "href": "https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/",
+      "points": "16 points",
+      "comments": "discuss",
       "index": 12
+    },
+    {
+      "title": "My first contribution to Linux",
+      "href": "https://vkoskiv.com/first-linux-patch/",
+      "points": "571 points",
+      "comments": "66 comments",
+      "index": 13
     },
     {
       "title": "Automated Lean Proofs for Every Type",
       "href": "https://www.galois.com/articles/automated-lean-proofs-for-every-type",
-      "points": "6 points",
+      "points": "8 points",
       "comments": "1 comment",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Multi-Core by Default",
       "href": "https://www.rfleury.com/p/multi-core-by-default",
-      "points": "21 points",
-      "comments": "2 comments",
-      "index": 14
+      "points": "27 points",
+      "comments": "3 comments",
+      "index": 15
     },
     {
       "title": "Interactive Double Pendulum Playground",
       "href": "https://theabbie.github.io/DoublePendulum/",
-      "points": "35 points",
-      "comments": "13 comments",
-      "index": 15
+      "points": "40 points",
+      "comments": "15 comments",
+      "index": 16
     },
     {
-      "title": "The product of the railways is the timetable",
-      "href": "https://springbett.substack.com/p/the-product-of-the-railways-is-the",
-      "points": "49 points",
-      "comments": "42 comments",
-      "index": 16
+      "title": "Ohno Type School",
+      "href": "https://ohnotype.co/blog/ohno-type-school-a",
+      "points": "12 points",
+      "comments": "discuss",
+      "index": 17
     },
     {
       "title": "A built-in 'off switch' to stop persistent pain",
       "href": "https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain",
-      "points": "165 points",
+      "points": "170 points",
       "comments": "75 comments",
-      "index": 17
-    },
-    {
-      "title": "Show HN: I've built a tiny hand-held keyboard",
-      "href": "https://github.com/mafik/keyer",
-      "points": "338 points",
-      "comments": "97 comments",
       "index": 18
     },
     {
       "title": "Figure 03, our 3rd generation humanoid robot",
       "href": "https://www.figure.ai/news/introducing-figure-03",
-      "points": "345 points",
-      "comments": "334 comments",
+      "points": "350 points",
+      "comments": "337 comments",
       "index": 19
     },
     {
-      "title": "How A Scottish maritime museum ended up in Israel's 3D propaganda videos",
-      "href": "https://www.972mag.com/israeli-army-3d-propaganda-animations/",
-      "points": "30 points",
-      "comments": "2 comments",
+      "title": "Show HN: I've built a tiny hand-held keyboard",
+      "href": "https://github.com/mafik/keyer",
+      "points": "341 points",
+      "comments": "97 comments",
       "index": 20
     },
     {
       "title": "LLMs are mortally terrified of exceptions",
       "href": "https://twitter.com/karpathy/status/1976077806443569355",
-      "points": "227 points",
-      "comments": "108 comments",
+      "points": "234 points",
+      "comments": "110 comments",
       "index": 21
     },
     {
       "title": "Subway Builder: A realistic subway simulation game",
       "href": "https://www.subwaybuilder.com/",
-      "points": "249 points",
-      "comments": "104 comments",
+      "points": "252 points",
+      "comments": "108 comments",
       "index": 22
-    },
-    {
-      "title": "How to write in Cuneiform",
-      "href": "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html",
-      "points": "88 points",
-      "comments": "53 comments",
-      "index": 23
-    },
-    {
-      "title": "ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs",
-      "href": "https://github.com/scribeocr/scribeocr",
-      "points": "70 points",
-      "comments": "9 comments",
-      "index": 24
     },
     {
       "title": "A beginner's guide to deploying LLMs with AMD on Windows using PyTorch",
       "href": "https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/",
-      "points": "77 points",
-      "comments": "17 comments",
+      "points": "83 points",
+      "comments": "20 comments",
+      "index": 23
+    },
+    {
+      "title": "How to write in Cuneiform",
+      "href": "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html",
+      "points": "91 points",
+      "comments": "55 comments",
+      "index": 24
+    },
+    {
+      "title": "ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs",
+      "href": "https://github.com/scribeocr/scribeocr",
+      "points": "74 points",
+      "comments": "9 comments",
       "index": 25
+    },
+    {
+      "title": "I tracked Amazon's Prime Day prices. We've been played",
+      "href": "https://www.washingtonpost.com/technology/2025/10/09/amazon-prime-day-prices/",
+      "points": "98 points",
+      "comments": "70 comments",
+      "index": 26
+    },
+    {
+      "title": "The product of the railways is the timetable",
+      "href": "https://springbett.substack.com/p/the-product-of-the-railways-is-the",
+      "points": "53 points",
+      "comments": "47 comments",
+      "index": 27
     },
     {
       "title": "Show HN: Open source, logical multi-master PostgreSQL replication",
       "href": "https://github.com/pgEdge/spock",
-      "points": "111 points",
-      "comments": "36 comments",
-      "index": 26
-    },
-    {
-      "title": "Vexing Exceptions",
-      "href": "https://ericlippert.com/2008/09/10/vexing-exceptions/",
-      "points": "17 points",
-      "comments": "1 comment",
-      "index": 27
+      "points": "113 points",
+      "comments": "40 comments",
+      "index": 28
     },
     {
       "title": "Show HN: I built a web framework in C",
       "href": "https://github.com/ashtonjamesd/lavandula",
-      "points": "358 points",
-      "comments": "174 comments",
-      "index": 28
-    },
-    {
-      "title": "Hacker News Live Feed",
-      "href": "https://jerbear2008.github.io/hn-live/",
-      "points": "209 points",
-      "comments": "69 comments",
+      "points": "364 points",
+      "comments": "178 comments",
       "index": 29
     },
     {
       "title": "Embracing the parallel coding agent lifestyle",
       "href": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
-      "points": "143 points",
-      "comments": "117 comments",
+      "points": "148 points",
+      "comments": "120 comments",
       "index": 30
     }
   ]
