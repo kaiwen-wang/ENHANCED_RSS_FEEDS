@@ -1,214 +1,214 @@
 {
-  "date": "Friday, October 10, 2025 at 8:30 AM GMT-5",
+  "date": "Friday, October 10, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Igalia, Servo, and the Sovereign Tech Fund",
       "href": "https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html",
-      "points": "40 points",
-      "comments": "2 comments",
+      "points": "100 points",
+      "comments": "10 comments",
       "index": 1
     },
     {
       "title": "Show HN: I invented a new generative model and got accepted to ICLR",
       "href": "https://discrete-distribution-networks.github.io/",
-      "points": "157 points",
-      "comments": "16 comments",
+      "points": "191 points",
+      "comments": "23 comments",
       "index": 2
+    },
+    {
+      "title": "OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader",
+      "href": "https://www.supergoodcode.com/mesh-shaders-in-the-current-year/",
+      "points": "21 points",
+      "comments": "1 comment",
+      "index": 3
+    },
+    {
+      "title": "PSA: Always use a separate domain for user content",
+      "href": "https://www.statichost.eu/blog/google-safe-browsing/",
+      "points": "53 points",
+      "comments": "46 comments",
+      "index": 4
     },
     {
       "title": "A small number of samples can poison LLMs of any size",
       "href": "https://www.anthropic.com/research/small-samples-poison",
-      "points": "1002 points",
-      "comments": "376 comments",
-      "index": 3
-    },
-    {
-      "title": "I Switched from Htmx to Datastar",
-      "href": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
-      "points": "185 points",
-      "comments": "103 comments",
-      "index": 4
-    },
-    {
-      "title": "Nobel Peace Prize 2025: María Corina Machado",
-      "href": "https://www.nobelprize.org/prizes/peace/2025/summary/",
-      "points": "341 points",
-      "comments": "322 comments",
+      "points": "1015 points",
+      "comments": "383 comments",
       "index": 5
-    },
-    {
-      "title": "My approach to building large technical projects (2023)",
-      "href": "https://mitchellh.com/writing/building-large-technical-projects",
-      "points": "202 points",
-      "comments": "28 comments",
-      "index": 6
     },
     {
       "title": "Ohno Type School",
       "href": "https://ohnotype.co/blog/ohno-type-school-a",
-      "points": "55 points",
-      "comments": "19 comments",
+      "points": "72 points",
+      "comments": "28 comments",
+      "index": 6
+    },
+    {
+      "title": "My approach to building large technical projects (2023)",
+      "href": "https://mitchellh.com/writing/building-large-technical-projects",
+      "points": "216 points",
+      "comments": "29 comments",
       "index": 7
+    },
+    {
+      "title": "Htmx, Datastar, Greedy Developer",
+      "href": "https://drshapeless.com/blog/posts/htmx,-datastar,-greedy-developer.html",
+      "points": "24 points",
+      "comments": "2 comments",
+      "index": 8
+    },
+    {
+      "title": "I Switched from Htmx to Datastar",
+      "href": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
+      "points": "205 points",
+      "comments": "135 comments",
+      "index": 9
     },
     {
       "title": "Parallelizing Cellular Automata with WebGPU Compute Shaders",
       "href": "https://vectrx.substack.com/p/webgpu-cellular-automata",
-      "points": "28 points",
-      "comments": "2 comments",
-      "index": 8
+      "points": "34 points",
+      "comments": "3 comments",
+      "index": 10
     },
     {
       "title": "Weave (YC W25) is hiring a founding AI engineer",
       "href": "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer",
       "points": "",
       "comments": "hide",
-      "index": 9
-    },
-    {
-      "title": "Static Bundle Object: Modernizing Static Linking",
-      "href": "https://medium.com/@eyal.itkin/static-bundle-object-modernizing-static-linking-f1be36175064",
-      "points": "14 points",
-      "comments": "5 comments",
-      "index": 10
-    },
-    {
-      "title": "A Story About Bypassing Air Canada's In-Flight Network Restrictions",
-      "href": "https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/",
-      "points": "66 points",
-      "comments": "46 comments",
       "index": 11
     },
     {
-      "title": "AI is an attack from above on wages\": cognitive scientist Hagen Blix",
-      "href": "https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages",
-      "points": "53 points",
-      "comments": "19 comments",
+      "title": "Nobel Peace Prize 2025: María Corina Machado",
+      "href": "https://www.nobelprize.org/prizes/peace/2025/summary/",
+      "points": "375 points",
+      "comments": "365 comments",
       "index": 12
     },
     {
       "title": "Python 3.14 is here. How fast is it?",
       "href": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
-      "points": "615 points",
-      "comments": "438 comments",
+      "points": "629 points",
+      "comments": "449 comments",
       "index": 13
+    },
+    {
+      "title": "Bringing Desktop Linux GUIs to Android: The Next Step in Graphical App Support",
+      "href": "https://www.linuxjournal.com/content/bringing-desktop-linux-guis-android-next-step-graphical-app-support",
+      "points": "9 points",
+      "comments": "4 comments",
+      "index": 14
+    },
+    {
+      "title": "Static Bundle Object: Modernizing Static Linking",
+      "href": "https://medium.com/@eyal.itkin/static-bundle-object-modernizing-static-linking-f1be36175064",
+      "points": "18 points",
+      "comments": "10 comments",
+      "index": 15
     },
     {
       "title": "Examples Are the Best Documentation",
       "href": "https://rakhim.exotext.com/examples-are-the-best-documentation",
-      "points": "237 points",
-      "comments": "76 comments",
-      "index": 14
+      "points": "253 points",
+      "comments": "88 comments",
+      "index": 16
     },
     {
       "title": "An MVCC-like columnar table on S3 with constant-time deletes",
       "href": "https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/",
-      "points": "8 points",
-      "comments": "discuss",
-      "index": 15
-    },
-    {
-      "title": "Datastar: Lightweight hypermedia framework for building interactive web apps",
-      "href": "https://data-star.dev/",
-      "points": "145 points",
-      "comments": "129 comments",
-      "index": 16
+      "points": "15 points",
+      "comments": "1 comment",
+      "index": 17
     },
     {
       "title": "My first contribution to Linux",
       "href": "https://vkoskiv.com/first-linux-patch/",
-      "points": "603 points",
+      "points": "611 points",
       "comments": "72 comments",
-      "index": 17
+      "index": 18
     },
     {
-      "title": "Interactive Double Pendulum Playground",
-      "href": "https://theabbie.github.io/DoublePendulum/",
-      "points": "47 points",
-      "comments": "18 comments",
-      "index": 18
+      "title": "A Story About Bypassing Air Canada's In-Flight Network Restrictions",
+      "href": "https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/",
+      "points": "72 points",
+      "comments": "56 comments",
+      "index": 19
+    },
+    {
+      "title": "The Prairie Farmers Preserving the Most Threatened Ecosystem – Forever",
+      "href": "https://reasonstobecheerful.world/prairie-farmers-preserve-most-threatened-ecosystem-forever/",
+      "points": "5 points",
+      "comments": "discuss",
+      "index": 20
     },
     {
       "title": "Multi-Core by Default",
       "href": "https://www.rfleury.com/p/multi-core-by-default",
-      "points": "36 points",
-      "comments": "14 comments",
-      "index": 19
+      "points": "45 points",
+      "comments": "18 comments",
+      "index": 21
     },
     {
       "title": "Figure 03, our 3rd generation humanoid robot",
       "href": "https://www.figure.ai/news/introducing-figure-03",
-      "points": "362 points",
-      "comments": "351 comments",
-      "index": 20
+      "points": "370 points",
+      "comments": "364 comments",
+      "index": 22
     },
     {
       "title": "Show HN: I've built a tiny hand-held keyboard",
       "href": "https://github.com/mafik/keyer",
-      "points": "357 points",
-      "comments": "98 comments",
-      "index": 21
-    },
-    {
-      "title": "A built-in 'off switch' to stop persistent pain",
-      "href": "https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain",
-      "points": "178 points",
-      "comments": "79 comments",
-      "index": 22
+      "points": "362 points",
+      "comments": "99 comments",
+      "index": 23
     },
     {
       "title": "LLMs are mortally terrified of exceptions",
       "href": "https://twitter.com/karpathy/status/1976077806443569355",
-      "points": "260 points",
-      "comments": "116 comments",
-      "index": 23
+      "points": "271 points",
+      "comments": "121 comments",
+      "index": 24
     },
     {
-      "title": "Automated Lean Proofs for Every Type",
-      "href": "https://www.galois.com/articles/automated-lean-proofs-for-every-type",
-      "points": "18 points",
-      "comments": "1 comment",
-      "index": 24
+      "title": "A built-in 'off switch' to stop persistent pain",
+      "href": "https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain",
+      "points": "179 points",
+      "comments": "80 comments",
+      "index": 25
+    },
+    {
+      "title": "Origami Patterns Solve a Major Physics Riddle",
+      "href": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 26
     },
     {
       "title": "Subway Builder: A realistic subway simulation game",
       "href": "https://www.subwaybuilder.com/",
-      "points": "263 points",
-      "comments": "110 comments",
-      "index": 25
+      "points": "269 points",
+      "comments": "115 comments",
+      "index": 27
     },
     {
       "title": "A beginner's guide to deploying LLMs with AMD on Windows using PyTorch",
       "href": "https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/",
-      "points": "90 points",
-      "comments": "22 comments",
-      "index": 26
+      "points": "92 points",
+      "comments": "26 comments",
+      "index": 28
+    },
+    {
+      "title": "Interactive Double Pendulum Playground",
+      "href": "https://theabbie.github.io/DoublePendulum/",
+      "points": "52 points",
+      "comments": "18 comments",
+      "index": 29
     },
     {
       "title": "ScribeOCR – Web interface for recognizing text, OCR, & creating digitized docs",
       "href": "https://github.com/scribeocr/scribeocr",
-      "points": "87 points",
-      "comments": "11 comments",
-      "index": 27
-    },
-    {
-      "title": "Show HN: Open source, logical multi-master PostgreSQL replication",
-      "href": "https://github.com/pgEdge/spock",
-      "points": "127 points",
-      "comments": "44 comments",
-      "index": 28
-    },
-    {
-      "title": "How to write in Cuneiform",
-      "href": "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html",
-      "points": "96 points",
-      "comments": "57 comments",
-      "index": 29
-    },
-    {
-      "title": "The product of the railways is the timetable",
-      "href": "https://springbett.substack.com/p/the-product-of-the-railways-is-the",
-      "points": "62 points",
-      "comments": "55 comments",
+      "points": "90 points",
+      "comments": "13 comments",
       "index": 30
     }
   ]
