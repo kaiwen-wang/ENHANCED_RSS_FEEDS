@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, October 11, 2025 at 4:15 PM GMT-5",
+  "date": "Saturday, October 11, 2025 at 5:15 PM GMT-5",
   "articles": [
+    {
+      "title": "Rating 26 years of Java changes",
+      "href": "https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/",
+      "points": "87 points",
+      "comments": "79 comments",
+      "index": 1
+    },
+    {
+      "title": "How much revenue is needed to justify the current AI spend?",
+      "href": "https://pracap.com/an-ai-addendum/",
+      "points": "22 points",
+      "comments": "discuss",
+      "index": 2
+    },
     {
       "title": "The <output> Tag",
       "href": "https://denodell.com/blog/html-best-kept-secret-output-tag",
-      "points": "656 points",
-      "comments": "152 comments",
-      "index": 1
+      "points": "676 points",
+      "comments": "153 comments",
+      "index": 3
     },
     {
       "title": "How Apple designs a virtual knob (2012)",
       "href": "https://jherrm.github.io/knobs/",
-      "points": "62 points",
-      "comments": "33 comments",
-      "index": 2
-    },
-    {
-      "title": "Testing two 18 TB white label SATA hard drives from datablocks.dev",
-      "href": "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/",
-      "points": "91 points",
+      "points": "80 points",
       "comments": "53 comments",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Microsoft only lets you opt out of AI photo scanning 3x a year",
       "href": "https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users",
-      "points": "119 points",
-      "comments": "38 comments",
-      "index": 4
+      "points": "211 points",
+      "comments": "75 comments",
+      "index": 5
+    },
+    {
+      "title": "Testing two 18 TB white label SATA hard drives from datablocks.dev",
+      "href": "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/",
+      "points": "112 points",
+      "comments": "64 comments",
+      "index": 6
     },
     {
       "title": "GNU Health",
       "href": "https://www.gnuhealth.org/about-us.html",
-      "points": "271 points",
-      "comments": "78 comments",
-      "index": 5
+      "points": "288 points",
+      "comments": "81 comments",
+      "index": 7
     },
     {
-      "title": "AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline",
-      "href": "https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/",
-      "points": "265 points",
-      "comments": "321 comments",
-      "index": 6
+      "title": "Diane Keaton has died",
+      "href": "https://www.nytimes.com/2025/10/11/movies/diane-keaton-dead.html",
+      "points": "25 points",
+      "comments": "2 comments",
+      "index": 8
     },
     {
       "title": "Vibing a non-trivial Ghostty feature",
       "href": "https://mitchellh.com/writing/non-trivial-vibing",
-      "points": "160 points",
-      "comments": "85 comments",
-      "index": 7
-    },
-    {
-      "title": "Microsoft Amplifier",
-      "href": "https://github.com/microsoft/amplifier",
-      "points": "174 points",
-      "comments": "111 comments",
-      "index": 8
-    },
-    {
-      "title": "The World Trade Center under construction through photos, 1966-1979",
-      "href": "https://rarehistoricalphotos.com/twin-towers-construction-photographs/",
-      "points": "151 points",
-      "comments": "77 comments",
+      "points": "182 points",
+      "comments": "90 comments",
       "index": 9
-    },
-    {
-      "title": "Windows Subsystem for FreeBSD",
-      "href": "https://github.com/BalajeS/WSL-For-FreeBSD",
-      "points": "181 points",
-      "comments": "64 comments",
-      "index": 10
     },
     {
       "title": "Superpowers: How I'm using coding agents in October 2025",
       "href": "https://blog.fsck.com/2025/10/09/superpowers/",
-      "points": "208 points",
-      "comments": "131 comments",
+      "points": "232 points",
+      "comments": "146 comments",
+      "index": 10
+    },
+    {
+      "title": "AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline",
+      "href": "https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/",
+      "points": "271 points",
+      "comments": "334 comments",
       "index": 11
     },
     {
-      "title": "Building a JavaScript Runtime from Scratch using C",
-      "href": "https://devlogs.xyz/blog/building-a-javaScript-runtime",
-      "points": "49 points",
-      "comments": "19 comments",
+      "title": "The World Trade Center under construction through photos, 1966-1979",
+      "href": "https://rarehistoricalphotos.com/twin-towers-construction-photographs/",
+      "points": "161 points",
+      "comments": "78 comments",
       "index": 12
     },
     {
-      "title": "All-New Next Gen of UniFi Storage",
-      "href": "https://blog.ui.com/article/all-new-next-gen-of-unifi-storage",
-      "points": "20 points",
-      "comments": "11 comments",
+      "title": "Windows Subsystem for FreeBSD",
+      "href": "https://github.com/BalajeS/WSL-For-FreeBSD",
+      "points": "191 points",
+      "comments": "66 comments",
       "index": 13
     },
     {
-      "title": "A Quiet Change to RSA",
-      "href": "https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/",
-      "points": "72 points",
-      "comments": "24 comments",
+      "title": "Microsoft Amplifier",
+      "href": "https://github.com/microsoft/amplifier",
+      "points": "188 points",
+      "comments": "114 comments",
       "index": 14
     },
     {
-      "title": "Rating 26 years of Java changes",
-      "href": "https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/",
-      "points": "62 points",
-      "comments": "52 comments",
+      "title": "Building a JavaScript Runtime using C",
+      "href": "https://devlogs.xyz/blog/building-a-javaScript-runtime",
+      "points": "56 points",
+      "comments": "23 comments",
       "index": 15
-    },
-    {
-      "title": "I built physical album cards with NFC tags to teach my son music discovery",
-      "href": "https://fulghum.io/album-cards",
-      "points": "527 points",
-      "comments": "183 comments",
-      "index": 16
-    },
-    {
-      "title": "Wilson's Algorithm",
-      "href": "https://cruzgodar.com/applets/wilsons-algorithm/",
-      "points": "30 points",
-      "comments": "6 comments",
-      "index": 17
     },
     {
       "title": "People regret buying Amazon smart displays after being bombarded with ads",
       "href": "https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/",
-      "points": "48 points",
-      "comments": "16 comments",
-      "index": 18
+      "points": "81 points",
+      "comments": "39 comments",
+      "index": 16
     },
     {
       "title": "Indonesia says 22 plants in industrial zone contaminated by caesium 137",
       "href": "https://www.reuters.com/sustainability/boards-policy-regulation/indonesia-says-22-plants-industrial-zone-near-jakarta-contaminated-by-caesium-2025-10-08/",
-      "points": "13 points",
-      "comments": "2 comments",
+      "points": "26 points",
+      "comments": "15 comments",
+      "index": 17
+    },
+    {
+      "title": "All-New Next Gen of UniFi Storage",
+      "href": "https://blog.ui.com/article/all-new-next-gen-of-unifi-storage",
+      "points": "28 points",
+      "comments": "15 comments",
+      "index": 18
+    },
+    {
+      "title": "I built physical album cards with NFC tags to teach my son music discovery",
+      "href": "https://fulghum.io/album-cards",
+      "points": "535 points",
+      "comments": "186 comments",
       "index": 19
+    },
+    {
+      "title": "A quiet change to RSA",
+      "href": "https://www.johndcook.com/blog/2025/10/06/a-quiet-change-to-rsa/",
+      "points": "78 points",
+      "comments": "27 comments",
+      "index": 20
+    },
+    {
+      "title": "Japan's summers have lengthened by 3 weeks over 42 years, say resaerchers",
+      "href": "https://english.kyodonews.net/articles/-/62626",
+      "points": "15 points",
+      "comments": "discuss",
+      "index": 21
+    },
+    {
+      "title": "Wilson's Algorithm",
+      "href": "https://cruzgodar.com/applets/wilsons-algorithm/",
+      "points": "32 points",
+      "comments": "6 comments",
+      "index": 22
+    },
+    {
+      "title": "Beyond Indexes: How Open Table Formats Optimize Query Performance",
+      "href": "https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance",
+      "points": "9 points",
+      "comments": "discuss",
+      "index": 23
     },
     {
       "title": "Otary now includes 17 image binarization methods",
       "href": "https://alexandrepoupeau.com/otary/api/image/transformers/thresholding/",
-      "points": "3 points",
-      "comments": "1 comment",
-      "index": 20
-    },
-    {
-      "title": "How to check for overlapping intervals",
-      "href": "https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/",
-      "points": "65 points",
-      "comments": "20 comments",
-      "index": 21
+      "points": "10 points",
+      "comments": "4 comments",
+      "index": 24
     },
     {
       "title": "(Re)Introducing the Pebble Appstore",
       "href": "https://ericmigi.com/blog/re-introducing-the-pebble-appstore/",
-      "points": "247 points",
-      "comments": "45 comments",
-      "index": 22
-    },
-    {
-      "title": "Discord hack shows risks of online age checks",
-      "href": "https://news.sky.com/story/discord-hack-shows-dangers-of-online-age-checks-as-internet-policing-hopes-put-to-the-test-13447618",
-      "points": "120 points",
-      "comments": "37 comments",
-      "index": 23
+      "points": "252 points",
+      "comments": "47 comments",
+      "index": 25
     },
     {
       "title": "How hard do you have to hit a chicken to cook it? (2020)",
       "href": "https://james-simon.github.io/blog/chicken-cooking/",
-      "points": "161 points",
+      "points": "167 points",
       "comments": "95 comments",
-      "index": 24
+      "index": 26
     },
     {
       "title": "Crypto-Current (2021)",
       "href": "https://zerophilosophy.substack.com/p/crypto-current",
-      "points": "10 points",
-      "comments": "1 comment",
-      "index": 25
+      "points": "11 points",
+      "comments": "3 comments",
+      "index": 27
     },
     {
       "title": "Tangled, a Git collaboration platform built on atproto",
       "href": "https://blog.tangled.org/intro",
-      "points": "295 points",
+      "points": "301 points",
       "comments": "81 comments",
-      "index": 26
+      "index": 28
     },
     {
       "title": "Daniel Kahneman opted for assisted suicide in Switzerland",
       "href": "https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html",
-      "points": "461 points",
-      "comments": "429 comments",
-      "index": 27
-    },
-    {
-      "title": "A Library for Fish Sounds",
-      "href": "https://nautil.us/a-library-for-fish-sounds-1239697/",
-      "points": "29 points",
-      "comments": "4 comments",
-      "index": 28
+      "points": "477 points",
+      "comments": "443 comments",
+      "index": 29
     },
     {
       "title": "Programming in the Sun: A Year with the Daylight Computer",
       "href": "https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html",
-      "points": "160 points",
-      "comments": "52 comments",
-      "index": 29
-    },
-    {
-      "title": "Show HN: I invented a new generative model and got accepted to ICLR",
-      "href": "https://discrete-distribution-networks.github.io/",
-      "points": "624 points",
-      "comments": "86 comments",
+      "points": "165 points",
+      "comments": "53 comments",
       "index": 30
     }
   ]
