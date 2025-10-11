@@ -1,18 +1,18 @@
 {
-  "date": "Saturday, October 11, 2025 at 12:15 PM GMT-5",
+  "date": "Saturday, October 11, 2025 at 1:20 PM GMT-5",
   "articles": [
-    {
-      "title": "HTML’s Best Kept Secret: The output Tag",
-      "href": "https://denodell.com/blog/html-best-kept-secret-output-tag",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 1
-    },
     {
       "title": "Liquid Glass Is Cracked, and Usability Suffers in iOS 26",
       "href": "https://www.nngroup.com/articles/liquid-glass/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
+      "index": 1
+    },
+    {
+      "title": "HTML’s Best Kept Secret: The output Tag",
+      "href": "https://denodell.com/blog/html-best-kept-secret-output-tag",
+      "points": "",
+      "comments": "\n              4 comments",
       "index": 2
     },
     {
@@ -23,45 +23,45 @@
       "index": 3
     },
     {
-      "title": "Bun 1.3",
-      "href": "https://bun.com/blog/bun-v1.3",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 4
-    },
-    {
       "title": "Vibing a Non-Trivial Ghostty Feature",
       "href": "https://mitchellh.com/writing/non-trivial-vibing",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 4
+    },
+    {
+      "title": "Bun 1.3",
+      "href": "https://bun.com/blog/bun-v1.3",
+      "points": "",
+      "comments": "\n              11 comments",
       "index": 5
+    },
+    {
+      "title": "Dijkstra on the foolishness of natural language programming (1978)",
+      "href": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 6
     },
     {
       "title": "Notes on switching to Helix from vim",
       "href": "https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/",
       "points": "",
       "comments": "\n              36 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Why it took 4 years to get a lock files specification",
       "href": "https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "DebDroid - Debian on Android (v1.1)",
       "href": "https://github.com/NICUP14/DebDroid",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 8
-    },
-    {
-      "title": "A Year of Gentoo",
-      "href": "https://arch.dog/bark/year-of-gentoo",
-      "points": "",
-      "comments": "\n              18 comments",
       "index": 9
     },
     {
@@ -72,10 +72,10 @@
       "index": 10
     },
     {
-      "title": "Dijkstra on the foolishness of natural language programming (1978)",
-      "href": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "title": "A Year of Gentoo",
+      "href": "https://arch.dog/bark/year-of-gentoo",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              18 comments",
       "index": 11
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
-      "title": "A new breed of analyzers",
-      "href": "https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/",
+      "title": "On the Health Effects of Electromagnetic Radiation",
+      "href": "https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment",
       "points": "",
-      "comments": "\n              15 comments",
+      "comments": "\n              2 comments",
       "index": 14
-    },
-    {
-      "title": "Igalia, Servo, and the Sovereign Tech Fund",
-      "href": "https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 15
-    },
-    {
-      "title": "lavandula: A fast, lightweight web framework in C for building modern web applications",
-      "href": "https://github.com/ashtonjamesd/lavandula",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 16
     },
     {
       "title": "WSL-For-FreeBSD: Experimental project to FreeBSD in WSL2",
       "href": "https://github.com/BalajeS/WSL-For-FreeBSD",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "A new breed of analyzers",
+      "href": "https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/",
+      "points": "",
+      "comments": "\n              15 comments",
+      "index": 16
+    },
+    {
+      "title": "Igalia, Servo, and the Sovereign Tech Fund",
+      "href": "https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html",
+      "points": "",
+      "comments": "\n              1 comment",
       "index": 17
+    },
+    {
+      "title": "lavandula: A fast, lightweight web framework in C for building modern web applications",
+      "href": "https://github.com/ashtonjamesd/lavandula",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 18
+    },
+    {
+      "title": "The European Accessibility Act will make the Web Better for Everyone",
+      "href": "https://denodell.com/blog/a-better-web-for-everyone-everywhere",
+      "points": "",
+      "comments": "\n              5 comments",
+      "index": 19
     },
     {
       "title": "Beyond the AI Hype: Guido van Rossum on Python’s Philosophy, Simplicity, and the Future of Programming",
       "href": "https://www.odbms.org/blog/2025/10/beyond-the-ai-hype-guido-van-rossum-on-pythons-philosophy-simplicity-and-the-future-of-programming/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 18
+      "index": 20
     },
     {
       "title": "w11: PDP-11/70 CPU core and SoC",
       "href": "https://github.com/wfjm/w11",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 19
-    },
-    {
-      "title": "On the Health Effects of Electromagnetic Radiation",
-      "href": "https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 20
-    },
-    {
-      "title": "Why aren't we recording pre-AI content using a PoE (Proof of Existence) protocol?",
-      "href": "/s/qurbh4/why_aren_t_we_recording_pre_ai_content",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 21
     },
     {
-      "title": "A Conversation Between Richard Feldman (Roc Creator) and Andrew Kelley (Zig Creator)",
-      "href": "https://www.youtube.com/watch?v=w74rC-6caxE",
+      "title": "Monument Engine: Jx",
+      "href": "https://www.monument.ai/m/parallel",
       "points": "",
-      "comments": "\n              11 comments",
+      "comments": "\n              no comments",
       "index": 22
-    },
-    {
-      "title": "Why I switched from HTMX to Datastar",
-      "href": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
-      "points": "",
-      "comments": "\n              19 comments",
-      "index": 23
     },
     {
       "title": "Let's Take Esoteric Programming Languages Seriously",
       "href": "https://arxiv.org/abs/2505.15327v2",
       "points": "",
       "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "A Conversation Between Richard Feldman (Roc Creator) and Andrew Kelley (Zig Creator)",
+      "href": "https://www.youtube.com/watch?v=w74rC-6caxE",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 24
     },
     {
-      "title": "Matrix Multiplication on Blackwell: Part 4 - Breaking SOTA",
-      "href": "https://www.modular.com/blog/matrix-multiplication-on-blackwell-part-4---breaking-sota",
+      "title": "Why aren't we recording pre-AI content using a PoE (Proof of Existence) protocol?",
+      "href": "/s/qurbh4/why_aren_t_we_recording_pre_ai_content",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              7 comments",
       "index": 25
     }
   ]
