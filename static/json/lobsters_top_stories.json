@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, October 12, 2025 at 8:20 AM GMT-5",
+  "date": "Sunday, October 12, 2025 at 9:15 AM GMT-5",
   "articles": [
     {
       "title": "Switch to Jujutsu already: a tutorial",
       "href": "https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/",
       "points": "",
-      "comments": "\n              14 comments",
+      "comments": "\n              17 comments",
       "index": 1
     },
     {
@@ -16,24 +16,24 @@
       "index": 2
     },
     {
-      "title": "Vibing a Non-Trivial Ghostty Feature",
-      "href": "https://mitchellh.com/writing/non-trivial-vibing",
-      "points": "",
-      "comments": "\n              24 comments",
-      "index": 3
-    },
-    {
       "title": "Three ways \"formally verified\" can go wrong",
       "href": "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 4
+      "index": 3
     },
     {
       "title": "The reason GCC is not a library (2000)",
       "href": "https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html",
       "points": "",
-      "comments": "\n              9 comments",
+      "comments": "\n              10 comments",
+      "index": 4
+    },
+    {
+      "title": "Vibing a Non-Trivial Ghostty Feature",
+      "href": "https://mitchellh.com/writing/non-trivial-vibing",
+      "points": "",
+      "comments": "\n              26 comments",
       "index": 5
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "My Django On The Med 2025",
-      "href": "https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 8
-    },
-    {
       "title": "Testing two 18 TB white label SATA hard drives from datablocks.dev",
       "href": "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/",
       "points": "",
       "comments": "\n              5 comments",
+      "index": 8
+    },
+    {
+      "title": "My Django On The Med 2025",
+      "href": "https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 9
     },
     {
@@ -82,7 +82,7 @@
       "title": "The European Accessibility Act will make the Web Better for Everyone",
       "href": "https://denodell.com/blog/a-better-web-for-everyone-everywhere",
       "points": "",
-      "comments": "\n              16 comments",
+      "comments": "\n              17 comments",
       "index": 12
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
+      "title": "I'd like to speak to the Bellcore ManaGeR",
+      "href": "https://www.ninakalinina.com/notes/mgr/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 15
+    },
+    {
       "title": "How to check for overlapping intervals",
       "href": "https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/",
       "points": "",
       "comments": "\n              44 comments",
-      "index": 15
+      "index": 16
     },
     {
       "title": "WSL-For-FreeBSD: Experimental project to FreeBSD in WSL2",
       "href": "https://github.com/BalajeS/WSL-For-FreeBSD",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Tinymist is an integrated language service for Typst",
       "href": "https://myriad-dreamin.github.io/tinymist/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Why it took 4 years to get a lock files specification",
       "href": "https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 18
+      "index": 19
     },
     {
       "title": "OCaml 5.4 Release: New Features, Fixes, and More",
       "href": "https://tarides.com/blog/2025-10-10-ocaml-5-4-release-new-features-fixes-and-more/",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Less is More: Recursive Reasoning with Tiny Networks",
       "href": "https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Eon -  an Effects-based OCaml Nameserver",
       "href": "https://ryan.freumh.org/eon.html",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Notes on switching to Helix from vim",
       "href": "https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/",
       "points": "",
       "comments": "\n              46 comments",
-      "index": 22
+      "index": 23
     },
     {
       "title": "DebDroid - Debian on Android (v1.1)",
       "href": "https://github.com/NICUP14/DebDroid",
       "points": "",
       "comments": "\n              1 comment",
-      "index": 23
+      "index": 24
     },
     {
       "title": "ksmbd - Exploiting CVE-2025-37947",
       "href": "https://blog.doyensec.com/2025/10/08/ksmbd-3.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "A Year of Gentoo",
-      "href": "https://arch.dog/bark/year-of-gentoo",
-      "points": "",
-      "comments": "\n              19 comments",
       "index": 25
     }
   ]
