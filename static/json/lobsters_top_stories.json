@@ -1,25 +1,25 @@
 {
-  "date": "Sunday, October 12, 2025 at 4:15 PM GMT-5",
+  "date": "Sunday, October 12, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "Switch to Jujutsu already: a tutorial",
       "href": "https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/",
       "points": "",
-      "comments": "\n              49 comments",
+      "comments": "\n              51 comments",
       "index": 1
+    },
+    {
+      "title": "The Country That Broke Kotlin",
+      "href": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 2
     },
     {
       "title": "fzf 0.66.0 introduces “--raw mode”",
       "href": "https://github.com/junegunn/fzf/releases/tag/v0.66.0",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 2
-    },
-    {
-      "title": "The Country That Broke Kotlin",
-      "href": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 3
     },
     {
@@ -65,17 +65,17 @@
       "index": 9
     },
     {
-      "title": "Vibing a Non-Trivial Ghostty Feature",
-      "href": "https://mitchellh.com/writing/non-trivial-vibing",
-      "points": "",
-      "comments": "\n              33 comments",
-      "index": 10
-    },
-    {
       "title": "Abstraction, not syntax",
       "href": "https://ruudvanasseldonk.com/2025/abstraction-not-syntax",
       "points": "",
       "comments": "\n              no comments",
+      "index": 10
+    },
+    {
+      "title": "Vibing a Non-Trivial Ghostty Feature",
+      "href": "https://mitchellh.com/writing/non-trivial-vibing",
+      "points": "",
+      "comments": "\n              33 comments",
       "index": 11
     },
     {
@@ -100,78 +100,78 @@
       "index": 14
     },
     {
-      "title": "Dijkstra on the foolishness of natural language programming (1978)",
-      "href": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "points": "",
-      "comments": "\n              17 comments",
-      "index": 15
-    },
-    {
       "title": "Sharp Bilinear Filters: Big Clean Pixels for Pixel Art",
       "href": "https://bumbershootsoft.wordpress.com/2025/10/11/sharp-bilinear-filters-big-clean-pixels-for-pixel-art/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 15
+    },
+    {
+      "title": "Dijkstra on the foolishness of natural language programming (1978)",
+      "href": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "points": "",
+      "comments": "\n              18 comments",
       "index": 16
-    },
-    {
-      "title": "My Django On The Med 2025",
-      "href": "https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "C2BF: A C-to-Brainfuck compiler written in Rust",
-      "href": "https://iacgm.pages.dev/posts/c2bf/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
-    },
-    {
-      "title": "Satisfaction of Render Pipelines",
-      "href": "https://azeemba.com/posts/satisfaction-of-render-pipelines.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Burrows-Wheeler Transform (BWT)",
-      "href": "https://sandbox.bio/concepts/bwt",
-      "points": "",
-      "comments": "\n              1 comment",
-      "index": 20
-    },
-    {
-      "title": "HTML’s Best Kept Secret: The output Tag",
-      "href": "https://denodell.com/blog/html-best-kept-secret-output-tag",
-      "points": "",
-      "comments": "\n              4 comments",
-      "index": 21
     },
     {
       "title": "Django: Introducing django-http-compression - Adam Johnson",
       "href": "https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "From Source to Sorcery - Kotlin Native's Interop Magic",
-      "href": "https://staticvar.dev/post/kotlin-native-c-interop/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
+      "index": 17
     },
     {
       "title": "Why, in 2025, do we still need a 3rd party app to write a REST API with Django?",
       "href": "https://emma.has-a.blog/articles/why-do-we-need-an-external-app-for-rest.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
+      "index": 18
     },
     {
       "title": "Building multi-step login forms that work well with password managers",
       "href": "https://evertpot.com/multi-step-login-forms-for-password-managers/",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 19
+    },
+    {
+      "title": "My Django On The Med 2025",
+      "href": "https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "C2BF: A C-to-Brainfuck compiler written in Rust",
+      "href": "https://iacgm.pages.dev/posts/c2bf/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Satisfaction of Render Pipelines",
+      "href": "https://azeemba.com/posts/satisfaction-of-render-pipelines.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
+    },
+    {
+      "title": "Burrows-Wheeler Transform (BWT)",
+      "href": "https://sandbox.bio/concepts/bwt",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 23
+    },
+    {
+      "title": "HTML’s Best Kept Secret: The output Tag",
+      "href": "https://denodell.com/blog/html-best-kept-secret-output-tag",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 24
+    },
+    {
+      "title": "From Source to Sorcery - Kotlin Native's Interop Magic",
+      "href": "https://staticvar.dev/post/kotlin-native-c-interop/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
