@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, October 12, 2025 at 5:15 AM GMT-5",
+  "date": "Sunday, October 12, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "Meta Superintelligence's surprising first paper",
       "href": "https://paddedinputs.substack.com/p/meta-superintelligences-surprising",
-      "points": "286 points",
-      "comments": "152 comments",
+      "points": "304 points",
+      "comments": "166 comments",
       "index": 1
     },
     {
       "title": "Pipelining in psql (PostgreSQL 18)",
       "href": "https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html",
-      "points": "78 points",
+      "points": "95 points",
       "comments": "13 comments",
       "index": 2
     },
     {
+      "title": "4x faster LLM inference (Flash Attention guy's company)",
+      "href": "https://www.together.ai/blog/adaptive-learning-speculator-system-atlas",
+      "points": "19 points",
+      "comments": "discuss",
+      "index": 3
+    },
+    {
+      "title": "Macro Gaussian Splats",
+      "href": "https://danybittel.ch/macro.html",
+      "points": "5 points",
+      "comments": "discuss",
+      "index": 4
+    },
+    {
       "title": "The Flummoxagon",
       "href": "https://n-e-r-v-o-u-s.com/blog/?p=9827",
-      "points": "29 points",
+      "points": "43 points",
       "comments": "5 comments",
-      "index": 3
+      "index": 5
     },
     {
       "title": "Show HN: Sober not Sorry – free iOS tracker to help you quit bad habits",
       "href": "https://sobernotsorry.app/",
-      "points": "21 points",
-      "comments": "14 comments",
-      "index": 4
+      "points": "32 points",
+      "comments": "30 comments",
+      "index": 6
     },
     {
       "title": "Show HN: Rift – A tiling window manager for macOS",
       "href": "https://github.com/acsandmann/rift",
-      "points": "135 points",
-      "comments": "62 comments",
-      "index": 5
+      "points": "148 points",
+      "comments": "69 comments",
+      "index": 7
     },
     {
       "title": "I/O Multiplexing (select vs. poll vs. epoll/kqueue)",
       "href": "https://nima101.github.io/io_multiplexing",
-      "points": "46 points",
-      "comments": "11 comments",
-      "index": 6
+      "points": "58 points",
+      "comments": "13 comments",
+      "index": 8
+    },
+    {
+      "title": "C++ Reflection and Qt MOC",
+      "href": "https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc",
+      "points": "6 points",
+      "comments": "discuss",
+      "index": 9
     },
     {
       "title": "Coral Protocol: Open infrastructure connecting the internet of agents",
       "href": "https://arxiv.org/abs/2505.00749",
-      "points": "24 points",
-      "comments": "3 comments",
-      "index": 7
+      "points": "27 points",
+      "comments": "6 comments",
+      "index": 10
+    },
+    {
+      "title": "Nostr and ATProto (2024)",
+      "href": "https://shreyanjain.net/2024/07/05/nostr-and-atproto.html",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 11
     },
     {
       "title": "Ask HN: Abandoned/dead projects you think died before their time and why?",
       "href": "item?id=45553132",
-      "points": "130 points",
-      "comments": "384 comments",
-      "index": 8
+      "points": "139 points",
+      "comments": "430 comments",
+      "index": 12
     },
     {
       "title": "Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]",
       "href": "https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf",
-      "points": "91 points",
-      "comments": "40 comments",
-      "index": 9
+      "points": "98 points",
+      "comments": "43 comments",
+      "index": 13
     },
     {
       "title": "Anthropic's Prompt Engineering Tutorial",
       "href": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "points": "157 points",
-      "comments": "15 comments",
-      "index": 10
-    },
-    {
-      "title": "The World's 2.75B Buildings",
-      "href": "https://tech.marksblogg.com/building-footprints-gba.html",
-      "points": "55 points",
-      "comments": "21 comments",
-      "index": 11
+      "points": "173 points",
+      "comments": "20 comments",
+      "index": 14
     },
     {
       "title": "Show HN: A Lisp Interpreter for Shell Scripting",
       "href": "https://github.com/gue-ni/redstart",
-      "points": "54 points",
-      "comments": "7 comments",
-      "index": 12
+      "points": "61 points",
+      "comments": "10 comments",
+      "index": 15
+    },
+    {
+      "title": "The World's 2.75B Buildings",
+      "href": "https://tech.marksblogg.com/building-footprints-gba.html",
+      "points": "64 points",
+      "comments": "26 comments",
+      "index": 16
     },
     {
       "title": "Paper2Video: Automatic Video Generation from Scientific Papers",
       "href": "https://arxiv.org/abs/2510.05096",
-      "points": "49 points",
+      "points": "55 points",
       "comments": "12 comments",
-      "index": 13
+      "index": 17
     },
     {
       "title": "A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS",
       "href": "https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/",
-      "points": "84 points",
+      "points": "90 points",
       "comments": "10 comments",
-      "index": 14
+      "index": 18
     },
     {
       "title": "Microsoft only lets you opt out of AI photo scanning 3x a year",
       "href": "https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users",
-      "points": "618 points",
-      "comments": "213 comments",
-      "index": 15
-    },
-    {
-      "title": "LineageOS 23",
-      "href": "https://lineageos.org/Changelog-30/",
-      "points": "236 points",
-      "comments": "92 comments",
-      "index": 16
-    },
-    {
-      "title": "Blossom – Heroku-like deploys on your servers; cheaper, no lock-in",
-      "href": "https://www.blossom88.com",
-      "points": "5 points",
-      "comments": "2 comments",
-      "index": 17
-    },
-    {
-      "title": "Testing two 18 TB white label SATA hard drives from datablocks.dev",
-      "href": "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/",
-      "points": "180 points",
-      "comments": "106 comments",
-      "index": 18
-    },
-    {
-      "title": "Spyware maker NSO Group confirms acquisition by US investors",
-      "href": "https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/",
-      "points": "106 points",
-      "comments": "68 comments",
+      "points": "640 points",
+      "comments": "219 comments",
       "index": 19
-    },
-    {
-      "title": "Floating Electrons on a Sea of Helium",
-      "href": "https://arstechnica.com/science/2025/10/new-qubit-tech-traps-single-electrons-on-liquid-helium/",
-      "points": "7 points",
-      "comments": "discuss",
-      "index": 20
     },
     {
       "title": "CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code",
       "href": "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code",
-      "points": "40 points",
-      "comments": "9 comments",
+      "points": "48 points",
+      "comments": "10 comments",
+      "index": 20
+    },
+    {
+      "title": "Testing two 18 TB white label SATA hard drives from datablocks.dev",
+      "href": "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/",
+      "points": "182 points",
+      "comments": "109 comments",
       "index": 21
+    },
+    {
+      "title": "Show HN: I made an esoteric programming language that's read like a spellbook",
+      "href": "https://github.com/sirbread/spellscript",
+      "points": "21 points",
+      "comments": "1 comment",
+      "index": 22
+    },
+    {
+      "title": "LineageOS 23",
+      "href": "https://lineageos.org/Changelog-30/",
+      "points": "243 points",
+      "comments": "94 comments",
+      "index": 23
     },
     {
       "title": "Windows Subsystem for FreeBSD",
       "href": "https://github.com/BalajeS/WSL-For-FreeBSD",
-      "points": "260 points",
+      "points": "261 points",
       "comments": "107 comments",
-      "index": 22
-    },
-    {
-      "title": "Google blocks Android hack that let Pixel users enable VoLTE anywhere",
-      "href": "https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/",
-      "points": "162 points",
-      "comments": "54 comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Superpowers: How I'm using coding agents in October 2025",
       "href": "https://blog.fsck.com/2025/10/09/superpowers/",
-      "points": "357 points",
-      "comments": "186 comments",
-      "index": 24
+      "points": "362 points",
+      "comments": "191 comments",
+      "index": 25
     },
     {
-      "title": "The World Trade Center under construction through photos, 1966-1979",
-      "href": "https://rarehistoricalphotos.com/twin-towers-construction-photographs/",
-      "points": "215 points",
-      "comments": "103 comments",
-      "index": 25
+      "title": "Google blocks Android hack that let Pixel users enable VoLTE anywhere",
+      "href": "https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/",
+      "points": "170 points",
+      "comments": "59 comments",
+      "index": 26
     },
     {
       "title": "The <output> Tag",
       "href": "https://denodell.com/blog/html-best-kept-secret-output-tag",
-      "points": "765 points",
-      "comments": "170 comments",
-      "index": 26
+      "points": "769 points",
+      "comments": "171 comments",
+      "index": 27
     },
     {
-      "title": "How Apple designs a virtual knob (2012)",
-      "href": "https://jherrm.github.io/knobs/",
-      "points": "142 points",
-      "comments": "91 comments",
-      "index": 27
+      "title": "The World Trade Center under construction through photos, 1966-1979",
+      "href": "https://rarehistoricalphotos.com/twin-towers-construction-photographs/",
+      "points": "217 points",
+      "comments": "105 comments",
+      "index": 28
     },
     {
       "title": "Vibing a non-trivial Ghostty feature",
       "href": "https://mitchellh.com/writing/non-trivial-vibing",
-      "points": "267 points",
-      "comments": "124 comments",
-      "index": 28
-    },
-    {
-      "title": "Beyond indexes: How open table formats optimize query performance",
-      "href": "https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance",
-      "points": "62 points",
-      "comments": "2 comments",
+      "points": "273 points",
+      "comments": "126 comments",
       "index": 29
     },
     {
-      "title": "The App Store was always authoritarian",
-      "href": "https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/",
-      "points": "102 points",
-      "comments": "64 comments",
+      "title": "How Apple designs a virtual knob (2012)",
+      "href": "https://jherrm.github.io/knobs/",
+      "points": "144 points",
+      "comments": "91 comments",
       "index": 30
     }
   ]
