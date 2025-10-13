@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, October 12, 2025 at 8:40 PM GMT-5",
+  "date": "Sunday, October 12, 2025 at 10:10 PM GMT-5",
   "articles": [
     {
       "title": "Switch to Jujutsu already: a tutorial",
       "href": "https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/",
       "points": "",
-      "comments": "\n              55 comments",
+      "comments": "\n              57 comments",
       "index": 1
     },
     {
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
+      "title": "Abstraction, not syntax",
+      "href": "https://ruudvanasseldonk.com/2025/abstraction-not-syntax",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 5
+    },
+    {
       "title": "Introducing oavif: faster target quality image compression",
       "href": "https://giannirosato.com/blog/post/oavif/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 5
+      "index": 6
     },
     {
       "title": "I'd like to speak to the Bellcore ManaGeR",
       "href": "https://www.ninakalinina.com/notes/mgr/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 6
-    },
-    {
-      "title": "Abstraction, not syntax",
-      "href": "https://ruudvanasseldonk.com/2025/abstraction-not-syntax",
-      "points": "",
-      "comments": "\n              2 comments",
       "index": 7
     },
     {
@@ -72,87 +72,87 @@
       "index": 10
     },
     {
+      "title": "Why, in 2025, do we still need a 3rd party app to write a REST API with Django?",
+      "href": "https://emma.has-a.blog/articles/why-do-we-need-an-external-app-for-rest.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
       "title": "NSA and IETF: Can an attacker simply purchase standardization of weakened cryptography?",
       "href": "https://blog.cr.yp.to/20251004-weakened.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Vibing a Non-Trivial Ghostty Feature",
       "href": "https://mitchellh.com/writing/non-trivial-vibing",
       "points": "",
       "comments": "\n              36 comments",
-      "index": 12
-    },
-    {
-      "title": "Why, in 2025, do we still need a 3rd party app to write a REST API with Django?",
-      "href": "https://emma.has-a.blog/articles/why-do-we-need-an-external-app-for-rest.html",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 13
-    },
-    {
-      "title": "LineageOS 23 released",
-      "href": "https://lineageos.org/Changelog-30/",
-      "points": "",
-      "comments": "\n              5 comments",
-      "index": 14
-    },
-    {
-      "title": "Satisfaction of Render Pipelines",
-      "href": "https://azeemba.com/posts/satisfaction-of-render-pipelines.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 15
-    },
-    {
-      "title": "Sharp Bilinear Filters: Big Clean Pixels for Pixel Art",
-      "href": "https://bumbershootsoft.wordpress.com/2025/10/11/sharp-bilinear-filters-big-clean-pixels-for-pixel-art/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 16
-    },
-    {
-      "title": "C2BF: A C-to-Brainfuck compiler written in Rust",
-      "href": "https://iacgm.pages.dev/posts/c2bf/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "Testing two 18 TB white label SATA hard drives from datablocks.dev",
-      "href": "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 18
-    },
-    {
-      "title": "Next.js is not a good fit for vibe engineering",
-      "href": "https://fabianlindfors.se/blog/nextjs-vibe-engineering/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 19
-    },
-    {
-      "title": "Dijkstra on the foolishness of natural language programming (1978)",
-      "href": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "points": "",
-      "comments": "\n              18 comments",
-      "index": 20
-    },
-    {
-      "title": "Django: Introducing django-http-compression - Adam Johnson",
-      "href": "https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 21
     },
     {
       "title": "Building multi-step login forms that work well with password managers",
       "href": "https://evertpot.com/multi-step-login-forms-for-password-managers/",
       "points": "",
       "comments": "\n              3 comments",
+      "index": 14
+    },
+    {
+      "title": "LineageOS 23 released",
+      "href": "https://lineageos.org/Changelog-30/",
+      "points": "",
+      "comments": "\n              6 comments",
+      "index": 15
+    },
+    {
+      "title": "C2BF: A C-to-Brainfuck compiler written in Rust",
+      "href": "https://iacgm.pages.dev/posts/c2bf/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 16
+    },
+    {
+      "title": "Satisfaction of Render Pipelines",
+      "href": "https://azeemba.com/posts/satisfaction-of-render-pipelines.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Sharp Bilinear Filters: Big Clean Pixels for Pixel Art",
+      "href": "https://bumbershootsoft.wordpress.com/2025/10/11/sharp-bilinear-filters-big-clean-pixels-for-pixel-art/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Testing two 18 TB white label SATA hard drives from datablocks.dev",
+      "href": "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/",
+      "points": "",
+      "comments": "\n              7 comments",
+      "index": 19
+    },
+    {
+      "title": "Next.js is not a good fit for vibe engineering",
+      "href": "https://fabianlindfors.se/blog/nextjs-vibe-engineering/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Dijkstra on the foolishness of natural language programming (1978)",
+      "href": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "points": "",
+      "comments": "\n              20 comments",
+      "index": 21
+    },
+    {
+      "title": "Django: Introducing django-http-compression - Adam Johnson",
+      "href": "https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 22
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "HTML’s Best Kept Secret: The output Tag",
-      "href": "https://denodell.com/blog/html-best-kept-secret-output-tag",
+      "title": "From Source to Sorcery - Kotlin Native's Interop Magic",
+      "href": "https://staticvar.dev/post/kotlin-native-c-interop/",
       "points": "",
-      "comments": "\n              4 comments",
+      "comments": "\n              no comments",
       "index": 25
     }
   ]
