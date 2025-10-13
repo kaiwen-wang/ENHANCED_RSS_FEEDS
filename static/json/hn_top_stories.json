@@ -1,214 +1,214 @@
 {
-  "date": "Monday, October 13, 2025 at 4:25 AM GMT-5",
+  "date": "Monday, October 13, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
-      "title": "Wireguard FPGA",
-      "href": "https://github.com/chili-chips-ba/wireguard-fpga",
-      "points": "514 points",
-      "comments": "127 comments",
+      "title": "Spotlight on pdfly, the Swiss Army knife for PDF files",
+      "href": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html",
+      "points": "42 points",
+      "comments": "3 comments",
       "index": 1
     },
     {
-      "title": "Putting a Dumb Weather Station on the Internet",
-      "href": "https://colincogle.name/blog/byo-weather-station/",
-      "points": "30 points",
-      "comments": "7 comments",
+      "title": "LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives",
+      "href": "https://arxiv.org/abs/2510.03761",
+      "points": "12 points",
+      "comments": "1 comment",
       "index": 2
+    },
+    {
+      "title": "Wireguard FPGA",
+      "href": "https://github.com/chili-chips-ba/wireguard-fpga",
+      "points": "534 points",
+      "comments": "130 comments",
+      "index": 3
     },
     {
       "title": "Tauri binding for Python through Pyo3",
       "href": "https://github.com/pytauri/pytauri",
-      "points": "94 points",
-      "comments": "9 comments",
-      "index": 3
+      "points": "102 points",
+      "comments": "14 comments",
+      "index": 4
     },
     {
-      "title": "Spotlight on pdfly, the Swiss Army knife for PDF files",
-      "href": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html",
-      "points": "3 points",
-      "comments": "discuss",
-      "index": 4
+      "title": "Putting a Dumb Weather Station on the Internet",
+      "href": "https://colincogle.name/blog/byo-weather-station/",
+      "points": "38 points",
+      "comments": "8 comments",
+      "index": 5
+    },
+    {
+      "title": "German industrial output falls to 2005 levels as auto sector craters",
+      "href": "https://www.ft.com/content/745fff84-2cbf-491c-b70c-e39bc8edaa39",
+      "points": "32 points",
+      "comments": "32 comments",
+      "index": 6
     },
     {
       "title": "Ask HN: What are you working on? (October 2025)",
       "href": "item?id=45561428",
-      "points": "218 points",
-      "comments": "589 comments",
-      "index": 5
+      "points": "226 points",
+      "comments": "626 comments",
+      "index": 7
     },
     {
       "title": "MicroPythonOS – An Android-like OS for microcontrollers",
       "href": "https://micropythonos.com",
-      "points": "93 points",
+      "points": "99 points",
       "comments": "26 comments",
-      "index": 6
-    },
-    {
-      "title": "Show HN: Baby's first international landline",
-      "href": "https://wip.tf/posts/telefonefix-building-babys-first-international-landline/",
-      "points": "129 points",
-      "comments": "32 comments",
-      "index": 7
+      "index": 8
     },
     {
       "title": "HTTP3 Explained",
       "href": "https://http3-explained.haxx.se",
-      "points": "33 points",
-      "comments": "13 comments",
-      "index": 8
-    },
-    {
-      "title": "Emacs agent-shell (powered by ACP)",
-      "href": "https://xenodium.com/introducing-agent-shell",
-      "points": "170 points",
-      "comments": "21 comments",
+      "points": "56 points",
+      "comments": "29 comments",
       "index": 9
     },
     {
-      "title": "Three ways formally verified code can go wrong in practice",
-      "href": "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/",
-      "points": "129 points",
-      "comments": "76 comments",
+      "title": "Show HN: Baby's first international landline",
+      "href": "https://wip.tf/posts/telefonefix-building-babys-first-international-landline/",
+      "points": "141 points",
+      "comments": "35 comments",
       "index": 10
-    },
-    {
-      "title": "Bird photographer of the year gives a lesson in planning and patience",
-      "href": "https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/",
-      "points": "131 points",
-      "comments": "23 comments",
-      "index": 11
-    },
-    {
-      "title": "Database Linting and Analysis for PostgreSQL",
-      "href": "https://pglinter.readthedocs.io/en/latest/",
-      "points": "87 points",
-      "comments": "18 comments",
-      "index": 12
-    },
-    {
-      "title": "3D-Printed Automatic Weather Station",
-      "href": "https://3dpaws.comet.ucar.edu",
-      "points": "68 points",
-      "comments": "15 comments",
-      "index": 13
-    },
-    {
-      "title": "A years-long Turkish alphabet bug in the Kotlin compiler",
-      "href": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237",
-      "points": "112 points",
-      "comments": "113 comments",
-      "index": 14
-    },
-    {
-      "title": "Free software hasn't won",
-      "href": "https://dorotac.eu/posts/fosswon/",
-      "points": "243 points",
-      "comments": "299 comments",
-      "index": 15
-    },
-    {
-      "title": "Keyboard Holders, Generation 1",
-      "href": "https://cceckman.com/writing/keyboard-holders-gen1/",
-      "points": "38 points",
-      "comments": "discuss",
-      "index": 16
-    },
-    {
-      "title": "MAML – A new configuration language",
-      "href": "https://maml.dev/",
-      "points": "80 points",
-      "comments": "117 comments",
-      "index": 17
-    },
-    {
-      "title": "A better SQL validator and comparison with existing SQL validators",
-      "href": "https://app.sqlai.ai/posts/better-sql-validator/",
-      "points": "6 points",
-      "comments": "1 comment",
-      "index": 18
     },
     {
       "title": "Jeffrey Hudson the Court Dwarf of the English Queen Henrietta Maria of France",
       "href": "https://en.wikipedia.org/wiki/Jeffrey_Hudson",
-      "points": "4 points",
+      "points": "9 points",
+      "comments": "4 comments",
+      "index": 11
+    },
+    {
+      "title": "Emacs agent-shell (powered by ACP)",
+      "href": "https://xenodium.com/introducing-agent-shell",
+      "points": "182 points",
+      "comments": "22 comments",
+      "index": 12
+    },
+    {
+      "title": "Three ways formally verified code can go wrong in practice",
+      "href": "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/",
+      "points": "134 points",
+      "comments": "76 comments",
+      "index": 13
+    },
+    {
+      "title": "Bird photographer of the year gives a lesson in planning and patience",
+      "href": "https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/",
+      "points": "133 points",
+      "comments": "27 comments",
+      "index": 14
+    },
+    {
+      "title": "Database Linting and Analysis for PostgreSQL",
+      "href": "https://pglinter.readthedocs.io/en/latest/",
+      "points": "90 points",
+      "comments": "18 comments",
+      "index": 15
+    },
+    {
+      "title": "3D-Printed Automatic Weather Station",
+      "href": "https://3dpaws.comet.ucar.edu",
+      "points": "70 points",
+      "comments": "16 comments",
+      "index": 16
+    },
+    {
+      "title": "A years-long Turkish alphabet bug in the Kotlin compiler",
+      "href": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237",
+      "points": "119 points",
+      "comments": "118 comments",
+      "index": 17
+    },
+    {
+      "title": "MAML – A new configuration language",
+      "href": "https://maml.dev/",
+      "points": "88 points",
+      "comments": "125 comments",
+      "index": 18
+    },
+    {
+      "title": "Making regular GPS ultra-precise",
+      "href": "https://norwegianscitechnews.com/2025/10/making-regular-gps-ultra-precise/",
+      "points": "3 points",
       "comments": "discuss",
       "index": 19
     },
     {
-      "title": "For centuries massive meals amazed visitors to Korea (2019)",
-      "href": "https://www.atlasobscura.com/articles/history-of-korean-food",
-      "points": "103 points",
-      "comments": "49 comments",
+      "title": "An initial investigation into WDDM on ReactOS",
+      "href": "https://reactos.org/blogs/investigating-wddm/",
+      "points": "64 points",
+      "comments": "7 comments",
       "index": 20
     },
     {
-      "title": "An initial investigation into WDDM on ReactOS",
-      "href": "https://reactos.org/blogs/investigating-wddm/",
-      "points": "56 points",
-      "comments": "5 comments",
+      "title": "Free software hasn't won",
+      "href": "https://dorotac.eu/posts/fosswon/",
+      "points": "283 points",
+      "comments": "321 comments",
       "index": 21
+    },
+    {
+      "title": "Keyboard Holders, Generation 1",
+      "href": "https://cceckman.com/writing/keyboard-holders-gen1/",
+      "points": "40 points",
+      "comments": "discuss",
+      "index": 22
+    },
+    {
+      "title": "After 2 decades, are promises of a graphene revolution coming true?",
+      "href": "https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true",
+      "points": "10 points",
+      "comments": "2 comments",
+      "index": 23
+    },
+    {
+      "title": "For centuries massive meals amazed visitors to Korea (2019)",
+      "href": "https://www.atlasobscura.com/articles/history-of-korean-food",
+      "points": "109 points",
+      "comments": "55 comments",
+      "index": 24
     },
     {
       "title": "Novelty Automation",
       "href": "https://www.novelty-automation.com/",
-      "points": "41 points",
+      "points": "43 points",
       "comments": "9 comments",
-      "index": 22
-    },
-    {
-      "title": "The Tiny Teams Playbook",
-      "href": "https://www.latent.space/p/tiny",
-      "points": "108 points",
-      "comments": "31 comments",
-      "index": 23
+      "index": 25
     },
     {
       "title": "Show HN: I built a simple ambient sound app with no ads or subscriptions",
       "href": "https://ambisounds.app/",
-      "points": "199 points",
-      "comments": "76 comments",
-      "index": 24
+      "points": "210 points",
+      "comments": "79 comments",
+      "index": 26
+    },
+    {
+      "title": "The Tiny Teams Playbook",
+      "href": "https://www.latent.space/p/tiny",
+      "points": "109 points",
+      "comments": "32 comments",
+      "index": 27
     },
     {
       "title": "Completing a BASIC language interpreter in 2025",
       "href": "https://nanochess.org/ecs_basic_2.html",
-      "points": "83 points",
-      "comments": "12 comments",
-      "index": 25
+      "points": "84 points",
+      "comments": "13 comments",
+      "index": 28
     },
     {
-      "title": "Countering Trusting Trust Through Diverse Double-Compiling (DDC)",
-      "href": "https://dwheeler.com/trusting-trust/",
-      "points": "27 points",
-      "comments": "3 comments",
-      "index": 26
+      "title": "A better SQL validator and comparison with existing SQL validators",
+      "href": "https://app.sqlai.ai/posts/better-sql-validator/",
+      "points": "9 points",
+      "comments": "1 comment",
+      "index": 29
     },
     {
       "title": "John Searle has died",
       "href": "https://www.nytimes.com/2025/10/12/books/john-searle-dead.html",
-      "points": "105 points",
-      "comments": "86 comments",
-      "index": 27
-    },
-    {
-      "title": "Show HN: Aidlab – Health Data for Devs",
-      "href": "item?id=45549392",
-      "points": "25 points",
-      "comments": "8 comments",
-      "index": 28
-    },
-    {
-      "title": "Constraint satisfaction to optimize item selection for bundles in Minecraft",
-      "href": "https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/",
-      "points": "36 points",
-      "comments": "11 comments",
-      "index": 29
-    },
-    {
-      "title": "A whirlwind introduction to dataflow graphs (2018)",
-      "href": "https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/",
-      "points": "32 points",
-      "comments": "discuss",
+      "points": "113 points",
+      "comments": "97 comments",
       "index": 30
     }
   ]

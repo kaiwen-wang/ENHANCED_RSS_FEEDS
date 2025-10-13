@@ -1,25 +1,25 @@
 {
-  "date": "Monday, October 13, 2025 at 4:25 AM GMT-5",
+  "date": "Monday, October 13, 2025 at 5:20 AM GMT-5",
   "articles": [
+    {
+      "title": "Critical GitHub Copilot Vulnerability Leaks Private Source Code",
+      "href": "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 1
+    },
     {
       "title": "The Country That Broke Kotlin",
       "href": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 1
+      "index": 2
     },
     {
       "title": "NSA and IETF: Can an attacker simply purchase standardization of weakened cryptography?",
       "href": "https://blog.cr.yp.to/20251004-weakened.html",
       "points": "",
-      "comments": "\n              4 comments",
-      "index": 2
-    },
-    {
-      "title": "Critical GitHub Copilot Vulnerability Leaks Private Source Code",
-      "href": "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              5 comments",
       "index": 3
     },
     {
@@ -51,52 +51,52 @@
       "index": 7
     },
     {
+      "title": "JIT: so you want to be faster than an interpreter on modern CPUs…",
+      "href": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 8
+    },
+    {
       "title": "Find where a specific object was allocated in JavaScript with DevTools",
       "href": "http://heikkila.dev/blog/find-where-a-specific-object-was-allocated-in-javascript/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 8
+      "index": 9
     },
     {
       "title": "The reason GCC is not a library (2000)",
       "href": "https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html",
       "points": "",
       "comments": "\n              26 comments",
-      "index": 9
+      "index": 10
+    },
+    {
+      "title": "smolBSD — build your own minimal BSD system",
+      "href": "https://smolbsd.org",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 11
+    },
+    {
+      "title": "Strudel REPL - a music live coding environment living in the browser",
+      "href": "https://strudel.cc",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 12
     },
     {
       "title": "Introducing oavif: faster target quality image compression",
       "href": "https://giannirosato.com/blog/post/oavif/",
       "points": "",
       "comments": "\n              3 comments",
-      "index": 10
+      "index": 13
     },
     {
       "title": "Using Constraint Satisfaction to Optimize Item Selection for Bundles in Minecraft",
       "href": "https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 11
-    },
-    {
-      "title": "JIT: so you want to be faster than an interpreter on modern CPUs…",
-      "href": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 12
-    },
-    {
-      "title": "Building multi-step login forms that work well with password managers",
-      "href": "https://evertpot.com/multi-step-login-forms-for-password-managers/",
-      "points": "",
-      "comments": "\n              3 comments",
-      "index": 13
-    },
-    {
-      "title": "I'd like to speak to the Bellcore ManaGeR",
-      "href": "https://www.ninakalinina.com/notes/mgr/",
-      "points": "",
-      "comments": "\n              3 comments",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
-      "title": "Strudel REPL - a music live coding environment living in the browser",
-      "href": "https://strudel.cc",
+      "title": "Building multi-step login forms that work well with password managers",
+      "href": "https://evertpot.com/multi-step-login-forms-for-password-managers/",
       "points": "",
-      "comments": "\n              1 comment",
+      "comments": "\n              3 comments",
       "index": 16
     },
     {
-      "title": "Three ways \"formally verified\" can go wrong",
-      "href": "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/",
+      "title": "I'd like to speak to the Bellcore ManaGeR",
+      "href": "https://www.ninakalinina.com/notes/mgr/",
       "points": "",
-      "comments": "\n              8 comments",
+      "comments": "\n              3 comments",
       "index": 17
-    },
-    {
-      "title": "Why, in 2025, do we still need a 3rd party app to write a REST API with Django?",
-      "href": "https://emma.has-a.blog/articles/why-do-we-need-an-external-app-for-rest.html",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 18
     },
     {
       "title": "The little Random that could",
       "href": "https://blog.julik.nl/2025/10/the-little-random-that-could",
       "points": "",
       "comments": "\n              no comments",
+      "index": 18
+    },
+    {
+      "title": "Three ways \"formally verified\" can go wrong",
+      "href": "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/",
+      "points": "",
+      "comments": "\n              8 comments",
       "index": 19
+    },
+    {
+      "title": "Why, in 2025, do we still need a 3rd party app to write a REST API with Django?",
+      "href": "https://emma.has-a.blog/articles/why-do-we-need-an-external-app-for-rest.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Matrices can be your Friends",
+      "href": "https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
+      "title": "Revisiting SailfishOS",
+      "href": "https://geekyschmidt.com/post/sailfishos-sept25/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 22
     },
     {
       "title": "C2BF: A C-to-Brainfuck compiler written in Rust",
       "href": "https://iacgm.pages.dev/posts/c2bf/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Liquid Glass Is Cracked, and Usability Suffers in iOS 26",
       "href": "https://www.nngroup.com/articles/liquid-glass/",
       "points": "",
       "comments": "\n              39 comments",
-      "index": 21
+      "index": 24
     },
     {
       "title": "Debugging a Go runtime crash: the one-instruction window",
       "href": "https://www.nsrip.com/posts/oneinstruction.html",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Next.js is not a good fit for vibe engineering",
-      "href": "https://fabianlindfors.se/blog/nextjs-vibe-engineering/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "Vibing a Non-Trivial Ghostty Feature",
-      "href": "https://mitchellh.com/writing/non-trivial-vibing",
-      "points": "",
-      "comments": "\n              39 comments",
-      "index": 24
-    },
-    {
-      "title": "LineageOS 23 released",
-      "href": "https://lineageos.org/Changelog-30/",
-      "points": "",
-      "comments": "\n              7 comments",
       "index": 25
     }
   ]
