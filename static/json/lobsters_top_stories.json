@@ -1,5 +1,5 @@
 {
-  "date": "Monday, October 13, 2025 at 3:30 AM GMT-5",
+  "date": "Monday, October 13, 2025 at 4:25 AM GMT-5",
   "articles": [
     {
       "title": "The Country That Broke Kotlin",
@@ -9,50 +9,50 @@
       "index": 1
     },
     {
+      "title": "NSA and IETF: Can an attacker simply purchase standardization of weakened cryptography?",
+      "href": "https://blog.cr.yp.to/20251004-weakened.html",
+      "points": "",
+      "comments": "\n              4 comments",
+      "index": 2
+    },
+    {
+      "title": "Critical GitHub Copilot Vulnerability Leaks Private Source Code",
+      "href": "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 3
+    },
+    {
       "title": "Switch to Jujutsu already: a tutorial",
       "href": "https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/",
       "points": "",
       "comments": "\n              67 comments",
-      "index": 2
+      "index": 4
     },
     {
       "title": "Abstraction, not syntax",
       "href": "https://ruudvanasseldonk.com/2025/abstraction-not-syntax",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 3
-    },
-    {
-      "title": "NSA and IETF: Can an attacker simply purchase standardization of weakened cryptography?",
-      "href": "https://blog.cr.yp.to/20251004-weakened.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 4
+      "comments": "\n              16 comments",
+      "index": 5
     },
     {
       "title": "Wireguard FPGA",
       "href": "https://github.com/chili-chips-ba/wireguard-fpga",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 5
+      "comments": "\n              1 comment",
+      "index": 6
     },
     {
       "title": "fzf 0.66.0 introduces “--raw mode”",
       "href": "https://github.com/junegunn/fzf/releases/tag/v0.66.0",
       "points": "",
       "comments": "\n              5 comments",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Find where a specific object was allocated in JavaScript with DevTools",
       "href": "http://heikkila.dev/blog/find-where-a-specific-object-was-allocated-in-javascript/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 7
-    },
-    {
-      "title": "Critical GitHub Copilot Vulnerability Leaks Private Source Code",
-      "href": "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code",
       "points": "",
       "comments": "\n              no comments",
       "index": 8
@@ -79,10 +79,10 @@
       "index": 11
     },
     {
-      "title": "I'd like to speak to the Bellcore ManaGeR",
-      "href": "https://www.ninakalinina.com/notes/mgr/",
+      "title": "JIT: so you want to be faster than an interpreter on modern CPUs…",
+      "href": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/",
       "points": "",
-      "comments": "\n              3 comments",
+      "comments": "\n              no comments",
       "index": 12
     },
     {
@@ -93,15 +93,15 @@
       "index": 13
     },
     {
-      "title": "Git Developers Talk About Potentially Releasing Git 3.0 By The End Of Next Year",
-      "href": "https://www.phoronix.com/news/Git-3.0-Release-Talk-2026",
+      "title": "I'd like to speak to the Bellcore ManaGeR",
+      "href": "https://www.ninakalinina.com/notes/mgr/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              3 comments",
       "index": 14
     },
     {
-      "title": "JIT: so you want to be faster than an interpreter on modern CPUs…",
-      "href": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/",
+      "title": "Git Developers Talk About Potentially Releasing Git 3.0 By The End Of Next Year",
+      "href": "https://www.phoronix.com/news/Git-3.0-Release-Talk-2026",
       "points": "",
       "comments": "\n              no comments",
       "index": 15
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
-      "title": "Liquid Glass Is Cracked, and Usability Suffers in iOS 26",
-      "href": "https://www.nngroup.com/articles/liquid-glass/",
-      "points": "",
-      "comments": "\n              39 comments",
-      "index": 19
-    },
-    {
-      "title": "Debugging a Go runtime crash: the one-instruction window",
-      "href": "https://www.nsrip.com/posts/oneinstruction.html",
+      "title": "The little Random that could",
+      "href": "https://blog.julik.nl/2025/10/the-little-random-that-could",
       "points": "",
       "comments": "\n              no comments",
-      "index": 20
+      "index": 19
     },
     {
       "title": "C2BF: A C-to-Brainfuck compiler written in Rust",
       "href": "https://iacgm.pages.dev/posts/c2bf/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 20
+    },
+    {
+      "title": "Liquid Glass Is Cracked, and Usability Suffers in iOS 26",
+      "href": "https://www.nngroup.com/articles/liquid-glass/",
+      "points": "",
+      "comments": "\n              39 comments",
       "index": 21
     },
     {
-      "title": "Vibing a Non-Trivial Ghostty Feature",
-      "href": "https://mitchellh.com/writing/non-trivial-vibing",
+      "title": "Debugging a Go runtime crash: the one-instruction window",
+      "href": "https://www.nsrip.com/posts/oneinstruction.html",
       "points": "",
-      "comments": "\n              39 comments",
+      "comments": "\n              no comments",
       "index": 22
-    },
-    {
-      "title": "LineageOS 23 released",
-      "href": "https://lineageos.org/Changelog-30/",
-      "points": "",
-      "comments": "\n              7 comments",
-      "index": 23
     },
     {
       "title": "Next.js is not a good fit for vibe engineering",
       "href": "https://fabianlindfors.se/blog/nextjs-vibe-engineering/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 23
+    },
+    {
+      "title": "Vibing a Non-Trivial Ghostty Feature",
+      "href": "https://mitchellh.com/writing/non-trivial-vibing",
+      "points": "",
+      "comments": "\n              39 comments",
       "index": 24
     },
     {
-      "title": "Sharp Bilinear Filters: Big Clean Pixels for Pixel Art",
-      "href": "https://bumbershootsoft.wordpress.com/2025/10/11/sharp-bilinear-filters-big-clean-pixels-for-pixel-art/",
+      "title": "LineageOS 23 released",
+      "href": "https://lineageos.org/Changelog-30/",
       "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              7 comments",
       "index": 25
     }
   ]
