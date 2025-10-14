@@ -1,5 +1,5 @@
 {
-  "date": "Monday, October 13, 2025 at 8:25 PM GMT-5",
+  "date": "Monday, October 13, 2025 at 10:00 PM GMT-5",
   "articles": [
     {
       "title": "Critical GitHub Copilot Vulnerability Leaks Private Source Code",
@@ -26,7 +26,7 @@
       "title": "What Dynamic Typing Is For",
       "href": "https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/",
       "points": "",
-      "comments": "\n              6 comments",
+      "comments": "\n              8 comments",
       "index": 4
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
-      "title": "Revisiting SailfishOS",
-      "href": "https://geekyschmidt.com/post/sailfishos-sept25/",
-      "points": "",
-      "comments": "\n              13 comments",
-      "index": 6
-    },
-    {
       "title": "Free Software hasn't won",
       "href": "https://dorotac.eu/posts/fosswon/",
       "points": "",
       "comments": "\n              2 comments",
+      "index": 6
+    },
+    {
+      "title": "Revisiting SailfishOS",
+      "href": "https://geekyschmidt.com/post/sailfishos-sept25/",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 7
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
-      "title": "JIT: so you want to be faster than an interpreter on modern CPUs…",
-      "href": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/",
-      "points": "",
-      "comments": "\n              16 comments",
-      "index": 9
-    },
-    {
       "title": "The Peach meme: On CRTs, pixels and signal quality (again)",
       "href": "https://www.datagubbe.se/crt2/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 9
+    },
+    {
+      "title": "JIT: so you want to be faster than an interpreter on modern CPUs…",
+      "href": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/",
+      "points": "",
+      "comments": "\n              16 comments",
       "index": 10
     },
     {
@@ -142,36 +142,36 @@
       "index": 20
     },
     {
+      "title": "Find where a specific object was allocated in JavaScript with DevTools",
+      "href": "http://heikkila.dev/blog/find-where-a-specific-object-was-allocated-in-javascript/",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 21
+    },
+    {
       "title": "Switch to Jujutsu already: a tutorial",
       "href": "https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/",
       "points": "",
       "comments": "\n              89 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Git Developers Talk About Potentially Releasing Git 3.0 By The End Of Next Year",
       "href": "https://www.phoronix.com/news/Git-3.0-Release-Talk-2026",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
-    },
-    {
-      "title": "Litex: The First Formal Language Learnable in 2 Hours",
-      "href": "https://litexlang.com/",
-      "points": "",
-      "comments": "\n              4 comments",
       "index": 23
     },
     {
-      "title": "Find where a specific object was allocated in JavaScript with DevTools",
-      "href": "http://heikkila.dev/blog/find-where-a-specific-object-was-allocated-in-javascript/",
+      "title": "pglinter: Database linting and analysis for PostgreSQL",
+      "href": "https://pglinter.readthedocs.io/en/latest/",
       "points": "",
       "comments": "\n              no comments",
       "index": 24
     },
     {
-      "title": "Push the Button: Using LuaJIT + FFI + CoreBluetooth with an async design to automate a trivial task",
-      "href": "https://github.com/mogenson/switchbot.lua",
+      "title": "MPTCP / Multipath TCP for Linux",
+      "href": "https://www.mptcp.dev/",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
