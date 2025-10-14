@@ -1,88 +1,88 @@
 {
-  "date": "Tuesday, October 14, 2025 at 6:15 AM GMT-5",
+  "date": "Tuesday, October 14, 2025 at 7:40 AM GMT-5",
   "articles": [
+    {
+      "title": "Mergiraf - syntax-aware git merge driver",
+      "href": "https://mergiraf.org/",
+      "points": "",
+      "comments": "\n              3 comments",
+      "index": 1
+    },
     {
       "title": "zoo of array languages",
       "href": "https://ktye.github.io/",
       "points": "",
       "comments": "\n              2 comments",
-      "index": 1
+      "index": 2
     },
     {
       "title": "Critical GitHub Copilot Vulnerability Leaks Private Source Code",
       "href": "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code",
       "points": "",
-      "comments": "\n              13 comments",
-      "index": 2
+      "comments": "\n              14 comments",
+      "index": 3
     },
     {
       "title": "What Dynamic Typing Is For",
       "href": "https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/",
       "points": "",
-      "comments": "\n              14 comments",
-      "index": 3
+      "comments": "\n              16 comments",
+      "index": 4
     },
     {
       "title": "smolBSD — build your own minimal BSD system",
       "href": "https://smolbsd.org",
       "points": "",
       "comments": "\n              7 comments",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Free Software hasn't won",
       "href": "https://dorotac.eu/posts/fosswon/",
       "points": "",
-      "comments": "\n              5 comments",
-      "index": 5
-    },
-    {
-      "title": "Django forever · Applied Cartography",
-      "href": "https://jmduke.com/posts/post/django/",
-      "points": "",
-      "comments": "\n              no comments",
+      "comments": "\n              6 comments",
       "index": 6
-    },
-    {
-      "title": "Thoughts on Remix 3",
-      "href": "https://frantic.im/remix-3/",
-      "points": "",
-      "comments": "\n              33 comments",
-      "index": 7
     },
     {
       "title": "nitro: tiny but flexible init system and process supervisor",
       "href": "https://github.com/leahneukirchen/nitro",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 7
+    },
+    {
+      "title": "Django forever · Applied Cartography",
+      "href": "https://jmduke.com/posts/post/django/",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 8
     },
     {
-      "title": "Revisiting SailfishOS",
-      "href": "https://geekyschmidt.com/post/sailfishos-sept25/",
+      "title": "Thoughts on Remix 3",
+      "href": "https://frantic.im/remix-3/",
       "points": "",
-      "comments": "\n              13 comments",
+      "comments": "\n              33 comments",
       "index": 9
-    },
-    {
-      "title": "Demystifying Scala 3 Types By Bill Venners",
-      "href": "https://watch.softinio.com/w/6Ubx9SPfjXDH2yBke158R4",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 10
-    },
-    {
-      "title": "We need (at least) ergonomic, explicit handles",
-      "href": "https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/",
-      "points": "",
-      "comments": "\n              6 comments",
-      "index": 11
     },
     {
       "title": "Literate Tracing",
       "href": "https://arxiv.org/pdf/2510.09073",
       "points": "",
       "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
+      "title": "We need (at least) ergonomic, explicit handles",
+      "href": "https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/",
+      "points": "",
+      "comments": "\n              8 comments",
+      "index": 11
+    },
+    {
+      "title": "Revisiting SailfishOS",
+      "href": "https://geekyschmidt.com/post/sailfishos-sept25/",
+      "points": "",
+      "comments": "\n              13 comments",
       "index": 12
     },
     {
@@ -93,45 +93,45 @@
       "index": 13
     },
     {
+      "title": "Demystifying Scala 3 Types By Bill Venners",
+      "href": "https://watch.softinio.com/w/6Ubx9SPfjXDH2yBke158R4",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 14
+    },
+    {
       "title": "Strudel REPL - a music live coding environment living in the browser",
       "href": "https://strudel.cc",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "MPTCP / Multipath TCP for Linux",
       "href": "https://www.mptcp.dev/",
       "points": "",
       "comments": "\n              no comments",
-      "index": 15
+      "index": 16
     },
     {
-      "title": "Mergiraf - syntax-aware git merge driver",
-      "href": "https://mergiraf.org/",
+      "title": "Octothorpes",
+      "href": "https://octothorp.es",
       "points": "",
-      "comments": "\n              no comments",
-      "index": 16
+      "comments": "\n              5 comments",
+      "index": 17
     },
     {
       "title": "[2022] JSONSki: Streaming Processing of JSONPath Queries with Fast Forwarding",
       "href": "https://github.com/AutomataLab/JSONSki",
       "points": "",
       "comments": "\n              no comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "JIT: so you want to be faster than an interpreter on modern CPUs…",
       "href": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 18
-    },
-    {
-      "title": "Space-Efficient Data Structures for Top-k Completion (2013)",
-      "href": "http://groups.di.unipi.it/~ottavian/files/topk_completion_www13.pdf",
-      "points": "",
-      "comments": "\n              no comments",
       "index": 19
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
-      "title": "Octothorpes",
-      "href": "https://octothorp.es",
+      "title": "Space-Efficient Data Structures for Top-k Completion (2013)",
+      "href": "http://groups.di.unipi.it/~ottavian/files/topk_completion_www13.pdf",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              no comments",
       "index": 22
+    },
+    {
+      "title": "beads: Beads - A memory upgrade for your coding agent",
+      "href": "https://github.com/steveyegge/beads",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 23
     },
     {
       "title": "A Copy-and-Patch Tutorial",
       "href": "https://transactional.blog/copy-and-patch/tutorial",
       "points": "",
       "comments": "\n              no comments",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Avian Physics 0.4",
       "href": "https://joonaa.dev/blog/09/avian-0-4",
       "points": "",
       "comments": "\n              no comments",
-      "index": 24
-    },
-    {
-      "title": "NSA and IETF: Can an attacker simply purchase standardization of weakened cryptography?",
-      "href": "https://blog.cr.yp.to/20251004-weakened.html",
-      "points": "",
-      "comments": "\n              13 comments",
       "index": 25
     }
   ]
