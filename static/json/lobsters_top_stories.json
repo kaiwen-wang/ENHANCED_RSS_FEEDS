@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, October 14, 2025 at 1:30 AM GMT-5",
+  "date": "Tuesday, October 14, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "Critical GitHub Copilot Vulnerability Leaks Private Source Code",
       "href": "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code",
       "points": "",
-      "comments": "\n              12 comments",
+      "comments": "\n              13 comments",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "smolBSD — build your own minimal BSD system",
       "href": "https://smolbsd.org",
       "points": "",
-      "comments": "\n              5 comments",
+      "comments": "\n              7 comments",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "Free Software hasn't won",
       "href": "https://dorotac.eu/posts/fosswon/",
       "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              3 comments",
       "index": 5
     },
     {
@@ -65,113 +65,113 @@
       "index": 9
     },
     {
+      "title": "nitro: tiny but flexible init system and process supervisor",
+      "href": "https://github.com/leahneukirchen/nitro",
+      "points": "",
+      "comments": "\n              1 comment",
+      "index": 10
+    },
+    {
       "title": "We need (at least) ergonomic, explicit handles",
       "href": "https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/",
       "points": "",
       "comments": "\n              4 comments",
-      "index": 10
+      "index": 11
     },
     {
       "title": "JIT: so you want to be faster than an interpreter on modern CPUs…",
       "href": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/",
       "points": "",
       "comments": "\n              17 comments",
-      "index": 11
+      "index": 12
     },
     {
-      "title": "nitro: tiny but flexible init system and process supervisor",
-      "href": "https://github.com/leahneukirchen/nitro",
+      "title": "Demystifying Scala 3 Types By Bill Venners",
+      "href": "https://watch.softinio.com/w/6Ubx9SPfjXDH2yBke158R4",
       "points": "",
-      "comments": "\n              1 comment",
-      "index": 12
+      "comments": "\n              no comments",
+      "index": 13
     },
     {
       "title": "Wireguard FPGA",
       "href": "https://github.com/chili-chips-ba/wireguard-fpga",
       "points": "",
       "comments": "\n              8 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Why did containers happen? A view from ten years in the trenches by Docker's former CTO Justin Cormack",
       "href": "https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/",
       "points": "",
       "comments": "\n              6 comments",
-      "index": 14
+      "index": 15
     },
     {
       "title": "NSA and IETF: Can an attacker simply purchase standardization of weakened cryptography?",
       "href": "https://blog.cr.yp.to/20251004-weakened.html",
       "points": "",
-      "comments": "\n              10 comments",
-      "index": 15
-    },
-    {
-      "title": "Octothorpes",
-      "href": "https://octothorp.es",
-      "points": "",
-      "comments": "\n              2 comments",
+      "comments": "\n              11 comments",
       "index": 16
-    },
-    {
-      "title": "Space-Efficient Data Structures for Top-k Completion (2013)",
-      "href": "http://groups.di.unipi.it/~ottavian/files/topk_completion_www13.pdf",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 17
-    },
-    {
-      "title": "The Country That Broke Kotlin",
-      "href": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237",
-      "points": "",
-      "comments": "\n              31 comments",
-      "index": 18
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/an26tn/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              10 comments",
-      "index": 19
     },
     {
       "title": "MPTCP / Multipath TCP for Linux",
       "href": "https://www.mptcp.dev/",
       "points": "",
       "comments": "\n              no comments",
+      "index": 17
+    },
+    {
+      "title": "Octothorpes",
+      "href": "https://octothorp.es",
+      "points": "",
+      "comments": "\n              2 comments",
+      "index": 18
+    },
+    {
+      "title": "A Copy-and-Patch Tutorial",
+      "href": "https://transactional.blog/copy-and-patch/tutorial",
+      "points": "",
+      "comments": "\n              no comments",
+      "index": 19
+    },
+    {
+      "title": "Space-Efficient Data Structures for Top-k Completion (2013)",
+      "href": "http://groups.di.unipi.it/~ottavian/files/topk_completion_www13.pdf",
+      "points": "",
+      "comments": "\n              no comments",
       "index": 20
+    },
+    {
+      "title": "The Country That Broke Kotlin",
+      "href": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237",
+      "points": "",
+      "comments": "\n              31 comments",
+      "index": 21
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/an26tn/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              10 comments",
+      "index": 22
     },
     {
       "title": "Abstraction, not syntax",
       "href": "https://ruudvanasseldonk.com/2025/abstraction-not-syntax",
       "points": "",
       "comments": "\n              36 comments",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Literate Tracing",
       "href": "https://arxiv.org/pdf/2510.09073",
       "points": "",
       "comments": "\n              no comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Django forever · Applied Cartography",
       "href": "https://jmduke.com/posts/post/django/",
-      "points": "",
-      "comments": "\n              no comments",
-      "index": 23
-    },
-    {
-      "title": "It Is A War Out There - Take Control of Your Supply Lines with HtDTY",
-      "href": "https://sheep.horse/2025/10/it_is_a_war_out_there_-_take_control_of_your_suppl.html",
-      "points": "",
-      "comments": "\n              2 comments",
-      "index": 24
-    },
-    {
-      "title": "A Copy-and-Patch Tutorial",
-      "href": "https://transactional.blog/copy-and-patch/tutorial",
       "points": "",
       "comments": "\n              no comments",
       "index": 25
