@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, October 14, 2025 at 4:15 PM GMT-5",
+  "date": "Tuesday, October 14, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "Meta news on Lix in October 2025",
       "href": "https://lix.systems/blog/2025-10-13-meta-lix-news/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 1
     },
     {
       "title": "Mergiraf - syntax-aware git merge driver",
       "href": "https://mergiraf.org/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 2
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
+      "title": "The DHH Problem",
+      "href": "https://tomstu.art/the-dhh-problem",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering",
       "href": "https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "Gauguin, Descartes, Bayes: A Diurnal Golem’s Brain",
-      "href": "https://dl.acm.org/doi/pdf/10.1145/3759429.3762631",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 9
     },
     {
@@ -72,17 +72,17 @@
       "index": 10
     },
     {
-      "title": "The DHH Problem",
-      "href": "https://tomstu.art/the-dhh-problem",
+      "title": "Gauguin, Descartes, Bayes: A Diurnal Golem’s Brain",
+      "href": "https://dl.acm.org/doi/pdf/10.1145/3759429.3762631",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 11
     },
     {
-      "title": "Benchmarking Postgres 17 vs 18",
-      "href": "https://planetscale.com/blog/benchmarking-postgres-17-vs-18",
+      "title": "rumdl: A Markdown Linter written in Rust",
+      "href": "https://github.com/rvben/rumdl",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 12
     },
     {
@@ -93,17 +93,17 @@
       "index": 13
     },
     {
-      "title": "Hot Reloading SwiftUI Apps",
-      "href": "https://danielchasehooper.com/posts/hot-reloading-swiftui/",
+      "title": "Benchmarking Postgres 17 vs 18",
+      "href": "https://planetscale.com/blog/benchmarking-postgres-17-vs-18",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 14
     },
     {
-      "title": "rumdl: A Markdown Linter written in Rust",
-      "href": "https://github.com/rvben/rumdl",
+      "title": "Hot Reloading SwiftUI Apps",
+      "href": "https://danielchasehooper.com/posts/hot-reloading-swiftui/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 15
     },
     {
@@ -114,45 +114,45 @@
       "index": 16
     },
     {
+      "title": "Empty Intervals are Valid Intervals",
+      "href": "https://nigeltao.github.io/blog/2025/empty-intervals.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
       "title": "Practical Hurdles In Crab Latching Concurrency",
       "href": "https://jacobsherin.com/posts/2025-10-13-bplustree-concurrency-challenges/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "What Dynamic Typing Is For",
       "href": "https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/",
       "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 18
+      "comments": "\n              24 comments\n            ",
+      "index": 19
     },
     {
       "title": "Let's not Encrypt (2019)",
       "href": "https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Critical GitHub Copilot Vulnerability Leaks Private Source Code",
       "href": "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Don't Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites",
       "href": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "Literate Tracing",
-      "href": "https://arxiv.org/pdf/2510.09073",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
+      "title": "Literate Tracing",
+      "href": "https://arxiv.org/pdf/2510.09073",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 24
+    },
+    {
       "title": "smolBSD — build your own minimal BSD system",
       "href": "https://smolbsd.org",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Demystifying Scala 3 Types By Bill Venners",
-      "href": "https://watch.softinio.com/w/6Ubx9SPfjXDH2yBke158R4",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
