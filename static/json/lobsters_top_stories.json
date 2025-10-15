@@ -1,25 +1,25 @@
 {
-  "date": "Wednesday, October 15, 2025 at 4:15 PM GMT-5",
+  "date": "Wednesday, October 15, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "I am sorry, but everyone is getting syntax highlighting wrong",
       "href": "https://tonsky.me/blog/syntax-highlighting/",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              31 comments\n            ",
       "index": 1
     },
     {
       "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
       "href": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 2
     },
     {
       "title": "When you opened a screen shot of a video in Paint, the video was playing in it",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 3
     },
     {
@@ -30,31 +30,31 @@
       "index": 4
     },
     {
+      "title": "Why C variable argument functions are an abomination (and what to do about it)",
+      "href": "https://h4x0r.org/vargs/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 5
+    },
+    {
       "title": "Garbage Collection for Rust: The Finalizer Frontier",
       "href": "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
-      "title": "Why C variable argument functions are an abomination (and what to do about it)",
-      "href": "https://h4x0r.org/vargs/",
+      "title": "Pwning the Entire Nix Ecosystem",
+      "href": "https://ptrpa.ws/nixpkgs-actions-abuse",
       "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 6
+      "comments": "\n              6 comments\n            ",
+      "index": 7
     },
     {
       "title": "FSF announces Librephone project",
       "href": "https://www.fsf.org/news/librephone-project",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Pwning the Entire Nix Ecosystem",
-      "href": "https://ptrpa.ws/nixpkgs-actions-abuse",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 8
     },
     {
@@ -65,10 +65,10 @@
       "index": 9
     },
     {
-      "title": "F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data",
-      "href": "https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/",
+      "title": "Porting from Perl to Go: Simplifying for Platform Engineering",
+      "href": "https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 10
     },
     {
@@ -79,52 +79,52 @@
       "index": 11
     },
     {
-      "title": "Porting from Perl to Go: Simplifying for Platform Engineering",
-      "href": "https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/",
+      "title": "F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data",
+      "href": "https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 12
     },
     {
       "title": "The DHH Problem (2014)",
       "href": "https://tomstu.art/the-dhh-problem",
       "points": "",
-      "comments": "\n              75 comments\n            ",
+      "comments": "\n              78 comments\n            ",
       "index": 13
-    },
-    {
-      "title": "Why export templates would be useful in C++ (2010)",
-      "href": "http://warp.povusers.org/programming/export_templates.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "Why your boss isn't worried about AI - \"can't you just turn it off?\"",
-      "href": "https://boydkane.com/essays/boss",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "OSM Perfect Intersection Editor",
-      "href": "https://www.openstreetmap.org/user/Mikhail%20Kuzin/diary/407577",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
     },
     {
       "title": "Modifying the Python REPL",
       "href": "https://treyhunner.com/2025/10/handy-python-repl-modifications/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 17
+      "index": 14
+    },
+    {
+      "title": "Why export templates would be useful in C++ (2010)",
+      "href": "http://warp.povusers.org/programming/export_templates.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
+      "title": "Why your boss isn't worried about AI - \"can't you just turn it off?\"",
+      "href": "https://boydkane.com/essays/boss",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 16
     },
     {
       "title": "Testing Frozen String Literals in Production",
       "href": "https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
+      "title": "OSM Perfect Intersection Editor",
+      "href": "https://www.openstreetmap.org/user/Mikhail%20Kuzin/diary/407577",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
-      "title": "A modern approach to preventing CSRF in Go",
-      "href": "https://www.alexedwards.net/blog/preventing-csrf-in-go",
+      "title": "API design principle: Don't tempt people to divide by zero",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20251013-00/?p=111677",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 23
     },
     {
-      "title": "Happy Birthday to KDE",
-      "href": "https://kde.org/fundraisers/yearend2025/",
+      "title": "A modern approach to preventing CSRF in Go",
+      "href": "https://www.alexedwards.net/blog/preventing-csrf-in-go",
       "points": "",
       "comments": "\n              10 comments\n            ",
       "index": 24
     },
     {
-      "title": "From Linearity to Borrowing",
-      "href": "https://dl.acm.org/doi/abs/10.1145/3764117",
+      "title": "Happy Birthday to KDE",
+      "href": "https://kde.org/fundraisers/yearend2025/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 25
     }
   ]
