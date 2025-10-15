@@ -1,39 +1,39 @@
 {
-  "date": "Wednesday, October 15, 2025 at 12:20 AM GMT-5",
+  "date": "Wednesday, October 15, 2025 at 1:30 AM GMT-5",
   "articles": [
+    {
+      "title": "Why your boss isn't worried about AI - \"can't you just turn it off?\"",
+      "href": "https://boydkane.com/essays/boss",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 1
+    },
     {
       "title": "Meta news on Lix in October 2025",
       "href": "https://lix.systems/blog/2025-10-13-meta-lix-news/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 1
-    },
-    {
-      "title": "Why your boss isn't worried about AI - \"can't you just turn it off?\"",
-      "href": "https://boydkane.com/essays/boss",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 2
     },
     {
-      "title": "Mergiraf - syntax-aware git merge driver",
-      "href": "https://mergiraf.org/",
+      "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
+      "href": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 3
     },
     {
       "title": "The Ruby community has a DHH problem",
       "href": "https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 4
     },
     {
-      "title": "A modern approach to preventing CSRF in Go",
-      "href": "https://www.alexedwards.net/blog/preventing-csrf-in-go",
+      "title": "Mergiraf - syntax-aware git merge driver",
+      "href": "https://mergiraf.org/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 5
     },
     {
@@ -44,136 +44,136 @@
       "index": 6
     },
     {
-      "title": "Happy Birthday to KDE",
-      "href": "https://kde.org/fundraisers/yearend2025/",
+      "title": "A modern approach to preventing CSRF in Go",
+      "href": "https://www.alexedwards.net/blog/preventing-csrf-in-go",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 7
-    },
-    {
-      "title": "The DHH Problem (2014)",
-      "href": "https://tomstu.art/the-dhh-problem",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 8
     },
     {
       "title": "binmoji: a compact, lossless, 64-bit emoji encoding",
       "href": "https://github.com/jb55/binmoji",
       "points": "",
       "comments": "\n              7 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Happy Birthday to KDE",
+      "href": "https://kde.org/fundraisers/yearend2025/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 9
+    },
+    {
+      "title": "The DHH Problem (2014)",
+      "href": "https://tomstu.art/the-dhh-problem",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 10
     },
     {
       "title": "1.5x to 2.2x GB/s decoding throughput for delta, delta-of-delta and xor-with-previous codes",
       "href": "https://github.com/ashtonsix/perf-portfolio/tree/main/delta",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "nanochat: The best ChatGPT that $100 can buy",
       "href": "https://github.com/karpathy/nanochat",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering",
       "href": "https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Empty Intervals are Valid Intervals",
       "href": "https://nigeltao.github.io/blog/2025/empty-intervals.html",
       "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 13
+      "comments": "\n              6 comments\n            ",
+      "index": 14
     },
     {
       "title": "Gauguin, Descartes, Bayes: A Diurnal Golem’s Brain",
       "href": "https://dl.acm.org/doi/pdf/10.1145/3759429.3762631",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "rumdl: A Markdown Linter written in Rust",
-      "href": "https://github.com/rvben/rumdl",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 15
-    },
-    {
-      "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
-      "href": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
     },
     {
       "title": "Hot Reloading SwiftUI Apps",
       "href": "https://danielchasehooper.com/posts/hot-reloading-swiftui/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "rumdl: A Markdown Linter written in Rust",
+      "href": "https://github.com/rvben/rumdl",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 17
-    },
-    {
-      "title": "Benchmarking Postgres 17 vs 18",
-      "href": "https://planetscale.com/blog/benchmarking-postgres-17-vs-18",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Django forever",
-      "href": "https://jmduke.com/posts/post/django/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Don't Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites",
-      "href": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 20
-    },
-    {
-      "title": "Practical Hurdles In Crab Latching Concurrency",
-      "href": "https://jacobsherin.com/posts/2025-10-13-bplustree-concurrency-challenges/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Old is Gold: Optimizing Single-threaded Applications with Exgen-Malloc",
-      "href": "https://arxiv.org/pdf/2510.10219",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "Measuring cache performance + perf (2018)",
-      "href": "https://josephmuia.ca/2018-09-04-measuring-cache-performance-perf/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
     },
     {
       "title": "Can We Know Whether a Profiler is Accurate?",
       "href": "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 24
+      "index": 18
+    },
+    {
+      "title": "Benchmarking Postgres 17 vs 18",
+      "href": "https://planetscale.com/blog/benchmarking-postgres-17-vs-18",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Old is Gold: Optimizing Single-threaded Applications with Exgen-Malloc",
+      "href": "https://arxiv.org/pdf/2510.10219",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
+      "title": "From Linearity to Borrowing",
+      "href": "https://dl.acm.org/doi/abs/10.1145/3764117",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Django forever",
+      "href": "https://jmduke.com/posts/post/django/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Don't Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites",
+      "href": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 23
     },
     {
       "title": "Unpacking Cloudflare Workers CPU Performance Benchmarks",
       "href": "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
+      "index": 24
+    },
+    {
+      "title": "Practical Hurdles In Crab Latching Concurrency",
+      "href": "https://jacobsherin.com/posts/2025-10-13-bplustree-concurrency-challenges/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
