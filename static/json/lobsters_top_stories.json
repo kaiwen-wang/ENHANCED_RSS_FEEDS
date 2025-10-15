@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, October 15, 2025 at 1:30 PM GMT-5",
+  "date": "Wednesday, October 15, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
       "href": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 1
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
-      "title": "The DHH Problem (2014)",
-      "href": "https://tomstu.art/the-dhh-problem",
-      "points": "",
-      "comments": "\n              62 comments\n            ",
-      "index": 9
-    },
-    {
       "title": "Unfair Flips World Record Strategy",
       "href": "https://graham.build/s/a-blog/028-unfair-flips-world-record-strategy/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "The DHH Problem (2014)",
+      "href": "https://tomstu.art/the-dhh-problem",
+      "points": "",
+      "comments": "\n              67 comments\n            ",
       "index": 10
     },
     {
@@ -86,92 +86,92 @@
       "index": 12
     },
     {
-      "title": "Porting from Perl to Go: Simplifying for Platform Engineering",
-      "href": "https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/",
+      "title": "F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data",
+      "href": "https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 13
+    },
+    {
+      "title": "Testing Frozen String Literals in Production",
+      "href": "https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
+      "title": "cmux – Coding Agent Multiplexer",
+      "href": "https://github.com/coder/cmux",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
     },
     {
       "title": "Meta news on Lix in October 2025",
       "href": "https://lix.systems/blog/2025-10-13-meta-lix-news/",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 14
+      "index": 16
     },
     {
-      "title": "F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data",
-      "href": "https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/",
+      "title": "Porting from Perl to Go: Simplifying for Platform Engineering",
+      "href": "https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
+      "comments": "\n              no comments\n            ",
+      "index": 17
     },
     {
       "title": "binmoji: a compact, lossless, 64-bit emoji encoding",
       "href": "https://github.com/jb55/binmoji",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 16
+      "index": 18
     },
     {
       "title": "Hold Off on Litestream 0.5.0",
       "href": "https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 17
+      "index": 19
     },
     {
       "title": "OSM Perfect Intersection Editor",
       "href": "https://www.openstreetmap.org/user/Mikhail%20Kuzin/diary/407577",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
       "title": "A modern approach to preventing CSRF in Go",
       "href": "https://www.alexedwards.net/blog/preventing-csrf-in-go",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Testing Frozen String Literals in Production",
-      "href": "https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Happy Birthday to KDE",
       "href": "https://kde.org/fundraisers/yearend2025/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 21
+      "comments": "\n              9 comments\n            ",
+      "index": 22
     },
     {
-      "title": "API design principle: Don't tempt people to divide by zero",
-      "href": "https://devblogs.microsoft.com/oldnewthing/20251013-00/?p=111677",
+      "title": "Modifying the Python REPL",
+      "href": "https://treyhunner.com/2025/10/handy-python-repl-modifications/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
+      "comments": "\n              1 comment\n            ",
+      "index": 23
     },
     {
       "title": "From Linearity to Borrowing",
       "href": "https://dl.acm.org/doi/abs/10.1145/3764117",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "cmux – Coding Agent Multiplexer",
-      "href": "https://github.com/coder/cmux",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Artisanal shims for the bitter lesson age",
-      "href": "https://blog.nilenso.com/blog/2025/10/14/bitter-lesson-applied-ai/",
+      "title": "API design principle: Don't tempt people to divide by zero",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20251013-00/?p=111677",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
