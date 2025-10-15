@@ -1,46 +1,46 @@
 {
-  "date": "Wednesday, October 15, 2025 at 1:30 AM GMT-5",
+  "date": "Wednesday, October 15, 2025 at 2:20 AM GMT-5",
   "articles": [
+    {
+      "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
+      "href": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 1
+    },
     {
       "title": "Why your boss isn't worried about AI - \"can't you just turn it off?\"",
       "href": "https://boydkane.com/essays/boss",
       "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 1
+      "comments": "\n              7 comments\n            ",
+      "index": 2
     },
     {
       "title": "Meta news on Lix in October 2025",
       "href": "https://lix.systems/blog/2025-10-13-meta-lix-news/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
-      "href": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 3
     },
     {
       "title": "The Ruby community has a DHH problem",
       "href": "https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 4
-    },
-    {
-      "title": "Mergiraf - syntax-aware git merge driver",
-      "href": "https://mergiraf.org/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 5
     },
     {
       "title": "Hold Off on Litestream 0.5.0",
       "href": "https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 5
+    },
+    {
+      "title": "Mergiraf - syntax-aware git merge driver",
+      "href": "https://mergiraf.org/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
       "index": 6
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
+      "title": "The DHH Problem (2014)",
+      "href": "https://tomstu.art/the-dhh-problem",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
+      "index": 9
+    },
+    {
       "title": "Happy Birthday to KDE",
       "href": "https://kde.org/fundraisers/yearend2025/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "The DHH Problem (2014)",
-      "href": "https://tomstu.art/the-dhh-problem",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
       "index": 10
     },
     {
@@ -107,52 +107,52 @@
       "index": 15
     },
     {
+      "title": "FSF announces Librephone project",
+      "href": "https://www.fsf.org/news/librephone-project",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
       "title": "Hot Reloading SwiftUI Apps",
       "href": "https://danielchasehooper.com/posts/hot-reloading-swiftui/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "rumdl: A Markdown Linter written in Rust",
       "href": "https://github.com/rvben/rumdl",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Can We Know Whether a Profiler is Accurate?",
       "href": "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Benchmarking Postgres 17 vs 18",
       "href": "https://planetscale.com/blog/benchmarking-postgres-17-vs-18",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Old is Gold: Optimizing Single-threaded Applications with Exgen-Malloc",
       "href": "https://arxiv.org/pdf/2510.10219",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "From Linearity to Borrowing",
       "href": "https://dl.acm.org/doi/abs/10.1145/3764117",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Django forever",
-      "href": "https://jmduke.com/posts/post/django/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
+      "title": "Django forever",
+      "href": "https://jmduke.com/posts/post/django/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 24
+    },
+    {
       "title": "Unpacking Cloudflare Workers CPU Performance Benchmarks",
       "href": "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Practical Hurdles In Crab Latching Concurrency",
-      "href": "https://jacobsherin.com/posts/2025-10-13-bplustree-concurrency-challenges/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
