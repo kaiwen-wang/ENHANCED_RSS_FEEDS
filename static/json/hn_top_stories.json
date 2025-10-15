@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, October 15, 2025 at 12:15 PM GMT-5",
+  "date": "Wednesday, October 15, 2025 at 1:30 PM GMT-5",
   "articles": [
     {
       "title": "Apple M5 chip",
       "href": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
-      "points": "556 points",
-      "comments": "575 comments",
+      "points": "648 points",
+      "comments": "674 comments",
       "index": 1
+    },
+    {
+      "title": "Claude Haiku 4.5",
+      "href": "https://www.anthropic.com/news/claude-haiku-4-5",
+      "points": "149 points",
+      "comments": "50 comments",
+      "index": 2
     },
     {
       "title": "Pwning the Nix ecosystem",
       "href": "https://ptrpa.ws/nixpkgs-actions-abuse",
-      "points": "139 points",
-      "comments": "24 comments",
-      "index": 2
+      "points": "175 points",
+      "comments": "27 comments",
+      "index": 3
     },
     {
       "title": "I almost got hacked by a 'job interview'",
       "href": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview",
-      "points": "226 points",
-      "comments": "118 comments",
-      "index": 3
-    },
-    {
-      "title": "Show HN: Halloy – Modern IRC client",
-      "href": "https://github.com/squidowl/halloy",
-      "points": "170 points",
-      "comments": "48 comments",
+      "points": "339 points",
+      "comments": "183 comments",
       "index": 4
-    },
-    {
-      "title": "Mac Source Ports – Run old games on new Macs",
-      "href": "https://www.macsourceports.com/",
-      "points": "107 points",
-      "comments": "33 comments",
-      "index": 5
-    },
-    {
-      "title": "Show HN: Scriber Pro – Offline AI transcription for macOS",
-      "href": "https://scriberpro.cc/hn/",
-      "points": "85 points",
-      "comments": "88 comments",
-      "index": 6
-    },
-    {
-      "title": "A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
-      "href": "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html",
-      "points": "50 points",
-      "comments": "4 comments",
-      "index": 7
-    },
-    {
-      "title": "Reverse engineering a 27MHz RC toy communication using RTL SDR",
-      "href": "https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/",
-      "points": "26 points",
-      "comments": "7 comments",
-      "index": 8
-    },
-    {
-      "title": "Apple Vision Pro upgraded with M5 chip",
-      "href": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
-      "points": "191 points",
-      "comments": "228 comments",
-      "index": 9
     },
     {
       "title": "Breaking \"provably correct\" Leftpad",
       "href": "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/",
-      "points": "5 points",
-      "comments": "discuss",
-      "index": 10
+      "points": "43 points",
+      "comments": "8 comments",
+      "index": 5
     },
     {
-      "title": "Leaving serverless led to performance improvement and a simplified architecture",
-      "href": "https://www.unkey.com/blog/serverless-exit",
-      "points": "176 points",
-      "comments": "124 comments",
-      "index": 11
+      "title": "Claude Haiku 4.5 System Card [pdf]",
+      "href": "https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf",
+      "points": "13 points",
+      "comments": "discuss",
+      "index": 6
     },
     {
-      "title": "Recreating the Canon Cat document interface",
-      "href": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
-      "points": "19 points",
-      "comments": "discuss",
-      "index": 12
+      "title": "Show HN: Halloy – Modern IRC client",
+      "href": "https://github.com/squidowl/halloy",
+      "points": "182 points",
+      "comments": "55 comments",
+      "index": 7
     },
     {
       "title": "C++26: range support for std:optional",
       "href": "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional",
-      "points": "9 points",
-      "comments": "discuss",
+      "points": "38 points",
+      "comments": "11 comments",
+      "index": 8
+    },
+    {
+      "title": "A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
+      "href": "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html",
+      "points": "74 points",
+      "comments": "6 comments",
+      "index": 9
+    },
+    {
+      "title": "Recreating the Canon Cat document interface",
+      "href": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
+      "points": "37 points",
+      "comments": "1 comment",
+      "index": 10
+    },
+    {
+      "title": "F5 says hackers stole undisclosed BIG-IP flaws, source code",
+      "href": "https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/",
+      "points": "47 points",
+      "comments": "18 comments",
+      "index": 11
+    },
+    {
+      "title": "Reverse engineering a 27MHz RC toy communication using RTL SDR",
+      "href": "https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/",
+      "points": "43 points",
+      "comments": "10 comments",
+      "index": 12
+    },
+    {
+      "title": "Show HN: Scriber Pro – Offline AI transcription for macOS",
+      "href": "https://scriberpro.cc/hn/",
+      "points": "97 points",
+      "comments": "96 comments",
       "index": 13
     },
     {
-      "title": "Bots are getting good at mimicking engagement",
-      "href": "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake",
-      "points": "256 points",
-      "comments": "176 comments",
+      "title": "M5 MacBook Pro",
+      "href": "https://www.apple.com/macbook-pro/",
+      "points": "197 points",
+      "comments": "237 comments",
       "index": 14
+    },
+    {
+      "title": "Garbage collection for Rust: The finalizer frontier",
+      "href": "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/",
+      "points": "70 points",
+      "comments": "57 comments",
+      "index": 15
+    },
+    {
+      "title": "Leaving serverless led to performance improvement and a simplified architecture",
+      "href": "https://www.unkey.com/blog/serverless-exit",
+      "points": "192 points",
+      "comments": "138 comments",
+      "index": 16
     },
     {
       "title": "Americans' love of billiards paved the way for synthetic plastics",
       "href": "https://invention.si.edu/invention-stories/imitation-ivory-and-power-play",
-      "points": "19 points",
-      "comments": "9 comments",
-      "index": 15
+      "points": "24 points",
+      "comments": "14 comments",
+      "index": 17
+    },
+    {
+      "title": "Bots are getting good at mimicking engagement",
+      "href": "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake",
+      "points": "280 points",
+      "comments": "204 comments",
+      "index": 18
     },
     {
       "title": "Helpcare AI (YC F24) Is Hiring",
       "href": "item?id=45591082",
       "points": "",
       "comments": "hide",
-      "index": 16
-    },
-    {
-      "title": "Pixnapping Attack",
-      "href": "https://www.pixnapping.com/",
-      "points": "248 points",
-      "comments": "55 comments",
-      "index": 17
-    },
-    {
-      "title": "Claude Haiku 4.5",
-      "href": "https://www.anthropic.com/news/claude-haiku-4-5",
-      "points": "31 points",
-      "comments": "3 comments",
-      "index": 18
-    },
-    {
-      "title": "David Byrne Radio",
-      "href": "https://www.davidbyrne.com/radio#filter=all&sortby=date:desc",
-      "points": "48 points",
-      "comments": "10 comments",
       "index": 19
-    },
-    {
-      "title": "ASP.NET Security Feature Bypass Vulnerability",
-      "href": "https://nvd.nist.gov/vuln/detail/CVE-2025-55315",
-      "points": "79 points",
-      "comments": "50 comments",
-      "index": 20
-    },
-    {
-      "title": "Ireland is making basic income for artists program permanent",
-      "href": "https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/",
-      "points": "336 points",
-      "comments": "339 comments",
-      "index": 21
-    },
-    {
-      "title": "FSF announces Librephone project",
-      "href": "https://www.fsf.org/news/librephone-project",
-      "points": "1266 points",
-      "comments": "510 comments",
-      "index": 22
     },
     {
       "title": "iPad Pro with M5 chip",
       "href": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
-      "points": "131 points",
-      "comments": "115 comments",
+      "points": "153 points",
+      "comments": "165 comments",
+      "index": 20
+    },
+    {
+      "title": "Pixnapping Attack",
+      "href": "https://www.pixnapping.com/",
+      "points": "258 points",
+      "comments": "61 comments",
+      "index": 21
+    },
+    {
+      "title": "David Byrne Radio",
+      "href": "https://www.davidbyrne.com/radio#filter=all&sortby=date:desc",
+      "points": "60 points",
+      "comments": "13 comments",
+      "index": 22
+    },
+    {
+      "title": "Mac Source Ports – Run old games on new Macs",
+      "href": "https://www.macsourceports.com/",
+      "points": "124 points",
+      "comments": "48 comments",
       "index": 23
+    },
+    {
+      "title": "Apple Vision Pro upgraded with M5 chip",
+      "href": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
+      "points": "216 points",
+      "comments": "260 comments",
+      "index": 24
+    },
+    {
+      "title": "FSF announces Librephone project",
+      "href": "https://www.fsf.org/news/librephone-project",
+      "points": "1293 points",
+      "comments": "518 comments",
+      "index": 25
     },
     {
       "title": "Flapping-wing robot achieves self-takeoff by adopting reconfigurable mechanisms",
       "href": "https://www.science.org/doi/10.1126/sciadv.adx0465",
-      "points": "50 points",
-      "comments": "12 comments",
-      "index": 24
+      "points": "60 points",
+      "comments": "13 comments",
+      "index": 26
     },
     {
-      "title": "F5 Networks reports nation-state cyberattack on product systems",
-      "href": "https://www.streetinsider.com/Corporate+News/F5+Networks+reports+nation-state+cyberattack+on+product+systems/25457824.html",
-      "points": "20 points",
-      "comments": "2 comments",
-      "index": 25
+      "title": "Just talk to it – A way of agentic engineering",
+      "href": "https://steipete.me/posts/just-talk-to-it",
+      "points": "127 points",
+      "comments": "67 comments",
+      "index": 27
+    },
+    {
+      "title": "Ireland is making basic income for artists program permanent",
+      "href": "https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/",
+      "points": "373 points",
+      "comments": "372 comments",
+      "index": 28
+    },
+    {
+      "title": "ChatGPT – Truth over Comfort Instruction Set",
+      "href": "https://www.organizingcreativity.com/2025/06/chatgpt-truth-over-comfort-instruction-set/",
+      "points": "7 points",
+      "comments": "3 comments",
+      "index": 29
     },
     {
       "title": "Show HN: Firm, a text-based work management system",
       "href": "https://github.com/42futures/firm",
-      "points": "111 points",
-      "comments": "46 comments",
-      "index": 26
-    },
-    {
-      "title": "DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia",
-      "href": "https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html",
-      "points": "313 points",
-      "comments": "286 comments",
-      "index": 27
-    },
-    {
-      "title": "HRM Analysis by Arc Prize Organizers",
-      "href": "https://arcprize.org/blog/hrm-analysis",
-      "points": "20 points",
-      "comments": "discuss",
-      "index": 28
-    },
-    {
-      "title": "Europe's Digital Sovereignty Paradox – \"Chat Control\" Update",
-      "href": "https://www.process-one.net/blog/chat-control-update-oct-2025/",
-      "points": "84 points",
-      "comments": "80 comments",
-      "index": 29
-    },
-    {
-      "title": "M5 MacBook Pro",
-      "href": "https://www.apple.com/macbook-pro/",
-      "points": "161 points",
-      "comments": "187 comments",
+      "points": "125 points",
+      "comments": "48 comments",
       "index": 30
     }
   ]
