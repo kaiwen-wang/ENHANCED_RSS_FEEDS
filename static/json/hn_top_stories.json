@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, October 15, 2025 at 5:15 PM GMT-5",
+  "date": "Wednesday, October 15, 2025 at 6:15 PM GMT-5",
   "articles": [
+    {
+      "title": "I Hate Acrobat",
+      "href": "https://www.vincentuden.xyz/blog/pdf-reader",
+      "points": "70 points",
+      "comments": "45 comments",
+      "index": 1
+    },
     {
       "title": "Apple M5 chip",
       "href": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
-      "points": "852 points",
-      "comments": "928 comments",
-      "index": 1
+      "points": "885 points",
+      "comments": "980 comments",
+      "index": 2
     },
     {
       "title": "Claude Haiku 4.5",
       "href": "https://www.anthropic.com/news/claude-haiku-4-5",
-      "points": "343 points",
-      "comments": "146 comments",
-      "index": 2
-    },
-    {
-      "title": "I almost got hacked by a 'job interview'",
-      "href": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview",
-      "points": "622 points",
-      "comments": "326 comments",
+      "points": "376 points",
+      "comments": "161 comments",
       "index": 3
     },
     {
-      "title": "Next Steps for the Caddy Project Maintainership",
-      "href": "https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076",
-      "points": "5 points",
+      "title": "How First Wap Tracks Phones Around the World",
+      "href": "https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/",
+      "points": "14 points",
       "comments": "discuss",
       "index": 4
     },
     {
-      "title": "Pwning the Nix ecosystem",
-      "href": "https://ptrpa.ws/nixpkgs-actions-abuse",
-      "points": "219 points",
-      "comments": "35 comments",
+      "title": "Next Steps for the Caddy Project Maintainership",
+      "href": "https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076",
+      "points": "43 points",
+      "comments": "6 comments",
       "index": 5
+    },
+    {
+      "title": "I almost got hacked by a 'job interview'",
+      "href": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview",
+      "points": "658 points",
+      "comments": "349 comments",
+      "index": 6
+    },
+    {
+      "title": "Bringing NumPy's type-completeness score to nearly 90% – Pyrefly",
+      "href": "https://pyrefly.org/blog/numpy-type-completeness/",
+      "points": "21 points",
+      "comments": "4 comments",
+      "index": 7
     },
     {
       "title": "Are hard drives getting better?",
       "href": "https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/",
-      "points": "60 points",
-      "comments": "31 comments",
-      "index": 6
+      "points": "86 points",
+      "comments": "40 comments",
+      "index": 8
     },
     {
-      "title": "Gravity Can Explain the Collapse of the Wavefunction (Sabine Hossenfelder)",
-      "href": "https://arxiv.org/abs/2510.11037",
-      "points": "37 points",
-      "comments": "20 comments",
-      "index": 7
+      "title": "Pwning the Nix ecosystem",
+      "href": "https://ptrpa.ws/nixpkgs-actions-abuse",
+      "points": "223 points",
+      "comments": "39 comments",
+      "index": 9
     },
     {
       "title": "Show HN: Halloy – Modern IRC client",
       "href": "https://github.com/squidowl/halloy",
-      "points": "250 points",
-      "comments": "68 comments",
-      "index": 8
-    },
-    {
-      "title": "Princeton Engineering Anomalies Research",
-      "href": "https://pearlab.icrl.org/",
-      "points": "18 points",
-      "comments": "2 comments",
-      "index": 9
-    },
-    {
-      "title": "I Hate Acrobat",
-      "href": "https://www.vincentuden.xyz/blog/pdf-reader",
-      "points": "3 points",
-      "comments": "discuss",
+      "points": "262 points",
+      "comments": "73 comments",
       "index": 10
     },
     {
       "title": "Monads are too powerful: The expressiveness spectrum",
       "href": "https://chrispenner.ca/posts/expressiveness-spectrum",
-      "points": "30 points",
-      "comments": "14 comments",
+      "points": "40 points",
+      "comments": "35 comments",
       "index": 11
-    },
-    {
-      "title": "F5 says hackers stole undisclosed BIG-IP flaws, source code",
-      "href": "https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/",
-      "points": "106 points",
-      "comments": "52 comments",
-      "index": 12
-    },
-    {
-      "title": "Bringing NumPy's type-completeness score to nearly 90% – Pyrefly",
-      "href": "https://pyrefly.org/blog/numpy-type-completeness/",
-      "points": "7 points",
-      "comments": "discuss",
-      "index": 13
     },
     {
       "title": "Recursive Language Models (RLMs)",
       "href": "https://alexzhang13.github.io/blog/2025/rlm/",
-      "points": "38 points",
-      "comments": "11 comments",
-      "index": 14
+      "points": "51 points",
+      "comments": "13 comments",
+      "index": 12
     },
     {
-      "title": "A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
-      "href": "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html",
-      "points": "113 points",
-      "comments": "8 comments",
-      "index": 15
-    },
-    {
-      "title": "Recreating the Canon Cat document interface",
-      "href": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
-      "points": "76 points",
-      "comments": "5 comments",
-      "index": 16
-    },
-    {
-      "title": "Leaving serverless led to performance improvement and a simplified architecture",
-      "href": "https://www.unkey.com/blog/serverless-exit",
-      "points": "258 points",
-      "comments": "168 comments",
-      "index": 17
-    },
-    {
-      "title": "Things I've learned in my 7 years implementing AI",
-      "href": "https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent",
-      "points": "100 points",
-      "comments": "33 comments",
-      "index": 18
-    },
-    {
-      "title": "Garbage collection for Rust: The finalizer frontier",
-      "href": "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/",
-      "points": "96 points",
-      "comments": "101 comments",
-      "index": 19
-    },
-    {
-      "title": "Reverse engineering a 27MHz RC toy communication using RTL SDR",
-      "href": "https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/",
-      "points": "67 points",
-      "comments": "16 comments",
-      "index": 20
-    },
-    {
-      "title": "Reverse engineering iWork",
-      "href": "https://andrews.substack.com/p/reverse-engineering-iwork",
-      "points": "48 points",
-      "comments": "2 comments",
-      "index": 21
+      "title": "F5 says hackers stole undisclosed BIG-IP flaws, source code",
+      "href": "https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/",
+      "points": "115 points",
+      "comments": "57 comments",
+      "index": 13
     },
     {
       "title": "Zed is now available on Windows",
       "href": "https://zed.dev/blog/zed-for-windows-is-here",
-      "points": "56 points",
-      "comments": "6 comments",
-      "index": 22
+      "points": "100 points",
+      "comments": "28 comments",
+      "index": 14
     },
     {
-      "title": "Americans' love of billiards paved the way for synthetic plastics",
-      "href": "https://invention.si.edu/invention-stories/imitation-ivory-and-power-play",
-      "points": "47 points",
-      "comments": "27 comments",
-      "index": 23
+      "title": "Leaving serverless led to performance improvement and a simplified architecture",
+      "href": "https://www.unkey.com/blog/serverless-exit",
+      "points": "272 points",
+      "comments": "173 comments",
+      "index": 15
+    },
+    {
+      "title": "ImapGoose",
+      "href": "https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 16
+    },
+    {
+      "title": "A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
+      "href": "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html",
+      "points": "118 points",
+      "comments": "10 comments",
+      "index": 17
+    },
+    {
+      "title": "Princeton Engineering Anomalies Research",
+      "href": "https://pearlab.icrl.org/",
+      "points": "21 points",
+      "comments": "4 comments",
+      "index": 18
+    },
+    {
+      "title": "Recreating the Canon Cat document interface",
+      "href": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
+      "points": "78 points",
+      "comments": "6 comments",
+      "index": 19
+    },
+    {
+      "title": "Garbage collection for Rust: The finalizer frontier",
+      "href": "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/",
+      "points": "102 points",
+      "comments": "105 comments",
+      "index": 20
+    },
+    {
+      "title": "Reverse engineering a 27MHz RC toy communication using RTL SDR",
+      "href": "https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/",
+      "points": "72 points",
+      "comments": "17 comments",
+      "index": 21
     },
     {
       "title": "C++26: range support for std:optional",
       "href": "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional",
-      "points": "64 points",
-      "comments": "52 comments",
+      "points": "68 points",
+      "comments": "55 comments",
+      "index": 22
+    },
+    {
+      "title": "Ask HN: Can't get hired – what's next?",
+      "href": "item?id=45599308",
+      "points": "10 points",
+      "comments": "6 comments",
+      "index": 23
+    },
+    {
+      "title": "Gerald Sussman - An Electrical Engineering View of a Mechanical Watch (2003)",
+      "href": "https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch",
+      "points": "8 points",
+      "comments": "discuss",
       "index": 24
+    },
+    {
+      "title": "Things I've learned in my 7 years implementing AI",
+      "href": "https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent",
+      "points": "115 points",
+      "comments": "40 comments",
+      "index": 25
+    },
+    {
+      "title": "Americans' love of billiards paved the way for synthetic plastics",
+      "href": "https://invention.si.edu/invention-stories/imitation-ivory-and-power-play",
+      "points": "52 points",
+      "comments": "27 comments",
+      "index": 26
     },
     {
       "title": "M5 MacBook Pro",
       "href": "https://www.apple.com/macbook-pro/",
-      "points": "282 points",
-      "comments": "371 comments",
-      "index": 25
+      "points": "290 points",
+      "comments": "399 comments",
+      "index": 27
     },
     {
       "title": "Pixnapping Attack",
       "href": "https://www.pixnapping.com/",
-      "points": "281 points",
-      "comments": "66 comments",
-      "index": 26
+      "points": "285 points",
+      "comments": "67 comments",
+      "index": 28
     },
     {
       "title": "Helpcare AI (YC F24) Is Hiring",
       "href": "item?id=45591082",
       "points": "",
       "comments": "hide",
-      "index": 27
+      "index": 29
     },
     {
       "title": "The brain navigates new spaces by 'darting' between reality and mental maps",
       "href": "https://medicine.yale.edu/news-article/brain-navigates-new-spaces-by-flickering-between-reality-and-old-mental-maps/",
-      "points": "108 points",
-      "comments": "40 comments",
-      "index": 28
-    },
-    {
-      "title": "Bots are getting good at mimicking engagement",
-      "href": "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake",
-      "points": "331 points",
-      "comments": "254 comments",
-      "index": 29
-    },
-    {
-      "title": "FSF announces Librephone project",
-      "href": "https://www.fsf.org/news/librephone-project",
-      "points": "1359 points",
-      "comments": "551 comments",
+      "points": "123 points",
+      "comments": "43 comments",
       "index": 30
     }
   ]
