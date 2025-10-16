@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, October 15, 2025 at 6:15 PM GMT-5",
+  "date": "Wednesday, October 15, 2025 at 8:25 PM GMT-5",
   "articles": [
     {
       "title": "I am sorry, but everyone is getting syntax highlighting wrong",
       "href": "https://tonsky.me/blog/syntax-highlighting/",
       "points": "",
-      "comments": "\n              35 comments\n            ",
+      "comments": "\n              40 comments\n            ",
       "index": 1
     },
     {
       "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
       "href": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 2
     },
     {
@@ -37,24 +37,24 @@
       "index": 5
     },
     {
+      "title": "Pwning the Entire Nix Ecosystem",
+      "href": "https://ptrpa.ws/nixpkgs-actions-abuse",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 6
+    },
+    {
       "title": "Garbage Collection for Rust: The Finalizer Frontier",
       "href": "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Pwning the Entire Nix Ecosystem",
-      "href": "https://ptrpa.ws/nixpkgs-actions-abuse",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
       "index": 7
     },
     {
       "title": "FSF announces Librephone project",
       "href": "https://www.fsf.org/news/librephone-project",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 8
     },
     {
@@ -68,112 +68,112 @@
       "title": "Unfair Flips World Record Strategy",
       "href": "https://graham.build/s/a-blog/028-unfair-flips-world-record-strategy/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 10
-    },
-    {
-      "title": "Porting from Perl to Go: Simplifying for Platform Engineering",
-      "href": "https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
     },
     {
       "title": "F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data",
       "href": "https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Porting from Perl to Go: Simplifying for Platform Engineering",
+      "href": "https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 12
-    },
-    {
-      "title": "The DHH Problem (2014)",
-      "href": "https://tomstu.art/the-dhh-problem",
-      "points": "",
-      "comments": "\n              78 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Modifying the Python REPL",
-      "href": "https://treyhunner.com/2025/10/handy-python-repl-modifications/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "Testing Frozen String Literals in Production",
-      "href": "https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "Why export templates would be useful in C++ (2010)",
-      "href": "http://warp.povusers.org/programming/export_templates.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
-    },
-    {
-      "title": "Why your boss isn't worried about AI - \"can't you just turn it off?\"",
-      "href": "https://boydkane.com/essays/boss",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Writing a JSON Parser in BQN",
-      "href": "https://tony-zorman.com/posts/bqn-json.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "OSM Perfect Intersection Editor",
-      "href": "https://www.openstreetmap.org/user/Mikhail%20Kuzin/diary/407577",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "binmoji: a compact, lossless, 64-bit emoji encoding",
-      "href": "https://github.com/jb55/binmoji",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Hold Off on Litestream 0.5.0",
-      "href": "https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "cmux – Coding Agent Multiplexer",
-      "href": "https://github.com/coder/cmux",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "Meta news on Lix in October 2025",
-      "href": "https://lix.systems/blog/2025-10-13-meta-lix-news/",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 23
     },
     {
       "title": "Paneru - A sliding, tiling window manager for MacOS",
       "href": "https://github.com/karinushka/paneru",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Testing Frozen String Literals in Production",
+      "href": "https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
+      "title": "The DHH Problem (2014)",
+      "href": "https://tomstu.art/the-dhh-problem",
+      "points": "",
+      "comments": "\n              79 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic",
+      "href": "https://johnflournoy.science/no-silver-bullets/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
+      "title": "Writing a JSON Parser in BQN",
+      "href": "https://tony-zorman.com/posts/bqn-json.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Modifying the Python REPL",
+      "href": "https://treyhunner.com/2025/10/handy-python-repl-modifications/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "Why export templates would be useful in C++ (2010)",
+      "href": "http://warp.povusers.org/programming/export_templates.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Why your boss isn't worried about AI - \"can't you just turn it off?\"",
+      "href": "https://boydkane.com/essays/boss",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "OSM Perfect Intersection Editor",
+      "href": "https://www.openstreetmap.org/user/Mikhail%20Kuzin/diary/407577",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "binmoji: a compact, lossless, 64-bit emoji encoding",
+      "href": "https://github.com/jb55/binmoji",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Hold Off on Litestream 0.5.0",
+      "href": "https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "cmux – Coding Agent Multiplexer",
+      "href": "https://github.com/coder/cmux",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 24
     },
     {
-      "title": "API design principle: Don't tempt people to divide by zero",
-      "href": "https://devblogs.microsoft.com/oldnewthing/20251013-00/?p=111677",
+      "title": "Meta news on Lix in October 2025",
+      "href": "https://lix.systems/blog/2025-10-13-meta-lix-news/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 25
     }
   ]
