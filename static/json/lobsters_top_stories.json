@@ -1,60 +1,60 @@
 {
-  "date": "Thursday, October 16, 2025 at 6:15 AM GMT-5",
+  "date": "Thursday, October 16, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "I am sorry, but everyone is getting syntax highlighting wrong",
       "href": "https://tonsky.me/blog/syntax-highlighting/",
       "points": "",
-      "comments": "\n              75 comments\n            ",
+      "comments": "\n              84 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "Why C variable argument functions are an abomination (and what to do about it)",
-      "href": "https://h4x0r.org/vargs/",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 2
     },
     {
       "title": "Elixir v1.19 Released",
       "href": "https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "Why C variable argument functions are an abomination (and what to do about it)",
+      "href": "https://h4x0r.org/vargs/",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "Design for the trash can",
+      "href": "https://arpi.se/anders/#design-for-the-trash-can",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 4
     },
     {
       "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
       "href": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 4
+      "index": 5
+    },
+    {
+      "title": "What’s your go-to strategy for giving engineers access to production?",
+      "href": "/s/heikad/what_s_your_go_strategy_for_giving",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 6
     },
     {
       "title": "Pwning the Entire Nix Ecosystem",
       "href": "https://ptrpa.ws/nixpkgs-actions-abuse",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 5
+      "index": 7
     },
     {
       "title": "When you opened a screen shot of a video in Paint, the video was playing in it",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Reverse Engineering iWork",
-      "href": "https://andrews.substack.com/p/reverse-engineering-iwork",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Garbage Collection for Rust: The Finalizer Frontier",
-      "href": "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 8
     },
     {
@@ -65,113 +65,113 @@
       "index": 9
     },
     {
-      "title": "Design for the trash can",
-      "href": "https://arpi.se/anders/#design-for-the-trash-can",
+      "title": "Reverse Engineering iWork",
+      "href": "https://andrews.substack.com/p/reverse-engineering-iwork",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 10
     },
     {
-      "title": "What’s your go-to strategy for giving engineers access to production?",
-      "href": "/s/heikad/what_s_your_go_strategy_for_giving",
+      "title": "Garbage Collection for Rust: The Finalizer Frontier",
+      "href": "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 11
-    },
-    {
-      "title": "Paneru - A sliding, tiling window manager for MacOS",
-      "href": "https://github.com/karinushka/paneru",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "FSF announces Librephone project",
-      "href": "https://www.fsf.org/news/librephone-project",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Free applicatives, the handle pattern, and remote systems",
-      "href": "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data",
-      "href": "https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Unfair Flips World Record Strategy",
-      "href": "https://graham.build/s/a-blog/028-unfair-flips-world-record-strategy/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Recreating the Canon Cat document interface",
-      "href": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 17
     },
     {
       "title": "cl-tuition: a Common Lisp library for building TUIs inspired by Charm",
       "href": "https://github.com/atgreen/cl-tuition",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Paneru - A sliding, tiling window manager for MacOS",
+      "href": "https://github.com/karinushka/paneru",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "FSF announces Librephone project",
+      "href": "https://www.fsf.org/news/librephone-project",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Free applicatives, the handle pattern, and remote systems",
+      "href": "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Colored Highlighter - A terminal tool to highlight specific words in your command output with colors",
+      "href": "https://github.com/dtonon/ch",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Unfair Flips World Record Strategy",
+      "href": "https://graham.build/s/a-blog/028-unfair-flips-world-record-strategy/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data",
+      "href": "https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 18
     },
     {
-      "title": "No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic",
-      "href": "https://johnflournoy.science/no-silver-bullets/",
+      "title": "Recreating the Canon Cat document interface",
+      "href": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 19
-    },
-    {
-      "title": "Modifying the Python REPL",
-      "href": "https://treyhunner.com/2025/10/handy-python-repl-modifications/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Porting from Perl to Go: Simplifying for Platform Engineering",
-      "href": "https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Writing a JSON Parser in BQN",
-      "href": "https://tony-zorman.com/posts/bqn-json.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "kanagawa: High level synthesis language for hardware design",
-      "href": "https://github.com/microsoft/kanagawa",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 23
     },
     {
       "title": "Nix: connecting to the Sandbox",
       "href": "https://bmcgee.ie/posts/2025/10/nix-connecting-to-the-sandbox/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "kanagawa: High level synthesis language for hardware design",
+      "href": "https://github.com/microsoft/kanagawa",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic",
+      "href": "https://johnflournoy.science/no-silver-bullets/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 22
+    },
+    {
+      "title": "Writing a JSON Parser in BQN",
+      "href": "https://tony-zorman.com/posts/bqn-json.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Modifying the Python REPL",
+      "href": "https://treyhunner.com/2025/10/handy-python-repl-modifications/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 24
     },
     {
-      "title": "I Cheated At Poker By Hacking A Casino Card Shuffling Machine",
-      "href": "https://youtu.be/JQ20ilE5DtA",
+      "title": "Scheme Steering Committee election",
+      "href": "https://r7rs.org/sc/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
