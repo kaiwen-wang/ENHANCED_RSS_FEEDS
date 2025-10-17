@@ -1,214 +1,214 @@
 {
-  "date": "Friday, October 17, 2025 at 6:15 AM GMT-5",
+  "date": "Friday, October 17, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "3x performance for 1/4 of the price by migrating from AWS to Hetzner",
       "href": "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/",
-      "points": "146 points",
-      "comments": "77 comments",
+      "points": "362 points",
+      "comments": "184 comments",
       "index": 1
+    },
+    {
+      "title": "Ruby Core Takes Ownership of Rubygems and Bundler",
+      "href": "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/",
+      "points": "21 points",
+      "comments": "1 comment",
+      "index": 2
     },
     {
       "title": "How I bypassed Amazon's Kindle web DRM",
       "href": "https://blog.pixelmelt.dev/kindle-web-drm/",
-      "points": "1156 points",
-      "comments": "329 comments",
-      "index": 2
+      "points": "1235 points",
+      "comments": "368 comments",
+      "index": 3
     },
     {
       "title": "Meow.camera",
       "href": "https://meow.camera/",
-      "points": "284 points",
-      "comments": "93 comments",
-      "index": 3
+      "points": "326 points",
+      "comments": "116 comments",
+      "index": 4
     },
     {
       "title": "Ring to partner with Flock, a network of cameras used by ICE, feds, and police",
       "href": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
-      "points": "85 points",
-      "comments": "36 comments",
-      "index": 4
+      "points": "179 points",
+      "comments": "95 comments",
+      "index": 5
     },
     {
-      "title": "Reworking Memory Management in CRuby",
-      "href": "https://railsatscale.com/2025-09-16-reworking-memory-management-in-cruby/",
-      "points": "21 points",
-      "comments": "3 comments",
-      "index": 5
+      "title": "Let's Write a Macro in Rust",
+      "href": "https://hackeryarn.com/post/rust-macros-1/",
+      "points": "19 points",
+      "comments": "5 comments",
+      "index": 6
+    },
+    {
+      "title": "Codebase is 250% AI generated",
+      "href": "https://www.moderndescartes.com/essays/ai_codebase/",
+      "points": "4 points",
+      "comments": "1 comment",
+      "index": 7
     },
     {
       "title": "Claude Skills",
       "href": "https://www.anthropic.com/news/skills",
-      "points": "661 points",
-      "comments": "352 comments",
-      "index": 6
+      "points": "681 points",
+      "comments": "360 comments",
+      "index": 8
     },
     {
       "title": "Create a Custom Interactive dashboard using SVG",
       "href": "https://0xmm.in/posts/custom_dash/",
-      "points": "40 points",
-      "comments": "12 comments",
-      "index": 7
+      "points": "48 points",
+      "comments": "14 comments",
+      "index": 9
     },
     {
       "title": "Next steps for BPF support in the GNU toolchain",
       "href": "https://lwn.net/Articles/1039827/",
-      "points": "57 points",
+      "points": "69 points",
       "comments": "10 comments",
-      "index": 8
-    },
-    {
-      "title": "How does one build large front end apps without using a framework like React?",
-      "href": "item?id=45615193",
-      "points": "10 points",
-      "comments": "7 comments",
-      "index": 9
-    },
-    {
-      "title": "Gemini 3.0 spotted in the wild through A/B testing",
-      "href": "https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/",
-      "points": "375 points",
-      "comments": "230 comments",
       "index": 10
     },
     {
-      "title": "Cloudflare Sandbox SDK",
-      "href": "https://sandbox.cloudflare.com/",
-      "points": "210 points",
-      "comments": "63 comments",
+      "title": "Resizeable Bar Support on the Raspberry Pi",
+      "href": "https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi",
+      "points": "7 points",
+      "comments": "discuss",
       "index": 11
+    },
+    {
+      "title": "Reworking Memory Management in CRuby",
+      "href": "https://railsatscale.com/2025-09-16-reworking-memory-management-in-cruby/",
+      "points": "33 points",
+      "comments": "5 comments",
+      "index": 12
     },
     {
       "title": "Your data model is your destiny",
       "href": "https://notes.mtb.xyz/p/your-data-model-is-your-destiny",
-      "points": "283 points",
-      "comments": "66 comments",
-      "index": 12
+      "points": "299 points",
+      "comments": "75 comments",
+      "index": 13
+    },
+    {
+      "title": "Gemini 3.0 spotted in the wild through A/B testing",
+      "href": "https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/",
+      "points": "381 points",
+      "comments": "236 comments",
+      "index": 14
+    },
+    {
+      "title": "Cloudflare Sandbox SDK",
+      "href": "https://sandbox.cloudflare.com/",
+      "points": "222 points",
+      "comments": "65 comments",
+      "index": 15
     },
     {
       "title": "DoorDash and Waymo launch autonomous delivery service in Phoenix",
       "href": "https://about.doordash.com/en-us/news/waymo",
-      "points": "266 points",
-      "comments": "587 comments",
-      "index": 13
+      "points": "267 points",
+      "comments": "598 comments",
+      "index": 16
     },
     {
       "title": "Codex Is Live in Zed",
       "href": "https://zed.dev/blog/codex-is-live-in-zed",
-      "points": "236 points",
-      "comments": "42 comments",
-      "index": 14
-    },
-    {
-      "title": "Virtual Memory for Real-time RISC-V systems using hPMP",
-      "href": "https://arxiv.org/abs/2504.04498",
-      "points": "7 points",
-      "comments": "discuss",
-      "index": 15
-    },
-    {
-      "title": "Read Your Way Through Hà NộI",
-      "href": "https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/",
-      "points": "46 points",
-      "comments": "30 comments",
-      "index": 16
-    },
-    {
-      "title": "Hyperflask – Full stack Flask and Htmx framework",
-      "href": "https://hyperflask.dev/",
-      "points": "328 points",
-      "comments": "121 comments",
+      "points": "244 points",
+      "comments": "46 comments",
       "index": 17
     },
     {
-      "title": "A liver transplant from start to finish",
-      "href": "https://press.asimov.com/articles/liver",
-      "points": "64 points",
-      "comments": "15 comments",
+      "title": "Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course",
+      "href": "https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course",
+      "points": "19 points",
+      "comments": "6 comments",
       "index": 18
     },
     {
       "title": "Elixir 1.19",
       "href": "https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/",
-      "points": "315 points",
-      "comments": "94 comments",
+      "points": "325 points",
+      "comments": "99 comments",
       "index": 19
     },
     {
-      "title": "Syntax highlighting is a waste of an information channel (2020)",
-      "href": "https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/",
-      "points": "303 points",
-      "comments": "133 comments",
+      "title": "Hyperflask – Full stack Flask and Htmx framework",
+      "href": "https://hyperflask.dev/",
+      "points": "334 points",
+      "comments": "127 comments",
       "index": 20
     },
     {
-      "title": "America’s semiconductor boom [video]",
-      "href": "https://www.youtube.com/watch?v=T-jt3qBzJ4A",
-      "points": "166 points",
-      "comments": "97 comments",
+      "title": "A liver transplant from start to finish",
+      "href": "https://press.asimov.com/articles/liver",
+      "points": "70 points",
+      "comments": "16 comments",
       "index": 21
-    },
-    {
-      "title": "Talent",
-      "href": "https://www.felixstocker.com/blog/talent",
-      "points": "169 points",
-      "comments": "78 comments",
-      "index": 22
-    },
-    {
-      "title": "Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course",
-      "href": "https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course",
-      "points": "15 points",
-      "comments": "5 comments",
-      "index": 23
-    },
-    {
-      "title": "Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl",
-      "href": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
-      "points": "82 points",
-      "comments": "11 comments",
-      "index": 24
-    },
-    {
-      "title": "Post office in France rolls out croissant-scented stamp",
-      "href": "https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/",
-      "points": "135 points",
-      "comments": "57 comments",
-      "index": 25
-    },
-    {
-      "title": "Benjie's Humanoid Olympic Games",
-      "href": "https://generalrobots.substack.com/p/benjies-humanoid-olympic-games",
-      "points": "124 points",
-      "comments": "92 comments",
-      "index": 26
-    },
-    {
-      "title": "Frank founder Charlie Javice sentenced for JPMorgan fraud",
-      "href": "https://www.bbc.com/news/articles/c4gwj15djdxo",
-      "points": "19 points",
-      "comments": "11 comments",
-      "index": 27
-    },
-    {
-      "title": "Lead Limited Brain and Language Development in Neanderthals and Other Hominids?",
-      "href": "https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids",
-      "points": "73 points",
-      "comments": "30 comments",
-      "index": 28
     },
     {
       "title": "A 4k-Room Text Adventure Written by One Human in QBasic No AI",
       "href": "https://the-ventureweaver.itch.io/tlote4111",
-      "points": "98 points",
-      "comments": "79 comments",
+      "points": "108 points",
+      "comments": "80 comments",
+      "index": 22
+    },
+    {
+      "title": "Talent",
+      "href": "https://www.felixstocker.com/blog/talent",
+      "points": "180 points",
+      "comments": "80 comments",
+      "index": 23
+    },
+    {
+      "title": "Read Your Way Through Hà NộI",
+      "href": "https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/",
+      "points": "49 points",
+      "comments": "38 comments",
+      "index": 24
+    },
+    {
+      "title": "Virtual Memory for Real-time RISC-V systems using hPMP",
+      "href": "https://arxiv.org/abs/2504.04498",
+      "points": "9 points",
+      "comments": "1 comment",
+      "index": 25
+    },
+    {
+      "title": "Lead Limited Brain and Language Development in Neanderthals and Other Hominids?",
+      "href": "https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids",
+      "points": "82 points",
+      "comments": "36 comments",
+      "index": 26
+    },
+    {
+      "title": "Post office in France rolls out croissant-scented stamp",
+      "href": "https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/",
+      "points": "146 points",
+      "comments": "63 comments",
+      "index": 27
+    },
+    {
+      "title": "Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl",
+      "href": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+      "points": "87 points",
+      "comments": "13 comments",
+      "index": 28
+    },
+    {
+      "title": "Benjie's Humanoid Olympic Games",
+      "href": "https://generalrobots.substack.com/p/benjies-humanoid-olympic-games",
+      "points": "131 points",
+      "comments": "95 comments",
       "index": 29
     },
     {
       "title": "Electricity can heal wounds three times as fast (2023)",
       "href": "https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/",
-      "points": "172 points",
-      "comments": "109 comments",
+      "points": "183 points",
+      "comments": "113 comments",
       "index": 30
     }
   ]

@@ -1,11 +1,11 @@
 {
-  "date": "Friday, October 17, 2025 at 6:15 AM GMT-5",
+  "date": "Friday, October 17, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked",
       "href": "https://blog.pixelmelt.dev/kindle-web-drm/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 1
     },
     {
@@ -16,38 +16,38 @@
       "index": 2
     },
     {
+      "title": "Syntax highlighting is a waste of an information channel",
+      "href": "https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 3
+    },
+    {
       "title": "Forgejo v13.0 is available",
       "href": "https://forgejo.org/2025-10-release-v13-0/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Syntax highlighting is a waste of an information channel",
-      "href": "https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 4
     },
     {
       "title": "How I Almost Got Hacked By A 'Job Interview'",
       "href": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 5
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/bgmyro/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 6
     },
     {
       "title": "OCaml Platform Roadmap (2023)",
       "href": "https://ocaml.org/tools/platform-roadmap",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 6
-    },
-    {
-      "title": "Colored Highlighter - A terminal tool to highlight specific words in your command output with colors",
-      "href": "https://github.com/dtonon/ch",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
       "index": 7
     },
     {
@@ -61,21 +61,21 @@
       "title": "What’s your go-to strategy for giving engineers access to production?",
       "href": "/s/heikad/what_s_your_go_strategy_for_giving",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              29 comments\n            ",
       "index": 9
+    },
+    {
+      "title": "Colored Highlighter - A terminal tool to highlight specific words in your command output with colors",
+      "href": "https://github.com/dtonon/ch",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 10
     },
     {
       "title": "Elixir v1.19 Released",
       "href": "https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 10
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/bgmyro/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 11
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "Systems Software in the Large",
-      "href": "https://oxide.computer/blog/systems-software-in-the-large",
+      "title": "Flight Path - GPU Instanced Rendering",
+      "href": "https://jeantimex.github.io/flight-path/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 15
     },
     {
-      "title": "Speculations on arenas and non-trivial destructors",
-      "href": "https://nullprogram.com/blog/2025/10/16/",
+      "title": "Demystifying the [Kubernetes] CNI by Writing One From Scratch",
+      "href": "https://isovalent.com/blog/post/demystifying-cni/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 16
     },
     {
-      "title": "Flight Path - GPU Instanced Rendering",
-      "href": "https://jeantimex.github.io/flight-path/",
+      "title": "Systems Software in the Large",
+      "href": "https://oxide.computer/blog/systems-software-in-the-large",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 17
-    },
-    {
-      "title": "An Introduction to Multisets",
-      "href": "https://arxiv.org/abs/2110.12902",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Lakehouses: the path to low-cost, infinitely scalable, and no-lock-in observability?",
-      "href": "https://clickhouse.com/blog/lakehouses-path-to-low-cost-scalable-no-lockin-observability",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "cl-tuition: a Common Lisp library for building TUIs inspired by Charm",
-      "href": "https://github.com/atgreen/cl-tuition",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 20
     },
     {
       "title": "An effort to create a K8s cluster with 1M active nodes",
       "href": "https://bchess.github.io/k8s-1m/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Speculations on arenas and non-trivial destructors",
+      "href": "https://nullprogram.com/blog/2025/10/16/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "An Introduction to Multisets",
+      "href": "https://arxiv.org/abs/2110.12902",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "cl-tuition: a Common Lisp library for building TUIs inspired by Charm",
+      "href": "https://github.com/atgreen/cl-tuition",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 21
+    },
+    {
+      "title": "Lakehouses: the path to low-cost, infinitely scalable, and no-lock-in observability?",
+      "href": "https://clickhouse.com/blog/lakehouses-path-to-low-cost-scalable-no-lockin-observability",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
     },
     {
       "title": "Hyperflask - Flask-based Web Framework Integrated with HTMX",
       "href": "https://hyperflask.dev/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "The Transition of RubyGems Repository Ownership",
+      "href": "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "MNT September 2025 Update",
       "href": "https://mntre.com/media/reform_md/2025-09-30-september-update.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Python as a Configuration Language (via Starlark)",
-      "href": "https://openrun.dev/blog/starlark/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Scheme Steering Committee election",
-      "href": "https://r7rs.org/sc/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
