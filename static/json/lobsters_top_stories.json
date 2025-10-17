@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, October 16, 2025 at 10:00 PM GMT-5",
+  "date": "Thursday, October 16, 2025 at 11:25 PM GMT-5",
   "articles": [
     {
       "title": "Forgejo v13.0 is available",
@@ -16,52 +16,52 @@
       "index": 2
     },
     {
-      "title": "What’s your go-to strategy for giving engineers access to production?",
-      "href": "/s/heikad/what_s_your_go_strategy_for_giving",
+      "title": "Automerge",
+      "href": "https://automerge.org/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 3
     },
     {
-      "title": "Design for the trash can",
-      "href": "https://arpi.se/anders/#design-for-the-trash-can",
+      "title": "What’s your go-to strategy for giving engineers access to production?",
+      "href": "/s/heikad/what_s_your_go_strategy_for_giving",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 4
+    },
+    {
+      "title": "How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked",
+      "href": "https://blog.pixelmelt.dev/kindle-web-drm/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 5
     },
     {
       "title": "Colored Highlighter - A terminal tool to highlight specific words in your command output with colors",
       "href": "https://github.com/dtonon/ch",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
-      "title": "Automerge",
-      "href": "https://automerge.org/",
+      "title": "Design for the trash can",
+      "href": "https://arpi.se/anders/#design-for-the-trash-can",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 6
+      "comments": "\n              10 comments\n            ",
+      "index": 7
     },
     {
       "title": "Zed editor is now available on Windows",
       "href": "https://zed.dev/blog/zed-for-windows-is-here",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "An Introduction To Event Theory",
       "href": "https://yonkeltron.com/posts/an-introduction-to-event-theory/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked",
-      "href": "https://blog.pixelmelt.dev/kindle-web-drm/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 9
     },
     {
@@ -72,31 +72,31 @@
       "index": 10
     },
     {
+      "title": "Systems Software in the Large",
+      "href": "https://oxide.computer/blog/systems-software-in-the-large",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 11
+    },
+    {
       "title": "cl-tuition: a Common Lisp library for building TUIs inspired by Charm",
       "href": "https://github.com/atgreen/cl-tuition",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Hyperflask - Flask-based Web Framework Integrated with HTMX",
       "href": "https://hyperflask.dev/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Scheme Steering Committee election",
       "href": "https://r7rs.org/sc/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Systems Software in the Large",
-      "href": "https://oxide.computer/blog/systems-software-in-the-large",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 14
     },
     {
@@ -121,57 +121,57 @@
       "index": 17
     },
     {
-      "title": "Why C variable argument functions are an abomination (and what to do about it)",
-      "href": "https://h4x0r.org/vargs/",
+      "title": "Speculations on arenas and non-trivial destructors",
+      "href": "https://nullprogram.com/blog/2025/10/16/",
       "points": "",
-      "comments": "\n              27 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
       "title": "Python as a Configuration Language (via Starlark)",
       "href": "https://openrun.dev/blog/starlark/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 19
     },
     {
-      "title": "Free applicatives, the handle pattern, and remote systems",
-      "href": "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html",
+      "title": "Why C variable argument functions are an abomination (and what to do about it)",
+      "href": "https://h4x0r.org/vargs/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 20
-    },
-    {
-      "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
-      "href": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
-      "points": "",
-      "comments": "\n              30 comments\n            ",
-      "index": 21
     },
     {
       "title": "An effort to create a K8s cluster with 1M active nodes",
       "href": "https://bchess.github.io/k8s-1m/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Free applicatives, the handle pattern, and remote systems",
+      "href": "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 22
+    },
+    {
+      "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
+      "href": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
+      "points": "",
+      "comments": "\n              30 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "HTML dialog: Getting accessibility and UX right",
+      "href": "https://jaredcunha.com/blog/html-dialog-getting-accessibility-and-ux-right",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "Pwning the Entire Nix Ecosystem",
       "href": "https://ptrpa.ws/nixpkgs-actions-abuse",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Gamma correction on fragment shaders",
-      "href": "https://riccardoscalco.it/blog/gamma-correction-on-fragment-shaders/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "When you opened a screen shot of a video in Paint, the video was playing in it",
-      "href": "https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681",
       "points": "",
       "comments": "\n              11 comments\n            ",
       "index": 25
