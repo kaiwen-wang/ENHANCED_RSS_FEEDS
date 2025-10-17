@@ -1,214 +1,214 @@
 {
-  "date": "Friday, October 17, 2025 at 10:20 AM GMT-5",
+  "date": "Friday, October 17, 2025 at 11:25 AM GMT-5",
   "articles": [
-    {
-      "title": "3x performance for 1/4 of the price by migrating from AWS to Hetzner",
-      "href": "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/",
-      "points": "711 points",
-      "comments": "400 comments",
-      "index": 1
-    },
     {
       "title": "Live Stream from the Namib Desert",
       "href": "https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html",
-      "points": "119 points",
-      "comments": "30 comments",
+      "points": "178 points",
+      "comments": "40 comments",
+      "index": 1
+    },
+    {
+      "title": "Ruby core team takes ownership of RubyGems and Bundler",
+      "href": "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/",
+      "points": "343 points",
+      "comments": "174 comments",
       "index": 2
     },
     {
       "title": "How I bypassed Amazon's Kindle web DRM",
       "href": "https://blog.pixelmelt.dev/kindle-web-drm/",
-      "points": "1344 points",
-      "comments": "416 comments",
+      "points": "1399 points",
+      "comments": "433 comments",
       "index": 3
     },
     {
-      "title": "Ruby Core Takes Ownership of Rubygems and Bundler",
-      "href": "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/",
-      "points": "271 points",
-      "comments": "131 comments",
+      "title": "EVs are depreciating faster than gas-powered cars",
+      "href": "https://restofworld.org/2025/ev-depreciation-blusmart-collapse/",
+      "points": "65 points",
+      "comments": "125 comments",
       "index": 4
     },
     {
       "title": "Meow.camera",
       "href": "https://meow.camera/",
-      "points": "433 points",
-      "comments": "154 comments",
+      "points": "466 points",
+      "comments": "168 comments",
       "index": 5
+    },
+    {
+      "title": "Migrating from AWS to Hetzner",
+      "href": "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/",
+      "points": "819 points",
+      "comments": "454 comments",
+      "index": 6
     },
     {
       "title": "You did no fact checking, and I must scream",
       "href": "https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/",
-      "points": "85 points",
-      "comments": "22 comments",
-      "index": 6
+      "points": "168 points",
+      "comments": "75 comments",
+      "index": 7
     },
     {
       "title": "Resizeable Bar Support on the Raspberry Pi",
       "href": "https://www.jeffgeerling.com/blog/2025/resizeable-bar-support-on-raspberry-pi",
-      "points": "50 points",
-      "comments": "13 comments",
-      "index": 7
-    },
-    {
-      "title": "Let's Write a Macro in Rust",
-      "href": "https://hackeryarn.com/post/rust-macros-1/",
-      "points": "45 points",
-      "comments": "18 comments",
+      "points": "63 points",
+      "comments": "16 comments",
       "index": 8
-    },
-    {
-      "title": "Claude Skills",
-      "href": "https://www.anthropic.com/news/skills",
-      "points": "722 points",
-      "comments": "382 comments",
-      "index": 9
-    },
-    {
-      "title": "Zorin OS 18",
-      "href": "https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/",
-      "points": "30 points",
-      "comments": "22 comments",
-      "index": 10
-    },
-    {
-      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
-      "href": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
-      "points": "19 points",
-      "comments": "4 comments",
-      "index": 11
-    },
-    {
-      "title": "Dev Services for Spring Boot Using Arconia",
-      "href": "https://www.thomasvitale.com/arconia-dev-services-spring-boot/",
-      "points": "8 points",
-      "comments": "1 comment",
-      "index": 12
-    },
-    {
-      "title": "Metropolis 1998 lets you design every building in an isometric, pixel-art city (2024)",
-      "href": "https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/",
-      "points": "31 points",
-      "comments": "11 comments",
-      "index": 13
-    },
-    {
-      "title": "Ring to partner with Flock, a network of cameras used by ICE, feds, and police",
-      "href": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
-      "points": "344 points",
-      "comments": "248 comments",
-      "index": 14
-    },
-    {
-      "title": "Show HN: A large format XY scanning hyperspectral camera",
-      "href": "https://www.anfractuosity.com/projects/waverider/",
-      "points": "12 points",
-      "comments": "6 comments",
-      "index": 15
-    },
-    {
-      "title": "A classified network of SpaceX satellites is emitting a mysterious signal",
-      "href": "https://www.npr.org/2025/10/17/nx-s1-5575254/spacex-starshield-starlink-signal",
-      "points": "92 points",
-      "comments": "37 comments",
-      "index": 16
-    },
-    {
-      "title": "Next steps for BPF support in the GNU toolchain",
-      "href": "https://lwn.net/Articles/1039827/",
-      "points": "87 points",
-      "comments": "12 comments",
-      "index": 17
-    },
-    {
-      "title": "Show HN: OnlyJPG – Client-Side PNG/HEIC/AVIF/PDF/etc to JPG",
-      "href": "https://onlyjpg.com",
-      "points": "25 points",
-      "comments": "13 comments",
-      "index": 18
-    },
-    {
-      "title": "New computer model helps reveal how the brain both adapts and misfires",
-      "href": "https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course",
-      "points": "42 points",
-      "comments": "18 comments",
-      "index": 19
-    },
-    {
-      "title": "Your data model is your destiny",
-      "href": "https://notes.mtb.xyz/p/your-data-model-is-your-destiny",
-      "points": "330 points",
-      "comments": "84 comments",
-      "index": 20
-    },
-    {
-      "title": "A 4k-Room Text Adventure Written by One Human in QBasic No AI",
-      "href": "https://the-ventureweaver.itch.io/tlote4111",
-      "points": "127 points",
-      "comments": "89 comments",
-      "index": 21
     },
     {
       "title": "Endorsing easily disproven claims linked to prioritizing symbolic strength",
       "href": "https://theconversation.com/winning-with-misinformation-new-research-identifies-link-between-endorsing-easily-disproven-claims-and-prioritizing-symbolic-strength-265652",
-      "points": "4 points",
-      "comments": "discuss",
+      "points": "34 points",
+      "comments": "32 comments",
+      "index": 9
+    },
+    {
+      "title": "Let's write a macro in Rust",
+      "href": "https://hackeryarn.com/post/rust-macros-1/",
+      "points": "60 points",
+      "comments": "23 comments",
+      "index": 10
+    },
+    {
+      "title": "Claude Skills",
+      "href": "https://www.anthropic.com/news/skills",
+      "points": "737 points",
+      "comments": "385 comments",
+      "index": 11
+    },
+    {
+      "title": "Zorin OS 18",
+      "href": "https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/",
+      "points": "58 points",
+      "comments": "35 comments",
+      "index": 12
+    },
+    {
+      "title": "4Chan Lawyer publishes Ofcom correspondence",
+      "href": "https://alecmuffett.com/article/117792",
+      "points": "84 points",
+      "comments": "119 comments",
+      "index": 13
+    },
+    {
+      "title": "Trap the Critters with Paint",
+      "href": "https://deepanwadhwa.github.io/freeze_trap/",
+      "points": "14 points",
+      "comments": "7 comments",
+      "index": 14
+    },
+    {
+      "title": "Dead or Alive creator Tomonobu Itagaki, 58 passes away",
+      "href": "https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58",
+      "points": "14 points",
+      "comments": "4 comments",
+      "index": 15
+    },
+    {
+      "title": "Ask HN: How to stop an AWS bot sending 2B requests/month?",
+      "href": "item?id=45613567",
+      "points": "92 points",
+      "comments": "58 comments",
+      "index": 16
+    },
+    {
+      "title": "I Test Drove a Flying Car. Get Ready, They're Here",
+      "href": "https://www.wsj.com/lifestyle/cars/i-test-drove-a-flying-car-get-ready-theyre-here-257b0ecf",
+      "points": "10 points",
+      "comments": "2 comments",
+      "index": 17
+    },
+    {
+      "title": "Read your way through Hà Nội",
+      "href": "https://vietnamesetypography.com/samples/read-your-way-through-ha-noi/",
+      "points": "54 points",
+      "comments": "46 comments",
+      "index": 18
+    },
+    {
+      "title": "Email bombs exploit lax authentication in Zendesk",
+      "href": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+      "points": "31 points",
+      "comments": "8 comments",
+      "index": 19
+    },
+    {
+      "title": "Metropolis 1998 lets you design every building in an isometric, pixel-art city (2024)",
+      "href": "https://arstechnica.com/gaming/2024/08/metropolis-1998-lets-you-design-every-building-in-an-isometric-pixel-art-city/",
+      "points": "55 points",
+      "comments": "20 comments",
+      "index": 20
+    },
+    {
+      "title": "A classified network of SpaceX satellites is emitting a mysterious signal",
+      "href": "https://www.npr.org/2025/10/17/nx-s1-5575254/spacex-starshield-starlink-signal",
+      "points": "121 points",
+      "comments": "58 comments",
+      "index": 21
+    },
+    {
+      "title": "Show HN: A large format XY scanning hyperspectral camera",
+      "href": "https://www.anfractuosity.com/projects/waverider/",
+      "points": "17 points",
+      "comments": "9 comments",
       "index": 22
+    },
+    {
+      "title": "Amazon’s Ring to partner with Flock",
+      "href": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
+      "points": "394 points",
+      "comments": "287 comments",
+      "index": 23
+    },
+    {
+      "title": "Next steps for BPF support in the GNU toolchain",
+      "href": "https://lwn.net/Articles/1039827/",
+      "points": "89 points",
+      "comments": "14 comments",
+      "index": 24
+    },
+    {
+      "title": "New computer model helps reveal how the brain both adapts and misfires",
+      "href": "https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course",
+      "points": "48 points",
+      "comments": "18 comments",
+      "index": 25
+    },
+    {
+      "title": "Ask HN: How does one build large front end apps without a framework like React?",
+      "href": "item?id=45615193",
+      "points": "47 points",
+      "comments": "83 comments",
+      "index": 26
+    },
+    {
+      "title": "Show HN: OnlyJPG – Client-Side PNG/HEIC/AVIF/PDF/etc to JPG",
+      "href": "https://onlyjpg.com",
+      "points": "34 points",
+      "comments": "18 comments",
+      "index": 27
+    },
+    {
+      "title": "Your data model is your destiny",
+      "href": "https://notes.mtb.xyz/p/your-data-model-is-your-destiny",
+      "points": "337 points",
+      "comments": "86 comments",
+      "index": 28
     },
     {
       "title": "DoorDash and Waymo launch autonomous delivery service in Phoenix",
       "href": "https://about.doordash.com/en-us/news/waymo",
-      "points": "280 points",
-      "comments": "632 comments",
-      "index": 23
-    },
-    {
-      "title": "Codex Is Live in Zed",
-      "href": "https://zed.dev/blog/codex-is-live-in-zed",
-      "points": "253 points",
-      "comments": "54 comments",
-      "index": 24
+      "points": "285 points",
+      "comments": "645 comments",
+      "index": 29
     },
     {
       "title": "Gemini 3.0 spotted in the wild through A/B testing",
       "href": "https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/",
-      "points": "394 points",
+      "points": "400 points",
       "comments": "253 comments",
-      "index": 25
-    },
-    {
-      "title": "Cloudflare Sandbox SDK",
-      "href": "https://sandbox.cloudflare.com/",
-      "points": "235 points",
-      "comments": "80 comments",
-      "index": 26
-    },
-    {
-      "title": "Elixir 1.19",
-      "href": "https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/",
-      "points": "348 points",
-      "comments": "112 comments",
-      "index": 27
-    },
-    {
-      "title": "A liver transplant from start to finish",
-      "href": "https://press.asimov.com/articles/liver",
-      "points": "86 points",
-      "comments": "23 comments",
-      "index": 28
-    },
-    {
-      "title": "Virtual Memory for Real-time RISC-V systems using hPMP",
-      "href": "https://arxiv.org/abs/2504.04498",
-      "points": "15 points",
-      "comments": "2 comments",
-      "index": 29
-    },
-    {
-      "title": "Talent",
-      "href": "https://www.felixstocker.com/blog/talent",
-      "points": "208 points",
-      "comments": "88 comments",
       "index": 30
     }
   ]
