@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, October 18, 2025 at 8:40 PM GMT-5",
+  "date": "Saturday, October 18, 2025 at 10:15 PM GMT-5",
   "articles": [
     {
       "title": "If you could redesign Linux userland from scratch, what would you do differently?",
       "href": "/s/ko5i9y/if_you_could_redesign_linux_userland_from",
       "points": "",
-      "comments": "\n              76 comments\n            ",
+      "comments": "\n              79 comments\n            ",
       "index": 1
     },
     {
@@ -16,17 +16,17 @@
       "index": 2
     },
     {
-      "title": "The Majority AI View",
-      "href": "https://www.anildash.com//2025/10/17/the-majority-ai-view/",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 3
-    },
-    {
       "title": "An open letter to the Obsidian team",
       "href": "https://www.emilebangma.com/Writings/Blog/An-open-letter-to-the-Obsidian-team",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "The Majority AI View",
+      "href": "https://www.anildash.com//2025/10/17/the-majority-ai-view/",
+      "points": "",
+      "comments": "\n              29 comments\n            ",
       "index": 4
     },
     {
@@ -44,136 +44,136 @@
       "index": 6
     },
     {
-      "title": "Scheme Reports at Fifty: Where do we go from here?",
-      "href": "https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html",
+      "title": "Knowledge creates technical debt",
+      "href": "https://lukeplant.me.uk/blog/posts/knowledge-creates-technical-debt/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 7
     },
     {
       "title": "Software can be finished",
       "href": "https://rosswintle.uk/2025/10/software-can-be-finished/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 8
     },
     {
-      "title": "When if is just a function",
-      "href": "https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Knowledge creates technical debt",
-      "href": "https://lukeplant.me.uk/blog/posts/knowledge-creates-technical-debt/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 10
-    },
-    {
-      "title": "How Tailscale is improving NAT traversal (Part 1)",
-      "href": "https://tailscale.com/blog/nat-traversal-improvements-pt-1",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Joe Decuir Engineering Notebook 1978",
-      "href": "https://archive.org/details/JoeDecuirEngineeringNotebook1978",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 12
-    },
-    {
-      "title": "The design space of AI coding tools",
-      "href": "https://austinhenley.com/blog/aidesignspace.html",
+      "title": "Scheme Reports at Fifty: Where do we go from here?",
+      "href": "https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Solving the NYTimes Pips puzzle with a constraint solver",
-      "href": "http://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "Claude Skills may be a bigger deal than MCP",
-      "href": "https://simonwillison.net/2025/Oct/16/claude-skills/",
-      "points": "",
-      "comments": "\n              25 comments\n            ",
-      "index": 15
+      "index": 9
     },
     {
       "title": "Using PEGs in Janet",
       "href": "https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 10
     },
     {
-      "title": "Every vibe-coded website is the same page with different words. So I made that page",
-      "href": "https://vibe-coded.lol/",
+      "title": "When if is just a function",
+      "href": "https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 17
+      "comments": "\n              29 comments\n            ",
+      "index": 11
     },
     {
-      "title": "Exploring PostgreSQL 18's new UUIDv7 support",
-      "href": "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support",
+      "title": "Joe Decuir Engineering Notebook 1978",
+      "href": "https://archive.org/details/JoeDecuirEngineeringNotebook1978",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 18
+      "comments": "\n              2 comments\n            ",
+      "index": 12
     },
     {
-      "title": "Fast calculation of the distance to cubic Bezier curves on the GPU",
-      "href": "https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html",
+      "title": "How Tailscale is improving NAT traversal (Part 1)",
+      "href": "https://tailscale.com/blog/nat-traversal-improvements-pt-1",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
+      "comments": "\n              3 comments\n            ",
+      "index": 13
     },
     {
-      "title": "How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked",
-      "href": "https://blog.pixelmelt.dev/kindle-web-drm/",
-      "points": "",
-      "comments": "\n              30 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Micro Machines BIC-23 PCB with hardware ROM patch",
-      "href": "https://forums.nesdev.org/viewtopic.php?t=26295",
+      "title": "The design space of AI coding tools",
+      "href": "https://austinhenley.com/blog/aidesignspace.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "./watch",
-      "href": "https://dotslashwatch.com",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 14
     },
     {
       "title": "Feed me up, Scotty",
       "href": "https://feed-me-up-scotty.vincenttunru.com/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Solving the NYTimes Pips puzzle with a constraint solver",
+      "href": "http://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
+      "title": "Claude Skills may be a bigger deal than MCP",
+      "href": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+      "points": "",
+      "comments": "\n              25 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Every vibe-coded website is the same page with different words. So I made that page",
+      "href": "https://vibe-coded.lol/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Exploring PostgreSQL 18's new UUIDv7 support",
+      "href": "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Fast calculation of the distance to cubic Bezier curves on the GPU",
+      "href": "https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked",
+      "href": "https://blog.pixelmelt.dev/kindle-web-drm/",
+      "points": "",
+      "comments": "\n              30 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Micro Machines BIC-23 PCB with hardware ROM patch",
+      "href": "https://forums.nesdev.org/viewtopic.php?t=26295",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "./watch",
+      "href": "https://dotslashwatch.com",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 23
+    },
+    {
+      "title": "Why formalize mathematics - more than catching errors",
+      "href": "https://rkirov.github.io/posts/why_lean/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "Building an Agent That Leverages Throwaway Code",
       "href": "https://lucumr.pocoo.org/2025/10/17/code/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "How we organized the Rust Clippy feature freeze",
-      "href": "https://blog.goose.love/posts/organizing-a-feature-freeze/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
