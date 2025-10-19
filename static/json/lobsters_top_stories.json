@@ -1,67 +1,67 @@
 {
-  "date": "Sunday, October 19, 2025 at 11:20 AM GMT-5",
+  "date": "Sunday, October 19, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "The future of Python web services looks GIL-free",
       "href": "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              24 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "Weird, but Haskell feels easy",
+      "href": "https://xlii.space/eng/haskell-feels-easy/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 2
     },
     {
       "title": "Ripgrep 15.0.0",
       "href": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
       "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 2
+      "comments": "\n              15 comments\n            ",
+      "index": 3
     },
     {
       "title": "Everybody's so Creative",
       "href": "https://daymare.net/blogs/everbody-so-creative/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Weird, but Haskell feels easy",
-      "href": "https://xlii.space/eng/haskell-feels-easy/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 4
     },
     {
       "title": "If you could redesign Linux userland from scratch, what would you do differently?",
       "href": "/s/ko5i9y/if_you_could_redesign_linux_userland_from",
       "points": "",
-      "comments": "\n              134 comments\n            ",
+      "comments": "\n              139 comments\n            ",
       "index": 5
     },
     {
-      "title": "An open letter to the Obsidian team",
-      "href": "https://www.emilebangma.com/Writings/Blog/An-open-letter-to-the-Obsidian-team",
+      "title": "How I’d like my init system / service supervisor to be",
+      "href": "https://runxiyu.org/blog/linit/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "Software can be finished",
-      "href": "https://rosswintle.uk/2025/10/software-can-be-finished/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 7
     },
     {
       "title": "Tracking Down a Regression in Mesa 3D",
       "href": "https://vkoskiv.com/mesa-regression/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "An open letter to the Obsidian team",
+      "href": "https://www.emilebangma.com/Writings/Blog/An-open-letter-to-the-Obsidian-team",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 8
     },
     {
-      "title": "How I’d like my init system / service supervisor to be",
-      "href": "https://runxiyu.org/blog/linit/",
+      "title": "Software can be finished",
+      "href": "https://rosswintle.uk/2025/10/software-can-be-finished/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 9
     },
     {
@@ -72,108 +72,108 @@
       "index": 10
     },
     {
+      "title": "How I made my own web server in Gleam",
+      "href": "https://wskiy.de/blog/making_my_own_web_server_in_gleam",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
       "title": "On Perfetto, Open Source, and Company Priorities",
       "href": "https://lalitm.com/perfetto-oss-company-prio/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 11
+      "comments": "\n              9 comments\n            ",
+      "index": 12
     },
     {
       "title": "Improving PixelMelt's Kindle Web Deobfuscator",
       "href": "https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Knowledge creates technical debt",
       "href": "https://lukeplant.me.uk/blog/posts/knowledge-creates-technical-debt/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Librebooting the ThinkPad T480",
       "href": "https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "./watch",
       "href": "https://dotslashwatch.com",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Scheme Reports at Fifty: Where do we go from here?",
       "href": "https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "The Majority AI View",
       "href": "https://www.anildash.com//2025/10/17/the-majority-ai-view/",
       "points": "",
       "comments": "\n              48 comments\n            ",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "Consistent Hashing",
+      "href": "https://eli.thegreenplace.net/2025/consistent-hashing",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
     },
     {
       "title": "scx: sched_ext schedulers and tools",
       "href": "https://github.com/sched-ext/scx",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
+      "index": 20
     },
     {
-      "title": "How I made my own web server in Gleam",
-      "href": "https://wskiy.de/blog/making_my_own_web_server_in_gleam",
+      "title": "AT&T Long Lines – A Forgotten System (2018)",
+      "href": "https://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Flowistry: An IDE plugin for Rust that focuses on relevant code",
       "href": "https://github.com/willcrichton/flowistry",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Balancing Coupling in Software Design",
       "href": "https://olano.dev/blog/balancing-coupling/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Using PEGs in Janet",
       "href": "https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Hallucinations are inevitable but can be made statistically negligible",
       "href": "https://doi.org/10.48550/arXiv.2502.12187",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Consistent Hashing",
-      "href": "https://eli.thegreenplace.net/2025/consistent-hashing",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "The design space of AI coding tools",
-      "href": "https://austinhenley.com/blog/aidesignspace.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
