@@ -1,5 +1,5 @@
 {
-  "date": "Monday, October 20, 2025 at 1:30 PM GMT-5",
+  "date": "Monday, October 20, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Servo 0.0.1 Release",
@@ -19,14 +19,14 @@
       "title": "We need to start doing web blocking for non-technical reasons",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 3
     },
     {
       "title": "Some Smalltalk about Ruby Loops",
       "href": "https://tech.stonecharioteer.com/posts/2025/ruby-loops/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 4
     },
     {
@@ -37,24 +37,24 @@
       "index": 5
     },
     {
-      "title": "How I Use Claude Code on My Phone with Termux and Tailscale",
-      "href": "https://www.skeptrune.com/posts/claude-code-on-mobile-termux-tailscale/",
+      "title": "Fil-C",
+      "href": "https://fil-c.org",
       "points": "",
       "comments": "\n              6 comments\n            ",
       "index": 6
     },
     {
-      "title": "Fil-C",
-      "href": "https://fil-c.org",
+      "title": "How I Use Claude Code on My Phone with Termux and Tailscale",
+      "href": "https://www.skeptrune.com/posts/claude-code-on-mobile-termux-tailscale/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 7
     },
     {
-      "title": "Reframe Technical Debt as Software Debt. Treat it like a AAA-rated CDO",
-      "href": "https://www.evalapply.org/posts/software-debt/index.html",
+      "title": "What are you doing this week?",
+      "href": "/s/dsbwge/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 8
     },
     {
@@ -65,10 +65,10 @@
       "index": 9
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/dsbwge/what_are_you_doing_this_week",
+      "title": "Reframe Technical Debt as Software Debt. Treat it like a AAA-rated CDO",
+      "href": "https://www.evalapply.org/posts/software-debt/index.html",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 10
     },
     {
@@ -79,31 +79,31 @@
       "index": 11
     },
     {
-      "title": "Tracking Down a Regression in Mesa 3D",
-      "href": "https://vkoskiv.com/mesa-regression/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 12
-    },
-    {
       "title": "Ruby Butler: It’s Time to Rethink RubyGems and Bundler",
       "href": "https://rubyelders.com/writings/2025-10-ruby-butler-1.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
-      "title": "The future of Python web services looks GIL-free",
-      "href": "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free",
-      "points": "",
-      "comments": "\n              45 comments\n            ",
-      "index": 14
+      "index": 12
     },
     {
       "title": "In favor of comments, what does empirical engineering says? (2022)",
       "href": "https://sadraskol.com/posts/in-favor-of-comments-what-does-empirical-engineering-says/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Tracking Down a Regression in Mesa 3D",
+      "href": "https://vkoskiv.com/mesa-regression/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "The future of Python web services looks GIL-free",
+      "href": "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free",
+      "points": "",
+      "comments": "\n              45 comments\n            ",
       "index": 15
     },
     {
@@ -114,17 +114,17 @@
       "index": 16
     },
     {
+      "title": "Nix CI Benchmarks",
+      "href": "https://garnix-io.github.io/benchmarks",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
       "title": "Continuously keep local mailboxes in sync with an IMAP server",
       "href": "https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Three times faster with lazy imports",
-      "href": "https://hugovk.dev/blog/2025/lazy-imports/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "Three times faster with lazy imports",
+      "href": "https://hugovk.dev/blog/2025/lazy-imports/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
       "title": "Add Rust Binder Driver",
       "href": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eafedbc7c050",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "When it comes to MCPs, everything we know about API design is wrong",
       "href": "https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Everybody's so Creative",
       "href": "https://daymare.net/blogs/everbody-so-creative/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Hide read comments",
       "href": "/s/opzhuf/hide_read_comments",
       "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 23
+      "comments": "\n              12 comments\n            ",
+      "index": 24
     },
     {
       "title": "Compare Single Board Computers",
       "href": "https://sbc.compare/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Create Your Own AI Voice Agent Using EchoKit, ESP32, and Rust",
-      "href": "https://www.instructables.com/Create-Your-Own-AI-Voice-Agent-Using-EchoKit-ESP32/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
