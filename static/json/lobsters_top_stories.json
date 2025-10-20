@@ -1,60 +1,60 @@
 {
-  "date": "Monday, October 20, 2025 at 4:30 AM GMT-5",
+  "date": "Monday, October 20, 2025 at 5:25 AM GMT-5",
   "articles": [
     {
       "title": "No Military Funding (2004)",
       "href": "https://web.eecs.umich.edu/~kuipers/opinions/no-military-funding.html",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 1
     },
     {
       "title": "The Day My Smart Vacuum Turned Against Me",
       "href": "https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 2
     },
     {
       "title": "The future of Python web services looks GIL-free",
       "href": "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free",
       "points": "",
-      "comments": "\n              39 comments\n            ",
+      "comments": "\n              40 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
+      "href": "https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 4
     },
     {
       "title": "Tracking Down a Regression in Mesa 3D",
       "href": "https://vkoskiv.com/mesa-regression/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Weird, but Haskell feels easy",
       "href": "https://xlii.space/eng/haskell-feels-easy/",
       "points": "",
-      "comments": "\n              29 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
-      "href": "https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              30 comments\n            ",
       "index": 6
     },
     {
-      "title": "Compare Single Board Computers",
-      "href": "https://sbc.compare/",
+      "title": "Gleam v1.13.0 released",
+      "href": "https://gleam.run/news/formalising-external-apis/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 7
     },
     {
       "title": "Everybody's so Creative",
       "href": "https://daymare.net/blogs/everbody-so-creative/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 8
     },
     {
@@ -65,10 +65,10 @@
       "index": 9
     },
     {
-      "title": "How I’d like my init system / service supervisor to be",
-      "href": "https://runxiyu.org/blog/linit/",
+      "title": "Compare Single Board Computers",
+      "href": "https://sbc.compare/",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 10
     },
     {
@@ -82,98 +82,98 @@
       "title": "When it comes to MCPs, everything we know about API design is wrong",
       "href": "https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 12
+    },
+    {
+      "title": "How I’d like my init system / service supervisor to be",
+      "href": "https://runxiyu.org/blog/linit/",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
+      "index": 13
     },
     {
       "title": "How I made my own web server in Gleam",
       "href": "https://wskiy.de/blog/making_my_own_web_server_in_gleam",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Mars pathfinder disaster",
       "href": "https://guitarvydas.github.io/2023/10/25/Mars-Pathfinder-Disaster.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 14
+      "comments": "\n              2 comments\n            ",
+      "index": 15
     },
     {
       "title": "Consistent Hashing",
       "href": "https://eli.thegreenplace.net/2025/consistent-hashing",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Ripgrep 15.0.0",
-      "href": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
       "index": 16
-    },
-    {
-      "title": "Improving PixelMelt's Kindle Web Deobfuscator",
-      "href": "https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 17
     },
     {
       "title": "Integer Set Library (ISL) - A Primer",
       "href": "https://www.jeremykun.com/2025/10/19/isl-a-primer/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Ripgrep 15.0.0",
+      "href": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
       "index": 18
+    },
+    {
+      "title": "Improving PixelMelt's Kindle Web Deobfuscator",
+      "href": "https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "We need to start doing web blocking for non-technical reasons",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
     },
     {
       "title": "Copy-and-Patch: How It Works",
       "href": "https://transactional.blog/copy-and-patch/how-it-works",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "If you could redesign Linux userland from scratch, what would you do differently?",
       "href": "/s/ko5i9y/if_you_could_redesign_linux_userland_from",
       "points": "",
-      "comments": "\n              179 comments\n            ",
-      "index": 20
+      "comments": "\n              184 comments\n            ",
+      "index": 22
     },
     {
       "title": "Librebooting the ThinkPad T480",
       "href": "https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 21
+      "comments": "\n              8 comments\n            ",
+      "index": 23
     },
     {
       "title": "An open letter to the Obsidian team",
       "href": "https://www.emilebangma.com/Writings/Blog/An-open-letter-to-the-Obsidian-team",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Perfect Jumps in SM64 - Arctan Straining Explained",
-      "href": "https://youtu.be/_yx0eutBwII",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Software can be finished",
       "href": "https://rosswintle.uk/2025/10/software-can-be-finished/",
       "points": "",
       "comments": "\n              25 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "AI Trading in Real Market",
-      "href": "https://nof1.ai/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 25
     }
   ]
