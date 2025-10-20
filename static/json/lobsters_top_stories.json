@@ -1,18 +1,18 @@
 {
-  "date": "Monday, October 20, 2025 at 9:20 AM GMT-5",
+  "date": "Monday, October 20, 2025 at 10:20 AM GMT-5",
   "articles": [
-    {
-      "title": "No Military Funding (2004)",
-      "href": "https://web.eecs.umich.edu/~kuipers/opinions/no-military-funding.html",
-      "points": "",
-      "comments": "\n              25 comments\n            ",
-      "index": 1
-    },
     {
       "title": "Gleam v1.13.0 released",
       "href": "https://gleam.run/news/formalising-external-apis/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "Servo 0.0.1 Release",
+      "href": "https://servo.org/blog/2025/10/20/servo-0.0.1-release/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 2
     },
     {
@@ -23,66 +23,66 @@
       "index": 3
     },
     {
-      "title": "Servo 0.0.1 Release",
-      "href": "https://servo.org/blog/2025/10/20/servo-0.0.1-release/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 4
-    },
-    {
       "title": "We need to start doing web blocking for non-technical reasons",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 5
+      "comments": "\n              4 comments\n            ",
+      "index": 4
     },
     {
       "title": "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
       "href": "https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html",
       "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 6
+      "comments": "\n              10 comments\n            ",
+      "index": 5
     },
     {
       "title": "The future of Python web services looks GIL-free",
       "href": "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free",
       "points": "",
-      "comments": "\n              44 comments\n            ",
-      "index": 7
+      "comments": "\n              45 comments\n            ",
+      "index": 6
     },
     {
       "title": "Tracking Down a Regression in Mesa 3D",
       "href": "https://vkoskiv.com/mesa-regression/",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "Go proposal: Compare IP subnets",
+      "href": "https://antonz.org/accepted/netip-prefix-compare/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 8
+    },
+    {
+      "title": "How I Use Claude Code on My Phone with Termux and Tailscale",
+      "href": "https://www.skeptrune.com/posts/claude-code-on-mobile-termux-tailscale/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 9
     },
     {
       "title": "Weird, but Haskell feels easy",
       "href": "https://xlii.space/eng/haskell-feels-easy/",
       "points": "",
       "comments": "\n              35 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
-      "title": "Go proposal: Compare IP subnets",
-      "href": "https://antonz.org/accepted/netip-prefix-compare/",
+      "title": "What are you doing this week?",
+      "href": "/s/dsbwge/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 10
+      "comments": "\n              4 comments\n            ",
+      "index": 11
     },
     {
       "title": "Three times faster with lazy imports",
       "href": "https://hugovk.dev/blog/2025/lazy-imports/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Everybody's so Creative",
-      "href": "https://daymare.net/blogs/everbody-so-creative/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
       "index": 12
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
+      "title": "Everybody's so Creative",
+      "href": "https://daymare.net/blogs/everbody-so-creative/",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 14
+    },
+    {
       "title": "Compare Single Board Computers",
       "href": "https://sbc.compare/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/dsbwge/what_are_you_doing_this_week",
+      "title": "When it comes to MCPs, everything we know about API design is wrong",
+      "href": "https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
+      "comments": "\n              3 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Hide read comments",
+      "href": "/s/opzhuf/hide_read_comments",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 17
     },
     {
       "title": "Reframe Technical Debt as Software Debt. Treat it like a AAA-rated CDO",
       "href": "https://www.evalapply.org/posts/software-debt/index.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
-    },
-    {
-      "title": "Flink Watermarks…WTF?",
-      "href": "https://flink-watermarks.wtf",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "How I’d like my init system / service supervisor to be",
-      "href": "https://runxiyu.org/blog/linit/",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
       "index": 18
-    },
-    {
-      "title": "When it comes to MCPs, everything we know about API design is wrong",
-      "href": "https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
-    },
-    {
-      "title": "Hide read comments",
-      "href": "/s/opzhuf/hide_read_comments",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "How I made my own web server in Gleam",
-      "href": "https://wskiy.de/blog/making_my_own_web_server_in_gleam",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 21
     },
     {
       "title": "Matrix Conference 2025 Highlights",
       "href": "https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Create Your Own AI Voice Agent Using EchoKit, ESP32, and Rust",
+      "href": "https://www.instructables.com/Create-Your-Own-AI-Voice-Agent-Using-EchoKit-ESP32/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Flink Watermarks…WTF?",
+      "href": "https://flink-watermarks.wtf",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "How I’d like my init system / service supervisor to be",
+      "href": "https://runxiyu.org/blog/linit/",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
       "index": 22
     },
     {
-      "title": "Consistent Hashing",
-      "href": "https://eli.thegreenplace.net/2025/consistent-hashing",
+      "title": "How I made my own web server in Gleam",
+      "href": "https://wskiy.de/blog/making_my_own_web_server_in_gleam",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 23
     },
     {
-      "title": "Integer Set Library (ISL) - A Primer",
-      "href": "https://www.jeremykun.com/2025/10/19/isl-a-primer/",
+      "title": "In favor of comments, what does empirical engineering says? (2022)",
+      "href": "https://sadraskol.com/posts/in-favor-of-comments-what-does-empirical-engineering-says/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Improving PixelMelt's Kindle Web Deobfuscator",
-      "href": "https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/",
+      "title": "Consistent Hashing",
+      "href": "https://eli.thegreenplace.net/2025/consistent-hashing",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 25
     }
   ]
