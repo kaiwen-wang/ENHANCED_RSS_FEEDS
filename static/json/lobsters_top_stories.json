@@ -1,18 +1,18 @@
 {
-  "date": "Monday, October 20, 2025 at 3:35 AM GMT-5",
+  "date": "Monday, October 20, 2025 at 4:30 AM GMT-5",
   "articles": [
+    {
+      "title": "No Military Funding (2004)",
+      "href": "https://web.eecs.umich.edu/~kuipers/opinions/no-military-funding.html",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 1
+    },
     {
       "title": "The Day My Smart Vacuum Turned Against Me",
       "href": "https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 1
-    },
-    {
-      "title": "No Military Funding (2004)",
-      "href": "https://web.eecs.umich.edu/~kuipers/opinions/no-military-funding.html",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 2
     },
     {
@@ -40,21 +40,21 @@
       "title": "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
       "href": "https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "Everybody's so Creative",
-      "href": "https://daymare.net/blogs/everbody-so-creative/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 7
     },
     {
       "title": "Compare Single Board Computers",
       "href": "https://sbc.compare/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "Everybody's so Creative",
+      "href": "https://daymare.net/blogs/everbody-so-creative/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
       "index": 8
     },
     {
@@ -65,52 +65,52 @@
       "index": 9
     },
     {
+      "title": "How I’d like my init system / service supervisor to be",
+      "href": "https://runxiyu.org/blog/linit/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 10
+    },
+    {
       "title": "Add Rust Binder Driver",
       "href": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eafedbc7c050",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "How I’d like my init system / service supervisor to be",
-      "href": "https://runxiyu.org/blog/linit/",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
       "index": 11
-    },
-    {
-      "title": "How I made my own web server in Gleam",
-      "href": "https://wskiy.de/blog/making_my_own_web_server_in_gleam",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 12
-    },
-    {
-      "title": "Consistent Hashing",
-      "href": "https://eli.thegreenplace.net/2025/consistent-hashing",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Mars pathfinder disaster",
-      "href": "https://guitarvydas.github.io/2023/10/25/Mars-Pathfinder-Disaster.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Ripgrep 15.0.0",
-      "href": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 15
     },
     {
       "title": "When it comes to MCPs, everything we know about API design is wrong",
       "href": "https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "How I made my own web server in Gleam",
+      "href": "https://wskiy.de/blog/making_my_own_web_server_in_gleam",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 13
+    },
+    {
+      "title": "Mars pathfinder disaster",
+      "href": "https://guitarvydas.github.io/2023/10/25/Mars-Pathfinder-Disaster.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
+      "title": "Consistent Hashing",
+      "href": "https://eli.thegreenplace.net/2025/consistent-hashing",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Ripgrep 15.0.0",
+      "href": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
       "index": 16
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "Copy-and-Patch: How It Works",
+      "href": "https://transactional.blog/copy-and-patch/how-it-works",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
       "title": "If you could redesign Linux userland from scratch, what would you do differently?",
       "href": "/s/ko5i9y/if_you_could_redesign_linux_userland_from",
       "points": "",
-      "comments": "\n              176 comments\n            ",
-      "index": 19
+      "comments": "\n              179 comments\n            ",
+      "index": 20
     },
     {
       "title": "Librebooting the ThinkPad T480",
       "href": "https://ezntek.com/posts/librebooting-the-thinkpad-t480-20241207t0933/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "An open letter to the Obsidian team",
       "href": "https://www.emilebangma.com/Writings/Blog/An-open-letter-to-the-Obsidian-team",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "Perfect Jumps in SM64 - Arctan Straining Explained",
+      "href": "https://youtu.be/_yx0eutBwII",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "Software can be finished",
       "href": "https://rosswintle.uk/2025/10/software-can-be-finished/",
       "points": "",
-      "comments": "\n              24 comments\n            ",
-      "index": 22
+      "comments": "\n              25 comments\n            ",
+      "index": 24
     },
     {
       "title": "AI Trading in Real Market",
       "href": "https://nof1.ai/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Balancing Coupling in Software Design",
-      "href": "https://olano.dev/blog/balancing-coupling/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Extism - make all software programmable. Extend from within",
-      "href": "https://extism.org/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
