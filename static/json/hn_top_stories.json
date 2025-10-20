@@ -1,214 +1,214 @@
 {
-  "date": "Monday, October 20, 2025 at 5:15 PM GMT-5",
+  "date": "Monday, October 20, 2025 at 6:15 PM GMT-5",
   "articles": [
-    {
-      "title": "Claude Code on the web",
-      "href": "https://www.anthropic.com/news/claude-code-on-the-web",
-      "points": "250 points",
-      "comments": "136 comments",
-      "index": 1
-    },
     {
       "title": "Intel and AMD standardise ChkTag to bring Memory Safety to x86",
       "href": "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490",
-      "points": "54 points",
-      "comments": "27 comments",
+      "points": "79 points",
+      "comments": "40 comments",
+      "index": 1
+    },
+    {
+      "title": "Claude Code on the web",
+      "href": "https://www.anthropic.com/news/claude-code-on-the-web",
+      "points": "292 points",
+      "comments": "175 comments",
       "index": 2
     },
     {
       "title": "AWS Multiple Services Down in us-east-1",
       "href": "https://health.aws.amazon.com/health/status?ts=20251020",
-      "points": "1466 points",
-      "comments": "1719 comments",
+      "points": "1523 points",
+      "comments": "1752 comments",
       "index": 3
     },
     {
       "title": "BERT is just a single text diffusion step",
       "href": "https://nathan.rs/posts/roberta-diffusion/",
-      "points": "318 points",
-      "comments": "78 comments",
+      "points": "327 points",
+      "comments": "82 comments",
       "index": 4
     },
     {
       "title": "Production RAG: what I learned from processing 5M+ documents",
       "href": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
-      "points": "255 points",
-      "comments": "72 comments",
+      "points": "270 points",
+      "comments": "73 comments",
       "index": 5
     },
     {
       "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
       "href": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
-      "points": "288 points",
-      "comments": "197 comments",
+      "points": "310 points",
+      "comments": "213 comments",
       "index": 6
-    },
-    {
-      "title": "My trick for getting consistent classification from LLMs",
-      "href": "https://verdik.substack.com/p/how-to-get-consistent-classification",
-      "points": "20 points",
-      "comments": "6 comments",
-      "index": 7
-    },
-    {
-      "title": "x86-64 Playground – An online assembly editor and GDB-like debugger",
-      "href": "https://x64.halb.it/",
-      "points": "79 points",
-      "comments": "7 comments",
-      "index": 8
-    },
-    {
-      "title": "TernFS – an exabyte scale, multi-region distributed filesystem",
-      "href": "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped",
-      "points": "75 points",
-      "comments": "4 comments",
-      "index": 9
-    },
-    {
-      "title": "A laser pointer at 2B FPS [video]",
-      "href": "https://www.youtube.com/watch?v=o4TdHrMi6do",
-      "points": "89 points",
-      "comments": "6 comments",
-      "index": 10
-    },
-    {
-      "title": "Code from MIT's 1986 SICP video lectures",
-      "href": "https://github.com/felipap/sicp-code",
-      "points": "59 points",
-      "comments": "2 comments",
-      "index": 11
-    },
-    {
-      "title": "The scariest \"user support\" email I've ever received",
-      "href": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/",
-      "points": "69 points",
-      "comments": "50 comments",
-      "index": 12
     },
     {
       "title": "Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)",
       "href": "https://judojj.com",
-      "points": "26 points",
-      "comments": "3 comments",
-      "index": 13
+      "points": "41 points",
+      "comments": "5 comments",
+      "index": 7
     },
     {
-      "title": "How to stop Linux threads cleanly",
-      "href": "https://mazzo.li/posts/stopping-linux-threads.html",
-      "points": "145 points",
-      "comments": "54 comments",
-      "index": 14
+      "title": "My trick for getting consistent classification from LLMs",
+      "href": "https://verdik.substack.com/p/how-to-get-consistent-classification",
+      "points": "48 points",
+      "comments": "13 comments",
+      "index": 8
     },
     {
-      "title": "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
-      "href": "https://www.youtube.com/watch?v=RsGHr7dXLuI",
-      "points": "98 points",
+      "title": "A laser pointer at 2B FPS [video]",
+      "href": "https://www.youtube.com/watch?v=o4TdHrMi6do",
+      "points": "124 points",
       "comments": "14 comments",
-      "index": 15
+      "index": 9
     },
     {
-      "title": "Postman which I thought worked locally on my computer, is down",
-      "href": "https://status.postman.com",
-      "points": "94 points",
-      "comments": "43 comments",
-      "index": 16
+      "title": "Code from MIT's 1986 SICP video lectures",
+      "href": "https://github.com/felipap/sicp-code",
+      "points": "70 points",
+      "comments": "4 comments",
+      "index": 10
     },
     {
       "title": "Today is when the Amazon brain drain sent AWS down the spout",
       "href": "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/",
-      "points": "51 points",
+      "points": "139 points",
+      "comments": "46 comments",
+      "index": 11
+    },
+    {
+      "title": "You don't need Kafka: Building a message queue with Unix signals",
+      "href": "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 12
+    },
+    {
+      "title": "x86-64 Playground – An online assembly editor and GDB-like debugger",
+      "href": "https://x64.halb.it/",
+      "points": "90 points",
       "comments": "7 comments",
+      "index": 13
+    },
+    {
+      "title": "The scariest \"user support\" email I've ever received",
+      "href": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/",
+      "points": "100 points",
+      "comments": "69 comments",
+      "index": 14
+    },
+    {
+      "title": "TernFS – an exabyte scale, multi-region distributed filesystem",
+      "href": "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped",
+      "points": "82 points",
+      "comments": "7 comments",
+      "index": 15
+    },
+    {
+      "title": "How to stop Linux threads cleanly",
+      "href": "https://mazzo.li/posts/stopping-linux-threads.html",
+      "points": "156 points",
+      "comments": "57 comments",
+      "index": 16
+    },
+    {
+      "title": "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
+      "href": "https://www.youtube.com/watch?v=RsGHr7dXLuI",
+      "points": "100 points",
+      "comments": "17 comments",
       "index": 17
+    },
+    {
+      "title": "Postman which I thought worked locally on my computer, is down",
+      "href": "https://status.postman.com",
+      "points": "126 points",
+      "comments": "67 comments",
+      "index": 18
+    },
+    {
+      "title": "Art Must Act",
+      "href": "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche",
+      "points": "11 points",
+      "comments": "discuss",
+      "index": 19
     },
     {
       "title": "iOS 26.1 lets users control Liquid Glass transparency",
       "href": "https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/",
-      "points": "103 points",
-      "comments": "78 comments",
-      "index": 18
-    },
-    {
-      "title": "First Self-Propagating Worm Using Invisible Code Hits OpenVSX and VS Code",
-      "href": "https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace",
-      "points": "47 points",
-      "comments": "35 comments",
-      "index": 19
-    },
-    {
-      "title": "J.P. Morgan's OpenAI loan is strange",
-      "href": "https://marketunpack.com/j-p-morgans-openai-loan-is-strange/",
-      "points": "158 points",
-      "comments": "111 comments",
+      "points": "122 points",
+      "comments": "99 comments",
       "index": 20
-    },
-    {
-      "title": "Servo v0.0.1",
-      "href": "https://github.com/servo/servo",
-      "points": "432 points",
-      "comments": "121 comments",
-      "index": 21
     },
     {
       "title": "Space Elevator",
       "href": "https://neal.fun/space-elevator/",
-      "points": "1418 points",
-      "comments": "323 comments",
+      "points": "1439 points",
+      "comments": "331 comments",
+      "index": 21
+    },
+    {
+      "title": "J.P. Morgan's OpenAI loan is strange",
+      "href": "https://marketunpack.com/j-p-morgans-openai-loan-is-strange/",
+      "points": "177 points",
+      "comments": "118 comments",
       "index": 22
     },
     {
-      "title": "Show HN: EloqDoc: MongoDB-compatible doc DB with object storage as first citizen",
-      "href": "https://github.com/eloqdata/eloqdoc",
-      "points": "19 points",
-      "comments": "16 comments",
+      "title": "Servo v0.0.1",
+      "href": "https://github.com/servo/servo",
+      "points": "443 points",
+      "comments": "134 comments",
       "index": 23
-    },
-    {
-      "title": "Docker Systems Status: Full Service Disruption",
-      "href": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c",
-      "points": "317 points",
-      "comments": "122 comments",
-      "index": 24
     },
     {
       "title": "The longest baseball game took 33 innings to win",
       "href": "https://www.mlb.com/news/the-longest-professional-baseball-game-ever-played",
-      "points": "23 points",
-      "comments": "41 comments",
-      "index": 25
+      "points": "30 points",
+      "comments": "47 comments",
+      "index": 24
     },
     {
-      "title": "When a stadium adds AI to everything, it's worse experience for everyone",
-      "href": "https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/",
-      "points": "75 points",
-      "comments": "33 comments",
-      "index": 26
+      "title": "Docker Systems Status: Full Service Disruption",
+      "href": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c",
+      "points": "321 points",
+      "comments": "123 comments",
+      "index": 25
     },
     {
       "title": "DeepSeek OCR",
       "href": "https://github.com/deepseek-ai/DeepSeek-OCR",
-      "points": "834 points",
-      "comments": "217 comments",
+      "points": "844 points",
+      "comments": "219 comments",
+      "index": 26
+    },
+    {
+      "title": "When a stadium adds AI to everything, it's worse experience for everyone",
+      "href": "https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/",
+      "points": "91 points",
+      "comments": "46 comments",
       "index": 27
     },
     {
       "title": "Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP",
       "href": "https://github.com/lackeyjb/playwright-skill",
-      "points": "124 points",
+      "points": "129 points",
       "comments": "39 comments",
       "index": 28
     },
     {
-      "title": "Peanut allergies have plummeted in children",
-      "href": "https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html",
-      "points": "78 points",
-      "comments": "75 comments",
+      "title": "Show HN: EloqDoc: MongoDB-compatible doc DB with object storage as first citizen",
+      "href": "https://github.com/eloqdata/eloqdoc",
+      "points": "27 points",
+      "comments": "18 comments",
       "index": 29
     },
     {
       "title": "Pointer Pointer (2012)",
       "href": "https://pointerpointer.com",
-      "points": "219 points",
-      "comments": "27 comments",
+      "points": "222 points",
+      "comments": "28 comments",
       "index": 30
     }
   ]
