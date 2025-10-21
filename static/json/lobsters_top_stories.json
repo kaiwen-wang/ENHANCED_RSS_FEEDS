@@ -1,18 +1,18 @@
 {
-  "date": "Monday, October 20, 2025 at 8:25 PM GMT-5",
+  "date": "Monday, October 20, 2025 at 10:05 PM GMT-5",
   "articles": [
     {
       "title": "Servo 0.0.1 Release",
       "href": "https://servo.org/blog/2025/10/20/servo-0.0.1-release/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 1
     },
     {
       "title": "Fil-C",
       "href": "https://fil-c.org",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 2
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "Gleam v1.13.0 released",
-      "href": "https://gleam.run/news/formalising-external-apis/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 4
-    },
-    {
       "title": "AWS experiences 12+ hour multi-service outage",
       "href": "https://health.aws.amazon.com/health/status?ts=20251020",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Gleam v1.13.0 released",
+      "href": "https://gleam.run/news/formalising-external-apis/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 5
     },
     {
@@ -65,80 +65,80 @@
       "index": 9
     },
     {
-      "title": "Measuring Engineering Productivity",
-      "href": "https://justoffbyone.com/posts/measuring-engineering-productivity/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
       "title": "Nix CI Benchmarks",
       "href": "https://garnix-io.github.io/benchmarks",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 11
+      "index": 10
     },
     {
       "title": "Continuously keep local mailboxes in sync with an IMAP server",
       "href": "https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 12
+      "index": 11
     },
     {
-      "title": "Ruby Butler: It’s Time to Rethink RubyGems and Bundler",
-      "href": "https://rubyelders.com/writings/2025-10-ruby-butler-1.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "How I accidentally became PureGym's unofficial Apple Wallet developer",
-      "href": "https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/",
+      "title": "Measuring Engineering Productivity",
+      "href": "https://justoffbyone.com/posts/measuring-engineering-productivity/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 12
     },
     {
       "title": "The joy of rediscovering Perl",
       "href": "https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "Go proposal: Compare IP subnets",
-      "href": "https://antonz.org/accepted/netip-prefix-compare/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/dsbwge/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Reframe Technical Debt as Software Debt. Treat it like a AAA-rated CDO",
-      "href": "https://www.evalapply.org/posts/software-debt/index.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "atproto Check-in (Fall 2025)",
-      "href": "https://docs.bsky.app/blog/protocol-checkin-fall-2025",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
+      "comments": "\n              2 comments\n            ",
+      "index": 13
     },
     {
       "title": "Judo (Jujutsu GUI)",
       "href": "https://judojj.com/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
+      "title": "atproto Check-in (Fall 2025)",
+      "href": "https://docs.bsky.app/blog/protocol-checkin-fall-2025",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
+      "title": "Ruby Butler: It’s Time to Rethink RubyGems and Bundler",
+      "href": "https://rubyelders.com/writings/2025-10-ruby-butler-1.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "How I accidentally became PureGym's unofficial Apple Wallet developer",
+      "href": "https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Go proposal: Compare IP subnets",
+      "href": "https://antonz.org/accepted/netip-prefix-compare/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/dsbwge/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Reframe Technical Debt as Software Debt. Treat it like a AAA-rated CDO",
+      "href": "https://www.evalapply.org/posts/software-debt/index.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 20
     },
     {
@@ -159,7 +159,7 @@
       "title": "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
       "href": "https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 23
     },
     {
