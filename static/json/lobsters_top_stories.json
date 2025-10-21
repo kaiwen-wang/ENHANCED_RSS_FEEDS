@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, October 21, 2025 at 12:20 AM GMT-5",
+  "date": "Tuesday, October 21, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "Servo 0.0.1 Release",
@@ -9,24 +9,24 @@
       "index": 1
     },
     {
+      "title": "Fil-C",
+      "href": "https://fil-c.org",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
+      "index": 2
+    },
+    {
       "title": "AWS experiences 12+ hour multi-service outage",
       "href": "https://health.aws.amazon.com/health/status?ts=20251020",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "Fil-C",
-      "href": "https://fil-c.org",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
       "index": 3
     },
     {
       "title": "Some Smalltalk about Ruby Loops",
       "href": "https://tech.stonecharioteer.com/posts/2025/ruby-loops/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 4
     },
     {
@@ -40,21 +40,21 @@
       "title": "We need to start doing web blocking for non-technical reasons",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "How I Use Claude Code on My Phone with Termux and Tailscale",
-      "href": "https://www.skeptrune.com/posts/claude-code-on-mobile-termux-tailscale/",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 7
     },
     {
       "title": "The joy of rediscovering Perl",
       "href": "https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "How I Use Claude Code on My Phone with Termux and Tailscale",
+      "href": "https://www.skeptrune.com/posts/claude-code-on-mobile-termux-tailscale/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
       "index": 8
     },
     {
@@ -65,45 +65,45 @@
       "index": 9
     },
     {
-      "title": "Emacs time-zones",
-      "href": "https://xenodium.com/emacs-time-zones-mode",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 10
-    },
-    {
       "title": "Nix CI Benchmarks",
       "href": "https://garnix-io.github.io/benchmarks",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "The Day My Smart Vacuum Turned Against Me",
-      "href": "https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/",
-      "points": "",
-      "comments": "\n              16 comments\n            ",
-      "index": 12
+      "comments": "\n              5 comments\n            ",
+      "index": 10
     },
     {
       "title": "Continuously keep local mailboxes in sync with an IMAP server",
       "href": "https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 13
+      "comments": "\n              9 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Emacs time-zones",
+      "href": "https://xenodium.com/emacs-time-zones-mode",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 12
     },
     {
       "title": "Measuring Engineering Productivity",
       "href": "https://justoffbyone.com/posts/measuring-engineering-productivity/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 13
     },
     {
       "title": "atproto Check-in (Fall 2025)",
       "href": "https://docs.bsky.app/blog/protocol-checkin-fall-2025",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
+      "title": "The Day My Smart Vacuum Turned Against Me",
+      "href": "https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
       "index": 15
     },
     {
@@ -131,21 +131,21 @@
       "title": "What are you doing this week?",
       "href": "/s/dsbwge/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 19
+    },
+    {
+      "title": "Turn off Cursor, turn on your mind",
+      "href": "https://allvpv.org/turn-off-cursor/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
     },
     {
       "title": "Reframe Technical Debt as Software Debt. Treat it like a AAA-rated CDO",
       "href": "https://www.evalapply.org/posts/software-debt/index.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "How We Built WebSocket Servers for Vercel Functions",
-      "href": "https://www.rivet.dev/blog/2025-10-20-how-we-built-websocket-servers-for-vercel-functions/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
@@ -156,8 +156,8 @@
       "index": 22
     },
     {
-      "title": "Turn off Cursor, turn on your mind",
-      "href": "https://allvpv.org/turn-off-cursor/",
+      "title": "How We Built WebSocket Servers for Vercel Functions",
+      "href": "https://www.rivet.dev/blog/2025-10-20-how-we-built-websocket-servers-for-vercel-functions/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 23
@@ -166,7 +166,7 @@
       "title": "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
       "href": "https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 24
     },
     {
