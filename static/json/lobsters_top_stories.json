@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, October 21, 2025 at 3:30 AM GMT-5",
+  "date": "Tuesday, October 21, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "Servo 0.0.1 Release",
       "href": "https://servo.org/blog/2025/10/20/servo-0.0.1-release/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "AWS experiences 12+ hour multi-service outage",
       "href": "https://health.aws.amazon.com/health/status?ts=20251020",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "The joy of rediscovering Perl",
       "href": "https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 5
     },
     {
@@ -72,45 +72,45 @@
       "index": 10
     },
     {
-      "title": "Continuously keep local mailboxes in sync with an IMAP server",
-      "href": "https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/",
+      "title": "Language Support for Marginalia Search",
+      "href": "https://www.marginalia.nu/log/a_126_multilingual/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 11
     },
     {
       "title": "Emacs time-zones",
       "href": "https://xenodium.com/emacs-time-zones-mode",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 12
     },
     {
-      "title": "Nix CI Benchmarks",
-      "href": "https://garnix-io.github.io/benchmarks",
+      "title": "Continuously keep local mailboxes in sync with an IMAP server",
+      "href": "https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 13
     },
     {
       "title": "How I accidentally became PureGym's unofficial Apple Wallet developer",
       "href": "https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 14
+    },
+    {
+      "title": "Nix CI Benchmarks",
+      "href": "https://garnix-io.github.io/benchmarks",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 15
     },
     {
       "title": "atproto Check-in (Fall 2025)",
       "href": "https://docs.bsky.app/blog/protocol-checkin-fall-2025",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "The Day My Smart Vacuum Turned Against Me",
-      "href": "https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/",
-      "points": "",
-      "comments": "\n              16 comments\n            ",
       "index": 16
     },
     {
@@ -121,31 +121,31 @@
       "index": 17
     },
     {
+      "title": "The Day My Smart Vacuum Turned Against Me",
+      "href": "https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
+      "index": 18
+    },
+    {
       "title": "Ruby Butler: It’s Time to Rethink RubyGems and Bundler",
       "href": "https://rubyelders.com/writings/2025-10-ruby-butler-1.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
-      "title": "Language Support for Marginalia Search",
-      "href": "https://www.marginalia.nu/log/a_126_multilingual/",
+      "title": "Progress update on Clang's new constant expression interpreter",
+      "href": "https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Go proposal: Compare IP subnets",
       "href": "https://antonz.org/accepted/netip-prefix-compare/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "How We Built WebSocket Servers for Vercel Functions",
-      "href": "https://www.rivet.dev/blog/2025-10-20-how-we-built-websocket-servers-for-vercel-functions/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
+      "title": "How We Built WebSocket Servers for Vercel Functions",
+      "href": "https://www.rivet.dev/blog/2025-10-20-how-we-built-websocket-servers-for-vercel-functions/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
       "title": "In favor of comments, what does empirical engineering says? (2022)",
       "href": "https://sadraskol.com/posts/in-favor-of-comments-what-does-empirical-engineering-says/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/dsbwge/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              20 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Progress update on Clang's new constant expression interpreter",
-      "href": "https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 25
     }
   ]
