@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, October 22, 2025 at 11:25 AM GMT-5",
+  "date": "Wednesday, October 22, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "Google demonstrates 'verifiable quantum advantage' with their Willow processor",
       "href": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
-      "points": "102 points",
-      "comments": "54 comments",
+      "points": "168 points",
+      "comments": "103 comments",
       "index": 1
     },
     {
       "title": "Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)",
       "href": "https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation",
-      "points": "80 points",
-      "comments": "19 comments",
+      "points": "95 points",
+      "comments": "41 comments",
       "index": 2
+    },
+    {
+      "title": "Introducing Galaxy XR, the first Android XR headset",
+      "href": "https://blog.google/products/android/samsung-galaxy-xr/",
+      "points": "11 points",
+      "comments": "1 comment",
+      "index": 3
     },
     {
       "title": "Linux Capabilities Revisited",
       "href": "https://dfir.ch/posts/linux_capabilities/",
-      "points": "74 points",
-      "comments": "12 comments",
-      "index": 3
+      "points": "91 points",
+      "comments": "15 comments",
+      "index": 4
     },
     {
       "title": "MinIO stops distributing free Docker images",
       "href": "https://github.com/minio/minio/issues/21647#issuecomment-3418675115",
-      "points": "440 points",
-      "comments": "267 comments",
-      "index": 4
+      "points": "480 points",
+      "comments": "286 comments",
+      "index": 5
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring a Founding AI Engineer",
+      "href": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai",
+      "points": "",
+      "comments": "hide",
+      "index": 6
     },
     {
       "title": "Designing software for things that rot",
       "href": "https://drobinin.com/posts/designing-software-for-things-that-rot/",
-      "points": "70 points",
-      "comments": "8 comments",
-      "index": 5
+      "points": "89 points",
+      "comments": "15 comments",
+      "index": 7
     },
     {
       "title": "AI assistants misrepresent news content 45% of the time",
       "href": "https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content",
-      "points": "195 points",
-      "comments": "145 comments",
-      "index": 6
-    },
-    {
-      "title": "The security paradox of local LLMs",
-      "href": "https://quesma.com/blog/local-llms-security-paradox/",
-      "points": "47 points",
-      "comments": "35 comments",
-      "index": 7
+      "points": "249 points",
+      "comments": "185 comments",
+      "index": 8
     },
     {
       "title": "SourceFS: A 2h+ Android build becomes a 15m task with a virtual filesystem",
       "href": "https://www.source.dev/journal/sourcefs",
-      "points": "46 points",
-      "comments": "16 comments",
-      "index": 8
+      "points": "65 points",
+      "comments": "24 comments",
+      "index": 9
+    },
+    {
+      "title": "Meta is axing 600 roles across its AI division",
+      "href": "https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence",
+      "points": "21 points",
+      "comments": "2 comments",
+      "index": 10
     },
     {
       "title": "Die shots of as many CPUs and other interesting chips as possible",
       "href": "https://commons.wikimedia.org/wiki/User:Birdman86",
-      "points": "132 points",
-      "comments": "26 comments",
-      "index": 9
+      "points": "145 points",
+      "comments": "29 comments",
+      "index": 11
     },
     {
       "title": "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
       "href": "https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/",
-      "points": "330 points",
-      "comments": "390 comments",
-      "index": 10
-    },
-    {
-      "title": "French ex-president Sarkozy begins jail sentence",
-      "href": "https://www.bbc.com/news/articles/cvgkm2j0xelo",
-      "points": "263 points",
-      "comments": "343 comments",
-      "index": 11
-    },
-    {
-      "title": "Go subtleties",
-      "href": "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/",
-      "points": "149 points",
-      "comments": "104 comments",
+      "points": "379 points",
+      "comments": "413 comments",
       "index": 12
     },
     {
-      "title": "Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss",
-      "href": "https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss",
-      "points": "135 points",
-      "comments": "114 comments",
+      "title": "The security paradox of local LLMs",
+      "href": "https://quesma.com/blog/local-llms-security-paradox/",
+      "points": "69 points",
+      "comments": "45 comments",
       "index": 13
     },
     {
-      "title": "Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left",
-      "href": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
-      "points": "",
-      "comments": "hide",
+      "title": "The Logarithmic Time Perception Hypothesis",
+      "href": "http://www.kafalas.com/Logtime.html",
+      "points": "12 points",
+      "comments": "5 comments",
       "index": 14
     },
     {
       "title": "Patina: a Rust implementation of UEFI firmware",
       "href": "https://github.com/OpenDevicePartnership/patina",
-      "points": "65 points",
-      "comments": "12 comments",
+      "points": "83 points",
+      "comments": "13 comments",
       "index": 15
     },
     {
-      "title": "Farming Hard Drives (2012)",
-      "href": "https://www.backblaze.com/blog/backblaze_drive_farming/",
-      "points": "12 points",
-      "comments": "2 comments",
+      "title": "Go subtleties",
+      "href": "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/",
+      "points": "160 points",
+      "comments": "116 comments",
       "index": 16
+    },
+    {
+      "title": "French ex-president Sarkozy begins jail sentence",
+      "href": "https://www.bbc.com/news/articles/cvgkm2j0xelo",
+      "points": "291 points",
+      "comments": "366 comments",
+      "index": 17
     },
     {
       "title": "Evaluating the Infinity Cache in AMD Strix Halo",
       "href": "https://chipsandcheese.com/p/evaluating-the-infinity-cache-in",
-      "points": "121 points",
-      "comments": "51 comments",
-      "index": 17
+      "points": "128 points",
+      "comments": "53 comments",
+      "index": 18
+    },
+    {
+      "title": "Farming Hard Drives (2012)",
+      "href": "https://www.backblaze.com/blog/backblaze_drive_farming/",
+      "points": "16 points",
+      "comments": "7 comments",
+      "index": 19
     },
     {
       "title": "Show HN: Cadence – A Guitar Theory App",
       "href": "https://cadenceguitar.com/",
-      "points": "135 points",
-      "comments": "28 comments",
-      "index": 18
-    },
-    {
-      "title": "The Dragon Hatchling: The missing link between the transformer and brain models",
-      "href": "https://arxiv.org/abs/2509.26507",
-      "points": "110 points",
-      "comments": "65 comments",
-      "index": 19
-    },
-    {
-      "title": "Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died",
-      "href": "https://www.pgdp.net/wiki/In_Memoriam/gbnewby",
-      "points": "352 points",
-      "comments": "59 comments",
+      "points": "144 points",
+      "comments": "37 comments",
       "index": 20
     },
     {
-      "title": "Cigarette-smuggling balloons force closure of Lithuanian airport",
-      "href": "https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania",
-      "points": "48 points",
-      "comments": "17 comments",
+      "title": "Power over Ethernet (PoE) basics and beyond",
+      "href": "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/",
+      "points": "220 points",
+      "comments": "177 comments",
       "index": 21
     },
     {
       "title": "Knocker, a knock based access control system for your homelab",
       "href": "https://github.com/FarisZR/knocker",
-      "points": "49 points",
-      "comments": "74 comments",
+      "points": "55 points",
+      "comments": "88 comments",
       "index": 22
     },
     {
-      "title": "LLMs can get \"brain rot\"",
-      "href": "https://llm-brain-rot.github.io/",
-      "points": "446 points",
-      "comments": "274 comments",
+      "title": "Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died",
+      "href": "https://www.pgdp.net/wiki/In_Memoriam/gbnewby",
+      "points": "385 points",
+      "comments": "61 comments",
       "index": 23
     },
     {
-      "title": "Sequoia COO quit over Shaun Maguire's comments about Mamdani",
-      "href": "https://www.ft.com/content/8e6de299-3eb6-4ba9-8037-266c55c02170",
-      "points": "10 points",
-      "comments": "7 comments",
+      "title": "The Dragon Hatchling: The missing link between the transformer and brain models",
+      "href": "https://arxiv.org/abs/2509.26507",
+      "points": "116 points",
+      "comments": "67 comments",
       "index": 24
+    },
+    {
+      "title": "A non-diagonal SSM RNN computed in parallel without requiring stabilization",
+      "href": "https://github.com/glassroom/goom_ssm_rnn",
+      "points": "5 points",
+      "comments": "discuss",
+      "index": 25
+    },
+    {
+      "title": "Cigarette-smuggling balloons force closure of Lithuanian airport",
+      "href": "https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania",
+      "points": "53 points",
+      "comments": "28 comments",
+      "index": 26
+    },
+    {
+      "title": "Tesla Recalls Almost 13,000 EVs over Risk of Battery Power Loss",
+      "href": "https://www.bloomberg.com/news/articles/2025-10-22/tesla-recalls-almost-13-000-evs-over-risk-of-battery-power-loss",
+      "points": "157 points",
+      "comments": "141 comments",
+      "index": 27
     },
     {
       "title": "Ghostly swamp will-O'-the-wisps may be explained by science",
       "href": "https://www.snexplores.org/article/swamp-gas-methane-will-o-wisp-chemistry",
-      "points": "22 points",
-      "comments": "10 comments",
-      "index": 25
-    },
-    {
-      "title": "Distributed Ray-Tracing",
-      "href": "https://www.4rknova.com//blog/2019/02/24/distributed-raytracing",
-      "points": "21 points",
-      "comments": "7 comments",
-      "index": 26
+      "points": "25 points",
+      "comments": "12 comments",
+      "index": 28
     },
     {
       "title": "Starcloud",
       "href": "https://blogs.nvidia.com/blog/starcloud/",
-      "points": "129 points",
-      "comments": "168 comments",
-      "index": 27
-    },
-    {
-      "title": "Power over Ethernet (PoE) basics and beyond",
-      "href": "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/",
-      "points": "216 points",
-      "comments": "170 comments",
-      "index": 28
-    },
-    {
-      "title": "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
-      "href": "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h",
-      "points": "228 points",
-      "comments": "87 comments",
+      "points": "142 points",
+      "comments": "188 comments",
       "index": 29
     },
     {
       "title": "Ask HN: Our AWS account got compromised after their outage",
       "href": "item?id=45657345",
-      "points": "364 points",
-      "comments": "86 comments",
+      "points": "374 points",
+      "comments": "90 comments",
       "index": 30
     }
   ]
