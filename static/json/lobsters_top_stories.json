@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, October 21, 2025 at 6:20 PM GMT-5",
+  "date": "Tuesday, October 21, 2025 at 8:40 PM GMT-5",
   "articles": [
     {
       "title": "My most popular application",
       "href": "https://blog.6nok.org/my-most-popular-application/",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              28 comments\n            ",
       "index": 1
     },
     {
@@ -19,35 +19,35 @@
       "title": "Just use cURL",
       "href": "https://justuse.org/curl/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              26 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "Magit is Amazing",
+      "href": "https://heiwiper.com/posts/magit-is-awesome/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 4
     },
     {
       "title": "Modal editing is a weird historical contingency we have through sheer happenstance",
       "href": "https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Plasma 6.5",
-      "href": "https://kde.org/announcements/plasma/6/6.5.0/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 5
     },
     {
       "title": "Yet Another Year With Decker (v1.44 - v1.60)",
       "href": "http://beyondloom.com/blog/unionstate3.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 6
     },
     {
-      "title": "Magit is Amazing",
-      "href": "https://heiwiper.com/posts/magit-is-awesome/",
+      "title": "Plasma 6.5",
+      "href": "https://kde.org/announcements/plasma/6/6.5.0/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 7
     },
     {
@@ -58,15 +58,15 @@
       "index": 8
     },
     {
-      "title": "AWS experiences 12+ hour multi-service outage",
-      "href": "https://health.aws.amazon.com/health/status?ts=20251020",
+      "title": "Forging Fedora’s Future with Forgejo",
+      "href": "https://communityblog.fedoraproject.org/forging-fedoras-future-with-forgejo/",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 9
     },
     {
-      "title": "Forging Fedora’s Future with Forgejo",
-      "href": "https://communityblog.fedoraproject.org/forging-fedoras-future-with-forgejo/",
+      "title": "What’s the problem with pipe-curl-into-sh?",
+      "href": "/s/ymcbwl/what_s_problem_with_pipe_curl_into_sh",
       "points": "",
       "comments": "\n              5 comments\n            ",
       "index": 10
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
+      "title": "AWS experiences 12+ hour multi-service outage",
+      "href": "https://health.aws.amazon.com/health/status?ts=20251020",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 12
+    },
+    {
       "title": "Servo 0.0.1 Release",
       "href": "https://servo.org/blog/2025/10/20/servo-0.0.1-release/",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "The joy of rediscovering Perl",
-      "href": "https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
       "index": 13
-    },
-    {
-      "title": "Measuring Engineering Productivity",
-      "href": "https://justoffbyone.com/posts/measuring-engineering-productivity/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "A Fast Bytecode VM for Arithmetic: The Virtual Machine",
-      "href": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Fil-C",
-      "href": "https://fil-c.org",
-      "points": "",
-      "comments": "\n              34 comments\n            ",
-      "index": 16
     },
     {
       "title": "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
       "href": "https://dl.acm.org/doi/10.1145/359024.359031",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 17
+      "index": 14
     },
     {
-      "title": "Streaming live video as a macOS screensaver using AVFoundation and yt-dlp",
-      "href": "https://github.com/hauxir/macos-live-screensaver",
+      "title": "The joy of rediscovering Perl",
+      "href": "https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "GlassWorm: First Self-Propagating Worm Using Invisible Code Hits OpenVSX Marketplace",
-      "href": "https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Judo (Jujutsu GUI)",
-      "href": "https://judojj.com/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "OpenBSD 7.8",
-      "href": "https://www.openbsd.org/78.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
+      "comments": "\n              21 comments\n            ",
+      "index": 15
     },
     {
       "title": "Why SSA?",
       "href": "https://mcyoung.xyz/2025/10/21/ssa-1/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "OpenBSD 7.8",
+      "href": "https://www.openbsd.org/78.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "GlassWorm: First Self-Propagating Worm Using Invisible Code Hits OpenVSX Marketplace",
+      "href": "https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Measuring Engineering Productivity",
+      "href": "https://justoffbyone.com/posts/measuring-engineering-productivity/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "A Fast Bytecode VM for Arithmetic: The Virtual Machine",
+      "href": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Fil-C",
+      "href": "https://fil-c.org",
+      "points": "",
+      "comments": "\n              35 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Streaming live video as a macOS screensaver using AVFoundation and yt-dlp",
+      "href": "https://github.com/hauxir/macos-live-screensaver",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 22
+    },
+    {
+      "title": "Judo (Jujutsu GUI)",
+      "href": "https://judojj.com/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "The Greatness of Text Adventures",
+      "href": "https://entropicthoughts.com/the-greatness-of-text-adventures",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 24
     },
     {
       "title": "Some Smalltalk about Ruby Loops",
       "href": "https://tech.stonecharioteer.com/posts/2025/ruby-loops/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Language Support for Marginalia Search",
-      "href": "https://www.marginalia.nu/log/a_126_multilingual/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "TARmageddon (CVE-2025-62518) highlights the challenges of open source abandonware",
-      "href": "https://edera.dev/stories/tarmageddon",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
