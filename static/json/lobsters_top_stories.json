@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, October 22, 2025 at 5:15 PM GMT-5",
+  "date": "Wednesday, October 22, 2025 at 6:15 PM GMT-5",
   "articles": [
     {
       "title": "I see a future in jj",
       "href": "https://steveklabnik.com/writing/i-see-a-future-in-jj/",
       "points": "",
-      "comments": "\n              41 comments\n            ",
+      "comments": "\n              47 comments\n            ",
       "index": 1
     },
     {
       "title": "A Word on Omarchy",
       "href": "https://マリウス.com/a-word-on-omarchy/",
       "points": "",
-      "comments": "\n              74 comments\n            ",
+      "comments": "\n              78 comments\n            ",
       "index": 2
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
+      "title": "Scripts I wrote that I use all the time",
+      "href": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 7
+    },
+    {
       "title": "awesome-tiny-crates: A bunch of small crates that make writing Rust more fun",
       "href": "https://github.com/nik-rev/awesome-tiny-crates",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Slint 1.14 Released",
-      "href": "https://slint.dev/blog/slint-1.14-released",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 8
     },
     {
@@ -65,31 +65,31 @@
       "index": 9
     },
     {
+      "title": "Slint 1.14 Released",
+      "href": "https://slint.dev/blog/slint-1.14-released",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
       "title": "6 months of Tangled",
       "href": "https://blog.tangled.org/6-months",
       "points": "",
       "comments": "\n              30 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Just use cURL",
       "href": "https://justuse.org/curl/",
       "points": "",
       "comments": "\n              58 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Scripts I wrote that I use all the time",
-      "href": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 12
     },
     {
       "title": "Move, Destruct, Forget, and Rust",
       "href": "https://smallcultfollowing.com/babysteps/blog/2025/10/21/move-destruct-leak/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 13
     },
     {
@@ -117,63 +117,63 @@
       "title": "Plasma 6.5",
       "href": "https://kde.org/announcements/plasma/6/6.5.0/",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 17
-    },
-    {
-      "title": "Simple, minimal SQL database migrations written in Go with generics. Std lib database/sql and SQLX supported OOTB",
-      "href": "https://github.com/padurean/gosmig",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 18
-    },
-    {
-      "title": "Django 6.0 beta 1 released",
-      "href": "https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
-    },
-    {
-      "title": "Modal editing is a weird historical contingency we have through sheer happenstance",
-      "href": "https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Async DNS Resolution",
-      "href": "https://ziglang.org/devlog/2025/#2025-10-15",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "SATisfying Solutions to Difficult Problems",
-      "href": "https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "modshim: Override and customize Python packages without touching their code",
-      "href": "https://github.com/joouha/modshim",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Why SSA?",
-      "href": "https://mcyoung.xyz/2025/10/21/ssa-1/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 24
     },
     {
       "title": "Patina, a Rust implementation of UEFI firmware",
       "href": "https://github.com/OpenDevicePartnership/patina",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Simple, minimal SQL database migrations written in Go with generics. Std lib database/sql and SQLX supported OOTB",
+      "href": "https://github.com/padurean/gosmig",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
+    },
+    {
+      "title": "Django 6.0 beta 1 released",
+      "href": "https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
+      "title": "Modal editing is a weird historical contingency we have through sheer happenstance",
+      "href": "https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/",
+      "points": "",
+      "comments": "\n              28 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "ChatGPT's Atlas: The Browser That's Anti-Web",
+      "href": "https://www.anildash.com/2025/10/22/atlas-anti-web-browser/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Async DNS Resolution",
+      "href": "https://ziglang.org/devlog/2025/#2025-10-15",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "SATisfying Solutions to Difficult Problems",
+      "href": "https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "modshim: Override and customize Python packages without touching their code",
+      "href": "https://github.com/joouha/modshim",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
