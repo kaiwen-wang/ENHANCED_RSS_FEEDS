@@ -1,214 +1,214 @@
 {
-  "date": "Thursday, October 23, 2025 at 11:25 AM GMT-5",
+  "date": "Thursday, October 23, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
-      "title": "US axes website for reporting human rights abuses by US-armed foreign forces",
-      "href": "https://www.bbc.com/news/articles/cqx30vnwd4do",
-      "points": "523 points",
-      "comments": "243 comments",
-      "index": 1
-    },
-    {
-      "title": "I spent a year of my life making an ASN.1 compiler in D",
+      "title": "I spent a year making an ASN.1 compiler in D",
       "href": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
-      "points": "150 points",
-      "comments": "54 comments",
-      "index": 2
+      "points": "176 points",
+      "comments": "71 comments",
+      "index": 1
     },
     {
       "title": "PyTorch Monarch",
       "href": "https://pytorch.org/blog/introducing-pytorch-monarch/",
-      "points": "201 points",
+      "points": "233 points",
       "comments": "34 comments",
+      "index": 2
+    },
+    {
+      "title": "Antislop: A framework for eliminating repetitive patterns in language models",
+      "href": "https://arxiv.org/abs/2510.15061",
+      "points": "13 points",
+      "comments": "11 comments",
       "index": 3
     },
     {
-      "title": "The Game Theory of How Algorithms Can Drive Up Prices",
+      "title": "The game theory of how algorithms can drive up prices",
       "href": "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/",
-      "points": "115 points",
-      "comments": "68 comments",
+      "points": "128 points",
+      "comments": "81 comments",
       "index": 4
     },
     {
       "title": "VST3 audio plugin format is now MIT",
       "href": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
-      "points": "512 points",
-      "comments": "118 comments",
+      "points": "537 points",
+      "comments": "125 comments",
       "index": 5
+    },
+    {
+      "title": "Unconventional Ways to Cast in TypeScript",
+      "href": "https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/",
+      "points": "10 points",
+      "comments": "discuss",
+      "index": 6
     },
     {
       "title": "Google flags Immich sites as dangerous",
       "href": "https://immich.app/blog/google-flags-immich-as-dangerous",
-      "points": "1234 points",
-      "comments": "513 comments",
-      "index": 6
+      "points": "1284 points",
+      "comments": "543 comments",
+      "index": 7
     },
     {
-      "title": "Conflict-Free Replicated Data Types (CRDTs): Convergence Without Coordination",
+      "title": "CRDTs: Convergence without coordination",
       "href": "https://read.thecoder.cafe/p/crdt",
-      "points": "28 points",
-      "comments": "11 comments",
-      "index": 7
+      "points": "45 points",
+      "comments": "19 comments",
+      "index": 8
     },
     {
       "title": "Programming with Less Than Nothing",
       "href": "https://joshmoody.org/blog/programming-with-less-than-nothing/",
-      "points": "299 points",
-      "comments": "103 comments",
-      "index": 8
+      "points": "327 points",
+      "comments": "113 comments",
+      "index": 9
     },
     {
-      "title": "Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?",
-      "href": "item?id=45595807",
-      "points": "90 points",
-      "comments": "23 comments",
-      "index": 9
+      "title": "Google Earth AI expanding access around the globe",
+      "href": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
+      "points": "5 points",
+      "comments": "1 comment",
+      "index": 10
+    },
+    {
+      "title": "VectorWare – from creators of `rust-GPU` and `rust-CUDA`",
+      "href": "https://www.vectorware.com/blog/announcing-vectorware/",
+      "points": "14 points",
+      "comments": "8 comments",
+      "index": 11
     },
     {
       "title": "Show HN: Deta Surf – An open source and local-first AI notebook",
       "href": "https://github.com/deta/surf",
-      "points": "54 points",
-      "comments": "22 comments",
-      "index": 10
-    },
-    {
-      "title": "C64 Blood Money",
-      "href": "https://lemmings.info/c64-blood-money/",
-      "points": "105 points",
-      "comments": "23 comments",
-      "index": 11
+      "points": "66 points",
+      "comments": "27 comments",
+      "index": 12
     },
     {
       "title": "Compiler for \"Easy\" language from \"Etudes for Programmers\" book (1978)",
       "href": "https://github.com/begoon/easy",
-      "points": "10 points",
-      "comments": "2 comments",
-      "index": 12
+      "points": "15 points",
+      "comments": "6 comments",
+      "index": 13
     },
     {
       "title": "Scripts I wrote that I use all the time",
       "href": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
-      "points": "1112 points",
-      "comments": "326 comments",
-      "index": 13
-    },
-    {
-      "title": "Which Collatz numbers do Busy Beavers simulate (if any)?",
-      "href": "https://gbragafibra.github.io/2025/10/16/collatz_ant11.html",
-      "points": "25 points",
-      "comments": "1 comment",
+      "points": "1143 points",
+      "comments": "328 comments",
       "index": 14
-    },
-    {
-      "title": "Nango (YC W23) is hiring Staff Back end Engs (remote)",
-      "href": "https://www.nango.dev/careers",
-      "points": "",
-      "comments": "hide",
-      "index": 15
     },
     {
       "title": "Radios, how do they work? (2024)",
       "href": "https://lcamtuf.substack.com/p/radios-how-do-they-work",
-      "points": "165 points",
-      "comments": "29 comments",
+      "points": "180 points",
+      "comments": "44 comments",
+      "index": 15
+    },
+    {
+      "title": "Nango (YC W23) is hiring staff back-end engineers (remote)",
+      "href": "https://www.nango.dev/careers",
+      "points": "",
+      "comments": "hide",
       "index": 16
+    },
+    {
+      "title": "Show HN: Nostr Web – decentralized website hosting on Nostr",
+      "href": "https://nweb.shugur.com",
+      "points": "11 points",
+      "comments": "4 comments",
+      "index": 17
+    },
+    {
+      "title": "Which Collatz numbers do Busy Beavers simulate (if any)?",
+      "href": "https://gbragafibra.github.io/2025/10/16/collatz_ant11.html",
+      "points": "28 points",
+      "comments": "1 comment",
+      "index": 18
     },
     {
       "title": "Accessing Max Verstappen's passport and PII through FIA bugs",
       "href": "https://ian.sh/fia",
-      "points": "552 points",
-      "comments": "124 comments",
-      "index": 17
-    },
-    {
-      "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
-      "href": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
-      "points": "462 points",
-      "comments": "238 comments",
-      "index": 18
-    },
-    {
-      "title": "The Tonnetz",
-      "href": "https://thetonnetz.com/",
-      "points": "5 points",
-      "comments": "1 comment",
+      "points": "565 points",
+      "comments": "129 comments",
       "index": 19
     },
     {
-      "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
-      "href": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
-      "points": "174 points",
-      "comments": "154 comments",
+      "title": "Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?",
+      "href": "https://twitter.com/karpathy/status/1980397031542989305",
+      "points": "368 points",
+      "comments": "146 comments",
       "index": 20
     },
     {
       "title": "Run interactive commands in Gemini CLI",
       "href": "https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/",
-      "points": "185 points",
-      "comments": "63 comments",
+      "points": "191 points",
+      "comments": "69 comments",
       "index": 21
     },
     {
-      "title": "Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?",
-      "href": "https://twitter.com/karpathy/status/1980397031542989305",
-      "points": "352 points",
-      "comments": "138 comments",
+      "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
+      "href": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
+      "points": "194 points",
+      "comments": "168 comments",
       "index": 22
     },
     {
       "title": "JMAP for Calendars, Contacts and Files Now in Stalwart",
       "href": "https://stalw.art/blog/jmap-collaboration/",
-      "points": "366 points",
-      "comments": "177 comments",
+      "points": "369 points",
+      "comments": "180 comments",
       "index": 23
     },
     {
-      "title": "Show HN: Nostr Web – decentralized website hosting on Nostr",
-      "href": "https://nweb.shugur.com",
-      "points": "5 points",
-      "comments": "2 comments",
+      "title": "US axes website for reporting human rights abuses by US-armed foreign forces",
+      "href": "https://www.bbc.com/news/articles/cqx30vnwd4do",
+      "points": "650 points",
+      "comments": "333 comments",
       "index": 24
     },
     {
-      "title": "We need to start doing web blocking for non-technical reasons",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments",
-      "points": "30 points",
-      "comments": "11 comments",
+      "title": "Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?",
+      "href": "item?id=45595807",
+      "points": "108 points",
+      "comments": "30 comments",
       "index": 25
+    },
+    {
+      "title": "C64 Blood Money",
+      "href": "https://lemmings.info/c64-blood-money/",
+      "points": "114 points",
+      "comments": "25 comments",
+      "index": 26
     },
     {
       "title": "Ovi: Twin backbone cross-modal fusion for audio-video generation",
       "href": "https://github.com/character-ai/Ovi",
-      "points": "300 points",
+      "points": "302 points",
       "comments": "110 comments",
-      "index": 26
-    },
-    {
-      "title": "Microsoft puts Office Online Server on the chopping block",
-      "href": "https://www.theregister.com/2025/10/22/microsoft_office_online_server/",
-      "points": "30 points",
-      "comments": "17 comments",
       "index": 27
     },
     {
-      "title": "Why SSA Compilers?",
-      "href": "https://mcyoung.xyz/2025/10/21/ssa-1/",
-      "points": "198 points",
-      "comments": "84 comments",
+      "title": "We need to start doing web blocking for non-technical reasons",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments",
+      "points": "43 points",
+      "comments": "22 comments",
       "index": 28
+    },
+    {
+      "title": "Why SSA?",
+      "href": "https://mcyoung.xyz/2025/10/21/ssa-1/",
+      "points": "206 points",
+      "comments": "88 comments",
+      "index": 29
     },
     {
       "title": "Element: setHTML() method",
       "href": "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML",
-      "points": "242 points",
-      "comments": "132 comments",
-      "index": 29
-    },
-    {
-      "title": "Play abstract strategy board games online with friends or against bots",
-      "href": "https://abstractboardgames.com/",
-      "points": "148 points",
-      "comments": "64 comments",
+      "points": "249 points",
+      "comments": "135 comments",
       "index": 30
     }
   ]
