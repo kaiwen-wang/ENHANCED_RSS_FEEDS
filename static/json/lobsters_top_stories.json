@@ -1,5 +1,5 @@
 {
-  "date": "Friday, October 24, 2025 at 6:15 AM GMT-5",
+  "date": "Friday, October 24, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "Changes to Advent of Code starting this December",
@@ -9,29 +9,29 @@
       "index": 1
     },
     {
+      "title": "Modern perfect hashing",
+      "href": "https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 2
+    },
+    {
       "title": "I see a future in jj",
       "href": "https://steveklabnik.com/writing/i-see-a-future-in-jj/",
       "points": "",
-      "comments": "\n              111 comments\n            ",
-      "index": 2
+      "comments": "\n              112 comments\n            ",
+      "index": 3
     },
     {
       "title": "4 Unconventional Ways to Cast in Typescript",
       "href": "https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Tuckr - Stow alternative with symlink checking",
       "href": "https://github.com/RaphGL/Tuckr",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Programming With Less Than Nothing",
-      "href": "https://joshmoody.org/blog/programming-with-less-than-nothing/",
       "points": "",
       "comments": "\n              13 comments\n            ",
       "index": 5
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
-      "title": "What Happened to Apple's Legendary Attention to Detail?",
-      "href": "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html",
+      "title": "What are you doing this weekend?",
+      "href": "/s/fmazqz/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 7
     },
     {
-      "title": "Luau’s Performance",
-      "href": "https://luau.org/performance",
+      "title": "Programming With Less Than Nothing",
+      "href": "https://joshmoody.org/blog/programming-with-less-than-nothing/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 8
     },
     {
@@ -65,94 +65,94 @@
       "index": 9
     },
     {
-      "title": "Modern perfect hashing",
-      "href": "https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html",
+      "title": "Luau’s Performance",
+      "href": "https://luau.org/performance",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 10
     },
     {
-      "title": "A Word on Omarchy",
-      "href": "https://マリウス.com/a-word-on-omarchy/",
+      "title": "What Happened to Apple's Legendary Attention to Detail?",
+      "href": "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html",
       "points": "",
-      "comments": "\n              141 comments\n            ",
+      "comments": "\n              23 comments\n            ",
       "index": 11
     },
     {
-      "title": "Boa release v0.21 - a new release of Boa, a JavaScript engine written in Rust",
-      "href": "https://boajs.dev/blog/2025/10/22/boa-release-21",
+      "title": "Carbon values, variables, and pointers",
+      "href": "https://github.com/carbon-language/carbon-lang/blob/trunk/docs/design/values.md",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 12
     },
     {
       "title": "SVG in GTK",
       "href": "https://blogs.gnome.org/gtk/2025/10/23/svg-in-gtk/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 13
+    },
+    {
+      "title": "Date bug affects Ubuntu 25.10 automatic updates",
+      "href": "https://lwn.net/Articles/1043103/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "A Word on Omarchy",
+      "href": "https://マリウス.com/a-word-on-omarchy/",
+      "points": "",
+      "comments": "\n              141 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Boa release v0.21 - a new release of Boa, a JavaScript engine written in Rust",
+      "href": "https://boajs.dev/blog/2025/10/22/boa-release-21",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 16
     },
     {
       "title": "Intel \"Nova Lake\" Could Arrive Without AVX10, APX, and AMX Support",
       "href": "https://www.techpowerup.com/342147/intel-nova-lake-could-arrive-without-avx10-apx-and-amx-support",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 14
+      "index": 17
+    },
+    {
+      "title": "OpenBSD C/C++ Toolchain in the Browser",
+      "href": "https://openbsd.llvm.moe/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
     },
     {
       "title": "Debian Technical Committee overrides systemd change",
       "href": "https://lwn.net/Articles/1041316/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 15
+      "index": 19
     },
     {
       "title": "Why /dev/null Is an ACID Compliant Database",
       "href": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
+      "index": 20
+    },
+    {
+      "title": "I spent a year of my life making an ASN.1 compiler in D",
+      "href": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 21
     },
     {
       "title": "Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region",
       "href": "https://aws.amazon.com/message/101925/",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "I spent a year of my life making an ASN.1 compiler in D",
-      "href": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/fmazqz/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Inertia.js - The Modern Monolith",
-      "href": "https://inertiajs.com/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Bitmasks, Ruby Threads and Interrupts, oh my",
-      "href": "https://jpcamara.com/2025/10/22/bitmasks-threads-and-interrupts-concurrent.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "html-is-a-tree",
-      "href": "https://glfmn.io/posts/html-is-a-tree/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "Scripts I wrote that I use all the time",
-      "href": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
+      "title": "Inertia.js - The Modern Monolith",
+      "href": "https://inertiajs.com/",
       "points": "",
-      "comments": "\n              29 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "My 2 month beef with my own Linux environment. (Developer cautionary tale)",
-      "href": "https://www.reddit.com/r/linux/comments/1odq7ti/fixing_my_broken_system_while_breaking_my_fixed/",
+      "title": "Bitmasks, Ruby Threads and Interrupts, oh my",
+      "href": "https://jpcamara.com/2025/10/22/bitmasks-threads-and-interrupts-concurrent.html",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
