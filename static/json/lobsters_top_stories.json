@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, October 26, 2025 at 5:20 AM GMT-5",
+  "date": "Sunday, October 26, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "WebDAV Isn't Dead Yet",
@@ -23,38 +23,38 @@
       "index": 3
     },
     {
-      "title": "Mistakes I see engineers making in their code reviews",
-      "href": "https://www.seangoedecke.com/good-code-reviews/",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 4
-    },
-    {
       "title": "KDE Linux deep dive: package management is amazing, which is why we don’t include it",
       "href": "https://pointieststick.com/2025/10/25/kde-linux-deep-dive-package-management-is-amazing-which-is-why-we-dont-include-it/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "Retrospective on weaknesses in fuzzing research",
-      "href": "https://addisoncrump.info/research/what-the-hell-are-we-doing/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 6
+      "index": 4
     },
     {
       "title": "The FSF considers large language models",
       "href": "https://lwn.net/Articles/1040888/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 5
+    },
+    {
+      "title": "Mistakes I see engineers making in their code reviews",
+      "href": "https://www.seangoedecke.com/good-code-reviews/",
+      "points": "",
+      "comments": "\n              21 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Retrospective on weaknesses in fuzzing research",
+      "href": "https://addisoncrump.info/research/what-the-hell-are-we-doing/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 7
     },
     {
       "title": "Leaving the Freedesktop.org community",
       "href": "https://vt.social/@lina/115431232807081648",
       "points": "",
-      "comments": "\n              55 comments\n            ",
+      "comments": "\n              56 comments\n            ",
       "index": 8
     },
     {
@@ -86,85 +86,85 @@
       "index": 12
     },
     {
+      "title": "An Overview of Attestations in CI",
+      "href": "https://github.com/diskuv/dk/blob/V2_4/docs/posts/2025-10-24-overview-ci-attestations.md",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 13
+    },
+    {
       "title": "Jonesing For The Next Disruptor",
       "href": "https://datagubbe.se/llmfix/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Programming Modern Systems Like It Was 1984 (2014)",
-      "href": "https://prog21.dadgum.com/201.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 14
-    },
-    {
-      "title": "Property-Based Testing in Practice",
-      "href": "https://dl.acm.org/doi/pdf/10.1145/3597503.3639581",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Barebones RISC-V OS written in Zig (2023)",
-      "href": "https://timmy.moe/blog/barebones-os-zig/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Computer Science Courses that Don't Exist, But Should (2015)",
-      "href": "https://prog21.dadgum.com/210.html",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 17
     },
     {
       "title": "An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes (1989)",
       "href": "https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Programming Modern Systems Like It Was 1984 (2014)",
+      "href": "https://prog21.dadgum.com/201.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "The Linux Boot Process: From Power Button to Kernel",
+      "href": "https://www.0xkato.xyz/linux-boot/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Property-Based Testing in Practice",
+      "href": "https://dl.acm.org/doi/pdf/10.1145/3597503.3639581",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 18
+    },
+    {
+      "title": "Barebones RISC-V OS written in Zig (2023)",
+      "href": "https://timmy.moe/blog/barebones-os-zig/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Computer Science Courses that Don't Exist, But Should (2015)",
+      "href": "https://prog21.dadgum.com/210.html",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 20
     },
     {
       "title": "(fifteenth RacketCon) playlist is now up",
       "href": "https://www.youtube.com/playlist?list=PLXr4KViVC0qI3GixTBDcayVOZG6DcRFPp",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "An Overview of Attestations in CI",
-      "href": "https://github.com/diskuv/dk/blob/V2_4/docs/posts/2025-10-24-overview-ci-attestations.md",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Typst 0.14: Now accessible",
       "href": "https://typst.app/blog/2025/typst-0.14/",
       "points": "",
       "comments": "\n              19 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "A Vision for Future Low-Level Languages",
       "href": "https://antelang.org/blog/vision/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Sandbox Your Program Using FreeBSD's Capsicum",
       "href": "https://m.youtube.com/watch?v=Ne4l5U_ETAw",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "The Linux Boot Process: From Power Button to Kernel",
-      "href": "https://www.0xkato.xyz/linux-boot/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 24
