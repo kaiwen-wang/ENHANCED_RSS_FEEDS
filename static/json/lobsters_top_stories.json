@@ -1,39 +1,39 @@
 {
-  "date": "Monday, October 27, 2025 at 8:30 AM GMT-5",
+  "date": "Monday, October 27, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "You already have a git server",
       "href": "https://maurycyz.com/misc/easy_git/",
       "points": "",
-      "comments": "\n              32 comments\n            ",
+      "comments": "\n              33 comments\n            ",
       "index": 1
     },
     {
       "title": "Why JPEG XL Ignoring Bit Depth Is Genius (And Why AVIF Can’t Pull It Off)",
       "href": "https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "You should feed the bots",
-      "href": "https://maurycyz.com/misc/the_cost_of_trash/",
-      "points": "",
-      "comments": "\n              38 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "When 'perfect' code fails",
-      "href": "https://marma.dev/articles/2025/when-perfect-code-fails",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 4
     },
     {
       "title": "How I turned Zig into my favorite language to write network programs in",
       "href": "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "You should feed the bots",
+      "href": "https://maurycyz.com/misc/the_cost_of_trash/",
+      "points": "",
+      "comments": "\n              38 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "When 'perfect' code fails",
+      "href": "https://marma.dev/articles/2025/when-perfect-code-fails",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 5
     },
     {
@@ -86,17 +86,17 @@
       "index": 12
     },
     {
-      "title": "Bring Microsoft Recall to Linux",
-      "href": "https://github.com/rolflobker/recall-for-linux",
+      "title": "CPU Cache-Friendly Data Structures in Go",
+      "href": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 13
     },
     {
-      "title": "Why Your social.org Files Can Have Millions of Lines Without Any Performance Issues",
-      "href": "https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/",
+      "title": "Bring Microsoft Recall to Linux",
+      "href": "https://github.com/rolflobker/recall-for-linux",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 14
     },
     {
@@ -107,38 +107,38 @@
       "index": 15
     },
     {
+      "title": "Why Your social.org Files Can Have Millions of Lines Without Any Performance Issues",
+      "href": "https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 16
+    },
+    {
       "title": "WebDAV Isn't Dead Yet",
       "href": "https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/",
       "points": "",
       "comments": "\n              19 comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Token-Oriented Object Notation – JSON for LLMs at half the token cost",
       "href": "https://github.com/johannschopplich/toon",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Tag proposal: typesetting",
       "href": "/s/myqo5i/tag_proposal_typesetting",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "How to Build a Voice AI Agent Using Open-Source Tools",
       "href": "https://www.freecodecamp.org/news/how-to-build-a-voice-ai-agent-using-open-source-tools/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "The FSF considers large language models",
-      "href": "https://lwn.net/Articles/1040888/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "The FSF considers large language models",
+      "href": "https://lwn.net/Articles/1040888/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 22
+    },
+    {
       "title": "Recreating Lions' commentary for teaching OS at MIT",
       "href": "https://www.youtube.com/watch?v=uY7CNx-P9ao",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Simple Control Flow for Automatically Steering Agents",
       "href": "https://www.robw.fyi/2025/10/24/simple-control-flow-for-automatically-steering-agents/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Why open source may not survive the rise of generative AI",
       "href": "https://www.zdnet.com/article/why-open-source-may-not-survive-the-rise-of-generative-ai/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Distroless Containers for corporate use: Nix Flakes vs Fedora",
-      "href": "https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 25
     }
   ]
