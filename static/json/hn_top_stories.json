@@ -1,214 +1,214 @@
 {
-  "date": "Monday, October 27, 2025 at 4:15 PM GMT-5",
+  "date": "Monday, October 27, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
-      "title": "The PSF has withdrawn a $1.5M proposal to US Government grant program",
-      "href": "https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/",
-      "points": "42 points",
-      "comments": "1 comment",
+      "title": "Easy RISC-V",
+      "href": "https://dramforever.github.io/easyriscv/",
+      "points": "66 points",
+      "comments": "4 comments",
       "index": 1
     },
     {
       "title": "Claude for Excel",
       "href": "https://www.claude.com/claude-for-excel",
-      "points": "318 points",
-      "comments": "236 comments",
+      "points": "356 points",
+      "comments": "273 comments",
       "index": 2
-    },
-    {
-      "title": "Easy RISC-V: An interactive introduction to RISC-V assembly programming",
-      "href": "https://dramforever.github.io/easyriscv/",
-      "points": "12 points",
-      "comments": "discuss",
-      "index": 3
     },
     {
       "title": "Study finds growing social circles may fuel polarization",
       "href": "https://phys.org/news/2025-10-friends-division-social-circles-fuel.html",
-      "points": "28 points",
-      "comments": "14 comments",
+      "points": "55 points",
+      "comments": "35 comments",
+      "index": 3
+    },
+    {
+      "title": "10M people watched a YouTuber shim a lock; the lock company sued him – bad idea",
+      "href": "https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/",
+      "points": "531 points",
+      "comments": "220 comments",
       "index": 4
     },
     {
       "title": "JetKVM – Control any computer remotely",
       "href": "https://jetkvm.com/",
-      "points": "187 points",
-      "comments": "116 comments",
+      "points": "200 points",
+      "comments": "122 comments",
       "index": 5
-    },
-    {
-      "title": "10M people watched a YouTuber shim a lock; the lock company sued him – bad idea",
-      "href": "https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/",
-      "points": "418 points",
-      "comments": "182 comments",
-      "index": 6
     },
     {
       "title": "Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]",
       "href": "https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf",
-      "points": "225 points",
-      "comments": "54 comments",
-      "index": 7
-    },
-    {
-      "title": "Creating an all-weather driver",
-      "href": "https://waymo.com/blog/2025/10/creating-an-all-weather-driver",
-      "points": "47 points",
-      "comments": "30 comments",
-      "index": 8
-    },
-    {
-      "title": "Why Busy Beaver hunters fear the Antihydra",
-      "href": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/",
-      "points": "100 points",
-      "comments": "18 comments",
-      "index": 9
-    },
-    {
-      "title": "MCP-Scanner – Scan MCP Servers for vulnerabilities",
-      "href": "https://github.com/cisco-ai-defense/mcp-scanner",
-      "points": "65 points",
-      "comments": "16 comments",
-      "index": 10
-    },
-    {
-      "title": "The new calculus of AI-based coding",
-      "href": "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html",
-      "points": "20 points",
-      "comments": "1 comment",
-      "index": 11
+      "points": "232 points",
+      "comments": "56 comments",
+      "index": 6
     },
     {
       "title": "Simplify Your Code: Functional Core, Imperative Shell",
       "href": "https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html",
-      "points": "55 points",
-      "comments": "21 comments",
+      "points": "90 points",
+      "comments": "30 comments",
+      "index": 7
+    },
+    {
+      "title": "The new calculus of AI-based coding",
+      "href": "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html",
+      "points": "34 points",
+      "comments": "9 comments",
+      "index": 8
+    },
+    {
+      "title": "MCP-Scanner – Scan MCP Servers for vulnerabilities",
+      "href": "https://github.com/cisco-ai-defense/mcp-scanner",
+      "points": "76 points",
+      "comments": "22 comments",
+      "index": 9
+    },
+    {
+      "title": "Why Busy Beaver hunters fear the Antihydra",
+      "href": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/",
+      "points": "106 points",
+      "comments": "22 comments",
+      "index": 10
+    },
+    {
+      "title": "TOON – Token Oriented Object Notation",
+      "href": "https://github.com/johannschopplich/toon",
+      "points": "46 points",
+      "comments": "17 comments",
+      "index": 11
+    },
+    {
+      "title": "Go beyond Goroutines: introducing the Reactive paradigm",
+      "href": "https://samuelberthe.substack.com/p/go-beyond-goroutines-introducing",
+      "points": "10 points",
+      "comments": "4 comments",
       "index": 12
     },
     {
       "title": "Rust cross-platform GPUI components",
       "href": "https://github.com/longbridge/gpui-component",
-      "points": "417 points",
-      "comments": "178 comments",
+      "points": "432 points",
+      "comments": "181 comments",
       "index": 13
+    },
+    {
+      "title": "Tags to make HTML work like you expect",
+      "href": "https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/",
+      "points": "364 points",
+      "comments": "192 comments",
+      "index": 14
+    },
+    {
+      "title": "It's not always DNS",
+      "href": "https://notes.pault.ag/its-not-always-dns/",
+      "points": "20 points",
+      "comments": "13 comments",
+      "index": 15
+    },
+    {
+      "title": "Avoid 2:00 and 3:00 am cron jobs (2013)",
+      "href": "https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/",
+      "points": "217 points",
+      "comments": "204 comments",
+      "index": 16
     },
     {
       "title": "Sieve (YC X25) is hiring engineers to build video datasets for frontier AI",
       "href": "https://www.sievedata.com/",
       "points": "",
       "comments": "hide",
-      "index": 14
-    },
-    {
-      "title": "Tags to make HTML work like you expect",
-      "href": "https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/",
-      "points": "353 points",
-      "comments": "188 comments",
-      "index": 15
-    },
-    {
-      "title": "Avoid 2:00 and 3:00 am cron jobs (2013)",
-      "href": "https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/",
-      "points": "201 points",
-      "comments": "180 comments",
-      "index": 16
-    },
-    {
-      "title": "TOON – Token Oriented Object Notation",
-      "href": "https://github.com/johannschopplich/toon",
-      "points": "30 points",
-      "comments": "11 comments",
       "index": 17
     },
     {
       "title": "Solving regex crosswords with Z3",
       "href": "https://blog.nelhage.com/post/regex-crosswords-z3/",
-      "points": "28 points",
+      "points": "32 points",
       "comments": "discuss",
       "index": 18
     },
     {
-      "title": "It's not always DNS",
-      "href": "https://notes.pault.ag/its-not-always-dns/",
-      "points": "9 points",
-      "comments": "5 comments",
-      "index": 19
-    },
-    {
-      "title": "Eight Million Copies of Moby-Dick (2014)",
-      "href": "https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/",
-      "points": "22 points",
-      "comments": "8 comments",
-      "index": 20
-    },
-    {
-      "title": "Artificial Writing and Automated Detection [pdf]",
-      "href": "https://www.nber.org/system/files/working_papers/w34223/w34223.pdf",
-      "points": "32 points",
-      "comments": "16 comments",
-      "index": 21
-    },
-    {
-      "title": "Show HN: Erdos – open-source, AI data science IDE",
-      "href": "https://www.lotas.ai/erdos",
-      "points": "37 points",
-      "comments": "21 comments",
-      "index": 22
-    },
-    {
       "title": "Image Dithering: Eleven Algorithms and Source Code (2012)",
       "href": "https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html",
-      "points": "20 points",
-      "comments": "4 comments",
-      "index": 23
-    },
-    {
-      "title": "Why Nigeria accepted GMOs",
-      "href": "https://www.asimov.press/p/nigeria-crops",
-      "points": "30 points",
-      "comments": "55 comments",
-      "index": 24
+      "points": "29 points",
+      "comments": "8 comments",
+      "index": 19
     },
     {
       "title": "When 'perfect' code fails",
       "href": "https://marma.dev/articles/2025/when-perfect-code-fails",
-      "points": "9 points",
-      "comments": "6 comments",
-      "index": 25
+      "points": "15 points",
+      "comments": "11 comments",
+      "index": 20
     },
     {
-      "title": "Let the little guys in: A context sharing runtime for the personalised web",
-      "href": "https://arjun.md/little-guys",
-      "points": "46 points",
-      "comments": "9 comments",
-      "index": 26
-    },
-    {
-      "title": "Show HN: Git Auto Commit (GAC) – LLM-powered Git commit command line tool",
-      "href": "https://github.com/cellwebb/gac",
-      "points": "33 points",
-      "comments": "27 comments",
-      "index": 27
-    },
-    {
-      "title": "Show HN: JSON Query",
-      "href": "https://jsonquerylang.org/",
-      "points": "82 points",
-      "comments": "49 comments",
-      "index": 28
+      "title": "Show HN: Erdos – open-source, AI data science IDE",
+      "href": "https://www.lotas.ai/erdos",
+      "points": "38 points",
+      "comments": "21 comments",
+      "index": 21
     },
     {
       "title": "fnox, a secret manager that pairs well with mise",
       "href": "https://github.com/jdx/mise/discussions/6779",
-      "points": "77 points",
+      "points": "90 points",
+      "comments": "21 comments",
+      "index": 22
+    },
+    {
+      "title": "PSF has withdrawn $1.5M proposal to US Government grant program",
+      "href": "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html",
+      "points": "357 points",
+      "comments": "296 comments",
+      "index": 23
+    },
+    {
+      "title": "Eight Million Copies of Moby-Dick (2014)",
+      "href": "https://thevoltablog.wordpress.com/2014/01/27/nicolas-mugaveros-eight-million-copies-of-moby-dick-or-the-whale/",
+      "points": "26 points",
+      "comments": "9 comments",
+      "index": 24
+    },
+    {
+      "title": "Show HN: Dlog – Journaling and AI coach that learns what drives well-being (Mac)",
+      "href": "https://dlog.pro/",
+      "points": "7 points",
+      "comments": "discuss",
+      "index": 25
+    },
+    {
+      "title": "The last European train that travels by sea",
+      "href": "https://www.bbc.com/travel/article/20251024-the-last-european-train-that-travels-by-sea",
+      "points": "119 points",
+      "comments": "119 comments",
+      "index": 26
+    },
+    {
+      "title": "Artificial Writing and Automated Detection [pdf]",
+      "href": "https://www.nber.org/system/files/working_papers/w34223/w34223.pdf",
+      "points": "33 points",
       "comments": "19 comments",
+      "index": 27
+    },
+    {
+      "title": "Why Nigeria accepted GMOs",
+      "href": "https://www.asimov.press/p/nigeria-crops",
+      "points": "35 points",
+      "comments": "59 comments",
+      "index": 28
+    },
+    {
+      "title": "Should LLMs just treat text content as an image?",
+      "href": "https://www.seangoedecke.com/text-tokens-as-image-tokens/",
+      "points": "127 points",
+      "comments": "78 comments",
       "index": 29
     },
     {
-      "title": "A mild mannered Englishman who was the most prolific ghost hunter",
-      "href": "https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/",
-      "points": "11 points",
-      "comments": "1 comment",
+      "title": "Let the little guys in: A context sharing runtime for the personalised web",
+      "href": "https://arjun.md/little-guys",
+      "points": "51 points",
+      "comments": "11 comments",
       "index": 30
     }
   ]
