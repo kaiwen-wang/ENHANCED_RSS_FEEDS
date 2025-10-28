@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, October 28, 2025 at 3:20 PM GMT-5",
+  "date": "Tuesday, October 28, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "Your vibe coded slop PR is not welcome",
       "href": "https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 1
     },
     {
@@ -16,38 +16,38 @@
       "index": 2
     },
     {
-      "title": "Quantifying pass-by-value overhead",
-      "href": "https://owen.cafe/posts/struct-sizes/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 3
-    },
-    {
       "title": "Fil-C: A memory-safe C implementation",
       "href": "https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "Quantifying pass-by-value overhead",
+      "href": "https://owen.cafe/posts/struct-sizes/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 4
     },
     {
       "title": "How did the Windows 95 user interface code get brought to the Windows NT code base?",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 5
+    },
+    {
+      "title": "Frozen String Literals: Past, Present, Future?",
+      "href": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 6
     },
     {
       "title": "A brief history of random numbers",
       "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Frozen String Literals: Past, Present, Future?",
-      "href": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 7
     },
     {
@@ -61,7 +61,7 @@
       "title": "‘AI’ Sucks the Joy Out of Programming",
       "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
       "points": "",
-      "comments": "\n              39 comments\n            ",
+      "comments": "\n              43 comments\n            ",
       "index": 9
     },
     {
@@ -72,10 +72,10 @@
       "index": 10
     },
     {
-      "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
-      "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/",
+      "title": "What We Talk About When We Talk About Sideloading",
+      "href": "https://f-droid.org/2025/10/28/sideloading.html",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 11
     },
     {
@@ -86,92 +86,92 @@
       "index": 12
     },
     {
+      "title": "yensid: A proxy for better Nix remote builds",
+      "href": "https://github.com/garnix-io/yensid",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
       "title": "InvisiCaps By Example",
       "href": "https://fil-c.org/invisicaps_by_example",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 14
+    },
+    {
+      "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
+      "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 15
     },
     {
       "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
       "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 14
+      "index": 16
+    },
+    {
+      "title": "New graph layout algorithm for SpiderMonkey’s SSA compiler",
+      "href": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 17
     },
     {
       "title": "Why Busy Beaver Hunters Fear the Antihydra",
       "href": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 15
+      "index": 18
     },
     {
       "title": "minicoro: Single header stackful cross-platform coroutine library in pure C",
       "href": "https://github.com/edubart/minicoro",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "yensid: A proxy for better Nix remote builds",
-      "href": "https://github.com/garnix-io/yensid",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "What We Talk About When We Talk About Sideloading",
-      "href": "https://f-droid.org/2025/10/28/sideloading.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "It's NOT always DNS",
-      "href": "https://notes.pault.ag/its-not-always-dns/",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
       "index": 19
-    },
-    {
-      "title": "Indexing coffee with Notion",
-      "href": "https://xvw.lol/en/articles/notion-coffee.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
     },
     {
       "title": "iroh-blobs",
       "href": "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
+      "title": "It's NOT always DNS",
+      "href": "https://notes.pault.ag/its-not-always-dns/",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 21
     },
     {
-      "title": "Handwriting Programs in J (2017)",
-      "href": "https://www.hillelwayne.com/handwriting-j/",
+      "title": "Stackful Coroutine Made Fast",
+      "href": "https://photonlibos.github.io/blog/stackful-coroutine-made-fast",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 22
     },
     {
-      "title": "Firefox Security & Privacy Newsletter 2025 Q3",
-      "href": "https://attackanddefense.dev/2025/10/28/firefox-security-privacy-newsletter-2025-q3.html",
+      "title": "Indexing coffee with Notion",
+      "href": "https://xvw.lol/en/articles/notion-coffee.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 23
     },
     {
-      "title": "Raconn - Ssh multi hostname",
-      "href": "https://blog.izissise.net/posts/raconn/",
+      "title": "Understanding Docker Internals: Building a Container Runtime in Python | Muhammad",
+      "href": "https://muhammadraza.me/2024/building-container-runtime-python/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "The present and potential future of progressive image rendering",
-      "href": "https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/",
+      "title": "Handwriting Programs in J (2017)",
+      "href": "https://www.hillelwayne.com/handwriting-j/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 25
