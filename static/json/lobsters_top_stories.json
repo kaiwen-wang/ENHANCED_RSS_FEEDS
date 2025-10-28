@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, October 28, 2025 at 1:30 PM GMT-5",
+  "date": "Tuesday, October 28, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Your vibe coded slop PR is not welcome",
@@ -12,35 +12,35 @@
       "title": "Quantifying pass-by-value overhead",
       "href": "https://owen.cafe/posts/struct-sizes/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 2
     },
     {
-      "title": "The PSF has withdrawn a $1.5 million proposal to US government grant program",
-      "href": "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html",
+      "title": "Linux VM without VM software - User Mode Linux",
+      "href": "https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/",
       "points": "",
-      "comments": "\n              43 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "‘AI’ Sucks the Joy Out of Programming",
-      "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
-      "points": "",
-      "comments": "\n              38 comments\n            ",
-      "index": 4
     },
     {
       "title": "Frozen String Literals: Past, Present, Future?",
       "href": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 4
+    },
+    {
+      "title": "The PSF has withdrawn a $1.5 million proposal to US government grant program",
+      "href": "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html",
+      "points": "",
+      "comments": "\n              43 comments\n            ",
       "index": 5
     },
     {
-      "title": "Recent Rust Changes",
-      "href": "https://www.ncameron.org/blog/recent-rust-changes/",
+      "title": "‘AI’ Sucks the Joy Out of Programming",
+      "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              39 comments\n            ",
       "index": 6
     },
     {
@@ -54,28 +54,28 @@
       "title": "Fil-C: A memory-safe C implementation",
       "href": "https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 8
     },
     {
-      "title": "minicoro: Single header stackful cross-platform coroutine library in pure C",
-      "href": "https://github.com/edubart/minicoro",
+      "title": "Recent Rust Changes",
+      "href": "https://www.ncameron.org/blog/recent-rust-changes/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 9
-    },
-    {
-      "title": "Linux VM without VM software - User Mode Linux",
-      "href": "https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 10
     },
     {
       "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
       "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/",
       "points": "",
       "comments": "\n              11 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "minicoro: Single header stackful cross-platform coroutine library in pure C",
+      "href": "https://github.com/edubart/minicoro",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 11
     },
     {
@@ -86,94 +86,94 @@
       "index": 12
     },
     {
+      "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
+      "href": "https://tailscale.com/blog/services-beta",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 13
+    },
+    {
       "title": "Why Busy Beaver Hunters Fear the Antihydra",
       "href": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "It's NOT always DNS",
       "href": "https://notes.pault.ag/its-not-always-dns/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "InvisiCaps By Example",
-      "href": "https://fil-c.org/invisicaps_by_example",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 15
-    },
-    {
-      "title": "Handwriting Programs in J (2017)",
-      "href": "https://www.hillelwayne.com/handwriting-j/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
     },
     {
       "title": "How did the Windows 95 user interface code get brought to the Windows NT code base?",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "InvisiCaps By Example",
+      "href": "https://fil-c.org/invisicaps_by_example",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 17
-    },
-    {
-      "title": "Firefox Security & Privacy Newsletter 2025 Q3",
-      "href": "https://attackanddefense.dev/2025/10/28/firefox-security-privacy-newsletter-2025-q3.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "iroh-blobs",
-      "href": "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
-    },
-    {
-      "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
-      "href": "https://tailscale.com/blog/services-beta",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "The present and potential future of progressive image rendering",
-      "href": "https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "Stackful Coroutine Made Fast",
-      "href": "https://photonlibos.github.io/blog/stackful-coroutine-made-fast",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
     },
     {
       "title": "Indexing coffee with Notion",
       "href": "https://xvw.lol/en/articles/notion-coffee.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Handwriting Programs in J (2017)",
+      "href": "https://www.hillelwayne.com/handwriting-j/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
+    },
+    {
+      "title": "iroh-blobs",
+      "href": "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
+      "title": "Firefox Security & Privacy Newsletter 2025 Q3",
+      "href": "https://attackanddefense.dev/2025/10/28/firefox-security-privacy-newsletter-2025-q3.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "What We Talk About When We Talk About Sideloading",
+      "href": "https://f-droid.org/2025/10/28/sideloading.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "The present and potential future of progressive image rendering",
+      "href": "https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 23
+    },
+    {
+      "title": "Stackful Coroutine Made Fast",
+      "href": "https://photonlibos.github.io/blog/stackful-coroutine-made-fast",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "CPU Cache-Friendly Data Structures in Go",
       "href": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Raconn - Ssh multi hostname",
-      "href": "https://blog.izissise.net/posts/raconn/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 25
     }
   ]
