@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, October 28, 2025 at 6:15 AM GMT-5",
+  "date": "Tuesday, October 28, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "The PSF has withdrawn a $1.5 million proposal to US government grant program",
       "href": "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              32 comments\n            ",
       "index": 1
     },
     {
       "title": "‘AI’ Sucks the Joy Out of Programming",
       "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              25 comments\n            ",
       "index": 2
     },
     {
       "title": "Quantifying pass-by-value overhead",
       "href": "https://owen.cafe/posts/struct-sizes/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 3
     },
     {
@@ -40,19 +40,19 @@
       "title": "It's NOT always DNS",
       "href": "https://notes.pault.ag/its-not-always-dns/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 6
     },
     {
-      "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
-      "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/",
+      "title": "Handwriting Programs in J",
+      "href": "https://www.hillelwayne.com/handwriting-j/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 7
     },
     {
-      "title": "Handwriting Programs in J",
-      "href": "https://www.hillelwayne.com/handwriting-j/",
+      "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
+      "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 8
@@ -61,7 +61,7 @@
       "title": "CPU Cache-Friendly Data Structures in Go",
       "href": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 9
     },
     {
@@ -75,21 +75,21 @@
       "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
       "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 11
+    },
+    {
+      "title": "Stackful Coroutine Made Fast",
+      "href": "https://photonlibos.github.io/blog/stackful-coroutine-made-fast",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
     },
     {
       "title": "Printing at FedEx",
       "href": "https://v7.robweychert.com/blog/2025/10/printing-at-fedex/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "How I turned Zig into my favorite language to write network programs in",
-      "href": "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "The Impossible Optimization, and the Metaprogramming To Achieve It",
-      "href": "https://verdagon.dev/blog/impossible-optimization",
+      "title": "How I turned Zig into my favorite language to write network programs in",
+      "href": "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 15
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/0ddyuj/what_are_you_doing_this_week",
+      "title": "The Impossible Optimization, and the Metaprogramming To Achieve It",
+      "href": "https://verdagon.dev/blog/impossible-optimization",
       "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 16
     },
     {
       "title": "JSON Query - a small, flexible, and expandable JSON query language",
       "href": "https://jsonquerylang.org/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 17
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/0ddyuj/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              26 comments\n            ",
+      "index": 18
     },
     {
       "title": "Re: A few comments on ‘age’ (2019)",
       "href": "https://groups.google.com/g/age-dev/c/r-gwwcN3L-0/m/EhEvUbG5AwAJ",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
+      "index": 19
+    },
+    {
+      "title": "Modern networking in Firefox with Max Inden",
+      "href": "https://netstack.fm/#episode-11",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "iroh-blobs",
+      "href": "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
     },
     {
       "title": "gleescript:  Bundle your Gleam-on-Erlang project into an escript, a single executable file",
       "href": "https://github.com/lpil/gleescript",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 19
+      "index": 22
     },
     {
       "title": "You already have a git server",
       "href": "https://maurycyz.com/misc/easy_git/",
       "points": "",
       "comments": "\n              39 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Stackful Coroutine Made Fast",
-      "href": "https://photonlibos.github.io/blog/stackful-coroutine-made-fast",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "When 'perfect' code fails",
       "href": "https://marma.dev/articles/2025/when-perfect-code-fails",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "You should feed the bots",
       "href": "https://maurycyz.com/misc/the_cost_of_trash/",
       "points": "",
       "comments": "\n              48 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "The New Calculus of AI-based Coding",
-      "href": "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Slicing and Dicing Through Complexity with Hanami",
-      "href": "https://www.youtube.com/watch?v=5-Ajpoq-5eE",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
