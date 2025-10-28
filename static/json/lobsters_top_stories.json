@@ -1,32 +1,32 @@
 {
-  "date": "Tuesday, October 28, 2025 at 10:20 AM GMT-5",
+  "date": "Tuesday, October 28, 2025 at 11:25 AM GMT-5",
   "articles": [
+    {
+      "title": "Your vibe coded slop PR is not welcome",
+      "href": "https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 1
+    },
     {
       "title": "Quantifying pass-by-value overhead",
       "href": "https://owen.cafe/posts/struct-sizes/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 1
+      "index": 2
     },
     {
       "title": "The PSF has withdrawn a $1.5 million proposal to US government grant program",
       "href": "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html",
       "points": "",
-      "comments": "\n              37 comments\n            ",
-      "index": 2
+      "comments": "\n              42 comments\n            ",
+      "index": 3
     },
     {
       "title": "‘AI’ Sucks the Joy Out of Programming",
       "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
       "points": "",
-      "comments": "\n              34 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Your vibe coded slop PR is not welcome",
-      "href": "https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              36 comments\n            ",
       "index": 4
     },
     {
@@ -51,31 +51,31 @@
       "index": 7
     },
     {
+      "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
+      "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "minicoro: Single header stackful cross-platform coroutine library in pure C",
       "href": "https://github.com/edubart/minicoro",
       "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 8
+      "comments": "\n              7 comments\n            ",
+      "index": 9
     },
     {
       "title": "It's NOT always DNS",
       "href": "https://notes.pault.ag/its-not-always-dns/",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Firefox Security & Privacy Newsletter 2025 Q3",
       "href": "https://attackanddefense.dev/2025/10/28/firefox-security-privacy-newsletter-2025-q3.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
-      "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 11
     },
     {
@@ -93,38 +93,38 @@
       "index": 13
     },
     {
+      "title": "A brief history of random numbers",
+      "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 14
+    },
+    {
       "title": "CPU Cache-Friendly Data Structures in Go",
       "href": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Raconn - Ssh multi hostname",
       "href": "https://blog.izissise.net/posts/raconn/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "The Impossible Optimization, and the Metaprogramming To Achieve It",
-      "href": "https://verdagon.dev/blog/impossible-optimization",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 16
     },
     {
-      "title": "Easy RISC-V: An interactive introduction to RISC-V assembly programming",
-      "href": "https://dramforever.github.io/easyriscv/",
+      "title": "Frozen String Literals: Past, Present, Future?",
+      "href": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
-      "title": "Printing at FedEx",
-      "href": "https://v7.robweychert.com/blog/2025/10/printing-at-fedex/",
+      "title": "iroh-blobs",
+      "href": "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
@@ -135,43 +135,43 @@
       "index": 19
     },
     {
+      "title": "The Impossible Optimization, and the Metaprogramming To Achieve It",
+      "href": "https://verdagon.dev/blog/impossible-optimization",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Printing at FedEx",
+      "href": "https://v7.robweychert.com/blog/2025/10/printing-at-fedex/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Easy RISC-V: An interactive introduction to RISC-V assembly programming",
+      "href": "https://dramforever.github.io/easyriscv/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 22
+    },
+    {
       "title": "How I turned Zig into my favorite language to write network programs in",
       "href": "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 20
+      "index": 23
     },
     {
       "title": "JSON Query - a small, flexible, and expandable JSON query language",
       "href": "https://jsonquerylang.org/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "iroh-blobs",
-      "href": "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Frozen String Literals: Past, Present, Future?",
-      "href": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/0ddyuj/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              30 comments\n            ",
       "index": 24
     },
     {
-      "title": "A brief history of random numbers",
-      "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers",
+      "title": "InvisiCaps By Example",
+      "href": "https://fil-c.org/invisicaps_by_example",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
