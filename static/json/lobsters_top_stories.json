@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, October 28, 2025 at 4:15 PM GMT-5",
+  "date": "Tuesday, October 28, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "Your vibe coded slop PR is not welcome",
@@ -12,7 +12,7 @@
       "title": "Linux VM without VM software - User Mode Linux",
       "href": "https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 2
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "Quantifying pass-by-value overhead",
-      "href": "https://owen.cafe/posts/struct-sizes/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 4
-    },
-    {
       "title": "How did the Windows 95 user interface code get brought to the Windows NT code base?",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Quantifying pass-by-value overhead",
+      "href": "https://owen.cafe/posts/struct-sizes/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 5
     },
     {
@@ -44,52 +44,52 @@
       "index": 6
     },
     {
+      "title": "What We Talk About When We Talk About Sideloading",
+      "href": "https://f-droid.org/2025/10/28/sideloading.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 7
+    },
+    {
       "title": "A brief history of random numbers",
       "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "The PSF has withdrawn a $1.5 million proposal to US government grant program",
       "href": "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html",
       "points": "",
-      "comments": "\n              43 comments\n            ",
-      "index": 8
+      "comments": "\n              45 comments\n            ",
+      "index": 9
     },
     {
       "title": "‘AI’ Sucks the Joy Out of Programming",
       "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
       "points": "",
-      "comments": "\n              43 comments\n            ",
-      "index": 9
+      "comments": "\n              48 comments\n            ",
+      "index": 10
     },
     {
       "title": "Recent Rust Changes",
       "href": "https://www.ncameron.org/blog/recent-rust-changes/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "What We Talk About When We Talk About Sideloading",
-      "href": "https://f-droid.org/2025/10/28/sideloading.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 11
-    },
-    {
-      "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
-      "href": "https://tailscale.com/blog/services-beta",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 12
     },
     {
       "title": "yensid: A proxy for better Nix remote builds",
       "href": "https://github.com/garnix-io/yensid",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
+      "href": "https://tailscale.com/blog/services-beta",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 13
     },
     {
@@ -100,24 +100,24 @@
       "index": 14
     },
     {
+      "title": "New graph layout algorithm for SpiderMonkey’s SSA compiler",
+      "href": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
       "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
       "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
       "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "New graph layout algorithm for SpiderMonkey’s SSA compiler",
-      "href": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 17
     },
     {
@@ -128,24 +128,24 @@
       "index": 18
     },
     {
+      "title": "Indexing coffee with Notion",
+      "href": "https://xvw.lol/en/articles/notion-coffee.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
       "title": "minicoro: Single header stackful cross-platform coroutine library in pure C",
       "href": "https://github.com/edubart/minicoro",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "iroh-blobs",
       "href": "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
-    },
-    {
-      "title": "It's NOT always DNS",
-      "href": "https://notes.pault.ag/its-not-always-dns/",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
       "index": 21
     },
     {
@@ -156,14 +156,14 @@
       "index": 22
     },
     {
-      "title": "Indexing coffee with Notion",
-      "href": "https://xvw.lol/en/articles/notion-coffee.html",
+      "title": "It's NOT always DNS",
+      "href": "https://notes.pault.ag/its-not-always-dns/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 23
     },
     {
-      "title": "Understanding Docker Internals: Building a Container Runtime in Python | Muhammad",
+      "title": "Understanding Docker Internals: Building a Container Runtime in Python",
       "href": "https://muhammadraza.me/2024/building-container-runtime-python/",
       "points": "",
       "comments": "\n              no comments\n            ",
