@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, October 29, 2025 at 7:40 AM GMT-5",
+  "date": "Wednesday, October 29, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "The Vindication of Bubble Sort",
       "href": "https://entropicthoughts.com/vindication-of-bubble-sort",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 1
     },
     {
@@ -26,7 +26,7 @@
       "title": "Fil-C: A memory-safe C implementation",
       "href": "https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 4
     },
     {
@@ -37,143 +37,143 @@
       "index": 5
     },
     {
+      "title": "I built an actually faster Notion in Rust",
+      "href": "https://imedadel.com/outcrop/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 6
+    },
+    {
       "title": "New graph layout algorithm for SpiderMonkey’s SSA compiler",
       "href": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 6
+      "index": 7
     },
     {
       "title": "How did the Windows 95 user interface code get brought to the Windows NT code base?",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "First look inside the Derby factory building the Elizabeth line’s new trains",
       "href": "https://www.ianvisits.co.uk/articles/first-look-inside-the-derby-factory-building-the-elizabeth-lines-new-trains-84997/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 8
+      "index": 9
     },
     {
-      "title": "I built an actually faster Notion in Rust",
-      "href": "https://imedadel.com/outcrop/",
+      "title": "Zig's New Async I/O",
+      "href": "https://www.youtube.com/watch?v=mdOxIc0HM04",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 9
+      "comments": "\n              3 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "TEE.fail: Breaking Trusted Execution Environments via DDR5 Memory Bus Interposition",
+      "href": "https://tee.fail/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 11
     },
     {
       "title": "Writing a C Compiler, in Zig",
       "href": "https://asibahi.github.io/thoughts/c-compiler-1-zig/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
+      "index": 12
     },
     {
       "title": "Database backups, dump files and restic",
       "href": "https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 11
+      "index": 13
     },
     {
       "title": "filepizza: Peer-to-peer file transfers in your browser",
       "href": "https://github.com/kern/filepizza",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 12
+      "index": 14
     },
     {
       "title": "yensid: A proxy for better Nix remote builds",
       "href": "https://github.com/garnix-io/yensid",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 15
     },
     {
       "title": "A brief history of random numbers",
       "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 14
+      "index": 16
+    },
+    {
+      "title": "Disasters I've seen in a microservices world, part II",
+      "href": "https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
     },
     {
       "title": "Frozen String Literals: Past, Present, Future?",
       "href": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "TEE.fail: Breaking Trusted Execution Environments via DDR5 Memory Bus Interposition",
-      "href": "https://tee.fail/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Quantifying pass-by-value overhead",
-      "href": "https://owen.cafe/posts/struct-sizes/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
-      "href": "https://tailscale.com/blog/services-beta",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 18
-    },
-    {
-      "title": "Understanding Docker Internals: Building a Container Runtime in Python",
-      "href": "https://muhammadraza.me/2024/building-container-runtime-python/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
     },
     {
       "title": "Springs and Bounces in Native CSS",
       "href": "https://www.joshwcomeau.com/animation/linear-timing-function/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Quantifying pass-by-value overhead",
+      "href": "https://owen.cafe/posts/struct-sizes/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
       "index": 20
+    },
+    {
+      "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
+      "href": "https://tailscale.com/blog/services-beta",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Understanding Docker Internals: Building a Container Runtime in Python",
+      "href": "https://muhammadraza.me/2024/building-container-runtime-python/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "AWS to Bare Metal Two Years Later: Answering Your Toughest Questions About Leaving AWS",
+      "href": "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "Indexing coffee with Notion",
       "href": "https://xvw.lol/en/articles/notion-coffee.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "FDD - Diskettes",
       "href": "https://retrocmp.de/fdd/diskette/diskette.htm",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Zig's New Async I/O",
-      "href": "https://www.youtube.com/watch?v=mdOxIc0HM04",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Recent Rust Changes",
-      "href": "https://www.ncameron.org/blog/recent-rust-changes/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "InvisiCaps By Example",
-      "href": "https://fil-c.org/invisicaps_by_example",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
