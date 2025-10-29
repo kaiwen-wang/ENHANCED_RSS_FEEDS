@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, October 28, 2025 at 8:40 PM GMT-5",
+  "date": "Tuesday, October 28, 2025 at 10:15 PM GMT-5",
   "articles": [
     {
       "title": "Linux VM without VM software - User Mode Linux",
       "href": "https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 1
     },
     {
@@ -19,35 +19,35 @@
       "title": "Fil-C: A memory-safe C implementation",
       "href": "https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "How did the Windows 95 user interface code get brought to the Windows NT code base?",
-      "href": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 4
     },
     {
       "title": "What We Talk About When We Talk About Sideloading",
       "href": "https://f-droid.org/2025/10/28/sideloading.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 5
+      "index": 4
     },
     {
-      "title": "Quantifying pass-by-value overhead",
-      "href": "https://owen.cafe/posts/struct-sizes/",
+      "title": "How did the Windows 95 user interface code get brought to the Windows NT code base?",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 6
+      "comments": "\n              6 comments\n            ",
+      "index": 5
     },
     {
       "title": "New graph layout algorithm for SpiderMonkey’s SSA compiler",
       "href": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 6
+    },
+    {
+      "title": "Quantifying pass-by-value overhead",
+      "href": "https://owen.cafe/posts/struct-sizes/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 7
     },
     {
@@ -61,7 +61,7 @@
       "title": "A brief history of random numbers",
       "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 9
     },
     {
@@ -82,7 +82,7 @@
       "title": "‘AI’ Sucks the Joy Out of Programming",
       "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
       "points": "",
-      "comments": "\n              50 comments\n            ",
+      "comments": "\n              51 comments\n            ",
       "index": 12
     },
     {
@@ -107,66 +107,66 @@
       "index": 15
     },
     {
-      "title": "filepizza: Peer-to-peer file transfers in your browser",
-      "href": "https://github.com/kern/filepizza",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
-    },
-    {
-      "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
-      "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "minicoro: Single header stackful cross-platform coroutine library in pure C",
-      "href": "https://github.com/edubart/minicoro",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
-      "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 19
-    },
-    {
       "title": "Understanding Docker Internals: Building a Container Runtime in Python",
       "href": "https://muhammadraza.me/2024/building-container-runtime-python/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 16
     },
     {
       "title": "Database backups, dump files and restic",
       "href": "https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 17
     },
     {
-      "title": "Why Busy Beaver Hunters Fear the Antihydra",
-      "href": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/",
+      "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
+      "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Stackful Coroutine Made Fast",
-      "href": "https://photonlibos.github.io/blog/stackful-coroutine-made-fast",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
+      "comments": "\n              11 comments\n            ",
+      "index": 18
     },
     {
       "title": "Indexing coffee with Notion",
       "href": "https://xvw.lol/en/articles/notion-coffee.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "filepizza: Peer-to-peer file transfers in your browser",
+      "href": "https://github.com/kern/filepizza",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
+      "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
+      "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Stackful Coroutine Made Fast",
+      "href": "https://photonlibos.github.io/blog/stackful-coroutine-made-fast",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 22
+    },
+    {
+      "title": "minicoro: Single header stackful cross-platform coroutine library in pure C",
+      "href": "https://github.com/edubart/minicoro",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Why Busy Beaver Hunters Fear the Antihydra",
+      "href": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 24
     },
     {
