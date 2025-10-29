@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, October 29, 2025 at 2:20 AM GMT-5",
+  "date": "Wednesday, October 29, 2025 at 3:25 AM GMT-5",
   "articles": [
     {
       "title": "Linux VM without VM software - User Mode Linux",
       "href": "https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 1
     },
     {
-      "title": "Your vibe coded slop PR is not welcome",
-      "href": "https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome",
+      "title": "Fil-C: A memory-safe C implementation",
+      "href": "https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 2
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "Fil-C: A memory-safe C implementation",
-      "href": "https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/",
+      "title": "Your vibe coded slop PR is not welcome",
+      "href": "https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 4
     },
     {
       "title": "How did the Windows 95 user interface code get brought to the Windows NT code base?",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 5
     },
     {
@@ -51,129 +51,129 @@
       "index": 7
     },
     {
-      "title": "Quantifying pass-by-value overhead",
-      "href": "https://owen.cafe/posts/struct-sizes/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 8
-    },
-    {
       "title": "A brief history of random numbers",
       "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers",
       "points": "",
       "comments": "\n              10 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Quantifying pass-by-value overhead",
+      "href": "https://owen.cafe/posts/struct-sizes/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 9
+    },
+    {
+      "title": "filepizza: Peer-to-peer file transfers in your browser",
+      "href": "https://github.com/kern/filepizza",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 10
     },
     {
       "title": "yensid: A proxy for better Nix remote builds",
       "href": "https://github.com/garnix-io/yensid",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
+      "index": 11
+    },
+    {
+      "title": "The Vindication of Bubble Sort",
+      "href": "https://entropicthoughts.com/vindication-of-bubble-sort",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
     },
     {
       "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
       "href": "https://tailscale.com/blog/services-beta",
       "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "filepizza: Peer-to-peer file transfers in your browser",
-      "href": "https://github.com/kern/filepizza",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 12
+      "comments": "\n              6 comments\n            ",
+      "index": 13
     },
     {
       "title": "Writing a C Compiler, in Zig",
       "href": "https://asibahi.github.io/thoughts/c-compiler-1-zig/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Recent Rust Changes",
-      "href": "https://www.ncameron.org/blog/recent-rust-changes/",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
       "index": 14
-    },
-    {
-      "title": "The PSF has withdrawn a $1.5 million proposal to US government grant program",
-      "href": "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html",
-      "points": "",
-      "comments": "\n              46 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "‘AI’ Sucks the Joy Out of Programming",
-      "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
-      "points": "",
-      "comments": "\n              56 comments\n            ",
-      "index": 16
     },
     {
       "title": "Database backups, dump files and restic",
       "href": "https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "InvisiCaps By Example",
-      "href": "https://fil-c.org/invisicaps_by_example",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 15
     },
     {
       "title": "Understanding Docker Internals: Building a Container Runtime in Python",
       "href": "https://muhammadraza.me/2024/building-container-runtime-python/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Recent Rust Changes",
+      "href": "https://www.ncameron.org/blog/recent-rust-changes/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "The PSF has withdrawn a $1.5 million proposal to US government grant program",
+      "href": "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html",
+      "points": "",
+      "comments": "\n              46 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "‘AI’ Sucks the Joy Out of Programming",
+      "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
+      "points": "",
+      "comments": "\n              57 comments\n            ",
       "index": 19
+    },
+    {
+      "title": "InvisiCaps By Example",
+      "href": "https://fil-c.org/invisicaps_by_example",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
     },
     {
       "title": "Indexing coffee with Notion",
       "href": "https://xvw.lol/en/articles/notion-coffee.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 21
+    },
+    {
+      "title": "I built an actually faster Notion in Rust",
+      "href": "https://imedadel.com/outcrop/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
     },
     {
       "title": "minicoro: Single header stackful cross-platform coroutine library in pure C",
       "href": "https://github.com/edubart/minicoro",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Stackful Coroutine Made Fast",
       "href": "https://photonlibos.github.io/blog/stackful-coroutine-made-fast",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
       "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
-      "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Monte Carlo modeling in Python with probabilit",
-      "href": "https://tommyodland.com/articles/2025/monte-carlo-modeling-in-python-with-probabilit/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
