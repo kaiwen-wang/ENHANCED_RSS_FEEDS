@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, October 28, 2025 at 10:15 PM GMT-5",
+  "date": "Tuesday, October 28, 2025 at 11:25 PM GMT-5",
   "articles": [
     {
       "title": "Linux VM without VM software - User Mode Linux",
@@ -12,21 +12,21 @@
       "title": "Your vibe coded slop PR is not welcome",
       "href": "https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 2
     },
     {
       "title": "Fil-C: A memory-safe C implementation",
       "href": "https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 3
     },
     {
       "title": "What We Talk About When We Talk About Sideloading",
       "href": "https://f-droid.org/2025/10/28/sideloading.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 4
     },
     {
@@ -61,7 +61,7 @@
       "title": "A brief history of random numbers",
       "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 9
     },
     {
@@ -79,10 +79,10 @@
       "index": 11
     },
     {
-      "title": "‘AI’ Sucks the Joy Out of Programming",
-      "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
+      "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
+      "href": "https://tailscale.com/blog/services-beta",
       "points": "",
-      "comments": "\n              51 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 12
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
-      "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
-      "href": "https://tailscale.com/blog/services-beta",
+      "title": "‘AI’ Sucks the Joy Out of Programming",
+      "href": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              53 comments\n            ",
       "index": 14
-    },
-    {
-      "title": "InvisiCaps By Example",
-      "href": "https://fil-c.org/invisicaps_by_example",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Understanding Docker Internals: Building a Container Runtime in Python",
-      "href": "https://muhammadraza.me/2024/building-container-runtime-python/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
     },
     {
       "title": "Database backups, dump files and restic",
       "href": "https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 15
     },
     {
-      "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
-      "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Indexing coffee with Notion",
-      "href": "https://xvw.lol/en/articles/notion-coffee.html",
+      "title": "InvisiCaps By Example",
+      "href": "https://fil-c.org/invisicaps_by_example",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 16
     },
     {
       "title": "filepizza: Peer-to-peer file transfers in your browser",
       "href": "https://github.com/kern/filepizza",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
-    },
-    {
-      "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
-      "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Stackful Coroutine Made Fast",
-      "href": "https://photonlibos.github.io/blog/stackful-coroutine-made-fast",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
+      "index": 17
     },
     {
       "title": "minicoro: Single header stackful cross-platform coroutine library in pure C",
       "href": "https://github.com/edubart/minicoro",
       "points": "",
       "comments": "\n              7 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Writing a C Compiler, in Zig",
+      "href": "https://asibahi.github.io/thoughts/c-compiler-1-zig/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Understanding Docker Internals: Building a Container Runtime in Python",
+      "href": "https://muhammadraza.me/2024/building-container-runtime-python/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
+      "href": "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Indexing coffee with Notion",
+      "href": "https://xvw.lol/en/articles/notion-coffee.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Stackful Coroutine Made Fast",
+      "href": "https://photonlibos.github.io/blog/stackful-coroutine-made-fast",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 23
+    },
+    {
+      "title": "More Than DNS: The 14 hour AWS us-east-1 outage",
+      "href": "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 24
     },
     {
       "title": "Why Busy Beaver Hunters Fear the Antihydra",
       "href": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Monte Carlo modeling in Python with probabilit",
-      "href": "https://tommyodland.com/articles/2025/monte-carlo-modeling-in-python-with-probabilit/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
