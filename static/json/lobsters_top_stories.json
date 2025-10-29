@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, October 29, 2025 at 8:30 AM GMT-5",
+  "date": "Wednesday, October 29, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "The Vindication of Bubble Sort",
       "href": "https://entropicthoughts.com/vindication-of-bubble-sort",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 1
     },
     {
       "title": "What We Talk About When We Talk About Sideloading",
       "href": "https://f-droid.org/2025/10/28/sideloading.html",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 2
     },
     {
@@ -23,38 +23,38 @@
       "index": 3
     },
     {
+      "title": "Zig's New Async I/O",
+      "href": "https://www.youtube.com/watch?v=mdOxIc0HM04",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 4
+    },
+    {
       "title": "Fil-C: A memory-safe C implementation",
       "href": "https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/",
       "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 4
+      "comments": "\n              23 comments\n            ",
+      "index": 5
     },
     {
       "title": "Your vibe coded slop PR is not welcome",
       "href": "https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
       "title": "I built an actually faster Notion in Rust",
       "href": "https://imedadel.com/outcrop/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 6
+      "index": 7
     },
     {
       "title": "New graph layout algorithm for SpiderMonkey’s SSA compiler",
       "href": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 7
-    },
-    {
-      "title": "How did the Windows 95 user interface code get brought to the Windows NT code base?",
-      "href": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
       "index": 8
     },
     {
@@ -65,66 +65,66 @@
       "index": 9
     },
     {
-      "title": "Zig's New Async I/O",
-      "href": "https://www.youtube.com/watch?v=mdOxIc0HM04",
+      "title": "How did the Windows 95 user interface code get brought to the Windows NT code base?",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 10
+    },
+    {
+      "title": "I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance",
+      "href": "https://www.lorenstew.art/blog/10-kanban-boards/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 11
     },
     {
       "title": "TEE.fail: Breaking Trusted Execution Environments via DDR5 Memory Bus Interposition",
       "href": "https://tee.fail/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Writing a C Compiler, in Zig",
       "href": "https://asibahi.github.io/thoughts/c-compiler-1-zig/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Database backups, dump files and restic",
-      "href": "https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 13
     },
     {
-      "title": "filepizza: Peer-to-peer file transfers in your browser",
-      "href": "https://github.com/kern/filepizza",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "yensid: A proxy for better Nix remote builds",
-      "href": "https://github.com/garnix-io/yensid",
+      "title": "Kafka is Fast - I'll use Postgres",
+      "href": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "A brief history of random numbers",
-      "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 16
+      "index": 14
     },
     {
       "title": "Disasters I've seen in a microservices world, part II",
       "href": "https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Database backups, dump files and restic",
+      "href": "https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "filepizza: Peer-to-peer file transfers in your browser",
+      "href": "https://github.com/kern/filepizza",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 17
     },
     {
-      "title": "Frozen String Literals: Past, Present, Future?",
-      "href": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
+      "title": "yensid: A proxy for better Nix remote builds",
+      "href": "https://github.com/garnix-io/yensid",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
-      "title": "Quantifying pass-by-value overhead",
-      "href": "https://owen.cafe/posts/struct-sizes/",
+      "title": "From VS Code to Helix",
+      "href": "https://ergaster.org/posts/2025/10/29-vscode-to-helix/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 20
-    },
-    {
-      "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
-      "href": "https://tailscale.com/blog/services-beta",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Understanding Docker Internals: Building a Container Runtime in Python",
-      "href": "https://muhammadraza.me/2024/building-container-runtime-python/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "AWS to Bare Metal Two Years Later: Answering Your Toughest Questions About Leaving AWS",
-      "href": "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Indexing coffee with Notion",
-      "href": "https://xvw.lol/en/articles/notion-coffee.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 24
     },
     {
       "title": "FDD - Diskettes",
       "href": "https://retrocmp.de/fdd/diskette/diskette.htm",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "What Context Can Bring to Terminal Mouse Clicks",
+      "href": "https://tratt.net/laurie/blog/2025/what_context_can_bring_to_terminal_mouse_clicks.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "A brief history of random numbers",
+      "href": "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Frozen String Literals: Past, Present, Future?",
+      "href": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "Tailscale Services: Define resources on your tailnet, with granular controls",
+      "href": "https://tailscale.com/blog/services-beta",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 25
     }
   ]
