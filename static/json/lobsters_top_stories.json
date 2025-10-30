@@ -1,39 +1,39 @@
 {
-  "date": "Thursday, October 30, 2025 at 8:30 AM GMT-5",
+  "date": "Thursday, October 30, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Normalize Identifying Corporate Devices in Your Software",
       "href": "https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              24 comments\n            ",
       "index": 1
     },
     {
       "title": "Zig's New Async I/O (Text Version)",
       "href": "https://andrewkelley.me/post/zig-new-async-io-text-version.html",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 2
     },
     {
       "title": "uv is the best thing to happen to the Python ecosystem in a decade",
       "href": "https://emily.space/posts/251023-uv",
       "points": "",
-      "comments": "\n              39 comments\n            ",
+      "comments": "\n              40 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "Kafka is Fast - I'll use Postgres",
-      "href": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 4
     },
     {
       "title": "Nix derivation madness",
       "href": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 4
+    },
+    {
+      "title": "Kafka is Fast - I'll use Postgres",
+      "href": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
       "index": 5
     },
     {
@@ -44,43 +44,43 @@
       "index": 6
     },
     {
-      "title": "The Vindication of Bubble Sort",
-      "href": "https://entropicthoughts.com/vindication-of-bubble-sort",
-      "points": "",
-      "comments": "\n              31 comments\n            ",
-      "index": 7
-    },
-    {
       "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
       "href": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 8
+      "index": 7
     },
     {
-      "title": "Use the XDG Base Directory Specification",
-      "href": "https://xdgbasedirectoryspecification.com/",
+      "title": "The Vindication of Bubble Sort",
+      "href": "https://entropicthoughts.com/vindication-of-bubble-sort",
       "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 9
+      "comments": "\n              31 comments\n            ",
+      "index": 8
     },
     {
       "title": "I'm Independently Verifying Go's Reproducible Builds",
       "href": "https://www.agwa.name/blog/post/verifying_go_reproducible_builds",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Use the XDG Base Directory Specification",
+      "href": "https://xdgbasedirectoryspecification.com/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 10
     },
     {
-      "title": "The Green Tea Garbage Collector - The Go Programming Language",
-      "href": "https://go.dev/blog/greenteagc",
+      "title": "Jujutsu at Google",
+      "href": "https://www.youtube.com/watch?v=v9Ob5yPpC0A&list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh&index=6",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 11
     },
     {
-      "title": "Jujutsu at Google",
-      "href": "https://www.youtube.com/watch?v=v9Ob5yPpC0A&list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh&index=6",
+      "title": "The Green Tea Garbage Collector - The Go Programming Language",
+      "href": "https://go.dev/blog/greenteagc",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 12
@@ -93,24 +93,24 @@
       "index": 13
     },
     {
+      "title": "Introducing fnox: A secret manager that pairs well with mise",
+      "href": "https://fnox.jdx.dev/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
       "title": "Dithering - Part 1",
       "href": "https://visualrambling.space/dithering-part-1/",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Zig's New Async I/O",
       "href": "https://www.youtube.com/watch?v=mdOxIc0HM04",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Introducing fnox: A secret manager that pairs well with mise",
-      "href": "https://fnox.jdx.dev/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 16
     },
     {
@@ -128,31 +128,31 @@
       "index": 18
     },
     {
+      "title": "What We Talk About When We Talk About Sideloading",
+      "href": "https://f-droid.org/2025/10/28/sideloading.html",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
+      "index": 19
+    },
+    {
       "title": "I built an actually faster Notion in Rust",
       "href": "https://imedadel.com/outcrop/",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "From VS Code to Helix",
       "href": "https://ergaster.org/posts/2025/10/29-vscode-to-helix/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "What We Talk About When We Talk About Sideloading",
-      "href": "https://f-droid.org/2025/10/28/sideloading.html",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
       "index": 21
     },
     {
       "title": "Developing a web server with C and FastCGI",
       "href": "https://jsloop.net/2025/10/27/developing-a-web-server-with-c-and-fastcgi",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 22
     },
     {
@@ -166,7 +166,7 @@
       "title": "Disasters I've seen in a microservices world, part II",
       "href": "https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 24
     },
     {
