@@ -1,214 +1,214 @@
 {
-  "date": "Friday, October 31, 2025 at 10:20 AM GMT-5",
+  "date": "Friday, October 31, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "Nix Derivation Madness",
       "href": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
-      "points": "23 points",
-      "comments": "1 comment",
+      "points": "73 points",
+      "comments": "9 comments",
       "index": 1
+    },
+    {
+      "title": "Ubuntu Introduces Architecture Variants",
+      "href": "https://lwn.net/Articles/1044383/",
+      "points": "26 points",
+      "comments": "7 comments",
+      "index": 2
     },
     {
       "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
       "href": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
-      "points": "189 points",
-      "comments": "54 comments",
-      "index": 2
+      "points": "274 points",
+      "comments": "108 comments",
+      "index": 3
     },
     {
       "title": "Sustainable memristors from shiitake mycelium for high-frequency bioelectronics",
       "href": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965",
-      "points": "19 points",
-      "comments": "7 comments",
-      "index": 3
-    },
-    {
-      "title": "AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process",
-      "href": "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/",
-      "points": "223 points",
-      "comments": "160 comments",
+      "points": "35 points",
+      "comments": "22 comments",
       "index": 4
-    },
-    {
-      "title": "OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise",
-      "href": "https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html",
-      "points": "183 points",
-      "comments": "148 comments",
-      "index": 5
-    },
-    {
-      "title": "Nim 2.2.6",
-      "href": "https://nim-lang.org//blog/2025/10/31/nim-226.html",
-      "points": "46 points",
-      "comments": "6 comments",
-      "index": 6
     },
     {
       "title": "Rotating Workforce Scheduling in MiniZinc",
       "href": "https://zayenz.se/blog/post/rotating-workforce-scheduling/",
-      "points": "9 points",
-      "comments": "discuss",
-      "index": 7
+      "points": "25 points",
+      "comments": "1 comment",
+      "index": 5
     },
     {
-      "title": "The cryptography behind electronic passports",
-      "href": "https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/",
-      "points": "33 points",
-      "comments": "11 comments",
-      "index": 8
-    },
-    {
-      "title": "Affinity Studio now free",
-      "href": "https://www.affinity.studio/get-affinity",
-      "points": "1124 points",
-      "comments": "728 comments",
-      "index": 9
-    },
-    {
-      "title": "John Carmack on mutable variables",
-      "href": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
-      "points": "287 points",
-      "comments": "346 comments",
-      "index": 10
+      "title": "AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process",
+      "href": "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/",
+      "points": "235 points",
+      "comments": "171 comments",
+      "index": 6
     },
     {
       "title": "Wheels for free-threaded Python now available for psutil",
       "href": "https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil",
-      "points": "19 points",
-      "comments": "discuss",
-      "index": 11
+      "points": "38 points",
+      "comments": "2 comments",
+      "index": 7
+    },
+    {
+      "title": "Nim 2.2.6",
+      "href": "https://nim-lang.org//blog/2025/10/31/nim-226.html",
+      "points": "82 points",
+      "comments": "22 comments",
+      "index": 8
+    },
+    {
+      "title": "John Carmack on mutable variables",
+      "href": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
+      "points": "317 points",
+      "comments": "396 comments",
+      "index": 9
+    },
+    {
+      "title": "Affinity Studio now free",
+      "href": "https://www.affinity.studio/get-affinity",
+      "points": "1139 points",
+      "comments": "736 comments",
+      "index": 10
     },
     {
       "title": "Immutable releases are now generally available on GitHub",
       "href": "https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/",
-      "points": "37 points",
-      "comments": "11 comments",
-      "index": 12
-    },
-    {
-      "title": "Git CLI tool for intelligently creating branch names",
-      "href": "https://github.com/ytreister/gibr",
-      "points": "12 points",
-      "comments": "6 comments",
-      "index": 13
-    },
-    {
-      "title": "Bertie the Brain",
-      "href": "https://en.wikipedia.org/wiki/Bertie_the_Brain",
-      "points": "57 points",
-      "comments": "9 comments",
-      "index": 14
+      "points": "72 points",
+      "comments": "37 comments",
+      "index": 11
     },
     {
       "title": "It's the \"Hardware\", Stupid",
       "href": "https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep",
-      "points": "3 points",
-      "comments": "1 comment",
+      "points": "11 points",
+      "comments": "12 comments",
+      "index": 12
+    },
+    {
+      "title": "Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop",
+      "href": "item?id=45771870",
+      "points": "54 points",
+      "comments": "29 comments",
+      "index": 13
+    },
+    {
+      "title": "Git CLI tool for intelligently creating branch names",
+      "href": "https://github.com/ytreister/gibr",
+      "points": "16 points",
+      "comments": "19 comments",
+      "index": 14
+    },
+    {
+      "title": "Bertie the Brain",
+      "href": "https://en.wikipedia.org/wiki/Bertie_the_Brain",
+      "points": "65 points",
+      "comments": "11 comments",
       "index": 15
+    },
+    {
+      "title": "OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise",
+      "href": "https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html",
+      "points": "249 points",
+      "comments": "237 comments",
+      "index": 16
     },
     {
       "title": "Phone numbers for use in TV shows, films and creative works",
       "href": "https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works",
-      "points": "243 points",
-      "comments": "121 comments",
-      "index": 16
+      "points": "250 points",
+      "comments": "129 comments",
+      "index": 17
     },
     {
       "title": "How the cochlea computes (2024)",
       "href": "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform",
-      "points": "453 points",
-      "comments": "138 comments",
-      "index": 17
+      "points": "456 points",
+      "comments": "140 comments",
+      "index": 18
     },
     {
-      "title": "Result is all I need",
-      "href": "https://rockyj-blogs.web.app/2025/10/25/result-monad.html",
-      "points": "86 points",
-      "comments": "58 comments",
-      "index": 18
+      "title": "Floppy Disk / Diskettes // retrocmp / retro computing",
+      "href": "https://retrocmp.de/fdd/diskette/diskette.htm",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 19
     },
     {
       "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
       "href": "https://github.com/MoonshotAI/Kimi-Linear",
-      "points": "183 points",
-      "comments": "33 comments",
-      "index": 19
-    },
-    {
-      "title": "Free software scares normal people",
-      "href": "https://danieldelaney.net/normal/",
-      "points": "809 points",
-      "comments": "525 comments",
+      "points": "188 points",
+      "comments": "35 comments",
       "index": 20
-    },
-    {
-      "title": "987654321 / 123456789",
-      "href": "https://www.johndcook.com/blog/2025/10/26/987654321/",
-      "points": "606 points",
-      "comments": "100 comments",
-      "index": 21
     },
     {
       "title": "A Closer Look at Piezoelectric Crystal",
       "href": "https://www.samaterials.com/content/a-closer-look-at-stressed-piezo-crystals.html",
-      "points": "38 points",
+      "points": "41 points",
       "comments": "12 comments",
+      "index": 21
+    },
+    {
+      "title": "Free software scares normal people",
+      "href": "https://danieldelaney.net/normal/",
+      "points": "831 points",
+      "comments": "539 comments",
       "index": 22
     },
     {
-      "title": "Affinity, targeting office workers over pros, making pro tools the loss leader",
-      "href": "https://tedium.co/2025/10/30/canva-affinity-free-loss-leader-strategy/",
-      "points": "52 points",
-      "comments": "36 comments",
+      "title": "Result is all I need",
+      "href": "https://rockyj-blogs.web.app/2025/10/25/result-monad.html",
+      "points": "94 points",
+      "comments": "64 comments",
       "index": 23
     },
     {
-      "title": "A classic graphic reveals nature's most efficient traveler",
-      "href": "https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/",
-      "points": "42 points",
-      "comments": "38 comments",
+      "title": "Debug like a boss: 10 debugging hacks for developers, quality engineers, testers",
+      "href": "https://www.ministryoftesting.com/articles/debug-like-a-boss-10-debugging-hacks-for-developers-quality-engineers-and-testers",
+      "points": "15 points",
+      "comments": "15 comments",
       "index": 24
     },
     {
       "title": "NPM flooded with malicious packages downloaded more than 86k times",
       "href": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
-      "points": "319 points",
-      "comments": "232 comments",
+      "points": "328 points",
+      "comments": "240 comments",
       "index": 25
-    },
-    {
-      "title": "Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop",
-      "href": "item?id=45771870",
-      "points": "13 points",
-      "comments": "1 comment",
-      "index": 26
     },
     {
       "title": "Springs and bounces in native CSS",
       "href": "https://www.joshwcomeau.com/animation/linear-timing-function/",
-      "points": "233 points",
-      "comments": "34 comments",
-      "index": 27
+      "points": "239 points",
+      "comments": "39 comments",
+      "index": 26
     },
     {
       "title": "Show HN: Quibbler – A critic for your coding agent that learns what you want",
       "href": "https://github.com/fulcrumresearch/quibbler",
-      "points": "85 points",
+      "points": "94 points",
       "comments": "22 comments",
-      "index": 28
+      "index": 27
     },
     {
-      "title": "Rouille – Rust Programming, in French",
-      "href": "https://github.com/bnjbvr/rouille",
-      "points": "186 points",
-      "comments": "122 comments",
-      "index": 29
+      "title": "A classic graphic reveals nature's most efficient traveler",
+      "href": "https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/",
+      "points": "45 points",
+      "comments": "39 comments",
+      "index": 28
     },
     {
       "title": "Florian Schneider Collection: Instruments and equipment up for auction",
       "href": "https://www.juliensauctions.com/en/articles/the-florian-schneider-collection-rare-instruments-and-iconic-equipment-from-kraftwerk",
-      "points": "56 points",
-      "comments": "13 comments",
+      "points": "59 points",
+      "comments": "15 comments",
+      "index": 29
+    },
+    {
+      "title": "Roadmap for Improving the Type Checker",
+      "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
+      "points": "82 points",
+      "comments": "41 comments",
       "index": 30
     }
   ]
