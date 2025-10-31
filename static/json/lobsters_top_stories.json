@@ -1,60 +1,60 @@
 {
-  "date": "Thursday, October 30, 2025 at 10:10 PM GMT-5",
+  "date": "Thursday, October 30, 2025 at 11:25 PM GMT-5",
   "articles": [
+    {
+      "title": "Fix your FODs",
+      "href": "https://garnix.io/blog/fix-your-fods",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 1
+    },
     {
       "title": "Normalize Identifying Corporate Devices in Your Software",
       "href": "https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/",
       "points": "",
-      "comments": "\n              48 comments\n            ",
-      "index": 1
-    },
-    {
-      "title": "Crunchyroll is destroying its subtitles for no good reason",
-      "href": "https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              49 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "Zig's New Async I/O (Text Version)",
-      "href": "https://andrewkelley.me/post/zig-new-async-io-text-version.html",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "The Math Mode Problem in Typst",
-      "href": "https://laurmaedje.github.io/posts/math-mode-problem/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 4
     },
     {
       "title": "GHC now runs in your browser",
       "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "Announcing Rust 1.91.0",
+      "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Crunchyroll is destroying its subtitles for no good reason",
+      "href": "https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
       "index": 5
+    },
+    {
+      "title": "Zig's New Async I/O (Text Version)",
+      "href": "https://andrewkelley.me/post/zig-new-async-io-text-version.html",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 6
     },
     {
       "title": "wastrel, a profligate implementation of webassembly",
       "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 6
-    },
-    {
-      "title": "Announcing Rust 1.91.0",
-      "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 7
     },
     {
-      "title": "Fix your FODs",
-      "href": "https://garnix.io/blog/fix-your-fods",
+      "title": "The Math Mode Problem in Typst",
+      "href": "https://laurmaedje.github.io/posts/math-mode-problem/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 8
     },
     {
@@ -68,7 +68,7 @@
       "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
       "href": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 10
     },
     {
@@ -82,98 +82,98 @@
       "title": "Language Models are Injective and Hence Invertible",
       "href": "https://arxiv.org/abs/2510.15511",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 12
-    },
-    {
-      "title": "Reliable Django Signals",
-      "href": "https://hakibenita.com/django-reliable-signals",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
-      "title": "Use the XDG Base Directory Specification",
-      "href": "https://xdgbasedirectoryspecification.com/",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 14
     },
     {
       "title": "LISP: Notes on its Past and Future (1980)",
       "href": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 15
+      "index": 13
     },
     {
-      "title": "Learn Multiplatform Z80 Assembly Programming... With Vampires",
-      "href": "https://www.chibiakumas.com/z80/",
+      "title": "Reliable Django Signals",
+      "href": "https://hakibenita.com/django-reliable-signals",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
+      "index": 14
+    },
+    {
+      "title": "Use the XDG Base Directory Specification",
+      "href": "https://xdgbasedirectoryspecification.com/",
+      "points": "",
+      "comments": "\n              21 comments\n            ",
+      "index": 15
     },
     {
       "title": "Corrosion - a distributed system for propagating SQLite state across a cluster of nodes",
       "href": "https://fly.io/blog/corrosion/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Learn Multiplatform Z80 Assembly Programming... With Vampires",
+      "href": "https://www.chibiakumas.com/z80/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 17
-    },
-    {
-      "title": "Kafka is Fast - I'll use Postgres",
-      "href": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "I'm Independently Verifying Go's Reproducible Builds",
-      "href": "https://www.agwa.name/blog/post/verifying_go_reproducible_builds",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Fevela.me – A RSS reader like client for the Nostr social network",
-      "href": "https://github.com/dtonon/fevela",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 20
     },
     {
       "title": "Conversions in Ruby are a mess",
       "href": "https://github.com/sampersand/blog/blob/master/conversions.md",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "Kafka is Fast - I'll use Postgres",
+      "href": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "I'm Independently Verifying Go's Reproducible Builds",
+      "href": "https://www.agwa.name/blog/post/verifying_go_reproducible_builds",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Fevela.me – A RSS reader like client for the Nostr social network",
+      "href": "https://github.com/dtonon/fevela",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 21
-    },
-    {
-      "title": "Jujutsu at Google",
-      "href": "https://www.youtube.com/watch?v=v9Ob5yPpC0A&list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh&index=6",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "Introducing fnox: A secret manager that pairs well with mise",
-      "href": "https://fnox.jdx.dev/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 23
-    },
-    {
-      "title": "The Vindication of Bubble Sort",
-      "href": "https://entropicthoughts.com/vindication-of-bubble-sort",
-      "points": "",
-      "comments": "\n              32 comments\n            ",
-      "index": 24
     },
     {
       "title": "Roadmap for improving the Swift type checker",
       "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Jujutsu at Google",
+      "href": "https://www.youtube.com/watch?v=v9Ob5yPpC0A&list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh&index=6",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 23
+    },
+    {
+      "title": "Introducing fnox: A secret manager that pairs well with mise",
+      "href": "https://fnox.jdx.dev/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 24
+    },
+    {
+      "title": "Hacking India’s largest automaker: Tata Motors",
+      "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
