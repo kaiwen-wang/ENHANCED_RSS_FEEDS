@@ -1,214 +1,214 @@
 {
-  "date": "Friday, October 31, 2025 at 2:15 PM GMT-5",
+  "date": "Friday, October 31, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Introducing architecture variants",
       "href": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
-      "points": "58 points",
-      "comments": "69 comments",
+      "points": "89 points",
+      "comments": "81 comments",
       "index": 1
     },
     {
-      "title": "x86 architecture 1 byte opcodes",
-      "href": "https://www.sandpile.org/x86/opc_1.htm",
-      "points": "30 points",
-      "comments": "7 comments",
+      "title": "Futurelock: A subtle risk in async Rust",
+      "href": "https://rfd.shared.oxide.computer/rfd/0609",
+      "points": "38 points",
+      "comments": "discuss",
       "index": 2
-    },
-    {
-      "title": "My Impressions of the MacBook Pro M4",
-      "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
-      "points": "31 points",
-      "comments": "24 comments",
-      "index": 3
     },
     {
       "title": "AI scrapers request commented scripts",
       "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
-      "points": "96 points",
-      "comments": "26 comments",
+      "points": "116 points",
+      "comments": "52 comments",
+      "index": 3
+    },
+    {
+      "title": "Use DuckDB-WASM to query TB of data in browser",
+      "href": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
+      "points": "45 points",
+      "comments": "12 comments",
       "index": 4
+    },
+    {
+      "title": "x86 architecture 1 byte opcodes",
+      "href": "https://www.sandpile.org/x86/opc_1.htm",
+      "points": "42 points",
+      "comments": "13 comments",
+      "index": 5
+    },
+    {
+      "title": "Hacking India's largest automaker: Tata Motors",
+      "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
+      "points": "25 points",
+      "comments": "6 comments",
+      "index": 6
+    },
+    {
+      "title": "How to build silos and decrease collaboration on purpose",
+      "href": "https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/",
+      "points": "57 points",
+      "comments": "18 comments",
+      "index": 7
     },
     {
       "title": "Nix Derivation Madness",
       "href": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
-      "points": "118 points",
-      "comments": "34 comments",
-      "index": 5
+      "points": "125 points",
+      "comments": "37 comments",
+      "index": 8
     },
     {
       "title": "Perfetto: Swiss army knife for Linux client tracing",
       "href": "https://lalitm.com/perfetto-swiss-army-knife/",
-      "points": "17 points",
-      "comments": "discuss",
-      "index": 6
-    },
-    {
-      "title": "Another European agency shifts off US Tech as digital sovereignty gains steam",
-      "href": "https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/",
-      "points": "140 points",
-      "comments": "68 comments",
-      "index": 7
-    },
-    {
-      "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
-      "href": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
-      "points": "409 points",
-      "comments": "179 comments",
-      "index": 8
+      "points": "25 points",
+      "comments": "3 comments",
+      "index": 9
     },
     {
       "title": "Lording it, over: A new history of the modern British aristocracy",
       "href": "https://newcriterion.com/article/lording-it-over/",
-      "points": "13 points",
-      "comments": "10 comments",
-      "index": 9
+      "points": "21 points",
+      "comments": "30 comments",
+      "index": 10
+    },
+    {
+      "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
+      "href": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
+      "points": "428 points",
+      "comments": "196 comments",
+      "index": 11
+    },
+    {
+      "title": "Sustainable memristors from shiitake mycelium for high-frequency bioelectronics",
+      "href": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965",
+      "points": "78 points",
+      "comments": "44 comments",
+      "index": 12
     },
     {
       "title": "Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)",
       "href": "https://docs.pangolin.net/careers/software-engineer-full-stack",
       "points": "",
       "comments": "hide",
-      "index": 10
-    },
-    {
-      "title": "Sustainable memristors from shiitake mycelium for high-frequency bioelectronics",
-      "href": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965",
-      "points": "70 points",
-      "comments": "42 comments",
-      "index": 11
+      "index": 13
     },
     {
       "title": "Just Use a Button",
       "href": "https://gomakethings.com/just-use-a-button/",
-      "points": "82 points",
-      "comments": "42 comments",
-      "index": 12
-    },
-    {
-      "title": "Addiction Markets: Abolish Corporate-Run Gambling",
-      "href": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
-      "points": "38 points",
-      "comments": "10 comments",
-      "index": 13
-    },
-    {
-      "title": "It's the \"hardware\", stupid",
-      "href": "https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep",
-      "points": "38 points",
-      "comments": "72 comments",
+      "points": "135 points",
+      "comments": "85 comments",
       "index": 14
     },
     {
-      "title": "Use DuckDB-WASM to query TB of data in browser",
-      "href": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
-      "points": "12 points",
-      "comments": "1 comment",
+      "title": "Addiction Markets",
+      "href": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
+      "points": "70 points",
+      "comments": "39 comments",
       "index": 15
     },
     {
-      "title": "AMD could enter ARM market with Sound Wave APU built on TSMC 3nm process",
-      "href": "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/",
-      "points": "261 points",
-      "comments": "206 comments",
+      "title": "If a pilot ejects, what is the autopilot programmed to do? (2018)",
+      "href": "https://aviation.stackexchange.com/questions/52862/if-a-pilot-ejects-what-is-the-autopilot-programmed-to-do",
+      "points": "49 points",
+      "comments": "47 comments",
       "index": 16
+    },
+    {
+      "title": "Apple reports fourth quarter results",
+      "href": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
+      "points": "75 points",
+      "comments": "92 comments",
+      "index": 17
     },
     {
       "title": "John Carmack on mutable variables",
       "href": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
-      "points": "401 points",
-      "comments": "475 comments",
-      "index": 17
-    },
-    {
-      "title": "Floppy Disk / Diskettes // retrocmp / retro computing",
-      "href": "https://retrocmp.de/fdd/diskette/diskette.htm",
-      "points": "25 points",
-      "comments": "7 comments",
+      "points": "422 points",
+      "comments": "499 comments",
       "index": 18
     },
     {
       "title": "The cryptography behind electronic passports",
       "href": "https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/",
-      "points": "71 points",
-      "comments": "63 comments",
+      "points": "85 points",
+      "comments": "67 comments",
       "index": 19
     },
     {
-      "title": "Fire TV: Amazon to block piracy apps in the future",
-      "href": "https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html",
-      "points": "60 points",
-      "comments": "40 comments",
+      "title": "AMD could enter ARM market with Sound Wave APU built on TSMC 3nm process",
+      "href": "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/",
+      "points": "264 points",
+      "comments": "210 comments",
       "index": 20
+    },
+    {
+      "title": "It's the \"hardware\", stupid",
+      "href": "https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep",
+      "points": "41 points",
+      "comments": "93 comments",
+      "index": 21
+    },
+    {
+      "title": "The 1924 New Mexico regional banking panic",
+      "href": "https://nodumbideas.com/p/labor-day-special-the-1924-new-mexico",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 22
+    },
+    {
+      "title": "Floppy Disk / Diskettes // retrocmp / retro computing",
+      "href": "https://retrocmp.de/fdd/diskette/diskette.htm",
+      "points": "31 points",
+      "comments": "9 comments",
+      "index": 23
     },
     {
       "title": "Ask HN: Who uses open LLMs and coding assistants locally? Share setup and laptop",
       "href": "item?id=45771870",
-      "points": "130 points",
-      "comments": "94 comments",
-      "index": 21
+      "points": "164 points",
+      "comments": "108 comments",
+      "index": 24
     },
     {
       "title": "Claude outage",
       "href": "https://status.claude.com/incidents/s5f75jhwjs6g",
-      "points": "99 points",
-      "comments": "170 comments",
-      "index": 22
+      "points": "111 points",
+      "comments": "171 comments",
+      "index": 25
     },
     {
-      "title": "Wheels for free-threaded Python now available for psutil",
-      "href": "https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil",
-      "points": "55 points",
-      "comments": "2 comments",
-      "index": 23
+      "title": "History's first public hack: rats, rats, rats",
+      "href": "https://www.rigb.org/explore-science/explore/blog/historys-first-public-hack-rats-rats-rats",
+      "points": "8 points",
+      "comments": "discuss",
+      "index": 26
     },
     {
       "title": "Rotating Workforce Scheduling in MiniZinc",
       "href": "https://zayenz.se/blog/post/rotating-workforce-scheduling/",
-      "points": "42 points",
-      "comments": "5 comments",
-      "index": 24
+      "points": "45 points",
+      "comments": "6 comments",
+      "index": 27
+    },
+    {
+      "title": "Wheels for free-threaded Python now available for psutil",
+      "href": "https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil",
+      "points": "57 points",
+      "comments": "3 comments",
+      "index": 28
     },
     {
       "title": "In orbit you have to slow down to speed up",
       "href": "https://www.wired.com/story/in-orbit-you-have-to-slow-down-to-speed-up/",
-      "points": "54 points",
-      "comments": "68 comments",
-      "index": 25
-    },
-    {
-      "title": "Immutable releases are now generally available on GitHub",
-      "href": "https://github.blog/changelog/2025-10-28-immutable-releases-are-now-generally-available/",
-      "points": "118 points",
-      "comments": "52 comments",
-      "index": 26
-    },
-    {
-      "title": "Nim 2.2.6",
-      "href": "https://nim-lang.org//blog/2025/10/31/nim-226.html",
-      "points": "124 points",
-      "comments": "43 comments",
-      "index": 27
-    },
-    {
-      "title": "Reasoning models reason well, until they don't",
-      "href": "https://arxiv.org/abs/2510.22371",
-      "points": "188 points",
-      "comments": "170 comments",
-      "index": 28
-    },
-    {
-      "title": "Bertie the Brain",
-      "href": "https://en.wikipedia.org/wiki/Bertie_the_Brain",
-      "points": "79 points",
-      "comments": "21 comments",
+      "points": "59 points",
+      "comments": "77 comments",
       "index": 29
     },
     {
-      "title": "Result is all I need",
-      "href": "https://rockyj-blogs.web.app/2025/10/25/result-monad.html",
-      "points": "99 points",
-      "comments": "71 comments",
+      "title": "My Impressions of the MacBook Pro M4",
+      "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
+      "points": "61 points",
+      "comments": "79 comments",
       "index": 30
     }
   ]
