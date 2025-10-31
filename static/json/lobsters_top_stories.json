@@ -1,116 +1,116 @@
 {
-  "date": "Thursday, October 30, 2025 at 6:15 PM GMT-5",
+  "date": "Thursday, October 30, 2025 at 8:35 PM GMT-5",
   "articles": [
     {
       "title": "Normalize Identifying Corporate Devices in Your Software",
       "href": "https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/",
       "points": "",
-      "comments": "\n              40 comments\n            ",
+      "comments": "\n              45 comments\n            ",
       "index": 1
     },
     {
       "title": "Crunchyroll is destroying its subtitles for no good reason",
       "href": "https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 2
     },
     {
       "title": "Zig's New Async I/O (Text Version)",
       "href": "https://andrewkelley.me/post/zig-new-async-io-text-version.html",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 3
     },
     {
       "title": "The Math Mode Problem in Typst",
       "href": "https://laurmaedje.github.io/posts/math-mode-problem/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 4
-    },
-    {
-      "title": "uv is the best thing to happen to the Python ecosystem in a decade",
-      "href": "https://emily.space/posts/251023-uv",
-      "points": "",
-      "comments": "\n              47 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "Nix derivation madness",
-      "href": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 6
-    },
-    {
-      "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
-      "href": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Reliable Django Signals",
-      "href": "https://hakibenita.com/django-reliable-signals",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 8
     },
     {
       "title": "Fix your FODs",
       "href": "https://garnix.io/blog/fix-your-fods",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "uv is the best thing to happen to the Python ecosystem in a decade",
+      "href": "https://emily.space/posts/251023-uv",
+      "points": "",
+      "comments": "\n              48 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Announcing Rust 1.91.0",
+      "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "GHC now runs in your browser",
+      "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
+      "href": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 9
+    },
+    {
+      "title": "Nix derivation madness",
+      "href": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 10
+    },
+    {
+      "title": "Reliable Django Signals",
+      "href": "https://hakibenita.com/django-reliable-signals",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 11
     },
     {
       "title": "Use the XDG Base Directory Specification",
       "href": "https://xdgbasedirectoryspecification.com/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 10
+      "index": 12
     },
     {
-      "title": "Announcing Rust 1.91.0",
-      "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/",
+      "title": "wastrel, a profligate implementation of webassembly",
+      "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 11
+      "index": 13
     },
     {
-      "title": "GHC now runs in your browser",
-      "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "title": "Language Models are Injective and Hence Invertible",
+      "href": "https://arxiv.org/abs/2510.15511",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 12
+      "comments": "\n              2 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Learn Multiplatform Z80 Assembly Programming... With Vampires",
+      "href": "https://www.chibiakumas.com/z80/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
     },
     {
       "title": "Kafka is Fast - I'll use Postgres",
       "href": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
       "points": "",
       "comments": "\n              19 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "I'm Independently Verifying Go's Reproducible Builds",
-      "href": "https://www.agwa.name/blog/post/verifying_go_reproducible_builds",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Fevela.me – A RSS reader like client for the Nostr social network",
-      "href": "https://github.com/dtonon/fevela",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Jujutsu at Google",
-      "href": "https://www.youtube.com/watch?v=v9Ob5yPpC0A&list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh&index=6",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 16
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "I'm Independently Verifying Go's Reproducible Builds",
+      "href": "https://www.agwa.name/blog/post/verifying_go_reproducible_builds",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "LISP: Notes on its Past and Future (1980)",
+      "href": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Fevela.me – A RSS reader like client for the Nostr social network",
+      "href": "https://github.com/dtonon/fevela",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Jujutsu at Google",
+      "href": "https://www.youtube.com/watch?v=v9Ob5yPpC0A&list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh&index=6",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
+    },
+    {
       "title": "Introducing fnox: A secret manager that pairs well with mise",
       "href": "https://fnox.jdx.dev/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
+      "index": 22
+    },
+    {
+      "title": "Roadmap for improving the Swift type checker",
+      "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "The Vindication of Bubble Sort",
       "href": "https://entropicthoughts.com/vindication-of-bubble-sort",
       "points": "",
       "comments": "\n              32 comments\n            ",
-      "index": 19
+      "index": 24
     },
     {
       "title": "Conversions in Ruby are a mess",
       "href": "https://github.com/sampersand/blog/blob/master/conversions.md",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Language Models are Injective and Hence Invertible",
-      "href": "https://arxiv.org/abs/2510.15511",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "The Green Tea Garbage Collector - The Go Programming Language",
-      "href": "https://go.dev/blog/greenteagc",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Learn Multiplatform Z80 Assembly Programming... With Vampires",
-      "href": "https://www.chibiakumas.com/z80/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "word2vec-style vector arithmetic on docs embeddings",
-      "href": "https://technicalwriting.dev/embeddings/arithmetic/index.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Dithering - Part 1",
-      "href": "https://visualrambling.space/dithering-part-1/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
       "index": 25
     }
   ]
