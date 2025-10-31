@@ -1,18 +1,18 @@
 {
-  "date": "Friday, October 31, 2025 at 5:20 PM GMT-5",
+  "date": "Friday, October 31, 2025 at 6:15 PM GMT-5",
   "articles": [
     {
       "title": "My impressions of the MacBook Pro M4",
       "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
       "points": "",
-      "comments": "\n              45 comments\n            ",
+      "comments": "\n              48 comments\n            ",
       "index": 1
     },
     {
       "title": "Just use a button",
       "href": "https://gomakethings.com/just-use-a-button/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 2
     },
     {
@@ -26,21 +26,21 @@
       "title": "Project goals for 2025H2",
       "href": "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 4
-    },
-    {
-      "title": "GHC now runs in your browser",
-      "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 5
     },
     {
       "title": "Ghosts in the Compilation",
       "href": "https://predr.ag/blog/ghosts-in-the-compilation/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "GHC now runs in your browser",
+      "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 6
     },
     {
@@ -51,10 +51,10 @@
       "index": 7
     },
     {
-      "title": "wastrel, a profligate implementation of webassembly",
-      "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly",
+      "title": "Futurelock",
+      "href": "https://rfd.shared.oxide.computer/rfd/0609",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 8
     },
     {
@@ -65,43 +65,43 @@
       "index": 9
     },
     {
+      "title": "wastrel, a profligate implementation of webassembly",
+      "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "AI scrapers request commented scripts",
+      "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
       "title": "Challenging the Fastest OSS Workflow Engine",
       "href": "https://obeli.sk/blog/challenging-fastest-workflow-engine/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 10
+      "comments": "\n              4 comments\n            ",
+      "index": 12
     },
     {
       "title": "Announcing Rust 1.91.0",
       "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Futurelock",
-      "href": "https://rfd.shared.oxide.computer/rfd/0609",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/sknsrg/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 13
+      "comments": "\n              5 comments\n            ",
+      "index": 14
     },
     {
       "title": "Ubuntu introduces architecture variants",
       "href": "https://lwn.net/Articles/1044383/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "AI scrapers request commented scripts",
-      "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 15
@@ -114,10 +114,10 @@
       "index": 16
     },
     {
-      "title": "Hacking India’s largest automaker: Tata Motors",
-      "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
+      "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
+      "href": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
@@ -128,24 +128,24 @@
       "index": 18
     },
     {
+      "title": "Hacking India’s largest automaker: Tata Motors",
+      "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 19
+    },
+    {
       "title": "A heatmap diff viewer for code reviews",
       "href": "https://0github.com/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Advanced Documentation Retrieval on FreeBSD",
       "href": "https://adventurist.me/posts/00306",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
-      "href": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "LISP: Notes on its Past and Future (1980)",
-      "href": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 24
-    },
-    {
       "title": "The Math Mode Problem in Typst",
       "href": "https://laurmaedje.github.io/posts/math-mode-problem/",
       "points": "",
       "comments": "\n              5 comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "LISP: Notes on its Past and Future (1980)",
+      "href": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 25
     }
   ]
