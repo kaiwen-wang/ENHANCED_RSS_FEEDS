@@ -1,11 +1,11 @@
 {
-  "date": "Friday, October 31, 2025 at 3:25 AM GMT-5",
+  "date": "Friday, October 31, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "GHC now runs in your browser",
       "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 1
     },
     {
@@ -16,45 +16,45 @@
       "index": 2
     },
     {
+      "title": "Roadmap for improving the Swift type checker",
+      "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 3
+    },
+    {
       "title": "Announcing Rust 1.91.0",
       "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Fix your FODs",
       "href": "https://garnix.io/blog/fix-your-fods",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 4
+      "comments": "\n              3 comments\n            ",
+      "index": 5
     },
     {
       "title": "Normalize Identifying Corporate Devices in Your Software",
       "href": "https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/",
       "points": "",
       "comments": "\n              51 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Crunchyroll is destroying its subtitles for no good reason",
       "href": "https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 6
+      "index": 7
     },
     {
       "title": "The Math Mode Problem in Typst",
       "href": "https://laurmaedje.github.io/posts/math-mode-problem/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Roadmap for improving the Swift type checker",
-      "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 8
     },
     {
@@ -79,10 +79,10 @@
       "index": 11
     },
     {
-      "title": "uv is the best thing to happen to the Python ecosystem in a decade",
-      "href": "https://emily.space/posts/251023-uv",
+      "title": "GHC 9.14.1-rc1 is now available",
+      "href": "https://discourse.haskell.org/t/ghc-9-14-1-rc1-is-now-available/13194",
       "points": "",
-      "comments": "\n              51 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 12
     },
     {
@@ -93,10 +93,10 @@
       "index": 13
     },
     {
-      "title": "Nix derivation madness",
-      "href": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
+      "title": "uv is the best thing to happen to the Python ecosystem in a decade",
+      "href": "https://emily.space/posts/251023-uv",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              51 comments\n            ",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "Challenging the Fastest OSS Workflow Engine",
+      "href": "https://obeli.sk/blog/challenging-fastest-workflow-engine/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Hacking India’s largest automaker: Tata Motors",
+      "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Nix derivation madness",
+      "href": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
       "title": "Reliable Django Signals",
       "href": "https://hakibenita.com/django-reliable-signals",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
+      "index": 19
     },
     {
       "title": "Use the XDG Base Directory Specification",
       "href": "https://xdgbasedirectoryspecification.com/",
       "points": "",
       "comments": "\n              23 comments\n            ",
-      "index": 17
+      "index": 20
     },
     {
       "title": "Learn Multiplatform Z80 Assembly Programming... With Vampires",
       "href": "https://www.chibiakumas.com/z80/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
-    },
-    {
-      "title": "Hacking India’s largest automaker: Tata Motors",
-      "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Conversions in Ruby are a mess",
       "href": "https://github.com/sampersand/blog/blob/master/conversions.md",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 22
     },
     {
       "title": "I'm Independently Verifying Go's Reproducible Builds",
       "href": "https://www.agwa.name/blog/post/verifying_go_reproducible_builds",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Fevela.me – A RSS reader like client for the Nostr social network",
       "href": "https://github.com/dtonon/fevela",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Kafka is Fast - I'll use Postgres",
       "href": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Jujutsu at Google",
-      "href": "https://www.youtube.com/watch?v=v9Ob5yPpC0A&list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh&index=6",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Introducing fnox: A secret manager that pairs well with mise",
-      "href": "https://fnox.jdx.dev/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
