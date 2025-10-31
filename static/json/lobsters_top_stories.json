@@ -1,5 +1,5 @@
 {
-  "date": "Friday, October 31, 2025 at 1:30 AM GMT-5",
+  "date": "Friday, October 31, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "GHC now runs in your browser",
@@ -9,38 +9,38 @@
       "index": 1
     },
     {
+      "title": "wastrel, a profligate implementation of webassembly",
+      "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 2
+    },
+    {
       "title": "Fix your FODs",
       "href": "https://garnix.io/blog/fix-your-fods",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 2
+      "index": 3
     },
     {
       "title": "Normalize Identifying Corporate Devices in Your Software",
       "href": "https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/",
       "points": "",
-      "comments": "\n              49 comments\n            ",
-      "index": 3
+      "comments": "\n              50 comments\n            ",
+      "index": 4
     },
     {
       "title": "Announcing Rust 1.91.0",
       "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Crunchyroll is destroying its subtitles for no good reason",
       "href": "https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "wastrel, a profligate implementation of webassembly",
-      "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 6
     },
     {
@@ -65,38 +65,38 @@
       "index": 9
     },
     {
-      "title": "uv is the best thing to happen to the Python ecosystem in a decade",
-      "href": "https://emily.space/posts/251023-uv",
-      "points": "",
-      "comments": "\n              50 comments\n            ",
-      "index": 10
-    },
-    {
       "title": "Roadmap for improving the Swift type checker",
       "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 11
-    },
-    {
-      "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
-      "href": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Nix derivation madness",
-      "href": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 13
+      "index": 10
     },
     {
       "title": "Language Models are Injective and Hence Invertible",
       "href": "https://arxiv.org/abs/2510.15511",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "uv is the best thing to happen to the Python ecosystem in a decade",
+      "href": "https://emily.space/posts/251023-uv",
+      "points": "",
+      "comments": "\n              50 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
+      "href": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Nix derivation madness",
+      "href": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 14
     },
     {
@@ -117,28 +117,28 @@
       "title": "Use the XDG Base Directory Specification",
       "href": "https://xdgbasedirectoryspecification.com/",
       "points": "",
-      "comments": "\n              21 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 17
-    },
-    {
-      "title": "Conversions in Ruby are a mess",
-      "href": "https://github.com/sampersand/blog/blob/master/conversions.md",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 18
     },
     {
       "title": "Learn Multiplatform Z80 Assembly Programming... With Vampires",
       "href": "https://www.chibiakumas.com/z80/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "Hacking India’s largest automaker: Tata Motors",
+      "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 19
     },
     {
-      "title": "Kafka is Fast - I'll use Postgres",
-      "href": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
+      "title": "Conversions in Ruby are a mess",
+      "href": "https://github.com/sampersand/blog/blob/master/conversions.md",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 20
     },
     {
@@ -149,17 +149,17 @@
       "index": 21
     },
     {
-      "title": "Hacking India’s largest automaker: Tata Motors",
-      "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
       "title": "Fevela.me – A RSS reader like client for the Nostr social network",
       "href": "https://github.com/dtonon/fevela",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Kafka is Fast - I'll use Postgres",
+      "href": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
+      "points": "",
+      "comments": "\n              20 comments\n            ",
       "index": 23
     },
     {
