@@ -1,32 +1,32 @@
 {
-  "date": "Friday, October 31, 2025 at 4:20 AM GMT-5",
+  "date": "Friday, October 31, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
       "title": "GHC now runs in your browser",
       "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "Roadmap for improving the Swift type checker",
+      "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 2
     },
     {
       "title": "wastrel, a profligate implementation of webassembly",
       "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 2
-    },
-    {
-      "title": "Roadmap for improving the Swift type checker",
-      "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 3
     },
     {
       "title": "Announcing Rust 1.91.0",
       "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 4
     },
     {
@@ -65,59 +65,59 @@
       "index": 9
     },
     {
+      "title": "GHC 9.14.1-rc1 is now available",
+      "href": "https://discourse.haskell.org/t/ghc-9-14-1-rc1-is-now-available/13194",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Hacking India’s largest automaker: Tata Motors",
+      "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 11
+    },
+    {
       "title": "LISP: Notes on its Past and Future (1980)",
       "href": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 10
+      "comments": "\n              4 comments\n            ",
+      "index": 12
     },
     {
       "title": "Language Models are Injective and Hence Invertible",
       "href": "https://arxiv.org/abs/2510.15511",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "GHC 9.14.1-rc1 is now available",
-      "href": "https://discourse.haskell.org/t/ghc-9-14-1-rc1-is-now-available/13194",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
-      "href": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
       "index": 13
-    },
-    {
-      "title": "uv is the best thing to happen to the Python ecosystem in a decade",
-      "href": "https://emily.space/posts/251023-uv",
-      "points": "",
-      "comments": "\n              51 comments\n            ",
-      "index": 14
     },
     {
       "title": "Corrosion - a distributed system for propagating SQLite state across a cluster of nodes",
       "href": "https://fly.io/blog/corrosion/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "My impressions of the MacBook Pro M4",
+      "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 15
     },
     {
-      "title": "Challenging the Fastest OSS Workflow Engine",
-      "href": "https://obeli.sk/blog/challenging-fastest-workflow-engine/",
+      "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
+      "href": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 16
     },
     {
-      "title": "Hacking India’s largest automaker: Tata Motors",
-      "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
+      "title": "uv is the best thing to happen to the Python ecosystem in a decade",
+      "href": "https://emily.space/posts/251023-uv",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              51 comments\n            ",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "Challenging the Fastest OSS Workflow Engine",
+      "href": "https://obeli.sk/blog/challenging-fastest-workflow-engine/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
       "title": "Reliable Django Signals",
       "href": "https://hakibenita.com/django-reliable-signals",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Use the XDG Base Directory Specification",
       "href": "https://xdgbasedirectoryspecification.com/",
       "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 20
+      "comments": "\n              25 comments\n            ",
+      "index": 21
     },
     {
       "title": "Learn Multiplatform Z80 Assembly Programming... With Vampires",
       "href": "https://www.chibiakumas.com/z80/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "Conversions in Ruby are a mess",
-      "href": "https://github.com/sampersand/blog/blob/master/conversions.md",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 22
-    },
-    {
-      "title": "I'm Independently Verifying Go's Reproducible Builds",
-      "href": "https://www.agwa.name/blog/post/verifying_go_reproducible_builds",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 23
     },
     {
       "title": "Fevela.me – A RSS reader like client for the Nostr social network",
       "href": "https://github.com/dtonon/fevela",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Conversions in Ruby are a mess",
+      "href": "https://github.com/sampersand/blog/blob/master/conversions.md",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 24
     },
     {
-      "title": "Kafka is Fast - I'll use Postgres",
-      "href": "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks",
+      "title": "I'm Independently Verifying Go's Reproducible Builds",
+      "href": "https://www.agwa.name/blog/post/verifying_go_reproducible_builds",
       "points": "",
-      "comments": "\n              21 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 25
     }
   ]
