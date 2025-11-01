@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, November 1, 2025 at 2:15 PM GMT-5",
+  "date": "Saturday, November 1, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Hard Rust requirements from May onward",
       "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 1
     },
     {
@@ -19,28 +19,28 @@
       "title": "Your URL Is Your State",
       "href": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 3
     },
     {
       "title": "Just use a button",
       "href": "https://gomakethings.com/just-use-a-button/",
       "points": "",
-      "comments": "\n              27 comments\n            ",
+      "comments": "\n              29 comments\n            ",
       "index": 4
+    },
+    {
+      "title": "Intent to Deprecate and Remove: Deprecate and remove XSLT",
+      "href": "https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 5
     },
     {
       "title": "A deep dive into deeply recursive Go",
       "href": "https://mattermost.com/blog/a-deep-dive-into-deeply-recursive-go/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "Intent to Deprecate and Remove: Deprecate and remove XSLT",
-      "href": "https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 6
     },
     {
@@ -51,129 +51,129 @@
       "index": 7
     },
     {
-      "title": "My impressions of the MacBook Pro M4",
-      "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
-      "points": "",
-      "comments": "\n              57 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "Open-Source Ada: From Gateware to Application",
-      "href": "https://blog.adacore.com/open-source-ada-from-gateware-to-application",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Project goals for 2025H2",
-      "href": "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "AI scrapers request commented scripts",
-      "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 11
-    },
-    {
       "title": "Claude Code Can Debug Low-level Cryptography",
       "href": "https://words.filippo.io/claude-debugging/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 8
+    },
+    {
+      "title": "My impressions of the MacBook Pro M4",
+      "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
+      "points": "",
+      "comments": "\n              57 comments\n            ",
+      "index": 9
     },
     {
       "title": "Text rendering and effects using GPU-computed distances",
       "href": "https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Port of Linux to WebAssembly",
+      "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Open-Source Ada: From Gateware to Application",
+      "href": "https://blog.adacore.com/open-source-ada-from-gateware-to-application",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "AI scrapers request commented scripts",
+      "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 13
+    },
+    {
+      "title": "Project goals for 2025H2",
+      "href": "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 14
     },
     {
       "title": "Computer Says No: Error Reporting for LTL",
       "href": "https://wickstrom.tech/2025-11-01-error-reporting-linear-temporal-logic.html",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "How We Found 7 TiB of Memory Just Sitting Around",
       "href": "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Perfetto: Swiss Army Knife for Linux Client Tracing",
       "href": "https://lalitm.com/perfetto-swiss-army-knife/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Ubuntu introduces architecture variants",
       "href": "https://lwn.net/Articles/1044383/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 17
+      "comments": "\n              4 comments\n            ",
+      "index": 18
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/sknsrg/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              16 comments\n            ",
-      "index": 18
+      "comments": "\n              17 comments\n            ",
+      "index": 19
     },
     {
       "title": "Ghosts in the Compilation",
       "href": "https://predr.ag/blog/ghosts-in-the-compilation/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Rethinking Data Discovery for Libraries and Digital Humanities",
       "href": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Rotating Workforce Scheduling in MiniZinc",
       "href": "https://zayenz.se/blog/post/rotating-workforce-scheduling/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Challenging the Fastest OSS Workflow Engine",
       "href": "https://obeli.sk/blog/challenging-fastest-workflow-engine/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 22
+      "comments": "\n              12 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "A heatmap diff viewer for code reviews",
+      "href": "https://0github.com/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 24
     },
     {
       "title": "Roadmap for improving the Swift type checker",
       "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
       "points": "",
       "comments": "\n              34 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "GHC now runs in your browser",
-      "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "wastrel, a profligate implementation of webassembly",
-      "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 25
     }
   ]
