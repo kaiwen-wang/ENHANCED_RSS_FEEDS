@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, November 1, 2025 at 12:15 PM GMT-5",
+  "date": "Saturday, November 1, 2025 at 1:25 PM GMT-5",
   "articles": [
     {
-      "title": "arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs",
+      "title": "Updated practice for review articles and position papers in ArXiv CS category",
       "href": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
-      "points": "268 points",
-      "comments": "114 comments",
+      "points": "306 points",
+      "comments": "133 comments",
       "index": 1
+    },
+    {
+      "title": "Chat Control proposal fails again after public opposition",
+      "href": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
+      "points": "111 points",
+      "comments": "38 comments",
+      "index": 2
     },
     {
       "title": "GHC now runs in the browser",
       "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
-      "points": "25 points",
-      "comments": "2 comments",
-      "index": 2
+      "points": "88 points",
+      "comments": "16 comments",
+      "index": 3
+    },
+    {
+      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
+      "href": "https://github.com/samrolken/nokode",
+      "points": "32 points",
+      "comments": "17 comments",
+      "index": 4
     },
     {
       "title": "SQLite concurrency and why you should care about it",
       "href": "https://jellyfin.org/posts/SQLite-locking/",
-      "points": "141 points",
-      "comments": "61 comments",
-      "index": 3
+      "points": "164 points",
+      "comments": "72 comments",
+      "index": 5
     },
     {
-      "title": "Abandonware of the web: do you know that there is an HTML tables API?",
-      "href": "https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/",
-      "points": "190 points",
-      "comments": "144 comments",
-      "index": 4
+      "title": "How I Learned to Stop Worrying and Love My Shitty Life",
+      "href": "https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/",
+      "points": "22 points",
+      "comments": "3 comments",
+      "index": 6
+    },
+    {
+      "title": "OpenAI Moves to Complete Potentially the Largest Theft in Human History",
+      "href": "https://thezvi.substack.com/p/openai-moves-to-complete-potentially",
+      "points": "86 points",
+      "comments": "10 comments",
+      "index": 7
     },
     {
       "title": "CharlotteOS – An Experimental Modern Operating System",
       "href": "https://github.com/charlotte-os/Catten",
-      "points": "77 points",
-      "comments": "32 comments",
-      "index": 5
-    },
-    {
-      "title": "Show HN: Strange Attractors",
-      "href": "https://blog.shashanktomar.com/posts/strange-attractors",
-      "points": "676 points",
-      "comments": "69 comments",
-      "index": 6
-    },
-    {
-      "title": "Frank Gasking on preserving «lost» games",
-      "href": "https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/",
-      "points": "41 points",
-      "comments": "8 comments",
-      "index": 7
-    },
-    {
-      "title": "I think Substrate is a $1B Fraud",
-      "href": "https://substack.com/home/post/p-177604037",
-      "points": "70 points",
-      "comments": "14 comments",
+      "points": "93 points",
+      "comments": "38 comments",
       "index": 8
     },
     {
-      "title": "Hard Rust requirements from May onward",
-      "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
-      "points": "189 points",
-      "comments": "300 comments",
+      "title": "Studies increasingly find links between air pollutants and dementia",
+      "href": "https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html",
+      "points": "49 points",
+      "comments": "17 comments",
       "index": 9
     },
     {
-      "title": "What the Air You Breathe May Be Doing to Your Brain",
-      "href": "https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html",
-      "points": "9 points",
+      "title": "Visible from space, Sudan's bloodied sands expose a massacre of thousands",
+      "href": "https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/",
+      "points": "27 points",
       "comments": "1 comment",
       "index": 10
     },
     {
-      "title": "How I stopped worrying and started loving the Assembly",
-      "href": "https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60",
-      "points": "144 points",
-      "comments": "27 comments",
+      "title": "Show HN: Strange Attractors",
+      "href": "https://blog.shashanktomar.com/posts/strange-attractors",
+      "points": "697 points",
+      "comments": "71 comments",
       "index": 11
     },
     {
-      "title": "Screenwriter Eric Heisserer on Lights Out, the Rules of Horror",
-      "href": "https://filmmakermagazine.com/99327-screenwriter-eric-heisserer-lights-out-the-rules-of-horror-and-collaborating-with-james-wan/",
-      "points": "8 points",
-      "comments": "1 comment",
+      "title": "Frank Gasking on preserving «lost» games",
+      "href": "https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/",
+      "points": "53 points",
+      "comments": "9 comments",
       "index": 12
+    },
+    {
+      "title": "Hard Rust requirements from May onward",
+      "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
+      "points": "222 points",
+      "comments": "359 comments",
+      "index": 13
+    },
+    {
+      "title": "Ask HN: Where to Begin with \"Modern\" Emacs?",
+      "href": "item?id=45783376",
+      "points": "25 points",
+      "comments": "20 comments",
+      "index": 14
+    },
+    {
+      "title": "Open-Source Ada: From Gateware to Application",
+      "href": "https://blog.adacore.com/open-source-ada-from-gateware-to-application",
+      "points": "12 points",
+      "comments": "discuss",
+      "index": 15
     },
     {
       "title": "Data centers contribute to high prices as energy bills electrify local politics",
       "href": "https://www.wsj.com/economy/consumers/surging-power-costs-are-putting-the-squeeze-on-customers-f8b2c04b",
-      "points": "11 points",
-      "comments": "3 comments",
-      "index": 13
+      "points": "29 points",
+      "comments": "17 comments",
+      "index": 16
     },
     {
       "title": "I built my own CityMapper",
       "href": "https://asherfalcon.com/blog/posts/5",
-      "points": "29 points",
-      "comments": "2 comments",
-      "index": 14
+      "points": "46 points",
+      "comments": "8 comments",
+      "index": 17
+    },
+    {
+      "title": "How I stopped worrying and started loving the Assembly",
+      "href": "https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60",
+      "points": "153 points",
+      "comments": "28 comments",
+      "index": 18
     },
     {
       "title": "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
       "href": "https://github.com/vindar/SARCASM",
-      "points": "234 points",
-      "comments": "50 comments",
-      "index": 15
+      "points": "244 points",
+      "comments": "52 comments",
+      "index": 19
     },
     {
-      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
-      "href": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
-      "points": "400 points",
-      "comments": "274 comments",
-      "index": 16
-    },
-    {
-      "title": "Futurelock: A subtle risk in async Rust",
-      "href": "https://rfd.shared.oxide.computer/rfd/0609",
-      "points": "394 points",
-      "comments": "207 comments",
-      "index": 17
+      "title": "Screenwriter Eric Heisserer on Lights Out, the Rules of Horror",
+      "href": "https://filmmakermagazine.com/99327-screenwriter-eric-heisserer-lights-out-the-rules-of-horror-and-collaborating-with-james-wan/",
+      "points": "11 points",
+      "comments": "1 comment",
+      "index": 20
     },
     {
       "title": "Myths Programmers Believe about CPU Caches (2018)",
       "href": "https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/",
-      "points": "107 points",
-      "comments": "18 comments",
-      "index": 18
+      "points": "119 points",
+      "comments": "21 comments",
+      "index": 21
+    },
+    {
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
+      "href": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+      "points": "418 points",
+      "comments": "285 comments",
+      "index": 22
     },
     {
       "title": "You can't refuse to be scanned by ICE's facial recognition app, DHS document say",
       "href": "https://www.404media.co/you-cant-refuse-to-be-scanned-by-ices-facial-recognition-app-dhs-document-says/",
-      "points": "274 points",
-      "comments": "186 comments",
-      "index": 19
+      "points": "342 points",
+      "comments": "234 comments",
+      "index": 23
+    },
+    {
+      "title": "Futurelock: A subtle risk in async Rust",
+      "href": "https://rfd.shared.oxide.computer/rfd/0609",
+      "points": "402 points",
+      "comments": "215 comments",
+      "index": 24
+    },
+    {
+      "title": "The giant basket case countries",
+      "href": "https://www.noahpinion.blog/p/the-giant-basket-case-countries",
+      "points": "11 points",
+      "comments": "4 comments",
+      "index": 25
     },
     {
       "title": "Addiction Markets",
       "href": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
-      "points": "354 points",
-      "comments": "385 comments",
-      "index": 20
+      "points": "365 points",
+      "comments": "407 comments",
+      "index": 26
+    },
+    {
+      "title": "Do you know that there is an HTML tables API?",
+      "href": "https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/",
+      "points": "212 points",
+      "comments": "162 comments",
+      "index": 27
     },
     {
       "title": "The Impossible Optimization, and the Metaprogramming to Achieve It",
       "href": "https://verdagon.dev/blog/impossible-optimization",
-      "points": "42 points",
-      "comments": "16 comments",
-      "index": 21
-    },
-    {
-      "title": "Solving the NY Times \"Pips\" game with F#",
-      "href": "https://github.com/brianberns/Pips",
-      "points": "49 points",
-      "comments": "12 comments",
-      "index": 22
+      "points": "50 points",
+      "comments": "17 comments",
+      "index": 28
     },
     {
       "title": "Introducing architecture variants",
       "href": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
-      "points": "225 points",
-      "comments": "136 comments",
-      "index": 23
+      "points": "229 points",
+      "comments": "137 comments",
+      "index": 29
     },
     {
       "title": "A theoretical way to circumvent Android developer verification",
       "href": "https://enaix.github.io/2025/10/30/developer-verification.html",
-      "points": "171 points",
-      "comments": "143 comments",
-      "index": 24
-    },
-    {
-      "title": "'Killing the Dead' Review: Watch the Graveyard",
-      "href": "https://www.wsj.com/arts-culture/books/killing-the-dead-review-watch-the-graveyard-f54e14f4",
-      "points": "22 points",
-      "comments": "9 comments",
-      "index": 25
-    },
-    {
-      "title": "Tigerbeetle Simulator",
-      "href": "https://sim.tigerbeetle.com/",
-      "points": "18 points",
-      "comments": "3 comments",
-      "index": 26
-    },
-    {
-      "title": "Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book",
-      "href": "https://arxiv.org/abs/2510.21613",
-      "points": "32 points",
-      "comments": "3 comments",
-      "index": 27
-    },
-    {
-      "title": "On Having a Data Object",
-      "href": "https://www.natemeyvis.com/on-having-a-data-object/",
-      "points": "23 points",
-      "comments": "4 comments",
-      "index": 28
-    },
-    {
-      "title": "Hacking India's largest automaker: Tata Motors",
-      "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
-      "points": "238 points",
-      "comments": "84 comments",
-      "index": 29
-    },
-    {
-      "title": "My Impressions of the MacBook Pro M4",
-      "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
-      "points": "231 points",
-      "comments": "339 comments",
+      "points": "174 points",
+      "comments": "148 comments",
       "index": 30
     }
   ]
