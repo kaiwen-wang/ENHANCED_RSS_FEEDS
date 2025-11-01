@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, November 1, 2025 at 4:15 PM GMT-5",
+  "date": "Saturday, November 1, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "Hard Rust requirements from May onward",
       "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 1
     },
     {
@@ -16,141 +16,141 @@
       "index": 2
     },
     {
+      "title": "Port of Linux to WebAssembly",
+      "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 3
+    },
+    {
       "title": "Your URL Is Your State",
       "href": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
       "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 3
+      "comments": "\n              16 comments\n            ",
+      "index": 4
     },
     {
       "title": "Claude Code Can Debug Low-level Cryptography",
       "href": "https://words.filippo.io/claude-debugging/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Just use a button",
       "href": "https://gomakethings.com/just-use-a-button/",
       "points": "",
       "comments": "\n              30 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "Port of Linux to WebAssembly",
-      "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 6
     },
     {
       "title": "Intent to Deprecate and Remove: Deprecate and remove XSLT",
       "href": "https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 7
     },
     {
       "title": "A deep dive into deeply recursive Go",
       "href": "https://mattermost.com/blog/a-deep-dive-into-deeply-recursive-go/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
+      "href": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 9
     },
     {
       "title": "Futurelock",
       "href": "https://rfd.shared.oxide.computer/rfd/0609",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "My impressions of the MacBook Pro M4",
       "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
       "points": "",
-      "comments": "\n              58 comments\n            ",
-      "index": 10
+      "comments": "\n              59 comments\n            ",
+      "index": 11
     },
     {
       "title": "Text rendering and effects using GPU-computed distances",
       "href": "https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Open-Source Ada: From Gateware to Application",
       "href": "https://blog.adacore.com/open-source-ada-from-gateware-to-application",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 13
+    },
+    {
+      "title": "De-escalating Tailscale CGNAT conflict",
+      "href": "https://ysun.co/tscgnat/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
     },
     {
       "title": "AI scrapers request commented scripts",
       "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 13
+      "comments": "\n              10 comments\n            ",
+      "index": 15
     },
     {
       "title": "Project goals for 2025H2",
       "href": "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 14
+      "index": 16
     },
     {
       "title": "How We Found 7 TiB of Memory Just Sitting Around",
       "href": "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 15
+      "index": 17
     },
     {
       "title": "Computer Says No: Error Reporting for LTL",
       "href": "https://wickstrom.tech/2025-11-01-error-reporting-linear-temporal-logic.html",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
-      "href": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Perfetto: Swiss Army Knife for Linux Client Tracing",
       "href": "https://lalitm.com/perfetto-swiss-army-knife/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Ubuntu introduces architecture variants",
       "href": "https://lwn.net/Articles/1044383/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/sknsrg/what_are_you_doing_this_weekend",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Ghosts in the Compilation",
       "href": "https://predr.ag/blog/ghosts-in-the-compilation/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Rotating Workforce Scheduling in MiniZinc",
-      "href": "https://zayenz.se/blog/post/rotating-workforce-scheduling/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 22
@@ -163,10 +163,10 @@
       "index": 23
     },
     {
-      "title": "Challenging the Fastest OSS Workflow Engine",
-      "href": "https://obeli.sk/blog/challenging-fastest-workflow-engine/",
+      "title": "Rotating Workforce Scheduling in MiniZinc",
+      "href": "https://zayenz.se/blog/post/rotating-workforce-scheduling/",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
