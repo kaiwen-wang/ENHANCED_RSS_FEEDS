@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, November 1, 2025 at 8:25 AM GMT-5",
+  "date": "Saturday, November 1, 2025 at 9:15 AM GMT-5",
   "articles": [
     {
       "title": "Just use a button",
@@ -16,31 +16,31 @@
       "index": 2
     },
     {
-      "title": "My impressions of the MacBook Pro M4",
-      "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
-      "points": "",
-      "comments": "\n              56 comments\n            ",
-      "index": 3
-    },
-    {
       "title": "Hard Rust requirements from May onward",
       "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 4
+      "index": 3
     },
     {
-      "title": "Futurelock",
-      "href": "https://rfd.shared.oxide.computer/rfd/0609",
+      "title": "My impressions of the MacBook Pro M4",
+      "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 5
+      "comments": "\n              56 comments\n            ",
+      "index": 4
     },
     {
       "title": "On the purported benefits of effect systems",
       "href": "https://typesanitizer.com/blog/effects-convo.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Futurelock",
+      "href": "https://rfd.shared.oxide.computer/rfd/0609",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
+      "title": "AI scrapers request commented scripts",
+      "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "Project goals for 2025H2",
       "href": "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "AI scrapers request commented scripts",
-      "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 9
     },
     {
@@ -72,8 +72,8 @@
       "index": 10
     },
     {
-      "title": "Computer Says No: Error Reporting for LTL",
-      "href": "https://wickstrom.tech/2025-11-01-error-reporting-linear-temporal-logic.html",
+      "title": "A deep dive into deeply recursive Go",
+      "href": "https://mattermost.com/blog/a-deep-dive-into-deeply-recursive-go/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 11
@@ -86,66 +86,66 @@
       "index": 12
     },
     {
-      "title": "Ubuntu introduces architecture variants",
-      "href": "https://lwn.net/Articles/1044383/",
+      "title": "Computer Says No: Error Reporting for LTL",
+      "href": "https://wickstrom.tech/2025-11-01-error-reporting-linear-temporal-logic.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 13
     },
     {
-      "title": "Ghosts in the Compilation",
-      "href": "https://predr.ag/blog/ghosts-in-the-compilation/",
+      "title": "Ubuntu introduces architecture variants",
+      "href": "https://lwn.net/Articles/1044383/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 14
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/sknsrg/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 15
+    },
+    {
+      "title": "Ghosts in the Compilation",
+      "href": "https://predr.ag/blog/ghosts-in-the-compilation/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
     },
     {
       "title": "Rotating Workforce Scheduling in MiniZinc",
       "href": "https://zayenz.se/blog/post/rotating-workforce-scheduling/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "The Tailscale Fall Update in under 8 minutes",
-      "href": "https://youtube.com/watch?v=GV8CVNd5nAI",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 17
-    },
-    {
-      "title": "Challenging the Fastest OSS Workflow Engine",
-      "href": "https://obeli.sk/blog/challenging-fastest-workflow-engine/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Roadmap for improving the Swift type checker",
-      "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
-      "points": "",
-      "comments": "\n              31 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "GHC now runs in your browser",
-      "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 20
     },
     {
       "title": "Rethinking Data Discovery for Libraries and Digital Humanities",
       "href": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Challenging the Fastest OSS Workflow Engine",
+      "href": "https://obeli.sk/blog/challenging-fastest-workflow-engine/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Roadmap for improving the Swift type checker",
+      "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
+      "points": "",
+      "comments": "\n              31 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "GHC now runs in your browser",
+      "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 21
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
+      "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
+      "href": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
       "title": "A heatmap diff viewer for code reviews",
       "href": "https://0github.com/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Announcing Rust 1.91.0",
       "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
-      "href": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
