@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, November 1, 2025 at 7:35 AM GMT-5",
+  "date": "Saturday, November 1, 2025 at 8:25 AM GMT-5",
   "articles": [
+    {
+      "title": "Abandonware of the web: do you know that there is an HTML tables API?",
+      "href": "https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/",
+      "points": "18 points",
+      "comments": "12 comments",
+      "index": 1
+    },
+    {
+      "title": "SQLite concurrency and why you should care about it",
+      "href": "https://jellyfin.org/posts/SQLite-locking/",
+      "points": "5 points",
+      "comments": "discuss",
+      "index": 2
+    },
     {
       "title": "Show HN: Strange Attractors",
       "href": "https://blog.shashanktomar.com/posts/strange-attractors",
-      "points": "562 points",
-      "comments": "58 comments",
-      "index": 1
+      "points": "593 points",
+      "comments": "62 comments",
+      "index": 3
     },
     {
       "title": "How I stopped worrying and started loving the Assembly",
       "href": "https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60",
-      "points": "97 points",
-      "comments": "18 comments",
-      "index": 2
+      "points": "108 points",
+      "comments": "21 comments",
+      "index": 4
     },
     {
       "title": "Myths Programmers Believe about CPU Caches (2018)",
       "href": "https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/",
-      "points": "71 points",
-      "comments": "6 comments",
-      "index": 3
+      "points": "80 points",
+      "comments": "10 comments",
+      "index": 5
     },
     {
       "title": "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
       "href": "https://github.com/vindar/SARCASM",
-      "points": "182 points",
+      "points": "193 points",
       "comments": "39 comments",
-      "index": 4
-    },
-    {
-      "title": "Futurelock: A subtle risk in async Rust",
-      "href": "https://rfd.shared.oxide.computer/rfd/0609",
-      "points": "355 points",
-      "comments": "171 comments",
-      "index": 5
-    },
-    {
-      "title": "'Killing the Dead' Review: Watch the Graveyard",
-      "href": "https://www.wsj.com/arts-culture/books/killing-the-dead-review-watch-the-graveyard-f54e14f4",
-      "points": "8 points",
-      "comments": "1 comment",
       "index": 6
+    },
+    {
+      "title": "Solving the NY Times \"Pips\" game with F#",
+      "href": "https://github.com/brianberns/Pips",
+      "points": "16 points",
+      "comments": "8 comments",
+      "index": 7
     },
     {
       "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
       "href": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
-      "points": "344 points",
-      "comments": "224 comments",
-      "index": 7
+      "points": "356 points",
+      "comments": "232 comments",
+      "index": 8
+    },
+    {
+      "title": "'Killing the Dead' Review: Watch the Graveyard",
+      "href": "https://www.wsj.com/arts-culture/books/killing-the-dead-review-watch-the-graveyard-f54e14f4",
+      "points": "10 points",
+      "comments": "2 comments",
+      "index": 9
+    },
+    {
+      "title": "Futurelock: A subtle risk in async Rust",
+      "href": "https://rfd.shared.oxide.computer/rfd/0609",
+      "points": "365 points",
+      "comments": "177 comments",
+      "index": 10
     },
     {
       "title": "Addiction Markets",
       "href": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
-      "points": "299 points",
-      "comments": "311 comments",
-      "index": 8
+      "points": "307 points",
+      "comments": "325 comments",
+      "index": 11
     },
     {
       "title": "Introducing architecture variants",
       "href": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
-      "points": "213 points",
-      "comments": "127 comments",
-      "index": 9
-    },
-    {
-      "title": "A theoretical way to circumvent Android developer verification",
-      "href": "https://enaix.github.io/2025/10/30/developer-verification.html",
-      "points": "149 points",
-      "comments": "118 comments",
-      "index": 10
+      "points": "215 points",
+      "comments": "131 comments",
+      "index": 12
     },
     {
       "title": "The Impossible Optimization, and the Metaprogramming to Achieve It",
       "href": "https://verdagon.dev/blog/impossible-optimization",
-      "points": "19 points",
-      "comments": "8 comments",
-      "index": 11
+      "points": "22 points",
+      "comments": "9 comments",
+      "index": 13
+    },
+    {
+      "title": "A theoretical way to circumvent Android developer verification",
+      "href": "https://enaix.github.io/2025/10/30/developer-verification.html",
+      "points": "156 points",
+      "comments": "126 comments",
+      "index": 14
     },
     {
       "title": "Nisus Writer: Schrödinger's Word Processor",
       "href": "https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/",
-      "points": "35 points",
-      "comments": "16 comments",
-      "index": 12
+      "points": "38 points",
+      "comments": "17 comments",
+      "index": 15
     },
     {
       "title": "Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book",
       "href": "https://arxiv.org/abs/2510.21613",
       "points": "22 points",
-      "comments": "1 comment",
-      "index": 13
+      "comments": "3 comments",
+      "index": 16
     },
     {
       "title": "Active listening: the Swiss Army Knife of communication",
       "href": "https://togetherlondon.com/insights/active-listening-swiss-army-knife",
-      "points": "105 points",
-      "comments": "36 comments",
-      "index": 14
+      "points": "112 points",
+      "comments": "42 comments",
+      "index": 17
     },
     {
       "title": "Hacking India's largest automaker: Tata Motors",
       "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
-      "points": "212 points",
-      "comments": "69 comments",
-      "index": 15
-    },
-    {
-      "title": "The profitable startup",
-      "href": "https://linear.app/now/the-profitable-startup",
-      "points": "142 points",
-      "comments": "41 comments",
-      "index": 16
+      "points": "217 points",
+      "comments": "72 comments",
+      "index": 18
     },
     {
       "title": "My Impressions of the MacBook Pro M4",
       "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
-      "points": "206 points",
-      "comments": "285 comments",
-      "index": 17
+      "points": "212 points",
+      "comments": "297 comments",
+      "index": 19
+    },
+    {
+      "title": "The profitable startup",
+      "href": "https://linear.app/now/the-profitable-startup",
+      "points": "149 points",
+      "comments": "43 comments",
+      "index": 20
     },
     {
       "title": "How We Found 7 TiB of Memory Just Sitting Around",
       "href": "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around",
-      "points": "159 points",
-      "comments": "45 comments",
-      "index": 18
+      "points": "165 points",
+      "comments": "46 comments",
+      "index": 21
     },
     {
       "title": "Use DuckDB-WASM to query TB of data in browser",
       "href": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
-      "points": "199 points",
-      "comments": "54 comments",
-      "index": 19
+      "points": "201 points",
+      "comments": "56 comments",
+      "index": 22
     },
     {
-      "title": "Solving the NY Times \"Pips\" game with F#",
-      "href": "https://github.com/brianberns/Pips",
-      "points": "4 points",
-      "comments": "6 comments",
-      "index": 20
+      "title": "Perfetto: Swiss army knife for Linux client tracing",
+      "href": "https://lalitm.com/perfetto-swiss-army-knife/",
+      "points": "137 points",
+      "comments": "20 comments",
+      "index": 23
     },
     {
       "title": "Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video]",
       "href": "https://www.youtube.com/watch?v=A_IUIyyqw0M",
       "points": "117 points",
       "comments": "46 comments",
-      "index": 21
+      "index": 24
     },
     {
-      "title": "Perfetto: Swiss army knife for Linux client tracing",
-      "href": "https://lalitm.com/perfetto-swiss-army-knife/",
-      "points": "136 points",
-      "comments": "19 comments",
-      "index": 22
+      "title": ".arpa, rDNS and a few magical ICMP hacks",
+      "href": "https://sdomi.pl/weblog/24-arpa-hacks/",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 25
     },
     {
       "title": "Kerkship St. Jozef, Antwerp – WWII German Concrete Tanker",
       "href": "https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker",
       "points": "37 points",
-      "comments": "9 comments",
-      "index": 23
-    },
-    {
-      "title": "Show HN: Settling the Score – A point-and-click adventure rhythm game",
-      "href": "https://easel.games/@raysplaceinspace/settling-the-score/",
-      "points": "7 points",
-      "comments": "discuss",
-      "index": 24
+      "comments": "10 comments",
+      "index": 26
     },
     {
       "title": "Show HN: Pipelex – Declarative language for repeatable AI workflows",
       "href": "https://github.com/Pipelex/pipelex",
-      "points": "103 points",
+      "points": "104 points",
       "comments": "20 comments",
-      "index": 25
+      "index": 27
     },
     {
       "title": "Nix Derivation Madness",
       "href": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
-      "points": "174 points",
+      "points": "175 points",
       "comments": "62 comments",
-      "index": 26
+      "index": 28
     },
     {
       "title": "AI scrapers request commented scripts",
       "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
-      "points": "234 points",
-      "comments": "181 comments",
-      "index": 27
-    },
-    {
-      "title": "The cryptography behind electronic passports",
-      "href": "https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/",
-      "points": "182 points",
-      "comments": "101 comments",
-      "index": 28
-    },
-    {
-      "title": "Sustainable memristors from shiitake mycelium for high-frequency bioelectronics",
-      "href": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965",
-      "points": "135 points",
-      "comments": "64 comments",
+      "points": "236 points",
+      "comments": "180 comments",
       "index": 29
     },
     {
-      "title": "Apple reports fourth quarter results",
-      "href": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
-      "points": "164 points",
-      "comments": "264 comments",
+      "title": "Show HN: Settling the Score – A point-and-click adventure rhythm game",
+      "href": "https://easel.games/@raysplaceinspace/settling-the-score/",
+      "points": "9 points",
+      "comments": "discuss",
       "index": 30
     }
   ]
