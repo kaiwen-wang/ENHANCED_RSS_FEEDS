@@ -1,11 +1,11 @@
 {
-  "date": "Friday, October 31, 2025 at 10:10 PM GMT-5",
+  "date": "Friday, October 31, 2025 at 11:20 PM GMT-5",
   "articles": [
     {
       "title": "Just use a button",
       "href": "https://gomakethings.com/just-use-a-button/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 1
     },
     {
@@ -16,15 +16,15 @@
       "index": 2
     },
     {
-      "title": "Project goals for 2025H2",
-      "href": "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/",
+      "title": "Futurelock",
+      "href": "https://rfd.shared.oxide.computer/rfd/0609",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 3
     },
     {
-      "title": "Futurelock",
-      "href": "https://rfd.shared.oxide.computer/rfd/0609",
+      "title": "Project goals for 2025H2",
+      "href": "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/",
       "points": "",
       "comments": "\n              4 comments\n            ",
       "index": 4
@@ -51,66 +51,66 @@
       "index": 7
     },
     {
-      "title": "Roadmap for improving the Swift type checker",
-      "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
-      "points": "",
-      "comments": "\n              27 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "GHC now runs in your browser",
-      "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 9
-    },
-    {
       "title": "Rotating Workforce Scheduling in MiniZinc",
       "href": "https://zayenz.se/blog/post/rotating-workforce-scheduling/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Challenging the Fastest OSS Workflow Engine",
-      "href": "https://obeli.sk/blog/challenging-fastest-workflow-engine/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "wastrel, a profligate implementation of webassembly",
-      "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 12
+      "index": 8
     },
     {
       "title": "Ubuntu introduces architecture variants",
       "href": "https://lwn.net/Articles/1044383/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Roadmap for improving the Swift type checker",
+      "href": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
+      "points": "",
+      "comments": "\n              28 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "GHC now runs in your browser",
+      "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Challenging the Fastest OSS Workflow Engine",
+      "href": "https://obeli.sk/blog/challenging-fastest-workflow-engine/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "wastrel, a profligate implementation of webassembly",
+      "href": "https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
       "index": 13
-    },
-    {
-      "title": "Announcing Rust 1.91.0",
-      "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "How We Found 7 TiB of Memory Just Sitting Around",
-      "href": "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/sknsrg/what_are_you_doing_this_weekend",
       "points": "",
       "comments": "\n              7 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Announcing Rust 1.91.0",
+      "href": "https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "How We Found 7 TiB of Memory Just Sitting Around",
+      "href": "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 16
     },
     {
@@ -128,50 +128,50 @@
       "index": 18
     },
     {
+      "title": "Rethinking Data Discovery for Libraries and Digital Humanities",
+      "href": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "wasm-adventure",
+      "href": "https://github.com/euhmeuh/wasm-adventure",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
       "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
       "href": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Fix your FODs",
       "href": "https://garnix.io/blog/fix-your-fods",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Hacking India’s largest automaker: Tata Motors",
       "href": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Advanced Documentation Retrieval on FreeBSD",
       "href": "https://adventurist.me/posts/00306",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "GHC 9.14.1-rc1 is now available",
       "href": "https://discourse.haskell.org/t/ghc-9-14-1-rc1-is-now-available/13194",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 23
-    },
-    {
-      "title": "wasm-adventure",
-      "href": "https://github.com/euhmeuh/wasm-adventure",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Changelog: introducing nix nario",
-      "href": "https://determinate.systems/blog/changelog-determinate-nix-3120/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 25
