@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, November 2, 2025 at 10:15 AM GMT-5",
+  "date": "Sunday, November 2, 2025 at 11:20 AM GMT-5",
   "articles": [
     {
       "title": "A prison of my own making",
       "href": "https://jsteuernagel.de/posts/a-prison-of-my-own-making/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "Port of Linux to WebAssembly",
       "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 3
     },
     {
@@ -30,73 +30,73 @@
       "index": 4
     },
     {
-      "title": "De-escalating Tailscale CGNAT conflict",
-      "href": "https://ysun.co/tscgnat/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 5
-    },
-    {
       "title": "Using FreeBSD to make self-hosting fun again",
       "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 6
-    },
-    {
-      "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
-      "href": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "On the purported benefits of effect systems",
-      "href": "https://typesanitizer.com/blog/effects-convo.html",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "Hard Rust requirements from May onward",
-      "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
-      "points": "",
-      "comments": "\n              48 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Visopsys single developer \"Visual Operating System\"",
-      "href": "https://visopsys.org/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Thinking About Thinking With LLMs",
-      "href": "https://davi.sh/blog/2025/09/thinking-with-llms/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 11
-    },
-    {
-      "title": "How I Use Every Claude Code Feature",
-      "href": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Your URL Is Your State",
-      "href": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 13
+      "index": 5
     },
     {
       "title": "build system tradeoffs",
       "href": "https://jyn.dev/build-system-tradeoffs",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "De-escalating Tailscale CGNAT conflict",
+      "href": "https://ysun.co/tscgnat/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
+      "href": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "On the purported benefits of effect systems",
+      "href": "https://typesanitizer.com/blog/effects-convo.html",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Hard Rust requirements from May onward",
+      "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
+      "points": "",
+      "comments": "\n              51 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Visopsys single developer \"Visual Operating System\"",
+      "href": "https://visopsys.org/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Thinking About Thinking With LLMs",
+      "href": "https://davi.sh/blog/2025/09/thinking-with-llms/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 12
+    },
+    {
+      "title": "How I Use Every Claude Code Feature",
+      "href": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Your URL Is Your State",
+      "href": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
       "index": 14
     },
     {
@@ -142,17 +142,17 @@
       "index": 20
     },
     {
-      "title": "Futurelock",
-      "href": "https://rfd.shared.oxide.computer/rfd/0609",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 21
-    },
-    {
       "title": "Attacking macOS XPC helpers: Protocol reverse engineering and interface analysis",
       "href": "https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Futurelock",
+      "href": "https://rfd.shared.oxide.computer/rfd/0609",
+      "points": "",
+      "comments": "\n              23 comments\n            ",
       "index": 22
     },
     {
@@ -166,7 +166,7 @@
       "title": "My impressions of the MacBook Pro M4",
       "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
       "points": "",
-      "comments": "\n              62 comments\n            ",
+      "comments": "\n              64 comments\n            ",
       "index": 24
     },
     {
