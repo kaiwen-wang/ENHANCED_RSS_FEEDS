@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, November 1, 2025 at 8:40 PM GMT-5",
+  "date": "Saturday, November 1, 2025 at 10:15 PM GMT-5",
   "articles": [
     {
-      "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
-      "href": "https://sailfishos.org/info/",
-      "points": "169 points",
-      "comments": "76 comments",
+      "title": "Visopsys: OS maintained by a single developer since 1997",
+      "href": "https://visopsys.org/",
+      "points": "164 points",
+      "comments": "23 comments",
       "index": 1
     },
     {
-      "title": "OS maintained by a single developer since 1997: Visopsys",
-      "href": "https://visopsys.org/",
-      "points": "123 points",
-      "comments": "13 comments",
+      "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
+      "href": "https://blog.cloudflare.com/private-rate-limiting/",
+      "points": "33 points",
+      "comments": "11 comments",
       "index": 2
     },
     {
-      "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
-      "href": "https://blog.cloudflare.com/private-rate-limiting/",
-      "points": "15 points",
-      "comments": "discuss",
+      "title": "Pomelli",
+      "href": "https://blog.google/technology/google-labs/pomelli/",
+      "points": "66 points",
+      "comments": "18 comments",
       "index": 3
-    },
-    {
-      "title": "Why \"Everyone Dies\" Gets AGI All Wrong",
-      "href": "https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong",
-      "points": "17 points",
-      "comments": "2 comments",
-      "index": 4
     },
     {
       "title": "Updated practice for review articles and position papers in ArXiv CS category",
       "href": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
-      "points": "412 points",
-      "comments": "196 comments",
+      "points": "420 points",
+      "comments": "198 comments",
+      "index": 4
+    },
+    {
+      "title": "Claude Code can debug low-level cryptography",
+      "href": "https://words.filippo.io/claude-debugging/",
+      "points": "221 points",
+      "comments": "121 comments",
       "index": 5
     },
     {
-      "title": "Claude Code Can Debug Low-Level Cryptography",
-      "href": "https://words.filippo.io/claude-debugging/",
-      "points": "201 points",
-      "comments": "109 comments",
+      "title": "How I use every Claude Code feature",
+      "href": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
+      "points": "48 points",
+      "comments": "15 comments",
       "index": 6
-    },
-    {
-      "title": "Pomelli",
-      "href": "https://labs.google.com/pomelli/about/",
-      "points": "42 points",
-      "comments": "9 comments",
-      "index": 7
     },
     {
       "title": "GHC now runs in the browser",
       "href": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
-      "points": "248 points",
-      "comments": "71 comments",
-      "index": 8
+      "points": "259 points",
+      "comments": "77 comments",
+      "index": 7
     },
     {
       "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
       "href": "https://github.com/samrolken/nokode",
-      "points": "224 points",
-      "comments": "173 comments",
+      "points": "238 points",
+      "comments": "185 comments",
+      "index": 8
+    },
+    {
+      "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
+      "href": "https://sailfishos.org/info/",
+      "points": "192 points",
+      "comments": "81 comments",
       "index": 9
     },
     {
       "title": "Beginner-friendly, unofficial documentation for Helix text editor",
       "href": "https://helix-editor.vercel.app/start-here/basics/",
-      "points": "93 points",
-      "comments": "30 comments",
+      "points": "102 points",
+      "comments": "33 comments",
       "index": 10
     },
     {
       "title": "3M Diskette Reference Manual (1983) [pdf]",
       "href": "https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf",
-      "points": "15 points",
-      "comments": "2 comments",
+      "points": "29 points",
+      "comments": "5 comments",
       "index": 11
     },
     {
       "title": "SQLite concurrency and why you should care about it",
       "href": "https://jellyfin.org/posts/SQLite-locking/",
-      "points": "250 points",
-      "comments": "110 comments",
+      "points": "258 points",
+      "comments": "112 comments",
       "index": 12
     },
     {
-      "title": "OpenDesk by the Centre for Digital Sovereignty",
-      "href": "https://www.opendesk.eu/en/product",
-      "points": "27 points",
-      "comments": "4 comments",
+      "title": "A Few Words About Async",
+      "href": "https://yoric.github.io/post/quite-a-few-words-about-async/",
+      "points": "10 points",
+      "comments": "discuss",
       "index": 13
+    },
+    {
+      "title": "Why \"everyone dies\" gets AGI all wrong",
+      "href": "https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong",
+      "points": "59 points",
+      "comments": "85 comments",
+      "index": 14
     },
     {
       "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
       "href": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
-      "points": "131 points",
+      "points": "140 points",
       "comments": "6 comments",
-      "index": 14
-    },
-    {
-      "title": "Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets",
-      "href": "https://github.com/Amal-David/keyleak-detector",
-      "points": "11 points",
-      "comments": "2 comments",
       "index": 15
-    },
-    {
-      "title": "RegEx Crossword",
-      "href": "https://jimbly.github.io/regex-crossword/",
-      "points": "17 points",
-      "comments": "3 comments",
-      "index": 16
-    },
-    {
-      "title": "Show HN: Duper – The Format That's Super",
-      "href": "https://duper.dev.br/",
-      "points": "4 points",
-      "comments": "discuss",
-      "index": 17
-    },
-    {
-      "title": "Austria: Pylons as sculpture for public acceptance of expanding electrification",
-      "href": "https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals",
-      "points": "91 points",
-      "comments": "41 comments",
-      "index": 18
-    },
-    {
-      "title": "How I Use Every Claude Code Feature",
-      "href": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
-      "points": "4 points",
-      "comments": "discuss",
-      "index": 19
-    },
-    {
-      "title": "The hardest program I've ever written (2015)",
-      "href": "https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/",
-      "points": "55 points",
-      "comments": "37 comments",
-      "index": 20
     },
     {
       "title": "How to Build a Solar Powered Electric Oven",
       "href": "https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/",
-      "points": "3 points",
-      "comments": "discuss",
+      "points": "13 points",
+      "comments": "1 comment",
+      "index": 16
+    },
+    {
+      "title": "OpenDesk by the Centre for Digital Sovereignty",
+      "href": "https://www.opendesk.eu/en/product",
+      "points": "37 points",
+      "comments": "4 comments",
+      "index": 17
+    },
+    {
+      "title": "RegEx Crossword",
+      "href": "https://jimbly.github.io/regex-crossword/",
+      "points": "26 points",
+      "comments": "10 comments",
+      "index": 18
+    },
+    {
+      "title": "The hardest program I've ever written (2015)",
+      "href": "https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/",
+      "points": "63 points",
+      "comments": "38 comments",
+      "index": 19
+    },
+    {
+      "title": "Austria: Pylons as sculpture for public acceptance of expanding electrification",
+      "href": "https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals",
+      "points": "99 points",
+      "comments": "45 comments",
+      "index": 20
+    },
+    {
+      "title": "Hard Rust requirements from May onward",
+      "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
+      "points": "339 points",
+      "comments": "607 comments",
       "index": 21
     },
     {
       "title": "CharlotteOS – An Experimental Modern Operating System",
       "href": "https://github.com/charlotte-os/Catten",
-      "points": "148 points",
-      "comments": "69 comments",
+      "points": "150 points",
+      "comments": "77 comments",
       "index": 22
     },
     {
       "title": "Chat Control proposal fails again after public opposition",
       "href": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
-      "points": "444 points",
-      "comments": "117 comments",
+      "points": "462 points",
+      "comments": "124 comments",
       "index": 23
     },
     {
-      "title": "Hard Rust requirements from May onward",
-      "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
-      "points": "325 points",
-      "comments": "565 comments",
+      "title": "Show HN: A simple drag and drop tool to document and label fuse boxes",
+      "href": "https://github.com/alexadam/fuse-box-labels",
+      "points": "5 points",
+      "comments": "1 comment",
       "index": 24
+    },
+    {
+      "title": "Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets",
+      "href": "https://github.com/Amal-David/keyleak-detector",
+      "points": "14 points",
+      "comments": "2 comments",
+      "index": 25
     },
     {
       "title": "Word2vec-style vector arithmetic on docs embeddings",
       "href": "https://technicalwriting.dev/embeddings/arithmetic/index.html",
-      "points": "45 points",
+      "points": "50 points",
       "comments": "11 comments",
-      "index": 25
+      "index": 26
     },
     {
       "title": "Visible from space, Sudan's bloodied sands expose a massacre of thousands",
       "href": "https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/",
-      "points": "251 points",
-      "comments": "93 comments",
-      "index": 26
+      "points": "278 points",
+      "comments": "108 comments",
+      "index": 27
     },
     {
       "title": "I built my own CityMapper",
       "href": "https://asherfalcon.com/blog/posts/5",
-      "points": "115 points",
-      "comments": "15 comments",
-      "index": 27
+      "points": "120 points",
+      "comments": "16 comments",
+      "index": 28
+    },
+    {
+      "title": "Show HN: Duper – The Format That's Super",
+      "href": "https://duper.dev.br/",
+      "points": "12 points",
+      "comments": "4 comments",
+      "index": 29
     },
     {
       "title": "Ask HN: Where to begin with \"modern\" Emacs?",
       "href": "item?id=45783376",
-      "points": "107 points",
-      "comments": "70 comments",
-      "index": 28
-    },
-    {
-      "title": "NJVL: Nim's New Intermediate Representation",
-      "href": "https://github.com/nim-lang/nimony/blob/master/doc/njvl-spec.md",
-      "points": "53 points",
-      "comments": "8 comments",
-      "index": 29
-    },
-    {
-      "title": "Studies increasingly find links between air pollutants and dementia",
-      "href": "https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html",
-      "points": "146 points",
-      "comments": "90 comments",
+      "points": "118 points",
+      "comments": "79 comments",
       "index": 30
     }
   ]
