@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, November 2, 2025 at 7:35 AM GMT-5",
+  "date": "Sunday, November 2, 2025 at 8:20 AM GMT-5",
   "articles": [
     {
       "title": "Port of Linux to WebAssembly",
       "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 1
     },
     {
       "title": "Claude Code Can Debug Low-level Cryptography",
       "href": "https://words.filippo.io/claude-debugging/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 2
     },
     {
@@ -26,21 +26,21 @@
       "title": "Hard Rust requirements from May onward",
       "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
       "points": "",
-      "comments": "\n              43 comments\n            ",
+      "comments": "\n              45 comments\n            ",
       "index": 4
     },
     {
       "title": "On the purported benefits of effect systems",
       "href": "https://typesanitizer.com/blog/effects-convo.html",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 5
     },
     {
-      "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
-      "href": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
+      "title": "Notes by djb on using Fil-C (2025)",
+      "href": "https://cr.yp.to/2025/fil-c.html",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 6
     },
     {
@@ -51,127 +51,127 @@
       "index": 7
     },
     {
+      "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
+      "href": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "Your URL Is Your State",
       "href": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "Thinking About Thinking With LLMs",
-      "href": "https://davi.sh/blog/2025/09/thinking-with-llms/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 9
-    },
-    {
-      "title": "Using FreeBSD to make self-hosting fun again",
-      "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 10
     },
     {
       "title": "How I Use Every Claude Code Feature",
       "href": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Thinking About Thinking With LLMs",
+      "href": "https://davi.sh/blog/2025/09/thinking-with-llms/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 11
+    },
+    {
+      "title": "Using FreeBSD to make self-hosting fun again",
+      "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 12
     },
     {
       "title": "Text rendering and effects using GPU-computed distances",
       "href": "https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Intent to Deprecate and Remove: Deprecate and remove XSLT",
-      "href": "https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ",
-      "points": "",
-      "comments": "\n              24 comments\n            ",
       "index": 13
-    },
-    {
-      "title": "Just use a button",
-      "href": "https://gomakethings.com/just-use-a-button/",
-      "points": "",
-      "comments": "\n              35 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Notes by djb on using Fil-C (2025)",
-      "href": "https://cr.yp.to/2025/fil-c.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
     },
     {
       "title": "Moving tables across PostgreSQL instances",
       "href": "https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Just use a button",
+      "href": "https://gomakethings.com/just-use-a-button/",
+      "points": "",
+      "comments": "\n              35 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Intent to Deprecate and Remove: Deprecate and remove XSLT",
+      "href": "https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
       "index": 16
+    },
+    {
+      "title": "A prison of my own making",
+      "href": "https://jsteuernagel.de/posts/a-prison-of-my-own-making/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
     },
     {
       "title": "A deep dive into deeply recursive Go",
       "href": "https://mattermost.com/blog/a-deep-dive-into-deeply-recursive-go/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Futurelock",
       "href": "https://rfd.shared.oxide.computer/rfd/0609",
       "points": "",
-      "comments": "\n              20 comments\n            ",
-      "index": 18
+      "comments": "\n              21 comments\n            ",
+      "index": 19
     },
     {
       "title": "Attacking macOS XPC helpers: Protocol reverse engineering and interface analysis",
       "href": "https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "My impressions of the MacBook Pro M4",
       "href": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
       "points": "",
       "comments": "\n              61 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Open-Source Ada: From Gateware to Application",
       "href": "https://blog.adacore.com/open-source-ada-from-gateware-to-application",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "AI scrapers request commented scripts",
       "href": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Program-ing Finger Trees in Coq (2007)",
       "href": "https://sozeau.gitlabpages.inria.fr/www/research/publications/Program-ing_Finger_Trees_in_Coq.pdf",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Project goals for 2025H2",
       "href": "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Computer Says No: Error Reporting for LTL",
-      "href": "https://wickstrom.tech/2025-11-01-error-reporting-linear-temporal-logic.html",
       "points": "",
       "comments": "\n              4 comments\n            ",
       "index": 25
