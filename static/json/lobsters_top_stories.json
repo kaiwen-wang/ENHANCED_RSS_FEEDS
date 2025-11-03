@@ -1,11 +1,11 @@
 {
-  "date": "Monday, November 3, 2025 at 7:40 AM GMT-5",
+  "date": "Monday, November 3, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "You don't need anubis",
       "href": "https://fxgn.dev/blog/anubis/",
       "points": "",
-      "comments": "\n              32 comments\n            ",
+      "comments": "\n              37 comments\n            ",
       "index": 1
     },
     {
@@ -26,21 +26,21 @@
       "title": "build system tradeoffs",
       "href": "https://jyn.dev/build-system-tradeoffs",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 4
-    },
-    {
-      "title": "Notes by djb on using Fil-C",
-      "href": "https://cr.yp.to/2025/fil-c.html",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 5
     },
     {
       "title": "Don't give Postgres too much memory",
       "href": "https://vondra.me/posts/dont-give-postgres-too-much-memory/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Notes by djb on using Fil-C",
+      "href": "https://cr.yp.to/2025/fil-c.html",
+      "points": "",
+      "comments": "\n              21 comments\n            ",
       "index": 6
     },
     {
@@ -58,24 +58,24 @@
       "index": 8
     },
     {
+      "title": "Absurd Workflows: Durable Execution With Just Postgres",
+      "href": "https://lucumr.pocoo.org/2025/11/3/absurd-workflows",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 9
+    },
+    {
       "title": "Making an Easy-to-Install Application in Python",
       "href": "https://gokmengorgen.net/2025/11/02/making-an-easy-to-install-application-in-python/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Skeena Indigenous Typeface",
       "href": "https://microsoft.github.io/Skeena-Indigenous-Typeface/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Absurd Workflows: Durable Execution With Just Postgres",
-      "href": "https://lucumr.pocoo.org/2025/11/3/absurd-workflows",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 11
     },
     {
@@ -93,15 +93,15 @@
       "index": 13
     },
     {
-      "title": "Homotopy Type Theory for Dummies",
-      "href": "http://www.chriswarbo.net/blog/2015-09-11-hott_for_dummies.html",
+      "title": "a11y.css",
+      "href": "https://ffoodd.github.io/a11y.css/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 14
     },
     {
-      "title": "Control structures in programming languages",
-      "href": "http://xavierleroy.org/control-structures/",
+      "title": "Homotopy Type Theory for Dummies",
+      "href": "http://www.chriswarbo.net/blog/2015-09-11-hott_for_dummies.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 15
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "A Soiree into Symbols in Ruby",
-      "href": "https://tech.stonecharioteer.com/posts/2025/ruby-symbols/",
+      "title": "Control structures in programming languages",
+      "href": "http://xavierleroy.org/control-structures/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
-      "title": "a11y.css",
-      "href": "https://ffoodd.github.io/a11y.css/",
+      "title": "Announcing cgp-serde: A modular serialization library for Serde powered by Context-Generic Programming",
+      "href": "https://contextgeneric.dev/blog/cgp-serde-release/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
-      "title": "Using FreeBSD to make self-hosting fun again",
-      "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
+      "title": "A Soiree into Symbols in Ruby",
+      "href": "https://tech.stonecharioteer.com/posts/2025/ruby-symbols/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 19
-    },
-    {
-      "title": "Writing an Asciidoc Parser in Rust: Asciidocr",
-      "href": "https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 20
     },
     {
       "title": "\"Monster Splash\" a double-hires demo for Apple IIe",
       "href": "http://www.deater.net/weave/vmwprod/monstersplash/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Using FreeBSD to make self-hosting fun again",
+      "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 21
     },
     {
-      "title": "The APM paradox: Too much data, too few answers",
-      "href": "https://www.honeybadger.io/blog/apm-paradox/",
+      "title": "Writing an Asciidoc Parser in Rust: Asciidocr",
+      "href": "https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Table of Contents Bookmarklet",
+      "href": "https://zoebijl.github.io/table-of-contents/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Port of Linux to WebAssembly",
       "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Software substrates: should there be only one?",
       "href": "https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Nostr is deceptively tricky to understand",
-      "href": "https://njump.me/nevent1qqsgnyzctjwpqkgqyvp2tl0megdf5dvrfgqgug6u83k396y0d2uj3qgzyp02geyqgka3lu3zv4wa6dhxmnkacs6epsnqjrzgd0hn3m69pkjm68v4ydt",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
