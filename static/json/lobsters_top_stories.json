@@ -1,32 +1,32 @@
 {
-  "date": "Monday, November 3, 2025 at 8:30 AM GMT-5",
+  "date": "Monday, November 3, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "You don't need anubis",
       "href": "https://fxgn.dev/blog/anubis/",
       "points": "",
-      "comments": "\n              37 comments\n            ",
+      "comments": "\n              38 comments\n            ",
       "index": 1
     },
     {
       "title": "A prison of my own making",
       "href": "https://jsteuernagel.de/posts/a-prison-of-my-own-making/",
       "points": "",
-      "comments": "\n              48 comments\n            ",
+      "comments": "\n              51 comments\n            ",
       "index": 2
     },
     {
       "title": "I ****ing hate Science (2021)",
       "href": "https://buttondown.com/hillelwayne/archive/i-ing-hate-science/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 3
     },
     {
       "title": "build system tradeoffs",
       "href": "https://jyn.dev/build-system-tradeoffs",
       "points": "",
-      "comments": "\n              22 comments\n            ",
+      "comments": "\n              25 comments\n            ",
       "index": 4
     },
     {
@@ -37,143 +37,143 @@
       "index": 5
     },
     {
+      "title": "a11y.css",
+      "href": "https://ffoodd.github.io/a11y.css/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 6
+    },
+    {
       "title": "Notes by djb on using Fil-C",
       "href": "https://cr.yp.to/2025/fil-c.html",
       "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 6
+      "comments": "\n              22 comments\n            ",
+      "index": 7
     },
     {
       "title": "\"Why don't you use dependent types?\"",
       "href": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 7
-    },
-    {
-      "title": "Using Assisted-by commit footers instead of banning AI tools",
-      "href": "https://xeiaso.net/notes/2025/assisted-by-footer/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 8
     },
     {
       "title": "Absurd Workflows: Durable Execution With Just Postgres",
       "href": "https://lucumr.pocoo.org/2025/11/3/absurd-workflows",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 9
+    },
+    {
+      "title": "Using Assisted-by commit footers instead of banning AI tools",
+      "href": "https://xeiaso.net/notes/2025/assisted-by-footer/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 10
     },
     {
       "title": "Making an Easy-to-Install Application in Python",
       "href": "https://gokmengorgen.net/2025/11/02/making-an-easy-to-install-application-in-python/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Skeena Indigenous Typeface",
       "href": "https://microsoft.github.io/Skeena-Indigenous-Typeface/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Abstract Syntax Tree: An Example in C",
       "href": "https://keleshev.com/abstract-syntax-tree-an-example-in-c/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "AWK technical notes (2023)",
       "href": "https://maximullaris.com/awk_tech_notes.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "a11y.css",
-      "href": "https://ffoodd.github.io/a11y.css/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 14
-    },
-    {
-      "title": "Homotopy Type Theory for Dummies",
-      "href": "http://www.chriswarbo.net/blog/2015-09-11-hott_for_dummies.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Setting up a very simple home router with OpenBSD",
-      "href": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 16
     },
     {
       "title": "Control structures in programming languages",
       "href": "http://xavierleroy.org/control-structures/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Homotopy Type Theory for Dummies",
+      "href": "http://www.chriswarbo.net/blog/2015-09-11-hott_for_dummies.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Cure - Verification-First Programming for the BEAM",
+      "href": "https://cure-lang.org/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 17
+    },
+    {
+      "title": "Setting up a very simple home router with OpenBSD",
+      "href": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "How to Get Meaningful Feedback on Your Design Document",
+      "href": "https://refactoringenglish.com/chapters/useful-feedback-on-design-docs/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
     },
     {
       "title": "Announcing cgp-serde: A modular serialization library for Serde powered by Context-Generic Programming",
       "href": "https://contextgeneric.dev/blog/cgp-serde-release/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
       "title": "A Soiree into Symbols in Ruby",
       "href": "https://tech.stonecharioteer.com/posts/2025/ruby-symbols/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "\"Monster Splash\" a double-hires demo for Apple IIe",
       "href": "http://www.deater.net/weave/vmwprod/monstersplash/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Using FreeBSD to make self-hosting fun again",
       "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Writing an Asciidoc Parser in Rust: Asciidocr",
       "href": "https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Table of Contents Bookmarklet",
-      "href": "https://zoebijl.github.io/table-of-contents/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Port of Linux to WebAssembly",
-      "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
       "index": 24
     },
     {
-      "title": "Software substrates: should there be only one?",
-      "href": "https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html",
+      "title": "C++ move semantics from scratch (2022)",
+      "href": "https://cbarrete.com/move-from-scratch.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
