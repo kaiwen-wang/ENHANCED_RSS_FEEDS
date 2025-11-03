@@ -1,11 +1,11 @@
 {
-  "date": "Monday, November 3, 2025 at 2:20 AM GMT-5",
+  "date": "Monday, November 3, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "You don't need anubis",
       "href": "https://fxgn.dev/blog/anubis/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 1
     },
     {
@@ -19,56 +19,56 @@
       "title": "I ****ing hate Science (2021)",
       "href": "https://buttondown.com/hillelwayne/archive/i-ing-hate-science/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 3
     },
     {
       "title": "Notes by djb on using Fil-C",
       "href": "https://cr.yp.to/2025/fil-c.html",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 4
     },
     {
       "title": "build system tradeoffs",
       "href": "https://jyn.dev/build-system-tradeoffs",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 5
+    },
+    {
+      "title": "Making an Easy-to-Install Application in Python",
+      "href": "https://gokmengorgen.net/2025/11/02/making-an-easy-to-install-application-in-python/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 6
     },
     {
       "title": "Skeena Indigenous Typeface",
       "href": "https://microsoft.github.io/Skeena-Indigenous-Typeface/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 6
+      "index": 7
     },
     {
-      "title": "Making an Easy-to-Install Application in Python",
-      "href": "https://gokmengorgen.net/2025/11/02/making-an-easy-to-install-application-in-python/",
+      "title": "Don't give Postgres too much memory",
+      "href": "https://vondra.me/posts/dont-give-postgres-too-much-memory/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 7
+      "comments": "\n              no comments\n            ",
+      "index": 8
     },
     {
       "title": "Using Assisted-by commit footers instead of banning AI tools",
       "href": "https://xeiaso.net/notes/2025/assisted-by-footer/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 8
-    },
-    {
-      "title": "AWK technical notes (2023)",
-      "href": "https://maximullaris.com/awk_tech_notes.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 9
     },
     {
-      "title": "Using FreeBSD to make self-hosting fun again",
-      "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
+      "title": "\"Why don't you use dependent types?\"",
+      "href": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 10
     },
     {
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
+      "title": "Using FreeBSD to make self-hosting fun again",
+      "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "AWK technical notes (2023)",
+      "href": "https://maximullaris.com/awk_tech_notes.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "The APM paradox: Too much data, too few answers",
+      "href": "https://www.honeybadger.io/blog/apm-paradox/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
       "title": "Port of Linux to WebAssembly",
       "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Software substrates: should there be only one?",
-      "href": "https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
-      "title": "\"Why don't you use dependent types?\"",
-      "href": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "\"Monster Splash\" a double-hires demo for Apple IIe",
       "href": "http://www.deater.net/weave/vmwprod/monstersplash/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 16
+    },
+    {
+      "title": "Software substrates: should there be only one?",
+      "href": "https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 17
     },
     {
       "title": "Control structures in programming languages",
       "href": "http://xavierleroy.org/control-structures/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 18
     },
     {
       "title": "Nostr is deceptively tricky to understand",
       "href": "https://njump.me/nevent1qqsgnyzctjwpqkgqyvp2tl0megdf5dvrfgqgug6u83k396y0d2uj3qgzyp02geyqgka3lu3zv4wa6dhxmnkacs6epsnqjrzgd0hn3m69pkjm68v4ydt",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Setting up a very simple home router with OpenBSD",
-      "href": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Claude Code Can Debug Low-level Cryptography",
       "href": "https://words.filippo.io/claude-debugging/",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
-      "title": "Don't give Postgres too much memory",
-      "href": "https://vondra.me/posts/dont-give-postgres-too-much-memory/",
+      "title": "Setting up a very simple home router with OpenBSD",
+      "href": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
+      "comments": "\n              1 comment\n            ",
+      "index": 21
     },
     {
       "title": "Abstract Syntax Tree: An Example in C",
       "href": "https://keleshev.com/abstract-syntax-tree-an-example-in-c/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not",
       "href": "https://github.com/bagnalla/6502",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Zapstore",
       "href": "https://zapstore.dev/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Visopsys single developer \"Visual Operating System\"",
       "href": "https://visopsys.org/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "De-escalating Tailscale CGNAT conflict",
-      "href": "https://ysun.co/tscgnat/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
