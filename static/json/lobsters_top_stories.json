@@ -1,18 +1,18 @@
 {
-  "date": "Monday, November 3, 2025 at 4:25 AM GMT-5",
+  "date": "Monday, November 3, 2025 at 5:25 AM GMT-5",
   "articles": [
     {
       "title": "You don't need anubis",
       "href": "https://fxgn.dev/blog/anubis/",
       "points": "",
-      "comments": "\n              22 comments\n            ",
+      "comments": "\n              23 comments\n            ",
       "index": 1
     },
     {
       "title": "A prison of my own making",
       "href": "https://jsteuernagel.de/posts/a-prison-of-my-own-making/",
       "points": "",
-      "comments": "\n              44 comments\n            ",
+      "comments": "\n              45 comments\n            ",
       "index": 2
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "Notes by djb on using Fil-C",
-      "href": "https://cr.yp.to/2025/fil-c.html",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 4
-    },
-    {
       "title": "build system tradeoffs",
       "href": "https://jyn.dev/build-system-tradeoffs",
       "points": "",
       "comments": "\n              16 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Notes by djb on using Fil-C",
+      "href": "https://cr.yp.to/2025/fil-c.html",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
       "index": 5
     },
     {
@@ -44,66 +44,66 @@
       "index": 6
     },
     {
+      "title": "\"Why don't you use dependent types?\"",
+      "href": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 7
+    },
+    {
       "title": "Skeena Indigenous Typeface",
       "href": "https://microsoft.github.io/Skeena-Indigenous-Typeface/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Don't give Postgres too much memory",
       "href": "https://vondra.me/posts/dont-give-postgres-too-much-memory/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Using Assisted-by commit footers instead of banning AI tools",
       "href": "https://xeiaso.net/notes/2025/assisted-by-footer/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 9
-    },
-    {
-      "title": "\"Why don't you use dependent types?\"",
-      "href": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 10
-    },
-    {
-      "title": "AWK technical notes (2023)",
-      "href": "https://maximullaris.com/awk_tech_notes.html",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 11
     },
     {
       "title": "Homotopy Type Theory for Dummies",
       "href": "http://www.chriswarbo.net/blog/2015-09-11-hott_for_dummies.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "AWK technical notes (2023)",
+      "href": "https://maximullaris.com/awk_tech_notes.html",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 12
+    },
+    {
+      "title": "Absurd Workflows: Durable Execution With Just Postgres",
+      "href": "https://lucumr.pocoo.org/2025/11/3/absurd-workflows",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 13
     },
     {
       "title": "Using FreeBSD to make self-hosting fun again",
       "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "The APM paradox: Too much data, too few answers",
-      "href": "https://www.honeybadger.io/blog/apm-paradox/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 14
     },
     {
-      "title": "Port of Linux to WebAssembly",
-      "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/",
+      "title": "Setting up a very simple home router with OpenBSD",
+      "href": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 15
     },
     {
@@ -114,10 +114,10 @@
       "index": 16
     },
     {
-      "title": "Software substrates: should there be only one?",
-      "href": "https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html",
+      "title": "The APM paradox: Too much data, too few answers",
+      "href": "https://www.honeybadger.io/blog/apm-paradox/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
-      "title": "Setting up a very simple home router with OpenBSD",
-      "href": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/",
+      "title": "Port of Linux to WebAssembly",
+      "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Software substrates: should there be only one?",
+      "href": "https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Abstract Syntax Tree: An Example in C",
       "href": "https://keleshev.com/abstract-syntax-tree-an-example-in-c/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Nostr is deceptively tricky to understand",
       "href": "https://njump.me/nevent1qqsgnyzctjwpqkgqyvp2tl0megdf5dvrfgqgug6u83k396y0d2uj3qgzyp02geyqgka3lu3zv4wa6dhxmnkacs6epsnqjrzgd0hn3m69pkjm68v4ydt",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Claude Code Can Debug Low-level Cryptography",
       "href": "https://words.filippo.io/claude-debugging/",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not",
       "href": "https://github.com/bagnalla/6502",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Visopsys single developer \"Visual Operating System\"",
-      "href": "https://visopsys.org/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 24
     },
     {
-      "title": "Zapstore",
-      "href": "https://zapstore.dev/",
+      "title": "Thinking About Thinking With LLMs",
+      "href": "https://davi.sh/blog/2025/09/thinking-with-llms/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 25
     }
   ]
