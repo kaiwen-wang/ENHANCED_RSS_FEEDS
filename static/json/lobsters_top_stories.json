@@ -1,39 +1,39 @@
 {
-  "date": "Sunday, November 2, 2025 at 8:40 PM GMT-5",
+  "date": "Sunday, November 2, 2025 at 10:15 PM GMT-5",
   "articles": [
     {
       "title": "A prison of my own making",
       "href": "https://jsteuernagel.de/posts/a-prison-of-my-own-making/",
       "points": "",
-      "comments": "\n              39 comments\n            ",
+      "comments": "\n              40 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "Notes by djb on using Fil-C (2025)",
-      "href": "https://cr.yp.to/2025/fil-c.html",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 2
     },
     {
       "title": "You don't need anubis",
       "href": "https://fxgn.dev/blog/anubis/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              16 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "Notes by djb on using Fil-C (2025)",
+      "href": "https://cr.yp.to/2025/fil-c.html",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "I ****ing hate Science",
+      "href": "https://buttondown.com/hillelwayne/archive/i-ing-hate-science/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 4
     },
     {
       "title": "build system tradeoffs",
       "href": "https://jyn.dev/build-system-tradeoffs",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "I ****ing hate Science",
-      "href": "https://buttondown.com/hillelwayne/archive/i-ing-hate-science/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 5
     },
     {
@@ -58,85 +58,85 @@
       "index": 8
     },
     {
+      "title": "AWK technical notes (2023)",
+      "href": "https://maximullaris.com/awk_tech_notes.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 9
+    },
+    {
       "title": "Port of Linux to WebAssembly",
       "href": "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "AWK technical notes (2023)",
-      "href": "https://maximullaris.com/awk_tech_notes.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 10
-    },
-    {
-      "title": "Nostr is deceptively tricky to understand",
-      "href": "https://njump.me/nevent1qqsgnyzctjwpqkgqyvp2tl0megdf5dvrfgqgug6u83k396y0d2uj3qgzyp02geyqgka3lu3zv4wa6dhxmnkacs6epsnqjrzgd0hn3m69pkjm68v4ydt",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Homotopy Type Theory for Dummies",
-      "href": "http://www.chriswarbo.net/blog/2015-09-11-hott_for_dummies.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Claude Code Can Debug Low-level Cryptography",
-      "href": "https://words.filippo.io/claude-debugging/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 13
     },
     {
       "title": "Using Assisted-by commit footers instead of banning AI tools",
       "href": "https://xeiaso.net/notes/2025/assisted-by-footer/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Nostr is deceptively tricky to understand",
+      "href": "https://njump.me/nevent1qqsgnyzctjwpqkgqyvp2tl0megdf5dvrfgqgug6u83k396y0d2uj3qgzyp02geyqgka3lu3zv4wa6dhxmnkacs6epsnqjrzgd0hn3m69pkjm68v4ydt",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Homotopy Type Theory for Dummies",
+      "href": "http://www.chriswarbo.net/blog/2015-09-11-hott_for_dummies.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Claude Code Can Debug Low-level Cryptography",
+      "href": "https://words.filippo.io/claude-debugging/",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 14
     },
     {
-      "title": "Zapstore",
-      "href": "https://zapstore.dev/",
+      "title": "Software substrates: should there be only one?",
+      "href": "https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 15
-    },
-    {
-      "title": "Visopsys single developer \"Visual Operating System\"",
-      "href": "https://visopsys.org/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
     },
     {
       "title": "Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not",
       "href": "https://github.com/bagnalla/6502",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "De-escalating Tailscale CGNAT conflict",
-      "href": "https://ysun.co/tscgnat/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
-      "href": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 19
+      "index": 16
     },
     {
       "title": "\"Monster Splash\" a double-hires demo for Apple IIe",
       "href": "http://www.deater.net/weave/vmwprod/monstersplash/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Zapstore",
+      "href": "https://zapstore.dev/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "Visopsys single developer \"Visual Operating System\"",
+      "href": "https://visopsys.org/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
+    },
+    {
+      "title": "De-escalating Tailscale CGNAT conflict",
+      "href": "https://ysun.co/tscgnat/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 20
@@ -149,24 +149,24 @@
       "index": 21
     },
     {
-      "title": "On the purported benefits of effect systems",
-      "href": "https://typesanitizer.com/blog/effects-convo.html",
+      "title": "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
+      "href": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 22
     },
     {
-      "title": "Software substrates: should there be only one?",
-      "href": "https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html",
+      "title": "Control structures in programming languages",
+      "href": "http://xavierleroy.org/control-structures/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 23
     },
     {
-      "title": "Hard Rust requirements from May onward",
-      "href": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
+      "title": "Thinking About Thinking With LLMs",
+      "href": "https://davi.sh/blog/2025/09/thinking-with-llms/",
       "points": "",
-      "comments": "\n              67 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 24
     },
     {
