@@ -1,22 +1,22 @@
 {
-  "date": "Monday, November 3, 2025 at 1:30 AM GMT-5",
+  "date": "Monday, November 3, 2025 at 2:20 AM GMT-5",
   "articles": [
-    {
-      "title": "A prison of my own making",
-      "href": "https://jsteuernagel.de/posts/a-prison-of-my-own-making/",
-      "points": "",
-      "comments": "\n              41 comments\n            ",
-      "index": 1
-    },
     {
       "title": "You don't need anubis",
       "href": "https://fxgn.dev/blog/anubis/",
       "points": "",
       "comments": "\n              19 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "A prison of my own making",
+      "href": "https://jsteuernagel.de/posts/a-prison-of-my-own-making/",
+      "points": "",
+      "comments": "\n              43 comments\n            ",
       "index": 2
     },
     {
-      "title": "I ****ing hate Science",
+      "title": "I ****ing hate Science (2021)",
       "href": "https://buttondown.com/hillelwayne/archive/i-ing-hate-science/",
       "points": "",
       "comments": "\n              5 comments\n            ",
@@ -47,28 +47,28 @@
       "title": "Making an Easy-to-Install Application in Python",
       "href": "https://gokmengorgen.net/2025/11/02/making-an-easy-to-install-application-in-python/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 7
     },
     {
       "title": "Using Assisted-by commit footers instead of banning AI tools",
       "href": "https://xeiaso.net/notes/2025/assisted-by-footer/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 8
-    },
-    {
-      "title": "Using FreeBSD to make self-hosting fun again",
-      "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 9
     },
     {
       "title": "AWK technical notes (2023)",
       "href": "https://maximullaris.com/awk_tech_notes.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Using FreeBSD to make self-hosting fun again",
+      "href": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 10
     },
     {
@@ -93,85 +93,85 @@
       "index": 13
     },
     {
-      "title": "Control structures in programming languages",
-      "href": "http://xavierleroy.org/control-structures/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Nostr is deceptively tricky to understand",
-      "href": "https://njump.me/nevent1qqsgnyzctjwpqkgqyvp2tl0megdf5dvrfgqgug6u83k396y0d2uj3qgzyp02geyqgka3lu3zv4wa6dhxmnkacs6epsnqjrzgd0hn3m69pkjm68v4ydt",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Setting up a very simple home router with OpenBSD",
-      "href": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
-    },
-    {
-      "title": "Claude Code Can Debug Low-level Cryptography",
-      "href": "https://words.filippo.io/claude-debugging/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 17
-    },
-    {
       "title": "\"Why don't you use dependent types?\"",
       "href": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Abstract Syntax Tree: An Example in C",
-      "href": "https://keleshev.com/abstract-syntax-tree-an-example-in-c/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not",
-      "href": "https://github.com/bagnalla/6502",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 14
     },
     {
       "title": "\"Monster Splash\" a double-hires demo for Apple IIe",
       "href": "http://www.deater.net/weave/vmwprod/monstersplash/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Control structures in programming languages",
+      "href": "http://xavierleroy.org/control-structures/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Nostr is deceptively tricky to understand",
+      "href": "https://njump.me/nevent1qqsgnyzctjwpqkgqyvp2tl0megdf5dvrfgqgug6u83k396y0d2uj3qgzyp02geyqgka3lu3zv4wa6dhxmnkacs6epsnqjrzgd0hn3m69pkjm68v4ydt",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Setting up a very simple home router with OpenBSD",
+      "href": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "Claude Code Can Debug Low-level Cryptography",
+      "href": "https://words.filippo.io/claude-debugging/",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Don't give Postgres too much memory",
+      "href": "https://vondra.me/posts/dont-give-postgres-too-much-memory/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Abstract Syntax Tree: An Example in C",
+      "href": "https://keleshev.com/abstract-syntax-tree-an-example-in-c/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 21
+    },
+    {
+      "title": "Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not",
+      "href": "https://github.com/bagnalla/6502",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
     },
     {
       "title": "Zapstore",
       "href": "https://zapstore.dev/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Visopsys single developer \"Visual Operating System\"",
       "href": "https://visopsys.org/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "De-escalating Tailscale CGNAT conflict",
       "href": "https://ysun.co/tscgnat/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "react-native-godot: React Native Godot - Embed Godot Engine in React Native apps",
-      "href": "https://github.com/borndotcom/react-native-godot",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
