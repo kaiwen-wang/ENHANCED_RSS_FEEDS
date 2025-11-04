@@ -1,214 +1,214 @@
 {
-  "date": "Tuesday, November 4, 2025 at 12:15 PM GMT-5",
+  "date": "Tuesday, November 4, 2025 at 1:30 PM GMT-5",
   "articles": [
-    {
-      "title": "Show HN: A CSS-Only Terrain Generator",
-      "href": "https://terra.layoutit.com",
-      "points": "142 points",
-      "comments": "49 comments",
-      "index": 1
-    },
     {
       "title": "Pg_lake: Postgres with Iceberg and data lake access",
       "href": "https://github.com/Snowflake-Labs/pg_lake",
-      "points": "43 points",
-      "comments": "14 comments",
+      "points": "119 points",
+      "comments": "40 comments",
+      "index": 1
+    },
+    {
+      "title": "Show HN: A CSS-Only Terrain Generator",
+      "href": "https://terra.layoutit.com",
+      "points": "182 points",
+      "comments": "57 comments",
       "index": 2
     },
     {
-      "title": "Optimizing Datalog for the GPU",
-      "href": "https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu",
-      "points": "54 points",
-      "comments": "10 comments",
+      "title": "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
+      "href": "https://www.plexe.ai/",
+      "points": "21 points",
+      "comments": "2 comments",
       "index": 3
     },
     {
       "title": "What is a manifold?",
       "href": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
-      "points": "208 points",
-      "comments": "65 comments",
+      "points": "250 points",
+      "comments": "77 comments",
       "index": 4
     },
     {
-      "title": "Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers",
-      "href": "https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent",
-      "points": "74 points",
-      "comments": "53 comments",
+      "title": "Exploring a space-based, scalable AI infrastructure system design",
+      "href": "https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/",
+      "points": "18 points",
+      "comments": "9 comments",
       "index": 5
     },
     {
-      "title": "Chaining FFmpeg with a Browser Agent",
-      "href": "https://100x.bot/a/chaining-ffmpeg-with-browser-agent",
-      "points": "53 points",
-      "comments": "34 comments",
+      "title": "Optimizing Datalog for the GPU",
+      "href": "https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu",
+      "points": "64 points",
+      "comments": "12 comments",
       "index": 6
+    },
+    {
+      "title": "Recovering videos from my Sony camera that I stupidly deleted",
+      "href": "https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted",
+      "points": "21 points",
+      "comments": "15 comments",
+      "index": 7
+    },
+    {
+      "title": "We're open-sourcing the successor of Jupyter notebook",
+      "href": "https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook",
+      "points": "4 points",
+      "comments": "2 comments",
+      "index": 8
     },
     {
       "title": "This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours",
       "href": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
-      "points": "63 points",
-      "comments": "29 comments",
-      "index": 7
-    },
-    {
-      "title": "Show HN: I built a local-first daily planner for iOS",
-      "href": "https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874",
-      "points": "40 points",
-      "comments": "27 comments",
-      "index": 8
-    },
-    {
-      "title": "US startup Substrate announces chipmaking tool that it says will rival ASML",
-      "href": "https://www.reuters.com/world/asia-pacific/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml-2025-10-28/",
-      "points": "57 points",
-      "comments": "29 comments",
+      "points": "107 points",
+      "comments": "56 comments",
       "index": 9
+    },
+    {
+      "title": "Chaining FFmpeg with a Browser Agent",
+      "href": "https://100x.bot/a/chaining-ffmpeg-with-browser-agent",
+      "points": "62 points",
+      "comments": "36 comments",
+      "index": 10
+    },
+    {
+      "title": "Michael Burry a.k.a. \"Big Short\",discloses $1.1B bet against Nvidia&Palantir",
+      "href": "https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/",
+      "points": "71 points",
+      "comments": "48 comments",
+      "index": 11
+    },
+    {
+      "title": "The Rust Foundation Maintainers Fund",
+      "href": "https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/",
+      "points": "25 points",
+      "comments": "9 comments",
+      "index": 12
     },
     {
       "title": "Bloom filters are good for search that does not scale",
       "href": "https://notpeerreviewed.com/blog/bloom-filters/",
-      "points": "117 points",
-      "comments": "17 comments",
-      "index": 10
-    },
-    {
-      "title": "My Truck Desk",
-      "href": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
-      "points": "304 points",
-      "comments": "67 comments",
-      "index": 11
+      "points": "127 points",
+      "comments": "25 comments",
+      "index": 13
     },
     {
       "title": "How devtools map minified JS code back to your TypeScript source code",
       "href": "https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals",
-      "points": "13 points",
-      "comments": "4 comments",
-      "index": 12
+      "points": "22 points",
+      "comments": "6 comments",
+      "index": 14
     },
     {
-      "title": "You can't cURL a Border",
-      "href": "https://drobinin.com/posts/you-cant-curl-a-border/",
-      "points": "376 points",
-      "comments": "195 comments",
-      "index": 13
+      "title": "My Truck Desk",
+      "href": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
+      "points": "332 points",
+      "comments": "70 comments",
+      "index": 15
     },
     {
       "title": "Customize Nano Text Editor",
       "href": "https://shafi.ddns.net/blog/customize-nano-text-editor",
-      "points": "65 points",
-      "comments": "30 comments",
-      "index": 14
+      "points": "80 points",
+      "comments": "35 comments",
+      "index": 16
     },
     {
       "title": "The 512KB Club",
       "href": "https://512kb.club/",
-      "points": "34 points",
-      "comments": "25 comments",
-      "index": 15
-    },
-    {
-      "title": "YouTube AI error costs creator his channel over alleged link to Japanese account",
-      "href": "https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/",
-      "points": "15 points",
-      "comments": "5 comments",
-      "index": 16
-    },
-    {
-      "title": "Things you can do with diodes",
-      "href": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
-      "points": "319 points",
-      "comments": "84 comments",
+      "points": "61 points",
+      "comments": "39 comments",
       "index": 17
     },
     {
       "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
       "href": "item?id=45807775",
-      "points": "294 points",
-      "comments": "266 comments",
+      "points": "368 points",
+      "comments": "328 comments",
       "index": 18
     },
     {
-      "title": "When stick figures fought",
-      "href": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
-      "points": "285 points",
-      "comments": "99 comments",
+      "title": "Normalize Identifying Corporate Devices in Your Software",
+      "href": "https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/",
+      "points": "8 points",
+      "comments": "1 comment",
       "index": 19
+    },
+    {
+      "title": "Things you can do with diodes",
+      "href": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
+      "points": "330 points",
+      "comments": "89 comments",
+      "index": 20
+    },
+    {
+      "title": "You can't cURL a Border",
+      "href": "https://drobinin.com/posts/you-cant-curl-a-border/",
+      "points": "390 points",
+      "comments": "211 comments",
+      "index": 21
     },
     {
       "title": "AI's Dial-Up Era",
       "href": "https://www.wreflection.com/p/ai-dial-up-era",
-      "points": "396 points",
-      "comments": "350 comments",
-      "index": 20
+      "points": "408 points",
+      "comments": "371 comments",
+      "index": 22
+    },
+    {
+      "title": "When stick figures fought",
+      "href": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
+      "points": "296 points",
+      "comments": "105 comments",
+      "index": 23
+    },
+    {
+      "title": "Data breach at major Swedish software supplier impacts 1.5M",
+      "href": "https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/",
+      "points": "17 points",
+      "comments": "5 comments",
+      "index": 24
+    },
+    {
+      "title": "US nuclear weapons testing can forever scar a nation.Just ask Marshall Island",
+      "href": "https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-dst",
+      "points": "26 points",
+      "comments": "31 comments",
+      "index": 25
+    },
+    {
+      "title": "Show HN: I built a local-first daily planner for iOS",
+      "href": "https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874",
+      "points": "53 points",
+      "comments": "41 comments",
+      "index": 26
     },
     {
       "title": "Reverse-engineered CUPS driver for Phomemo receipt/label printers",
       "href": "https://github.com/vivier/phomemo-tools",
-      "points": "63 points",
-      "comments": "16 comments",
-      "index": 21
+      "points": "68 points",
+      "comments": "17 comments",
+      "index": 27
+    },
+    {
+      "title": "Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers",
+      "href": "https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent",
+      "points": "99 points",
+      "comments": "89 comments",
+      "index": 28
     },
     {
       "title": "Aisuru botnet shifts from DDoS to residential proxies",
       "href": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "points": "30 points",
-      "comments": "7 comments",
-      "index": 22
-    },
-    {
-      "title": "Tenacity – a multi-track audio editor/recorder",
-      "href": "https://tenacityaudio.org",
-      "points": "90 points",
-      "comments": "27 comments",
-      "index": 23
-    },
-    {
-      "title": "A friendly tour of process memory on Linux",
-      "href": "https://www.0xkato.xyz/linux-process-memory/",
-      "points": "206 points",
-      "comments": "19 comments",
-      "index": 24
-    },
-    {
-      "title": "Ask HN: Who is hiring? (November 2025)",
-      "href": "item?id=45800465",
-      "points": "369 points",
-      "comments": "431 comments",
-      "index": 25
-    },
-    {
-      "title": "The Farmer Was Replaced [video]",
-      "href": "https://www.youtube.com/watch?v=aP2WHQKJVsw",
-      "points": "85 points",
-      "comments": "44 comments",
-      "index": 26
-    },
-    {
-      "title": "USDA Threatens Stores Giving Discounts to People on Food Stamps",
-      "href": "https://newrepublic.com/post/202604/usda-threatens-grocery-stores-discounts-people-food-stamps",
-      "points": "12 points",
-      "comments": "3 comments",
-      "index": 27
-    },
-    {
-      "title": "The Art of Atari (2016)",
-      "href": "http://www.artofatari.com",
-      "points": "32 points",
-      "comments": "8 comments",
-      "index": 28
-    },
-    {
-      "title": "Learning from Sudoku Solvers (2007)",
-      "href": "http://ravimohan.blogspot.com/2007/04/learning-from-sudoku-solvers.html",
-      "points": "12 points",
-      "comments": "6 comments",
+      "points": "33 points",
+      "comments": "10 comments",
       "index": 29
     },
     {
-      "title": "Learning to read Arthur Whitney's C to become smart (2024)",
-      "href": "https://needleful.net/blog/2024/01/arthur_whitney.html",
-      "points": "331 points",
-      "comments": "149 comments",
+      "title": "YouTube AI error costs creator his channel over alleged link to Japanese account",
+      "href": "https://piunikaweb.com/2025/11/04/youtube-ai-error-terminates-enderman-channel/",
+      "points": "75 points",
+      "comments": "54 comments",
       "index": 30
     }
   ]
