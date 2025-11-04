@@ -1,5 +1,5 @@
 {
-  "date": "Monday, November 3, 2025 at 10:10 PM GMT-5",
+  "date": "Monday, November 3, 2025 at 11:25 PM GMT-5",
   "articles": [
     {
       "title": "CHERIoT 1.0 Released",
@@ -12,7 +12,7 @@
       "title": "CAST(x AS STRING) casts to integer in SQLite",
       "href": "https://lalitm.com/cast-x-as-string-casts-to-integer-in-sqlite/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 2
     },
     {
@@ -40,7 +40,7 @@
       "title": "RDSEED Failure on AMD “Zen 5” Processors",
       "href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7055.html",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 6
     },
     {
@@ -79,31 +79,31 @@
       "index": 11
     },
     {
+      "title": "\"You Don't Need Kafka, Just Use Postgres\" Considered Harmful",
+      "href": "https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 12
+    },
+    {
       "title": "A prison of my own making",
       "href": "https://jsteuernagel.de/posts/a-prison-of-my-own-making/",
       "points": "",
       "comments": "\n              63 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "A Soiree into Symbols in Ruby",
       "href": "https://tech.stonecharioteer.com/posts/2025/ruby-symbols/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Don't give Postgres too much memory",
       "href": "https://vondra.me/posts/dont-give-postgres-too-much-memory/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "\"You Don't Need Kafka, Just Use Postgres\" Considered Harmful",
-      "href": "https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 15
     },
     {
@@ -114,17 +114,17 @@
       "index": 16
     },
     {
-      "title": "\"Why don't you use dependent types?\"",
-      "href": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 17
-    },
-    {
       "title": "Free software scares normal people",
       "href": "http://danieldelaney.net/normal/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
+      "title": "\"Why don't you use dependent types?\"",
+      "href": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 18
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
+      "title": "Defeating KASLR by Doing Nothing at All",
+      "href": "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
       "title": "Notes by djb on using Fil-C",
       "href": "https://cr.yp.to/2025/fil-c.html",
       "points": "",
       "comments": "\n              31 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Setting up a very simple home router with OpenBSD",
       "href": "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Using Assisted-by commit footers instead of banning AI tools",
-      "href": "https://xeiaso.net/notes/2025/assisted-by-footer/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 25
     }
   ]
