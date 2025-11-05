@@ -1,32 +1,32 @@
 {
-  "date": "Wednesday, November 5, 2025 at 8:30 AM GMT-5",
+  "date": "Wednesday, November 5, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Things I Don't Like in Configuration Languages",
       "href": "https://medv.io/blog/things-i-dont-like-in-configuration-languages",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              25 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "A Short Survey of Compiler Backends",
+      "href": "https://abhinavsarkar.net/notes/2025-compiler-backend-survey/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 2
     },
     {
       "title": "SocketAddrV6 is not roundtrip serializable",
       "href": "https://sunshowers.io/posts/socketaddrv6-not-roundtrip/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 2
+      "comments": "\n              10 comments\n            ",
+      "index": 3
     },
     {
       "title": "Tag proposal: self-hosting",
       "href": "/s/uxim1u/tag_proposal_self_hosting",
       "points": "",
       "comments": "\n              41 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "A Short Survey of Compiler Backends",
-      "href": "https://abhinavsarkar.net/notes/2025-compiler-backend-survey/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 4
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
-      "title": "I made a website that vibe-codes itself",
-      "href": "https://theboard.stavros.io",
+      "title": "apps.apple.com: App Store web version",
+      "href": "https://github.com/rxliuli/apps.apple.com",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 7
     },
     {
-      "title": "What laptops are Lobsters rocking in 2025?",
-      "href": "/s/wjs6o2/what_laptops_are_lobsters_rocking_2025",
+      "title": "I made a website that vibe-codes itself",
+      "href": "https://theboard.stavros.io",
       "points": "",
-      "comments": "\n              284 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 8
     },
     {
@@ -65,24 +65,24 @@
       "index": 9
     },
     {
-      "title": "apps.apple.com: App Store web version",
-      "href": "https://github.com/rxliuli/apps.apple.com",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 10
-    },
-    {
       "title": "What is cosh(List(Bool))? Or beyond algebra: analysis of data types",
       "href": "https://cofault.com/aodt.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "What laptops are Lobsters rocking in 2025?",
+      "href": "/s/wjs6o2/what_laptops_are_lobsters_rocking_2025",
+      "points": "",
+      "comments": "\n              286 comments\n            ",
       "index": 11
     },
     {
-      "title": "Pain points of OCaml",
-      "href": "https://quamserena.com/2025-11-03/pain-points-of-ocaml",
+      "title": "Strange Attractors",
+      "href": "https://blog.shashanktomar.com/posts/strange-attractors",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 12
     },
     {
@@ -93,29 +93,29 @@
       "index": 13
     },
     {
+      "title": "Pain points of OCaml",
+      "href": "https://quamserena.com/2025-11-03/pain-points-of-ocaml",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
+      "index": 14
+    },
+    {
       "title": "Why Engineers Can't Be Rational About Programming Languages",
       "href": "https://spf13.com/p/the-hidden-conversation/",
       "points": "",
       "comments": "\n              67 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Free software scares normal people",
       "href": "http://danieldelaney.net/normal/",
       "points": "",
-      "comments": "\n              43 comments\n            ",
-      "index": 15
+      "comments": "\n              46 comments\n            ",
+      "index": 16
     },
     {
       "title": "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
       "href": "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Strange Attractors",
-      "href": "https://blog.shashanktomar.com/posts/strange-attractors",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 17
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "Why BAML?",
+      "href": "https://docs.boundaryml.com/guide/introduction/why-baml",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
       "title": "This Month in Redox - October 2025",
       "href": "https://www.redox-os.org/news/this-month-251031/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "reagami: A minimal zero-deps Reagent-like for Squint and ClojureScript",
       "href": "https://github.com/borkdude/reagami",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "State of Terminal Emulators in 2025: The Errant Champions",
       "href": "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/",
       "points": "",
       "comments": "\n              28 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "AWS DynamoDB Outage Analysis",
       "href": "https://entropicthoughts.com/aws-dynamodb-outage-stpa",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "JVM exceptions are weird: a decompiler perspective",
-      "href": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
