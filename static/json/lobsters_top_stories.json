@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, November 5, 2025 at 12:20 PM GMT-5",
+  "date": "Wednesday, November 5, 2025 at 1:30 PM GMT-5",
   "articles": [
     {
       "title": "A Short Survey of Compiler Targets",
@@ -12,14 +12,14 @@
       "title": "Things I Don't Like in Configuration Languages",
       "href": "https://medv.io/blog/things-i-dont-like-in-configuration-languages",
       "points": "",
-      "comments": "\n              38 comments\n            ",
+      "comments": "\n              39 comments\n            ",
       "index": 2
     },
     {
       "title": "What laptops are Lobsters rocking in 2025 -- collected data",
       "href": "https://alopex.li/data/lobsters-laptops-2025.ods",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 3
     },
     {
@@ -37,24 +37,24 @@
       "index": 5
     },
     {
-      "title": "SocketAddrV6 is not roundtrip serializable",
-      "href": "https://sunshowers.io/posts/socketaddrv6-not-roundtrip/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 6
-    },
-    {
       "title": "Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point",
       "href": "https://jstrieb.github.io/posts/random-instructions/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "SocketAddrV6 is not roundtrip serializable",
+      "href": "https://sunshowers.io/posts/socketaddrv6-not-roundtrip/",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 7
     },
     {
-      "title": "Tag proposal: self-hosting",
-      "href": "/s/uxim1u/tag_proposal_self_hosting",
+      "title": "Strange Attractors",
+      "href": "https://blog.shashanktomar.com/posts/strange-attractors",
       "points": "",
-      "comments": "\n              41 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 8
     },
     {
@@ -65,73 +65,73 @@
       "index": 9
     },
     {
-      "title": "Strange Attractors",
-      "href": "https://blog.shashanktomar.com/posts/strange-attractors",
+      "title": "Tag proposal: self-hosting",
+      "href": "/s/uxim1u/tag_proposal_self_hosting",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              42 comments\n            ",
       "index": 10
-    },
-    {
-      "title": "FreeBSD Officially Supported in OCI Runtime Specification v1.3",
-      "href": "https://freebsdfoundation.org/blog/freebsd-officially-supported-in-oci-runtime-specification-v1-3/",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "What is cosh(List(Bool))? Or beyond algebra: analysis of data types",
-      "href": "https://cofault.com/aodt.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 12
-    },
-    {
-      "title": "Zensical: A modern static site generator",
-      "href": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
-      "title": "I made a website that vibe-codes itself",
-      "href": "https://theboard.stavros.io",
-      "points": "",
-      "comments": "\n              20 comments\n            ",
-      "index": 14
     },
     {
       "title": "Mr TIFF",
       "href": "https://inventingthefuture.ghost.io/mr-tiff/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 15
+      "index": 11
     },
     {
-      "title": "What laptops are Lobsters rocking in 2025?",
-      "href": "/s/wjs6o2/what_laptops_are_lobsters_rocking_2025",
+      "title": "FreeBSD Officially Supported in OCI Runtime Specification v1.3",
+      "href": "https://freebsdfoundation.org/blog/freebsd-officially-supported-in-oci-runtime-specification-v1-3/",
       "points": "",
-      "comments": "\n              289 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "LixCon in 2026",
-      "href": "https://lix.systems/blog/2025-11-05-lixcon-2026/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
+      "comments": "\n              20 comments\n            ",
+      "index": 12
     },
     {
       "title": "Myna: monospace typeface designed for symbol-heavy programming languages",
       "href": "https://github.com/sayyadirfanali/Myna",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Zensical: A modern static site generator",
+      "href": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
+      "title": "What is cosh(List(Bool))? Or beyond algebra: analysis of data types",
+      "href": "https://cofault.com/aodt.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
+      "title": "LixCon in 2026",
+      "href": "https://lix.systems/blog/2025-11-05-lixcon-2026/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "oss-security - runc container breakouts via procfs writes: CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881",
+      "href": "https://www.openwall.com/lists/oss-security/2025/11/05/3",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "I made a website that vibe-codes itself",
+      "href": "https://theboard.stavros.io",
+      "points": "",
+      "comments": "\n              23 comments\n            ",
       "index": 18
     },
     {
-      "title": "You don't need Kafka: Building a message queue with only two UNIX signals",
-      "href": "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals",
+      "title": "What laptops are Lobsters rocking in 2025?",
+      "href": "/s/wjs6o2/what_laptops_are_lobsters_rocking_2025",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              292 comments\n            ",
       "index": 19
     },
     {
@@ -142,10 +142,10 @@
       "index": 20
     },
     {
-      "title": "Pain points of OCaml",
-      "href": "https://quamserena.com/2025-11-03/pain-points-of-ocaml",
+      "title": "Bikeshedding `Handle` and other follow-up thoughts",
+      "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/05/bikeshedding-handle/",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
@@ -156,22 +156,22 @@
       "index": 22
     },
     {
-      "title": "Why Engineers Can't Be Rational About Programming Languages",
-      "href": "https://spf13.com/p/the-hidden-conversation/",
+      "title": "You don't need Kafka: Building a message queue with only two UNIX signals",
+      "href": "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals",
       "points": "",
-      "comments": "\n              71 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 23
     },
     {
-      "title": "Preventing Kubernetes from Pulling the Pause Image from the Internet",
-      "href": "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/",
+      "title": "Pain points of OCaml",
+      "href": "https://quamserena.com/2025-11-03/pain-points-of-ocaml",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 24
     },
     {
-      "title": "oss-security - runc container breakouts via procfs writes: CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881",
-      "href": "https://www.openwall.com/lists/oss-security/2025/11/05/3",
+      "title": "Using XDP for Egress Traffic",
+      "href": "https://www.loopholelabs.io/blog/xdp-for-egress-traffic",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
