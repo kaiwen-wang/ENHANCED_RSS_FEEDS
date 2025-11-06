@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, November 6, 2025 at 5:20 PM GMT-5",
+  "date": "Thursday, November 6, 2025 at 6:15 PM GMT-5",
   "articles": [
     {
       "title": "A note on Fil-C",
       "href": "https://graydon2.dreamwidth.org/320265.html",
       "points": "",
-      "comments": "\n              41 comments\n            ",
+      "comments": "\n              48 comments\n            ",
       "index": 1
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
+      "title": "Firefox Forcing LLM Features",
+      "href": "https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 6
+    },
+    {
       "title": "Myna: monospace typeface designed for symbol-heavy programming languages",
       "href": "https://github.com/sayyadirfanali/Myna",
       "points": "",
       "comments": "\n              60 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Firefox Forcing LLM Features",
-      "href": "https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 7
     },
     {
@@ -65,87 +65,87 @@
       "index": 9
     },
     {
+      "title": "Unix V4 tape found at The University of Utah",
+      "href": "https://phanpy.social/#/hachyderm.io/s/115504720323483804",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 10
+    },
+    {
       "title": "Self-hosting your Mastodon media with SeaweedFS",
       "href": "https://it-notes.dragas.net/2025/11/06/self-hosting-your-mastodon-media-with-seaweedfs/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Radiant Computer",
       "href": "https://radiant.computer",
       "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 11
+      "comments": "\n              23 comments\n            ",
+      "index": 12
     },
     {
       "title": "gem.coop update #1",
       "href": "https://gem.coop/updates/1/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Announcing Development on Flirt",
       "href": "https://blog.buenzli.dev/announcing-development-on-flirt",
       "points": "",
       "comments": "\n              19 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Man Pages (Part 1)",
-      "href": "https://abochannek.github.io/utilities/2024/12/08/man-pages.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 14
-    },
-    {
-      "title": "Löb and möb: strange loops in Haskell",
-      "href": "https://github.com/quchen/articles/blob/master/loeb-moeb.md",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "A security model for systemd",
-      "href": "https://lwn.net/SubscriberLink/1042888/709de1191e6d4e1d/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Exceptions in Cranelift and Wasmtime",
-      "href": "https://cfallin.org/blog/2025/11/06/exceptions/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Mörk - a Commonmark compliant markdown parser written in Gleam",
-      "href": "https://hexdocs.pm/mork/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Try Out JEP 401 Value Classes and Objects",
-      "href": "https://inside.java/2025/10/27/try-jep-401-value-classes/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point",
-      "href": "https://jstrieb.github.io/posts/random-instructions/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 20
     },
     {
       "title": "Code research projects with async coding agents like Claude Code and Codex",
       "href": "https://simonwillison.net/2025/Nov/6/async-code-research/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Man Pages (Part 1)",
+      "href": "https://abochannek.github.io/utilities/2024/12/08/man-pages.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "A security model for systemd",
+      "href": "https://lwn.net/SubscriberLink/1042888/709de1191e6d4e1d/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Löb and möb: strange loops in Haskell",
+      "href": "https://github.com/quchen/articles/blob/master/loeb-moeb.md",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "When Your Hash Becomes a String: Hunting a Ruby Million-to-One Memory Bug",
+      "href": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Exceptions in Cranelift and Wasmtime",
+      "href": "https://cfallin.org/blog/2025/11/06/exceptions/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Mörk - a Commonmark compliant markdown parser written in Gleam",
+      "href": "https://hexdocs.pm/mork/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 21
     },
     {
@@ -156,17 +156,17 @@
       "index": 22
     },
     {
-      "title": "A Short Survey of Compiler Targets",
-      "href": "https://abhinavsarkar.net/notes/2025-compiler-backend-survey/",
+      "title": "Try Out JEP 401 Value Classes and Objects",
+      "href": "https://inside.java/2025/10/27/try-jep-401-value-classes/",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 23
     },
     {
-      "title": "When Your Hash Becomes a String: Hunting a Ruby Million-to-One Memory Bug",
-      "href": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
+      "title": "Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point",
+      "href": "https://jstrieb.github.io/posts/random-instructions/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 24
     },
     {
