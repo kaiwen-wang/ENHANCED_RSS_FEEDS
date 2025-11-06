@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, November 6, 2025 at 2:20 AM GMT-5",
+  "date": "Thursday, November 6, 2025 at 3:25 AM GMT-5",
   "articles": [
     {
       "title": "Myna: monospace typeface designed for symbol-heavy programming languages",
       "href": "https://github.com/sayyadirfanali/Myna",
       "points": "",
-      "comments": "\n              37 comments\n            ",
+      "comments": "\n              39 comments\n            ",
       "index": 1
     },
     {
       "title": "Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point",
       "href": "https://jstrieb.github.io/posts/random-instructions/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 2
     },
     {
@@ -37,66 +37,66 @@
       "index": 5
     },
     {
-      "title": "LixCon in 2026",
-      "href": "https://lix.systems/blog/2025-11-05-lixcon-2026/",
+      "title": "Mörk - a Commonmark compliant markdown parser written in Gleam",
+      "href": "https://hexdocs.pm/mork/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 6
     },
     {
-      "title": "oss-security - runc container breakouts via procfs writes: CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881",
-      "href": "https://www.openwall.com/lists/oss-security/2025/11/05/3",
+      "title": "LixCon in 2026",
+      "href": "https://lix.systems/blog/2025-11-05-lixcon-2026/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 7
-    },
-    {
-      "title": "Things I Don't Like in Configuration Languages",
-      "href": "https://medv.io/blog/things-i-dont-like-in-configuration-languages",
-      "points": "",
-      "comments": "\n              57 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "Strange Attractors",
-      "href": "https://blog.shashanktomar.com/posts/strange-attractors",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 9
     },
     {
       "title": "By the power of grayscale",
       "href": "https://zserge.com/posts/grayskull/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
+      "index": 8
+    },
+    {
+      "title": "oss-security - runc container breakouts via procfs writes: CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881",
+      "href": "https://www.openwall.com/lists/oss-security/2025/11/05/3",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 9
     },
     {
       "title": "Bikeshedding `Handle` and other follow-up thoughts",
       "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/05/bikeshedding-handle/",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Things I Don't Like in Configuration Languages",
+      "href": "https://medv.io/blog/things-i-dont-like-in-configuration-languages",
+      "points": "",
+      "comments": "\n              58 comments\n            ",
       "index": 11
+    },
+    {
+      "title": "Strange Attractors",
+      "href": "https://blog.shashanktomar.com/posts/strange-attractors",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 12
     },
     {
       "title": "apps.apple.com: App Store web version",
       "href": "https://github.com/rxliuli/apps.apple.com",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 12
+      "comments": "\n              9 comments\n            ",
+      "index": 13
     },
     {
       "title": "The state of SIMD in Rust in 2025",
       "href": "https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "SocketAddrV6 is not roundtrip serializable",
-      "href": "https://sunshowers.io/posts/socketaddrv6-not-roundtrip/",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "Löb and möb: strange loops in Haskell",
+      "href": "https://github.com/quchen/articles/blob/master/loeb-moeb.md",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "SocketAddrV6 is not roundtrip serializable",
+      "href": "https://sunshowers.io/posts/socketaddrv6-not-roundtrip/",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
+      "index": 17
+    },
+    {
       "title": "Mr TIFF",
       "href": "https://inventingthefuture.ghost.io/mr-tiff/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 16
+      "index": 18
     },
     {
       "title": "Preventing Kubernetes from Pulling the Pause Image from the Internet",
       "href": "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Announcing the Rust Foundation Maintainers Fund",
       "href": "https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
-      "title": "Mörk - a Commonmark compliant markdown parser written in Gleam",
-      "href": "https://hexdocs.pm/mork/",
+      "title": "Radiant Computer",
+      "href": "https://radiant.computer",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "A Lost IBM PC/AT Model? Analyzing a Newfound Old BIOS",
       "href": "https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Löb and möb: strange loops in Haskell",
-      "href": "https://github.com/quchen/articles/blob/master/loeb-moeb.md",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Tag proposal: self-hosting",
       "href": "/s/uxim1u/tag_proposal_self_hosting",
       "points": "",
       "comments": "\n              47 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Zensical: A modern static site generator",
       "href": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "What is cosh(List(Bool))? Or beyond algebra: analysis of data types",
       "href": "https://cofault.com/aodt.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "FreeBSD Officially Supported in OCI Runtime Specification v1.3",
-      "href": "https://freebsdfoundation.org/blog/freebsd-officially-supported-in-oci-runtime-specification-v1-3/",
-      "points": "",
-      "comments": "\n              20 comments\n            ",
       "index": 25
     }
   ]
