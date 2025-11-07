@@ -1,5 +1,5 @@
 {
-  "date": "Friday, November 7, 2025 at 6:15 AM GMT-5",
+  "date": "Friday, November 7, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "Unix V4 tape found at The University of Utah",
@@ -12,7 +12,7 @@
       "title": "A note on Fil-C",
       "href": "https://graydon2.dreamwidth.org/320265.html",
       "points": "",
-      "comments": "\n              72 comments\n            ",
+      "comments": "\n              75 comments\n            ",
       "index": 2
     },
     {
@@ -23,157 +23,157 @@
       "index": 3
     },
     {
+      "title": "Introduction to IncusOS",
+      "href": "https://linuxcontainers.org/incus-os/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 4
+    },
+    {
       "title": "Mastodon 4.5",
       "href": "https://blog.joinmastodon.org/2025/11/mastodon-4.5/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "jujutsu v0.35.0 released",
       "href": "https://github.com/jj-vcs/jj/releases/tag/v0.35.0",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "Introduction to IncusOS",
-      "href": "https://linuxcontainers.org/incus-os/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "How I fell in love with calendar.txt",
-      "href": "https://ploum.net/2025-09-03-calendar-txt.html",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
-      "index": 7
     },
     {
       "title": "I use Typst now",
       "href": "https://www.christopherbiscardi.com/i-use-typst-now",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 7
+    },
+    {
+      "title": "Typst-Unlit: Write literate Haskell programs in Typst",
+      "href": "https://cdn.oppi.li/typst-unlit.pdf",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 8
+    },
+    {
+      "title": "How I fell in love with calendar.txt",
+      "href": "https://ploum.net/2025-09-03-calendar-txt.html",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "AI's 70% Problem",
+      "href": "https://zed.dev/blog/ai-70-problem-addy-osmani",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 10
     },
     {
       "title": "Firefox Forcing LLM Features",
       "href": "https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
-      "index": 9
+      "comments": "\n              22 comments\n            ",
+      "index": 11
     },
     {
       "title": "You Should Write An Agent",
       "href": "https://fly.io/blog/everyone-write-an-agent/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Code research projects with async coding agents like Claude Code and Codex",
-      "href": "https://simonwillison.net/2025/Nov/6/async-code-research/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Upgrade to Puma 7 and Unlock the Power of Fair Scheduled Keep-alive",
-      "href": "https://www.heroku.com/blog/upgrade-to-puma-7-and-unlock-the-power-of-fair-scheduled-keep-alive/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 12
-    },
-    {
-      "title": "What the hell have you built",
-      "href": "https://wthhyb.sacha.house/",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Myna: monospace typeface designed for symbol-heavy programming languages",
-      "href": "https://github.com/sayyadirfanali/Myna",
-      "points": "",
-      "comments": "\n              60 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "AI's 70% Problem",
-      "href": "https://zed.dev/blog/ai-70-problem-addy-osmani",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "When Your Hash Becomes a String: Hunting a Ruby Million-to-One Memory Bug",
-      "href": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Self-hosting your Mastodon media with SeaweedFS",
-      "href": "https://it-notes.dragas.net/2025/11/06/self-hosting-your-mastodon-media-with-seaweedfs/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Building blobd: single-machine object store with sub-millisecond reads and 15 GB/s uploads",
-      "href": "https://blog.wilsonl.in/blobd/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Results from Testing Six AI Models on Advanced Security Exploits",
-      "href": "https://blog.kilocode.ai/p/we-tested-6-ai-models-on-3-advanced",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
     },
     {
       "title": "Linking and shrinking Rust static libraries: a tale of fire",
       "href": "https://centricular.com/devlog/2025-11/dragonfire/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Upgrade to Puma 7 and Unlock the Power of Fair Scheduled Keep-alive",
+      "href": "https://www.heroku.com/blog/upgrade-to-puma-7-and-unlock-the-power-of-fair-scheduled-keep-alive/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Code research projects with async coding agents like Claude Code and Codex",
+      "href": "https://simonwillison.net/2025/Nov/6/async-code-research/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "What the hell have you built",
+      "href": "https://wthhyb.sacha.house/",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Why I don’t test different designs at the same time",
+      "href": "https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Myna: monospace typeface designed for symbol-heavy programming languages",
+      "href": "https://github.com/sayyadirfanali/Myna",
+      "points": "",
+      "comments": "\n              61 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "When Your Hash Becomes a String: Hunting a Ruby Million-to-One Memory Bug",
+      "href": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Building blobd: single-machine object store with sub-millisecond reads and 15 GB/s uploads",
+      "href": "https://blog.wilsonl.in/blobd/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 20
+    },
+    {
+      "title": "Self-hosting your Mastodon media with SeaweedFS",
+      "href": "https://it-notes.dragas.net/2025/11/06/self-hosting-your-mastodon-media-with-seaweedfs/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Results from Testing Six AI Models on Advanced Security Exploits",
+      "href": "https://blog.kilocode.ai/p/we-tested-6-ai-models-on-3-advanced",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
     },
     {
       "title": "qq.fish: A tiny, local, LLM assistant to propose commands using LMStudio that (almost) everyone can run",
       "href": "https://github.com/dzervas/dotfiles/blob/main/home/fish-functions/qq.fish",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Radiant Computer",
       "href": "https://radiant.computer",
       "points": "",
       "comments": "\n              29 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "gem.coop update #1",
-      "href": "https://gem.coop/updates/1/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 23
-    },
-    {
-      "title": "Man Pages (Part 1)",
-      "href": "https://abochannek.github.io/utilities/2024/12/08/man-pages.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 24
     },
     {
-      "title": "Exceptions in Cranelift and Wasmtime",
-      "href": "https://cfallin.org/blog/2025/11/06/exceptions/",
+      "title": "Build a ClojureScript native desktop app in 5 minutes",
+      "href": "https://www.youtube.com/watch?v=uEVo8rqJgyw",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
