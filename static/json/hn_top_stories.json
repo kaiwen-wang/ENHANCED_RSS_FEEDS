@@ -1,214 +1,214 @@
 {
-  "date": "Friday, November 7, 2025 at 7:40 AM GMT-5",
+  "date": "Friday, November 7, 2025 at 8:30 AM GMT-5",
   "articles": [
+    {
+      "title": "We chose OCaml to write Stategraph",
+      "href": "https://stategraph.dev/blog/why-we-chose-ocaml",
+      "points": "12 points",
+      "comments": "1 comment",
+      "index": 1
+    },
     {
       "title": "Leaving Meta and PyTorch",
       "href": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
-      "points": "365 points",
-      "comments": "67 comments",
-      "index": 1
+      "points": "403 points",
+      "comments": "78 comments",
+      "index": 2
+    },
+    {
+      "title": "Is Software the UFOlogy of Engineering Disciplines?",
+      "href": "https://codemanship.wordpress.com/2025/11/07/is-software-the-ufology-of-engineering-disciplines/",
+      "points": "5 points",
+      "comments": "discuss",
+      "index": 3
+    },
+    {
+      "title": "From Memorization to Reasoning in the Spectrum of Loss Curvature",
+      "href": "https://arxiv.org/abs/2510.24256",
+      "points": "7 points",
+      "comments": "3 comments",
+      "index": 4
     },
     {
       "title": "A Fond Farewell",
       "href": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
-      "points": "287 points",
-      "comments": "95 comments",
-      "index": 2
+      "points": "302 points",
+      "comments": "105 comments",
+      "index": 5
+    },
+    {
+      "title": "PyTorch Helion",
+      "href": "https://pytorch.org/blog/helion/",
+      "points": "28 points",
+      "comments": "2 comments",
+      "index": 6
     },
     {
       "title": "You should write an agent",
       "href": "https://fly.io/blog/everyone-write-an-agent/",
-      "points": "758 points",
-      "comments": "310 comments",
-      "index": 3
-    },
-    {
-      "title": "Two billion email addresses were exposed",
-      "href": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
-      "points": "499 points",
-      "comments": "329 comments",
-      "index": 4
+      "points": "782 points",
+      "comments": "314 comments",
+      "index": 7
     },
     {
       "title": "OpenTelemetry: Escape Hatch from the Observability Cartel",
       "href": "https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view",
-      "points": "27 points",
-      "comments": "5 comments",
-      "index": 5
-    },
-    {
-      "title": "Text case changes the size of QR codes",
-      "href": "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/",
-      "points": "71 points",
-      "comments": "14 comments",
-      "index": 6
+      "points": "42 points",
+      "comments": "26 comments",
+      "index": 8
     },
     {
       "title": "Sweep (YC S23) is hiring to build autocomplete for JetBrains",
       "href": "https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern",
       "points": "",
       "comments": "hide",
-      "index": 7
+      "index": 9
+    },
+    {
+      "title": "Two billion email addresses were exposed",
+      "href": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
+      "points": "510 points",
+      "comments": "347 comments",
+      "index": 10
+    },
+    {
+      "title": "Text case changes the size of QR codes",
+      "href": "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/",
+      "points": "79 points",
+      "comments": "16 comments",
+      "index": 11
     },
     {
       "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
       "href": "https://moonshotai.github.io/Kimi-K2/thinking.html",
-      "points": "781 points",
-      "comments": "323 comments",
-      "index": 8
-    },
-    {
-      "title": "Game design is simple",
-      "href": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
-      "points": "339 points",
-      "comments": "101 comments",
-      "index": 9
-    },
-    {
-      "title": "The Silent Scientist: When Software Research Fails to Reach Its Audience",
-      "href": "https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/",
-      "points": "33 points",
-      "comments": "10 comments",
-      "index": 10
-    },
-    {
-      "title": "PyTorch Helion",
-      "href": "https://pytorch.org/blog/helion/",
-      "points": "6 points",
-      "comments": "discuss",
-      "index": 11
-    },
-    {
-      "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
-      "href": "https://book.sv",
-      "points": "435 points",
-      "comments": "157 comments",
+      "points": "786 points",
+      "comments": "334 comments",
       "index": 12
-    },
-    {
-      "title": "Lessons from Growing a Piracy Streaming Site",
-      "href": "https://prison.josh.mn/lessons",
-      "points": "163 points",
-      "comments": "82 comments",
-      "index": 13
-    },
-    {
-      "title": "A Note on Fil-C",
-      "href": "https://graydon2.dreamwidth.org/320265.html",
-      "points": "196 points",
-      "comments": "103 comments",
-      "index": 14
-    },
-    {
-      "title": "Cryptography 101 with Alfred Menezes",
-      "href": "https://cryptography101.ca",
-      "points": "57 points",
-      "comments": "7 comments",
-      "index": 15
-    },
-    {
-      "title": "Analysis indicates that the universe’s expansion is not accelerating",
-      "href": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding",
-      "points": "195 points",
-      "comments": "155 comments",
-      "index": 16
-    },
-    {
-      "title": "From web developer to database developer in 10 years",
-      "href": "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html",
-      "points": "88 points",
-      "comments": "31 comments",
-      "index": 17
-    },
-    {
-      "title": "We built a cloud GPU notebook that boots in seconds",
-      "href": "https://modal.com/blog/notebooks-internals",
-      "points": "49 points",
-      "comments": "14 comments",
-      "index": 18
-    },
-    {
-      "title": "Open Source Implementation of Apple's Private Compute Cloud",
-      "href": "https://github.com/openpcc/openpcc",
-      "points": "406 points",
-      "comments": "88 comments",
-      "index": 19
     },
     {
       "title": "Video games can alter reality",
       "href": "https://particle.scitech.org.au/tech/video-games-can-alter-reality/",
-      "points": "3 points",
-      "comments": "discuss",
+      "points": "12 points",
+      "comments": "9 comments",
+      "index": 13
+    },
+    {
+      "title": "'You're just ready:' Parents say ChatGPT encouraged son to kill himself",
+      "href": "https://www.cnn.com/2025/11/06/us/openai-chatgpt-uicide-lawsuit-invs-vis",
+      "points": "32 points",
+      "comments": "19 comments",
+      "index": 14
+    },
+    {
+      "title": "Game design is simple",
+      "href": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
+      "points": "352 points",
+      "comments": "113 comments",
+      "index": 15
+    },
+    {
+      "title": "The Silent Scientist: When Software Research Fails to Reach Its Audience",
+      "href": "https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/",
+      "points": "41 points",
+      "comments": "13 comments",
+      "index": 16
+    },
+    {
+      "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
+      "href": "https://book.sv",
+      "points": "449 points",
+      "comments": "163 comments",
+      "index": 17
+    },
+    {
+      "title": "Meta projected 10% of 2024 revenue came from scams",
+      "href": "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/",
+      "points": "28 points",
+      "comments": "8 comments",
+      "index": 18
+    },
+    {
+      "title": "A Note on Fil-C",
+      "href": "https://graydon2.dreamwidth.org/320265.html",
+      "points": "203 points",
+      "comments": "111 comments",
+      "index": 19
+    },
+    {
+      "title": "Cryptography 101 with Alfred Menezes",
+      "href": "https://cryptography101.ca",
+      "points": "64 points",
+      "comments": "7 comments",
       "index": 20
     },
     {
-      "title": "A startup’s quest to store electricity in the ocean",
-      "href": "https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/",
-      "points": "48 points",
-      "comments": "45 comments",
+      "title": "Analysis indicates that the universe’s expansion is not accelerating",
+      "href": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding",
+      "points": "203 points",
+      "comments": "157 comments",
       "index": 21
     },
     {
-      "title": "HTML Slides with notes",
-      "href": "https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides",
-      "points": "61 points",
-      "comments": "19 comments",
+      "title": "From web developer to database developer in 10 years",
+      "href": "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html",
+      "points": "99 points",
+      "comments": "32 comments",
       "index": 22
     },
     {
-      "title": "Dead Framework Theory",
-      "href": "https://aifoc.us/dead-framework-theory/",
-      "points": "60 points",
-      "comments": "63 comments",
+      "title": "1973 Implementation of Wordle Was Published by Dec (2022)",
+      "href": "https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/",
+      "points": "4 points",
+      "comments": "2 comments",
       "index": 23
     },
     {
-      "title": "Swift on FreeBSD Preview",
-      "href": "https://forums.swift.org/t/swift-on-freebsd-preview/83064",
-      "points": "217 points",
-      "comments": "137 comments",
+      "title": "Open Source Implementation of Apple's Private Compute Cloud",
+      "href": "https://github.com/openpcc/openpcc",
+      "points": "407 points",
+      "comments": "88 comments",
       "index": 24
     },
     {
-      "title": "Machine Scheduler in LLVM – Part II",
-      "href": "https://myhsu.xyz/llvm-machine-scheduler-2/",
-      "points": "11 points",
-      "comments": "discuss",
+      "title": "We built a cloud GPU notebook that boots in seconds",
+      "href": "https://modal.com/blog/notebooks-internals",
+      "points": "52 points",
+      "comments": "17 comments",
       "index": 25
     },
     {
-      "title": "Time Immemorial turns 750: The Medieval law that froze history at 1189",
-      "href": "https://www.ianvisits.co.uk/articles/time-immemorial-turns-750-the-medieval-law-that-froze-history-at-1189-84893/",
-      "points": "40 points",
-      "comments": "12 comments",
+      "title": "Lessons from Growing a Piracy Streaming Site",
+      "href": "https://prison.josh.mn/lessons",
+      "points": "168 points",
+      "comments": "98 comments",
       "index": 26
-    },
-    {
-      "title": "Word2Vec-style vector arithmetic on docs embeddings",
-      "href": "https://technicalwriting.dev/embeddings/arithmetic/index.html",
-      "points": "29 points",
-      "comments": "3 comments",
-      "index": 27
-    },
-    {
-      "title": "Eating stinging nettles",
-      "href": "https://rachel.blog/2018/04/29/eating-stinging-nettles/",
-      "points": "223 points",
-      "comments": "200 comments",
-      "index": 28
     },
     {
       "title": "JermCAD: Browser-Based CAD Software",
       "href": "https://github.com/jeremyaboyd/jerm-cad",
-      "points": "30 points",
+      "points": "34 points",
       "comments": "12 comments",
+      "index": 27
+    },
+    {
+      "title": "HTML Slides with notes",
+      "href": "https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides",
+      "points": "63 points",
+      "comments": "23 comments",
+      "index": 28
+    },
+    {
+      "title": "Dead Framework Theory",
+      "href": "https://aifoc.us/dead-framework-theory/",
+      "points": "67 points",
+      "comments": "76 comments",
       "index": 29
     },
     {
-      "title": "FBI tries to unmask owner of archive.is",
-      "href": "https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html",
-      "points": "907 points",
-      "comments": "456 comments",
+      "title": "Machine Scheduler in LLVM – Part II",
+      "href": "https://myhsu.xyz/llvm-machine-scheduler-2/",
+      "points": "12 points",
+      "comments": "discuss",
       "index": 30
     }
   ]
