@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, November 8, 2025 at 3:25 AM GMT-5",
+  "date": "Saturday, November 8, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "Why is Zig so cool?",
       "href": "https://nilostolte.github.io/tech/articles/ZigCool.html",
-      "points": "306 points",
-      "comments": "171 comments",
+      "points": "325 points",
+      "comments": "197 comments",
       "index": 1
     },
     {
       "title": "Snapchat open-sources Valdi a cross-platform UI framework",
       "href": "https://github.com/Snapchat/Valdi",
-      "points": "225 points",
-      "comments": "62 comments",
+      "points": "242 points",
+      "comments": "76 comments",
       "index": 2
     },
     {
       "title": "Becoming a Compiler Engineer",
       "href": "https://rona.substack.com/p/becoming-a-compiler-engineer",
-      "points": "202 points",
-      "comments": "88 comments",
+      "points": "211 points",
+      "comments": "91 comments",
       "index": 3
     },
     {
       "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
       "href": "https://github.com/sayyadirfanali/Myna",
-      "points": "251 points",
-      "comments": "116 comments",
+      "points": "261 points",
+      "comments": "123 comments",
       "index": 4
+    },
+    {
+      "title": "Friendly Attributes Pattern in Ruby",
+      "href": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
+      "points": "12 points",
+      "comments": "discuss",
+      "index": 5
     },
     {
       "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
       "href": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
-      "points": "67 points",
-      "comments": "22 comments",
-      "index": 5
+      "points": "71 points",
+      "comments": "25 comments",
+      "index": 6
     },
     {
-      "title": "How did I get here?",
-      "href": "https://how-did-i-get-here.net/",
-      "points": "200 points",
-      "comments": "36 comments",
-      "index": 6
+      "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
+      "href": "https://arxiv.org/abs/2511.02743",
+      "points": "6 points",
+      "comments": "discuss",
+      "index": 7
     },
     {
       "title": "How to find your ideal customer, right away",
       "href": "https://www.reifyworks.com/writing/2023-01-30-iicp",
-      "points": "22 points",
+      "points": "31 points",
       "comments": "3 comments",
-      "index": 7
+      "index": 8
+    },
+    {
+      "title": "How did I get here?",
+      "href": "https://how-did-i-get-here.net/",
+      "points": "204 points",
+      "comments": "36 comments",
+      "index": 9
     },
     {
       "title": "Why I love OCaml (2023)",
       "href": "https://mccd.space/posts/ocaml-the-worlds-best/",
-      "points": "320 points",
-      "comments": "221 comments",
-      "index": 8
+      "points": "324 points",
+      "comments": "226 comments",
+      "index": 10
     },
     {
       "title": "Ruby Solved My Problem",
       "href": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
-      "points": "215 points",
-      "comments": "87 comments",
-      "index": 9
+      "points": "220 points",
+      "comments": "89 comments",
+      "index": 11
     },
     {
       "title": "Local First Htmx",
       "href": "https://elijahm.com/posts/local_first_htmx/",
-      "points": "24 points",
-      "comments": "14 comments",
-      "index": 10
-    },
-    {
-      "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
-      "href": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
-      "points": "577 points",
-      "comments": "202 comments",
-      "index": 11
+      "points": "36 points",
+      "comments": "17 comments",
+      "index": 12
     },
     {
       "title": "Running a 68060 CPU in Quadra 650",
       "href": "https://github.com/ZigZagJoe/Macintosh-Q650-68060",
-      "points": "35 points",
-      "comments": "9 comments",
-      "index": 12
+      "points": "40 points",
+      "comments": "12 comments",
+      "index": 13
+    },
+    {
+      "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
+      "href": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
+      "points": "594 points",
+      "comments": "212 comments",
+      "index": 14
     },
     {
       "title": "FSF40 Hackathon",
       "href": "https://www.fsf.org/events/fsf40-hackathon",
-      "points": "77 points",
+      "points": "79 points",
       "comments": "2 comments",
-      "index": 13
+      "index": 15
     },
     {
       "title": "Venn Diagram for 7 Sets",
       "href": "https://moebio.com/research/sevensets/",
-      "points": "120 points",
-      "comments": "27 comments",
-      "index": 14
-    },
-    {
-      "title": "How a devboard works (and how to make your own)",
-      "href": "https://kaipereira.com/journal/build-a-devboard",
-      "points": "68 points",
-      "comments": "14 comments",
-      "index": 15
+      "points": "125 points",
+      "comments": "29 comments",
+      "index": 16
     },
     {
       "title": "Apple's \"notarisation\" – blocking software freedom of developers and users",
       "href": "https://fsfe.org/news/2025/news-20251105-01.en.html",
-      "points": "34 points",
-      "comments": "13 comments",
-      "index": 16
-    },
-    {
-      "title": "Show HN: Find matching acrylic paints for any HEX color",
-      "href": "https://acrylicmatch.com/",
-      "points": "18 points",
-      "comments": "8 comments",
+      "points": "59 points",
+      "comments": "28 comments",
       "index": 17
     },
     {
-      "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
-      "href": "https://www.cerebras.ai/code",
-      "points": "78 points",
-      "comments": "49 comments",
+      "title": "How a devboard works (and how to make your own)",
+      "href": "https://kaipereira.com/journal/build-a-devboard",
+      "points": "71 points",
+      "comments": "21 comments",
       "index": 18
     },
     {
       "title": "Angel Investors, a Field Guide",
       "href": "https://www.jeanyang.com/posts/angel-investors-a-field-guide/",
-      "points": "131 points",
-      "comments": "29 comments",
+      "points": "139 points",
+      "comments": "30 comments",
       "index": 19
     },
     {
       "title": "Transducer: Composition, abstraction, performance (2018)",
       "href": "https://funktionale-programmierung.de/en/2018/03/22/transducer.html",
-      "points": "93 points",
+      "points": "95 points",
       "comments": "3 comments",
       "index": 20
     },
     {
-      "title": "Using the Web Monetization API for fun and profit",
-      "href": "https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/",
-      "points": "56 points",
-      "comments": "15 comments",
+      "title": "Show HN: Find matching acrylic paints for any HEX color",
+      "href": "https://acrylicmatch.com/",
+      "points": "21 points",
+      "comments": "8 comments",
       "index": 21
     },
     {
       "title": "Can you save on LLM tokens using images instead of text?",
       "href": "https://pagewatch.ai/blog/post/llm-text-as-image-tokens/",
-      "points": "16 points",
-      "comments": "7 comments",
+      "points": "20 points",
+      "comments": "8 comments",
       "index": 22
     },
     {
       "title": "Ribir: Non-intrusive GUI framework for Rust/WASM",
       "href": "https://github.com/RibirX/Ribir",
-      "points": "58 points",
-      "comments": "8 comments",
+      "points": "61 points",
+      "comments": "9 comments",
       "index": 23
     },
     {
       "title": "Why I love my Boox Palma e-reader",
       "href": "https://minimal.bearblog.dev/why-i-love-my-boox-palma-e-reader/",
-      "points": "65 points",
-      "comments": "32 comments",
+      "points": "68 points",
+      "comments": "38 comments",
       "index": 24
-    },
-    {
-      "title": "Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication",
-      "href": "https://researchers.one/articles/24.01.00001v4",
-      "points": "54 points",
-      "comments": "39 comments",
-      "index": 25
     },
     {
       "title": "VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025",
       "href": "https://fsfe.org/news/2025/news-20251107-01.en.html",
-      "points": "317 points",
+      "points": "329 points",
+      "comments": "60 comments",
+      "index": 25
+    },
+    {
+      "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
+      "href": "https://www.cerebras.ai/code",
+      "points": "83 points",
       "comments": "56 comments",
       "index": 26
     },
     {
-      "title": "James Watson has died",
-      "href": "https://www.nytimes.com/2025/11/07/science/james-watson-dead.html",
-      "points": "295 points",
-      "comments": "159 comments",
+      "title": "Using the Web Monetization API for fun and profit",
+      "href": "https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/",
+      "points": "59 points",
+      "comments": "15 comments",
       "index": 27
     },
     {
-      "title": "Mullvad: Shutting down our search proxy Leta",
-      "href": "https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta",
-      "points": "111 points",
-      "comments": "64 comments",
+      "title": "James Watson has died",
+      "href": "https://www.nytimes.com/2025/11/07/science/james-watson-dead.html",
+      "points": "297 points",
+      "comments": "167 comments",
       "index": 28
     },
     {
-      "title": "WinObjC – The Windows Bridge for iOS",
-      "href": "https://github.com/microsoft/WinObjC",
-      "points": "43 points",
-      "comments": "10 comments",
+      "title": "Blood, Brick and Legend: The Chemistry of Dracula's Castle",
+      "href": "https://news.research.gatech.edu/2025/10/31/blood-brick-and-legend-chemistry-draculas-castle",
+      "points": "8 points",
+      "comments": "discuss",
       "index": 29
     },
     {
-      "title": "Shell Grotto: England's mysterious underground seashell chamber",
-      "href": "https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html",
-      "points": "19 points",
-      "comments": "7 comments",
+      "title": "Helion: A high-level DSL for performant and portable ML kernels",
+      "href": "https://pytorch.org/blog/helion/",
+      "points": "138 points",
+      "comments": "46 comments",
       "index": 30
     }
   ]
