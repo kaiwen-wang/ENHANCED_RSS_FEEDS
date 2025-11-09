@@ -1,25 +1,25 @@
 {
-  "date": "Sunday, November 9, 2025 at 5:15 PM GMT-5",
+  "date": "Sunday, November 9, 2025 at 6:15 PM GMT-5",
   "articles": [
     {
       "title": "The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10",
       "href": "https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 1
     },
     {
       "title": "About KeePassXC’s Code Quality Control",
       "href": "https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 2
     },
     {
       "title": "Why I don't love Rust (either) (2021)",
       "href": "https://cbarrete.com/rust-bad.html",
       "points": "",
-      "comments": "\n              29 comments\n            ",
+      "comments": "\n              32 comments\n            ",
       "index": 3
     },
     {
@@ -37,122 +37,122 @@
       "index": 5
     },
     {
+      "title": "A Plan for 5-10%* Faster Free-Threaded JIT by Python 3.16",
+      "href": "https://fidget-spinner.github.io/posts/faster-jit-plan.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 6
+    },
+    {
       "title": "How many options fit into a boolean?",
       "href": "https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Forth - is it still relevant?",
       "href": "https://github.com/chochain/eforth",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Value classes are the new data classes",
       "href": "https://curiouslab.dev/0002-value-classes-are-new-data-casses.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "opencloud - an alternative to nextcloud written in Go",
-      "href": "https://github.com/opencloud-eu/opencloud",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
       "index": 9
     },
     {
       "title": "Imperative to relational",
       "href": "https://madhadron.com/imperative_to_relational.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 10
     },
     {
       "title": "Sprites mods - Kid-cam firmware modding",
       "href": "https://spritesmods.com/?art=kid_cam",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 11
+    },
+    {
+      "title": "opencloud - an alternative to nextcloud written in Go",
+      "href": "https://github.com/opencloud-eu/opencloud",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
+      "index": 12
     },
     {
       "title": "The Ofcom Files, Part 2: IP Blocking the UK is Not Enough to Comply with the Online Safety Act",
       "href": "https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "email-verification-protocol: verified autofill",
-      "href": "https://github.com/WICG/email-verification-protocol",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 13
-    },
-    {
-      "title": "16-bit Data Pointers on RV32",
-      "href": "https://wren.wtf/shower-thoughts/16-bit-data-pointers-on-rv32/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Neovim vs Emacs | Roundtable w/ TJ DeVries, DistroTube, Greg Anders & Joshua Blais",
-      "href": "https://www.youtube.com/watch?v=SnhcXR9CKno",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
     },
     {
       "title": "Acme: A User Interface for Programmers (1994)",
       "href": "https://doc.cat-v.org/plan_9/4th_edition/papers/acme/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Local First HTMX",
-      "href": "https://elijahm.com/posts/local_first_htmx/",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 17
+      "index": 14
     },
     {
       "title": "Building a vector search engine that lets you choose precision at query time",
       "href": "https://clickhouse.com/blog/qbit-vector-search",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 18
+      "index": 15
     },
     {
-      "title": "Trait-Constrained Enums in Rust",
-      "href": "https://kcsongor.github.io/gadts-in-rust/",
+      "title": "Neovim vs Emacs | Roundtable w/ TJ DeVries, DistroTube, Greg Anders & Joshua Blais",
+      "href": "https://www.youtube.com/watch?v=SnhcXR9CKno",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 16
+    },
+    {
+      "title": "email-verification-protocol: verified autofill",
+      "href": "https://github.com/WICG/email-verification-protocol",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 17
     },
     {
       "title": "\"erase startup-config\" isn't enough",
       "href": "https://alyx.sh/posts/erase-startup-config/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "16-bit Data Pointers on RV32",
+      "href": "https://wren.wtf/shower-thoughts/16-bit-data-pointers-on-rv32/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Local First HTMX",
+      "href": "https://elijahm.com/posts/local_first_htmx/",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
       "index": 20
     },
     {
-      "title": "A Plan for 5-10%* Faster Free-Threaded JIT by Python 3.16",
-      "href": "https://fidget-spinner.github.io/posts/faster-jit-plan.html",
+      "title": "Software design patterns; Are there test cases or recipes for specific patterns?",
+      "href": "/s/ityd7h/software_design_patterns_are_there_test",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
-      "title": "Jelly Slider",
-      "href": "https://docs.swmansion.com/TypeGPU/examples/#example=rendering--jelly-slider",
+      "title": "Trait-Constrained Enums in Rust",
+      "href": "https://kcsongor.github.io/gadts-in-rust/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
+      "title": "Jelly Slider",
+      "href": "https://docs.swmansion.com/TypeGPU/examples/#example=rendering--jelly-slider",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 24
+    },
+    {
       "title": "The Return of Language-Oriented Programming",
       "href": "https://blog.evacchi.dev/posts/2025/11/09/the-return-of-language-oriented-programming/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Small Language Models are the Future of Agentic AI",
-      "href": "https://arxiv.org/pdf/2506.02153",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
       "index": 25
     }
   ]
