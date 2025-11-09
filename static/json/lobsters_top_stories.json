@@ -1,39 +1,39 @@
 {
-  "date": "Sunday, November 9, 2025 at 4:15 PM GMT-5",
+  "date": "Sunday, November 9, 2025 at 5:15 PM GMT-5",
   "articles": [
+    {
+      "title": "The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10",
+      "href": "https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "About KeePassXC’s Code Quality Control",
+      "href": "https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 2
+    },
     {
       "title": "Why I don't love Rust (either) (2021)",
       "href": "https://cbarrete.com/rust-bad.html",
       "points": "",
       "comments": "\n              29 comments\n            ",
-      "index": 1
+      "index": 3
     },
     {
       "title": "I worked for the Internet – now what?",
       "href": "https://trynova.dev/blog/worked-for-the-internet",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "About KeePassXC’s Code Quality Control",
-      "href": "https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10",
-      "href": "https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 4
     },
     {
       "title": "Ironclad, a formally verified Unix-like kernel written in Ada",
       "href": "https://ironclad-os.org/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 5
     },
     {
@@ -47,7 +47,7 @@
       "title": "Forth - is it still relevant?",
       "href": "https://github.com/chochain/eforth",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 7
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "Acme: A User Interface for Programmers (1994)",
+      "href": "https://doc.cat-v.org/plan_9/4th_edition/papers/acme/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
       "title": "Local First HTMX",
       "href": "https://elijahm.com/posts/local_first_htmx/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 16
+      "index": 17
+    },
+    {
+      "title": "Building a vector search engine that lets you choose precision at query time",
+      "href": "https://clickhouse.com/blog/qbit-vector-search",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 18
     },
     {
       "title": "Trait-Constrained Enums in Rust",
       "href": "https://kcsongor.github.io/gadts-in-rust/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 19
     },
     {
-      "title": "Acme: A User Interface for Programmers (1994)",
-      "href": "https://doc.cat-v.org/plan_9/4th_edition/papers/acme/",
+      "title": "\"erase startup-config\" isn't enough",
+      "href": "https://alyx.sh/posts/erase-startup-config/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
       "title": "A Plan for 5-10%* Faster Free-Threaded JIT by Python 3.16",
       "href": "https://fidget-spinner.github.io/posts/faster-jit-plan.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Building a CI/CD Pipeline Runner from Scratch in Python",
-      "href": "https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Jelly Slider",
       "href": "https://docs.swmansion.com/TypeGPU/examples/#example=rendering--jelly-slider",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
-      "title": "Building a vector search engine that lets you choose precision at query time",
-      "href": "https://clickhouse.com/blog/qbit-vector-search",
+      "title": "Building a CI/CD Pipeline Runner from Scratch in Python",
+      "href": "https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
+      "comments": "\n              7 comments\n            ",
+      "index": 23
     },
     {
       "title": "The Return of Language-Oriented Programming",
       "href": "https://blog.evacchi.dev/posts/2025/11/09/the-return-of-language-oriented-programming/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Small Language Models are the Future of Agentic AI",
       "href": "https://arxiv.org/pdf/2506.02153",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "GSOC 2025 Reports: Using bubblewrap to add sandboxing to NetBSD",
-      "href": "https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
