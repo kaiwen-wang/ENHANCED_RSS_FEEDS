@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, November 9, 2025 at 10:20 PM GMT-5",
+  "date": "Sunday, November 9, 2025 at 11:25 PM GMT-5",
   "articles": [
     {
       "title": "The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10",
@@ -12,7 +12,7 @@
       "title": "About KeePassXC’s Code Quality Control",
       "href": "https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 2
     },
     {
@@ -26,28 +26,28 @@
       "title": "Why I don't love Rust (either) (2021)",
       "href": "https://cbarrete.com/rust-bad.html",
       "points": "",
-      "comments": "\n              37 comments\n            ",
+      "comments": "\n              38 comments\n            ",
       "index": 4
+    },
+    {
+      "title": "Acme: A User Interface for Programmers (1994)",
+      "href": "https://doc.cat-v.org/plan_9/4th_edition/papers/acme/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 5
     },
     {
       "title": "I worked for the Internet – now what?",
       "href": "https://trynova.dev/blog/worked-for-the-internet",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Ironclad, a formally verified Unix-like kernel written in Ada",
       "href": "https://ironclad-os.org/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Acme: A User Interface for Programmers (1994)",
-      "href": "https://doc.cat-v.org/plan_9/4th_edition/papers/acme/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 7
     },
     {
@@ -65,38 +65,38 @@
       "index": 9
     },
     {
+      "title": "Error ABI",
+      "href": "https://matklad.github.io/2025/11/09/error-ABI.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
       "title": "Sprites mods - Kid-cam firmware modding",
       "href": "https://spritesmods.com/?art=kid_cam",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Forth - is it still relevant?",
       "href": "https://github.com/chochain/eforth",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "How many options fit into a boolean?",
       "href": "https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Value classes are the new data classes",
       "href": "https://curiouslab.dev/0002-value-classes-are-new-data-casses.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Error ABI",
-      "href": "https://matklad.github.io/2025/11/09/error-ABI.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 14
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "Trait-Constrained Enums in Rust",
-      "href": "https://kcsongor.github.io/gadts-in-rust/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
       "title": "Building a CI/CD Pipeline Runner from Scratch in Python",
       "href": "https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/",
       "points": "",
       "comments": "\n              7 comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "Trait-Constrained Enums in Rust",
+      "href": "https://kcsongor.github.io/gadts-in-rust/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
