@@ -1,53 +1,53 @@
 {
-  "date": "Monday, November 10, 2025 at 1:30 PM GMT-5",
+  "date": "Monday, November 10, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Vibe Code Warning – from 1k to 10k lines, a personal casestudy",
       "href": "https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 1
     },
     {
       "title": "Head in the Zed Cloud",
       "href": "https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 2
     },
     {
       "title": "Writing your own BEAM",
       "href": "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "In praise of dhh",
+      "href": "https://okayfail.com/2025/in-praise-of-dhh.html",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 4
     },
     {
       "title": "Opinion piece: On Zig (and the design choices within)",
       "href": "https://blueberrywren.dev/blog/on-zig/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 4
+      "index": 5
     },
     {
-      "title": "In praise of dhh",
-      "href": "https://okayfail.com/2025/in-praise-of-dhh.html",
+      "title": "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions",
+      "href": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext",
       "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 5
+      "comments": "\n              18 comments\n            ",
+      "index": 6
     },
     {
       "title": "Error ABI",
       "href": "https://matklad.github.io/2025/11/09/error-ABI.html",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions",
-      "href": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
       "index": 7
     },
     {
@@ -58,24 +58,24 @@
       "index": 8
     },
     {
-      "title": "SASS: The CSS Preprocessor That Survived the Apocalypse",
-      "href": "https://en.andros.dev/blog/e9ded1a5/sass-the-css-preprocessor-that-survived-the-apocalypse/",
+      "title": "Building a High-Performance Ticketing System with TigerBeetle",
+      "href": "https://renerocks.ai/blog/2025-11-02--tigerfans/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 9
     },
     {
-      "title": "Building a High-Performance Ticketing System with TigerBeetle",
-      "href": "https://renerocks.ai/blog/2025-11-02--tigerfans/",
+      "title": "Exposing Git Information in Rust Binaries Built With Nix",
+      "href": "https://lgug2z.com/articles/exposing-git-information-in-rust-binaries-built-with-nix/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 10
     },
     {
-      "title": "The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10",
-      "href": "https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun",
+      "title": "SASS: The CSS Preprocessor That Survived the Apocalypse",
+      "href": "https://en.andros.dev/blog/e9ded1a5/sass-the-css-preprocessor-that-survived-the-apocalypse/",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 11
     },
     {
@@ -86,92 +86,92 @@
       "index": 12
     },
     {
+      "title": "The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10",
+      "href": "https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
+      "index": 13
+    },
+    {
       "title": "Voxel Engine in a Weekend",
       "href": "https://daymare.net/blogs/voxel-engine-in-a-weekend/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "The Error Model (2016)",
       "href": "https://joeduffyblog.com/2016/02/07/the-error-model/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "A Plan for 5-10%* Faster Free-Threaded JIT by Python 3.16",
-      "href": "https://fidget-spinner.github.io/posts/faster-jit-plan.html",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 15
     },
     {
       "title": "What’s your favourite podcast at the moment?",
       "href": "/s/kinpl3/what_s_your_favourite_podcast_at_moment",
       "points": "",
-      "comments": "\n              43 comments\n            ",
+      "comments": "\n              45 comments\n            ",
       "index": 16
+    },
+    {
+      "title": "A Plan for 5-10%* Faster Free-Threaded JIT by Python 3.16",
+      "href": "https://fidget-spinner.github.io/posts/faster-jit-plan.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 17
     },
     {
       "title": "About KeePassXC’s Code Quality Control",
       "href": "https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/",
       "points": "",
       "comments": "\n              26 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Acme: A User Interface for Programmers (1994)",
       "href": "https://doc.cat-v.org/plan_9/4th_edition/papers/acme/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 18
+      "comments": "\n              5 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Memory Safety for Skeptics",
+      "href": "https://queue.acm.org/detail.cfm?id=3773095",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/ekawwc/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "a tale of vulkan/nouveau/nvk/zink/mutter + deadlocks",
       "href": "https://airlied.blogspot.com/2025/11/a-tale-of-vulkannouveaunvkzinkmutter.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Natural Language, Semantic Analysis, and Interactive Fiction (2006)",
       "href": "https://worrydream.com/refs/Nelson_G_2006_-_Natural_Language,_Semantic_Analysis_and_Interactive_Fiction.pdf",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "The Underwear Fixed Point",
       "href": "https://notes.hella.cheap/the-underwear-fixed-point.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "CSS Extraction Library for Vite and Preact",
       "href": "https://github.com/aziis98/preact-css-extract",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Memory Safety for Skeptics",
-      "href": "https://queue.acm.org/detail.cfm?id=3773095",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "The Mozilla Museum (2000)",
-      "href": "https://home.snafu.de/tilman/mozilla/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
