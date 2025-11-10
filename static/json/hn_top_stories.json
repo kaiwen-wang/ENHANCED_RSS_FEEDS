@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, November 9, 2025 at 6:15 PM GMT-5",
+  "date": "Sunday, November 9, 2025 at 8:40 PM GMT-5",
   "articles": [
+    {
+      "title": "Work After Work: Notes from an Unemployed New Grad Watching the Job Market Break",
+      "href": "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/",
+      "points": "109 points",
+      "comments": "47 comments",
+      "index": 1
+    },
+    {
+      "title": "How to maintain good vision amidst the myopia epidemic",
+      "href": "https://ssathe.substack.com/p/vision-in-the-digital-age",
+      "points": "15 points",
+      "comments": "2 comments",
+      "index": 2
+    },
+    {
+      "title": "My Git history was a mess of 'update' and 'fix' – so I made AI clean it up",
+      "href": "https://github.com/f/git-rewrite-commits",
+      "points": "6 points",
+      "comments": "4 comments",
+      "index": 3
+    },
     {
       "title": "Marble Fountain",
       "href": "https://willmorrison.net/posts/marble-fountain/",
-      "points": "399 points",
-      "comments": "48 comments",
-      "index": 1
+      "points": "490 points",
+      "comments": "55 comments",
+      "index": 4
+    },
+    {
+      "title": "Iran faces unprecedented drought as water crisis hits Tehran",
+      "href": "https://www.bbc.com/news/articles/cy4p2yzmem0o",
+      "points": "6 points",
+      "comments": "1 comment",
+      "index": 5
     },
     {
       "title": "Ask HN: What Are You Working On? (Nov 2025)",
       "href": "item?id=45869146",
-      "points": "64 points",
-      "comments": "198 comments",
-      "index": 2
-    },
-    {
-      "title": "JVM exceptions are weird: a decompiler perspective",
-      "href": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
-      "points": "39 points",
-      "comments": "2 comments",
-      "index": 3
+      "points": "119 points",
+      "comments": "366 comments",
+      "index": 6
     },
     {
       "title": "Montana becomes first state to enshrine 'right to compute' into law",
       "href": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
-      "points": "298 points",
-      "comments": "141 comments",
-      "index": 4
-    },
-    {
-      "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
-      "href": "https://www.youtube.com/watch?v=dy-wFixuRVU",
-      "points": "80 points",
-      "comments": "45 comments",
-      "index": 5
-    },
-    {
-      "title": "When Tesla's FSD works well, it gets credit. When it doesn't, you get blamed",
-      "href": "https://electrek.co/2025/11/08/schrodingers-fsd-when-things-go-well-teslas-driving-when-they-dont-you-are/",
-      "points": "56 points",
-      "comments": "11 comments",
-      "index": 6
-    },
-    {
-      "title": "The Manuscripts of Edsger W. Dijkstra",
-      "href": "https://www.cs.utexas.edu/~EWD/",
-      "points": "166 points",
-      "comments": "62 comments",
+      "points": "336 points",
+      "comments": "167 comments",
       "index": 7
     },
     {
-      "title": "The Principles of Diffusion Models",
-      "href": "https://arxiv.org/abs/2510.21890",
-      "points": "115 points",
-      "comments": "8 comments",
+      "title": "JVM exceptions are weird: a decompiler perspective",
+      "href": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
+      "points": "72 points",
+      "comments": "12 comments",
       "index": 8
-    },
-    {
-      "title": "'Up to 15 or 20′ air traffic controllers are retiring daily",
-      "href": "https://www.pennlive.com/nation-world/2025/11/up-to-15-or-20-air-traffic-controllers-are-retiring-daily-official-says.html",
-      "points": "44 points",
-      "comments": "22 comments",
-      "index": 9
-    },
-    {
-      "title": "The Sega Master System",
-      "href": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
-      "points": "39 points",
-      "comments": "10 comments",
-      "index": 10
-    },
-    {
-      "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
-      "href": "https://github.com/samcervantes/bumble-berry-pi",
-      "points": "85 points",
-      "comments": "18 comments",
-      "index": 11
-    },
-    {
-      "title": "CHIP8 – writing emulator, assembler, example game and VHDL hardware impl",
-      "href": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
-      "points": "42 points",
-      "comments": "3 comments",
-      "index": 12
-    },
-    {
-      "title": "The Computer Church – Pennsylvania Computer and Technology Museum",
-      "href": "https://www.thecomputerchurch.org/",
-      "points": "24 points",
-      "comments": "3 comments",
-      "index": 13
-    },
-    {
-      "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
-      "href": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
-      "points": "122 points",
-      "comments": "47 comments",
-      "index": 14
-    },
-    {
-      "title": "The Symbiosis of Rust and Arm: A Conversation with David Wood",
-      "href": "https://filtra.io/rust/interviews/arm-sep-25",
-      "points": "4 points",
-      "comments": "discuss",
-      "index": 15
-    },
-    {
-      "title": "Zensical – A modern static site generator built by the Material for MkDocs team",
-      "href": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
-      "points": "109 points",
-      "comments": "37 comments",
-      "index": 16
-    },
-    {
-      "title": "Solving Every Sudoku Puzzle (2006)",
-      "href": "https://norvig.com/sudoku.html",
-      "points": "24 points",
-      "comments": "4 comments",
-      "index": 17
-    },
-    {
-      "title": "When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug",
-      "href": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
-      "points": "74 points",
-      "comments": "35 comments",
-      "index": 18
-    },
-    {
-      "title": "Visualize FastAPI endpoints with FastAPI-Voyager",
-      "href": "https://www.newsyeah.fun/voyager/",
-      "points": "101 points",
-      "comments": "13 comments",
-      "index": 19
-    },
-    {
-      "title": "AI isn't replacing jobs. AI spending is",
-      "href": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
-      "points": "528 points",
-      "comments": "360 comments",
-      "index": 20
-    },
-    {
-      "title": "Using bubblewrap to add sandboxing to NetBSD",
-      "href": "https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing",
-      "points": "69 points",
-      "comments": "22 comments",
-      "index": 21
     },
     {
       "title": "Drilling down on Uncle Sam's proposed TP-Link ban",
       "href": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "points": "93 points",
-      "comments": "85 comments",
-      "index": 22
+      "points": "116 points",
+      "comments": "117 comments",
+      "index": 9
     },
     {
-      "title": "The overengineered solution to my pigeon problem (2022)",
-      "href": "https://maxnagy.com/posts/pigeons/",
-      "points": "68 points",
+      "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
+      "href": "https://www.youtube.com/watch?v=dy-wFixuRVU",
+      "points": "117 points",
+      "comments": "71 comments",
+      "index": 10
+    },
+    {
+      "title": "The Manuscripts of Edsger W. Dijkstra",
+      "href": "https://www.cs.utexas.edu/~EWD/",
+      "points": "183 points",
+      "comments": "70 comments",
+      "index": 11
+    },
+    {
+      "title": "If You're Not Active, You're Sick – You Just Don't Know It Yet",
+      "href": "https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you",
+      "points": "67 points",
+      "comments": "19 comments",
+      "index": 12
+    },
+    {
+      "title": "The Principles of Diffusion Models",
+      "href": "https://arxiv.org/abs/2510.21890",
+      "points": "135 points",
+      "comments": "13 comments",
+      "index": 13
+    },
+    {
+      "title": "Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB",
+      "href": "https://rajivm1991.github.io/DroidDock/",
+      "points": "7 points",
+      "comments": "discuss",
+      "index": 14
+    },
+    {
+      "title": "The Sega Master System",
+      "href": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
+      "points": "55 points",
+      "comments": "15 comments",
+      "index": 15
+    },
+    {
+      "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
+      "href": "https://github.com/samcervantes/bumble-berry-pi",
+      "points": "102 points",
+      "comments": "19 comments",
+      "index": 16
+    },
+    {
+      "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
+      "href": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
+      "points": "133 points",
       "comments": "51 comments",
-      "index": 23
+      "index": 17
     },
     {
-      "title": "Startups are pushing the boundaries of reproductive genetics",
-      "href": "https://www.wsj.com/tech/biotech/genetically-engineered-babies-tech-billionaires-6779efc8",
-      "points": "66 points",
-      "comments": "107 comments",
-      "index": 24
+      "title": "CHIP8 – writing emulator, assembler, example game and VHDL hardware impl",
+      "href": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
+      "points": "53 points",
+      "comments": "3 comments",
+      "index": 18
     },
     {
-      "title": "Python Software Foundation gets a donor surge after rejecting federal grant",
-      "href": "https://thenewstack.io/psf-gets-a-donor-surge-after-rejecting-anti-dei-federal-grant/",
-      "points": "128 points",
-      "comments": "63 comments",
-      "index": 25
+      "title": "Sued by Nintendo",
+      "href": "https://www.suedbynintendo.com/",
+      "points": "35 points",
+      "comments": "4 comments",
+      "index": 19
     },
     {
-      "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
-      "href": "https://ironclad-os.org/",
-      "points": "347 points",
-      "comments": "107 comments",
-      "index": 26
+      "title": "Zensical – A modern static site generator built by the Material for MkDocs team",
+      "href": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
+      "points": "124 points",
+      "comments": "41 comments",
+      "index": 20
     },
     {
-      "title": "I Am Mark Zuckerberg",
-      "href": "https://iammarkzuckerberg.com/",
-      "points": "1076 points",
-      "comments": "370 comments",
-      "index": 27
+      "title": "The Computer Church – Pennsylvania Computer and Technology Museum",
+      "href": "https://www.thecomputerchurch.org/",
+      "points": "39 points",
+      "comments": "8 comments",
+      "index": 21
     },
     {
-      "title": "Password to Louvre video surveillance system was 'Louvre', according to employee",
-      "href": "https://abcnews.go.com/International/password-louvres-video-surveillance-system-louvre-employee/story?id=127236297",
-      "points": "12 points",
-      "comments": "2 comments",
-      "index": 28
+      "title": "Visualize FastAPI endpoints with FastAPI-Voyager",
+      "href": "https://www.newsyeah.fun/voyager/",
+      "points": "108 points",
+      "comments": "18 comments",
+      "index": 22
     },
     {
       "title": "Email verification protocol",
       "href": "https://github.com/WICG/email-verification-protocol",
-      "points": "119 points",
-      "comments": "83 comments",
+      "points": "128 points",
+      "comments": "92 comments",
+      "index": 23
+    },
+    {
+      "title": "Using bubblewrap to add sandboxing to NetBSD",
+      "href": "https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing",
+      "points": "79 points",
+      "comments": "22 comments",
+      "index": 24
+    },
+    {
+      "title": "When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug",
+      "href": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
+      "points": "86 points",
+      "comments": "43 comments",
+      "index": 25
+    },
+    {
+      "title": "The overengineered solution to my pigeon problem (2022)",
+      "href": "https://maxnagy.com/posts/pigeons/",
+      "points": "74 points",
+      "comments": "54 comments",
+      "index": 26
+    },
+    {
+      "title": "Show HN: Trilogy Studio, open-source browser-based SQL editor and visualizer",
+      "href": "https://trilogydata.dev/trilogy-studio-core/#screen=dashboard-import&import=https%3A%2F%2Ftrilogy-data.github.io%2Ftrilogy-public-models%2Fstudio%2Fdemo-model.json&dashboard=demo_dashboard&modelName=demo-model&connection=duckdb",
+      "points": "3 points",
+      "comments": "1 comment",
+      "index": 27
+    },
+    {
+      "title": "Today I Learned: Binfmt_misc",
+      "href": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
+      "points": "5 points",
+      "comments": "1 comment",
+      "index": 28
+    },
+    {
+      "title": "Solving Every Sudoku Puzzle (2006)",
+      "href": "https://norvig.com/sudoku.html",
+      "points": "29 points",
+      "comments": "6 comments",
       "index": 29
     },
     {
-      "title": "William Gass and John Gardner: A Debate on Fiction (1979)",
-      "href": "https://medium.com/the-william-h-gass-interviews/william-h-gass-interviewed-by-thomas-leclair-with-john-gardner-1979-e6de4d424107",
-      "points": "10 points",
-      "comments": "discuss",
+      "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
+      "href": "https://ironclad-os.org/",
+      "points": "358 points",
+      "comments": "121 comments",
       "index": 30
     }
   ]
