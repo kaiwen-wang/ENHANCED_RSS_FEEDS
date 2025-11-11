@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, November 11, 2025 at 10:20 AM GMT-5",
+  "date": "Tuesday, November 11, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "Vibe Code Warning – from 1k to 10k lines, a personal casestudy",
@@ -23,24 +23,24 @@
       "index": 3
     },
     {
-      "title": "Opinion piece: On Zig (and the design choices within)",
-      "href": "https://blueberrywren.dev/blog/on-zig/",
-      "points": "",
-      "comments": "\n              37 comments\n            ",
-      "index": 4
-    },
-    {
       "title": "Decompression is up to 30% faster in CPython 3.15",
       "href": "https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 5
+      "index": 4
     },
     {
       "title": "Reimagine the Date Picker",
       "href": "https://dbushell.com/2025/11/10/pikaday/",
       "points": "",
       "comments": "\n              5 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Opinion piece: On Zig (and the design choices within)",
+      "href": "https://blueberrywren.dev/blog/on-zig/",
+      "points": "",
+      "comments": "\n              37 comments\n            ",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "TRMNL | E-ink dashboard to stay focused",
-      "href": "https://usetrmnl.com/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 8
-    },
-    {
       "title": "Scaling HNSWs",
       "href": "https://antirez.com/news/156",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 8
+    },
+    {
+      "title": "Advent of Code on the Z-machine",
+      "href": "https://entropicthoughts.com/advent-of-code-on-z-machine",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 9
     },
     {
@@ -72,50 +72,50 @@
       "index": 10
     },
     {
+      "title": "TRMNL | E-ink dashboard to stay focused",
+      "href": "https://usetrmnl.com/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Firefox expands fingerprint protections: advancing towards a more private web",
+      "href": "https://blog.mozilla.org/en/firefox/fingerprinting-protections/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
       "title": "In praise of dhh",
       "href": "https://okayfail.com/2025/in-praise-of-dhh.html",
       "points": "",
-      "comments": "\n              49 comments\n            ",
-      "index": 11
+      "comments": "\n              50 comments\n            ",
+      "index": 13
     },
     {
       "title": "Installing and using HP-UX 9",
       "href": "https://thejpster.org.uk/blog/blog-2025-11-08/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 14
     },
     {
       "title": "Exposing Git Information in Rust Binaries Built With Nix",
       "href": "https://lgug2z.com/articles/exposing-git-information-in-rust-binaries-built-with-nix/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Writing your own BEAM",
-      "href": "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Advent of Code on the Z-machine",
-      "href": "https://entropicthoughts.com/advent-of-code-on-z-machine",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 15
-    },
-    {
-      "title": "Memory Safety for Skeptics",
-      "href": "https://queue.acm.org/detail.cfm?id=3773095",
-      "points": "",
-      "comments": "\n              47 comments\n            ",
-      "index": 16
     },
     {
       "title": "The “Dependency Cutout” Workflow Pattern",
       "href": "https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Announcing .NET 10",
+      "href": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 17
@@ -124,28 +124,28 @@
       "title": "Trip report: November 2025 ISO C++ standards meeting (Kona, USA)",
       "href": "https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 18
+    },
+    {
+      "title": "Writing your own BEAM",
+      "href": "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Memory Safety for Skeptics",
+      "href": "https://queue.acm.org/detail.cfm?id=3773095",
+      "points": "",
+      "comments": "\n              47 comments\n            ",
+      "index": 20
     },
     {
       "title": "Building a High-Performance Ticketing System with TigerBeetle",
       "href": "https://renerocks.ai/blog/2025-11-02--tigerfans/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "The Underwear Fixed Point",
-      "href": "https://notes.hella.cheap/the-underwear-fixed-point.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Refreshing Apache XML Infrastructure",
-      "href": "https://blog.adamretter.org.uk/refreshing-apache-xml-infrastructure/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
@@ -159,21 +159,21 @@
       "title": "How Would You Like Your Iceberg Sir? Stream or Batch Ordered?",
       "href": "https://jack-vanlightly.com/blog/2025/11/5/how-would-you-like-your-iceberg-sir-stream-or-batch-ordered",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 23
-    },
-    {
-      "title": "Firefox expands fingerprint protections: advancing towards a more private web",
-      "href": "https://blog.mozilla.org/en/firefox/fingerprinting-protections/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
     },
     {
       "title": "A hypothetical search engine on S3 with Tantivy and warm cache on NVMe",
       "href": "https://www.shayon.dev/post/2025/314/a-hypothetical-search-engine-on-s3-with-tantivy-and-warm-cache-on-nvme/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "The Underwear Fixed Point",
+      "href": "https://notes.hella.cheap/the-underwear-fixed-point.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
