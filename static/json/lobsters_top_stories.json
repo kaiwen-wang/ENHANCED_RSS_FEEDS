@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, November 11, 2025 at 3:25 AM GMT-5",
+  "date": "Tuesday, November 11, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "Vibe Code Warning – from 1k to 10k lines, a personal casestudy",
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
-      "title": "Writing your own BEAM",
-      "href": "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 5
-    },
-    {
       "title": "Reimagine the Date Picker",
       "href": "https://dbushell.com/2025/11/10/pikaday/",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Writing your own BEAM",
+      "href": "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 6
     },
     {
@@ -51,31 +51,31 @@
       "index": 7
     },
     {
-      "title": "Building a High-Performance Ticketing System with TigerBeetle",
-      "href": "https://renerocks.ai/blog/2025-11-02--tigerfans/",
+      "title": "Installing and using HP-UX 9",
+      "href": "https://thejpster.org.uk/blog/blog-2025-11-08/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 8
     },
     {
       "title": "Memory Safety for Skeptics",
       "href": "https://queue.acm.org/detail.cfm?id=3773095",
       "points": "",
-      "comments": "\n              28 comments\n            ",
+      "comments": "\n              31 comments\n            ",
       "index": 9
     },
     {
-      "title": "Installing and using HP-UX 9",
-      "href": "https://thejpster.org.uk/blog/blog-2025-11-08/",
+      "title": "Building a High-Performance Ticketing System with TigerBeetle",
+      "href": "https://renerocks.ai/blog/2025-11-02--tigerfans/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 10
     },
     {
       "title": "TRMNL | E-ink dashboard to stay focused",
       "href": "https://usetrmnl.com/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 11
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
-      "title": "Refreshing Apache XML Infrastructure",
-      "href": "https://blog.adamretter.org.uk/refreshing-apache-xml-infrastructure/",
+      "title": "Just call clone (or alias)",
+      "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 14
     },
     {
+      "title": "Refreshing Apache XML Infrastructure",
+      "href": "https://blog.adamretter.org.uk/refreshing-apache-xml-infrastructure/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
       "title": "Error ABI",
       "href": "https://matklad.github.io/2025/11/09/error-ABI.html",
       "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 15
+      "comments": "\n              10 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Trip report: November 2025 ISO C++ standards meeting (Kona, USA)",
+      "href": "https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 17
     },
     {
       "title": "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions",
       "href": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext",
       "points": "",
       "comments": "\n              19 comments\n            ",
-      "index": 16
+      "index": 18
     },
     {
       "title": "SASS: The CSS Preprocessor That Survived the Apocalypse",
       "href": "https://en.andros.dev/blog/e9ded1a5/sass-the-css-preprocessor-that-survived-the-apocalypse/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Android security bulletin: November 2025 patch fixes zero-click RCE",
-      "href": "https://source.android.com/docs/security/bulletin/2025-11-01",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "The Error Model (2016)",
-      "href": "https://joeduffyblog.com/2016/02/07/the-error-model/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 19
-    },
-    {
-      "title": "Marble Fountain",
-      "href": "https://willmorrison.net/posts/marble-fountain/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Voxel Engine in a Weekend",
-      "href": "https://daymare.net/blogs/voxel-engine-in-a-weekend/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Trip report: November 2025 ISO C++ standards meeting (Kona, USA)",
-      "href": "https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
     },
     {
       "title": "gixy-ng: gixy fork with updated, improved, and new check [ LLMs for plagiarising code ]",
       "href": "https://joshua.hu/gixy-ng-new-version-gixy-updated-checks",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Android security bulletin: November 2025 patch fixes zero-click RCE",
+      "href": "https://source.android.com/docs/security/bulletin/2025-11-01",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "The Error Model (2016)",
+      "href": "https://joeduffyblog.com/2016/02/07/the-error-model/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Marble Fountain",
+      "href": "https://willmorrison.net/posts/marble-fountain/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 23
+    },
+    {
+      "title": "Voxel Engine in a Weekend",
+      "href": "https://daymare.net/blogs/voxel-engine-in-a-weekend/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 24
     },
     {
       "title": "A Plan for 5-10%* Faster Free-Threaded JIT by Python 3.16",
       "href": "https://fidget-spinner.github.io/posts/faster-jit-plan.html",
       "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Natural Language, Semantic Analysis, and Interactive Fiction (2006)",
-      "href": "https://worrydream.com/refs/Nelson_G_2006_-_Natural_Language,_Semantic_Analysis_and_Interactive_Fiction.pdf",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 25
     }
   ]
