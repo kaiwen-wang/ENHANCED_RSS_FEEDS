@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, November 12, 2025 at 3:25 AM GMT-5",
+  "date": "Wednesday, November 12, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "A domain for the Queer Community, by the Queer Community",
       "href": "https://www.dotmeow.org/en/what",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              25 comments\n            ",
       "index": 1
     },
     {
@@ -19,21 +19,21 @@
       "title": "rtc: rk808: Compensate for Rockchip calendar deviation on November 31st (2015)",
       "href": "https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "Servo: A new web engine written in Rust",
+      "href": "https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 4
     },
     {
       "title": "Grebedoc — static site hosting for git forges",
       "href": "https://grebedoc.dev",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Servo: A new web engine written in Rust",
-      "href": "https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 5
     },
     {
@@ -54,7 +54,7 @@
       "title": "Announcing .NET 10",
       "href": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 8
     },
     {
@@ -65,71 +65,71 @@
       "index": 9
     },
     {
-      "title": "Just call clone (or alias)",
-      "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Cache-Friendly, Low-Memory Lanczos Algorithm in Rust",
-      "href": "https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Scaling HNSWs",
-      "href": "https://antirez.com/news/156",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Testing Augment Code's New Credit System with 4 Real Tasks",
-      "href": "https://blog.kilocode.ai/p/testing-augment-codes-new-credit",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
       "title": "Perkeep v0.12 released",
       "href": "https://github.com/perkeep/perkeep/releases/tag/v0.12",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
+      "index": 10
     },
     {
-      "title": "Query Plan Caching",
-      "href": "https://buttondown.com/jaffray/archive/query-plan-caching/",
+      "title": "Just call clone (or alias)",
+      "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel",
+      "href": "https://www.phoronix.com/news/Google-Pixel-10-Google-DTs",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 12
     },
     {
       "title": "Wordle in LibreOffice",
       "href": "https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Scaling HNSWs",
+      "href": "https://antirez.com/news/156",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Cache-Friendly, Low-Memory Lanczos Algorithm in Rust",
+      "href": "https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
+      "href": "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 16
+    },
+    {
+      "title": "Query Plan Caching",
+      "href": "https://buttondown.com/jaffray/archive/query-plan-caching/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
     },
     {
       "title": "Readonly Characters Are a Big Deal",
       "href": "https://matklad.github.io/2025/11/10/readonly-characters.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Reproachfully Presenting Resilient Recursive Descent Parsing",
       "href": "https://thunderseethe.dev/posts/parser-base/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel",
-      "href": "https://www.phoronix.com/news/Google-Pixel-10-Google-DTs",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 19
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "A catalog of side effects",
-      "href": "https://bernsteinbear.com/blog/compiler-effects/",
+      "title": "Abstractions for asynchronously working with series of data",
+      "href": "https://worm-blossom.org/ufotofu",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Reimagine the Date Picker",
-      "href": "https://dbushell.com/2025/11/10/pikaday/",
+      "title": "A catalog of side effects",
+      "href": "https://bernsteinbear.com/blog/compiler-effects/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
