@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, November 11, 2025 at 11:25 PM GMT-5",
+  "date": "Wednesday, November 12, 2025 at 12:20 AM GMT-5",
   "articles": [
     {
       "title": "A domain for the Queer Community, by the Queer Community",
       "href": "https://www.dotmeow.org/en/what",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 1
     },
     {
       "title": "rtc: rk808: Compensate for Rockchip calendar deviation on November 31st (2015)",
       "href": "https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 2
     },
     {
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
-      "title": "Firefox expands fingerprint protections: advancing towards a more private web",
-      "href": "https://blog.mozilla.org/en/firefox/fingerprinting-protections/",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 5
-    },
-    {
       "title": "Servo: A new web engine written in Rust",
       "href": "https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 5
+    },
+    {
+      "title": "Firefox expands fingerprint protections: advancing towards a more private web",
+      "href": "https://blog.mozilla.org/en/firefox/fingerprinting-protections/",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 6
     },
     {
       "title": "Announcing .NET 10",
       "href": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 7
     },
     {
@@ -65,10 +65,10 @@
       "index": 9
     },
     {
-      "title": "Scaling HNSWs",
-      "href": "https://antirez.com/news/156",
+      "title": "FFmpeg to Google: Fund Us or Stop Sending Bugs",
+      "href": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 10
     },
     {
@@ -79,78 +79,78 @@
       "index": 11
     },
     {
-      "title": "FFmpeg to Google: Fund Us or Stop Sending Bugs",
-      "href": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
+      "title": "Scaling HNSWs",
+      "href": "https://antirez.com/news/156",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 12
-    },
-    {
-      "title": "sudo-rs update to address two moderate vulnerabilities",
-      "href": "https://bugs.launchpad.net/ubuntu/+source/rust-sudo-rs/+bug/2130623",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Zig / C++ Interop",
-      "href": "https://tuple.app/blog/zig-cpp-interop",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 14
     },
     {
       "title": "Query Plan Caching",
       "href": "https://buttondown.com/jaffray/archive/query-plan-caching/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "sudo-rs update to address two moderate vulnerabilities",
+      "href": "https://bugs.launchpad.net/ubuntu/+source/rust-sudo-rs/+bug/2130623",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Zig / C++ Interop",
+      "href": "https://tuple.app/blog/zig-cpp-interop",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 15
+    },
+    {
+      "title": "Readonly Characters Are a Big Deal",
+      "href": "https://matklad.github.io/2025/11/10/readonly-characters.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 16
     },
     {
       "title": "Vibe Code Warning – from 1k to 10k lines, a personal casestudy",
       "href": "https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning",
       "points": "",
       "comments": "\n              35 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "A catalog of side effects",
-      "href": "https://bernsteinbear.com/blog/compiler-effects/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 17
-    },
-    {
-      "title": "Reimagine the Date Picker",
-      "href": "https://dbushell.com/2025/11/10/pikaday/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 18
     },
     {
       "title": "Reproachfully Presenting Resilient Recursive Descent Parsing",
       "href": "https://thunderseethe.dev/posts/parser-base/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "A catalog of side effects",
+      "href": "https://bernsteinbear.com/blog/compiler-effects/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 19
+    },
+    {
+      "title": "Reimagine the Date Picker",
+      "href": "https://dbushell.com/2025/11/10/pikaday/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 20
     },
     {
       "title": "Perkeep v0.12 released",
       "href": "https://github.com/perkeep/perkeep/releases/tag/v0.12",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Decompression is up to 30% faster in CPython 3.15",
       "href": "https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Readonly Characters Are a Big Deal",
-      "href": "https://matklad.github.io/2025/11/10/readonly-characters.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 22
@@ -159,7 +159,7 @@
       "title": "Head in the Zed Cloud",
       "href": "https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 23
     },
     {
