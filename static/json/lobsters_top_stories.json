@@ -1,25 +1,25 @@
 {
-  "date": "Thursday, November 13, 2025 at 2:15 PM GMT-5",
+  "date": "Thursday, November 13, 2025 at 3:25 PM GMT-5",
   "articles": [
     {
       "title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
       "href": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
       "points": "",
-      "comments": "\n              69 comments\n            ",
+      "comments": "\n              73 comments\n            ",
       "index": 1
     },
     {
       "title": "Mergiraf: syntax-aware merging for Git",
       "href": "https://lwn.net/Articles/1042355/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 2
     },
     {
       "title": "Parsing integers in C",
       "href": "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 3
     },
     {
@@ -33,35 +33,35 @@
       "title": "Ingress NGINX Retirement: What You Need to Know",
       "href": "https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 5
-    },
-    {
-      "title": "Homebrew v5.0.0: The Missing Package Manager for macOS (or Linux)",
-      "href": "https://brew.sh/2025/11/12/homebrew-5.0.0/",
-      "points": "",
-      "comments": "\n              31 comments\n            ",
-      "index": 6
     },
     {
       "title": "Android developer verification: allow experienced users to accept the risks of installing software that isn't verified",
       "href": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 7
+      "comments": "\n              5 comments\n            ",
+      "index": 6
     },
     {
       "title": "Go proposal: Context-aware Dialer methods",
       "href": "https://antonz.org/accepted/net-dialer-context/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "Homebrew v5.0.0: The Missing Package Manager for macOS (or Linux)",
+      "href": "https://brew.sh/2025/11/12/homebrew-5.0.0/",
+      "points": "",
+      "comments": "\n              32 comments\n            ",
       "index": 8
     },
     {
-      "title": "A brief look at FreeBSD",
-      "href": "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/",
+      "title": "Language Design Notes",
+      "href": "https://cs.lmu.edu/~ray/notes/languagedesignnotes/",
       "points": "",
-      "comments": "\n              54 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 9
     },
     {
@@ -72,38 +72,38 @@
       "index": 10
     },
     {
-      "title": "Language Design Notes",
-      "href": "https://cs.lmu.edu/~ray/notes/languagedesignnotes/",
+      "title": "There is no such thing as a 3.5 inch floppy disc",
+      "href": "https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 11
+    },
+    {
+      "title": "A brief look at FreeBSD",
+      "href": "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/",
+      "points": "",
+      "comments": "\n              54 comments\n            ",
+      "index": 12
     },
     {
       "title": "Truly first-class custom smart pointers",
       "href": "https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "pgFirstAid-The PostgreSQL Health Check",
       "href": "https://github.com/randoneering/pgFirstAid",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "What's new in Herb v0.8",
       "href": "https://herb-tools.dev/blog/whats-new-in-herb-v0-8",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "Visual Types",
-      "href": "https://types.kitlangton.com/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 15
     },
     {
@@ -114,17 +114,17 @@
       "index": 16
     },
     {
-      "title": "There is no such thing as a 3.5 inch floppy disc",
-      "href": "https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html",
+      "title": "Messing with bots",
+      "href": "https://herman.bearblog.dev/messing-with-bots/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
-      "title": "Async and Finaliser Deadlocks",
-      "href": "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html",
+      "title": "Visual Types",
+      "href": "https://types.kitlangton.com/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 18
     },
     {
@@ -135,10 +135,10 @@
       "index": 19
     },
     {
-      "title": "Messing with bots",
-      "href": "https://herman.bearblog.dev/messing-with-bots/",
+      "title": "Async and Finaliser Deadlocks",
+      "href": "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 20
     },
     {
@@ -156,22 +156,22 @@
       "index": 22
     },
     {
+      "title": "Behind the scenes on how Windows 95 application compatibility patched broken programs",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20251111-00/?p=111781",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
       "title": "Linux process priorities demystified",
       "href": "https://www.sigma-star.at/blog/2022/02/linux-proc-prios/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Evaluating embedding quality by testing metric properties (Z3 solver)",
-      "href": "https://www.testingbranch.com/embedding-quality/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "A Practical Guide to Transitioning to Memory-Safe Languages",
-      "href": "https://queue.acm.org/detail.cfm?id=3773096",
+      "title": "Mechanical translation from COBOL to Kotlin using formal methods",
+      "href": "https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 25
