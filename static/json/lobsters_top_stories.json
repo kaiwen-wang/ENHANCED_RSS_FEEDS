@@ -1,137 +1,137 @@
 {
-  "date": "Thursday, November 13, 2025 at 6:20 AM GMT-5",
+  "date": "Thursday, November 13, 2025 at 7:45 AM GMT-5",
   "articles": [
     {
       "title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
       "href": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
       "points": "",
-      "comments": "\n              44 comments\n            ",
+      "comments": "\n              50 comments\n            ",
       "index": 1
     },
     {
       "title": "Homebrew v5.0.0: The Missing Package Manager for macOS (or Linux)",
       "href": "https://brew.sh/2025/11/12/homebrew-5.0.0/",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              25 comments\n            ",
       "index": 2
     },
     {
       "title": "A brief look at FreeBSD",
       "href": "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/",
       "points": "",
-      "comments": "\n              45 comments\n            ",
+      "comments": "\n              46 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "Mergiraf: syntax-aware merging for Git",
+      "href": "https://lwn.net/Articles/1042355/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 4
     },
     {
       "title": "pgFirstAid-The PostgreSQL Health Check",
       "href": "https://github.com/randoneering/pgFirstAid",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "I converted a rotary phone into a meeting handset",
       "href": "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Async and Finaliser Deadlocks",
       "href": "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html",
       "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 6
+      "comments": "\n              15 comments\n            ",
+      "index": 7
     },
     {
       "title": "Visual Types",
       "href": "https://types.kitlangton.com/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "One Weird Hashing Trick",
       "href": "https://notes.hella.cheap/one-weird-hashing-trick.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 8
-    },
-    {
-      "title": "Android developer verification: allow experienced users to accept the risks of installing software that isn't verified",
-      "href": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 9
-    },
-    {
-      "title": "Linux process priorities demystified",
-      "href": "https://www.sigma-star.at/blog/2022/02/linux-proc-prios/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Servo: A new web engine written in Rust",
-      "href": "https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "FFmpeg to Google: Fund Us or Stop Sending Bugs",
-      "href": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
-      "points": "",
-      "comments": "\n              118 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Fun-reliable side-channels for cross-container communication",
-      "href": "https://h4x0r.org/funreliable/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 13
     },
     {
       "title": "Truly first-class custom smart pointers",
       "href": "https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Android developer verification: allow experienced users to accept the risks of installing software that isn't verified",
+      "href": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 11
+    },
+    {
+      "title": "Go proposal: Context-aware Dialer methods",
+      "href": "https://antonz.org/accepted/net-dialer-context/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Linux process priorities demystified",
+      "href": "https://www.sigma-star.at/blog/2022/02/linux-proc-prios/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Servo: A new web engine written in Rust",
+      "href": "https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
       "index": 14
     },
     {
-      "title": "A domain for the Queer Community, by the Queer Community",
-      "href": "https://www.dotmeow.org/en/what",
+      "title": "FFmpeg to Google: Fund Us or Stop Sending Bugs",
+      "href": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
       "points": "",
-      "comments": "\n              50 comments\n            ",
+      "comments": "\n              124 comments\n            ",
       "index": 15
-    },
-    {
-      "title": "Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel",
-      "href": "https://www.phoronix.com/news/Google-Pixel-10-Google-DTs",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 16
     },
     {
       "title": "Behind the scenes on how Windows 95 application compatibility patched broken programs",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251111-00/?p=111781",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Fun-reliable side-channels for cross-container communication",
+      "href": "https://h4x0r.org/funreliable/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 17
     },
     {
-      "title": "What's new in Herb v0.8",
-      "href": "https://herb-tools.dev/blog/whats-new-in-herb-v0-8",
+      "title": "A domain for the Queer Community, by the Queer Community",
+      "href": "https://www.dotmeow.org/en/what",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              50 comments\n            ",
       "index": 18
     },
     {
-      "title": "rtc: rk808: Compensate for Rockchip calendar deviation on November 31st (2015)",
-      "href": "https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716",
+      "title": "Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel",
+      "href": "https://www.phoronix.com/news/Google-Pixel-10-Google-DTs",
       "points": "",
-      "comments": "\n              37 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 19
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
-      "title": "the terminal of the future",
-      "href": "https://jyn.dev/the-terminal-of-the-future",
+      "title": "What's new in Herb v0.8",
+      "href": "https://herb-tools.dev/blog/whats-new-in-herb-v0-8",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
-      "title": "Mergiraf: syntax-aware merging for Git",
-      "href": "https://lwn.net/Articles/1042355/",
+      "title": "rtc: rk808: Compensate for Rockchip calendar deviation on November 31st (2015)",
+      "href": "https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              37 comments\n            ",
       "index": 22
     },
     {
-      "title": "Visual Studio 2026, .NET 10, and C# 14 are released",
-      "href": "https://visualstudiomagazine.com/articles/2025/11/12/visual-studio-2026-ga-first-intelligent-developer-environment-ide.aspx",
+      "title": "the terminal of the future",
+      "href": "https://jyn.dev/the-terminal-of-the-future",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              26 comments\n            ",
       "index": 23
-    },
-    {
-      "title": "Practical Security in Production Hardening the C++ Standard Library at massive scale",
-      "href": "https://queue.acm.org/detail.cfm?id=3773097",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
     },
     {
       "title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
       "href": "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/",
       "points": "",
       "comments": "\n              7 comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "Visual Studio 2026, .NET 10, and C# 14 are released",
+      "href": "https://visualstudiomagazine.com/articles/2025/11/12/visual-studio-2026-ga-first-intelligent-developer-environment-ide.aspx",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
