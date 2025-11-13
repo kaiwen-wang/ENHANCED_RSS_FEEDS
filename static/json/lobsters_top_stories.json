@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, November 13, 2025 at 3:25 AM GMT-5",
+  "date": "Thursday, November 13, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
       "href": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
       "points": "",
-      "comments": "\n              33 comments\n            ",
+      "comments": "\n              35 comments\n            ",
       "index": 1
     },
     {
@@ -26,7 +26,7 @@
       "title": "I converted a rotary phone into a meeting handset",
       "href": "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 4
     },
     {
@@ -37,129 +37,129 @@
       "index": 5
     },
     {
-      "title": "Async and Finaliser Deadlocks",
-      "href": "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 6
-    },
-    {
       "title": "pgFirstAid-The PostgreSQL Health Check",
       "href": "https://github.com/randoneering/pgFirstAid",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Async and Finaliser Deadlocks",
+      "href": "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 7
+    },
+    {
+      "title": "One Weird Hashing Trick",
+      "href": "https://notes.hella.cheap/one-weird-hashing-trick.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 8
     },
     {
       "title": "Servo: A new web engine written in Rust",
       "href": "https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 8
+      "index": 9
     },
     {
       "title": "FFmpeg to Google: Fund Us or Stop Sending Bugs",
       "href": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
       "points": "",
-      "comments": "\n              109 comments\n            ",
-      "index": 9
+      "comments": "\n              112 comments\n            ",
+      "index": 10
     },
     {
       "title": "Fun-reliable side-channels for cross-container communication",
       "href": "https://h4x0r.org/funreliable/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "A domain for the Queer Community, by the Queer Community",
       "href": "https://www.dotmeow.org/en/what",
       "points": "",
-      "comments": "\n              47 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "One Weird Hashing Trick",
-      "href": "https://notes.hella.cheap/one-weird-hashing-trick.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              49 comments\n            ",
       "index": 12
-    },
-    {
-      "title": "Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel",
-      "href": "https://www.phoronix.com/news/Google-Pixel-10-Google-DTs",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 13
     },
     {
       "title": "Linux process priorities demystified",
       "href": "https://www.sigma-star.at/blog/2022/02/linux-proc-prios/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel",
+      "href": "https://www.phoronix.com/news/Google-Pixel-10-Google-DTs",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
       "index": 14
+    },
+    {
+      "title": "Android developer verification: allow experienced users to accept the risks of installing software that isn't verified",
+      "href": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
     },
     {
       "title": "What's new in Herb v0.8",
       "href": "https://herb-tools.dev/blog/whats-new-in-herb-v0-8",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "rtc: rk808: Compensate for Rockchip calendar deviation on November 31st (2015)",
       "href": "https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716",
       "points": "",
-      "comments": "\n              36 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "the terminal of the future",
-      "href": "https://jyn.dev/the-terminal-of-the-future",
-      "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              37 comments\n            ",
       "index": 17
-    },
-    {
-      "title": "Template Interpreters",
-      "href": "https://zackoverflow.dev/writing/template-interpreters/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 18
-    },
-    {
-      "title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
-      "href": "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Practical Security in Production Hardening the C++ Standard Library at massive scale",
-      "href": "https://queue.acm.org/detail.cfm?id=3773097",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 20
-    },
-    {
-      "title": "Haiku Activity & Contract Report, October 2025",
-      "href": "https://www.haiku-os.org/blog/waddlesplash/2025-11-11-haiku_activity_contract_report_october_2025/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
     },
     {
       "title": "A Practical Guide to Transitioning to Memory-Safe Languages",
       "href": "https://queue.acm.org/detail.cfm?id=3773096",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "the terminal of the future",
+      "href": "https://jyn.dev/the-terminal-of-the-future",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Template Interpreters",
+      "href": "https://zackoverflow.dev/writing/template-interpreters/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
+      "title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
+      "href": "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Haiku Activity & Contract Report, October 2025",
+      "href": "https://www.haiku-os.org/blog/waddlesplash/2025-11-11-haiku_activity_contract_report_october_2025/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 22
     },
     {
-      "title": "Android developer verification: allow experienced users to accept the risks of installing software that isn't verified",
-      "href": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+      "title": "Practical Security in Production Hardening the C++ Standard Library at massive scale",
+      "href": "https://queue.acm.org/detail.cfm?id=3773097",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 23
     },
     {
