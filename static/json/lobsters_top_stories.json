@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, November 12, 2025 at 8:40 PM GMT-5",
+  "date": "Wednesday, November 12, 2025 at 10:15 PM GMT-5",
   "articles": [
     {
       "title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
       "href": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              23 comments\n            ",
       "index": 1
     },
     {
       "title": "A brief look at FreeBSD",
       "href": "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/",
       "points": "",
-      "comments": "\n              40 comments\n            ",
+      "comments": "\n              41 comments\n            ",
       "index": 2
     },
     {
@@ -26,7 +26,7 @@
       "title": "I converted a rotary phone into a meeting handset",
       "href": "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 4
     },
     {
@@ -37,24 +37,24 @@
       "index": 5
     },
     {
+      "title": "Visual Types",
+      "href": "https://types.kitlangton.com/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 6
+    },
+    {
       "title": "Servo: A new web engine written in Rust",
       "href": "https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Visual Types",
-      "href": "https://types.kitlangton.com/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 7
     },
     {
       "title": "FFmpeg to Google: Fund Us or Stop Sending Bugs",
       "href": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
       "points": "",
-      "comments": "\n              93 comments\n            ",
+      "comments": "\n              95 comments\n            ",
       "index": 8
     },
     {
@@ -75,14 +75,14 @@
       "title": "Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel",
       "href": "https://www.phoronix.com/news/Google-Pixel-10-Google-DTs",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 11
     },
     {
       "title": "rtc: rk808: Compensate for Rockchip calendar deviation on November 31st (2015)",
       "href": "https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716",
       "points": "",
-      "comments": "\n              30 comments\n            ",
+      "comments": "\n              32 comments\n            ",
       "index": 12
     },
     {
@@ -93,17 +93,17 @@
       "index": 13
     },
     {
-      "title": "Template Interpreters",
-      "href": "https://zackoverflow.dev/writing/template-interpreters/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
       "title": "One Weird Hashing Trick",
       "href": "https://notes.hella.cheap/one-weird-hashing-trick.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Template Interpreters",
+      "href": "https://zackoverflow.dev/writing/template-interpreters/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 15
     },
     {
@@ -128,17 +128,17 @@
       "index": 18
     },
     {
-      "title": "Perkeep v0.12 released",
-      "href": "https://github.com/perkeep/perkeep/releases/tag/v0.12",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 19
-    },
-    {
       "title": "Subscripts and sizes should be signed (2018)",
       "href": "https://open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1428r0.pdf",
       "points": "",
       "comments": "\n              5 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Perkeep v0.12 released",
+      "href": "https://github.com/perkeep/perkeep/releases/tag/v0.12",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 20
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
+      "title": "the art of (VM) firmware logging",
+      "href": "https://www.kraxel.org/blog/2025/10/firmware-logging/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
       "title": "Announcing .NET 10",
       "href": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Readonly Characters Are a Big Deal",
       "href": "https://matklad.github.io/2025/11/10/readonly-characters.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Agentic Pelican on a Bicycle",
-      "href": "https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
