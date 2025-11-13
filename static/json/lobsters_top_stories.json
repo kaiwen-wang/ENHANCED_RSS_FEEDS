@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, November 13, 2025 at 3:25 PM GMT-5",
+  "date": "Thursday, November 13, 2025 at 4:20 PM GMT-5",
   "articles": [
-    {
-      "title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
-      "href": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
-      "points": "",
-      "comments": "\n              73 comments\n            ",
-      "index": 1
-    },
     {
       "title": "Mergiraf: syntax-aware merging for Git",
       "href": "https://lwn.net/Articles/1042355/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              11 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
+      "href": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
+      "points": "",
+      "comments": "\n              74 comments\n            ",
       "index": 2
     },
     {
@@ -23,150 +23,150 @@
       "index": 3
     },
     {
+      "title": "Ingress NGINX Retirement: What You Need to Know",
+      "href": "https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 4
+    },
+    {
       "title": "Patterns for Defensive Programming in Rust",
       "href": "https://corrode.dev/blog/defensive-programming/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
-      "title": "Ingress NGINX Retirement: What You Need to Know",
-      "href": "https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/",
+      "title": "There is no such thing as a 3.5 inch floppy disc",
+      "href": "https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html",
       "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 5
+      "comments": "\n              5 comments\n            ",
+      "index": 6
     },
     {
       "title": "Android developer verification: allow experienced users to accept the risks of installing software that isn't verified",
       "href": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Go proposal: Context-aware Dialer methods",
-      "href": "https://antonz.org/accepted/net-dialer-context/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 7
-    },
-    {
-      "title": "Homebrew v5.0.0: The Missing Package Manager for macOS (or Linux)",
-      "href": "https://brew.sh/2025/11/12/homebrew-5.0.0/",
-      "points": "",
-      "comments": "\n              32 comments\n            ",
-      "index": 8
     },
     {
       "title": "Language Design Notes",
       "href": "https://cs.lmu.edu/~ray/notes/languagedesignnotes/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Rust in Android: move fast and fix things",
+      "href": "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 9
+    },
+    {
+      "title": "Go proposal: Context-aware Dialer methods",
+      "href": "https://antonz.org/accepted/net-dialer-context/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Homebrew v5.0.0: The Missing Package Manager for macOS (or Linux)",
+      "href": "https://brew.sh/2025/11/12/homebrew-5.0.0/",
+      "points": "",
+      "comments": "\n              32 comments\n            ",
+      "index": 11
     },
     {
       "title": "Another Fedora Flatpak discussion",
       "href": "https://lwn.net/SubscriberLink/1045247/b10b84a92c27c08a/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "There is no such thing as a 3.5 inch floppy disc",
-      "href": "https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "A brief look at FreeBSD",
       "href": "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/",
       "points": "",
       "comments": "\n              54 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Truly first-class custom smart pointers",
       "href": "https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 14
+    },
+    {
+      "title": "Synit: Reactivity and object capabilities in the system layer of an OS",
+      "href": "https://synit.org/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 15
     },
     {
       "title": "pgFirstAid-The PostgreSQL Health Check",
       "href": "https://github.com/randoneering/pgFirstAid",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 16
     },
     {
       "title": "What's new in Herb v0.8",
       "href": "https://herb-tools.dev/blog/whats-new-in-herb-v0-8",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "Synit: Reactivity and object capabilities in the system layer of an OS",
-      "href": "https://synit.org/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Messing with bots",
       "href": "https://herman.bearblog.dev/messing-with-bots/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
+      "comments": "\n              1 comment\n            ",
+      "index": 18
     },
     {
       "title": "Visual Types",
       "href": "https://types.kitlangton.com/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "One Weird Hashing Trick",
       "href": "https://notes.hella.cheap/one-weird-hashing-trick.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Async and Finaliser Deadlocks",
       "href": "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html",
       "points": "",
       "comments": "\n              16 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "I converted a rotary phone into a meeting handset",
-      "href": "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/",
-      "points": "",
-      "comments": "\n              20 comments\n            ",
       "index": 21
-    },
-    {
-      "title": "SIMA 2: A Gemini-powered AI agent for 3D virtual worlds",
-      "href": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
     },
     {
       "title": "Behind the scenes on how Windows 95 application compatibility patched broken programs",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251111-00/?p=111781",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "SIMA 2: A Gemini-powered AI agent for 3D virtual worlds",
+      "href": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 23
     },
     {
-      "title": "Linux process priorities demystified",
-      "href": "https://www.sigma-star.at/blog/2022/02/linux-proc-prios/",
+      "title": "I converted a rotary phone into a meeting handset",
+      "href": "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 24
     },
     {
