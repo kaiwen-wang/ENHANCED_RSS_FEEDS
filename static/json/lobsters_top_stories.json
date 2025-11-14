@@ -1,18 +1,18 @@
 {
-  "date": "Friday, November 14, 2025 at 3:25 AM GMT-5",
+  "date": "Friday, November 14, 2025 at 4:20 AM GMT-5",
   "articles": [
-    {
-      "title": "Rust in Android: move fast and fix things",
-      "href": "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 1
-    },
     {
       "title": "Furgit: fast implementation of Git in pure Go",
       "href": "https://github.com/runxiyu/furgit",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 1
+    },
+    {
+      "title": "Rust in Android: move fast and fix things",
+      "href": "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 2
     },
     {
@@ -30,31 +30,31 @@
       "index": 4
     },
     {
-      "title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
-      "href": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
-      "points": "",
-      "comments": "\n              87 comments\n            ",
-      "index": 5
-    },
-    {
       "title": "There is no such thing as a 3.5 inch floppy disc",
       "href": "https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 6
+      "index": 5
     },
     {
       "title": "Ingress NGINX Retirement: What You Need to Know",
       "href": "https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              13 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
+      "href": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
+      "points": "",
+      "comments": "\n              88 comments\n            ",
       "index": 7
     },
     {
       "title": "Patterns for Defensive Programming in Rust",
       "href": "https://corrode.dev/blog/defensive-programming/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 8
     },
     {
@@ -65,73 +65,73 @@
       "index": 9
     },
     {
-      "title": "Messing with bots",
-      "href": "https://herman.bearblog.dev/messing-with-bots/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Android developer verification: allow experienced users to accept the risks of installing software that isn't verified",
-      "href": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 11
-    },
-    {
       "title": "Nation state threat actor used Claude Code to orchestrate cyber attacks",
       "href": "https://www.anthropic.com/news/disrupting-AI-espionage",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 12
+      "index": 10
     },
     {
       "title": "How to Get a North Korea / Antarctica VPS",
       "href": "https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 11
     },
     {
-      "title": "The Complexity of Simplicity",
-      "href": "https://www.youtube.com/watch?v=Cum5uN2634o",
+      "title": "Messing with bots",
+      "href": "https://herman.bearblog.dev/messing-with-bots/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
+      "comments": "\n              7 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Android developer verification: allow experienced users to accept the risks of installing software that isn't verified",
+      "href": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 13
     },
     {
       "title": "Domain-specific Languages and Code Synthesis Using Haskell",
       "href": "https://queue.acm.org/detail.cfm?id=2617811",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "The Complexity of Simplicity",
+      "href": "https://www.youtube.com/watch?v=Cum5uN2634o",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 15
-    },
-    {
-      "title": "Go proposal: Context-aware Dialer methods",
-      "href": "https://antonz.org/accepted/net-dialer-context/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Tour of a pattern matcher: expression and pattern expansion",
-      "href": "https://crumbles.blog/posts/2025-11-09-extensible-match-front-end.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Support the call for Memory Safety incentives in EU cybersecurity policies - Trifecta Tech Foundation",
-      "href": "https://trifectatech.org/blog/support-memory-safety-incentives-in-eu-cybersecurity-policies/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
     },
     {
       "title": "Synit: Reactivity and object capabilities in the system layer of an OS",
       "href": "https://synit.org/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Go proposal: Context-aware Dialer methods",
+      "href": "https://antonz.org/accepted/net-dialer-context/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Tour of a pattern matcher: expression and pattern expansion",
+      "href": "https://crumbles.blog/posts/2025-11-09-extensible-match-front-end.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Support the call for Memory Safety incentives in EU cybersecurity policies - Trifecta Tech Foundation",
+      "href": "https://trifectatech.org/blog/support-memory-safety-incentives-in-eu-cybersecurity-policies/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 19
     },
     {
@@ -145,7 +145,7 @@
       "title": "Homebrew v5.0.0: The Missing Package Manager for macOS (or Linux)",
       "href": "https://brew.sh/2025/11/12/homebrew-5.0.0/",
       "points": "",
-      "comments": "\n              34 comments\n            ",
+      "comments": "\n              35 comments\n            ",
       "index": 21
     },
     {
