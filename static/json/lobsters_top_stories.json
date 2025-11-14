@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, November 13, 2025 at 10:15 PM GMT-5",
+  "date": "Thursday, November 13, 2025 at 11:25 PM GMT-5",
   "articles": [
     {
       "title": "Rust in Android: move fast and fix things",
@@ -26,7 +26,7 @@
       "title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
       "href": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
       "points": "",
-      "comments": "\n              86 comments\n            ",
+      "comments": "\n              87 comments\n            ",
       "index": 4
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
+      "title": "There is no such thing as a 3.5 inch floppy disc",
+      "href": "https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 6
+    },
+    {
       "title": "Patterns for Defensive Programming in Rust",
       "href": "https://corrode.dev/blog/defensive-programming/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "There is no such thing as a 3.5 inch floppy disc",
-      "href": "https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
       "index": 7
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "A brief look at FreeBSD",
-      "href": "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/",
+      "title": "Tour of a pattern matcher: expression and pattern expansion",
+      "href": "https://crumbles.blog/posts/2025-11-09-extensible-match-front-end.html",
       "points": "",
-      "comments": "\n              56 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 15
-    },
-    {
-      "title": "pgFirstAid-The PostgreSQL Health Check",
-      "href": "https://github.com/randoneering/pgFirstAid",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "What's new in Herb v0.8",
-      "href": "https://herb-tools.dev/blog/whats-new-in-herb-v0-8",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Wrangling Kubernetes contexts",
-      "href": "https://natkr.com/2025-11-14-kubernetes-contexts/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Truly first-class custom smart pointers",
-      "href": "https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
     },
     {
       "title": "Postgres Internals Hiding in Plain Sight",
       "href": "https://www.crunchydata.com/blog/postgres-internals-hiding-in-plain-sight",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
+      "title": "A brief look at FreeBSD",
+      "href": "https://yorickpeterse.com/articles/a-brief-look-at-freebsd/",
+      "points": "",
+      "comments": "\n              56 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "The Complexity of Simplicity",
+      "href": "https://www.youtube.com/watch?v=Cum5uN2634o",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "pgFirstAid-The PostgreSQL Health Check",
+      "href": "https://github.com/randoneering/pgFirstAid",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "What's new in Herb v0.8",
+      "href": "https://herb-tools.dev/blog/whats-new-in-herb-v0-8",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 20
+    },
+    {
+      "title": "Wrangling Kubernetes contexts",
+      "href": "https://natkr.com/2025-11-14-kubernetes-contexts/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Truly first-class custom smart pointers",
+      "href": "https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "The Logic of CUE",
+      "href": "https://cuelang.org/docs/concept/the-logic-of-cue/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "Behind the scenes on how Windows 95 application compatibility patched broken programs",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251111-00/?p=111781",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "Spectral rendering, part 2: Real-time rendering",
       "href": "https://momentsingraphics.de/SpectralRendering2Rendering.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "One Weird Hashing Trick",
-      "href": "https://notes.hella.cheap/one-weird-hashing-trick.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Visual Types",
-      "href": "https://types.kitlangton.com/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Mechanical translation from COBOL to Kotlin using formal methods",
-      "href": "https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
