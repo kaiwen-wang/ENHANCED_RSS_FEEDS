@@ -1,18 +1,18 @@
 {
-  "date": "Friday, November 14, 2025 at 3:20 PM GMT-5",
+  "date": "Friday, November 14, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "This Isn't a Battle",
       "href": "https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/",
       "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              26 comments\n            ",
       "index": 1
     },
     {
-      "title": "Furgit: fast implementation of Git in pure Go",
-      "href": "https://github.com/runxiyu/furgit",
+      "title": "The AI water issue is fake",
+      "href": "https://andymasley.substack.com/p/the-ai-water-issue-is-fake",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 2
     },
     {
@@ -23,10 +23,10 @@
       "index": 3
     },
     {
-      "title": "The AI water issue is fake",
-      "href": "https://andymasley.substack.com/p/the-ai-water-issue-is-fake",
+      "title": "Furgit: fast implementation of Git in pure Go",
+      "href": "https://github.com/runxiyu/furgit",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 4
     },
     {
@@ -40,7 +40,7 @@
       "title": "portable_python: Self-contained Python distribution for Linux",
       "href": "https://github.com/qznc/portable_python",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 6
     },
     {
@@ -51,45 +51,45 @@
       "index": 7
     },
     {
-      "title": "Rust in Android: move fast and fix things",
-      "href": "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 8
-    },
-    {
       "title": "How we avoided side-channels in our new post-quantum Go cryptography libraries",
       "href": "https://blog.trailofbits.com/2025/11/14/how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 9
+      "index": 8
     },
     {
       "title": "marimo — reactive notebook for Python",
       "href": "https://github.com/marimo-team/marimo",
       "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Rust in Android: move fast and fix things",
+      "href": "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html",
+      "points": "",
       "comments": "\n              4 comments\n            ",
       "index": 10
+    },
+    {
+      "title": "Announcing IncusOS",
+      "href": "https://discuss.linuxcontainers.org/t/announcing-incusos/25139",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 11
     },
     {
       "title": "How to Get a North Korea / Antarctica VPS",
       "href": "https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Nation state threat actor used Claude Code to orchestrate cyber attacks",
       "href": "https://www.anthropic.com/news/disrupting-AI-espionage",
       "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "the last couple years in v8's garbage collector",
-      "href": "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 13
     },
     {
@@ -100,17 +100,17 @@
       "index": 14
     },
     {
-      "title": "Parsing integers in C",
-      "href": "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/",
+      "title": "the last couple years in v8's garbage collector",
+      "href": "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 15
     },
     {
-      "title": "Announcing IncusOS",
-      "href": "https://discuss.linuxcontainers.org/t/announcing-incusos/25139",
+      "title": "Parsing integers in C",
+      "href": "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              25 comments\n            ",
       "index": 16
     },
     {
@@ -142,17 +142,17 @@
       "index": 20
     },
     {
-      "title": "Announcing Unikraft Support for MirageOS Unikernels",
-      "href": "https://tarides.com/blog/2025-11-13-announcing-unikraft-support-for-mirageos-unikernels",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
       "title": "The Logic of CUE",
       "href": "https://cuelang.org/docs/concept/the-logic-of-cue/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 21
+    },
+    {
+      "title": "Announcing Unikraft Support for MirageOS Unikernels",
+      "href": "https://tarides.com/blog/2025-11-13-announcing-unikraft-support-for-mirageos-unikernels",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
+      "title": "The politics of purely client-side apps",
+      "href": "https://pfrazee.leaflet.pub/3m5hwua4sh22v",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
+    },
+    {
       "title": "Ingress NGINX Retirement: What You Need to Know",
       "href": "https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
-      "href": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
-      "points": "",
-      "comments": "\n              92 comments\n            ",
       "index": 25
     }
   ]
