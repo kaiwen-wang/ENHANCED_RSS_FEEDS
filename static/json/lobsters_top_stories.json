@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, November 15, 2025 at 2:15 PM GMT-5",
+  "date": "Saturday, November 15, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "10 patterns for faster python code",
@@ -12,40 +12,40 @@
       "title": "The Inconceivable Types of Rust: How to Make Self-Borrows Safe",
       "href": "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 2
     },
     {
       "title": "How to write type-safe generics in C",
       "href": "https://raphgl.github.io/blog/generics-in-c.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 3
-    },
-    {
-      "title": "This Isn't a Battle",
-      "href": "https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/",
-      "points": "",
-      "comments": "\n              35 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Go’s Sweet 16",
-      "href": "https://go.dev/blog/16years",
-      "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 5
+      "index": 3
     },
     {
       "title": "Compiler Options Hardening Guide for C and C++",
       "href": "https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "This Isn't a Battle",
+      "href": "https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/",
+      "points": "",
+      "comments": "\n              35 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Go’s Sweet 16",
+      "href": "https://go.dev/blog/16years",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 6
     },
     {
-      "title": "Don't Post Passive-Aggressive Webpages",
-      "href": "https://dontpostpassiveaggressivewebpages.com/",
+      "title": "I can’t recommend Grafana anymore",
+      "href": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
       "points": "",
       "comments": "\n              4 comments\n            ",
       "index": 7
@@ -54,28 +54,28 @@
       "title": "The AI water issue is fake",
       "href": "https://andymasley.substack.com/p/the-ai-water-issue-is-fake",
       "points": "",
-      "comments": "\n              32 comments\n            ",
+      "comments": "\n              35 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "Don't Post Passive-Aggressive Webpages",
+      "href": "https://dontpostpassiveaggressivewebpages.com/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 9
     },
     {
       "title": "AI World Clocks",
       "href": "https://clocks.brianmoore.com/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "A structural regular expression engine for Rust",
       "href": "https://www.sminez.dev/match-it-again-sam/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 10
-    },
-    {
-      "title": "I can’t recommend Grafana anymore",
-      "href": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 11
     },
     {
@@ -86,45 +86,45 @@
       "index": 12
     },
     {
+      "title": "Small functions considered harmful (2017)",
+      "href": "https://copyconstruct.medium.com/small-functions-considered-harmful-91035d316c29",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
       "title": "Moonpool and OCaml5 in Imandrax",
       "href": "https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 13
+      "index": 14
+    },
+    {
+      "title": "Announcing IncusOS",
+      "href": "https://discuss.linuxcontainers.org/t/announcing-incusos/25139",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 15
     },
     {
       "title": "How we avoided side-channels in our new post-quantum Go cryptography libraries",
       "href": "https://blog.trailofbits.com/2025/11/14/how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Small functions considered harmful (2017)",
-      "href": "https://copyconstruct.medium.com/small-functions-considered-harmful-91035d316c29",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Announcing IncusOS",
-      "href": "https://discuss.linuxcontainers.org/t/announcing-incusos/25139",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 16
-    },
-    {
-      "title": "Furgit: fast implementation of Git in pure Go",
-      "href": "https://github.com/runxiyu/furgit",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 17
     },
     {
       "title": "portable_python: Self-contained Python distribution for Linux",
       "href": "https://github.com/qznc/portable_python",
       "points": "",
       "comments": "\n              8 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Furgit: fast implementation of Git in pure Go",
+      "href": "https://github.com/runxiyu/furgit",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 18
     },
     {
@@ -138,7 +138,7 @@
       "title": "When Your Year of Work Gets Copied Overnight: What Actually Matters?",
       "href": "https://glama.ai/blog/2025-11-15-when-your-year-of-work-gets-copied-overnight-what-actually-matters",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 20
     },
     {
@@ -156,22 +156,22 @@
       "index": 22
     },
     {
-      "title": "the last couple years in v8's garbage collector",
-      "href": "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector",
+      "title": "Version Control External Content Referenced in Your Blog",
+      "href": "https://lgug2z.com/articles/version-control-external-content-referenced-in-your-blog/",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 23
     },
     {
-      "title": "AMD GPUs go brrr",
-      "href": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
+      "title": "the last couple years in v8's garbage collector",
+      "href": "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 24
     },
     {
-      "title": "Version Control External Content Referenced in Your Blog",
-      "href": "https://lgug2z.com/articles/version-control-external-content-referenced-in-your-blog/",
+      "title": "AMD GPUs go brrr",
+      "href": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 25
