@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, November 15, 2025 at 9:15 AM GMT-5",
+  "date": "Saturday, November 15, 2025 at 10:20 AM GMT-5",
   "articles": [
     {
       "title": "10 patterns for faster python code",
       "href": "https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 1
     },
     {
@@ -19,21 +19,21 @@
       "title": "The AI water issue is fake",
       "href": "https://andymasley.substack.com/p/the-ai-water-issue-is-fake",
       "points": "",
-      "comments": "\n              30 comments\n            ",
+      "comments": "\n              31 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "Go’s Sweet 16",
+      "href": "https://go.dev/blog/16years",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 4
     },
     {
       "title": "A structural regular expression engine for Rust",
       "href": "https://www.sminez.dev/match-it-again-sam/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Go’s Sweet 16",
-      "href": "https://go.dev/blog/16years",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 5
     },
     {
@@ -44,38 +44,38 @@
       "index": 6
     },
     {
+      "title": "How to write type-safe generics in C",
+      "href": "https://raphgl.github.io/blog/generics-in-c.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 7
+    },
+    {
       "title": "AI World Clocks",
       "href": "https://clocks.brianmoore.com/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Furgit: fast implementation of Git in pure Go",
       "href": "https://github.com/runxiyu/furgit",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 8
+      "index": 9
+    },
+    {
+      "title": "How we avoided side-channels in our new post-quantum Go cryptography libraries",
+      "href": "https://blog.trailofbits.com/2025/11/14/how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 10
     },
     {
       "title": "portable_python: Self-contained Python distribution for Linux",
       "href": "https://github.com/qznc/portable_python",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "How to write type-safe generics in C",
-      "href": "https://raphgl.github.io/blog/generics-in-c.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "How we avoided side-channels in our new post-quantum Go cryptography libraries",
-      "href": "https://blog.trailofbits.com/2025/11/14/how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 11
     },
     {
@@ -86,31 +86,31 @@
       "index": 12
     },
     {
+      "title": "The Inconceivable Types of Rust: How to Make Self-Borrows Safe",
+      "href": "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
       "title": "AMD GPUs go brrr",
       "href": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "marimo — reactive notebook for Python",
-      "href": "https://github.com/marimo-team/marimo",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
       "index": 14
-    },
-    {
-      "title": "Version Control External Content Referenced in Your Blog",
-      "href": "https://lgug2z.com/articles/version-control-external-content-referenced-in-your-blog/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 15
     },
     {
       "title": "the last couple years in v8's garbage collector",
       "href": "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "marimo — reactive notebook for Python",
+      "href": "https://github.com/marimo-team/marimo",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 16
     },
     {
@@ -121,10 +121,10 @@
       "index": 17
     },
     {
-      "title": "How to use UUIDv7 in Python, Django and PostgreSQL",
-      "href": "https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/",
+      "title": "Version Control External Content Referenced in Your Blog",
+      "href": "https://lgug2z.com/articles/version-control-external-content-referenced-in-your-blog/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 18
     },
     {
@@ -138,40 +138,40 @@
       "title": "Gamification of Programming Languages",
       "href": "https://sigusr2.net/gamification-of-programming-languages.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 20
+    },
+    {
+      "title": "How to use UUIDv7 in Python, Django and PostgreSQL",
+      "href": "https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
     },
     {
       "title": "The politics of purely client-side apps",
       "href": "https://pfrazee.leaflet.pub/3m5hwua4sh22v",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/ndfgai/what_are_you_doing_this_weekend",
       "points": "",
       "comments": "\n              24 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Rust in Android: move fast and fix things",
       "href": "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Just One Single History",
       "href": "https://josh-project.github.io/josh/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "ucs-detect: automatically test the Unicode version and support level of a terminal emulator",
-      "href": "https://ucs-detect.readthedocs.io/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
