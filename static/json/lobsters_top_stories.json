@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, November 15, 2025 at 12:20 AM GMT-5",
+  "date": "Saturday, November 15, 2025 at 1:25 AM GMT-5",
   "articles": [
     {
       "title": "This Isn't a Battle",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
-      "title": "A structural regular expression engine for Rust",
-      "href": "https://www.sminez.dev/match-it-again-sam/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 2
-    },
-    {
       "title": "The AI water issue is fake",
       "href": "https://andymasley.substack.com/p/the-ai-water-issue-is-fake",
       "points": "",
       "comments": "\n              26 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "A structural regular expression engine for Rust",
+      "href": "https://www.sminez.dev/match-it-again-sam/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 3
     },
     {
@@ -44,10 +44,10 @@
       "index": 6
     },
     {
-      "title": "AMD GPUs go brrr",
-      "href": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
+      "title": "Go’s Sweet 16",
+      "href": "https://go.dev/blog/16years",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 7
     },
     {
@@ -58,10 +58,10 @@
       "index": 8
     },
     {
-      "title": "Go’s Sweet 16",
-      "href": "https://go.dev/blog/16years",
+      "title": "AMD GPUs go brrr",
+      "href": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 9
     },
     {
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
-      "title": "How to use UUIDv7 in Python, Django and PostgreSQL",
-      "href": "https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
       "title": "the last couple years in v8's garbage collector",
       "href": "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "How to use UUIDv7 in Python, Django and PostgreSQL",
+      "href": "https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 13
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "RMPocalypse Attack: How a Catch-22 Breaks AMD SEV-SNP",
+      "href": "https://rmpocalypse.github.io/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
       "title": "Nation state threat actor used Claude Code to orchestrate cyber attacks",
       "href": "https://www.anthropic.com/news/disrupting-AI-espionage",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 19
+      "index": 20
+    },
+    {
+      "title": "Code execution with MCP: building more efficient AI agents",
+      "href": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
     },
     {
       "title": "The politics of purely client-side apps",
       "href": "https://pfrazee.leaflet.pub/3m5hwua4sh22v",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Announcing Unikraft Support for MirageOS Unikernels",
       "href": "https://tarides.com/blog/2025-11-13-announcing-unikraft-support-for-mirageos-unikernels",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "RMPocalypse Attack: How a Catch-22 Breaks AMD SEV-SNP",
-      "href": "https://rmpocalypse.github.io/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Parsing integers in C",
       "href": "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/",
       "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 23
+      "comments": "\n              29 comments\n            ",
+      "index": 24
     },
     {
       "title": "There is no such thing as a 3.5 inch floppy disc",
       "href": "https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html",
       "points": "",
       "comments": "\n              25 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "AI World Clocks",
-      "href": "https://clocks.brianmoore.com/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
