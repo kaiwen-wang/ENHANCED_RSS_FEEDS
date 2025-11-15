@@ -1,158 +1,158 @@
 {
-  "date": "Saturday, November 15, 2025 at 1:25 AM GMT-5",
+  "date": "Saturday, November 15, 2025 at 2:15 AM GMT-5",
   "articles": [
+    {
+      "title": "So, you want to design your own language?",
+      "href": "https://cs.lmu.edu/~ray/notes/languagedesignnotes/",
+      "points": "26 points",
+      "comments": "8 comments",
+      "index": 1
+    },
     {
       "title": "AI World Clocks",
       "href": "https://clocks.brianmoore.com/",
-      "points": "902 points",
-      "comments": "295 comments",
-      "index": 1
+      "points": "940 points",
+      "comments": "298 comments",
+      "index": 2
     },
     {
       "title": "SSL Configuration Generator",
       "href": "https://ssl-config.mozilla.org/",
-      "points": "129 points",
-      "comments": "37 comments",
-      "index": 2
+      "points": "139 points",
+      "comments": "39 comments",
+      "index": 3
     },
     {
       "title": "A new Google model is nearly perfect on automated handwriting recognition",
       "href": "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of",
-      "points": "257 points",
-      "comments": "161 comments",
-      "index": 3
-    },
-    {
-      "title": "HipKittens: Fast and furious AMD kernels",
-      "href": "https://hazyresearch.stanford.edu/blog/2025-11-09-hk",
-      "points": "127 points",
-      "comments": "46 comments",
+      "points": "279 points",
+      "comments": "166 comments",
       "index": 4
-    },
-    {
-      "title": "No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE",
-      "href": "https://modzero.com/en/blog/no-leak-no-problem/",
-      "points": "56 points",
-      "comments": "3 comments",
-      "index": 5
     },
     {
       "title": "Unofficial Microsoft Teams client for Linux",
       "href": "https://github.com/IsmaelMartinez/teams-for-linux",
-      "points": "68 points",
-      "comments": "60 comments",
+      "points": "91 points",
+      "comments": "66 comments",
+      "index": 5
+    },
+    {
+      "title": "Löb and Möb: Loops in Haskell",
+      "href": "https://github.com/quchen/articles/blob/master/loeb-moeb.md",
+      "points": "11 points",
+      "comments": "1 comment",
       "index": 6
     },
     {
       "title": "AMD GPUs Go Brrr",
       "href": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
-      "points": "23 points",
-      "comments": "2 comments",
+      "points": "44 points",
+      "comments": "3 comments",
       "index": 7
+    },
+    {
+      "title": "HipKittens: Fast and furious AMD kernels",
+      "href": "https://hazyresearch.stanford.edu/blog/2025-11-09-hk",
+      "points": "140 points",
+      "comments": "49 comments",
+      "index": 8
+    },
+    {
+      "title": "No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE",
+      "href": "https://modzero.com/en/blog/no-leak-no-problem/",
+      "points": "59 points",
+      "comments": "4 comments",
+      "index": 9
     },
     {
       "title": "'No One Lives Forever' turns 25 and you still can't buy it legitimately",
       "href": "https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/",
-      "points": "216 points",
-      "comments": "108 comments",
-      "index": 8
+      "points": "225 points",
+      "comments": "109 comments",
+      "index": 10
     },
     {
       "title": "Structured outputs on the Claude Developer Platform",
       "href": "https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-      "points": "123 points",
+      "points": "130 points",
       "comments": "57 comments",
-      "index": 9
+      "index": 11
     },
     {
       "title": "All praise to the lunch ladies",
       "href": "https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies",
-      "points": "163 points",
-      "comments": "85 comments",
-      "index": 10
+      "points": "169 points",
+      "comments": "95 comments",
+      "index": 12
+    },
+    {
+      "title": "Ohm Editor",
+      "href": "https://ohmjs.org/editor/",
+      "points": "5 points",
+      "comments": "discuss",
+      "index": 13
     },
     {
       "title": "A race condition in Aurora RDS",
       "href": "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds",
-      "points": "210 points",
+      "points": "212 points",
       "comments": "68 comments",
-      "index": 11
-    },
-    {
-      "title": "GEN-0 / Embodied Foundation Models That Scale with Physical Interaction",
-      "href": "https://generalistai.com/blog/nov-04-2025-GEN-0",
-      "points": "41 points",
-      "comments": "4 comments",
-      "index": 12
-    },
-    {
-      "title": "I can't recommend Grafana anymore",
-      "href": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
-      "points": "104 points",
-      "comments": "37 comments",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Async Mutexes",
       "href": "https://matklad.github.io/2025/11/04/on-async-mutexes.html",
-      "points": "20 points",
-      "comments": "5 comments",
-      "index": 14
+      "points": "26 points",
+      "comments": "6 comments",
+      "index": 15
     },
     {
-      "title": "Ucs-Detect",
-      "href": "https://ucs-detect.readthedocs.io/intro.html",
-      "points": "4 points",
-      "comments": "discuss",
-      "index": 15
+      "title": "I can't recommend Grafana anymore",
+      "href": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
+      "points": "129 points",
+      "comments": "43 comments",
+      "index": 16
+    },
+    {
+      "title": "GEN-0 / Embodied Foundation Models That Scale with Physical Interaction",
+      "href": "https://generalistai.com/blog/nov-04-2025-GEN-0",
+      "points": "43 points",
+      "comments": "4 comments",
+      "index": 17
     },
     {
       "title": "Winamp clone in Swift for macOS",
       "href": "https://github.com/mgreenwood1001/winamp",
-      "points": "208 points",
-      "comments": "128 comments",
-      "index": 16
-    },
-    {
-      "title": "Manganese is Lyme disease's double-edge sword",
-      "href": "https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword",
-      "points": "134 points",
-      "comments": "76 comments",
-      "index": 17
-    },
-    {
-      "title": "Show HN: Tiny Diffusion – A character-level text diffusion model from scratch",
-      "href": "https://github.com/nathan-barry/tiny-diffusion",
-      "points": "116 points",
-      "comments": "14 comments",
+      "points": "213 points",
+      "comments": "134 comments",
       "index": 18
+    },
+    {
+      "title": "Ucs-Detect",
+      "href": "https://ucs-detect.readthedocs.io/intro.html",
+      "points": "6 points",
+      "comments": "1 comment",
+      "index": 19
     },
     {
       "title": "Lawmakers want to ban VPNs and have no idea what they're doing",
       "href": "https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing",
-      "points": "121 points",
-      "comments": "72 comments",
-      "index": 19
-    },
-    {
-      "title": "Hiring the Joker",
-      "href": "https://quarter--mile.com/hiring-the-joker",
-      "points": "11 points",
-      "comments": "5 comments",
+      "points": "145 points",
+      "comments": "82 comments",
       "index": 20
     },
     {
-      "title": "The disguised return of EU Chat Control",
-      "href": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
-      "points": "582 points",
-      "comments": "245 comments",
+      "title": "Show HN: Tiny Diffusion – A character-level text diffusion model from scratch",
+      "href": "https://github.com/nathan-barry/tiny-diffusion",
+      "points": "119 points",
+      "comments": "14 comments",
       "index": 21
     },
     {
-      "title": "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
-      "href": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
-      "points": "73 points",
-      "comments": "40 comments",
+      "title": "Manganese is Lyme disease's double-edge sword",
+      "href": "https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword",
+      "points": "136 points",
+      "comments": "76 comments",
       "index": 22
     },
     {
@@ -163,52 +163,52 @@
       "index": 23
     },
     {
-      "title": "Awk Technical Notes (2023)",
-      "href": "https://maximullaris.com/awk_tech_notes.html",
-      "points": "119 points",
-      "comments": "42 comments",
+      "title": "The disguised return of EU Chat Control",
+      "href": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
+      "points": "603 points",
+      "comments": "249 comments",
       "index": 24
     },
     {
-      "title": "Go's Sweet 16",
-      "href": "https://go.dev/blog/16years",
-      "points": "133 points",
-      "comments": "74 comments",
+      "title": "Meet Reservoir – The World's Smartest Water Heater",
+      "href": "https://www.reservoirhome.com/",
+      "points": "7 points",
+      "comments": "discuss",
       "index": 25
+    },
+    {
+      "title": "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
+      "href": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
+      "points": "78 points",
+      "comments": "41 comments",
+      "index": 26
+    },
+    {
+      "title": "A structural regular expression engine for Rust",
+      "href": "https://www.sminez.dev/match-it-again-sam/",
+      "points": "8 points",
+      "comments": "discuss",
+      "index": 27
+    },
+    {
+      "title": "Awk Technical Notes (2023)",
+      "href": "https://maximullaris.com/awk_tech_notes.html",
+      "points": "124 points",
+      "comments": "42 comments",
+      "index": 28
+    },
+    {
+      "title": "Hiring the Joker",
+      "href": "https://quarter--mile.com/hiring-the-joker",
+      "points": "12 points",
+      "comments": "9 comments",
+      "index": 29
     },
     {
       "title": "Being poor vs. being broke",
       "href": "https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/",
-      "points": "448 points",
-      "comments": "533 comments",
-      "index": 26
-    },
-    {
-      "title": "Linear algebra explains why some words are effectively untranslatable",
-      "href": "https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable",
-      "points": "132 points",
-      "comments": "103 comments",
-      "index": 27
-    },
-    {
-      "title": "Bitchat for Gaza – messaging without internet",
-      "href": "https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/",
-      "points": "411 points",
-      "comments": "217 comments",
-      "index": 28
-    },
-    {
-      "title": "Xqerl – Erlang XQuery 3.1 Processor",
-      "href": "https://zadean.github.io/xqerl/",
-      "points": "42 points",
-      "comments": "8 comments",
-      "index": 29
-    },
-    {
-      "title": "Over-reliance on English hinders cognitive science",
-      "href": "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4",
-      "points": "28 points",
-      "comments": "33 comments",
+      "points": "465 points",
+      "comments": "542 comments",
       "index": 30
     }
   ]
