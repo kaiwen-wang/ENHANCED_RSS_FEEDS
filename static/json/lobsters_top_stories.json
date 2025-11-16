@@ -1,46 +1,46 @@
 {
-  "date": "Sunday, November 16, 2025 at 4:20 AM GMT-5",
+  "date": "Sunday, November 16, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
       "title": "Blocking LLM crawlers, without JavaScript",
       "href": "https://www.owl.is/blogg/blocking-crawlers-without-javascript/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 1
     },
     {
       "title": "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
       "href": "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 2
     },
     {
       "title": "How to write type-safe generics in C",
       "href": "https://raphgl.github.io/blog/generics-in-c.html",
       "points": "",
-      "comments": "\n              28 comments\n            ",
+      "comments": "\n              29 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "When did people favor composition over inheritance?",
+      "href": "https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 4
     },
     {
       "title": "The Inconceivable Types of Rust: How to Make Self-Borrows Safe",
       "href": "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 4
+      "comments": "\n              4 comments\n            ",
+      "index": 5
     },
     {
       "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
       "href": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "When did people favor composition over inheritance?",
-      "href": "https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 6
     },
     {
@@ -61,12 +61,12 @@
       "title": "Small functions considered harmful (2017)",
       "href": "https://copyconstruct.medium.com/small-functions-considered-harmful-91035d316c29",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 9
     },
     {
-      "title": "Compiler Options Hardening Guide for C and C++",
-      "href": "https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html",
+      "title": "Jonathan Blow On Programming Language Design",
+      "href": "https://youtu.be/e6crOMC9WCE",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 10
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
-      "title": "Building a robust permissions system in TypeScript",
-      "href": "https://xetera.dev/article/typescript-permissions",
+      "title": "Compiler Options Hardening Guide for C and C++",
+      "href": "https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 12
     },
     {
-      "title": "your project fucking sucks",
-      "href": "https://ficd.sh/blog/your-project-sucks/",
+      "title": "Building a robust permissions system in TypeScript",
+      "href": "https://xetera.dev/article/typescript-permissions",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 13
     },
     {
-      "title": "Iceberg, The Right Idea - The Wrong Spec - Part 2 of 2: The Spec",
-      "href": "https://www.database-doctor.com/posts/iceberg-is-wrong-2.html",
+      "title": "librepods: AirPods liberated from Apple's ecosystem",
+      "href": "https://github.com/kavishdevar/librepods",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 14
     },
     {
-      "title": "Jonathan Blow On Programming Lnaguage Design",
-      "href": "https://youtu.be/e6crOMC9WCE",
+      "title": "your project fucking sucks",
+      "href": "https://ficd.sh/blog/your-project-sucks/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 15
-    },
-    {
-      "title": "AI World Clocks",
-      "href": "https://clocks.brianmoore.com/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Don't Post Passive-Aggressive Webpages",
-      "href": "https://dontpostpassiveaggressivewebpages.com/",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Go’s Sweet 16",
-      "href": "https://go.dev/blog/16years",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 18
     },
     {
       "title": "How can web apps be independent protocol clients?",
       "href": "https://fiatjaf.com/6829ad8b.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Iceberg, The Right Idea - The Wrong Spec - Part 2 of 2: The Spec",
+      "href": "https://www.database-doctor.com/posts/iceberg-is-wrong-2.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Don't Post Passive-Aggressive Webpages",
+      "href": "https://dontpostpassiveaggressivewebpages.com/",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "AI World Clocks",
+      "href": "https://clocks.brianmoore.com/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 19
+    },
+    {
+      "title": "Go’s Sweet 16",
+      "href": "https://go.dev/blog/16years",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 20
     },
     {
       "title": "This Isn't a Battle",
       "href": "https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/",
       "points": "",
-      "comments": "\n              42 comments\n            ",
-      "index": 20
+      "comments": "\n              44 comments\n            ",
+      "index": 21
     },
     {
       "title": "The AI water issue is fake",
       "href": "https://andymasley.substack.com/p/the-ai-water-issue-is-fake",
       "points": "",
-      "comments": "\n              45 comments\n            ",
-      "index": 21
+      "comments": "\n              46 comments\n            ",
+      "index": 22
     },
     {
       "title": "Building serverless applications with Rust on AWS Lambda",
       "href": "https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "A structural regular expression engine for Rust",
       "href": "https://www.sminez.dev/match-it-again-sam/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Latency Profiling and Optimization",
       "href": "https://www.youtube.com/watch?v=lv03NAT4Mwc",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Moonpool and OCaml5 in Imandrax",
-      "href": "https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 25
     }
   ]
