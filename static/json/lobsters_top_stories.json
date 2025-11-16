@@ -1,25 +1,25 @@
 {
-  "date": "Sunday, November 16, 2025 at 4:15 PM GMT-5",
+  "date": "Sunday, November 16, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
       "title": "I think nobody wants AI in Firefox, Mozilla",
       "href": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              31 comments\n            ",
       "index": 1
     },
     {
       "title": "Godbolt's Rule",
       "href": "https://corecursive.com/godbolt-rule-matt-godbolt/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 2
     },
     {
-      "title": "Blocking LLM crawlers, without JavaScript",
-      "href": "https://www.owl.is/blogg/blocking-crawlers-without-javascript/",
+      "title": "brimstone: New JavaScript engine written in Rust",
+      "href": "https://github.com/Hans-Halverson/brimstone",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 3
     },
     {
@@ -30,31 +30,31 @@
       "index": 4
     },
     {
-      "title": "brimstone: New JavaScript engine written in Rust",
-      "href": "https://github.com/Hans-Halverson/brimstone",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 5
-    },
-    {
       "title": "Living my best Sun Microsystems ecosystem life in 2025",
       "href": "https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/",
       "points": "",
       "comments": "\n              5 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Blocking LLM crawlers, without JavaScript",
+      "href": "https://www.owl.is/blogg/blocking-crawlers-without-javascript/",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
       "index": 6
     },
     {
       "title": "Jonathan Blow On Programming Language Design",
       "href": "https://youtu.be/e6crOMC9WCE",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 7
     },
     {
       "title": "Production-Grade Container Deployment with Podman Quadlets",
       "href": "https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 8
     },
     {
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
-      "title": "Oblique Strategies: Prompts for Programmers",
-      "href": "https://kevinlawler.com/prompts",
+      "title": "The fate of “small” open source",
+      "href": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 12
     },
     {
-      "title": "How to write type-safe generics in C",
-      "href": "https://raphgl.github.io/blog/generics-in-c.html",
+      "title": "Oblique Strategies: Prompts for Programmers",
+      "href": "https://kevinlawler.com/prompts",
       "points": "",
-      "comments": "\n              38 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 13
     },
     {
@@ -100,17 +100,17 @@
       "index": 14
     },
     {
+      "title": "How to write type-safe generics in C",
+      "href": "https://raphgl.github.io/blog/generics-in-c.html",
+      "points": "",
+      "comments": "\n              38 comments\n            ",
+      "index": 15
+    },
+    {
       "title": "How FOSS Won and Why It Matters",
       "href": "https://www.softwaremaxims.com/blog/how-foss-won-consequences",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "The fate of “small” open source",
-      "href": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 16
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "AMD vs. Intel: a Unicode benchmark",
+      "href": "https://lemire.me/blog/2025/11/16/amd-vs-intel-a-unicode-benchmark/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
       "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
       "href": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Penrose: From Mathematical Notation to Beautiful Diagrams",
       "href": "https://www.youtube.com/watch?v=OyD4LIv2PDc",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "The Inconceivable Types of Rust: How to Make Self-Borrows Safe",
-      "href": "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 20
-    },
-    {
-      "title": "InterpN: Fast Interpolation",
-      "href": "https://jlogan.dev/blog/2025/11/10/2025-11-10-interpn-fast-interpolation/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
     },
     {
       "title": "A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare",
       "href": "https://github.com/nathan-barry/tiny-diffusion",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Waiting for SQL:202y: GROUP BY ALL",
+      "href": "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 22
+    },
+    {
+      "title": "The Inconceivable Types of Rust: How to Make Self-Borrows Safe",
+      "href": "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "InterpN: Fast Interpolation",
+      "href": "https://jlogan.dev/blog/2025/11/10/2025-11-10-interpn-fast-interpolation/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "A 6502 emulator in LabVIEW",
       "href": "https://www.crossover-eng.it/view.php?post=post_4",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "spræ: Hydrate HTML/JSX tree with signal-powered reactive attributes",
-      "href": "https://dy.github.io/sprae/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Small functions considered harmful (2017)",
-      "href": "https://copyconstruct.medium.com/small-functions-considered-harmful-91035d316c29",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 25
     }
   ]

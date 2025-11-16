@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, November 16, 2025 at 4:15 PM GMT-5",
+  "date": "Sunday, November 16, 2025 at 5:15 PM GMT-5",
   "articles": [
     {
-      "title": "62 chapter open-source Zig book",
+      "title": "Open-source Zig book",
       "href": "https://www.zigbook.net",
-      "points": "92 points",
-      "comments": "33 comments",
+      "points": "185 points",
+      "comments": "60 comments",
       "index": 1
-    },
-    {
-      "title": "The fate of \"small\" open source",
-      "href": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
-      "points": "75 points",
-      "comments": "34 comments",
-      "index": 2
     },
     {
       "title": "Tracking users with favicons, even in incognito mode",
       "href": "https://github.com/jonasstrehle/supercookie",
-      "points": "44 points",
-      "comments": "11 comments",
+      "points": "110 points",
+      "comments": "21 comments",
+      "index": 2
+    },
+    {
+      "title": "The fate of \"small\" open source",
+      "href": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
+      "points": "99 points",
+      "comments": "64 comments",
       "index": 3
     },
     {
       "title": "Heretic: Automatic censorship removal for language models",
       "href": "https://github.com/p-e-w/heretic",
-      "points": "302 points",
-      "comments": "99 comments",
+      "points": "339 points",
+      "comments": "116 comments",
       "index": 4
     },
     {
-      "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines",
-      "href": "https://ericpony.github.io/z3py-tutorial/guide-examples.htm",
-      "points": "46 points",
-      "comments": "discuss",
+      "title": "The Pragmatic Programmer: 20th Anniversary Edition (2023)",
+      "href": "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html",
+      "points": "31 points",
+      "comments": "2 comments",
       "index": 5
     },
     {
       "title": "Dark Pattern Games",
       "href": "https://www.darkpattern.games",
-      "points": "19 points",
-      "comments": "2 comments",
+      "points": "45 points",
+      "comments": "17 comments",
       "index": 6
-    },
-    {
-      "title": "Linux mode setting, from the comfort of OCaml",
-      "href": "https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/",
-      "points": "21 points",
-      "comments": "2 comments",
-      "index": 7
-    },
-    {
-      "title": "I have recordings proving Coinbase knew about breach months before disclosure",
-      "href": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
-      "points": "122 points",
-      "comments": "25 comments",
-      "index": 8
-    },
-    {
-      "title": "FPGA Based IBM-PC-XT",
-      "href": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/",
-      "points": "111 points",
-      "comments": "21 comments",
-      "index": 9
-    },
-    {
-      "title": "I finally understand Cloudflare Zero Trust tunnels",
-      "href": "https://david.coffee/cloudflare-zero-trust-tunnels",
-      "points": "44 points",
-      "comments": "15 comments",
-      "index": 10
-    },
-    {
-      "title": "Decoding Leibniz Notation (2024)",
-      "href": "https://www.spakhm.com/leibniz",
-      "points": "15 points",
-      "comments": "discuss",
-      "index": 11
-    },
-    {
-      "title": "Fourier Transforms",
-      "href": "https://www.continuummechanics.org/fourierxforms.html",
-      "points": "72 points",
-      "comments": "10 comments",
-      "index": 12
     },
     {
       "title": "What if you don't need MCP at all?",
       "href": "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/",
-      "points": "24 points",
-      "comments": "6 comments",
+      "points": "58 points",
+      "comments": "24 comments",
+      "index": 7
+    },
+    {
+      "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines",
+      "href": "https://ericpony.github.io/z3py-tutorial/guide-examples.htm",
+      "points": "64 points",
+      "comments": "1 comment",
+      "index": 8
+    },
+    {
+      "title": "I have recordings proving Coinbase knew about breach months before disclosure",
+      "href": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
+      "points": "197 points",
+      "comments": "69 comments",
+      "index": 9
+    },
+    {
+      "title": "Peter Thiel sells off all Nvidia stock, stirring bubble fears",
+      "href": "https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears",
+      "points": "49 points",
+      "comments": "28 comments",
+      "index": 10
+    },
+    {
+      "title": "I finally understand Cloudflare Zero Trust tunnels",
+      "href": "https://david.coffee/cloudflare-zero-trust-tunnels",
+      "points": "72 points",
+      "comments": "23 comments",
+      "index": 11
+    },
+    {
+      "title": "FPGA Based IBM-PC-XT",
+      "href": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/",
+      "points": "118 points",
+      "comments": "23 comments",
+      "index": 12
+    },
+    {
+      "title": "Linux mode setting, from the comfort of OCaml",
+      "href": "https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/",
+      "points": "28 points",
+      "comments": "3 comments",
       "index": 13
     },
     {
-      "title": "Brimstone: ES2025 JavaScript engine written in Rust",
-      "href": "https://github.com/Hans-Halverson/brimstone",
-      "points": "174 points",
-      "comments": "84 comments",
+      "title": "Decoding Leibniz Notation (2024)",
+      "href": "https://www.spakhm.com/leibniz",
+      "points": "24 points",
+      "comments": "discuss",
       "index": 14
+    },
+    {
+      "title": "Fourier Transforms",
+      "href": "https://www.continuummechanics.org/fourierxforms.html",
+      "points": "84 points",
+      "comments": "11 comments",
+      "index": 15
     },
     {
       "title": "Your Land, My Land (Offrange) – Lithium vs. Lettuce in the Imperial Valley, CA",
       "href": "https://ambrook.com/offrange/photo-essay/lithium-v-lettuce",
-      "points": "7 points",
-      "comments": "discuss",
-      "index": 15
-    },
-    {
-      "title": "The Pragmatic Programmer: 20th Anniversary Edition",
-      "href": "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html",
-      "points": "4 points",
-      "comments": "discuss",
+      "points": "15 points",
+      "comments": "1 comment",
       "index": 16
     },
     {
-      "title": "Anthropic’s paper smells like bullshit",
-      "href": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
-      "points": "735 points",
-      "comments": "225 comments",
+      "title": "Brimstone: ES2025 JavaScript engine written in Rust",
+      "href": "https://github.com/Hans-Halverson/brimstone",
+      "points": "179 points",
+      "comments": "84 comments",
       "index": 17
-    },
-    {
-      "title": "De Bruijn Numerals",
-      "href": "https://text.marvinborner.de/2023-08-22-22.html",
-      "points": "54 points",
-      "comments": "7 comments",
-      "index": 18
-    },
-    {
-      "title": "Garbage Collection Is Useful",
-      "href": "https://dubroy.com/blog/garbage-collection-is-useful/",
-      "points": "99 points",
-      "comments": "19 comments",
-      "index": 19
-    },
-    {
-      "title": "Holes (1970) [pdf]",
-      "href": "https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf",
-      "points": "21 points",
-      "comments": "3 comments",
-      "index": 20
-    },
-    {
-      "title": "Waiting for SQL:202y: Group by All",
-      "href": "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all",
-      "points": "25 points",
-      "comments": "5 comments",
-      "index": 21
     },
     {
       "title": "Shell Grotto, Margate",
       "href": "https://en.wikipedia.org/wiki/Shell_Grotto,_Margate",
-      "points": "3 points",
+      "points": "11 points",
+      "comments": "2 comments",
+      "index": 18
+    },
+    {
+      "title": "Why Bcrypt Can Be Unsafe for Password Hashing?",
+      "href": "https://blog.enamya.me/posts/bcrypt-limitation",
+      "points": "4 points",
       "comments": "discuss",
+      "index": 19
+    },
+    {
+      "title": "Anthropic’s paper smells like bullshit",
+      "href": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
+      "points": "774 points",
+      "comments": "240 comments",
+      "index": 20
+    },
+    {
+      "title": "Garbage collection is useful",
+      "href": "https://dubroy.com/blog/garbage-collection-is-useful/",
+      "points": "105 points",
+      "comments": "29 comments",
+      "index": 21
+    },
+    {
+      "title": "Waiting for SQL:202y: Group by All",
+      "href": "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all",
+      "points": "32 points",
+      "comments": "10 comments",
       "index": 22
     },
     {
-      "title": "Measuring the doppler shift of WWVB during a flight",
-      "href": "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/",
-      "points": "103 points",
-      "comments": "discuss",
+      "title": "De Bruijn Numerals",
+      "href": "https://text.marvinborner.de/2023-08-22-22.html",
+      "points": "56 points",
+      "comments": "7 comments",
       "index": 23
     },
     {
       "title": "The Man Who Keeps Predicting the Web's Death",
       "href": "https://tedium.co/2025/10/25/web-dead-predictions-george-colony/",
-      "points": "19 points",
-      "comments": "2 comments",
+      "points": "29 points",
+      "comments": "8 comments",
       "index": 24
+    },
+    {
+      "title": "Measuring the doppler shift of WWVB during a flight",
+      "href": "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/",
+      "points": "109 points",
+      "comments": "discuss",
+      "index": 25
+    },
+    {
+      "title": "Holes (1970) [pdf]",
+      "href": "https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf",
+      "points": "25 points",
+      "comments": "6 comments",
+      "index": 26
     },
     {
       "title": "Vintage Large Language Models",
       "href": "https://owainevans.github.io/talk-transcript.html",
-      "points": "53 points",
-      "comments": "14 comments",
-      "index": 25
-    },
-    {
-      "title": "Adding an imaginary unit to a finite field",
-      "href": "https://www.johndcook.com/blog/2025/11/16/finite-field-i/",
-      "points": "5 points",
-      "comments": "1 comment",
-      "index": 26
+      "points": "56 points",
+      "comments": "18 comments",
+      "index": 27
     },
     {
       "title": "Running the \"Reflections on Trusting Trust\" Compiler (2023)",
       "href": "https://research.swtch.com/nih",
-      "points": "100 points",
-      "comments": "4 comments",
-      "index": 27
+      "points": "105 points",
+      "comments": "5 comments",
+      "index": 28
+    },
+    {
+      "title": "Adding an imaginary unit to a finite field",
+      "href": "https://www.johndcook.com/blog/2025/11/16/finite-field-i/",
+      "points": "8 points",
+      "comments": "1 comment",
+      "index": 29
     },
     {
       "title": "AirPods libreated from Apple's ecosystem",
       "href": "https://github.com/kavishdevar/librepods",
-      "points": "1212 points",
-      "comments": "352 comments",
-      "index": 28
-    },
-    {
-      "title": "Three kinds of AI products work",
-      "href": "https://www.seangoedecke.com/ai-products/",
-      "points": "96 points",
-      "comments": "95 comments",
-      "index": 29
-    },
-    {
-      "title": "Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]",
-      "href": "https://www.youtube.com/watch?v=uB0gr7Fh6lY",
-      "points": "110 points",
-      "comments": "39 comments",
+      "points": "1231 points",
+      "comments": "360 comments",
       "index": 30
     }
   ]
