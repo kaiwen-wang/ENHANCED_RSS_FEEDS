@@ -1,179 +1,179 @@
 {
-  "date": "Saturday, November 15, 2025 at 6:15 PM GMT-5",
+  "date": "Saturday, November 15, 2025 at 8:45 PM GMT-5",
   "articles": [
     {
       "title": "How to write type-safe generics in C",
       "href": "https://raphgl.github.io/blog/generics-in-c.html",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "Blocking LLM crawlers, without JavaScript",
+      "href": "https://www.owl.is/blogg/blocking-crawlers-without-javascript/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
+      "href": "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 3
     },
     {
       "title": "The Inconceivable Types of Rust: How to Make Self-Borrows Safe",
       "href": "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 2
+      "index": 4
     },
     {
       "title": "10 patterns for faster python code",
       "href": "https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Compiler Options Hardening Guide for C and C++",
-      "href": "https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "I can’t recommend Grafana anymore",
       "href": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
-      "title": "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
-      "href": "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga",
+      "title": "Compiler Options Hardening Guide for C and C++",
+      "href": "https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 6
+      "index": 7
+    },
+    {
+      "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
+      "href": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 8
     },
     {
       "title": "Small functions considered harmful (2017)",
       "href": "https://copyconstruct.medium.com/small-functions-considered-harmful-91035d316c29",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Go’s Sweet 16",
-      "href": "https://go.dev/blog/16years",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "This Isn't a Battle",
-      "href": "https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/",
-      "points": "",
-      "comments": "\n              36 comments\n            ",
       "index": 9
-    },
-    {
-      "title": "Don't Post Passive-Aggressive Webpages",
-      "href": "https://dontpostpassiveaggressivewebpages.com/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "AI World Clocks",
-      "href": "https://clocks.brianmoore.com/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "The AI water issue is fake",
-      "href": "https://andymasley.substack.com/p/the-ai-water-issue-is-fake",
-      "points": "",
-      "comments": "\n              43 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "A structural regular expression engine for Rust",
-      "href": "https://www.sminez.dev/match-it-again-sam/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Iceberg, The Right Idea - The Wrong Spec - Part 2 of 2: The Spec",
-      "href": "https://www.database-doctor.com/posts/iceberg-is-wrong-2.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "How can web apps be independent protocol clients?",
-      "href": "https://fiatjaf.com/6829ad8b.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Building serverless applications with Rust on AWS Lambda",
-      "href": "https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Moonpool and OCaml5 in Imandrax",
-      "href": "https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Announcing IncusOS",
-      "href": "https://discuss.linuxcontainers.org/t/announcing-incusos/25139",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "The Rise of Subagents",
-      "href": "https://www.philschmid.de/the-rise-of-subagents",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
     },
     {
       "title": "Building a robust permissions system in TypeScript",
       "href": "https://xetera.dev/article/typescript-permissions",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Go’s Sweet 16",
+      "href": "https://go.dev/blog/16years",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Don't Post Passive-Aggressive Webpages",
+      "href": "https://dontpostpassiveaggressivewebpages.com/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "This Isn't a Battle",
+      "href": "https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/",
+      "points": "",
+      "comments": "\n              39 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "AI World Clocks",
+      "href": "https://clocks.brianmoore.com/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "The AI water issue is fake",
+      "href": "https://andymasley.substack.com/p/the-ai-water-issue-is-fake",
+      "points": "",
+      "comments": "\n              43 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "A structural regular expression engine for Rust",
+      "href": "https://www.sminez.dev/match-it-again-sam/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Iceberg, The Right Idea - The Wrong Spec - Part 2 of 2: The Spec",
+      "href": "https://www.database-doctor.com/posts/iceberg-is-wrong-2.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
+      "title": "How can web apps be independent protocol clients?",
+      "href": "https://fiatjaf.com/6829ad8b.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Building serverless applications with Rust on AWS Lambda",
+      "href": "https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "your project fucking sucks",
+      "href": "https://ficd.sh/blog/your-project-sucks/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 20
+    },
+    {
+      "title": "Moonpool and OCaml5 in Imandrax",
+      "href": "https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Announcing IncusOS",
+      "href": "https://discuss.linuxcontainers.org/t/announcing-incusos/25139",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "The Rise of Subagents",
+      "href": "https://www.philschmid.de/the-rise-of-subagents",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "How we avoided side-channels in our new post-quantum Go cryptography libraries",
       "href": "https://blog.trailofbits.com/2025/11/14/how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "portable_python: Self-contained Python distribution for Linux",
       "href": "https://github.com/qznc/portable_python",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Furgit: fast implementation of Git in pure Go",
-      "href": "https://github.com/runxiyu/furgit",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "stickertop.art",
-      "href": "https://stickertop.art/main/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "How to use UUIDv7 in Python, Django and PostgreSQL",
-      "href": "https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
