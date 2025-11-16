@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, November 16, 2025 at 2:15 PM GMT-5",
+  "date": "Sunday, November 16, 2025 at 3:20 PM GMT-5",
   "articles": [
+    {
+      "title": "The fate of \"small\" open source",
+      "href": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
+      "points": "45 points",
+      "comments": "12 comments",
+      "index": 1
+    },
     {
       "title": "Heretic: Automatic censorship removal for language models",
       "href": "https://github.com/p-e-w/heretic",
-      "points": "211 points",
-      "comments": "56 comments",
-      "index": 1
+      "points": "272 points",
+      "comments": "81 comments",
+      "index": 2
+    },
+    {
+      "title": "62 chapter open-source Zig book",
+      "href": "https://www.zigbook.net",
+      "points": "17 points",
+      "comments": "1 comment",
+      "index": 3
+    },
+    {
+      "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines",
+      "href": "https://ericpony.github.io/z3py-tutorial/guide-examples.htm",
+      "points": "23 points",
+      "comments": "discuss",
+      "index": 4
     },
     {
       "title": "FPGA Based IBM-PC-XT",
       "href": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/",
-      "points": "76 points",
-      "comments": "13 comments",
-      "index": 2
-    },
-    {
-      "title": "Brimstone: ES2025 JavaScript engine written in Rust",
-      "href": "https://github.com/Hans-Halverson/brimstone",
-      "points": "145 points",
-      "comments": "74 comments",
-      "index": 3
-    },
-    {
-      "title": "AirPods libreated from Apple's ecosystem",
-      "href": "https://github.com/kavishdevar/librepods",
-      "points": "1125 points",
-      "comments": "329 comments",
-      "index": 4
-    },
-    {
-      "title": "Fourier Transforms",
-      "href": "https://www.continuummechanics.org/fourierxforms.html",
-      "points": "29 points",
-      "comments": "5 comments",
+      "points": "97 points",
+      "comments": "18 comments",
       "index": 5
-    },
-    {
-      "title": "Garbage Collection Is Useful",
-      "href": "https://dubroy.com/blog/garbage-collection-is-useful/",
-      "points": "69 points",
-      "comments": "9 comments",
-      "index": 6
-    },
-    {
-      "title": "De Bruijn Numerals",
-      "href": "https://text.marvinborner.de/2023-08-22-22.html",
-      "points": "33 points",
-      "comments": "7 comments",
-      "index": 7
-    },
-    {
-      "title": "Running the \"Reflections on Trusting Trust\" Compiler (2023)",
-      "href": "https://research.swtch.com/nih",
-      "points": "88 points",
-      "comments": "2 comments",
-      "index": 8
-    },
-    {
-      "title": "Measuring the doppler shift of WWVB during a flight",
-      "href": "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/",
-      "points": "78 points",
-      "comments": "discuss",
-      "index": 9
-    },
-    {
-      "title": "Holes (1970) [pdf]",
-      "href": "https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf",
-      "points": "6 points",
-      "comments": "1 comment",
-      "index": 10
-    },
-    {
-      "title": "Anthropic's report smells a lot like bullshit",
-      "href": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
-      "points": "649 points",
-      "comments": "207 comments",
-      "index": 11
     },
     {
       "title": "AI is killing privacy. We can't let that happen",
       "href": "https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps",
-      "points": "13 points",
+      "points": "64 points",
+      "comments": "44 comments",
+      "index": 6
+    },
+    {
+      "title": "Fourier Transforms",
+      "href": "https://www.continuummechanics.org/fourierxforms.html",
+      "points": "57 points",
+      "comments": "7 comments",
+      "index": 7
+    },
+    {
+      "title": "I finally understand Cloudflare Zero Trust tunnels",
+      "href": "https://david.coffee/cloudflare-zero-trust-tunnels",
+      "points": "23 points",
       "comments": "5 comments",
+      "index": 8
+    },
+    {
+      "title": "Brimstone: ES2025 JavaScript engine written in Rust",
+      "href": "https://github.com/Hans-Halverson/brimstone",
+      "points": "158 points",
+      "comments": "81 comments",
+      "index": 9
+    },
+    {
+      "title": "Garbage Collection Is Useful",
+      "href": "https://dubroy.com/blog/garbage-collection-is-useful/",
+      "points": "90 points",
+      "comments": "15 comments",
+      "index": 10
+    },
+    {
+      "title": "Linux mode setting, from the comfort of OCaml",
+      "href": "https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 11
+    },
+    {
+      "title": "De Bruijn Numerals",
+      "href": "https://text.marvinborner.de/2023-08-22-22.html",
+      "points": "45 points",
+      "comments": "7 comments",
       "index": 12
     },
     {
-      "title": "PgFirstAid: PostgreSQL function for improving stability and performance",
-      "href": "https://github.com/randoneering/pgFirstAid",
-      "points": "62 points",
-      "comments": "5 comments",
+      "title": "Tracking users with favicons, even in incognito mode",
+      "href": "https://github.com/jonasstrehle/supercookie",
+      "points": "3 points",
+      "comments": "discuss",
       "index": 13
     },
     {
-      "title": "Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog",
-      "href": "https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html",
-      "points": "31 points",
-      "comments": "14 comments",
+      "title": "Holes (1970) [pdf]",
+      "href": "https://rintintin.colorado.edu/~vancecd/phil375/Lewis1.pdf",
+      "points": "16 points",
+      "comments": "2 comments",
       "index": 14
     },
     {
-      "title": "Where Educational Technology Fails: A seventh-grader's perspective",
-      "href": "https://micahblachman.beehiiv.com/p/where-educational-technology-fails",
-      "points": "23 points",
-      "comments": "75 comments",
-      "index": 15
-    },
-    {
-      "title": "Three kinds of AI products work",
-      "href": "https://www.seangoedecke.com/ai-products/",
-      "points": "65 points",
-      "comments": "67 comments",
-      "index": 16
-    },
-    {
-      "title": "Vintage Large Language Models",
-      "href": "https://owainevans.github.io/talk-transcript.html",
-      "points": "32 points",
-      "comments": "12 comments",
-      "index": 17
-    },
-    {
-      "title": "Maybe you’re not trying",
-      "href": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
-      "points": "305 points",
-      "comments": "141 comments",
-      "index": 18
-    },
-    {
-      "title": "IDEmacs: A Visual Studio Code clone for Emacs",
-      "href": "https://codeberg.org/IDEmacs/IDEmacs",
-      "points": "283 points",
-      "comments": "116 comments",
-      "index": 19
-    },
-    {
-      "title": "Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]",
-      "href": "https://www.youtube.com/watch?v=uB0gr7Fh6lY",
-      "points": "63 points",
-      "comments": "16 comments",
-      "index": 20
-    },
-    {
-      "title": "Diamonds and Lasers: Thermal Management for Chips",
-      "href": "https://spectrum.ieee.org/thermal-management-chips",
-      "points": "5 points",
+      "title": "Measuring the doppler shift of WWVB during a flight",
+      "href": "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/",
+      "points": "95 points",
       "comments": "discuss",
-      "index": 21
+      "index": 15
     },
     {
       "title": "Waiting for SQL:202y: Group by All",
       "href": "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all",
-      "points": "4 points",
+      "points": "18 points",
+      "comments": "4 comments",
+      "index": 16
+    },
+    {
+      "title": "Running the \"Reflections on Trusting Trust\" Compiler (2023)",
+      "href": "https://research.swtch.com/nih",
+      "points": "95 points",
+      "comments": "4 comments",
+      "index": 17
+    },
+    {
+      "title": "Anthropic's report smells a lot like bullshit",
+      "href": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
+      "points": "709 points",
+      "comments": "215 comments",
+      "index": 18
+    },
+    {
+      "title": "The Man Who Keeps Predicting the Web's Death",
+      "href": "https://tedium.co/2025/10/25/web-dead-predictions-george-colony/",
+      "points": "13 points",
       "comments": "discuss",
+      "index": 19
+    },
+    {
+      "title": "Vintage Large Language Models",
+      "href": "https://owainevans.github.io/talk-transcript.html",
+      "points": "42 points",
+      "comments": "13 comments",
+      "index": 20
+    },
+    {
+      "title": "Three kinds of AI products work",
+      "href": "https://www.seangoedecke.com/ai-products/",
+      "points": "83 points",
+      "comments": "82 comments",
+      "index": 21
+    },
+    {
+      "title": "Where Educational Technology Fails: A seventh-grader's perspective",
+      "href": "https://micahblachman.beehiiv.com/p/where-educational-technology-fails",
+      "points": "31 points",
+      "comments": "89 comments",
       "index": 22
     },
     {
-      "title": "Things that aren't doing the thing",
-      "href": "https://strangestloop.io/essays/things-that-arent-doing-the-thing",
-      "points": "421 points",
-      "comments": "195 comments",
+      "title": "AirPods libreated from Apple's ecosystem",
+      "href": "https://github.com/kavishdevar/librepods",
+      "points": "1190 points",
+      "comments": "346 comments",
       "index": 23
+    },
+    {
+      "title": "PgFirstAid: PostgreSQL function for improving stability and performance",
+      "href": "https://github.com/randoneering/pgFirstAid",
+      "points": "74 points",
+      "comments": "8 comments",
+      "index": 24
+    },
+    {
+      "title": "Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog",
+      "href": "https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html",
+      "points": "37 points",
+      "comments": "17 comments",
+      "index": 25
+    },
+    {
+      "title": "Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]",
+      "href": "https://www.youtube.com/watch?v=uB0gr7Fh6lY",
+      "points": "88 points",
+      "comments": "26 comments",
+      "index": 26
+    },
+    {
+      "title": "Maybe you’re not trying",
+      "href": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
+      "points": "332 points",
+      "comments": "145 comments",
+      "index": 27
+    },
+    {
+      "title": "Diamonds and Lasers: Thermal Management for Chips",
+      "href": "https://spectrum.ieee.org/thermal-management-chips",
+      "points": "7 points",
+      "comments": "discuss",
+      "index": 28
     },
     {
       "title": "The Internet Is No Longer a Safe Haven",
       "href": "https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/",
-      "points": "182 points",
-      "comments": "143 comments",
-      "index": 24
-    },
-    {
-      "title": "Run Nix Based Environments in Kubernetes",
-      "href": "https://flox.dev/kubernetes/",
-      "points": "95 points",
-      "comments": "29 comments",
-      "index": 25
+      "points": "202 points",
+      "comments": "153 comments",
+      "index": 29
     },
     {
       "title": "A new documentary about the history of forced psychiatric treatment in Spain",
       "href": "https://www.bbc.co.uk/news/articles/cr43vx0rrwvo",
-      "points": "119 points",
-      "comments": "105 comments",
-      "index": 26
-    },
-    {
-      "title": "Iran begins cloud seeding operations as drought bites",
-      "href": "https://www.arabnews.com/node/2622812/middle-east",
-      "points": "116 points",
-      "comments": "125 comments",
-      "index": 27
-    },
-    {
-      "title": "UK's first small nuclear power station to be built in north Wales",
-      "href": "https://www.bbc.com/news/articles/c051y3d7myzo",
-      "points": "139 points",
-      "comments": "178 comments",
-      "index": 28
-    },
-    {
-      "title": "Alchemy",
-      "href": "https://joshcollinsworth.com/blog/alchemy",
-      "points": "20 points",
-      "comments": "12 comments",
-      "index": 29
-    },
-    {
-      "title": "Writing a DOS Clone in 2019",
-      "href": "https://medium.com/@andrewimm/writing-a-dos-clone-in-2019-70eac97ec3e1",
-      "points": "56 points",
-      "comments": "21 comments",
+      "points": "132 points",
+      "comments": "121 comments",
       "index": 30
     }
   ]
