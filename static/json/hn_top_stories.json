@@ -1,214 +1,214 @@
 {
-  "date": "Monday, November 17, 2025 at 8:30 AM GMT-5",
+  "date": "Monday, November 17, 2025 at 9:20 AM GMT-5",
   "articles": [
-    {
-      "title": "Giving C a Superpower",
-      "href": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/",
-      "points": "77 points",
-      "comments": "35 comments",
-      "index": 1
-    },
     {
       "title": "Show HN: I built a synth for my daughter",
       "href": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/",
-      "points": "7 points",
-      "comments": "discuss",
+      "points": "117 points",
+      "comments": "21 comments",
+      "index": 1
+    },
+    {
+      "title": "Giving C a Superpower",
+      "href": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/",
+      "points": "103 points",
+      "comments": "61 comments",
       "index": 2
     },
     {
-      "title": "Craft Chrome Devtools Protocol (CDP) commands with the new command editor",
-      "href": "https://developer.chrome.com/blog/cdp-command-editor",
-      "points": "54 points",
-      "comments": "6 comments",
+      "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
+      "href": "https://github.com/medusalix/FreeMDU",
+      "points": "24 points",
+      "comments": "4 comments",
       "index": 3
-    },
-    {
-      "title": "Building a Simple Search Engine That Works",
-      "href": "https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works",
-      "points": "166 points",
-      "comments": "48 comments",
-      "index": 4
-    },
-    {
-      "title": "Quest for Permissively Licensed PDF Library in C#",
-      "href": "https://duerrenberger.dev/blog/2025/11/04/quest-for-permissively-licensed-pdf-library-in-csharp/",
-      "points": "20 points",
-      "comments": "12 comments",
-      "index": 5
-    },
-    {
-      "title": "Heretic: Automatic censorship removal for language models",
-      "href": "https://github.com/p-e-w/heretic",
-      "points": "636 points",
-      "comments": "274 comments",
-      "index": 6
-    },
-    {
-      "title": "A file format uncracked for 20 years",
-      "href": "https://landaire.net/a-file-format-uncracked-for-20-years/",
-      "points": "225 points",
-      "comments": "37 comments",
-      "index": 7
-    },
-    {
-      "title": "FCC Chairman backs demand that NBC fire Seth Meyers 'immediately'",
-      "href": "https://ew.com/donald-trump-calls-for-nbc-to-immediately-fire-seth-meyers-11850483",
-      "points": "37 points",
-      "comments": "7 comments",
-      "index": 8
     },
     {
       "title": "GCC 16 considering changing default to C++20",
       "href": "https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/",
-      "points": "9 points",
-      "comments": "discuss",
-      "index": 9
-    },
-    {
-      "title": "Listen to Database Changes Through the Postgres WAL",
-      "href": "https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal",
-      "points": "125 points",
-      "comments": "32 comments",
-      "index": 10
-    },
-    {
-      "title": "Fastmcpp (Fastmcp for C++)",
-      "href": "https://github.com/0xeb/fastmcpp",
-      "points": "23 points",
-      "comments": "discuss",
-      "index": 11
-    },
-    {
-      "title": "A 1961 Relay Computer Running in the Browser",
-      "href": "https://minivac.greg.technology/",
-      "points": "96 points",
+      "points": "34 points",
       "comments": "26 comments",
-      "index": 12
+      "index": 4
+    },
+    {
+      "title": "Craft Chrome Devtools Protocol (CDP) commands with the new command editor",
+      "href": "https://developer.chrome.com/blog/cdp-command-editor",
+      "points": "62 points",
+      "comments": "11 comments",
+      "index": 5
     },
     {
       "title": "C++ implementation of SIP, ICE, TURN and related protocols",
       "href": "https://github.com/resiprocate/resiprocate",
-      "points": "5 points",
+      "points": "19 points",
       "comments": "discuss",
+      "index": 6
+    },
+    {
+      "title": "Quest for Permissively Licensed PDF Library in C#",
+      "href": "https://duerrenberger.dev/blog/2025/11/04/quest-for-permissively-licensed-pdf-library-in-csharp/",
+      "points": "29 points",
+      "comments": "21 comments",
+      "index": 7
+    },
+    {
+      "title": "Building a Simple Search Engine That Works",
+      "href": "https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works",
+      "points": "179 points",
+      "comments": "52 comments",
+      "index": 8
+    },
+    {
+      "title": "Heretic: Automatic censorship removal for language models",
+      "href": "https://github.com/p-e-w/heretic",
+      "points": "646 points",
+      "comments": "287 comments",
+      "index": 9
+    },
+    {
+      "title": "A file format uncracked for 20 years",
+      "href": "https://landaire.net/a-file-format-uncracked-for-20-years/",
+      "points": "235 points",
+      "comments": "38 comments",
+      "index": 10
+    },
+    {
+      "title": "Listen to Database Changes Through the Postgres WAL",
+      "href": "https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal",
+      "points": "136 points",
+      "comments": "34 comments",
+      "index": 11
+    },
+    {
+      "title": "Fastmcpp (Fastmcp for C++)",
+      "href": "https://github.com/0xeb/fastmcpp",
+      "points": "28 points",
+      "comments": "1 comment",
+      "index": 12
+    },
+    {
+      "title": "Mysterious drones have been spotted at airports across Europe",
+      "href": "https://www.bbc.co.uk/news/articles/crkl3d6pegpo",
+      "points": "27 points",
+      "comments": "12 comments",
       "index": 13
+    },
+    {
+      "title": "A 1961 Relay Computer Running in the Browser",
+      "href": "https://minivac.greg.technology/",
+      "points": "101 points",
+      "comments": "27 comments",
+      "index": 14
+    },
+    {
+      "title": "Ned: ImGui Text Editor with GL Shaders",
+      "href": "https://github.com/nealmick/ned",
+      "points": "7 points",
+      "comments": "discuss",
+      "index": 15
     },
     {
       "title": "PicoIDE – An open IDE/ATAPI drive emulator",
       "href": "https://picoide.com/",
-      "points": "143 points",
-      "comments": "30 comments",
-      "index": 14
+      "points": "147 points",
+      "comments": "31 comments",
+      "index": 16
     },
     {
       "title": "The fate of \"small\" open source",
       "href": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
-      "points": "243 points",
-      "comments": "183 comments",
-      "index": 15
+      "points": "251 points",
+      "comments": "187 comments",
+      "index": 17
     },
     {
       "title": "I finally understand Cloudflare Zero Trust tunnels",
       "href": "https://david.coffee/cloudflare-zero-trust-tunnels",
-      "points": "242 points",
-      "comments": "79 comments",
-      "index": 16
-    },
-    {
-      "title": "Open-source Zig book",
-      "href": "https://www.zigbook.net",
-      "points": "660 points",
-      "comments": "324 comments",
-      "index": 17
+      "points": "249 points",
+      "comments": "81 comments",
+      "index": 18
     },
     {
       "title": "The Pragmatic Programmer: 20th Anniversary Edition (2023)",
       "href": "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html",
-      "points": "160 points",
-      "comments": "38 comments",
-      "index": 18
-    },
-    {
-      "title": "Neuroscientists track the neural activity underlying an “aha”",
-      "href": "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/",
-      "points": "119 points",
-      "comments": "29 comments",
+      "points": "163 points",
+      "comments": "43 comments",
       "index": 19
     },
     {
       "title": "FPGA Based IBM-PC-XT",
       "href": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/",
-      "points": "186 points",
-      "comments": "36 comments",
+      "points": "197 points",
+      "comments": "40 comments",
       "index": 20
+    },
+    {
+      "title": "US startup Substrate announces chipmaking tool that it says will rival ASML",
+      "href": "https://www.msn.com/en-in/news/world/us-startup-substrate-announces-chipmaking-tool-that-it-says-will-rival-asml/ar-AA1PltWT",
+      "points": "8 points",
+      "comments": "15 comments",
+      "index": 21
+    },
+    {
+      "title": "Neuroscientists track the neural activity underlying an “aha”",
+      "href": "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/",
+      "points": "123 points",
+      "comments": "35 comments",
+      "index": 22
     },
     {
       "title": "Runit Linux: Complete Guide to Unix Init Scheme with Service Supervision",
       "href": "https://codelucky.com/runit-linux-init-service-supervision/",
-      "points": "53 points",
-      "comments": "28 comments",
-      "index": 21
+      "points": "57 points",
+      "comments": "32 comments",
+      "index": 23
     },
     {
       "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines (2015)",
       "href": "https://ericpony.github.io/z3py-tutorial/guide-examples.htm",
-      "points": "132 points",
+      "points": "135 points",
       "comments": "12 comments",
-      "index": 22
-    },
-    {
-      "title": "A new chapter begins for EV batteries with the expiry of key LFP patents",
-      "href": "https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents",
-      "points": "161 points",
-      "comments": "135 comments",
-      "index": 23
-    },
-    {
-      "title": "The evolution of rationality: How chimps process conflicting evidence",
-      "href": "https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/",
-      "points": "13 points",
-      "comments": "1 comment",
       "index": 24
+    },
+    {
+      "title": "Open-source Zig book",
+      "href": "https://www.zigbook.net",
+      "points": "671 points",
+      "comments": "330 comments",
+      "index": 25
     },
     {
       "title": "Fourier Transforms",
       "href": "https://www.continuummechanics.org/fourierxforms.html",
-      "points": "156 points",
+      "points": "158 points",
       "comments": "20 comments",
-      "index": 25
-    },
-    {
-      "title": "Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down",
-      "href": "https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/",
-      "points": "36 points",
-      "comments": "15 comments",
       "index": 26
     },
     {
       "title": "Why Castrol Honda Superbike crashes on (most) modern systems",
       "href": "https://seri.tools/blog/castrol-honda-superbike/",
-      "points": "92 points",
-      "comments": "19 comments",
+      "points": "106 points",
+      "comments": "24 comments",
       "index": 27
     },
     {
-      "title": "\"Snarky\"; \"Snark\"",
-      "href": "https://notoneoffbritishisms.com/2025/10/13/snarky-snark/",
-      "points": "17 points",
-      "comments": "9 comments",
+      "title": "Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down",
+      "href": "https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/",
+      "points": "40 points",
+      "comments": "17 comments",
       "index": 28
+    },
+    {
+      "title": "A new chapter begins for EV batteries with the expiry of key LFP patents",
+      "href": "https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents",
+      "points": "163 points",
+      "comments": "142 comments",
+      "index": 29
     },
     {
       "title": "Supercookie: Browser Fingerprinting via Favicon (2021)",
       "href": "https://github.com/jonasstrehle/supercookie",
-      "points": "324 points",
-      "comments": "84 comments",
-      "index": 29
-    },
-    {
-      "title": "I have recordings proving Coinbase knew about breach months before disclosure",
-      "href": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
-      "points": "595 points",
-      "comments": "178 comments",
+      "points": "329 points",
+      "comments": "89 comments",
       "index": 30
     }
   ]
