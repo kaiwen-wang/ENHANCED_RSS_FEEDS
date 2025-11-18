@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, November 18, 2025 at 8:30 AM GMT-5",
+  "date": "Tuesday, November 18, 2025 at 9:20 AM GMT-5",
   "articles": [
-    {
-      "title": "My next chapter with Mastodon",
-      "href": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 1
-    },
     {
       "title": "Do Not Put Your Site Behind Cloudflare if You Don't Need To",
       "href": "https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              27 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "My next chapter with Mastodon",
+      "href": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 2
     },
     {
@@ -26,7 +26,7 @@
       "title": "Chuck Moore retires from colorforth after latest Windows breaks rendering",
       "href": "https://www.youtube.com/watch?v=MvkGBWXb2oQ",
       "points": "",
-      "comments": "\n              21 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 4
     },
     {
@@ -40,14 +40,14 @@
       "title": "A 450 KB static site generator based on Markdown and Lua",
       "href": "https://log.schemescape.com/posts/static-site-generators/smallest-static-site-generator.html",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 6
     },
     {
       "title": "Pre-PEP: Rust for CPython",
       "href": "https://discuss.python.org/t/pre-pep-rust-for-cpython/104906",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 7
     },
     {
@@ -79,10 +79,10 @@
       "index": 11
     },
     {
-      "title": "Launching the 2025 State of Rust Survey",
-      "href": "https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/",
+      "title": "How quake.exe got its TCP/IP stack",
+      "href": "https://fabiensanglard.net/quake_chunnel/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 12
     },
     {
@@ -93,24 +93,24 @@
       "index": 13
     },
     {
-      "title": "How quake.exe got its TCP/IP stack",
-      "href": "https://fabiensanglard.net/quake_chunnel/",
+      "title": "Launching the 2025 State of Rust Survey",
+      "href": "https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Rebecca Heineman - from homelessness to porting Doom",
+      "href": "https://corecursive.com/doomed-to-fail-with-burger-becky/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Digital Signals Theory",
       "href": "https://brianmcfee.net/dstbook-site/content/intro.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Giving C a Superpower: custom header file (safe_c.h)",
-      "href": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
       "index": 16
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
-      "title": "Memory-corrupting Pong",
-      "href": "https://arhan.sh/blog/memory-corrupting-pong/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 18
-    },
-    {
       "title": "Minimal Periodic Task Runner in Elixir",
       "href": "https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "Giving C a Superpower: custom header file (safe_c.h)",
+      "href": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
       "index": 19
-    },
-    {
-      "title": "I think nobody wants AI in Firefox, Mozilla",
-      "href": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
-      "points": "",
-      "comments": "\n              60 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Programming a Program-Oriented-Language",
-      "href": "https://www.btbytes.com/docs/POL.pdf",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "A DST primer for unit test maxxers",
-      "href": "https://www.amplifypartners.com/blog-posts/a-dst-primer-for-unit-test-maxxers",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Typechecking is undecideable when 'type' is a type (1989)",
-      "href": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 23
     },
     {
       "title": "The Uselessness of \"Fast\" and \"Slow\" in Programming",
       "href": "https://jerf.org/iri/post/2025/the_uselessness_of_fast/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Memory-corrupting Pong",
+      "href": "https://arhan.sh/blog/memory-corrupting-pong/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "I think nobody wants AI in Firefox, Mozilla",
+      "href": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
+      "points": "",
+      "comments": "\n              61 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Programming a Program-Oriented-Language",
+      "href": "https://www.btbytes.com/docs/POL.pdf",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "A DST primer for unit test maxxers",
+      "href": "https://www.amplifypartners.com/blog-posts/a-dst-primer-for-unit-test-maxxers",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "What if everything was \"Async\", but nothing needed \"Await\"?",
-      "href": "https://www.youtube.com/watch?v=tpICs7uG3n8",
+      "title": "Typechecking is undecideable when 'type' is a type (1989)",
+      "href": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 25
     }
   ]
