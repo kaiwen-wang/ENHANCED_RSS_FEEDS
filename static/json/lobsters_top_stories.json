@@ -1,46 +1,46 @@
 {
-  "date": "Wednesday, November 19, 2025 at 4:15 PM GMT-5",
+  "date": "Wednesday, November 19, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "What Makes the Intro to Crafting Interpreters so Good?",
       "href": "https://refactoringenglish.com/blog/crafting-interpreters-intro/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 1
     },
     {
       "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared",
       "href": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 2
     },
     {
       "title": "The lost cause of the Lisp machines",
       "href": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "What Killed Perl?",
+      "href": "https://entropicthoughts.com/what-killed-perl",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 4
     },
     {
       "title": "Cloudflare outage on November 18, 2025",
       "href": "https://blog.cloudflare.com/18-november-2025-outage/",
       "points": "",
       "comments": "\n              157 comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Self-hosting DNS for no fun, but a little profit",
       "href": "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/",
       "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "What Killed Perl?",
-      "href": "https://entropicthoughts.com/what-killed-perl",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              26 comments\n            ",
       "index": 6
     },
     {
@@ -72,108 +72,108 @@
       "index": 10
     },
     {
-      "title": "A surprise with how '#!' handles its program argument in practice",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise?showcomments",
-      "points": "",
-      "comments": "\n              26 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Announcing Lix 2.94 “Açaí na tigela”",
-      "href": "https://lix.systems/blog/2025-11-18-lix-2.94-release/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "My next chapter with Mastodon",
-      "href": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
-      "points": "",
-      "comments": "\n              41 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Hachi:  An Image search engine",
-      "href": "https://eagledot.xyz/hachi.md.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Experiment: making TypeScript immutable-by-default",
-      "href": "https://evanhahn.com/typescript-immutability-experiment/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "A Month of Chat-Oriented Programming",
-      "href": "https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
-      "href": "https://github.com/cloudflare/vibesdk",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 17
-    },
-    {
-      "title": "Are large language models worth it?",
-      "href": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
       "title": "LLMs are bullshitters. But that doesn't mean they're not useful",
       "href": "https://blog.kagi.com/llms",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
+      "comments": "\n              1 comment\n            ",
+      "index": 11
     },
     {
       "title": "A Function Inliner for Wasmtime and Cranelift",
       "href": "https://fitzgen.com/2025/11/19/inliner.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 12
+    },
+    {
+      "title": "A surprise with how '#!' handles its program argument in practice",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise?showcomments",
+      "points": "",
+      "comments": "\n              26 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Announcing Lix 2.94 “Açaí na tigela”",
+      "href": "https://lix.systems/blog/2025-11-18-lix-2.94-release/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 14
     },
     {
       "title": "Building with Distributed Actors: What and Why",
       "href": "https://withblue.ink/2025/11/19/distributed-actors-model.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
+      "comments": "\n              1 comment\n            ",
+      "index": 15
     },
     {
       "title": "Inside a global campaign hijacking open-source project identities",
       "href": "https://www.fullstory.com/blog/inside-a-global-campaign-hijacking-open-source-project-identities/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Hachi:  An Image search engine",
+      "href": "https://eagledot.xyz/hachi.md.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "My next chapter with Mastodon",
+      "href": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
+      "points": "",
+      "comments": "\n              41 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Disallow code usage with a custom `clippy.toml`",
+      "href": "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Are large language models worth it?",
+      "href": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Experiment: making TypeScript immutable-by-default",
+      "href": "https://evanhahn.com/typescript-immutability-experiment/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
+      "href": "https://github.com/cloudflare/vibesdk",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 22
+    },
+    {
+      "title": "A Month of Chat-Oriented Programming",
+      "href": "https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 23
     },
     {
       "title": "An actor-model multi-core scheduler for OCaml 5",
       "href": "https://github.com/riot-ml/riot",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "6 years after too much crypto",
       "href": "https://bfswa.substack.com/p/6-years-after-too-much-crypto",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Adventures in upgrading Proxmox",
-      "href": "https://blog.vasi.li/adventures-in-upgrading-proxmox/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 25
     }
   ]
