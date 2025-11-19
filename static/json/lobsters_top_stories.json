@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, November 19, 2025 at 1:30 PM GMT-5",
+  "date": "Wednesday, November 19, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared",
@@ -19,7 +19,7 @@
       "title": "Cloudflare outage on November 18, 2025",
       "href": "https://blog.cloudflare.com/18-november-2025-outage/",
       "points": "",
-      "comments": "\n              148 comments\n            ",
+      "comments": "\n              155 comments\n            ",
       "index": 3
     },
     {
@@ -44,136 +44,136 @@
       "index": 6
     },
     {
-      "title": "Specialized CSV readers for Rust leveraging hybrid SIMD techniques",
-      "href": "https://docs.rs/simd-csv",
+      "title": "Why BSDs?",
+      "href": "https://blog.thechases.com/posts/why-bsds/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 7
     },
     {
-      "title": "A surprise with how '#!' handles its program argument in practice",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise?showcomments",
+      "title": "Specialized CSV readers for Rust leveraging hybrid SIMD techniques",
+      "href": "https://docs.rs/simd-csv",
       "points": "",
-      "comments": "\n              21 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 8
     },
     {
-      "title": "Why BSDs?",
-      "href": "https://blog.thechases.com/posts/why-bsds/",
+      "title": "Twenty years of Django releases",
+      "href": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 9
+    },
+    {
+      "title": "A surprise with how '#!' handles its program argument in practice",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise?showcomments",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
+      "index": 10
     },
     {
       "title": "Announcing Lix 2.94 “Açaí na tigela”",
       "href": "https://lix.systems/blog/2025-11-18-lix-2.94-release/",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "My next chapter with Mastodon",
       "href": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
       "points": "",
       "comments": "\n              39 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Hachi:  An Image search engine",
       "href": "https://eagledot.xyz/hachi.md.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Experiment: making TypeScript immutable-by-default",
-      "href": "https://evanhahn.com/typescript-immutability-experiment/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 13
     },
     {
       "title": "A Month of Chat-Oriented Programming",
       "href": "https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 14
+    },
+    {
+      "title": "Experiment: making TypeScript immutable-by-default",
+      "href": "https://evanhahn.com/typescript-immutability-experiment/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "What Killed Perl?",
+      "href": "https://entropicthoughts.com/what-killed-perl",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
     },
     {
       "title": "vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
       "href": "https://github.com/cloudflare/vibesdk",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "Twenty years of Django releases",
-      "href": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "6 years after too much crypto",
       "href": "https://bfswa.substack.com/p/6-years-after-too-much-crypto",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Are large language models worth it?",
       "href": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "An actor-model multi-core scheduler for OCaml 5",
       "href": "https://github.com/riot-ml/riot",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "When high availability brings downtime",
       "href": "https://medium.com/learnings-from-the-paas/when-high-availability-brings-downtime-7a6261b0ef1c",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "A 'small' vanilla Kubernetes install on NixOS",
       "href": "https://stephank.nl/p/2025-11-17-a-small-vanilla-kubernetes-install-on-nixos.html",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Adventures in upgrading Proxmox",
       "href": "https://blog.vasi.li/adventures-in-upgrading-proxmox/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Improving NAT traversal, part 2: challenges in cloud environments",
       "href": "https://tailscale.com/blog/nat-traversal-improvements-pt-2-cloud-environments",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "WhatsApp Census",
       "href": "https://github.com/sbaresearch/whatsapp-census/blob/main/Hey_there_You_are_using_WhatsApp.pdf",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Inside a global campaign hijacking open-source project identities",
-      "href": "https://www.fullstory.com/blog/inside-a-global-campaign-hijacking-open-source-project-identities/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
