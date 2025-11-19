@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, November 19, 2025 at 7:40 AM GMT-5",
+  "date": "Wednesday, November 19, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "Do Not Put Your Site Behind Cloudflare if You Don't Need To",
       "href": "https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont",
       "points": "",
-      "comments": "\n              94 comments\n            ",
+      "comments": "\n              95 comments\n            ",
       "index": 1
     },
     {
@@ -16,24 +16,24 @@
       "index": 2
     },
     {
+      "title": "Cloudflare outage on November 18, 2025",
+      "href": "https://blog.cloudflare.com/18-november-2025-outage/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 3
+    },
+    {
       "title": "Self-hosting DNS for no fun, but a little profit",
       "href": "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Cloudflare outage on November 18, 2025",
-      "href": "https://blog.cloudflare.com/18-november-2025-outage/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
       "index": 4
     },
     {
       "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared",
       "href": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 5
     },
     {
@@ -47,56 +47,56 @@
       "title": "A surprise with how '#!' handles its program argument in practice",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise?showcomments",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 7
     },
     {
       "title": "Announcing Lix 2.94 “Açaí na tigela”",
       "href": "https://lix.systems/blog/2025-11-18-lix-2.94-release/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "The lost cause of the Lisp machines",
+      "href": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 9
     },
     {
       "title": "Hachi:  An Image search engine",
       "href": "https://eagledot.xyz/hachi.md.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "A Month of Chat-Oriented Programming",
       "href": "https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "6 years after too much crypto",
       "href": "https://bfswa.substack.com/p/6-years-after-too-much-crypto",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Experiment: making TypeScript immutable-by-default",
       "href": "https://evanhahn.com/typescript-immutability-experiment/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "A 'small' vanilla Kubernetes install on NixOS",
       "href": "https://stephank.nl/p/2025-11-17-a-small-vanilla-kubernetes-install-on-nixos.html",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "When high availability brings downtime",
-      "href": "https://medium.com/learnings-from-the-paas/when-high-availability-brings-downtime-7a6261b0ef1c",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 14
     },
     {
@@ -107,17 +107,17 @@
       "index": 15
     },
     {
-      "title": "The lost cause of the Lisp machines",
-      "href": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
       "title": "Improving NAT traversal, part 2: challenges in cloud environments",
       "href": "https://tailscale.com/blog/nat-traversal-improvements-pt-2-cloud-environments",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "When high availability brings downtime",
+      "href": "https://medium.com/learnings-from-the-paas/when-high-availability-brings-downtime-7a6261b0ef1c",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 17
     },
     {
@@ -145,7 +145,7 @@
       "title": "Introducing Apache Fory™ Rust: A Versatile Serialization Framework for the Modern Age",
       "href": "https://fory.apache.org/blog/fory_rust_versatile_serialization_framework/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 21
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "strace-macos: A clone of the strace command for macOS",
-      "href": "https://github.com/Mic92/strace-macos",
+      "title": "Google Summer of Code 2025 results",
+      "href": "https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
