@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, November 20, 2025 at 3:30 AM GMT-5",
+  "date": "Thursday, November 20, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "What Makes the Intro to Crafting Interpreters so Good?",
       "href": "https://refactoringenglish.com/blog/crafting-interpreters-intro/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 1
     },
     {
@@ -26,14 +26,14 @@
       "title": "What Killed Perl?",
       "href": "https://entropicthoughts.com/what-killed-perl",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 4
     },
     {
       "title": "The lost cause of the Lisp machines",
       "href": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
       "points": "",
-      "comments": "\n              33 comments\n            ",
+      "comments": "\n              35 comments\n            ",
       "index": 5
     },
     {
@@ -44,24 +44,24 @@
       "index": 6
     },
     {
-      "title": "Twenty years of Django releases",
-      "href": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
+      "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 7
     },
     {
-      "title": "Precise geolocation via Wi-Fi Positioning System",
-      "href": "https://www.amoses.dev/blog/wifi-location/",
+      "title": "RFC Hub",
+      "href": "https://rfchub.app/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 8
     },
     {
-      "title": "Cloudflare outage on November 18, 2025",
-      "href": "https://blog.cloudflare.com/18-november-2025-outage/",
+      "title": "Twenty years of Django releases",
+      "href": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
       "points": "",
-      "comments": "\n              167 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 9
     },
     {
@@ -72,59 +72,59 @@
       "index": 10
     },
     {
-      "title": "Self-hosting DNS for no fun, but a little profit",
-      "href": "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/",
+      "title": "Precise geolocation via Wi-Fi Positioning System",
+      "href": "https://www.amoses.dev/blog/wifi-location/",
       "points": "",
-      "comments": "\n              29 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 11
     },
     {
-      "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
+      "title": "Cloudflare outage on November 18, 2025",
+      "href": "https://blog.cloudflare.com/18-november-2025-outage/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              167 comments\n            ",
       "index": 12
+    },
+    {
+      "title": "The Lions Operating System",
+      "href": "https://lionsos.org/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Self-hosting DNS for no fun, but a little profit",
+      "href": "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/",
+      "points": "",
+      "comments": "\n              30 comments\n            ",
+      "index": 14
     },
     {
       "title": "LLMs are bullshitters. But that doesn't mean they're not useful",
       "href": "https://blog.kagi.com/llms",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 13
+      "index": 15
     },
     {
       "title": "A Function Inliner for Wasmtime and Cranelift",
       "href": "https://fitzgen.com/2025/11/19/inliner.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 16
     },
     {
       "title": "Rebecca Heineman - from homelessness to porting Doom",
       "href": "https://corecursive.com/doomed-to-fail-with-burger-becky/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 15
+      "index": 17
     },
     {
       "title": "Are large language models worth it?",
       "href": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Building a Hand-wired Cosmos Dactyl Split Keyboard",
-      "href": "https://julianyap.com/posts/2025-11-16-1763340628/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Specialized CSV readers for Rust leveraging hybrid SIMD techniques",
-      "href": "https://docs.rs/simd-csv",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 18
     },
     {
@@ -135,43 +135,43 @@
       "index": 19
     },
     {
-      "title": "The Lions Operating System",
-      "href": "https://lionsos.org/",
+      "title": "Specialized CSV readers for Rust leveraging hybrid SIMD techniques",
+      "href": "https://docs.rs/simd-csv",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 20
+    },
+    {
+      "title": "Procedurally Generating Infinite Marble Runs",
+      "href": "https://www.youtube.com/watch?v=ULpNiZU2tpg",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
+    },
+    {
+      "title": "Context: the missing API in ruby logger",
+      "href": "https://honeyryderchuck.gitlab.io/2025/11/12/context-missing-api-in-logger.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Building a Hand-wired Cosmos Dactyl Split Keyboard",
+      "href": "https://julianyap.com/posts/2025-11-16-1763340628/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "Building with Distributed Actors: What and Why",
       "href": "https://withblue.ink/2025/11/19/distributed-actors-model.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "Graphics API is irrelevant",
       "href": "https://youtu.be/xNX9H_ZkfNE",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Inside a global campaign hijacking open-source project identities",
-      "href": "https://www.fullstory.com/blog/inside-a-global-campaign-hijacking-open-source-project-identities/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 23
-    },
-    {
-      "title": "Procedurally Generating Infinite Marble Runs",
-      "href": "https://www.youtube.com/watch?v=ULpNiZU2tpg",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "RFC Hub",
-      "href": "https://rfchub.app/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
