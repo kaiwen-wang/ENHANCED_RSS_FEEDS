@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, November 20, 2025 at 6:15 AM GMT-5",
+  "date": "Thursday, November 20, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "What Makes the Intro to Crafting Interpreters so Good?",
@@ -9,52 +9,52 @@
       "index": 1
     },
     {
-      "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared",
-      "href": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/",
+      "title": "Disallow code usage with a custom `clippy.toml`",
+      "href": "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 2
     },
     {
       "title": "RFC Hub",
       "href": "https://rfchub.app/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "Disallow code usage with a custom `clippy.toml`",
-      "href": "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "What Killed Perl?",
-      "href": "https://entropicthoughts.com/what-killed-perl",
-      "points": "",
-      "comments": "\n              30 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "The lost cause of the Lisp machines",
-      "href": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
-      "points": "",
-      "comments": "\n              39 comments\n            ",
-      "index": 6
     },
     {
       "title": "A battery included hacker's file manager with VIM inspired keybind in a single binary",
       "href": "https://github.com/houqp/kiorg",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 7
+      "comments": "\n              3 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared",
+      "href": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "What Killed Perl?",
+      "href": "https://entropicthoughts.com/what-killed-perl",
+      "points": "",
+      "comments": "\n              34 comments\n            ",
+      "index": 6
     },
     {
       "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "The lost cause of the Lisp machines",
+      "href": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
+      "points": "",
+      "comments": "\n              41 comments\n            ",
       "index": 8
     },
     {
@@ -68,56 +68,56 @@
       "title": "Precise geolocation via Wi-Fi Positioning System",
       "href": "https://www.amoses.dev/blog/wifi-location/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 10
-    },
-    {
-      "title": "Twenty years of Django releases",
-      "href": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 11
     },
     {
       "title": "Why BSDs?",
       "href": "https://blog.thechases.com/posts/why-bsds/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Cloudflare outage on November 18, 2025",
-      "href": "https://blog.cloudflare.com/18-november-2025-outage/",
-      "points": "",
-      "comments": "\n              170 comments\n            ",
-      "index": 13
+      "index": 11
     },
     {
       "title": "50th anniversary of BITBLT",
       "href": "https://mastodon.sdf.org/@fvzappa/115574872559813280",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 12
     },
     {
-      "title": "Self-hosting DNS for no fun, but a little profit",
-      "href": "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/",
+      "title": "Twenty years of Django releases",
+      "href": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
       "points": "",
-      "comments": "\n              32 comments\n            ",
-      "index": 15
+      "comments": "\n              6 comments\n            ",
+      "index": 13
     },
     {
       "title": "Numbers vs features in protocol versioning (2024)",
       "href": "https://meejah.ca/blog/protocol-versioning",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 16
+      "index": 14
+    },
+    {
+      "title": "Cloudflare outage on November 18, 2025",
+      "href": "https://blog.cloudflare.com/18-november-2025-outage/",
+      "points": "",
+      "comments": "\n              171 comments\n            ",
+      "index": 15
     },
     {
       "title": "LLMs are bullshitters. But that doesn't mean they're not useful",
       "href": "https://blog.kagi.com/llms",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
+      "title": "Self-hosting DNS for no fun, but a little profit",
+      "href": "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/",
+      "points": "",
+      "comments": "\n              32 comments\n            ",
       "index": 17
     },
     {
