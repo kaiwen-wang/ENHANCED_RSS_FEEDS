@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, November 19, 2025 at 8:35 PM GMT-5",
+  "date": "Wednesday, November 19, 2025 at 10:10 PM GMT-5",
   "articles": [
     {
       "title": "What Makes the Intro to Crafting Interpreters so Good?",
       "href": "https://refactoringenglish.com/blog/crafting-interpreters-intro/",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 1
     },
     {
@@ -19,63 +19,63 @@
       "title": "The lost cause of the Lisp machines",
       "href": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
       "points": "",
-      "comments": "\n              29 comments\n            ",
+      "comments": "\n              31 comments\n            ",
       "index": 3
     },
     {
       "title": "What Killed Perl?",
       "href": "https://entropicthoughts.com/what-killed-perl",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 4
+    },
+    {
+      "title": "Disallow code usage with a custom `clippy.toml`",
+      "href": "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 5
     },
     {
       "title": "Cloudflare outage on November 18, 2025",
       "href": "https://blog.cloudflare.com/18-november-2025-outage/",
       "points": "",
-      "comments": "\n              160 comments\n            ",
-      "index": 5
+      "comments": "\n              163 comments\n            ",
+      "index": 6
     },
     {
       "title": "Twenty years of Django releases",
       "href": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Self-hosting DNS for no fun, but a little profit",
       "href": "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/",
       "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 7
+      "comments": "\n              29 comments\n            ",
+      "index": 8
     },
     {
       "title": "Why BSDs?",
       "href": "https://blog.thechases.com/posts/why-bsds/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 8
+      "comments": "\n              3 comments\n            ",
+      "index": 9
     },
     {
       "title": "Rebecca Heineman - from homelessness to porting Doom",
       "href": "https://corecursive.com/doomed-to-fail-with-burger-becky/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 9
+      "comments": "\n              6 comments\n            ",
+      "index": 10
     },
     {
       "title": "LLMs are bullshitters. But that doesn't mean they're not useful",
       "href": "https://blog.kagi.com/llms",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 10
-    },
-    {
-      "title": "Disallow code usage with a custom `clippy.toml`",
-      "href": "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 11
     },
     {
@@ -96,28 +96,28 @@
       "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 14
+    },
+    {
+      "title": "Precise geolocation via Wi-Fi Positioning System",
+      "href": "https://www.amoses.dev/blog/wifi-location/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
     },
     {
       "title": "Specialized CSV readers for Rust leveraging hybrid SIMD techniques",
       "href": "https://docs.rs/simd-csv",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Building with Distributed Actors: What and Why",
       "href": "https://withblue.ink/2025/11/19/distributed-actors-model.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Hachi:  An Image search engine",
-      "href": "https://eagledot.xyz/hachi.md.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "Building a Hand-wired Cosmos Dactyl Split Keyboard",
+      "href": "https://julianyap.com/posts/2025-11-16-1763340628/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Hachi:  An Image search engine",
+      "href": "https://eagledot.xyz/hachi.md.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "50th anniversary of BITBLT",
+      "href": "https://mastodon.sdf.org/@fvzappa/115574872559813280",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
       "title": "A surprise with how '#!' handles its program argument in practice",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise?showcomments",
       "points": "",
       "comments": "\n              26 comments\n            ",
-      "index": 19
+      "index": 22
     },
     {
       "title": "Announcing Lix 2.94 “Açaí na tigela”",
       "href": "https://lix.systems/blog/2025-11-18-lix-2.94-release/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Precise geolocation via Wi-Fi Positioning System",
-      "href": "https://www.amoses.dev/blog/wifi-location/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "My next chapter with Mastodon",
       "href": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
       "points": "",
       "comments": "\n              41 comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
       "href": "https://github.com/cloudflare/vibesdk",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Experiment: making TypeScript immutable-by-default",
-      "href": "https://evanhahn.com/typescript-immutability-experiment/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "A Month of Chat-Oriented Programming",
-      "href": "https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 25
     }
   ]
