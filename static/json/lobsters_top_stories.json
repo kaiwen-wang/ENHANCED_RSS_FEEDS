@@ -1,39 +1,39 @@
 {
-  "date": "Thursday, November 20, 2025 at 3:25 PM GMT-5",
+  "date": "Thursday, November 20, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away",
       "href": "https://itsfoss.com/news/open-source-developers-are-exhausted/",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              28 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "Signal Polls: Yes, no, maybe (yes!)",
+      "href": "https://signal.org/blog/polls/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 2
     },
     {
       "title": "A battery included hacker's file manager with VIM inspired keybind in a single binary",
       "href": "https://github.com/houqp/kiorg",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 2
+      "index": 3
+    },
+    {
+      "title": "Firefox 147 Will Support The XDG Base Directory Specification",
+      "href": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 4
     },
     {
       "title": "What Makes the Intro to Crafting Interpreters so Good?",
       "href": "https://refactoringenglish.com/blog/crafting-interpreters-intro/",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Signal Polls: Yes, no, maybe (yes!)",
-      "href": "https://signal.org/blog/polls/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Firefox 147 Will Support The XDG Base Directory Specification",
-      "href": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 5
     },
     {
@@ -44,38 +44,38 @@
       "index": 6
     },
     {
+      "title": "Zork I, II, and III go Open Source",
+      "href": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 7
+    },
+    {
       "title": "Disallow code usage with a custom `clippy.toml`",
       "href": "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Agentic Pelican on a Bicycle: Gemini 3 Pro",
-      "href": "https://www.robert-glaser.de/agentic-pelican-on-a-bicycle-gemini-3-pro/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 8
     },
     {
       "title": "RFC Hub",
       "href": "https://rfchub.app/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 9
     },
     {
-      "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
+      "title": "Agentic Pelican on a Bicycle: Gemini 3 Pro",
+      "href": "https://www.robert-glaser.de/agentic-pelican-on-a-bicycle-gemini-3-pro/",
       "points": "",
-      "comments": "\n              22 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 10
     },
     {
-      "title": "The Lions Operating System",
-      "href": "https://lionsos.org/",
+      "title": "We found cryptography bugs in the elliptic library using Wycheproof",
+      "href": "https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 11
     },
     {
@@ -86,94 +86,94 @@
       "index": 12
     },
     {
-      "title": "I’ve been thinking about Agents and MCP all wrong",
-      "href": "https://rmoff.net/2025/11/20/ive-been-thinking-about-agents-and-mcp-all-wrong/",
+      "title": "The Lions Operating System",
+      "href": "https://lionsos.org/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 13
     },
     {
-      "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared",
-      "href": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/",
+      "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              26 comments\n            ",
       "index": 14
-    },
-    {
-      "title": "What Killed Perl?",
-      "href": "https://entropicthoughts.com/what-killed-perl",
-      "points": "",
-      "comments": "\n              48 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Thunderbird Pro November 2025 Update",
-      "href": "https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Dual booting postmarketOS and Android",
-      "href": "https://wiki.postmarketos.org/wiki/Dual_Booting/WiP",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Freer Monads, More Extensible Effects (2015)",
-      "href": "https://okmij.org/ftp/Haskell/extensible/more.pdf",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "We found cryptography bugs in the elliptic library using Wycheproof",
-      "href": "https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
     },
     {
       "title": "Django LiveView 2.0.0",
       "href": "https://github.com/Django-LiveView/liveview",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "I’ve been thinking about Agents and MCP all wrong",
+      "href": "https://rmoff.net/2025/11/20/ive-been-thinking-about-agents-and-mcp-all-wrong/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared",
+      "href": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/",
+      "points": "",
+      "comments": "\n              23 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Thunderbird Pro November 2025 Update",
+      "href": "https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Freer Monads, More Extensible Effects (2015)",
+      "href": "https://okmij.org/ftp/Haskell/extensible/more.pdf",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models",
+      "href": "https://arxiv.org/html/2511.15304v1",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 20
     },
     {
-      "title": "Zork I, II, and III go Open Source",
-      "href": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
+      "title": "What Killed Perl?",
+      "href": "https://entropicthoughts.com/what-killed-perl",
+      "points": "",
+      "comments": "\n              48 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Dual booting postmarketOS and Android",
+      "href": "https://wiki.postmarketos.org/wiki/Dual_Booting/WiP",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "Brownouts reveal system boundaries",
+      "href": "https://jyn.dev/brownouts-reveal-system-boundaries/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Finally, run Docker containers natively in Proxmox 9.1 (OCI images)",
+      "href": "https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "The lost cause of the Lisp machines",
       "href": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
       "points": "",
       "comments": "\n              45 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Numbers vs features in protocol versioning (2024)",
-      "href": "https://meejah.ca/blog/protocol-versioning",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "50th anniversary of BITBLT",
-      "href": "https://mastodon.sdf.org/@fvzappa/115574872559813280",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Precise geolocation via Wi-Fi Positioning System",
-      "href": "https://www.amoses.dev/blog/wifi-location/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
