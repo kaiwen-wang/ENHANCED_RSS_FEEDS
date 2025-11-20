@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, November 20, 2025 at 5:20 AM GMT-5",
+  "date": "Thursday, November 20, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "What Makes the Intro to Crafting Interpreters so Good?",
@@ -16,71 +16,71 @@
       "index": 2
     },
     {
-      "title": "Disallow code usage with a custom `clippy.toml`",
-      "href": "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/",
+      "title": "RFC Hub",
+      "href": "https://rfchub.app/",
       "points": "",
       "comments": "\n              3 comments\n            ",
       "index": 3
     },
     {
-      "title": "What Killed Perl?",
-      "href": "https://entropicthoughts.com/what-killed-perl",
+      "title": "Disallow code usage with a custom `clippy.toml`",
+      "href": "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/",
       "points": "",
-      "comments": "\n              28 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 4
     },
     {
-      "title": "RFC Hub",
-      "href": "https://rfchub.app/",
+      "title": "What Killed Perl?",
+      "href": "https://entropicthoughts.com/what-killed-perl",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              30 comments\n            ",
       "index": 5
     },
     {
       "title": "The lost cause of the Lisp machines",
       "href": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
       "points": "",
-      "comments": "\n              35 comments\n            ",
+      "comments": "\n              39 comments\n            ",
       "index": 6
+    },
+    {
+      "title": "A battery included hacker's file manager with VIM inspired keybind in a single binary",
+      "href": "https://github.com/houqp/kiorg",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 7
     },
     {
       "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
       "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "The Lions Operating System",
+      "href": "https://lionsos.org/",
+      "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 7
+      "index": 9
     },
     {
       "title": "Precise geolocation via Wi-Fi Positioning System",
       "href": "https://www.amoses.dev/blog/wifi-location/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "A battery included hacker's file manager with VIM inspired keybind in a single binary",
-      "href": "https://github.com/houqp/kiorg",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Twenty years of Django releases",
       "href": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Why BSDs?",
       "href": "https://blog.thechases.com/posts/why-bsds/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "The Lions Operating System",
-      "href": "https://lionsos.org/",
       "points": "",
       "comments": "\n              4 comments\n            ",
       "index": 12
@@ -107,71 +107,71 @@
       "index": 15
     },
     {
+      "title": "Numbers vs features in protocol versioning (2024)",
+      "href": "https://meejah.ca/blog/protocol-versioning",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 16
+    },
+    {
       "title": "LLMs are bullshitters. But that doesn't mean they're not useful",
       "href": "https://blog.kagi.com/llms",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "A Function Inliner for Wasmtime and Cranelift",
       "href": "https://fitzgen.com/2025/11/19/inliner.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Procedurally Generating Infinite Marble Runs",
       "href": "https://www.youtube.com/watch?v=ULpNiZU2tpg",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
+      "index": 19
+    },
+    {
+      "title": "Agentic Pelican on a Bicycle: Gemini 3 Pro",
+      "href": "https://www.robert-glaser.de/agentic-pelican-on-a-bicycle-gemini-3-pro/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
     },
     {
       "title": "Are large language models worth it?",
       "href": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Numbers vs features in protocol versioning (2024)",
-      "href": "https://meejah.ca/blog/protocol-versioning",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Specialized CSV readers for Rust leveraging hybrid SIMD techniques",
       "href": "https://docs.rs/simd-csv",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Rebecca Heineman - from homelessness to porting Doom",
       "href": "https://corecursive.com/doomed-to-fail-with-burger-becky/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Building a Hand-wired Cosmos Dactyl Split Keyboard",
       "href": "https://julianyap.com/posts/2025-11-16-1763340628/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Graphics API is irrelevant",
       "href": "https://youtu.be/xNX9H_ZkfNE",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Context: the missing API in ruby logger",
-      "href": "https://honeyryderchuck.gitlab.io/2025/11/12/context-missing-api-in-logger.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
