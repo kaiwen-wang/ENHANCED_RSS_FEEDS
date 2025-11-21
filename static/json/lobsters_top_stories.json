@@ -1,11 +1,11 @@
 {
-  "date": "Friday, November 21, 2025 at 2:15 PM GMT-5",
+  "date": "Friday, November 21, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "We should all be using dependency cooldowns",
       "href": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
       "points": "",
-      "comments": "\n              27 comments\n            ",
+      "comments": "\n              28 comments\n            ",
       "index": 1
     },
     {
@@ -19,28 +19,28 @@
       "title": "Why (pure) functional programming matters",
       "href": "https://www.youtube.com/watch?v=8p5acyD8lGs",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 3
     },
     {
       "title": "Exploring the Fragmentation of Wayland, an xdotool adventure",
       "href": "https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 4
-    },
-    {
-      "title": "Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away",
-      "href": "https://itsfoss.com/news/open-source-developers-are-exhausted/",
-      "points": "",
-      "comments": "\n              77 comments\n            ",
-      "index": 5
     },
     {
       "title": "Undo, Redo, and the Command Pattern",
       "href": "https://www.esveo.com/en/blog/undo-redo-and-the-command-pattern/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away",
+      "href": "https://itsfoss.com/news/open-source-developers-are-exhausted/",
+      "points": "",
+      "comments": "\n              81 comments\n            ",
       "index": 6
     },
     {
@@ -54,7 +54,7 @@
       "title": "FAWK: LLMs can write a language interpreter",
       "href": "https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 8
     },
     {
@@ -65,10 +65,10 @@
       "index": 9
     },
     {
-      "title": "Zork I, II, and III go Open Source",
-      "href": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
+      "title": "Go's runtime may someday start explicitly freeing some internal memory",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoExplicitMemoryFreeing",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 10
     },
     {
@@ -86,24 +86,24 @@
       "index": 12
     },
     {
+      "title": "Zork I, II, and III go Open Source",
+      "href": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Building a Durable Execution Engine With SQLite",
+      "href": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
       "title": "Signal Polls: Yes, no, maybe (yes!)",
       "href": "https://signal.org/blog/polls/",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "There's always going to be a way to not code error handling",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/AlwaysUncodedErrorHandling",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Go's runtime may someday start explicitly freeing some internal memory",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoExplicitMemoryFreeing",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "Building a Durable Execution Engine With SQLite",
-      "href": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "2025 Go Cryptography State of the Union",
-      "href": "https://words.filippo.io/2025-state/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Source code for a 1977 version of Zork",
-      "href": "https://github.com/MITDDC/zork",
+      "title": "There's always going to be a way to not code error handling",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/AlwaysUncodedErrorHandling",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 19
+      "index": 17
     },
     {
       "title": "Building a Minimal Viable Armv7 Emulator from Scratch",
       "href": "https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "2025 Go Cryptography State of the Union",
+      "href": "https://words.filippo.io/2025-state/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Source code for a 1977 version of Zork",
+      "href": "https://github.com/MITDDC/zork",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 20
+    },
+    {
+      "title": "web pentaculum - a satanic webring hosted on OpenBSD.amsterdam",
+      "href": "https://netr.ing/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
     },
     {
       "title": "How/Why to Sweep Async Tasks Under a Postgres Table",
       "href": "https://taylor.town/pg-task",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "We found cryptography bugs in the elliptic library using Wycheproof",
       "href": "https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "A battery included hacker's file manager with VIM inspired keybind in a single binary",
       "href": "https://github.com/houqp/kiorg",
       "points": "",
       "comments": "\n              16 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "What's cooking on SourceHut? Q4 2025",
-      "href": "https://sourcehut.org/blog/2025-11-20-whats-cooking-q4-2025/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 24
     },
     {
-      "title": "Is C++26 getting destructive move semantics?",
-      "href": "https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics",
+      "title": "Understanding QCOW2 Risks with QEMU cache=none in Proxmox",
+      "href": "https://kb.blockbridge.com/technote/proxmox-qemu-cache-none-qcow2/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
