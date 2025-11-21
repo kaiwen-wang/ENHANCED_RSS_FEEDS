@@ -1,46 +1,46 @@
 {
-  "date": "Friday, November 21, 2025 at 11:25 AM GMT-5",
+  "date": "Friday, November 21, 2025 at 12:20 PM GMT-5",
   "articles": [
+    {
+      "title": "We should all be using dependency cooldowns",
+      "href": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 1
+    },
     {
       "title": "Solving Fizz Buzz with Cosines",
       "href": "https://susam.net/fizz-buzz-with-cosines.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 1
+      "index": 2
     },
     {
       "title": "Why (pure) functional programming matters",
       "href": "https://www.youtube.com/watch?v=8p5acyD8lGs",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away",
-      "href": "https://itsfoss.com/news/open-source-developers-are-exhausted/",
-      "points": "",
-      "comments": "\n              76 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "Firefox 147 Will Support The XDG Base Directory Specification",
-      "href": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
-      "points": "",
-      "comments": "\n              20 comments\n            ",
-      "index": 4
     },
     {
       "title": "Exploring the Fragmentation of Wayland, an xdotool adventure",
       "href": "https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away",
+      "href": "https://itsfoss.com/news/open-source-developers-are-exhausted/",
+      "points": "",
+      "comments": "\n              76 comments\n            ",
       "index": 5
     },
     {
-      "title": "We should all be using dependency cooldowns",
-      "href": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
+      "title": "Firefox 147 Will Support The XDG Base Directory Specification",
+      "href": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 6
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
+      "title": "More tales about outages and numeric limits",
+      "href": "https://rachelbythebay.com/w/2025/11/18/down/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "Undo, Redo, and the Command Pattern",
       "href": "https://www.esveo.com/en/blog/undo-redo-and-the-command-pattern/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 8
-    },
-    {
-      "title": "More tales about outages and numeric limits",
-      "href": "https://rachelbythebay.com/w/2025/11/18/down/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 9
     },
     {
@@ -72,45 +72,45 @@
       "index": 10
     },
     {
-      "title": "Finally, run Docker containers natively in Proxmox 9.1 (OCI images)",
-      "href": "https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 11
-    },
-    {
       "title": "Signal Polls: Yes, no, maybe (yes!)",
       "href": "https://signal.org/blog/polls/",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "How Slide Rules Work",
-      "href": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Cross-Platform P2P Wi-Fi: How the EU Killed AWDL",
-      "href": "https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 14
+      "index": 11
     },
     {
       "title": "There's always going to be a way to not code error handling",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/AlwaysUncodedErrorHandling",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 15
+      "index": 12
+    },
+    {
+      "title": "Finally, run Docker containers natively in Proxmox 9.1 (OCI images)",
+      "href": "https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 13
     },
     {
       "title": "Building a Durable Execution Engine With SQLite",
       "href": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "How Slide Rules Work",
+      "href": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Cross-Platform P2P Wi-Fi: How the EU Killed AWDL",
+      "href": "https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 16
     },
     {
@@ -156,10 +156,10 @@
       "index": 22
     },
     {
-      "title": "Memory is slow, Disk is fast",
-      "href": "https://www.bitflux.ai/blog/memory-is-slow-part2",
+      "title": "Is C++26 getting destructive move semantics?",
+      "href": "https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 23
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Is C++26 getting destructive move semantics?",
-      "href": "https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics",
+      "title": "Memory is slow, Disk is fast",
+      "href": "https://www.bitflux.ai/blog/memory-is-slow-part2",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 25
     }
   ]
