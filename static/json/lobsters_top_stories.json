@@ -1,39 +1,39 @@
 {
-  "date": "Friday, November 21, 2025 at 12:20 AM GMT-5",
+  "date": "Friday, November 21, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away",
       "href": "https://itsfoss.com/news/open-source-developers-are-exhausted/",
       "points": "",
-      "comments": "\n              43 comments\n            ",
+      "comments": "\n              45 comments\n            ",
       "index": 1
     },
     {
       "title": "Firefox 147 Will Support The XDG Base Directory Specification",
       "href": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "Signal Polls: Yes, no, maybe (yes!)",
-      "href": "https://signal.org/blog/polls/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 3
     },
     {
       "title": "Zork I, II, and III go Open Source",
       "href": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "Signal Polls: Yes, no, maybe (yes!)",
+      "href": "https://signal.org/blog/polls/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
       "index": 4
     },
     {
       "title": "Finally, run Docker containers natively in Proxmox 9.1 (OCI images)",
       "href": "https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 5
     },
     {
@@ -72,17 +72,17 @@
       "index": 10
     },
     {
-      "title": "Memory is slow, Disk is fast",
-      "href": "https://www.bitflux.ai/blog/memory-is-slow-part2",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 11
-    },
-    {
       "title": "What's cooking on SourceHut? Q4 2025",
       "href": "https://sourcehut.org/blog/2025-11-20-whats-cooking-q4-2025/",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Memory is slow, Disk is fast",
+      "href": "https://www.bitflux.ai/blog/memory-is-slow-part2",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
       "index": 12
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "Agentic Pelican on a Bicycle: Gemini 3 Pro",
-      "href": "https://www.robert-glaser.de/agentic-pelican-on-a-bicycle-gemini-3-pro/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Thunderbird Pro November 2025 Update",
-      "href": "https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Brownouts reveal system boundaries",
-      "href": "https://jyn.dev/brownouts-reveal-system-boundaries/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
       "title": "Is C++26 getting destructive move semantics?",
       "href": "https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "The Lions Operating System",
-      "href": "https://lionsos.org/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 21
+      "index": 17
     },
     {
       "title": "Exploring the Fragmentation of Wayland, an xdotool adventure",
       "href": "https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Agentic Pelican on a Bicycle: Gemini 3 Pro",
+      "href": "https://www.robert-glaser.de/agentic-pelican-on-a-bicycle-gemini-3-pro/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Brownouts reveal system boundaries",
+      "href": "https://jyn.dev/brownouts-reveal-system-boundaries/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Thunderbird Pro November 2025 Update",
+      "href": "https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "The Lions Operating System",
+      "href": "https://lionsos.org/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
       "index": 22
-    },
-    {
-      "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
-      "points": "",
-      "comments": "\n              30 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Freer Monads, More Extensible Effects (2015)",
-      "href": "https://okmij.org/ftp/Haskell/extensible/more.pdf",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 24
     },
     {
       "title": "Olmo 3: Charting a path through the model flow to lead open-source AI",
       "href": "https://allenai.org/blog/olmo3",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "We're (now) moving from OpenBSD to FreeBSD for firewalls",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
+      "points": "",
+      "comments": "\n              30 comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "Freer Monads, More Extensible Effects (2015)",
+      "href": "https://okmij.org/ftp/Haskell/extensible/more.pdf",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 25
     }
   ]
