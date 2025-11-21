@@ -1,11 +1,11 @@
 {
-  "date": "Friday, November 21, 2025 at 5:20 AM GMT-5",
+  "date": "Friday, November 21, 2025 at 6:15 AM GMT-5",
   "articles": [
     {
       "title": "Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away",
       "href": "https://itsfoss.com/news/open-source-developers-are-exhausted/",
       "points": "",
-      "comments": "\n              57 comments\n            ",
+      "comments": "\n              60 comments\n            ",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "Solving Fizz Buzz with Cosines",
       "href": "https://susam.net/fizz-buzz-with-cosines.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "Signal Polls: Yes, no, maybe (yes!)",
       "href": "https://signal.org/blog/polls/",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 5
     },
     {
@@ -72,17 +72,17 @@
       "index": 10
     },
     {
+      "title": "Why (pure) functional programming matters",
+      "href": "https://www.youtube.com/watch?v=8p5acyD8lGs",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
       "title": "2025 Go Cryptography State of the Union",
       "href": "https://words.filippo.io/2025-state/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "What Makes the Intro to Crafting Interpreters so Good?",
-      "href": "https://refactoringenglish.com/blog/crafting-interpreters-intro/",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
       "index": 12
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
-      "title": "Memory is slow, Disk is fast",
-      "href": "https://www.bitflux.ai/blog/memory-is-slow-part2",
+      "title": "What Makes the Intro to Crafting Interpreters so Good?",
+      "href": "https://refactoringenglish.com/blog/crafting-interpreters-intro/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              23 comments\n            ",
       "index": 14
-    },
-    {
-      "title": "Django LiveView 2.0.0",
-      "href": "https://github.com/Django-LiveView/liveview",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Why (pure) functional programming matters",
-      "href": "https://www.youtube.com/watch?v=8p5acyD8lGs",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Cross-Platform P2P Wi-Fi: How the EU Killed AWDL",
-      "href": "https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Building a Durable Execution Engine With SQLite",
-      "href": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Thunderbird Pro November 2025 Update",
-      "href": "https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
     },
     {
       "title": "Is C++26 getting destructive move semantics?",
       "href": "https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Memory is slow, Disk is fast",
+      "href": "https://www.bitflux.ai/blog/memory-is-slow-part2",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "FAWK: LLMs can write a language interpreter",
+      "href": "https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Django LiveView 2.0.0",
+      "href": "https://github.com/Django-LiveView/liveview",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Cross-Platform P2P Wi-Fi: How the EU Killed AWDL",
+      "href": "https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Building a Durable Execution Engine With SQLite",
+      "href": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 20
+    },
+    {
+      "title": "Thunderbird Pro November 2025 Update",
+      "href": "https://blog.thunderbird.net/2025/11/thunderbird-pro-november-2025-update/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
     },
     {
       "title": "Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models",
       "href": "https://arxiv.org/html/2511.15304v1",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "RFC Hub",
       "href": "https://rfchub.app/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Olmo 3: Charting a path through the model flow to lead open-source AI",
       "href": "https://allenai.org/blog/olmo3",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Disallow code usage with a custom `clippy.toml`",
       "href": "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/",
       "points": "",
       "comments": "\n              16 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Brownouts reveal system boundaries",
-      "href": "https://jyn.dev/brownouts-reveal-system-boundaries/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
