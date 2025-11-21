@@ -1,32 +1,32 @@
 {
-  "date": "Friday, November 21, 2025 at 8:30 AM GMT-5",
+  "date": "Friday, November 21, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Solving Fizz Buzz with Cosines",
       "href": "https://susam.net/fizz-buzz-with-cosines.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 1
     },
     {
       "title": "Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away",
       "href": "https://itsfoss.com/news/open-source-developers-are-exhausted/",
       "points": "",
-      "comments": "\n              65 comments\n            ",
+      "comments": "\n              67 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "Firefox 147 Will Support The XDG Base Directory Specification",
-      "href": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 3
     },
     {
       "title": "Why (pure) functional programming matters",
       "href": "https://www.youtube.com/watch?v=8p5acyD8lGs",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              4 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "Firefox 147 Will Support The XDG Base Directory Specification",
+      "href": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
       "index": 4
     },
     {
@@ -47,40 +47,40 @@
       "title": "Signal Polls: Yes, no, maybe (yes!)",
       "href": "https://signal.org/blog/polls/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 7
     },
     {
       "title": "Finally, run Docker containers natively in Proxmox 9.1 (OCI images)",
       "href": "https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 8
-    },
-    {
-      "title": "How Slide Rules Work",
-      "href": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 9
     },
     {
       "title": "Undo, Redo, and the Command Pattern",
       "href": "https://www.esveo.com/en/blog/undo-redo-and-the-command-pattern/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 10
+      "index": 9
     },
     {
-      "title": "We found cryptography bugs in the elliptic library using Wycheproof",
-      "href": "https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/",
+      "title": "How Slide Rules Work",
+      "href": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 11
+      "comments": "\n              3 comments\n            ",
+      "index": 10
     },
     {
       "title": "FAWK: LLMs can write a language interpreter",
       "href": "https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Building a Durable Execution Engine With SQLite",
+      "href": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 12
@@ -93,24 +93,24 @@
       "index": 13
     },
     {
-      "title": "A battery included hacker's file manager with VIM inspired keybind in a single binary",
-      "href": "https://github.com/houqp/kiorg",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 14
-    },
-    {
       "title": "Cross-Platform P2P Wi-Fi: How the EU Killed AWDL",
       "href": "https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "We found cryptography bugs in the elliptic library using Wycheproof",
+      "href": "https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 15
     },
     {
-      "title": "Building a Durable Execution Engine With SQLite",
-      "href": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
+      "title": "A battery included hacker's file manager with VIM inspired keybind in a single binary",
+      "href": "https://github.com/houqp/kiorg",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 16
     },
     {
@@ -170,8 +170,8 @@
       "index": 24
     },
     {
-      "title": "Brownouts reveal system boundaries",
-      "href": "https://jyn.dev/brownouts-reveal-system-boundaries/",
+      "title": "Go's runtime may someday start explicitly freeing some internal memory",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoExplicitMemoryFreeing",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
