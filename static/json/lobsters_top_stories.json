@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, November 22, 2025 at 1:25 AM GMT-5",
+  "date": "Saturday, November 22, 2025 at 2:15 AM GMT-5",
   "articles": [
     {
       "title": "We should all be using dependency cooldowns",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
-      "title": "Helping Valve to Power Up Steam Devices",
-      "href": "https://www.igalia.com/2025/11/helpingvalve.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 2
-    },
-    {
       "title": "A bug caused by a door in a game you may have heard of called \"Half Life 2\"",
       "href": "https://mastodon.gamedev.place/@TomF/115589875974658415",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "Helping Valve to Power Up Steam Devices",
+      "href": "https://www.igalia.com/2025/11/helpingvalve.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 3
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
-      "title": "Reverse Engineering the Miele Diagnostic Interface",
-      "href": "https://medusalix.github.io/posts/miele-interface/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 7
-    },
-    {
       "title": "Undo, Redo, and the Command Pattern",
       "href": "https://www.esveo.com/en/blog/undo-redo-and-the-command-pattern/",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "Reverse Engineering the Miele Diagnostic Interface",
+      "href": "https://medusalix.github.io/posts/miele-interface/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 8
     },
     {
@@ -79,31 +79,31 @@
       "index": 11
     },
     {
+      "title": "FAWK: LLMs can write a language interpreter",
+      "href": "https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 12
+    },
+    {
       "title": "More tales about outages and numeric limits",
       "href": "https://rachelbythebay.com/w/2025/11/18/down/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 12
+      "index": 13
+    },
+    {
+      "title": "There's always going to be a way to not code error handling",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/AlwaysUncodedErrorHandling",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 14
     },
     {
       "title": "Installing FreeBSD 15 on my desktop",
       "href": "https://yorickpeterse.com/articles/installing-freebsd-15-on-my-desktop/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "FAWK: LLMs can write a language interpreter",
-      "href": "https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "There's always going to be a way to not code error handling",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/AlwaysUncodedErrorHandling",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 15
     },
     {
@@ -114,17 +114,17 @@
       "index": 16
     },
     {
-      "title": "Firefox 147 Will Support The XDG Base Directory Specification",
-      "href": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 17
-    },
-    {
       "title": "Go's runtime may someday start explicitly freeing some internal memory",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoExplicitMemoryFreeing",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Firefox 147 Will Support The XDG Base Directory Specification",
+      "href": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
+      "points": "",
+      "comments": "\n              21 comments\n            ",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
-      "title": "How to use views for debugging tools to save time",
-      "href": "https://chrispenner.ca/posts/views-for-debugging",
+      "title": "What Now? Handling Errors in Large Systems",
+      "href": "http://brooker.co.za/blog/2025/11/20/what-now.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 20
     },
     {
+      "title": "How to use views for debugging tools to save time",
+      "href": "https://chrispenner.ca/posts/views-for-debugging",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
       "title": "Understanding QCOW2 Risks with QEMU cache=none in Proxmox",
       "href": "https://kb.blockbridge.com/technote/proxmox-qemu-cache-none-qcow2/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 21
+      "comments": "\n              2 comments\n            ",
+      "index": 22
     },
     {
       "title": "Web playground for training language models with WebGPU",
       "href": "https://sequence.toys",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Source code for a 1977 version of Zork",
       "href": "https://github.com/MITDDC/zork",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Cross-Platform P2P Wi-Fi: How the EU Killed AWDL",
       "href": "https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "What Now? Handling Errors in Large Systems",
-      "href": "http://brooker.co.za/blog/2025/11/20/what-now.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
