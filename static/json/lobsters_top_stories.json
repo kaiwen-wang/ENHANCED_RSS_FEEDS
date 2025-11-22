@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, November 22, 2025 at 8:25 AM GMT-5",
+  "date": "Saturday, November 22, 2025 at 9:15 AM GMT-5",
   "articles": [
     {
       "title": "We should all be using dependency cooldowns",
@@ -12,7 +12,7 @@
       "title": "A bug caused by a door in a game you may have heard of called \"Half Life 2\"",
       "href": "https://mastodon.gamedev.place/@TomF/115589875974658415",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 2
     },
     {
@@ -26,7 +26,7 @@
       "title": "Helping Valve to Power Up Steam Devices",
       "href": "https://www.igalia.com/2025/11/helpingvalve.html",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 4
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
-      "title": "Reverse Engineering the Miele Diagnostic Interface",
-      "href": "https://medusalix.github.io/posts/miele-interface/",
+      "title": "Move Expressions",
+      "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 7
     },
     {
-      "title": "Exploring the Fragmentation of Wayland, an xdotool adventure",
-      "href": "https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/",
+      "title": "Reverse Engineering the Miele Diagnostic Interface",
+      "href": "https://medusalix.github.io/posts/miele-interface/",
       "points": "",
-      "comments": "\n              27 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 8
     },
     {
@@ -65,43 +65,43 @@
       "index": 9
     },
     {
+      "title": "Exploring the Fragmentation of Wayland, an xdotool adventure",
+      "href": "https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/",
+      "points": "",
+      "comments": "\n              33 comments\n            ",
+      "index": 10
+    },
+    {
       "title": "Think you can’t interpose static binaries with LD_PRELOAD? Think again",
       "href": "https://balintreczey.hu/blog/think-you-cant-interpose-static-binaries-with-ld_preload-think-again/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "What Now? Handling Errors in Large Systems",
       "href": "http://brooker.co.za/blog/2025/11/20/what-now.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 11
+      "index": 12
     },
     {
-      "title": "Installing FreeBSD 15 on my desktop",
-      "href": "https://yorickpeterse.com/articles/installing-freebsd-15-on-my-desktop/",
+      "title": "How I learned Vulkan and wrote a small game engine with it (2024)",
+      "href": "https://edw.is/learning-vulkan/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Why (pure) functional programming matters",
       "href": "https://www.youtube.com/watch?v=8p5acyD8lGs",
       "points": "",
       "comments": "\n              24 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Move Expressions",
-      "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 14
     },
     {
-      "title": "How I learned Vulkan and wrote a small game engine with it (2024)",
-      "href": "https://edw.is/learning-vulkan/",
+      "title": "Installing FreeBSD 15 on my desktop",
+      "href": "https://yorickpeterse.com/articles/installing-freebsd-15-on-my-desktop/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 15
@@ -114,10 +114,10 @@
       "index": 16
     },
     {
-      "title": "There's always going to be a way to not code error handling",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/AlwaysUncodedErrorHandling",
+      "title": "Hindsight – Type-safe and evolvable event sourcing for Haskell",
+      "href": "https://hindsight.events/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "There's always going to be a way to not code error handling",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/AlwaysUncodedErrorHandling",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "How to get started with the ed text editor (2022)",
+      "href": "https://www.redhat.com/en/blog/introduction-ed-editor",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 20
+    },
+    {
       "title": "More tales about outages and numeric limits",
       "href": "https://rachelbythebay.com/w/2025/11/18/down/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "FAWK: LLMs can write a language interpreter",
       "href": "https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "How to get started with the ed text editor (2022)",
-      "href": "https://www.redhat.com/en/blog/introduction-ed-editor",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Go's runtime may someday start explicitly freeing some internal memory",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoExplicitMemoryFreeing",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away",
       "href": "https://itsfoss.com/news/open-source-developers-are-exhausted/",
       "points": "",
       "comments": "\n              84 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Firefox 147 Will Support The XDG Base Directory Specification",
       "href": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
       "points": "",
       "comments": "\n              22 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Spectral rendering, part 3: Spectral vs. RGB",
-      "href": "https://momentsingraphics.de/SpectralRendering3Results.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
