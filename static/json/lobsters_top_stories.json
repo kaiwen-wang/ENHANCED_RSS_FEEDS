@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, November 23, 2025 at 1:30 AM GMT-5",
+  "date": "Sunday, November 23, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "dingo: A meta-language for Go",
       "href": "https://github.com/MadAppGang/dingo",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 1
     },
     {
@@ -51,10 +51,10 @@
       "index": 7
     },
     {
-      "title": "Introducing F# 10",
-      "href": "https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/",
+      "title": "Enough With All The Raft",
+      "href": "https://transactional.blog/talk/enough-with-all-the-raft",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 8
     },
     {
@@ -65,24 +65,24 @@
       "index": 9
     },
     {
-      "title": "Enough With All The Raft",
-      "href": "https://transactional.blog/talk/enough-with-all-the-raft",
+      "title": "Introducing F# 10",
+      "href": "https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 10
+    },
+    {
+      "title": "trifold is a tool to quickly & cheaply host static websites using a CDN",
+      "href": "https://jpt.sh/projects/trifold/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "A Reverse Engineer’s Anatomy of the macOS Boot Chain & Security Architecture",
       "href": "http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Helping Valve to Power Up Steam Devices",
-      "href": "https://www.igalia.com/2025/11/helpingvalve.html",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
       "index": 12
     },
     {
@@ -93,10 +93,10 @@
       "index": 13
     },
     {
-      "title": "trifold is a tool to quickly & cheaply host static websites using a CDN",
-      "href": "https://jpt.sh/projects/trifold/",
+      "title": "Helping Valve to Power Up Steam Devices",
+      "href": "https://www.igalia.com/2025/11/helpingvalve.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 14
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "Windows ARM64 Internals: Deconstructing Pointer Authentication",
-      "href": "https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
       "title": "How I learned Vulkan and wrote a small game engine with it (2024)",
       "href": "https://edw.is/learning-vulkan/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 24
+    },
+    {
+      "title": "Windows ARM64 Internals: Deconstructing Pointer Authentication",
+      "href": "https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
