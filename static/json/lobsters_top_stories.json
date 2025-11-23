@@ -1,32 +1,32 @@
 {
-  "date": "Sunday, November 23, 2025 at 6:15 AM GMT-5",
+  "date": "Sunday, November 23, 2025 at 7:35 AM GMT-5",
   "articles": [
     {
       "title": "dingo: A meta-language for Go",
       "href": "https://github.com/MadAppGang/dingo",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 1
     },
     {
       "title": "trifold is a tool to quickly & cheaply host static websites using a CDN",
       "href": "https://jpt.sh/projects/trifold/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 2
+    },
+    {
+      "title": "Enough With All The Raft",
+      "href": "https://transactional.blog/talk/enough-with-all-the-raft",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 3
     },
     {
       "title": "Host a website from an old phone using postmarketOS",
       "href": "https://far.computer/how-to/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Flux Keyboard",
-      "href": "https://fluxkeyboard.com/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 4
     },
     {
@@ -37,10 +37,10 @@
       "index": 5
     },
     {
-      "title": "Enough With All The Raft",
-      "href": "https://transactional.blog/talk/enough-with-all-the-raft",
+      "title": "Flux Keyboard",
+      "href": "https://fluxkeyboard.com/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 6
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
-      "title": "We should all be using dependency cooldowns",
-      "href": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
-      "points": "",
-      "comments": "\n              56 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Introducing F# 10",
-      "href": "https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 11
-    },
-    {
-      "title": "Move Expressions",
-      "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "A Reverse Engineer’s Anatomy of the macOS Boot Chain & Security Architecture",
-      "href": "http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "qsp: A simple S-Expression parser for Rust TokenStreams",
-      "href": "https://github.com/KnorrFG/qsp",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
       "title": "Parallel Threads in Racket v9.0",
       "href": "https://blog.racket-lang.org/2025/11/parallel-threads.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 10
     },
     {
       "title": "Svalboard - Datahand forever",
       "href": "https://svalboard.com/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "What does the AGPL require?",
+      "href": "https://runxiyu.org/blog/agpl/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "qsp: A simple S-Expression parser for Rust TokenStreams",
+      "href": "https://github.com/KnorrFG/qsp",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 13
+    },
+    {
+      "title": "We should all be using dependency cooldowns",
+      "href": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
+      "points": "",
+      "comments": "\n              56 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Introducing F# 10",
+      "href": "https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
+      "title": "Move Expressions",
+      "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
       "index": 16
+    },
+    {
+      "title": "A Reverse Engineer’s Anatomy of the macOS Boot Chain & Security Architecture",
+      "href": "http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 17
     },
     {
       "title": "Helping Valve to Power Up Steam Devices",
       "href": "https://www.igalia.com/2025/11/helpingvalve.html",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "What are you reading and plan to read next?",
+      "href": "/s/wtxmgv/what_are_you_reading_plan_read_next",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 19
     },
     {
       "title": "LLM APIs are a Synchronization Problem",
       "href": "https://lucumr.pocoo.org/2025/11/22/llm-apis/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 18
+      "index": 20
+    },
+    {
+      "title": "How Deep is Challenger Deep?",
+      "href": "https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
     },
     {
       "title": "Experimenting with Robin Hood hashing",
       "href": "https://twdev.blog/2025/11/robin_hood/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 22
     },
     {
       "title": "Unusual circuits in the Intel 386's standard cell logic",
       "href": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Windows ARM64 Internals: Deconstructing Pointer Authentication",
       "href": "https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "Installing FreeBSD 15 on my desktop",
-      "href": "https://yorickpeterse.com/articles/installing-freebsd-15-on-my-desktop/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "What Now? Handling Errors in Large Systems",
       "href": "http://brooker.co.za/blog/2025/11/20/what-now.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Trying out C++26 executors",
-      "href": "https://mropert.github.io/2025/11/21/trying_out_stdexec/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "impala - A TUI for managing wifi on Linux",
-      "href": "https://github.com/pythops/impala",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
       "index": 25
     }
   ]
