@@ -1,25 +1,25 @@
 {
-  "date": "Sunday, November 23, 2025 at 12:20 AM GMT-5",
+  "date": "Sunday, November 23, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
-      "title": "Host a website from an old phone using postmarketOS",
-      "href": "https://far.computer/how-to/",
+      "title": "dingo: A meta-language for Go",
+      "href": "https://github.com/MadAppGang/dingo",
       "points": "",
       "comments": "\n              4 comments\n            ",
       "index": 1
     },
     {
-      "title": "dingo: A meta-language for Go",
-      "href": "https://github.com/MadAppGang/dingo",
+      "title": "Host a website from an old phone using postmarketOS",
+      "href": "https://far.computer/how-to/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 2
     },
     {
       "title": "The worst programming language of all time",
       "href": "https://www.youtube.com/watch?v=7fGB-hjc2Gc",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 3
     },
     {
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
+      "title": "Flux Keyboard",
+      "href": "https://fluxkeyboard.com/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 5
+    },
+    {
       "title": "Letter from Codeberg: Onwards and upwards",
       "href": "https://blog.codeberg.org/letter-from-codeberg-onwards-and-upwards.html",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
       "title": "We should all be using dependency cooldowns",
       "href": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
       "points": "",
       "comments": "\n              53 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Flux Keyboard",
-      "href": "https://fluxkeyboard.com/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 7
     },
     {
@@ -61,119 +61,119 @@
       "title": "Move Expressions",
       "href": "https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 9
-    },
-    {
-      "title": "A Reverse Engineer’s Anatomy of the macOS Boot Chain & Security Architecture",
-      "href": "http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 10
-    },
-    {
-      "title": "Helping Valve to Power Up Steam Devices",
-      "href": "https://www.igalia.com/2025/11/helpingvalve.html",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "`satisfies` is my favorite TypeScript keyword",
-      "href": "https://sjer.red/blog/2024-12-21/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 12
-    },
-    {
-      "title": "LLM APIs are a Synchronization Problem",
-      "href": "https://lucumr.pocoo.org/2025/11/22/llm-apis/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 13
     },
     {
       "title": "Enough With All The Raft",
       "href": "https://transactional.blog/talk/enough-with-all-the-raft",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "A Reverse Engineer’s Anatomy of the macOS Boot Chain & Security Architecture",
+      "href": "http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Helping Valve to Power Up Steam Devices",
+      "href": "https://www.igalia.com/2025/11/helpingvalve.html",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "`satisfies` is my favorite TypeScript keyword",
+      "href": "https://sjer.red/blog/2024-12-21/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 13
+    },
+    {
+      "title": "trifold is a tool to quickly & cheaply host static websites using a CDN",
+      "href": "https://jpt.sh/projects/trifold/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 14
+    },
+    {
+      "title": "LLM APIs are a Synchronization Problem",
+      "href": "https://lucumr.pocoo.org/2025/11/22/llm-apis/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 15
     },
     {
       "title": "Experimenting with Robin Hood hashing",
       "href": "https://twdev.blog/2025/11/robin_hood/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Unusual circuits in the Intel 386's standard cell logic",
       "href": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Trying out C++26 executors",
       "href": "https://mropert.github.io/2025/11/21/trying_out_stdexec/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Installing FreeBSD 15 on my desktop",
       "href": "https://yorickpeterse.com/articles/installing-freebsd-15-on-my-desktop/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "How to use views for debugging tools to save time",
       "href": "https://chrispenner.ca/posts/views-for-debugging",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "What Now? Handling Errors in Large Systems",
       "href": "http://brooker.co.za/blog/2025/11/20/what-now.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "impala - A TUI for managing wifi on Linux",
       "href": "https://github.com/pythops/impala",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Reverse Engineering the Miele Diagnostic Interface",
       "href": "https://medusalix.github.io/posts/miele-interface/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Windows ARM64 Internals: Deconstructing Pointer Authentication",
       "href": "https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "How I learned Vulkan and wrote a small game engine with it (2024)",
       "href": "https://edw.is/learning-vulkan/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Solving Fizz Buzz with Cosines",
-      "href": "https://susam.net/fizz-buzz-with-cosines.html",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 25
     }
   ]
