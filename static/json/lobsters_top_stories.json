@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, November 23, 2025 at 4:20 AM GMT-5",
+  "date": "Sunday, November 23, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
       "title": "dingo: A meta-language for Go",
       "href": "https://github.com/MadAppGang/dingo",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 1
     },
     {
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "Flux Keyboard",
-      "href": "https://fluxkeyboard.com/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 4
-    },
-    {
       "title": "The worst programming language of all time",
       "href": "https://www.youtube.com/watch?v=7fGB-hjc2Gc",
       "points": "",
       "comments": "\n              7 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Flux Keyboard",
+      "href": "https://fluxkeyboard.com/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 5
     },
     {
@@ -44,24 +44,24 @@
       "index": 6
     },
     {
+      "title": "`satisfies` is my favorite TypeScript keyword",
+      "href": "https://sjer.red/blog/2024-12-21/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 7
+    },
+    {
       "title": "A bug caused by a door in a game you may have heard of called \"Half Life 2\"",
       "href": "https://mastodon.gamedev.place/@TomF/115589875974658415",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Letter from Codeberg: Onwards and upwards",
       "href": "https://blog.codeberg.org/letter-from-codeberg-onwards-and-upwards.html",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "`satisfies` is my favorite TypeScript keyword",
-      "href": "https://sjer.red/blog/2024-12-21/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 9
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "Helping Valve to Power Up Steam Devices",
-      "href": "https://www.igalia.com/2025/11/helpingvalve.html",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "LLM APIs are a Synchronization Problem",
-      "href": "https://lucumr.pocoo.org/2025/11/22/llm-apis/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Experimenting with Robin Hood hashing",
-      "href": "https://twdev.blog/2025/11/robin_hood/",
+      "title": "Parallel Threads in Racket v9.0",
+      "href": "https://blog.racket-lang.org/2025/11/parallel-threads.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 15
     },
     {
       "title": "Svalboard - Datahand forever",
       "href": "https://svalboard.com/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Helping Valve to Power Up Steam Devices",
+      "href": "https://www.igalia.com/2025/11/helpingvalve.html",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "LLM APIs are a Synchronization Problem",
+      "href": "https://lucumr.pocoo.org/2025/11/22/llm-apis/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 18
+    },
+    {
+      "title": "Experimenting with Robin Hood hashing",
+      "href": "https://twdev.blog/2025/11/robin_hood/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
     },
     {
       "title": "Unusual circuits in the Intel 386's standard cell logic",
       "href": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Windows ARM64 Internals: Deconstructing Pointer Authentication",
       "href": "https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Installing FreeBSD 15 on my desktop",
       "href": "https://yorickpeterse.com/articles/installing-freebsd-15-on-my-desktop/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Trying out C++26 executors",
       "href": "https://mropert.github.io/2025/11/21/trying_out_stdexec/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "How to use views for debugging tools to save time",
       "href": "https://chrispenner.ca/posts/views-for-debugging",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "What Now? Handling Errors in Large Systems",
       "href": "http://brooker.co.za/blog/2025/11/20/what-now.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "impala - A TUI for managing wifi on Linux",
-      "href": "https://github.com/pythops/impala",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
