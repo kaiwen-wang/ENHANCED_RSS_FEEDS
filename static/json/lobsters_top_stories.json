@@ -1,32 +1,32 @@
 {
-  "date": "Monday, November 24, 2025 at 1:30 PM GMT-5",
+  "date": "Monday, November 24, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "Why I (still) love Linux",
       "href": "https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/",
       "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "Fifty Shades of OOP",
+      "href": "https://lesleylai.info/en/fifty_shades_of_oop/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 2
     },
     {
       "title": "edn.c: A fast, zero-copy EDN (Extensible Data Notation) reader written in C11 with SIMD acceleration",
       "href": "https://github.com/DotFox/edn.c",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "Fifty Shades of OOP",
-      "href": "https://lesleylai.info/en/fifty_shades_of_oop/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 3
     },
     {
       "title": "We stopped roadmap work for a week and fixed 189 bugs",
       "href": "https://lalitm.com/fixits-are-good-for-the-soul/",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 4
     },
     {
@@ -37,73 +37,73 @@
       "index": 5
     },
     {
+      "title": "Does Dioxus spark joy?",
+      "href": "https://fasterthanli.me/articles/does-dioxus-spark-joy",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 6
+    },
+    {
       "title": "What are you doing this week?",
       "href": "/s/x5f9en/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              22 comments\n            ",
-      "index": 6
+      "index": 7
     },
     {
       "title": "ntoh*/hton* is a bad API",
       "href": "https://purplesyringa.moe/blog/ntoh-hton-is-a-bad-api/",
       "points": "",
       "comments": "\n              23 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Does Dioxus spark joy?",
-      "href": "https://fasterthanli.me/articles/does-dioxus-spark-joy",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 8
     },
     {
       "title": "With Love to KDE: Take a Moment",
       "href": "https://korcenji.neocities.org/Writings/KDE-Take-A-Moment",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 9
-    },
-    {
-      "title": "Build a Compiler in Five Projects",
-      "href": "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 10
-    },
-    {
-      "title": "I put a search engine into a Lambda, so you only pay when you search",
-      "href": "https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Alice - new build system for Ocaml",
-      "href": "https://www.alicecaml.org/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Google Revisits JPEG XL in Chromium After Earlier Removal",
-      "href": "https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 13
     },
     {
       "title": "We deleted our Dockerfiles: a better, faster way to build container images",
       "href": "https://www.rwx.com/blog/we-deleted-our-dockerfiles",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Alice - new build system for Ocaml",
+      "href": "https://www.alicecaml.org/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Build a Compiler in Five Projects",
+      "href": "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 12
+    },
+    {
+      "title": "I put a search engine into a Lambda, so you only pay when you search",
+      "href": "https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Google Revisits JPEG XL in Chromium After Earlier Removal",
+      "href": "https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 14
     },
     {
       "title": "µcad: New open source programming language that can generate 2D sketches and 3D objects",
       "href": "https://microcad.xyz",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 15
     },
     {
@@ -124,28 +124,28 @@
       "title": "What does the AGPL require?",
       "href": "https://runxiyu.org/blog/agpl/",
       "points": "",
-      "comments": "\n              40 comments\n            ",
+      "comments": "\n              41 comments\n            ",
       "index": 18
+    },
+    {
+      "title": "Open Source Has Too Many Parasocial Relationships",
+      "href": "https://pivotnine.com/blog/open-source-has-too-many-parasocial-relationships/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
     },
     {
       "title": "Demystifying Determinism in Durable Execution",
       "href": "https://jack-vanlightly.com/blog/2025/11/24/demystifying-determinism-in-durable-execution",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Making the case that Cargo features could be improved to alleviate Rust compile times",
       "href": "https://saghm.com/cargo-features-rust-compile-times/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Open Source Has Too Many Parasocial Relationships",
-      "href": "https://pivotnine.com/blog/open-source-has-too-many-parasocial-relationships/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
