@@ -1,25 +1,25 @@
 {
-  "date": "Sunday, November 23, 2025 at 8:45 PM GMT-5",
+  "date": "Sunday, November 23, 2025 at 10:25 PM GMT-5",
   "articles": [
     {
       "title": "We stopped roadmap work for a week and fixed 189 bugs",
       "href": "https://lalitm.com/fixits-are-good-for-the-soul/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "What does the AGPL require?",
-      "href": "https://runxiyu.org/blog/agpl/",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
-      "index": 2
     },
     {
       "title": "ntoh*/hton* is a bad API",
       "href": "https://purplesyringa.moe/blog/ntoh-hton-is-a-bad-api/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 2
+    },
+    {
+      "title": "What does the AGPL require?",
+      "href": "https://runxiyu.org/blog/agpl/",
+      "points": "",
+      "comments": "\n              25 comments\n            ",
       "index": 3
     },
     {
@@ -30,10 +30,10 @@
       "index": 4
     },
     {
-      "title": "dingo: A meta-language for Go",
-      "href": "https://github.com/MadAppGang/dingo",
+      "title": "µcad: New open source programming language that can generate 2D sketches and 3D objects",
+      "href": "https://microcad.xyz",
       "points": "",
-      "comments": "\n              42 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 5
     },
     {
@@ -44,10 +44,10 @@
       "index": 6
     },
     {
-      "title": "µcad: New open source programming language that can generate 2D sketches and 3D objects",
-      "href": "https://microcad.xyz",
+      "title": "dingo: A meta-language for Go",
+      "href": "https://github.com/MadAppGang/dingo",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              44 comments\n            ",
       "index": 7
     },
     {
@@ -61,7 +61,7 @@
       "title": "Enough With All The Raft",
       "href": "https://transactional.blog/talk/enough-with-all-the-raft",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 9
     },
     {
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
-      "title": "liballocs: Meta-level run-time services for Unix processes... a.k.a. dragging Unix into the 1980s",
-      "href": "https://github.com/stephenrkell/liballocs",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 12
-    },
-    {
       "title": "Nonpareil:  High-Fidelity HP Calculator Simulator",
       "href": "https://nonpareil.brouhaha.com/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "liballocs: Meta-level run-time services for Unix processes... a.k.a. dragging Unix into the 1980s",
+      "href": "https://github.com/stephenrkell/liballocs",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 13
+    },
+    {
+      "title": "How Deep is Challenger Deep?",
+      "href": "https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 14
     },
     {
       "title": "Caching is better than mocking",
       "href": "https://federicopereiro.com/caching-ftw/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
+      "index": 15
     },
     {
-      "title": "How Deep is Challenger Deep?",
-      "href": "https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859",
+      "title": "An open-source photo editor & digital compositor for the web",
+      "href": "https://mint.photo/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 15
+      "comments": "\n              no comments\n            ",
+      "index": 16
     },
     {
       "title": "Host a website from an old phone using postmarketOS",
       "href": "https://far.computer/how-to/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 16
+      "index": 17
+    },
+    {
+      "title": "libfive: a software library and set of tools for solid modeling",
+      "href": "https://libfive.com/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
     },
     {
       "title": "the negentropy set-reconciliation protocol",
       "href": "https://github.com/hoytech/negentropy",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Parallel Threads in Racket v9.0",
       "href": "https://blog.racket-lang.org/2025/11/parallel-threads.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
+      "index": 20
     },
     {
       "title": "`satisfies` is my favorite TypeScript keyword",
       "href": "https://sjer.red/blog/2024-12-21/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "The worst programming language of all time",
-      "href": "https://www.youtube.com/watch?v=7fGB-hjc2Gc",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "qsp: A simple S-Expression parser for Rust TokenStreams",
       "href": "https://github.com/KnorrFG/qsp",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "The worst programming language of all time",
+      "href": "https://www.youtube.com/watch?v=7fGB-hjc2Gc",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 23
     },
     {
       "title": "Event Sourcing in Go: From Zero to Production",
       "href": "https://skoredin.pro/blog/golang/event-sourcing-go.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "libfive: a software library and set of tools for solid modeling",
-      "href": "https://libfive.com/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "What are you reading and plan to read next?",
       "href": "/s/wtxmgv/what_are_you_reading_plan_read_next",
       "points": "",
-      "comments": "\n              37 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Rust for Malware Development",
-      "href": "https://bishopfox.com/blog/rust-for-malware-development",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              40 comments\n            ",
       "index": 25
     }
   ]
