@@ -1,32 +1,32 @@
 {
-  "date": "Monday, November 24, 2025 at 2:20 AM GMT-5",
+  "date": "Monday, November 24, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "We stopped roadmap work for a week and fixed 189 bugs",
       "href": "https://lalitm.com/fixits-are-good-for-the-soul/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 1
     },
     {
       "title": "ntoh*/hton* is a bad API",
       "href": "https://purplesyringa.moe/blog/ntoh-hton-is-a-bad-api/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "What does the AGPL require?",
-      "href": "https://runxiyu.org/blog/agpl/",
-      "points": "",
-      "comments": "\n              31 comments\n            ",
-      "index": 3
     },
     {
       "title": "Google Revisits JPEG XL in Chromium After Earlier Removal",
       "href": "https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "What does the AGPL require?",
+      "href": "https://runxiyu.org/blog/agpl/",
+      "points": "",
+      "comments": "\n              36 comments\n            ",
       "index": 4
     },
     {
@@ -40,7 +40,7 @@
       "title": "Why Zig + Qt Feels Like Doing the Impossible Right",
       "href": "https://dayvster.com/blog/why-zig-+-qt-feels-like-doing-the-impossible-right/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 6
     },
     {
@@ -72,17 +72,17 @@
       "index": 10
     },
     {
-      "title": "liballocs: Meta-level run-time services for Unix processes... a.k.a. dragging Unix into the 1980s",
-      "href": "https://github.com/stephenrkell/liballocs",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 11
-    },
-    {
       "title": "An open-source photo editor & digital compositor for the web",
       "href": "https://mint.photo/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "liballocs: Meta-level run-time services for Unix processes... a.k.a. dragging Unix into the 1980s",
+      "href": "https://github.com/stephenrkell/liballocs",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 12
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "How Deep is Challenger Deep?",
-      "href": "https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859",
+      "title": "Making the case that Cargo features could be improved to alleviate Rust compile times",
+      "href": "https://saghm.com/cargo-features-rust-compile-times/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 15
-    },
-    {
-      "title": "the negentropy set-reconciliation protocol",
-      "href": "https://github.com/hoytech/negentropy",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
-    },
-    {
-      "title": "Caching is better than mocking",
-      "href": "https://federicopereiro.com/caching-ftw/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 17
-    },
-    {
-      "title": "Host a website from an old phone using postmarketOS",
-      "href": "https://far.computer/how-to/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Parallel Threads in Racket v9.0",
-      "href": "https://blog.racket-lang.org/2025/11/parallel-threads.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
-    },
-    {
-      "title": "libfive: a software library and set of tools for solid modeling",
-      "href": "https://libfive.com/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 20
     },
     {
       "title": "Build a Compiler in Five Projects",
       "href": "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "How Deep is Challenger Deep?",
+      "href": "https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "the negentropy set-reconciliation protocol",
+      "href": "https://github.com/hoytech/negentropy",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "Caching is better than mocking",
+      "href": "https://federicopereiro.com/caching-ftw/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
+    },
+    {
+      "title": "Parallel Threads in Racket v9.0",
+      "href": "https://blog.racket-lang.org/2025/11/parallel-threads.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
+      "title": "Host a website from an old phone using postmarketOS",
+      "href": "https://far.computer/how-to/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 21
+    },
+    {
+      "title": "libfive: a software library and set of tools for solid modeling",
+      "href": "https://libfive.com/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 22
     },
     {
       "title": "`satisfies` is my favorite TypeScript keyword",
       "href": "https://sjer.red/blog/2024-12-21/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 22
+      "comments": "\n              8 comments\n            ",
+      "index": 23
     },
     {
       "title": "The worst programming language of all time",
       "href": "https://www.youtube.com/watch?v=7fGB-hjc2Gc",
       "points": "",
       "comments": "\n              16 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "qsp: A simple S-Expression parser for Rust TokenStreams",
       "href": "https://github.com/KnorrFG/qsp",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "With Love to KDE: Take a Moment",
-      "href": "https://korcenji.neocities.org/Writings/KDE-Take-A-Moment",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
