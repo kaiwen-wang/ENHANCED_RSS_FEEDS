@@ -1,179 +1,179 @@
 {
-  "date": "Monday, November 24, 2025 at 4:25 AM GMT-5",
+  "date": "Monday, November 24, 2025 at 5:25 AM GMT-5",
   "articles": [
     {
       "title": "We stopped roadmap work for a week and fixed 189 bugs",
       "href": "https://lalitm.com/fixits-are-good-for-the-soul/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "edn.c: A fast, zero-copy EDN (Extensible Data Notation) reader written in C11 with SIMD acceleration",
+      "href": "https://github.com/DotFox/edn.c",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 2
     },
     {
       "title": "ntoh*/hton* is a bad API",
       "href": "https://purplesyringa.moe/blog/ntoh-hton-is-a-bad-api/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 2
+      "comments": "\n              8 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "Why I (still) love Linux",
+      "href": "https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 4
     },
     {
       "title": "Google Revisits JPEG XL in Chromium After Earlier Removal",
       "href": "https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 3
+      "comments": "\n              4 comments\n            ",
+      "index": 5
     },
     {
       "title": "What does the AGPL require?",
       "href": "https://runxiyu.org/blog/agpl/",
       "points": "",
       "comments": "\n              37 comments\n            ",
-      "index": 4
+      "index": 6
+    },
+    {
+      "title": "µcad: New open source programming language that can generate 2D sketches and 3D objects",
+      "href": "https://microcad.xyz",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 7
     },
     {
       "title": "Why Zig + Qt Feels Like Doing the Impossible Right",
       "href": "https://dayvster.com/blog/why-zig-+-qt-feels-like-doing-the-impossible-right/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "µcad: New open source programming language that can generate 2D sketches and 3D objects",
-      "href": "https://microcad.xyz",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "trifold is a tool to quickly & cheaply host static websites using a CDN",
-      "href": "https://jpt.sh/projects/trifold/",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "dingo: A meta-language for Go",
-      "href": "https://github.com/MadAppGang/dingo",
-      "points": "",
-      "comments": "\n              45 comments\n            ",
       "index": 8
-    },
-    {
-      "title": "Enough With All The Raft",
-      "href": "https://transactional.blog/talk/enough-with-all-the-raft",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Svalboard - Datahand forever",
-      "href": "https://svalboard.com/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "An open-source photo editor & digital compositor for the web",
-      "href": "https://mint.photo/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
     },
     {
       "title": "Build a Compiler in Five Projects",
       "href": "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Fifty Shades of OOP",
+      "href": "https://lesleylai.info/en/fifty_shades_of_oop/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "trifold is a tool to quickly & cheaply host static websites using a CDN",
+      "href": "https://jpt.sh/projects/trifold/",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "dingo: A meta-language for Go",
+      "href": "https://github.com/MadAppGang/dingo",
+      "points": "",
+      "comments": "\n              45 comments\n            ",
       "index": 12
     },
     {
-      "title": "How Deep is Challenger Deep?",
-      "href": "https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859",
+      "title": "Svalboard - Datahand forever",
+      "href": "https://svalboard.com/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 13
     },
     {
-      "title": "liballocs: Meta-level run-time services for Unix processes... a.k.a. dragging Unix into the 1980s",
-      "href": "https://github.com/stephenrkell/liballocs",
+      "title": "Enough With All The Raft",
+      "href": "https://transactional.blog/talk/enough-with-all-the-raft",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 14
-    },
-    {
-      "title": "Flux Keyboard",
-      "href": "https://fluxkeyboard.com/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Nonpareil:  High-Fidelity HP Calculator Simulator",
-      "href": "https://nonpareil.brouhaha.com/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Making the case that Cargo features could be improved to alleviate Rust compile times",
-      "href": "https://saghm.com/cargo-features-rust-compile-times/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 17
     },
     {
       "title": "With Love to KDE: Take a Moment",
       "href": "https://korcenji.neocities.org/Writings/KDE-Take-A-Moment",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 15
+    },
+    {
+      "title": "An open-source photo editor & digital compositor for the web",
+      "href": "https://mint.photo/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
     },
     {
       "title": "Does Dioxus spark joy?",
       "href": "https://fasterthanli.me/articles/does-dioxus-spark-joy",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "How Deep is Challenger Deep?",
+      "href": "https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "liballocs: Meta-level run-time services for Unix processes... a.k.a. dragging Unix into the 1980s",
+      "href": "https://github.com/stephenrkell/liballocs",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 19
+    },
+    {
+      "title": "Flux Keyboard",
+      "href": "https://fluxkeyboard.com/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Nonpareil:  High-Fidelity HP Calculator Simulator",
+      "href": "https://nonpareil.brouhaha.com/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Caching is better than mocking",
+      "href": "https://federicopereiro.com/caching-ftw/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Making the case that Cargo features could be improved to alleviate Rust compile times",
+      "href": "https://saghm.com/cargo-features-rust-compile-times/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 23
     },
     {
       "title": "the negentropy set-reconciliation protocol",
       "href": "https://github.com/hoytech/negentropy",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
-    },
-    {
-      "title": "Caching is better than mocking",
-      "href": "https://federicopereiro.com/caching-ftw/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "Parallel Threads in Racket v9.0",
-      "href": "https://blog.racket-lang.org/2025/11/parallel-threads.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "Host a website from an old phone using postmarketOS",
-      "href": "https://far.computer/how-to/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "`satisfies` is my favorite TypeScript keyword",
-      "href": "https://sjer.red/blog/2024-12-21/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
       "index": 24
     },
     {
-      "title": "libfive: a software library and set of tools for solid modeling",
-      "href": "https://libfive.com/",
+      "title": "What are you doing this week?",
+      "href": "/s/x5f9en/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
