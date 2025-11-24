@@ -1,214 +1,214 @@
 {
-  "date": "Monday, November 24, 2025 at 10:25 AM GMT-5",
+  "date": "Monday, November 24, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "NSA and IETF, part 3: Dodging the issues at hand",
       "href": "https://blog.cr.yp.to/20251123-dodging.html",
-      "points": "154 points",
-      "comments": "38 comments",
+      "points": "196 points",
+      "comments": "64 comments",
       "index": 1
+    },
+    {
+      "title": "SHA1-Hulud the Second Comming – Postman, Zapier, PostHog All Compromised via NPM",
+      "href": "https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains",
+      "points": "16 points",
+      "comments": "1 comment",
+      "index": 2
+    },
+    {
+      "title": "Inside Rust's std and parking_lot mutexes – who wins?",
+      "href": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
+      "points": "17 points",
+      "comments": "1 comment",
+      "index": 3
     },
     {
       "title": "Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows",
       "href": "https://www.blaizenterprises.com/cynthia.html",
-      "points": "30 points",
-      "comments": "10 comments",
-      "index": 2
+      "points": "44 points",
+      "comments": "13 comments",
+      "index": 4
     },
     {
       "title": "Fast Lua runtime written in Rust",
       "href": "https://astra.arkforge.net/",
-      "points": "33 points",
-      "comments": "20 comments",
-      "index": 3
-    },
-    {
-      "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
-      "href": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
-      "points": "438 points",
-      "comments": "354 comments",
-      "index": 4
-    },
-    {
-      "title": "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
-      "href": "https://arxiv.org/abs/2510.08874",
-      "points": "52 points",
-      "comments": "4 comments",
+      "points": "62 points",
+      "comments": "29 comments",
       "index": 5
-    },
-    {
-      "title": "We stopped roadmap work for a week and fixed bugs",
-      "href": "https://lalitm.com/fixits-are-good-for-the-soul/",
-      "points": "121 points",
-      "comments": "225 comments",
-      "index": 6
     },
     {
       "title": "Chrome Jpegxl Issue Reopened",
       "href": "https://issues.chromium.org/issues/40168998",
-      "points": "34 points",
-      "comments": "6 comments",
-      "index": 7
+      "points": "82 points",
+      "comments": "17 comments",
+      "index": 6
     },
     {
       "title": "Serflings is a remake of The Settlers 1",
       "href": "https://www.simpleguide.net/serflings.xhtml",
-      "points": "36 points",
-      "comments": "5 comments",
+      "points": "60 points",
+      "comments": "13 comments",
+      "index": 7
+    },
+    {
+      "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+      "href": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+      "points": "507 points",
+      "comments": "415 comments",
       "index": 8
+    },
+    {
+      "title": "We stopped roadmap work for a week and fixed bugs",
+      "href": "https://lalitm.com/fixits-are-good-for-the-soul/",
+      "points": "147 points",
+      "comments": "237 comments",
+      "index": 9
+    },
+    {
+      "title": "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
+      "href": "https://arxiv.org/abs/2510.08874",
+      "points": "61 points",
+      "comments": "4 comments",
+      "index": 10
     },
     {
       "title": "RuBee",
       "href": "https://computer.rip/2025-11-22-RuBee.html",
-      "points": "289 points",
-      "comments": "50 comments",
-      "index": 9
+      "points": "296 points",
+      "comments": "52 comments",
+      "index": 11
     },
     {
-      "title": "Show HN: Virtual SLURM HPC cluster in a Docker Compose",
-      "href": "https://github.com/exactlab/vhpc",
-      "points": "12 points",
-      "comments": "2 comments",
-      "index": 10
+      "title": "X Just Accidentally Exposed a Covert Influence Network Targeting Americans",
+      "href": "https://weaponizedspaces.substack.com/p/x-just-accidentally-exposed-a-vast",
+      "points": "62 points",
+      "comments": "21 comments",
+      "index": 12
     },
     {
       "title": "Disney Lost Roger Rabbit",
       "href": "https://pluralistic.net/2025/11/18/im-not-bad/",
-      "points": "323 points",
-      "comments": "127 comments",
-      "index": 11
-    },
-    {
-      "title": "Booking.com cancels $4K hotel reservation, offers same rooms again for $17K",
-      "href": "https://www.cbc.ca/news/gopublic/go-public-booking-com-hotel-rates-9.6985480",
-      "points": "28 points",
-      "comments": "12 comments",
-      "index": 12
+      "points": "352 points",
+      "comments": "153 comments",
+      "index": 13
     },
     {
       "title": "Japan's gamble to turn island of Hokkaido into global chip hub",
       "href": "https://www.bbc.com/news/articles/c8676qpxgnqo",
-      "points": "184 points",
-      "comments": "322 comments",
-      "index": 13
-    },
-    {
-      "title": "Building the largest known Kubernetes cluster, with 130k nodes",
-      "href": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
-      "points": "56 points",
-      "comments": "35 comments",
+      "points": "205 points",
+      "comments": "350 comments",
       "index": 14
-    },
-    {
-      "title": "µcad: New open source programming language that can generate 2D sketches and 3D",
-      "href": "https://microcad.xyz/",
-      "points": "307 points",
-      "comments": "97 comments",
-      "index": 15
     },
     {
       "title": "Ask HN: Hearing aid wearers, what's hot?",
       "href": "item?id=46029699",
-      "points": "254 points",
-      "comments": "135 comments",
+      "points": "280 points",
+      "comments": "147 comments",
+      "index": 15
+    },
+    {
+      "title": "µcad: New open source programming language that can generate 2D sketches and 3D",
+      "href": "https://microcad.xyz/",
+      "points": "326 points",
+      "comments": "106 comments",
       "index": 16
     },
     {
-      "title": "The only GM EV1 ever publicly sold, and where it's going next",
-      "href": "https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/",
-      "points": "43 points",
-      "comments": "38 comments",
+      "title": "Show HN: Virtual SLURM HPC cluster in a Docker Compose",
+      "href": "https://github.com/exactlab/vhpc",
+      "points": "23 points",
+      "comments": "5 comments",
       "index": 17
-    },
-    {
-      "title": "Bureau of Meteorology's new boss asked to examine $96M bill for website redesign",
-      "href": "https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202",
-      "points": "60 points",
-      "comments": "38 comments",
-      "index": 18
     },
     {
       "title": "Lambda Calculus – Animated Beta Reduction of Lambda Diagrams",
       "href": "https://cruzgodar.com/applets/lambda-calculus",
-      "points": "109 points",
-      "comments": "7 comments",
+      "points": "114 points",
+      "comments": "8 comments",
+      "index": 18
+    },
+    {
+      "title": "Native Secure Enclave backed SSH keys on macOS",
+      "href": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
+      "points": "432 points",
+      "comments": "180 comments",
       "index": 19
     },
     {
       "title": "The Rust Performance Book (2020)",
       "href": "https://nnethercote.github.io/perf-book/",
-      "points": "163 points",
+      "points": "174 points",
       "comments": "25 comments",
       "index": 20
     },
     {
-      "title": "Native Secure Enclave backed SSH keys on macOS",
-      "href": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
-      "points": "424 points",
-      "comments": "172 comments",
-      "index": 21
-    },
-    {
-      "title": "Show HN: Stun LLMs with thousands of invisible Unicode characters",
-      "href": "https://gibberifier.com",
-      "points": "151 points",
-      "comments": "69 comments",
-      "index": 22
-    },
-    {
       "title": "New magnetic component discovered in the Faraday effect",
       "href": "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html",
-      "points": "170 points",
-      "comments": "58 comments",
-      "index": 23
+      "points": "178 points",
+      "comments": "65 comments",
+      "index": 21
     },
     {
       "title": "I built an faster Notion in Rust",
       "href": "https://imedadel.com/outcrop/",
-      "points": "80 points",
-      "comments": "45 comments",
+      "points": "93 points",
+      "comments": "53 comments",
+      "index": 22
+    },
+    {
+      "title": "Show HN: Stun LLMs with thousands of invisible Unicode characters",
+      "href": "https://gibberifier.com",
+      "points": "159 points",
+      "comments": "71 comments",
+      "index": 23
+    },
+    {
+      "title": "Building the largest known Kubernetes cluster, with 130k nodes",
+      "href": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
+      "points": "63 points",
+      "comments": "50 comments",
       "index": 24
     },
     {
       "title": "Fran Sans – font inspired by San Francisco light rail displays",
       "href": "https://emilysneddon.com/fran-sans-essay",
-      "points": "1025 points",
-      "comments": "128 comments",
+      "points": "1041 points",
+      "comments": "129 comments",
       "index": 25
     },
     {
-      "title": "Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]",
-      "href": "https://mathcs.holycross.edu/~ahwang/print/calc.pdf",
-      "points": "331 points",
-      "comments": "69 comments",
+      "title": "I put a real search engine into a Lambda, so you only pay when you search",
+      "href": "https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a",
+      "points": "21 points",
+      "comments": "4 comments",
       "index": 26
-    },
-    {
-      "title": "Set theory with types",
-      "href": "https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html",
-      "points": "86 points",
-      "comments": "13 comments",
-      "index": 27
     },
     {
       "title": "Ego, empathy, and humility at work",
       "href": "https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/",
-      "points": "101 points",
-      "comments": "32 comments",
-      "index": 28
+      "points": "113 points",
+      "comments": "38 comments",
+      "index": 27
     },
     {
-      "title": "General principles for the use of AI at CERN",
-      "href": "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern",
-      "points": "69 points",
-      "comments": "59 comments",
-      "index": 29
+      "title": "Set theory with types",
+      "href": "https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html",
+      "points": "89 points",
+      "comments": "13 comments",
+      "index": 28
     },
     {
       "title": "The Cloudflare outage might be a good thing",
       "href": "https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048",
-      "points": "190 points",
-      "comments": "141 comments",
+      "points": "208 points",
+      "comments": "147 comments",
+      "index": 29
+    },
+    {
+      "title": "Bureau of Meteorology's new boss asked to examine $96M bill for website redesign",
+      "href": "https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202",
+      "points": "80 points",
+      "comments": "56 comments",
       "index": 30
     }
   ]
