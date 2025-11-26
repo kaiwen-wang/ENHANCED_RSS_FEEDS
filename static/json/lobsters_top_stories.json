@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, November 26, 2025 at 1:25 PM GMT-5",
+  "date": "Wednesday, November 26, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "I don't care how well your \"AI\" works",
       "href": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 1
     },
     {
       "title": "KDE going all-in on a Wayland future",
       "href": "https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 2
     },
     {
@@ -37,143 +37,143 @@
       "index": 5
     },
     {
-      "title": "What They Don't Tell You About Maintaining an Open Source Project",
-      "href": "https://andrej.sh/blog/maintaining-open-source-project/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 6
-    },
-    {
       "title": "Go proposal: Goroutine metrics",
       "href": "https://antonz.org/accepted/goroutine-metrics/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "What They Don't Tell You About Maintaining an Open Source Project",
+      "href": "https://andrej.sh/blog/maintaining-open-source-project/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 7
-    },
-    {
-      "title": "Stop Telling Us XMPP Should Use JSON",
-      "href": "https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/",
-      "points": "",
-      "comments": "\n              57 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level",
-      "href": "https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/",
-      "points": "",
-      "comments": "\n              16 comments\n            ",
-      "index": 9
     },
     {
       "title": "Building a 64-bit OS from Scratch with Claude Code",
       "href": "https://isene.org/2025/11/SimplicityOS.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Stop Telling Us XMPP Should Use JSON",
+      "href": "https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/",
+      "points": "",
+      "comments": "\n              63 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "llmfuse: a self-compressing filesystem backed by an LLM",
+      "href": "https://grohan.co/2025/11/25/llmfuse/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 10
     },
     {
-      "title": "Why Strong Consistency?",
-      "href": "https://brooker.co.za/blog/2025/11/18/consistency.html",
+      "title": "Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level",
+      "href": "https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 11
-    },
-    {
-      "title": "URL in C Puzzle",
-      "href": "https://susam.net/url-in-c.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 12
     },
     {
       "title": "Solving the Partridge Packing Problem using MiniZinc",
       "href": "https://zayenz.se/blog/post/partridge-packing/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "URL in C Puzzle",
+      "href": "https://susam.net/url-in-c.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 13
+    },
+    {
+      "title": "ULID - the ONLY identifier you should use?",
+      "href": "https://www.youtube.com/watch?v=otW7nLd8P04",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Why Strong Consistency?",
+      "href": "https://brooker.co.za/blog/2025/11/18/consistency.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
     },
     {
       "title": "Orion 1.0",
       "href": "https://blog.kagi.com/orion",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 14
+      "index": 16
     },
     {
       "title": "We Rewrote Our Startup from PHP to Gleam in 3 Weeks",
       "href": "https://www.radical-elements.com/minor-epiphanies/we-rewrote-our-startup-from-php-to-gleam-in-3-weeks",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "llmfuse: a self-compressing filesystem backed by an LLM",
-      "href": "https://grohan.co/2025/11/25/llmfuse/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "A look at Rust from 2012",
       "href": "https://purplesyringa.moe/blog/a-look-at-rust-from-2012/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "APT Rust requirement raises questions",
       "href": "https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 18
+      "index": 19
+    },
+    {
+      "title": "Releasing Packages with a Valet Key: npm, PyPI, and beyond",
+      "href": "https://byk.im/posts/releasing-packages/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Typeform is Too Expensive – Try Fabform, the Typeform Alternative",
+      "href": "https://fabform.io",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
     },
     {
       "title": "SecretSpec 0.4.0",
       "href": "https://devenv.sh/blog/2025/11/26/devenv-111-module-changelogs-and-secretspec-040/#secretspec-040",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 22
+    },
+    {
+      "title": "libinput 1.30 Released With Support For Writing Plug-Ins In Lua",
+      "href": "https://www.phoronix.com/news/libinput-1.30-Released",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "How to get hired in 2025",
+      "href": "https://tonsky.me/blog/hiring-ai/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 24
     },
     {
       "title": "AI Smells on Medium",
       "href": "https://rmoff.net/2025/11/25/ai-smells-on-medium/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "How to get hired in 2025",
-      "href": "https://tonsky.me/blog/hiring-ai/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "Super fast aggregations in PostgreSQL 19",
-      "href": "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "s&box now open source",
-      "href": "https://github.com/Facepunch/sbox-public",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "libinput 1.30 Released With Support For Writing Plug-Ins In Lua",
-      "href": "https://www.phoronix.com/news/libinput-1.30-Released",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "WhatsApp from you know where",
-      "href": "https://xenodium.com/whatsapp-from-you-know-where",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
