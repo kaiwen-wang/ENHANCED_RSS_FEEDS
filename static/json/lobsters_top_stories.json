@@ -1,32 +1,32 @@
 {
-  "date": "Thursday, November 27, 2025 at 8:30 AM GMT-5",
+  "date": "Thursday, November 27, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Migrating The Zig Organization from GitHub to Codeberg",
       "href": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
       "points": "",
-      "comments": "\n              71 comments\n            ",
+      "comments": "\n              75 comments\n            ",
       "index": 1
     },
     {
       "title": "Lazy Linearity for a Core Functional Language (POPL 2026)",
       "href": "https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 2
     },
     {
       "title": "I don't care how well your \"AI\" works",
       "href": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
       "points": "",
-      "comments": "\n              74 comments\n            ",
+      "comments": "\n              75 comments\n            ",
       "index": 3
     },
     {
       "title": "KDE going all-in on a Wayland future",
       "href": "https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/",
       "points": "",
-      "comments": "\n              28 comments\n            ",
+      "comments": "\n              29 comments\n            ",
       "index": 4
     },
     {
@@ -40,7 +40,7 @@
       "title": "Building a 64-bit OS from Scratch with Claude Code",
       "href": "https://isene.org/2025/11/SimplicityOS.html",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 6
     },
     {
@@ -65,99 +65,99 @@
       "index": 9
     },
     {
+      "title": "Bringing Emacs Support to OCaml's LSP Server with ocaml-eglot",
+      "href": "https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
       "title": "A Very Fast 64–Bit Date Algorithm: 30-40% faster",
       "href": "https://www.benjoffe.com/fast-date-64",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "llmfuse: a self-compressing filesystem backed by an LLM",
-      "href": "https://grohan.co/2025/11/25/llmfuse/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 11
-    },
-    {
-      "title": "Announcing Unison 1.0",
-      "href": "https://www.unison-lang.org/unison-1-0/",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Go proposal: Goroutine metrics",
-      "href": "https://antonz.org/accepted/goroutine-metrics/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Stop Hacklore - An Open Letter",
-      "href": "https://www.hacklore.org/letter",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 14
     },
     {
       "title": "Optimizing Ray Tracing in Haskell (2020)",
       "href": "https://medium.com/@s.nawaz/optimizing-ray-tracing-in-haskell-3dc412fff20a",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 12
+    },
+    {
+      "title": "llmfuse: a self-compressing filesystem backed by an LLM",
+      "href": "https://grohan.co/2025/11/25/llmfuse/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "On Idempotency Keys",
+      "href": "https://www.morling.dev/blog/on-idempotency-keys/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Announcing Unison 1.0",
+      "href": "https://www.unison-lang.org/unison-1-0/",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
       "index": 15
     },
     {
-      "title": "Graph Algorithms in Rayon",
-      "href": "https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html",
+      "title": "Stop Hacklore - An Open Letter",
+      "href": "https://www.hacklore.org/letter",
+      "points": "",
+      "comments": "\n              28 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Go proposal: Goroutine metrics",
+      "href": "https://antonz.org/accepted/goroutine-metrics/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Running unsupported iOS on deprecated devices",
       "href": "https://nyansatan.github.io/run-unsupported-ios/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "Graph Algorithms in Rayon",
+      "href": "https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
     },
     {
       "title": "Liber Indigo: The Affordances of Magic",
       "href": "https://www.youtube.com/watch?v=pGpBQgZ5IsI&list=PLsfH1Ahi4SzE-QmrsrtyZubGmi66iP45V",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "The Unbrickable Pledge",
-      "href": "https://usetrmnl.com/blog/the-unbrickable-pledge",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "fail2ban RCE",
       "href": "https://www.cve.org/CVERecord?id=CVE-2025-45311",
       "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 20
+      "comments": "\n              7 comments\n            ",
+      "index": 21
     },
     {
       "title": "s&box now open source",
       "href": "https://github.com/Facepunch/sbox-public",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Why Strong Consistency?",
       "href": "https://brooker.co.za/blog/2025/11/18/consistency.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "On Idempotency Keys",
-      "href": "https://www.morling.dev/blog/on-idempotency-keys/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 23
