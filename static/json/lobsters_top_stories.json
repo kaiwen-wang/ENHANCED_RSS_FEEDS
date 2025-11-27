@@ -1,53 +1,53 @@
 {
-  "date": "Wednesday, November 26, 2025 at 8:40 PM GMT-5",
+  "date": "Wednesday, November 26, 2025 at 10:10 PM GMT-5",
   "articles": [
+    {
+      "title": "Migrating The Zig Organization from GitHub to Codeberg",
+      "href": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 1
+    },
     {
       "title": "I don't care how well your \"AI\" works",
       "href": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
       "points": "",
-      "comments": "\n              43 comments\n            ",
-      "index": 1
+      "comments": "\n              48 comments\n            ",
+      "index": 2
     },
     {
       "title": "KDE going all-in on a Wayland future",
       "href": "https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 2
+      "index": 3
     },
     {
       "title": "Building a 64-bit OS from Scratch with Claude Code",
       "href": "https://isene.org/2025/11/SimplicityOS.html",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "ULID - the ONLY identifier you should use?",
       "href": "https://www.youtube.com/watch?v=otW7nLd8P04",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Announcing Unison 1.0",
       "href": "https://www.unison-lang.org/unison-1-0/",
       "points": "",
       "comments": "\n              19 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Stop Hacklore - An Open Letter",
       "href": "https://www.hacklore.org/letter",
       "points": "",
       "comments": "\n              22 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "llmfuse: a self-compressing filesystem backed by an LLM",
-      "href": "https://grohan.co/2025/11/25/llmfuse/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 7
     },
     {
@@ -58,31 +58,31 @@
       "index": 8
     },
     {
+      "title": "llmfuse: a self-compressing filesystem backed by an LLM",
+      "href": "https://grohan.co/2025/11/25/llmfuse/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 9
+    },
+    {
       "title": "URL in C Puzzle",
       "href": "https://susam.net/url-in-c.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Unifying Wikipedia mobile and desktop domains",
       "href": "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "A Very Fast 64–Bit Date Algorithm: 30-40% faster",
       "href": "https://www.benjoffe.com/fast-date-64",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "What They Don't Tell You About Maintaining an Open Source Project",
-      "href": "https://andrej.sh/blog/maintaining-open-source-project/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 12
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
+      "title": "What They Don't Tell You About Maintaining an Open Source Project",
+      "href": "https://andrej.sh/blog/maintaining-open-source-project/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 14
+    },
+    {
       "title": "Liber Indigo: The Affordances of Magic",
       "href": "https://www.youtube.com/watch?v=pGpBQgZ5IsI&list=PLsfH1Ahi4SzE-QmrsrtyZubGmi66iP45V",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 14
+      "comments": "\n              3 comments\n            ",
+      "index": 15
     },
     {
       "title": "Stop Telling Us XMPP Should Use JSON",
       "href": "https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/",
       "points": "",
-      "comments": "\n              76 comments\n            ",
-      "index": 15
+      "comments": "\n              78 comments\n            ",
+      "index": 16
     },
     {
       "title": "fail2ban RCE",
       "href": "https://www.cve.org/CVERecord?id=CVE-2025-45311",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 16
+      "comments": "\n              5 comments\n            ",
+      "index": 17
     },
     {
       "title": "Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level",
       "href": "https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/",
       "points": "",
       "comments": "\n              16 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "How stealth addresses work in Monero",
-      "href": "https://www.johndcook.com/blog/2025/11/24/monero-stealth-addresses/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 18
-    },
-    {
-      "title": "Solving the Partridge Packing Problem using MiniZinc",
-      "href": "https://zayenz.se/blog/post/partridge-packing/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "SecretSpec 0.4.0",
-      "href": "https://devenv.sh/blog/2025/11/26/devenv-111-module-changelogs-and-secretspec-040/#secretspec-040",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 20
-    },
-    {
-      "title": "How to get hired in 2025",
-      "href": "https://tonsky.me/blog/hiring-ai/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Orion 1.0",
-      "href": "https://blog.kagi.com/orion",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "We Rewrote Our Startup from PHP to Gleam in 3 Weeks",
-      "href": "https://www.radical-elements.com/minor-epiphanies/we-rewrote-our-startup-from-php-to-gleam-in-3-weeks",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "libinput 1.30 Released With Support For Writing Plug-Ins In Lua",
-      "href": "https://www.phoronix.com/news/libinput-1.30-Released",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 24
     },
     {
       "title": "Chat Control: EU lawmakers finally agree on the voluntary scanning of your private chats",
       "href": "https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Running unsupported iOS on deprecated devices",
+      "href": "https://nyansatan.github.io/run-unsupported-ios/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Graph Algorithms in Rayon",
+      "href": "https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "How stealth addresses work in Monero",
+      "href": "https://www.johndcook.com/blog/2025/11/24/monero-stealth-addresses/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 22
+    },
+    {
+      "title": "Solving the Partridge Packing Problem using MiniZinc",
+      "href": "https://zayenz.se/blog/post/partridge-packing/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "SecretSpec 0.4.0",
+      "href": "https://devenv.sh/blog/2025/11/26/devenv-111-module-changelogs-and-secretspec-040/#secretspec-040",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 24
+    },
+    {
+      "title": "How to get hired in 2025",
+      "href": "https://tonsky.me/blog/hiring-ai/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 25
     }
   ]
