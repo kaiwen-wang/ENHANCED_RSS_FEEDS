@@ -1,5 +1,5 @@
 {
-  "date": "Friday, November 28, 2025 at 1:30 PM GMT-5",
+  "date": "Friday, November 28, 2025 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "An update on the farphone's battery",
@@ -26,35 +26,35 @@
       "title": "Help, My Java Object Vanished (and the GC is Not at Fault)",
       "href": "https://arraying.de/posts/markword/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 4
     },
     {
       "title": "ML-KEM Mythbusting",
       "href": "https://keymaterial.net/2025/11/27/ml-kem-mythbusting/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 5
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/9rpx3i/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "Fort Knox for your secrets -  Manage secrets with encryption or cloud providers",
-      "href": "https://fnox.jdx.dev/guide/what-is-fnox.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 7
     },
     {
       "title": "Don't tug on that, you never know what it might be attached to",
       "href": "https://blog.plover.com/2016/07/01/#tmpdir",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 7
+    },
+    {
+      "title": "Fort Knox for your secrets -  Manage secrets with encryption or cloud providers",
+      "href": "https://fnox.jdx.dev/guide/what-is-fnox.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 8
     },
     {
@@ -65,24 +65,24 @@
       "index": 9
     },
     {
+      "title": "Is anyone using Project Hummingbird?",
+      "href": "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/hummingbird",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 10
+    },
+    {
       "title": "Electron vs. Tauri",
       "href": "https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/",
       "points": "",
       "comments": "\n              66 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Lowtype: Elegant types in Ruby",
       "href": "https://codeberg.org/Iow/type",
       "points": "",
       "comments": "\n              23 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Is anyone using Project Hummingbird?",
-      "href": "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/hummingbird",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 12
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
-      "title": "A million ways to die from a data race in Go",
-      "href": "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Lazy Linearity for a Core Functional Language",
-      "href": "https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Bringing Emacs Support to OCaml's LSP Server with ocaml-eglot",
-      "href": "https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Setting secrets in env vars",
-      "href": "https://hugovk.dev/blog/2025/secrets-in-env-vars/",
-      "points": "",
-      "comments": "\n              16 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Generating 3D Meshes From Text",
-      "href": "https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/",
+      "title": "Tiny TPU",
+      "href": "https://www.tinytpu.com/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 16
     },
     {
       "title": "bfs: A breadth-first version of the UNIX find command",
       "href": "https://github.com/tavianator/bfs",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "A million ways to die from a data race in Go",
+      "href": "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Lazy Linearity for a Core Functional Language",
+      "href": "https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Bringing Emacs Support to OCaml's LSP Server with ocaml-eglot",
+      "href": "https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Setting secrets in env vars",
+      "href": "https://hugovk.dev/blog/2025/secrets-in-env-vars/",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
       "index": 21
     },
     {
-      "title": "Migrating The Zig Organization from GitHub to Codeberg",
-      "href": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
+      "title": "Generating 3D Meshes From Text",
+      "href": "https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/",
       "points": "",
-      "comments": "\n              182 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 22
-    },
-    {
-      "title": "Brief thoughts on the recent Cloudflare outage",
-      "href": "https://surfingcomplexity.blog/2025/11/26/brief-thoughts-on-the-recent-cloudflare-outage/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Tiny TPU",
-      "href": "https://www.tinytpu.com/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
     },
     {
       "title": "What's in a Button?",
       "href": "https://belkadan.com/blog/2025/11/Whats-in-a-Button/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Migrating The Zig Organization from GitHub to Codeberg",
+      "href": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
+      "points": "",
+      "comments": "\n              176 comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "Stopwatch under the hood (2016)",
+      "href": "https://aakinshin.net/posts/stopwatch/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
