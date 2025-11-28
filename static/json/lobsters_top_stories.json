@@ -1,5 +1,5 @@
 {
-  "date": "Friday, November 28, 2025 at 2:20 AM GMT-5",
+  "date": "Friday, November 28, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "Lowtype: Elegant types in Ruby",
@@ -16,24 +16,24 @@
       "index": 2
     },
     {
+      "title": "Electron vs. Tauri",
+      "href": "https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/",
+      "points": "",
+      "comments": "\n              26 comments\n            ",
+      "index": 3
+    },
+    {
       "title": "Bringing Emacs Support to OCaml's LSP Server with ocaml-eglot",
       "href": "https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Migrating The Zig Organization from GitHub to Codeberg",
       "href": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
       "points": "",
-      "comments": "\n              169 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Electron vs. Tauri",
-      "href": "https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              173 comments\n            ",
       "index": 5
     },
     {
@@ -51,129 +51,129 @@
       "index": 7
     },
     {
+      "title": "Setting secrets in env vars",
+      "href": "https://hugovk.dev/blog/2025/secrets-in-env-vars/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "Bending Emacs - Episode 6: Overlays",
       "href": "https://xenodium.com/bending-emacs-episode-6-overlays",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 8
-    },
-    {
-      "title": "Setting secrets in env vars",
-      "href": "https://hugovk.dev/blog/2025/secrets-in-env-vars/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 9
-    },
-    {
-      "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 mobile platform",
-      "href": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Pointer pop quiz",
-      "href": "https://dave.cheney.net/2025/11/27/pointer-pop-quiz",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "What's in a Button?",
-      "href": "https://belkadan.com/blog/2025/11/Whats-in-a-Button/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Chat Control: EU lawmakers finally agree on the voluntary scanning of your private chats",
-      "href": "https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "ML-KEM Mythbusting",
-      "href": "https://keymaterial.net/2025/11/27/ml-kem-mythbusting/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "On Idempotency Keys",
-      "href": "https://www.morling.dev/blog/on-idempotency-keys/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "Generalized Worley Noise",
-      "href": "https://ianthehenry.com/posts/generalized-worley-noise/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
-    },
-    {
-      "title": "It's hard to build an oscillator",
-      "href": "https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 17
     },
     {
       "title": "Brief thoughts on the recent Cloudflare outage",
       "href": "https://surfingcomplexity.blog/2025/11/26/brief-thoughts-on-the-recent-cloudflare-outage/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 mobile platform",
+      "href": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Pointer pop quiz",
+      "href": "https://dave.cheney.net/2025/11/27/pointer-pop-quiz",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "What's in a Button?",
+      "href": "https://belkadan.com/blog/2025/11/Whats-in-a-Button/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Chat Control: EU lawmakers finally agree on the voluntary scanning of your private chats",
+      "href": "https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "ML-KEM Mythbusting",
+      "href": "https://keymaterial.net/2025/11/27/ml-kem-mythbusting/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "On Idempotency Keys",
+      "href": "https://www.morling.dev/blog/on-idempotency-keys/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
+      "title": "Generalized Worley Noise",
+      "href": "https://ianthehenry.com/posts/generalized-worley-noise/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
+      "title": "It's hard to build an oscillator",
+      "href": "https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 18
+    },
+    {
+      "title": "A foundation for building tools on the AT Protocol using Unison",
+      "href": "https://notes.kaushikc.org/3m6kc5nudgc2x",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
     },
     {
       "title": "Comparing Obelisk with DBOS",
       "href": "https://obeli.sk/blog/comparing-dbos-part-1/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "KDE going all-in on a Wayland future",
       "href": "https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/",
       "points": "",
-      "comments": "\n              38 comments\n            ",
-      "index": 20
+      "comments": "\n              39 comments\n            ",
+      "index": 21
     },
     {
       "title": "I don't care how well your \"AI\" works",
       "href": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
       "points": "",
-      "comments": "\n              104 comments\n            ",
-      "index": 21
+      "comments": "\n              105 comments\n            ",
+      "index": 22
     },
     {
       "title": "A million ways to die from a data race in Go",
       "href": "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "The Input Stack on Linux An End-To-End Architecture Overview",
       "href": "https://venam.net/blog/unix/2025/11/27/input_devices_linux.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Building a 64-bit OS from Scratch with Claude Code",
       "href": "https://isene.org/2025/11/SimplicityOS.html",
       "points": "",
-      "comments": "\n              30 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Optimizing Ray Tracing in Haskell (2020)",
-      "href": "https://medium.com/@s.nawaz/optimizing-ray-tracing-in-haskell-3dc412fff20a",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              31 comments\n            ",
       "index": 25
     }
   ]
