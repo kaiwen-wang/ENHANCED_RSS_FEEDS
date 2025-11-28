@@ -1,11 +1,11 @@
 {
-  "date": "Friday, November 28, 2025 at 12:20 AM GMT-5",
+  "date": "Friday, November 28, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "Lowtype: Elegant types in Ruby",
       "href": "https://codeberg.org/Iow/type",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 1
     },
     {
@@ -16,24 +16,24 @@
       "index": 2
     },
     {
-      "title": "Migrating The Zig Organization from GitHub to Codeberg",
-      "href": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
-      "points": "",
-      "comments": "\n              166 comments\n            ",
-      "index": 3
-    },
-    {
       "title": "Bringing Emacs Support to OCaml's LSP Server with ocaml-eglot",
       "href": "https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 4
+      "index": 3
     },
     {
       "title": "Electron vs. Tauri",
       "href": "https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              22 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Migrating The Zig Organization from GitHub to Codeberg",
+      "href": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
+      "points": "",
+      "comments": "\n              168 comments\n            ",
       "index": 5
     },
     {
@@ -65,17 +65,17 @@
       "index": 9
     },
     {
-      "title": "Pointer pop quiz",
-      "href": "https://dave.cheney.net/2025/11/27/pointer-pop-quiz",
+      "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 mobile platform",
+      "href": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 10
     },
     {
-      "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 mobile platform",
-      "href": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
+      "title": "Pointer pop quiz",
+      "href": "https://dave.cheney.net/2025/11/27/pointer-pop-quiz",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 11
     },
     {
@@ -86,80 +86,80 @@
       "index": 12
     },
     {
-      "title": "On Idempotency Keys",
-      "href": "https://www.morling.dev/blog/on-idempotency-keys/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
-      "title": "Generalized Worley Noise",
-      "href": "https://ianthehenry.com/posts/generalized-worley-noise/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "Comparing Obelisk with DBOS",
-      "href": "https://obeli.sk/blog/comparing-dbos-part-1/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "It's hard to build an oscillator",
-      "href": "https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
-    },
-    {
-      "title": "KDE going all-in on a Wayland future",
-      "href": "https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/",
-      "points": "",
-      "comments": "\n              38 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "I don't care how well your \"AI\" works",
-      "href": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
-      "points": "",
-      "comments": "\n              103 comments\n            ",
-      "index": 18
-    },
-    {
       "title": "What's in a Button?",
       "href": "https://belkadan.com/blog/2025/11/Whats-in-a-Button/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 13
     },
     {
       "title": "ML-KEM Mythbusting",
       "href": "https://keymaterial.net/2025/11/27/ml-kem-mythbusting/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 14
+    },
+    {
+      "title": "On Idempotency Keys",
+      "href": "https://www.morling.dev/blog/on-idempotency-keys/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
+      "title": "It's hard to build an oscillator",
+      "href": "https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 16
     },
     {
       "title": "Brief thoughts on the recent Cloudflare outage",
       "href": "https://surfingcomplexity.blog/2025/11/26/brief-thoughts-on-the-recent-cloudflare-outage/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Generalized Worley Noise",
+      "href": "https://ianthehenry.com/posts/generalized-worley-noise/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "Comparing Obelisk with DBOS",
+      "href": "https://obeli.sk/blog/comparing-dbos-part-1/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "KDE going all-in on a Wayland future",
+      "href": "https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/",
+      "points": "",
+      "comments": "\n              38 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "I don't care how well your \"AI\" works",
+      "href": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
+      "points": "",
+      "comments": "\n              103 comments\n            ",
       "index": 21
+    },
+    {
+      "title": "The Input Stack on Linux An End-To-End Architecture Overview",
+      "href": "https://venam.net/blog/unix/2025/11/27/input_devices_linux.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 22
     },
     {
       "title": "Building a 64-bit OS from Scratch with Claude Code",
       "href": "https://isene.org/2025/11/SimplicityOS.html",
       "points": "",
       "comments": "\n              29 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "The Input Stack on Linux An End-To-End Architecture Overview",
-      "href": "https://venam.net/blog/unix/2025/11/27/input_devices_linux.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 23
     },
     {
