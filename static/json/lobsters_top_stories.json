@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, November 30, 2025 at 3:20 PM GMT-5",
+  "date": "Sunday, November 30, 2025 at 4:15 PM GMT-5",
   "articles": [
     {
       "title": "Migrating Dillo from GitHub",
       "href": "https://dillo-browser.org/news/migration-from-github/",
       "points": "",
-      "comments": "\n              21 comments\n            ",
+      "comments": "\n              24 comments\n            ",
       "index": 1
     },
     {
@@ -44,136 +44,136 @@
       "index": 6
     },
     {
+      "title": "The HTTP Query Method",
+      "href": "https://datatracker.ietf.org/doc/draft-ietf-httpbis-safe-method-w-body/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 7
+    },
+    {
       "title": "From Zero to GitHub: Starting A New jj (Jujutsu) Repo",
       "href": "https://www.visualmode.dev/from-zero-to-github-starting-a-new-jj-jujutsu-repo",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "The HTTP Query Method",
-      "href": "https://datatracker.ietf.org/doc/draft-ietf-httpbis-safe-method-w-body/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 8
-    },
-    {
-      "title": "Langjam Gamejam: Build a programming language then make a game with it",
-      "href": "https://langjamgamejam.com/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network",
-      "href": "https://blog.tymscar.com/posts/imgurukproxy/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Landlock-ing Linux",
-      "href": "https://blog.prizrak.me/post/landlock/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Self-hosting my photos with Immich",
-      "href": "https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/",
-      "points": "",
-      "comments": "\n              26 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "The Clade folding text editor",
-      "href": "https://tibleiz.net/clade/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Oops! It's a kernel stack use-after-free: Exploiting NVIDIA's GPU Linux drivers",
-      "href": "https://blog.quarkslab.com/nvidia_gpu_kernel_vmalloc_exploit.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
     },
     {
       "title": "Hacking on the reMarkable 2",
       "href": "https://sgt.hootr.club/blog/hacking-on-the-remarkable-2/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 9
     },
     {
-      "title": "Linux Kernel Explorer",
-      "href": "https://reverser.dev",
+      "title": "Langjam Gamejam: Build a programming language then make a game with it",
+      "href": "https://langjamgamejam.com/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
+      "comments": "\n              15 comments\n            ",
+      "index": 10
     },
     {
-      "title": "Major AI conference flooded with peer reviews written fully by AI",
-      "href": "https://www.nature.com/articles/d41586-025-03506-6",
+      "title": "Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network",
+      "href": "https://blog.tymscar.com/posts/imgurukproxy/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Landlock-ing Linux",
+      "href": "https://blog.prizrak.me/post/landlock/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Self-hosting my photos with Immich",
+      "href": "https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/",
+      "points": "",
+      "comments": "\n              27 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "The Clade folding text editor",
+      "href": "https://tibleiz.net/clade/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 17
+      "index": 14
+    },
+    {
+      "title": "Oops! It's a kernel stack use-after-free: Exploiting NVIDIA's GPU Linux drivers",
+      "href": "https://blog.quarkslab.com/nvidia_gpu_kernel_vmalloc_exploit.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
     },
     {
       "title": "Real-Time Rendering with JPEG-Compressed Textures",
       "href": "https://github.com/elias1518693/jpeg_textures",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 16
     },
     {
-      "title": "Antifragile Programming and Why AI Won’t Steal Your Job",
-      "href": "https://lemire.me/blog/2025/11/29/antifragile-programming-and-why-ai-wont-steal-your-job/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "pgFirstAid-The PostgreSQL Health Check Blog Post",
-      "href": "https://randoneering.tech/blog/pgfirstaid/pgfirstaid/",
+      "title": "Linux Kernel Explorer",
+      "href": "https://reverser.dev",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Schubfach: The smallest state-of-the-art double-to-string implementation",
-      "href": "https://vitaut.net/posts/2025/smallest-dtoa/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 21
+      "index": 17
     },
     {
       "title": "You Want Microservices—But Do You Need Them?",
       "href": "https://www.docker.com/blog/do-you-really-need-microservices/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Major AI conference flooded with peer reviews written fully by AI",
+      "href": "https://www.nature.com/articles/d41586-025-03506-6",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Antifragile Programming and Why AI Won’t Steal Your Job",
+      "href": "https://lemire.me/blog/2025/11/29/antifragile-programming-and-why-ai-wont-steal-your-job/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "pgFirstAid-The PostgreSQL Health Check Blog Post",
+      "href": "https://randoneering.tech/blog/pgfirstaid/pgfirstaid/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Trillions Spent and Big Software Projects Are Still Failing",
+      "href": "https://spectrum.ieee.org/it-management-software-failures",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 22
+    },
+    {
+      "title": "Schubfach: The smallest state-of-the-art double-to-string implementation",
+      "href": "https://vitaut.net/posts/2025/smallest-dtoa/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "interop and mathml core",
+      "href": "https://conflor.es/blog/2025-11-27-interop-and-mathml/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "How good engineers write bad code at big companies",
       "href": "https://www.seangoedecke.com/bad-code-at-big-companies/",
       "points": "",
       "comments": "\n              61 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "System 7 natively boots on the Mac mini G4",
-      "href": "https://macos9lives.com/smforum/index.php?topic=7711.0",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Airbus issues major A320 recall due to software issue",
-      "href": "https://www.reuters.com/business/aerospace-defense/airbus-issues-major-a320-recall-after-flight-control-incident-2025-11-28/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
       "index": 25
     }
   ]
