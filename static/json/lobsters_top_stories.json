@@ -1,11 +1,11 @@
 {
-  "date": "Monday, December 1, 2025 at 10:20 PM GMT-5",
+  "date": "Monday, December 1, 2025 at 11:30 PM GMT-5",
   "articles": [
     {
       "title": "Why xor eax, eax?",
       "href": "https://xania.org/202512/01-xor-eax-eax",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 1
     },
     {
@@ -26,7 +26,7 @@
       "title": "Internet Handle",
       "href": "https://internethandle.org/",
       "points": "",
-      "comments": "\n              44 comments\n            ",
+      "comments": "\n              45 comments\n            ",
       "index": 4
     },
     {
@@ -44,66 +44,66 @@
       "index": 6
     },
     {
+      "title": "FreeBSD 15.0-RELEASE Announcement",
+      "href": "https://www.freebsd.org/releases/15.0R/announce/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 7
+    },
+    {
       "title": "Boing",
       "href": "https://boing.greg.technology/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Hacking on the reMarkable 2",
       "href": "https://sgt.hootr.club/blog/hacking-on-the-remarkable-2/",
       "points": "",
       "comments": "\n              22 comments\n            ",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Constructing The Word's First JPEG XL MD5 Hash Quine",
       "href": "https://stackchk.fail/blog/jxl_hashquine_writeup",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 9
+      "comments": "\n              2 comments\n            ",
+      "index": 10
     },
     {
       "title": "NixOS 25.11 released",
       "href": "https://nixos.org/blog/announcements/2025/nixos-2511/",
       "points": "",
       "comments": "\n              30 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Benchmarking read latency of AWS S3, S3 Express, EBS and Instance store",
       "href": "https://nixiesearch.substack.com/p/benchmarking-read-latency-of-aws",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Off-grid Boat Communications with Meshtastic",
       "href": "https://blog.noforeignland.com/off-grid-boat-communications-with-meshtastic/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "FreeBSD 15.0-RELEASE Announcement",
-      "href": "https://www.freebsd.org/releases/15.0R/announce/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 13
     },
     {
-      "title": "ty - Python type checker",
-      "href": "https://docs.astral.sh/ty/",
+      "title": "The Easiest Way to Build a Type Checker",
+      "href": "https://jimmyhmiller.com/easiest-way-to-build-type-checker",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 14
     },
     {
-      "title": "Migrating Dillo from GitHub",
-      "href": "https://dillo-browser.org/news/migration-from-github/",
+      "title": "Claude 4.5 Opus' Soul Document",
+      "href": "https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document",
       "points": "",
-      "comments": "\n              73 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "Advent of Code 2025",
-      "href": "https://adventofcode.com/2025",
+      "title": "ty - Python type checker",
+      "href": "https://docs.astral.sh/ty/",
       "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 17
     },
     {
-      "title": "Claude 4.5 Opus' Soul Document",
-      "href": "https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document",
+      "title": "Migrating Dillo from GitHub",
+      "href": "https://dillo-browser.org/news/migration-from-github/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              73 comments\n            ",
       "index": 18
     },
     {
-      "title": "Size Matters",
-      "href": "https://matklad.github.io/2025/11/28/size-matters.html",
+      "title": "Advent of Code 2025",
+      "href": "https://adventofcode.com/2025",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 19
-    },
-    {
-      "title": "Paged Out - Call for pages",
-      "href": "https://pagedout.institute/?page=cfp.php",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "A Love Letter to FreeBSD",
-      "href": "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 21
     },
     {
       "title": "Compressing callstacks: a bitpacked DAG powered by a keyless hashmap",
       "href": "https://superluminal.eu/compressing-callstacks/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Size Matters",
+      "href": "https://matklad.github.io/2025/11/28/size-matters.html",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Paged Out - Call for pages",
+      "href": "https://pagedout.institute/?page=cfp.php",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 22
+    },
+    {
+      "title": "A Love Letter to FreeBSD",
+      "href": "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 23
     },
     {
       "title": "One jobserver to rule them all",
       "href": "https://blogs.gentoo.org/mgorny/2025/11/30/one-jobserver-to-rule-them-all/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/kfnqsw/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Windows drive letters are not limited to A-Z",
-      "href": "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 25
     }
   ]
