@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, December 3, 2025 at 8:35 AM GMT-5",
+  "date": "Wednesday, December 3, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "zmx: session persistence for terminal processes",
       "href": "https://github.com/neurosnap/zmx",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 1
     },
     {
       "title": "In defense of lock poisoning in Rust",
       "href": "https://sunshowers.io/posts/on-poisoning/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 2
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
-      "title": "Go proposal: Type-safe error checking",
-      "href": "https://antonz.org/accepted/errors-astype/",
-      "points": "",
-      "comments": "\n              31 comments\n            ",
-      "index": 6
-    },
-    {
       "title": "Zig's new plan for asynchronous programs",
       "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 6
+    },
+    {
+      "title": "Go proposal: Type-safe error checking",
+      "href": "https://antonz.org/accepted/errors-astype/",
+      "points": "",
+      "comments": "\n              31 comments\n            ",
       "index": 7
     },
     {
@@ -58,38 +58,38 @@
       "index": 8
     },
     {
-      "title": "Decreasing Certificate Lifetimes to 45 Days",
-      "href": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
+      "title": "It's Not Always ICache",
+      "href": "https://matklad.github.io/2021/07/10/its-not-always-icache.html",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 9
-    },
-    {
-      "title": "ACME Challenge for Persistent DNS TXT Record Validation",
-      "href": "https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Avoiding space leaks at all costs (2022)",
-      "href": "https://chshersh.com/blog/2022-08-08-space-leak.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 11
     },
     {
       "title": "Running Linux on a RiscPC, why is it so hard?",
       "href": "https://www.thejpster.org.uk/blog/blog-2025-12-02/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "ACME Challenge for Persistent DNS TXT Record Validation",
+      "href": "https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Decreasing Certificate Lifetimes to 45 Days",
+      "href": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
+      "points": "",
+      "comments": "\n              21 comments\n            ",
       "index": 12
     },
     {
-      "title": "Roko's dancing basilisk",
-      "href": "https://boston.conman.org/2025/12/02.1",
+      "title": "Avoiding space leaks at all costs (2022)",
+      "href": "https://chshersh.com/blog/2022-08-08-space-leak.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 13
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "It's Not Always ICache",
-      "href": "https://matklad.github.io/2021/07/10/its-not-always-icache.html",
+      "title": "Roko's dancing basilisk",
+      "href": "https://boston.conman.org/2025/12/02.1",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 15
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "You can't fool the optimiser",
+      "href": "https://xania.org/202512/03-more-adding-integers",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
       "title": "Lazier Binary Decision Diagrams (BDDs) for set-theoretic types",
       "href": "https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Can we build WeChat Mini Apps using open web standards?",
       "href": "https://dmathewwws.com/antler-an-irl-browser",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "100000 TPS over a billion rows: the unreasonable effectiveness of SQLite",
       "href": "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "Desugaring the Relationship Between Concrete and Abstract Syntax",
+      "href": "https://thunderseethe.dev/posts/desugar-base/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "How large DOM sizes affect interactivity, and what you can do about it (2023)",
       "href": "https://web.dev/articles/dom-size-and-interactivity",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
-    },
-    {
-      "title": "You can't fool the optimiser",
-      "href": "https://xania.org/202512/03-more-adding-integers",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Why xor eax, eax?",
-      "href": "https://xania.org/202512/01-xor-eax-eax",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 25
     }
   ]
