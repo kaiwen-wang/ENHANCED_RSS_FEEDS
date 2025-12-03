@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, December 2, 2025 at 6:20 PM GMT-5",
+  "date": "Tuesday, December 2, 2025 at 8:40 PM GMT-5",
   "articles": [
     {
       "title": "Gitmal - a static pages generator for Git repos",
       "href": "https://github.com/antonmedv/gitmal",
       "points": "",
-      "comments": "\n              35 comments\n            ",
+      "comments": "\n              36 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "Go proposal: Type-safe error checking",
-      "href": "https://antonz.org/accepted/errors-astype/",
-      "points": "",
-      "comments": "\n              25 comments\n            ",
-      "index": 2
     },
     {
       "title": "zmx: session persistence for terminal processes",
       "href": "https://github.com/neurosnap/zmx",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              11 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "Go proposal: Type-safe error checking",
+      "href": "https://antonz.org/accepted/errors-astype/",
+      "points": "",
+      "comments": "\n              26 comments\n            ",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "In defense of lock poisoning in Rust",
       "href": "https://sunshowers.io/posts/on-poisoning/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 5
     },
     {
@@ -51,15 +51,15 @@
       "index": 7
     },
     {
-      "title": "EmacsConf 2025",
-      "href": "https://emacsconf.org/2025/",
+      "title": "Progress on TypeScript 7 - December 2025",
+      "href": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 8
     },
     {
-      "title": "Progress on TypeScript 7 - December 2025",
-      "href": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
+      "title": "EmacsConf 2025",
+      "href": "https://emacsconf.org/2025/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 9
@@ -72,10 +72,10 @@
       "index": 10
     },
     {
-      "title": "Lazier Binary Decision Diagrams (BDDs) for set-theoretic types",
-      "href": "https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/",
+      "title": "nixtml: Static website and blog generator written in nix",
+      "href": "https://github.com/arnarg/nixtml",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 11
     },
     {
@@ -86,10 +86,10 @@
       "index": 12
     },
     {
-      "title": "nixtml: Static website and blog generator written in nix",
-      "href": "https://github.com/arnarg/nixtml",
+      "title": "Lazier Binary Decision Diagrams (BDDs) for set-theoretic types",
+      "href": "https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 13
     },
     {
@@ -114,31 +114,31 @@
       "index": 16
     },
     {
-      "title": "Addressing the adding situation",
-      "href": "https://xania.org/202512/02-adding-integers",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
       "title": "Can we build WeChat Mini Apps using open web standards?",
       "href": "https://dmathewwws.com/antler-an-irl-browser",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
-    },
-    {
-      "title": "Solid state volumetric display",
-      "href": "https://mastodon.social/@ancientjames/115648797968721973",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 17
     },
     {
       "title": "100000 TPS over a billion rows: the unreasonable effectiveness of SQLite",
       "href": "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "Addressing the adding situation",
+      "href": "https://xania.org/202512/02-adding-integers",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Solid state volumetric display",
+      "href": "https://mastodon.social/@ancientjames/115648797968721973",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers",
+      "href": "https://users.cs.utah.edu/~regehr/papers/popl26.pdf",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Composing capability security and conflict-free replicated data types",
+      "href": "https://spritely.institute/news/composing-capability-security-and-conflict-free-replicated-data-types.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 23
+    },
+    {
       "title": "Building the perfect Linux PC with Linus Torvalds",
       "href": "https://youtu.be/mfv0V1SxbNA",
       "points": "",
       "comments": "\n              28 comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Claude 4.5 Opus' Soul Document",
       "href": "https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "PtrHash: Minimal Perfect Hashing at RAM Throughput",
-      "href": "https://curiouscoding.nl/posts/ptrhash/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Quantifying Information Loss",
-      "href": "https://www.testingbranch.com/information_loss_and_noise/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
