@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, December 3, 2025 at 2:20 PM GMT-5",
+  "date": "Wednesday, December 3, 2025 at 3:25 PM GMT-5",
   "articles": [
     {
       "title": "How should we peer review software?",
       "href": "https://mirawelner.com/posts/peer_review.html",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 1
     },
     {
@@ -16,45 +16,45 @@
       "index": 2
     },
     {
+      "title": "Teaching an LLM a Niche Diagraming Language",
+      "href": "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 3
+    },
+    {
       "title": "zmx: session persistence for terminal processes",
       "href": "https://github.com/neurosnap/zmx",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "In defense of lock poisoning in Rust",
       "href": "https://sunshowers.io/posts/on-poisoning/",
       "points": "",
       "comments": "\n              26 comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "It's Not Always ICache",
       "href": "https://matklad.github.io/2021/07/10/its-not-always-icache.html",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
       "title": "My First Impressions of MeshCore Off-Grid Messaging",
       "href": "https://mtlynch.io/first-impressions-of-meshcore/",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 6
+      "index": 7
     },
     {
       "title": "Gitmal - a static pages generator for Git repos",
       "href": "https://github.com/antonmedv/gitmal",
       "points": "",
       "comments": "\n              38 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Web-based markdown editor with no AI",
-      "href": "https://kraa.io/about",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 8
     },
     {
@@ -65,10 +65,10 @@
       "index": 9
     },
     {
-      "title": "Go proposal: Type-safe error checking",
-      "href": "https://antonz.org/accepted/errors-astype/",
+      "title": "Web-based markdown editor with no AI",
+      "href": "https://kraa.io/about",
       "points": "",
-      "comments": "\n              30 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 10
     },
     {
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
-      "title": "Teaching an LLM a Niche Diagraming Language",
-      "href": "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language",
+      "title": "Go proposal: Type-safe error checking",
+      "href": "https://antonz.org/accepted/errors-astype/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              30 comments\n            ",
       "index": 12
     },
     {
-      "title": "Modernizing Reddit's Comment Backend Infrastructure",
-      "href": "https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/",
+      "title": "No room for error - A case study of Gleam in production at Uncover",
+      "href": "https://gleam.run/case-studies/uncover/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 13
     },
     {
-      "title": "Running Linux on a RiscPC, why is it so hard?",
-      "href": "https://www.thejpster.org.uk/blog/blog-2025-12-02/",
+      "title": "Critical Security Vulnerability in React Server Components",
+      "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 14
     },
     {
       "title": "You can't fool the optimiser",
       "href": "https://xania.org/202512/03-more-adding-integers",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 15
     },
     {
       "title": "37 Signals open-sources Fizzy",
       "href": "https://github.com/basecamp/fizzy",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 16
     },
     {
-      "title": "ACME Challenge for Persistent DNS TXT Record Validation",
-      "href": "https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01",
+      "title": "Modernizing Reddit's Comment Backend Infrastructure",
+      "href": "https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
-      "title": "Roko's dancing basilisk",
-      "href": "https://boston.conman.org/2025/12/02.1",
+      "title": "Running Linux on a RiscPC, why is it so hard?",
+      "href": "https://www.thejpster.org.uk/blog/blog-2025-12-02/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 18
-    },
-    {
-      "title": "Critical Security Vulnerability in React Server Components",
-      "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
     },
     {
       "title": "Marathon OS: A gesture-based mobile shell and Linux system inspired by BB10",
       "href": "https://marathonos.xyz/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Decreasing Certificate Lifetimes to 45 Days",
-      "href": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Avoiding space leaks at all costs (2022)",
-      "href": "https://chshersh.com/blog/2022-08-08-space-leak.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 22
+      "index": 19
     },
     {
       "title": "Desugaring the Relationship Between Concrete and Abstract Syntax",
       "href": "https://thunderseethe.dev/posts/desugar-base/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
+      "index": 20
     },
     {
-      "title": "C++ Enum Class and Error Codes",
-      "href": "https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/",
+      "title": "Solve Go challenge: octantconway",
+      "href": "https://github.com/plutov/practice-go/tree/master/octantconway",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 24
+      "index": 21
+    },
+    {
+      "title": "ACME Challenge for Persistent DNS TXT Record Validation",
+      "href": "https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 22
     },
     {
       "title": "Ferrocene 25.11.0 now available",
       "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Roko's dancing basilisk",
+      "href": "https://boston.conman.org/2025/12/02.1",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "Avoiding space leaks at all costs (2022)",
+      "href": "https://chshersh.com/blog/2022-08-08-space-leak.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
