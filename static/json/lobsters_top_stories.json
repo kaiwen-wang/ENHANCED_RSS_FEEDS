@@ -1,25 +1,25 @@
 {
-  "date": "Wednesday, December 3, 2025 at 5:20 PM GMT-5",
+  "date": "Wednesday, December 3, 2025 at 6:20 PM EST",
   "articles": [
-    {
-      "title": "Teaching an LLM a Niche Diagraming Language",
-      "href": "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 1
-    },
-    {
-      "title": "How should we peer review software?",
-      "href": "https://mirawelner.com/posts/peer_review.html",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 2
-    },
     {
       "title": "Ghostty Is Now Non-Profit",
       "href": "https://mitchellh.com/writing/ghostty-non-profit",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "Teaching an LLM a Niche Diagraming Language",
+      "href": "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "How should we peer review software?",
+      "href": "https://mirawelner.com/posts/peer_review.html",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 3
     },
     {
@@ -30,7 +30,7 @@
       "index": 4
     },
     {
-      "title": "It's Not Always ICache",
+      "title": "It's Not Always ICache (2021)",
       "href": "https://matklad.github.io/2021/07/10/its-not-always-icache.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
@@ -40,28 +40,28 @@
       "title": "In defense of lock poisoning in Rust",
       "href": "https://sunshowers.io/posts/on-poisoning/",
       "points": "",
-      "comments": "\n              29 comments\n            ",
+      "comments": "\n              32 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "zmx: session persistence for terminal processes",
-      "href": "https://github.com/neurosnap/zmx",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 7
     },
     {
       "title": "Local-first is not offline-first",
       "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 8
+      "comments": "\n              1 comment\n            ",
+      "index": 7
     },
     {
       "title": "Critical Security Vulnerability in React Server Components",
       "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "zmx: session persistence for terminal processes",
+      "href": "https://github.com/neurosnap/zmx",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
       "index": 9
     },
     {
@@ -79,52 +79,52 @@
       "index": 11
     },
     {
-      "title": "My First Impressions of MeshCore Off-Grid Messaging",
-      "href": "https://mtlynch.io/first-impressions-of-meshcore/",
+      "title": "Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge",
+      "href": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 12
-    },
-    {
-      "title": "Gitmal - a static pages generator for Git repos",
-      "href": "https://github.com/antonmedv/gitmal",
-      "points": "",
-      "comments": "\n              39 comments\n            ",
-      "index": 13
     },
     {
       "title": "Marathon OS: A gesture-based mobile shell and Linux system inspired by BB10",
       "href": "https://marathonos.xyz/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 13
+    },
+    {
+      "title": "My First Impressions of MeshCore Off-Grid Messaging",
+      "href": "https://mtlynch.io/first-impressions-of-meshcore/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
       "index": 14
+    },
+    {
+      "title": "Gitmal - a static pages generator for Git repos",
+      "href": "https://github.com/antonmedv/gitmal",
+      "points": "",
+      "comments": "\n              39 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Ferrocene 25.11.0 now available",
+      "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
     },
     {
       "title": "Web-based markdown editor with no AI",
       "href": "https://kraa.io/about",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Modernizing Reddit's Comment Backend Infrastructure",
-      "href": "https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge",
-      "href": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 17
     },
     {
-      "title": "Go proposal: Type-safe error checking",
-      "href": "https://antonz.org/accepted/errors-astype/",
+      "title": "37 Signals open-sources Fizzy",
+      "href": "https://github.com/basecamp/fizzy",
       "points": "",
-      "comments": "\n              30 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 18
     },
     {
@@ -135,17 +135,17 @@
       "index": 19
     },
     {
-      "title": "Ferrocene 25.11.0 now available",
-      "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
+      "title": "Modernizing Reddit's Comment Backend Infrastructure",
+      "href": "https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 20
     },
     {
-      "title": "37 Signals open-sources Fizzy",
-      "href": "https://github.com/basecamp/fizzy",
+      "title": "Go proposal: Type-safe error checking",
+      "href": "https://antonz.org/accepted/errors-astype/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              30 comments\n            ",
       "index": 21
     },
     {
