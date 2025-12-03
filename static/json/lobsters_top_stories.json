@@ -1,25 +1,25 @@
 {
-  "date": "Wednesday, December 3, 2025 at 9:20 AM GMT-5",
+  "date": "Wednesday, December 3, 2025 at 10:25 AM GMT-5",
   "articles": [
+    {
+      "title": "How should we peer review software?",
+      "href": "https://mirawelner.com/posts/peer_review.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 1
+    },
     {
       "title": "zmx: session persistence for terminal processes",
       "href": "https://github.com/neurosnap/zmx",
       "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 1
+      "comments": "\n              19 comments\n            ",
+      "index": 2
     },
     {
       "title": "In defense of lock poisoning in Rust",
       "href": "https://sunshowers.io/posts/on-poisoning/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "How should we peer review software?",
-      "href": "https://mirawelner.com/posts/peer_review.html",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
-      "title": "My First Impressions of MeshCore Off-Grid Messaging",
-      "href": "https://mtlynch.io/first-impressions-of-meshcore/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 5
-    },
-    {
       "title": "Zig's new plan for asynchronous programs",
       "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 5
+    },
+    {
+      "title": "My First Impressions of MeshCore Off-Grid Messaging",
+      "href": "https://mtlynch.io/first-impressions-of-meshcore/",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 6
     },
     {
@@ -61,21 +61,21 @@
       "title": "It's Not Always ICache",
       "href": "https://matklad.github.io/2021/07/10/its-not-always-icache.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 9
     },
     {
       "title": "Running Linux on a RiscPC, why is it so hard?",
       "href": "https://www.thejpster.org.uk/blog/blog-2025-12-02/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 10
     },
     {
       "title": "ACME Challenge for Persistent DNS TXT Record Validation",
       "href": "https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 11
     },
     {
@@ -93,80 +93,80 @@
       "index": 13
     },
     {
-      "title": "Progress on TypeScript 7 - December 2025",
-      "href": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
       "title": "Roko's dancing basilisk",
       "href": "https://boston.conman.org/2025/12/02.1",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "nixtml: Static website and blog generator written in nix",
-      "href": "https://github.com/arnarg/nixtml",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
-    },
-    {
-      "title": "EmacsConf 2025",
-      "href": "https://emacsconf.org/2025/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "New AI slop signal: code blocks with weird indentation",
-      "href": "https://xeiaso.net/notes/2025/slop-signal-indentation/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Luarrow - True pipeline operators and elegant Haskell-style function composition for Lua",
-      "href": "https://github.com/aiya000/luarrow.lua",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
+      "index": 14
     },
     {
       "title": "You can't fool the optimiser",
       "href": "https://xania.org/202512/03-more-adding-integers",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 15
     },
     {
-      "title": "Lazier Binary Decision Diagrams (BDDs) for set-theoretic types",
-      "href": "https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/",
+      "title": "Progress on TypeScript 7 - December 2025",
+      "href": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 21
+      "comments": "\n              no comments\n            ",
+      "index": 16
     },
     {
-      "title": "Can we build WeChat Mini Apps using open web standards?",
-      "href": "https://dmathewwws.com/antler-an-irl-browser",
+      "title": "nixtml: Static website and blog generator written in nix",
+      "href": "https://github.com/arnarg/nixtml",
       "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 22
+      "comments": "\n              2 comments\n            ",
+      "index": 17
     },
     {
-      "title": "100000 TPS over a billion rows: the unreasonable effectiveness of SQLite",
-      "href": "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html",
+      "title": "Getting from tested to battle-tested",
+      "href": "https://blog.janestreet.com/getting-from-tested-to-battle-tested/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
+      "index": 18
+    },
+    {
+      "title": "EmacsConf 2025",
+      "href": "https://emacsconf.org/2025/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
     },
     {
       "title": "Desugaring the Relationship Between Concrete and Abstract Syntax",
       "href": "https://thunderseethe.dev/posts/desugar-base/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "New AI slop signal: code blocks with weird indentation",
+      "href": "https://xeiaso.net/notes/2025/slop-signal-indentation/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Luarrow - True pipeline operators and elegant Haskell-style function composition for Lua",
+      "href": "https://github.com/aiya000/luarrow.lua",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 22
+    },
+    {
+      "title": "Lazier Binary Decision Diagrams (BDDs) for set-theoretic types",
+      "href": "https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Can we build WeChat Mini Apps using open web standards?",
+      "href": "https://dmathewwws.com/antler-an-irl-browser",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 24
     },
     {
