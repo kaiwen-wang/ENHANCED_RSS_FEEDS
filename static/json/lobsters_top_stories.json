@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, December 3, 2025 at 1:30 PM GMT-5",
+  "date": "Wednesday, December 3, 2025 at 2:20 PM GMT-5",
   "articles": [
     {
       "title": "How should we peer review software?",
       "href": "https://mirawelner.com/posts/peer_review.html",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 1
     },
     {
@@ -72,106 +72,106 @@
       "index": 10
     },
     {
-      "title": "Running Linux on a RiscPC, why is it so hard?",
-      "href": "https://www.thejpster.org.uk/blog/blog-2025-12-02/",
+      "title": "Local-first is not offline-first",
+      "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 11
     },
     {
-      "title": "You can't fool the optimiser",
-      "href": "https://xania.org/202512/03-more-adding-integers",
+      "title": "Teaching an LLM a Niche Diagraming Language",
+      "href": "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 12
-    },
-    {
-      "title": "ACME Challenge for Persistent DNS TXT Record Validation",
-      "href": "https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Roko's dancing basilisk",
-      "href": "https://boston.conman.org/2025/12/02.1",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Marathon OS: A gesture-based mobile shell and Linux system inspired by BB10",
-      "href": "https://marathonos.xyz/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
     },
     {
       "title": "Modernizing Reddit's Comment Backend Infrastructure",
       "href": "https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Running Linux on a RiscPC, why is it so hard?",
+      "href": "https://www.thejpster.org.uk/blog/blog-2025-12-02/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "You can't fool the optimiser",
+      "href": "https://xania.org/202512/03-more-adding-integers",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "37 Signals open-sources Fizzy",
+      "href": "https://github.com/basecamp/fizzy",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 16
+    },
+    {
+      "title": "ACME Challenge for Persistent DNS TXT Record Validation",
+      "href": "https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Roko's dancing basilisk",
+      "href": "https://boston.conman.org/2025/12/02.1",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Critical Security Vulnerability in React Server Components",
+      "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
+    },
+    {
+      "title": "Marathon OS: A gesture-based mobile shell and Linux system inspired by BB10",
+      "href": "https://marathonos.xyz/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
     },
     {
       "title": "Decreasing Certificate Lifetimes to 45 Days",
       "href": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
       "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 17
+      "comments": "\n              23 comments\n            ",
+      "index": 21
     },
     {
       "title": "Avoiding space leaks at all costs (2022)",
       "href": "https://chshersh.com/blog/2022-08-08-space-leak.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Local-first is not offline-first",
-      "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Progress on TypeScript 7 - December 2025",
-      "href": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Critical Security Vulnerability in React Server Components",
-      "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Desugaring the Relationship Between Concrete and Abstract Syntax",
       "href": "https://thunderseethe.dev/posts/desugar-base/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "nixtml: Static website and blog generator written in nix",
-      "href": "https://github.com/arnarg/nixtml",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 23
     },
     {
-      "title": "Teaching Values to Machines",
-      "href": "https://lord.technology/2025/12/03/teaching-values-to-machines.html",
+      "title": "C++ Enum Class and Error Codes",
+      "href": "https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "EmacsConf 2025",
-      "href": "https://emacsconf.org/2025/",
+      "title": "Ferrocene 25.11.0 now available",
+      "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
