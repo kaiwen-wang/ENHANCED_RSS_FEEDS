@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, December 3, 2025 at 5:25 AM GMT-5",
+  "date": "Wednesday, December 3, 2025 at 6:20 AM GMT-5",
   "articles": [
     {
       "title": "zmx: session persistence for terminal processes",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
+      "title": "In defense of lock poisoning in Rust",
+      "href": "https://sunshowers.io/posts/on-poisoning/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 2
+    },
+    {
       "title": "Gitmal - a static pages generator for Git repos",
       "href": "https://github.com/antonmedv/gitmal",
       "points": "",
       "comments": "\n              38 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "In defense of lock poisoning in Rust",
-      "href": "https://sunshowers.io/posts/on-poisoning/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
       "index": 3
     },
     {
@@ -33,14 +33,14 @@
       "title": "Go proposal: Type-safe error checking",
       "href": "https://antonz.org/accepted/errors-astype/",
       "points": "",
-      "comments": "\n              30 comments\n            ",
+      "comments": "\n              31 comments\n            ",
       "index": 5
     },
     {
       "title": "How should we peer review software?",
       "href": "https://mirawelner.com/posts/peer_review.html",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 6
     },
     {
@@ -51,24 +51,24 @@
       "index": 7
     },
     {
+      "title": "Zig's new plan for asynchronous programs",
+      "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 8
+    },
+    {
       "title": "Decreasing Certificate Lifetimes to 45 Days",
       "href": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Avoiding space leaks at all costs",
       "href": "https://chshersh.com/blog/2022-08-08-space-leak.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Progress on TypeScript 7 - December 2025",
-      "href": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 10
     },
     {
@@ -79,24 +79,24 @@
       "index": 11
     },
     {
-      "title": "Zig's new plan for asynchronous programs",
-      "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
+      "title": "ACME Challenge for Persistent DNS TXT Record Validation",
+      "href": "https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 12
+    },
+    {
+      "title": "Progress on TypeScript 7 - December 2025",
+      "href": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
     },
     {
       "title": "Running Linux on a RiscPC, why is it so hard?",
       "href": "https://www.thejpster.org.uk/blog/blog-2025-12-02/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
-      "title": "ACME Challenge for Persistent DNS TXT Record Validation",
-      "href": "https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 14
     },
     {
@@ -114,10 +114,10 @@
       "index": 16
     },
     {
-      "title": "New AI slop signal: code blocks with weird indentation",
-      "href": "https://xeiaso.net/notes/2025/slop-signal-indentation/",
+      "title": "Luarrow - True pipeline operators and elegant Haskell-style function composition for Lua",
+      "href": "https://github.com/aiya000/luarrow.lua",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 17
     },
     {
@@ -128,17 +128,17 @@
       "index": 18
     },
     {
-      "title": "Lazier Binary Decision Diagrams (BDDs) for set-theoretic types",
-      "href": "https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/",
+      "title": "New AI slop signal: code blocks with weird indentation",
+      "href": "https://xeiaso.net/notes/2025/slop-signal-indentation/",
       "points": "",
       "comments": "\n              3 comments\n            ",
       "index": 19
     },
     {
-      "title": "Luarrow - True pipeline operators and elegant Haskell-style function composition for Lua",
-      "href": "https://github.com/aiya000/luarrow.lua",
+      "title": "Lazier Binary Decision Diagrams (BDDs) for set-theoretic types",
+      "href": "https://elixir-lang.org/blog/2025/12/02/lazier-bdds-for-set-theoretic-types/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 20
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "Addressing the adding situation",
-      "href": "https://xania.org/202512/02-adding-integers",
+      "title": "Composing capability security and conflict-free replicated data types",
+      "href": "https://spritely.institute/news/composing-capability-security-and-conflict-free-replicated-data-types.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 24
     },
     {
-      "title": "Don't Click Here",
-      "href": "https://www.dont-click-here.com",
+      "title": "Addressing the adding situation",
+      "href": "https://xania.org/202512/02-adding-integers",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
