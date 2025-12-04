@@ -1,86 +1,86 @@
 {
-  "date": "Wednesday, December 3, 2025 at 6:20 PM EST",
+  "date": "Wednesday, December 3, 2025 at 8:40 PM GMT-5",
   "articles": [
     {
       "title": "Ghostty Is Now Non-Profit",
       "href": "https://mitchellh.com/writing/ghostty-non-profit",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 1
     },
     {
       "title": "Teaching an LLM a Niche Diagraming Language",
       "href": "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "How should we peer review software?",
-      "href": "https://mirawelner.com/posts/peer_review.html",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 3
     },
     {
       "title": "Zig's new plan for asynchronous programs",
       "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              11 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "How should we peer review software?",
+      "href": "https://mirawelner.com/posts/peer_review.html",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
       "index": 4
+    },
+    {
+      "title": "Local-first is not offline-first",
+      "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge",
+      "href": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 6
+    },
+    {
+      "title": "Critical Security Vulnerability in React Server Components",
+      "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 7
     },
     {
       "title": "It's Not Always ICache (2021)",
       "href": "https://matklad.github.io/2021/07/10/its-not-always-icache.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 5
+      "index": 8
     },
     {
       "title": "In defense of lock poisoning in Rust",
       "href": "https://sunshowers.io/posts/on-poisoning/",
       "points": "",
-      "comments": "\n              32 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Local-first is not offline-first",
-      "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 7
-    },
-    {
-      "title": "Critical Security Vulnerability in React Server Components",
-      "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "zmx: session persistence for terminal processes",
-      "href": "https://github.com/neurosnap/zmx",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
+      "comments": "\n              35 comments\n            ",
       "index": 9
     },
     {
       "title": "Getting from tested to battle-tested",
       "href": "https://blog.janestreet.com/getting-from-tested-to-battle-tested/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 10
+    },
+    {
+      "title": "zmx: session persistence for terminal processes",
+      "href": "https://github.com/neurosnap/zmx",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
+      "index": 11
     },
     {
       "title": "No room for error - A case study of Gleam in production at Uncover",
       "href": "https://gleam.run/case-studies/uncover/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 11
-    },
-    {
-      "title": "Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge",
-      "href": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 12
@@ -100,38 +100,38 @@
       "index": 14
     },
     {
-      "title": "Gitmal - a static pages generator for Git repos",
-      "href": "https://github.com/antonmedv/gitmal",
-      "points": "",
-      "comments": "\n              39 comments\n            ",
-      "index": 15
-    },
-    {
       "title": "Ferrocene 25.11.0 now available",
       "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Gitmal - a static pages generator for Git repos",
+      "href": "https://github.com/antonmedv/gitmal",
+      "points": "",
+      "comments": "\n              39 comments\n            ",
       "index": 16
+    },
+    {
+      "title": "You can't fool the optimiser",
+      "href": "https://xania.org/202512/03-more-adding-integers",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 17
     },
     {
       "title": "Web-based markdown editor with no AI",
       "href": "https://kraa.io/about",
       "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 17
+      "comments": "\n              13 comments\n            ",
+      "index": 18
     },
     {
       "title": "37 Signals open-sources Fizzy",
       "href": "https://github.com/basecamp/fizzy",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "You can't fool the optimiser",
-      "href": "https://xania.org/202512/03-more-adding-integers",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 19
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
-      "title": "Running Linux on a RiscPC, why is it so hard?",
-      "href": "https://www.thejpster.org.uk/blog/blog-2025-12-02/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 22
-    },
-    {
       "title": "C++ Enum Class and Error Codes",
       "href": "https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 22
+    },
+    {
+      "title": "Running Linux on a RiscPC, why is it so hard?",
+      "href": "https://www.thejpster.org.uk/blog/blog-2025-12-02/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 23
+    },
+    {
+      "title": "Roko's dancing basilisk",
+      "href": "https://boston.conman.org/2025/12/02.1",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 24
     },
     {
       "title": "Desugaring the Relationship Between Concrete and Abstract Syntax",
       "href": "https://thunderseethe.dev/posts/desugar-base/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Roko's dancing basilisk",
-      "href": "https://boston.conman.org/2025/12/02.1",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 25
     }
   ]
