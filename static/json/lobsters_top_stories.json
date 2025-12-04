@@ -1,46 +1,46 @@
 {
-  "date": "Thursday, December 4, 2025 at 11:30 AM GMT-5",
+  "date": "Thursday, December 4, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "Why I Ignore The Spotlight as a Staff Engineer",
       "href": "https://lalitm.com/software-engineering-outside-the-spotlight/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 1
     },
     {
       "title": "Ghostty Is Now Non-Profit",
       "href": "https://mitchellh.com/writing/ghostty-non-profit",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "PGlite - Embeddable Postgres",
-      "href": "https://pglite.dev/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 3
     },
     {
       "title": "SVG Filters - Clickjacking 2.0",
       "href": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "PGlite - Embeddable Postgres",
+      "href": "https://pglite.dev/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 4
+    },
+    {
+      "title": "SWI-Prolog 10.0.0 released",
+      "href": "https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 5
     },
     {
       "title": "Super-flat ASTs",
       "href": "https://jhwlr.io/super-flat-ast/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "SWI-Prolog 10.0.0 released",
-      "href": "https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 6
     },
     {
@@ -51,122 +51,122 @@
       "index": 7
     },
     {
-      "title": "foreign-dlopen: call dlopen from static programs",
-      "href": "https://github.com/pfalcon/foreign-dlopen/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 8
-    },
-    {
       "title": "On recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On",
       "href": "https://git.sr.ht/~nkali/vision-sdk/tree/main/note/index.md",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 9
+      "index": 8
     },
     {
       "title": "The Human Writes Font",
       "href": "https://humanwritesfont.com/",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "foreign-dlopen: call dlopen from static programs",
+      "href": "https://github.com/pfalcon/foreign-dlopen/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 10
+    },
+    {
+      "title": "Django 6.0 released",
+      "href": "https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 11
     },
     {
       "title": "Hunting a production-only proxy bug in SvelteKit",
       "href": "https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "walrus (High Performance distributed log streaming engine)",
       "href": "https://github.com/nubskr/walrus",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "tunnl.gg | Expose localhost to the internet",
       "href": "https://tunnl.gg/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Local-first is not offline-first",
       "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge",
       "href": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "Critical Security Vulnerability in React Server Components",
-      "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 16
-    },
-    {
-      "title": "Ferrocene 25.11.0 now available",
-      "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "What I learned building an opinionated and minimal coding agent",
-      "href": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Zig's new plan for asynchronous programs",
-      "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 19
     },
     {
       "title": "If it ain’t broke, …",
       "href": "https://www.dra27.uk/blog/platform/2025/12/01/if-it-aint-broke.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Ferrocene 25.11.0 now available",
+      "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Critical Security Vulnerability in React Server Components",
+      "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "What I learned building an opinionated and minimal coding agent",
+      "href": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 20
+    },
+    {
+      "title": "Zig's new plan for asynchronous programs",
+      "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
+      "points": "",
+      "comments": "\n              23 comments\n            ",
+      "index": 21
     },
     {
       "title": "Trees - J Wiki",
       "href": "https://code.jsoftware.com/wiki/User:Devon_McCormick/Trees",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Django 6.0 released",
-      "href": "https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 22
-    },
-    {
-      "title": "How should we peer review software?",
-      "href": "https://mirawelner.com/posts/peer_review.html",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 23
     },
     {
       "title": "Marathon OS: A gesture-based mobile shell and Linux system inspired by BB10",
       "href": "https://marathonos.xyz/",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "How should we peer review software?",
+      "href": "https://mirawelner.com/posts/peer_review.html",
+      "points": "",
+      "comments": "\n              21 comments\n            ",
       "index": 24
     },
     {
