@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, December 4, 2025 at 3:25 PM GMT-5",
+  "date": "Thursday, December 4, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "Why I Ignore The Spotlight as a Staff Engineer",
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
+      "title": "Django 6.0 released",
+      "href": "https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 5
+    },
+    {
       "title": "SWI-Prolog 10.0.0 released",
       "href": "https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
       "title": "Super-flat ASTs",
       "href": "https://jhwlr.io/super-flat-ast/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Django 6.0 released",
-      "href": "https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 7
     },
     {
@@ -65,17 +65,17 @@
       "index": 9
     },
     {
+      "title": "][ Hello blog",
+      "href": "https://nobloat.org/articles/2025-07-01-hello-blog.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 10
+    },
+    {
       "title": "The Human Writes Font",
       "href": "https://humanwritesfont.com/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "foreign-dlopen: call dlopen from static programs",
-      "href": "https://github.com/pfalcon/foreign-dlopen/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 11
     },
     {
@@ -86,52 +86,52 @@
       "index": 12
     },
     {
-      "title": "APL for Plan9",
-      "href": "https://apl.pmikkelsen.com/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "walrus (High Performance distributed log streaming engine)",
-      "href": "https://github.com/nubskr/walrus",
+      "title": "foreign-dlopen: call dlopen from static programs",
+      "href": "https://github.com/pfalcon/foreign-dlopen/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Hunting a production-only proxy bug in SvelteKit",
-      "href": "https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "If it ain’t broke, …",
-      "href": "https://www.dra27.uk/blog/platform/2025/12/01/if-it-aint-broke.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 13
     },
     {
       "title": "Functional Quadtrees",
       "href": "https://lbjgruppen.com/en/posts/functional-quadtree-clojure",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "APL for Plan9",
+      "href": "https://apl.pmikkelsen.com/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "walrus (High Performance distributed log streaming engine)",
+      "href": "https://github.com/nubskr/walrus",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Hunting a production-only proxy bug in SvelteKit",
+      "href": "https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
-      "title": "Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge",
-      "href": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html",
+      "title": "Fairphone open-sources Fairphone 5 and 6 software, and Moments switch",
+      "href": "https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
-      "title": "Local-first is not offline-first",
-      "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
+      "title": "If it ain’t broke, …",
+      "href": "https://www.dra27.uk/blog/platform/2025/12/01/if-it-aint-broke.html",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 19
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge",
+      "href": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Local-first is not offline-first",
+      "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
+      "points": "",
+      "comments": "\n              25 comments\n            ",
+      "index": 22
+    },
+    {
       "title": "Critical Security Vulnerability in React Server Components",
       "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Adding Iongraph support to ZJIT",
       "href": "https://railsatscale.com/2025-11-19-adding-iongraph-support/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "What I learned building an opinionated and minimal coding agent",
-      "href": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Ferrocene 25.11.0 now available",
-      "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 24
     },
     {
-      "title": "Is Pixelfed sawing off the branch that the Fediverse is sitting on?",
-      "href": "https://ploum.net/2025-12-04-pixelfed-against-fediverse.html",
+      "title": "Why ed(1)?",
+      "href": "https://blog.thechases.com/posts/cli/why-ed1/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
