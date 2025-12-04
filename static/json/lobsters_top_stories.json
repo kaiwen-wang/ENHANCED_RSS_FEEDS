@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, December 4, 2025 at 2:20 AM GMT-5",
+  "date": "Thursday, December 4, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "Ghostty Is Now Non-Profit",
@@ -16,45 +16,45 @@
       "index": 2
     },
     {
-      "title": "Zig's new plan for asynchronous programs",
-      "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 3
-    },
-    {
       "title": "Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge",
       "href": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 3
+    },
+    {
+      "title": "Zig's new plan for asynchronous programs",
+      "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 4
+    },
+    {
+      "title": "Super-flat ASTs",
+      "href": "https://jhwlr.io/super-flat-ast/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Local-first is not offline-first",
+      "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 6
     },
     {
       "title": "Critical Security Vulnerability in React Server Components",
       "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 5
+      "index": 7
     },
     {
       "title": "How should we peer review software?",
       "href": "https://mirawelner.com/posts/peer_review.html",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Local-first is not offline-first",
-      "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Ferrocene 25.11.0 now available",
-      "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 8
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
-      "title": "What I learned building an opinionated and minimal coding agent",
-      "href": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+      "title": "Ferrocene 25.11.0 now available",
+      "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 10
+    },
+    {
+      "title": "SWI-Prolog 10.0.0 released",
+      "href": "https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 11
     },
     {
       "title": "Trees - J Wiki",
       "href": "https://code.jsoftware.com/wiki/User:Devon_McCormick/Trees",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "It's Not Always ICache (2021)",
-      "href": "https://matklad.github.io/2021/07/10/its-not-always-icache.html",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 12
     },
     {
-      "title": "Getting from tested to battle-tested",
-      "href": "https://blog.janestreet.com/getting-from-tested-to-battle-tested/",
+      "title": "What I learned building an opinionated and minimal coding agent",
+      "href": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 13
-    },
-    {
-      "title": "37 Signals open-sources Fizzy",
-      "href": "https://github.com/basecamp/fizzy",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 14
     },
     {
       "title": "No room for error - A case study of Gleam in production at Uncover",
       "href": "https://gleam.run/case-studies/uncover/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "In defense of lock poisoning in Rust",
-      "href": "https://sunshowers.io/posts/on-poisoning/",
-      "points": "",
-      "comments": "\n              42 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "zmx: session persistence for terminal processes",
-      "href": "https://github.com/neurosnap/zmx",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 17
+      "index": 14
     },
     {
       "title": "Marathon OS: A gesture-based mobile shell and Linux system inspired by BB10",
       "href": "https://marathonos.xyz/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
+      "title": "It's Not Always ICache (2021)",
+      "href": "https://matklad.github.io/2021/07/10/its-not-always-icache.html",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Getting from tested to battle-tested",
+      "href": "https://blog.janestreet.com/getting-from-tested-to-battle-tested/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "37 Signals open-sources Fizzy",
+      "href": "https://github.com/basecamp/fizzy",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 18
     },
     {
-      "title": "Super-flat ASTs",
-      "href": "https://jhwlr.io/super-flat-ast/",
+      "title": "In defense of lock poisoning in Rust",
+      "href": "https://sunshowers.io/posts/on-poisoning/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              43 comments\n            ",
       "index": 19
     },
     {
-      "title": "C++ Enum Class and Error Codes",
-      "href": "https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/",
+      "title": "zmx: session persistence for terminal processes",
+      "href": "https://github.com/neurosnap/zmx",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 20
-    },
-    {
-      "title": "Modernizing Reddit's Comment Backend Infrastructure",
-      "href": "https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "My First Impressions of MeshCore Off-Grid Messaging",
-      "href": "https://mtlynch.io/first-impressions-of-meshcore/",
-      "points": "",
-      "comments": "\n              16 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "You can't fool the optimiser",
-      "href": "https://xania.org/202512/03-more-adding-integers",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 23
     },
     {
       "title": "A Technical Tour of the DeepSeek Models from V3 to V3.2",
       "href": "https://magazine.sebastianraschka.com/p/technical-deepseek",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "You can't fool the optimiser",
+      "href": "https://xania.org/202512/03-more-adding-integers",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "C++ Enum Class and Error Codes",
+      "href": "https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Modernizing Reddit's Comment Backend Infrastructure",
+      "href": "https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Gitmal - a static pages generator for Git repos",
-      "href": "https://github.com/antonmedv/gitmal",
+      "title": "My First Impressions of MeshCore Off-Grid Messaging",
+      "href": "https://mtlynch.io/first-impressions-of-meshcore/",
       "points": "",
-      "comments": "\n              39 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 25
     }
   ]

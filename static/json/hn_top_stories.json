@@ -1,214 +1,214 @@
 {
-  "date": "Thursday, December 4, 2025 at 2:20 AM GMT-5",
+  "date": "Thursday, December 4, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "Ghostty is now non-profit",
       "href": "https://mitchellh.com/writing/ghostty-non-profit",
-      "points": "992 points",
-      "comments": "201 comments",
+      "points": "1045 points",
+      "comments": "212 comments",
       "index": 1
     },
     {
       "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
       "href": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
-      "points": "652 points",
-      "comments": "559 comments",
+      "points": "706 points",
+      "comments": "586 comments",
       "index": 2
     },
     {
       "title": "Average DRAM price in USD over last 18 months",
       "href": "https://pcpartpicker.com/trends/price/memory/",
-      "points": "209 points",
-      "comments": "129 comments",
+      "points": "257 points",
+      "comments": "163 comments",
       "index": 3
+    },
+    {
+      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
+      "href": "https://uncloud.run/",
+      "points": "46 points",
+      "comments": "18 comments",
+      "index": 4
     },
     {
       "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
       "href": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-      "points": "614 points",
-      "comments": "191 comments",
-      "index": 4
+      "points": "647 points",
+      "comments": "202 comments",
+      "index": 5
     },
     {
       "title": "Micron Announces Exit from Crucial Consumer Business",
       "href": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
-      "points": "500 points",
-      "comments": "244 comments",
-      "index": 5
+      "points": "534 points",
+      "comments": "262 comments",
+      "index": 6
     },
     {
-      "title": "The Differences Between an IndyCar and a F1 Car",
-      "href": "https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars",
-      "points": "54 points",
-      "comments": "13 comments",
-      "index": 6
+      "title": "1D Conway's Life glider found, 3.7B cells long",
+      "href": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
+      "points": "430 points",
+      "comments": "144 comments",
+      "index": 7
+    },
+    {
+      "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
+      "href": "https://finfam.app/blog/credit-union-mortgages",
+      "points": "239 points",
+      "comments": "75 comments",
+      "index": 8
     },
     {
       "title": "Saturn (YC S24) Is Hiring Senior AI Engineer",
       "href": "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer",
       "points": "",
       "comments": "hide",
-      "index": 7
-    },
-    {
-      "title": "1D Conway's Life glider found, 3.7B cells long",
-      "href": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
-      "points": "410 points",
-      "comments": "141 comments",
-      "index": 8
-    },
-    {
-      "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
-      "href": "https://finfam.app/blog/credit-union-mortgages",
-      "points": "229 points",
-      "comments": "73 comments",
       "index": 9
-    },
-    {
-      "title": "Acme, a brief history of one of the protocols which has changed the Internet",
-      "href": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
-      "points": "96 points",
-      "comments": "38 comments",
-      "index": 10
     },
     {
       "title": "RCE Vulnerability in React and Next.js",
       "href": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
-      "points": "477 points",
-      "comments": "162 comments",
+      "points": "503 points",
+      "comments": "173 comments",
+      "index": 10
+    },
+    {
+      "title": "The Differences Between an IndyCar and a F1 Car",
+      "href": "https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars",
+      "points": "62 points",
+      "comments": "41 comments",
       "index": 11
     },
     {
-      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
-      "href": "https://uncloud.run/",
-      "points": "9 points",
-      "comments": "1 comment",
+      "title": "Acme, a brief history of one of the protocols which has changed the Internet",
+      "href": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
+      "points": "104 points",
+      "comments": "41 comments",
       "index": 12
     },
     {
       "title": "Why WinQuake exists and how it works",
       "href": "https://fabiensanglard.net/winquake/index.html",
-      "points": "38 points",
-      "comments": "discuss",
+      "points": "53 points",
+      "comments": "1 comment",
       "index": 13
     },
     {
       "title": "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
       "href": "https://www.isc.org/kea/",
-      "points": "76 points",
-      "comments": "22 comments",
+      "points": "84 points",
+      "comments": "26 comments",
       "index": 14
-    },
-    {
-      "title": "Mirror_bridge – C++ reflection for generating Python/JS/Lua bindings",
-      "href": "https://chico.dev/Mirror-Bridge/",
-      "points": "5 points",
-      "comments": "1 comment",
-      "index": 15
-    },
-    {
-      "title": "8086 Microcode Browser",
-      "href": "https://nand2mario.github.io/posts/2025/8086_microcode_browser/",
-      "points": "92 points",
-      "comments": "discuss",
-      "index": 16
-    },
-    {
-      "title": "Euler Conjecture and CDC 6600",
-      "href": "https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501",
-      "points": "25 points",
-      "comments": "4 comments",
-      "index": 17
-    },
-    {
-      "title": "Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records",
-      "href": "https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/",
-      "points": "38 points",
-      "comments": "7 comments",
-      "index": 18
-    },
-    {
-      "title": "Preserving Snow Crystals",
-      "href": "https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm",
-      "points": "36 points",
-      "comments": "12 comments",
-      "index": 19
-    },
-    {
-      "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
-      "href": "item?id=46137548",
-      "points": "101 points",
-      "comments": "77 comments",
-      "index": 20
-    },
-    {
-      "title": "Visualize 4B Years: The Trillions of Generations: LUCA to Modern Human",
-      "href": "https://www.g9n.com/tools/learning/evolution-visualisation",
-      "points": "4 points",
-      "comments": "3 comments",
-      "index": 21
-    },
-    {
-      "title": "Lie groups are crucial to some of the most fundamental theories in physics",
-      "href": "https://www.quantamagazine.org/what-are-lie-groups-20251203/",
-      "points": "122 points",
-      "comments": "43 comments",
-      "index": 22
-    },
-    {
-      "title": "How to Synthesize a House Loop",
-      "href": "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop",
-      "points": "209 points",
-      "comments": "78 comments",
-      "index": 23
-    },
-    {
-      "title": "Anthropic taps IPO lawyers as it races OpenAI to go public",
-      "href": "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f",
-      "points": "330 points",
-      "comments": "260 comments",
-      "index": 24
-    },
-    {
-      "title": "The rapid growth of data centres is delaying new homes in London",
-      "href": "https://www.bbc.com/news/articles/c0mpr1mvwj3o",
-      "points": "82 points",
-      "comments": "31 comments",
-      "index": 25
-    },
-    {
-      "title": "Everyone in Seattle hates AI",
-      "href": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
-      "points": "741 points",
-      "comments": "742 comments",
-      "index": 26
-    },
-    {
-      "title": "Why are my headphones buzzing whenever I run my game?",
-      "href": "https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html",
-      "points": "174 points",
-      "comments": "124 comments",
-      "index": 27
-    },
-    {
-      "title": "Show HN: Identifiy test coverage gaps in your Go projects",
-      "href": "https://github.com/LeanerCloud/testvet",
-      "points": "11 points",
-      "comments": "2 comments",
-      "index": 28
     },
     {
       "title": "Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)",
       "href": "https://printcalendar.top/",
-      "points": "9 points",
+      "points": "29 points",
+      "comments": "7 comments",
+      "index": 15
+    },
+    {
+      "title": "Show HN: Mirror_bridge – C++ Reflection powered Python binding generation",
+      "href": "https://github.com/FranciscoThiesen/mirror_bridge",
+      "points": "8 points",
+      "comments": "discuss",
+      "index": 16
+    },
+    {
+      "title": "In Northern Scotland, the Neolithic Age Never Ended",
+      "href": "https://www.newyorker.com/magazine/2025/12/01/in-northern-scotland-the-neolithic-age-never-ended",
+      "points": "8 points",
+      "comments": "2 comments",
+      "index": 17
+    },
+    {
+      "title": "8086 Microcode Browser",
+      "href": "https://nand2mario.github.io/posts/2025/8086_microcode_browser/",
+      "points": "98 points",
+      "comments": "discuss",
+      "index": 18
+    },
+    {
+      "title": "Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records",
+      "href": "https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/",
+      "points": "46 points",
+      "comments": "8 comments",
+      "index": 19
+    },
+    {
+      "title": "Euler Conjecture and CDC 6600",
+      "href": "https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501",
+      "points": "31 points",
       "comments": "4 comments",
-      "index": 29
+      "index": 20
+    },
+    {
+      "title": "Mirror_bridge – C++ reflection for generating Python/JS/Lua bindings",
+      "href": "https://chico.dev/Mirror-Bridge/",
+      "points": "9 points",
+      "comments": "2 comments",
+      "index": 21
+    },
+    {
+      "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
+      "href": "item?id=46137548",
+      "points": "106 points",
+      "comments": "79 comments",
+      "index": 22
+    },
+    {
+      "title": "Lie groups are crucial to some of the most fundamental theories in physics",
+      "href": "https://www.quantamagazine.org/what-are-lie-groups-20251203/",
+      "points": "132 points",
+      "comments": "45 comments",
+      "index": 23
+    },
+    {
+      "title": "Preserving Snow Crystals",
+      "href": "https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm",
+      "points": "38 points",
+      "comments": "12 comments",
+      "index": 24
+    },
+    {
+      "title": "How to Synthesize a House Loop",
+      "href": "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop",
+      "points": "216 points",
+      "comments": "80 comments",
+      "index": 25
+    },
+    {
+      "title": "Anthropic taps IPO lawyers as it races OpenAI to go public",
+      "href": "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f",
+      "points": "337 points",
+      "comments": "263 comments",
+      "index": 26
+    },
+    {
+      "title": "Everyone in Seattle hates AI",
+      "href": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
+      "points": "771 points",
+      "comments": "771 comments",
+      "index": 27
+    },
+    {
+      "title": "Why are my headphones buzzing whenever I run my game?",
+      "href": "https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html",
+      "points": "180 points",
+      "comments": "126 comments",
+      "index": 28
     },
     {
       "title": "You can't fool the optimizer",
       "href": "https://xania.org/202512/03-more-adding-integers",
-      "points": "248 points",
-      "comments": "151 comments",
+      "points": "249 points",
+      "comments": "153 comments",
+      "index": 29
+    },
+    {
+      "title": "What I don’t like about chains of thoughts (2023)",
+      "href": "https://samsja.github.io/blogs/cot/blog/",
+      "points": "40 points",
+      "comments": "18 comments",
       "index": 30
     }
   ]
