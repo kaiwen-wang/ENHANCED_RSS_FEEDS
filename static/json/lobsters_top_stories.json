@@ -1,25 +1,25 @@
 {
-  "date": "Thursday, December 4, 2025 at 4:25 AM GMT-5",
+  "date": "Thursday, December 4, 2025 at 5:25 AM GMT-5",
   "articles": [
     {
       "title": "Ghostty Is Now Non-Profit",
       "href": "https://mitchellh.com/writing/ghostty-non-profit",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "Teaching an LLM a Niche Diagraming Language",
-      "href": "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 2
     },
     {
       "title": "SWI-Prolog 10.0.0 released",
       "href": "https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "Teaching an LLM a Niche Diagraming Language",
+      "href": "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 3
     },
     {
@@ -30,31 +30,31 @@
       "index": 4
     },
     {
-      "title": "foreign-dlopen: call dlopen from static programs",
-      "href": "https://github.com/pfalcon/foreign-dlopen/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 5
-    },
-    {
       "title": "Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge",
       "href": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 6
+      "index": 5
     },
     {
-      "title": "Zig's new plan for asynchronous programs",
-      "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
+      "title": "foreign-dlopen: call dlopen from static programs",
+      "href": "https://github.com/pfalcon/foreign-dlopen/",
       "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 7
+      "comments": "\n              no comments\n            ",
+      "index": 6
     },
     {
       "title": "Local-first is not offline-first",
       "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              7 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "Zig's new plan for asynchronous programs",
+      "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
       "index": 8
     },
     {
@@ -79,45 +79,45 @@
       "index": 11
     },
     {
-      "title": "Trees - J Wiki",
-      "href": "https://code.jsoftware.com/wiki/User:Devon_McCormick/Trees",
+      "title": "What I learned building an opinionated and minimal coding agent",
+      "href": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 12
     },
     {
-      "title": "No room for error - A case study of Gleam in production at Uncover",
-      "href": "https://gleam.run/case-studies/uncover/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "What I learned building an opinionated and minimal coding agent",
-      "href": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+      "title": "Trees - J Wiki",
+      "href": "https://code.jsoftware.com/wiki/User:Devon_McCormick/Trees",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 13
     },
     {
       "title": "37 Signals open-sources Fizzy",
       "href": "https://github.com/basecamp/fizzy",
       "points": "",
       "comments": "\n              7 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "No room for error - A case study of Gleam in production at Uncover",
+      "href": "https://gleam.run/case-studies/uncover/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 15
+    },
+    {
+      "title": "It's Not Always ICache (2021)",
+      "href": "https://matklad.github.io/2021/07/10/its-not-always-icache.html",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 16
     },
     {
       "title": "Marathon OS: A gesture-based mobile shell and Linux system inspired by BB10",
       "href": "https://marathonos.xyz/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
-    },
-    {
-      "title": "It's Not Always ICache (2021)",
-      "href": "https://matklad.github.io/2021/07/10/its-not-always-icache.html",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 17
     },
     {
@@ -131,7 +131,7 @@
       "title": "In defense of lock poisoning in Rust",
       "href": "https://sunshowers.io/posts/on-poisoning/",
       "points": "",
-      "comments": "\n              43 comments\n            ",
+      "comments": "\n              44 comments\n            ",
       "index": 19
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Modernizing Reddit's Comment Backend Infrastructure",
+      "href": "https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
       "title": "You can't fool the optimiser",
       "href": "https://xania.org/202512/03-more-adding-integers",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "C++ Enum Class and Error Codes",
       "href": "https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "My First Impressions of MeshCore Off-Grid Messaging",
       "href": "https://mtlynch.io/first-impressions-of-meshcore/",
       "points": "",
       "comments": "\n              16 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Modernizing Reddit's Comment Backend Infrastructure",
-      "href": "https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
