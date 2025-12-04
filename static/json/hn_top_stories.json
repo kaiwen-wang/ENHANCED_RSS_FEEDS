@@ -1,214 +1,214 @@
 {
-  "date": "Thursday, December 4, 2025 at 7:45 AM GMT-5",
+  "date": "Thursday, December 4, 2025 at 8:35 AM GMT-5",
   "articles": [
-    {
-      "title": "PGlite – Embeddable Postgres",
-      "href": "https://pglite.dev/",
-      "points": "145 points",
-      "comments": "39 comments",
-      "index": 1
-    },
     {
       "title": "It’s time to free JavaScript",
       "href": "https://javascript.tm/letter",
-      "points": "144 points",
-      "comments": "51 comments",
+      "points": "225 points",
+      "comments": "96 comments",
+      "index": 1
+    },
+    {
+      "title": "I ignore the spotlight as a staff engineer",
+      "href": "https://lalitm.com/software-engineering-outside-the-spotlight/",
+      "points": "51 points",
+      "comments": "5 comments",
       "index": 2
+    },
+    {
+      "title": "PGlite – Embeddable Postgres",
+      "href": "https://pglite.dev/",
+      "points": "204 points",
+      "comments": "49 comments",
+      "index": 3
     },
     {
       "title": "Ghostty is now non-profit",
       "href": "https://mitchellh.com/writing/ghostty-non-profit",
-      "points": "1170 points",
-      "comments": "244 comments",
-      "index": 3
+      "points": "1182 points",
+      "comments": "252 comments",
+      "index": 4
     },
     {
       "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
       "href": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
-      "points": "817 points",
-      "comments": "705 comments",
-      "index": 4
-    },
-    {
-      "title": "NextJS Security Vulnerability",
-      "href": "https://nextjs.org/blog/CVE-2025-66478",
-      "points": "23 points",
-      "comments": "2 comments",
+      "points": "836 points",
+      "comments": "722 comments",
       "index": 5
     },
     {
-      "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
-      "href": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-      "points": "721 points",
-      "comments": "244 comments",
+      "title": "Functional Quadtrees",
+      "href": "https://lbjgruppen.com/en/posts/functional-quadtree-clojure",
+      "points": "3 points",
+      "comments": "discuss",
       "index": 6
     },
     {
       "title": "Show HN: Walrus – a Kafka alternative written in Rust",
       "href": "https://github.com/nubskr/walrus",
-      "points": "38 points",
-      "comments": "14 comments",
+      "points": "50 points",
+      "comments": "17 comments",
       "index": 7
     },
     {
-      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
-      "href": "https://uncloud.run/",
-      "points": "177 points",
-      "comments": "76 comments",
+      "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+      "href": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
+      "points": "731 points",
+      "comments": "251 comments",
       "index": 8
-    },
-    {
-      "title": "Interop and MathML Core",
-      "href": "https://conflor.es/blog/2025-11-27-interop-and-mathml/",
-      "points": "15 points",
-      "comments": "1 comment",
-      "index": 9
-    },
-    {
-      "title": "Elites could shape mass preferences as AI reduces persuasion costs",
-      "href": "https://arxiv.org/abs/2512.04047",
-      "points": "231 points",
-      "comments": "241 comments",
-      "index": 10
-    },
-    {
-      "title": "Unreal Tournament 2004 is back",
-      "href": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
-      "points": "118 points",
-      "comments": "43 comments",
-      "index": 11
-    },
-    {
-      "title": "I Ignore the Spotlight as a Staff Engineer",
-      "href": "https://lalitm.com/software-engineering-outside-the-spotlight/",
-      "points": "6 points",
-      "comments": "discuss",
-      "index": 12
-    },
-    {
-      "title": "Micron Announces Exit from Crucial Consumer Business",
-      "href": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
-      "points": "614 points",
-      "comments": "304 comments",
-      "index": 13
-    },
-    {
-      "title": "Programming Peaked",
-      "href": "https://functional.computer/blog/programming-peaked",
-      "points": "16 points",
-      "comments": "2 comments",
-      "index": 14
     },
     {
       "title": "Show HN: MTXT – Music Text Format",
       "href": "https://github.com/Daninet/mtxt",
-      "points": "12 points",
+      "points": "21 points",
+      "comments": "7 comments",
+      "index": 9
+    },
+    {
+      "title": "Unreal Tournament 2004 is back",
+      "href": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
+      "points": "157 points",
+      "comments": "61 comments",
+      "index": 10
+    },
+    {
+      "title": "Building optimistic UI in Rails (and learn custom elements)",
+      "href": "https://railsdesigner.com/custom-elements/",
+      "points": "19 points",
       "comments": "2 comments",
+      "index": 11
+    },
+    {
+      "title": "Interop and MathML Core",
+      "href": "https://conflor.es/blog/2025-11-27-interop-and-mathml/",
+      "points": "20 points",
+      "comments": "1 comment",
+      "index": 12
+    },
+    {
+      "title": "Elites could shape mass preferences as AI reduces persuasion costs",
+      "href": "https://arxiv.org/abs/2512.04047",
+      "points": "258 points",
+      "comments": "267 comments",
+      "index": 13
+    },
+    {
+      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
+      "href": "https://uncloud.run/",
+      "points": "190 points",
+      "comments": "87 comments",
+      "index": 14
+    },
+    {
+      "title": "Micron Announces Exit from Crucial Consumer Business",
+      "href": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
+      "points": "631 points",
+      "comments": "313 comments",
       "index": 15
+    },
+    {
+      "title": "Programming peaked",
+      "href": "https://functional.computer/blog/programming-peaked",
+      "points": "68 points",
+      "comments": "52 comments",
+      "index": 16
+    },
+    {
+      "title": "Average DRAM price in USD over last 18 months",
+      "href": "https://pcpartpicker.com/trends/price/memory/",
+      "points": "377 points",
+      "comments": "273 comments",
+      "index": 17
+    },
+    {
+      "title": "30 years ago today \"Netscape and Sun announce JavaScript\"",
+      "href": "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html",
+      "points": "40 points",
+      "comments": "12 comments",
+      "index": 18
     },
     {
       "title": "Saturn (YC S24) Is Hiring Senior AI Engineer",
       "href": "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer",
       "points": "",
       "comments": "hide",
-      "index": 16
-    },
-    {
-      "title": "Average DRAM price in USD over last 18 months",
-      "href": "https://pcpartpicker.com/trends/price/memory/",
-      "points": "363 points",
-      "comments": "262 comments",
-      "index": 17
+      "index": 19
     },
     {
       "title": "1D Conway's Life glider found, 3.7B cells long",
       "href": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
-      "points": "464 points",
-      "comments": "163 comments",
-      "index": 18
-    },
-    {
-      "title": "30 years ago today \"Netscape and Sun announce JavaScript\"",
-      "href": "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html",
-      "points": "24 points",
-      "comments": "5 comments",
-      "index": 19
-    },
-    {
-      "title": "RCE Vulnerability in React and Next.js",
-      "href": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
-      "points": "552 points",
-      "comments": "207 comments",
+      "points": "468 points",
+      "comments": "167 comments",
       "index": 20
     },
     {
       "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
       "href": "https://finfam.app/blog/credit-union-mortgages",
-      "points": "269 points",
-      "comments": "90 comments",
+      "points": "277 points",
+      "comments": "93 comments",
       "index": 21
+    },
+    {
+      "title": "RCE Vulnerability in React and Next.js",
+      "href": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
+      "points": "560 points",
+      "comments": "214 comments",
+      "index": 22
+    },
+    {
+      "title": "Shrinking Elephants: Managing large projects with Gradle",
+      "href": "https://engineering.block.xyz/blog/shrinking-elephants",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 23
     },
     {
       "title": "All the Way Down",
       "href": "https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/",
-      "points": "26 points",
-      "comments": "10 comments",
-      "index": 22
+      "points": "33 points",
+      "comments": "12 comments",
+      "index": 24
     },
     {
       "title": "Why WinQuake exists and how it works",
       "href": "https://fabiensanglard.net/winquake/index.html",
-      "points": "105 points",
-      "comments": "10 comments",
-      "index": 23
-    },
-    {
-      "title": "Building optimistic UI in Rails (and learn custom elements)",
-      "href": "https://railsdesigner.com/custom-elements/",
-      "points": "8 points",
-      "comments": "discuss",
-      "index": 24
+      "points": "111 points",
+      "comments": "12 comments",
+      "index": 25
     },
     {
       "title": "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
       "href": "https://www.isc.org/kea/",
-      "points": "99 points",
+      "points": "100 points",
       "comments": "31 comments",
-      "index": 25
+      "index": 26
     },
     {
       "title": "8086 Microcode Browser",
       "href": "https://nand2mario.github.io/posts/2025/8086_microcode_browser/",
-      "points": "125 points",
+      "points": "127 points",
       "comments": "1 comment",
-      "index": 26
+      "index": 27
     },
     {
       "title": "Acme, a brief history of one of the protocols which has changed the Internet",
       "href": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
-      "points": "123 points",
-      "comments": "58 comments",
-      "index": 27
+      "points": "125 points",
+      "comments": "67 comments",
+      "index": 28
     },
     {
       "title": "Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)",
       "href": "https://printcalendar.top/",
-      "points": "63 points",
-      "comments": "22 comments",
-      "index": 28
+      "points": "70 points",
+      "comments": "25 comments",
+      "index": 29
     },
     {
       "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
       "href": "item?id=46137548",
-      "points": "117 points",
+      "points": "119 points",
       "comments": "87 comments",
-      "index": 29
-    },
-    {
-      "title": "How to Synthesize a House Loop",
-      "href": "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop",
-      "points": "239 points",
-      "comments": "86 comments",
       "index": 30
     }
   ]
