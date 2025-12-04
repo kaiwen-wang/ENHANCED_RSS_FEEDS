@@ -1,25 +1,25 @@
 {
-  "date": "Thursday, December 4, 2025 at 12:20 PM GMT-5",
+  "date": "Thursday, December 4, 2025 at 1:35 PM GMT-5",
   "articles": [
     {
       "title": "Why I Ignore The Spotlight as a Staff Engineer",
       "href": "https://lalitm.com/software-engineering-outside-the-spotlight/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "Ghostty Is Now Non-Profit",
-      "href": "https://mitchellh.com/writing/ghostty-non-profit",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 2
     },
     {
       "title": "SVG Filters - Clickjacking 2.0",
       "href": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "Ghostty Is Now Non-Profit",
+      "href": "https://mitchellh.com/writing/ghostty-non-profit",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
       "index": 3
     },
     {
@@ -58,36 +58,36 @@
       "index": 8
     },
     {
+      "title": "Django 6.0 released",
+      "href": "https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 9
+    },
+    {
       "title": "The Human Writes Font",
       "href": "https://humanwritesfont.com/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "foreign-dlopen: call dlopen from static programs",
       "href": "https://github.com/pfalcon/foreign-dlopen/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Django 6.0 released",
-      "href": "https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 11
-    },
-    {
-      "title": "Hunting a production-only proxy bug in SvelteKit",
-      "href": "https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 12
     },
     {
       "title": "walrus (High Performance distributed log streaming engine)",
       "href": "https://github.com/nubskr/walrus",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Is Pixelfed sawing off the branch that the Fediverse is sitting on?",
+      "href": "https://ploum.net/2025-12-04-pixelfed-against-fediverse.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 13
@@ -100,78 +100,78 @@
       "index": 14
     },
     {
-      "title": "Local-first is not offline-first",
-      "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
+      "title": "Hunting a production-only proxy bug in SvelteKit",
+      "href": "https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 15
-    },
-    {
-      "title": "Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge",
-      "href": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
     },
     {
       "title": "If it ain’t broke, …",
       "href": "https://www.dra27.uk/blog/platform/2025/12/01/if-it-aint-broke.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge",
+      "href": "https://alpinelinux.org/posts/Alpine-3.23.0-released.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 17
     },
     {
-      "title": "Ferrocene 25.11.0 now available",
-      "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
+      "title": "Local-first is not offline-first",
+      "href": "https://shortdiv.com/posts/local-first-is-not-offline-first/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 18
     },
     {
       "title": "Critical Security Vulnerability in React Server Components",
       "href": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 19
+    },
+    {
+      "title": "Ferrocene 25.11.0 now available",
+      "href": "https://ferrous-systems.com/blog/ferrocene-25-11-0/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 20
     },
     {
       "title": "What I learned building an opinionated and minimal coding agent",
       "href": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Zig's new plan for asynchronous programs",
       "href": "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/",
       "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 21
+      "comments": "\n              24 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Functional Quadtrees",
+      "href": "https://www.lindelystables.dk/en/posts/functional-quadtree-clojure",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 23
     },
     {
       "title": "Trees - J Wiki",
       "href": "https://code.jsoftware.com/wiki/User:Devon_McCormick/Trees",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Marathon OS: A gesture-based mobile shell and Linux system inspired by BB10",
       "href": "https://marathonos.xyz/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "How should we peer review software?",
-      "href": "https://mirawelner.com/posts/peer_review.html",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "No room for error - A case study of Gleam in production at Uncover",
-      "href": "https://gleam.run/case-studies/uncover/",
       "points": "",
       "comments": "\n              3 comments\n            ",
       "index": 25
