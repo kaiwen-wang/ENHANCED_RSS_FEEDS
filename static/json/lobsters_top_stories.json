@@ -1,5 +1,5 @@
 {
-  "date": "Friday, December 5, 2025 at 3:30 AM GMT-5",
+  "date": "Friday, December 5, 2025 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "Why I Ignore The Spotlight as a Staff Engineer",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
-      "title": "SVG Filters - Clickjacking 2.0",
-      "href": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 2
-    },
-    {
       "title": "][ Hello blog",
       "href": "https://nobloat.org/articles/2025-07-01-hello-blog.html",
       "points": "",
       "comments": "\n              15 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "SVG Filters - Clickjacking 2.0",
+      "href": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "Fairphone open-sources Fairphone 5 and 6 software, and Moments switch",
       "href": "https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 5
     },
     {
@@ -44,129 +44,129 @@
       "index": 6
     },
     {
+      "title": "Thoughts on Go vs. Rust vs. Zig",
+      "href": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 7
+    },
+    {
       "title": "Django 6.0 released",
       "href": "https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 7
+      "index": 8
+    },
+    {
+      "title": "bcachefs 1.33.0 - reconcile",
+      "href": "https://lore.kernel.org/linux-bcachefs/slvis5ybvo7ch3vxh5yb6turapyq7hai2tddwjriicfxqivnpn@xdpb25wey5xd/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 9
     },
     {
       "title": "Ghostty Is Now Non-Profit",
       "href": "https://mitchellh.com/writing/ghostty-non-profit",
       "points": "",
       "comments": "\n              32 comments\n            ",
-      "index": 8
+      "index": 10
     },
     {
       "title": "PGlite - Embeddable Postgres",
       "href": "https://pglite.dev/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 9
+      "index": 11
     },
     {
-      "title": "bcachefs 1.33.0 - reconcile",
-      "href": "https://lore.kernel.org/linux-bcachefs/slvis5ybvo7ch3vxh5yb6turapyq7hai2tddwjriicfxqivnpn@xdpb25wey5xd/",
+      "title": "JavaScript Announced 30 Years Ago",
+      "href": "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Thoughts on Go vs. Rust vs. Zig",
-      "href": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Why ed(1)?",
       "href": "https://blog.thechases.com/posts/cli/why-ed1/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Super-flat ASTs",
-      "href": "https://jhwlr.io/super-flat-ast/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
       "index": 13
-    },
-    {
-      "title": "JavaScript Announced 30 Years Ago",
-      "href": "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 14
     },
     {
       "title": "Lobsters Interview with Aks",
       "href": "/s/h4yblg/lobsters_interview_with_aks",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 14
     },
     {
-      "title": "SWI-Prolog 10.0.0 released",
-      "href": "https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412",
+      "title": "Super-flat ASTs",
+      "href": "https://jhwlr.io/super-flat-ast/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 16
+      "comments": "\n              9 comments\n            ",
+      "index": 15
     },
     {
       "title": "APL for Plan9",
       "href": "https://apl.pmikkelsen.com/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "SWI-Prolog 10.0.0 released",
+      "href": "https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
       "index": 17
-    },
-    {
-      "title": "What is better: a lookup table or an enum type?",
-      "href": "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 18
-    },
-    {
-      "title": "Teaching an LLM a Niche Diagraming Language",
-      "href": "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "tunnl.gg | Expose localhost to the internet",
-      "href": "https://tunnl.gg/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "On recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On",
-      "href": "https://git.sr.ht/~nkali/vision-sdk/tree/main/note/index.md",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
     },
     {
       "title": "Functional Quadtrees",
       "href": "https://lbjgruppen.com/en/posts/functional-quadtree-clojure",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "The Human Writes Font",
-      "href": "https://humanwritesfont.com/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 23
+      "index": 18
     },
     {
       "title": "This Month in Redox - November 2025",
       "href": "https://www.redox-os.org/news/this-month-251130/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "What is better: a lookup table or an enum type?",
+      "href": "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
+      "title": "Teaching an LLM a Niche Diagraming Language",
+      "href": "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language",
+      "points": "",
+      "comments": "\n              23 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "tunnl.gg | Expose localhost to the internet",
+      "href": "https://tunnl.gg/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "On recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On",
+      "href": "https://git.sr.ht/~nkali/vision-sdk/tree/main/note/index.md",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "The Human Writes Font",
+      "href": "https://humanwritesfont.com/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 24
     },
     {
