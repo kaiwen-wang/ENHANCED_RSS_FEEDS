@@ -1,5 +1,5 @@
 {
-  "date": "Friday, December 5, 2025 at 5:20 AM GMT-5",
+  "date": "Friday, December 5, 2025 at 6:20 AM GMT-5",
   "articles": [
     {
       "title": "Why I Ignore The Spotlight as a Staff Engineer",
@@ -9,24 +9,24 @@
       "index": 1
     },
     {
+      "title": "How to speed up the Rust compiler in December 2025",
+      "href": "https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 2
+    },
+    {
       "title": "][ Hello blog",
       "href": "https://nobloat.org/articles/2025-07-01-hello-blog.html",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 2
+      "index": 3
     },
     {
       "title": "SVG Filters - Clickjacking 2.0",
       "href": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "How to speed up the Rust compiler in December 2025",
-      "href": "https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 4
     },
     {
@@ -40,28 +40,28 @@
       "title": "Fairphone open-sources Fairphone 5 and 6 software, and Moments switch",
       "href": "https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 6
     },
     {
       "title": "Thoughts on Go vs. Rust vs. Zig",
       "href": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 7
     },
     {
       "title": "bcachefs 1.33.0 - reconcile",
       "href": "https://lore.kernel.org/linux-bcachefs/slvis5ybvo7ch3vxh5yb6turapyq7hai2tddwjriicfxqivnpn@xdpb25wey5xd/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 8
     },
     {
       "title": "Django 6.0 released",
       "href": "https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 9
     },
     {
@@ -75,7 +75,7 @@
       "title": "Why ed(1)?",
       "href": "https://blog.thechases.com/posts/cli/why-ed1/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 11
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "What are you doing this weekend?",
+      "href": "/s/7nlfjb/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
       "title": "This Month in Redox - November 2025",
       "href": "https://www.redox-os.org/news/this-month-251130/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Functional Quadtrees",
       "href": "https://lbjgruppen.com/en/posts/functional-quadtree-clojure",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 19
+      "index": 20
+    },
+    {
+      "title": "Unredacted Magazine Issue 008 SEP 2025",
+      "href": "https://unredactedmagazine.com/issues/008.pdf",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
     },
     {
       "title": "What is better: a lookup table or an enum type?",
       "href": "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 22
+    },
+    {
+      "title": "LISP Style & Design",
+      "href": "https://archive.org/details/miller-and-benson-1990-lisp-style-design",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "Teaching an LLM a Niche Diagraming Language",
       "href": "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language",
       "points": "",
       "comments": "\n              23 comments\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "tunnl.gg | Expose localhost to the internet",
       "href": "https://tunnl.gg/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "On recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On",
-      "href": "https://git.sr.ht/~nkali/vision-sdk/tree/main/note/index.md",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "The Human Writes Font",
-      "href": "https://humanwritesfont.com/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Hunting a production-only proxy bug in SvelteKit",
-      "href": "https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
