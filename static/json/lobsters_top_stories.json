@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, December 7, 2025 at 4:20 AM GMT-5",
+  "date": "Sunday, December 7, 2025 at 5:20 AM GMT-5",
   "articles": [
     {
       "title": "How I discovered a hidden microphone on a Chinese NanoKVM",
@@ -9,31 +9,31 @@
       "index": 1
     },
     {
+      "title": "Using LLMs at Oxide",
+      "href": "https://rfd.shared.oxide.computer/rfd/0576",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 2
+    },
+    {
       "title": "Perl's decline was cultural",
       "href": "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical",
       "points": "",
-      "comments": "\n              24 comments\n            ",
-      "index": 2
+      "comments": "\n              27 comments\n            ",
+      "index": 3
     },
     {
       "title": "GitHub Actions Has a Package Manager, and It Might Be the Worst",
       "href": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
       "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Using LLMs at Oxide",
-      "href": "https://rfd.shared.oxide.computer/rfd/0576",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 4
     },
     {
       "title": "Use Python for Scripting",
       "href": "https://hypirion.com/musings/use-python-for-scripting",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 5
     },
     {
@@ -47,7 +47,7 @@
       "title": "Flow Control: a programmer's text editor",
       "href": "https://flow-control.dev",
       "points": "",
-      "comments": "\n              29 comments\n            ",
+      "comments": "\n              31 comments\n            ",
       "index": 7
     },
     {
@@ -58,31 +58,31 @@
       "index": 8
     },
     {
+      "title": "Discovering the indieweb with calm tech",
+      "href": "https://alexsci.com/blog/calm-tech-discover/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 9
+    },
+    {
       "title": "FreeBSD 15: Why You’ll Want It",
       "href": "https://freebsdfoundation.org/blog/freebsd-15-why-youll-want-it/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Struggling Towards an Algebraic Theory of Music",
       "href": "https://reasonablypolymorphic.com/blog/algebraic-music/index.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Discovering the indieweb with calm tech",
-      "href": "https://alexsci.com/blog/calm-tech-discover/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 11
     },
     {
-      "title": "What I learnt about making websites by reading two thousand web pages",
-      "href": "https://alexwlchan.net/2025/learning-how-to-make-websites/",
+      "title": "Structural inheritance doesn't work where you expect it to",
+      "href": "https://trynova.dev/blog/oops-im-dead",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 12
     },
     {
@@ -93,17 +93,17 @@
       "index": 13
     },
     {
+      "title": "What I learnt about making websites by reading two thousand web pages",
+      "href": "https://alexwlchan.net/2025/learning-how-to-make-websites/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 14
+    },
+    {
       "title": "Leaving Intel",
       "href": "https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Structural inheritance doesn't work where you expect it to",
-      "href": "https://trynova.dev/blog/oops-im-dead",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 15
     },
     {
@@ -145,35 +145,35 @@
       "title": "What's the Point of Learning Functional Programming?",
       "href": "https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 21
-    },
-    {
-      "title": "Should CSS be Constraints?",
-      "href": "https://pavpanchekha.com/blog/why-css-bad.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "Framework Laptop 13 gets ARM processor with 12 cores via third-party upgrade kit",
-      "href": "https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html",
-      "points": "",
-      "comments": "\n              34 comments\n            ",
-      "index": 23
     },
     {
       "title": "The Deep Card Conundrum",
       "href": "https://frontendmasters.com/blog/the-deep-card-conundrum/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 24
+      "index": 22
+    },
+    {
+      "title": "Should CSS be Constraints?",
+      "href": "https://pavpanchekha.com/blog/why-css-bad.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 23
     },
     {
       "title": "Diffie-Hellman Key Exchange Visualizer",
       "href": "https://sidney.sh/projects/diffie-visualizer/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 24
+    },
+    {
+      "title": "Framework Laptop 13 gets ARM processor with 12 cores via third-party upgrade kit",
+      "href": "https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html",
+      "points": "",
+      "comments": "\n              34 comments\n            ",
       "index": 25
     }
   ]
