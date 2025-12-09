@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, December 9, 2025 at 2:15 PM GMT-5",
+  "date": "Tuesday, December 9, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "Join the on-call roster, it’ll change your life",
       "href": "https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life",
       "points": "",
-      "comments": "\n              30 comments\n            ",
+      "comments": "\n              31 comments\n            ",
       "index": 1
     },
     {
       "title": "Go proposal: Secret mode",
       "href": "https://antonz.org/accepted/runtime-secret/",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 2
     },
     {
-      "title": "Jepsen: NATS 2.12.1",
-      "href": "https://jepsen.io/analyses/nats-2.12.1",
+      "title": "why i think jj-vcs is worth your time",
+      "href": "https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 3
     },
     {
@@ -30,10 +30,10 @@
       "index": 4
     },
     {
-      "title": "why i think jj-vcs is worth your time",
-      "href": "https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time",
+      "title": "Jepsen: NATS 2.12.1",
+      "href": "https://jepsen.io/analyses/nats-2.12.1",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 5
     },
     {
@@ -61,14 +61,14 @@
       "title": "Icons in Menus Everywhere — Send Help",
       "href": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 9
     },
     {
-      "title": "Fighting the Client Spaghetti Monster with Rust Traits",
-      "href": "http://www.gnunicorn.org/writings/spaghetti-monster-clients-rust-traits-final-boss/",
+      "title": "CSS Wrapped 2025",
+      "href": "https://chrome.dev/css-wrapped-2025/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 10
     },
     {
@@ -79,45 +79,45 @@
       "index": 11
     },
     {
+      "title": "Fighting the Client Spaghetti Monster with Rust Traits",
+      "href": "http://www.gnunicorn.org/writings/spaghetti-monster-clients-rust-traits-final-boss/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 12
+    },
+    {
       "title": "39C3 Fahrplan 2025",
       "href": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 12
+      "comments": "\n              6 comments\n            ",
+      "index": 13
     },
     {
       "title": "Metacode: The new standard for machine-readable comments for Python",
       "href": "https://github.com/pomponchik/metacode",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 13
+      "index": 14
+    },
+    {
+      "title": "No ARIA is better than Bad ARIA",
+      "href": "https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 15
     },
     {
       "title": "You Don't Need an ORM",
       "href": "https://www.youtube.com/watch?v=XEJxk5VUSTs",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
+      "index": 16
     },
     {
       "title": "TextKit 2 - the promised land",
       "href": "https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "CSS Wrapped 2025",
-      "href": "https://chrome.dev/css-wrapped-2025/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "No ARIA is better than Bad ARIA",
-      "href": "https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 17
     },
     {
@@ -128,24 +128,24 @@
       "index": 18
     },
     {
+      "title": "My favourite small hash table",
+      "href": "https://www.corsix.org/content/my-favourite-small-hash-table",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
       "title": "One too many words on AT&T's $2,000 Korn shell and other Usenet topics",
       "href": "https://blog.gabornyeki.com/2025-12-usenet/",
       "points": "",
-      "comments": "\n              24 comments\n            ",
-      "index": 19
+      "comments": "\n              25 comments\n            ",
+      "index": 20
     },
     {
       "title": "International Workshop on Plan 9: 2026 Edition",
       "href": "https://iwp9.org",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
-    },
-    {
-      "title": "Deprecations via warnings don’t work for Python libraries",
-      "href": "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries",
-      "points": "",
-      "comments": "\n              16 comments\n            ",
       "index": 21
     },
     {
@@ -156,10 +156,10 @@
       "index": 22
     },
     {
-      "title": "Compiler Engineering in Practice - Part 1: What is a Compiler?",
-      "href": "https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html",
+      "title": "Deprecations via warnings don’t work for Python libraries",
+      "href": "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 23
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Nova Programming Language",
-      "href": "https://nova-lang.net/",
+      "title": "Compiler Engineering in Practice - Part 1: What is a Compiler?",
+      "href": "https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
