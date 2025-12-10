@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, December 10, 2025 at 3:25 PM GMT-5",
+  "date": "Wednesday, December 10, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "Rust in the kernel is no longer experimental",
@@ -30,148 +30,148 @@
       "index": 4
     },
     {
-      "title": "You Don't Need an ORM",
-      "href": "https://www.youtube.com/watch?v=XEJxk5VUSTs",
+      "title": "Maybe we don't need a server",
+      "href": "https://lecaro.me/20251203-maybe-we-do-not-need-a-server.html",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 5
     },
     {
-      "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
-      "href": "http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
+      "title": "You Don't Need an ORM",
+      "href": "https://www.youtube.com/watch?v=XEJxk5VUSTs",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 6
     },
     {
       "title": "Do Not Optimize Away",
       "href": "https://matklad.github.io/2025/12/09/do-not-optimize-away.html",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 7
+    },
+    {
+      "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
+      "href": "http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 8
     },
     {
       "title": "New tag suggestion: \"genai-assisted\"",
       "href": "/s/po97lh/new_tag_suggestion_genai_assisted",
       "points": "",
-      "comments": "\n              27 comments\n            ",
-      "index": 8
+      "comments": "\n              33 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "glic: Turn any (npm) library into a command-line utility",
+      "href": "https://github.com/vagos/glic",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 10
     },
     {
       "title": "Revisiting \"Let's Build a Compiler\"",
       "href": "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 9
+      "index": 11
+    },
+    {
+      "title": "Compressing embedded files in Go",
+      "href": "https://vincent.bernat.ch/en/blog/2025-go-embed-compressed",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 12
     },
     {
       "title": "Zig asserts are not C asserts",
       "href": "https://cryptocode.github.io/blog/docs/assert/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 10
+      "index": 13
     },
     {
       "title": "why i think jj-vcs is worth your time",
       "href": "https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time",
       "points": "",
-      "comments": "\n              38 comments\n            ",
-      "index": 11
+      "comments": "\n              39 comments\n            ",
+      "index": 14
     },
     {
       "title": "Join the on-call roster, it’ll change your life",
       "href": "https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life",
       "points": "",
       "comments": "\n              46 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Maybe we don't need a server",
-      "href": "https://lecaro.me/20251203-maybe-we-do-not-need-a-server.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 13
+      "index": 15
     },
     {
       "title": "Gin is a very bad software library",
       "href": "https://eblog.fly.dev/ginbad.html",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 14
+      "comments": "\n              10 comments\n            ",
+      "index": 16
     },
     {
       "title": "Go proposal: Secret mode",
       "href": "https://antonz.org/accepted/runtime-secret/",
       "points": "",
       "comments": "\n              43 comments\n            ",
-      "index": 15
+      "index": 17
+    },
+    {
+      "title": "Useful patterns for building HTML tools",
+      "href": "https://simonwillison.net/2025/Dec/10/html-tools/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
     },
     {
       "title": "RFC 9180 Hybrid Public Key Encryption",
       "href": "https://www.rfc-editor.org/rfc/rfc9180.html",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 16
+      "comments": "\n              4 comments\n            ",
+      "index": 19
     },
     {
-      "title": "glic: Turn any (npm) library into a command-line utility",
-      "href": "https://github.com/vagos/glic",
+      "title": "CDKTF has been deprecated",
+      "href": "https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 20
     },
     {
-      "title": "Compressing embedded files in Go",
-      "href": "https://vincent.bernat.ch/en/blog/2025-go-embed-compressed",
+      "title": "SWIM: Outsourced Heartbeats",
+      "href": "https://benjamincongdon.me/blog/2025/12/09/SWIM-Outsourced-Heartbeats/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 21
     },
     {
       "title": "My favourite small hash table",
       "href": "https://www.corsix.org/content/my-favourite-small-hash-table",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 19
+      "index": 22
     },
     {
       "title": "A video on the details of how Trunk-Based Development worked at MFT Energy",
       "href": "https://youtu.be/CR3LP2n2dWw",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 23
+    },
+    {
+      "title": "The Fragile Lock: Novel Bypasses For SAML Authentication",
+      "href": "https://portswigger.net/research/the-fragile-lock",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "iksemel rusted",
       "href": "https://thinkerf.blogspot.com/2025/12/iksemel-rusted.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Get in Line - superfast SPSC Queue",
-      "href": "https://abhikja.in/blog/2025-12-07-get-in-line/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Jepsen: NATS 2.12.1",
-      "href": "https://jepsen.io/analyses/nats-2.12.1",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "The world needs social sovereignty",
-      "href": "https://blog.joinmastodon.org/2025/12/the-world-needs-social-sovereignty/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "CDKTF has been deprecated",
-      "href": "https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
