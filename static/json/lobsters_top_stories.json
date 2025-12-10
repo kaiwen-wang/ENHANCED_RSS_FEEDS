@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, December 10, 2025 at 5:25 AM GMT-5",
+  "date": "Wednesday, December 10, 2025 at 6:20 AM GMT-5",
   "articles": [
     {
       "title": "Rust in the kernel is no longer experimental",
@@ -12,14 +12,14 @@
       "title": "How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it",
       "href": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 2
     },
     {
-      "title": "Join the on-call roster, it’ll change your life",
-      "href": "https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life",
+      "title": "You Don't Need an ORM",
+      "href": "https://www.youtube.com/watch?v=XEJxk5VUSTs",
       "points": "",
-      "comments": "\n              40 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
-      "title": "You Don't Need an ORM",
-      "href": "https://www.youtube.com/watch?v=XEJxk5VUSTs",
+      "title": "Join the on-call roster, it’ll change your life",
+      "href": "https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              40 comments\n            ",
       "index": 5
     },
     {
       "title": "why i think jj-vcs is worth your time",
       "href": "https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time",
       "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              26 comments\n            ",
       "index": 6
     },
     {
@@ -61,7 +61,7 @@
       "title": "Do Not Optimize Away",
       "href": "https://matklad.github.io/2025/12/09/do-not-optimize-away.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 9
     },
     {
@@ -72,24 +72,24 @@
       "index": 10
     },
     {
+      "title": "New tag suggestion: \"genai-assisted\"",
+      "href": "/s/po97lh/new_tag_suggestion_genai_assisted",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 11
+    },
+    {
       "title": "Jepsen: NATS 2.12.1",
       "href": "https://jepsen.io/analyses/nats-2.12.1",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "The world needs social sovereignty",
       "href": "https://blog.joinmastodon.org/2025/12/the-world-needs-social-sovereignty/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "New tag suggestion: \"genai-assisted\"",
-      "href": "/s/po97lh/new_tag_suggestion_genai_assisted",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 13
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
-      "title": "CSS Wrapped 2025",
-      "href": "https://chrome.dev/css-wrapped-2025/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "39C3 Fahrplan 2025",
-      "href": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Prediction: AI will make formal verification go mainstream",
-      "href": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
-      "points": "",
-      "comments": "\n              30 comments\n            ",
-      "index": 18
-    },
-    {
       "title": "Multiplying our way out of division",
       "href": "https://xania.org/202512/07-division-again",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 19
+      "index": 16
     },
     {
-      "title": "No ARIA is better than Bad ARIA",
-      "href": "https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/",
+      "title": "CSS Wrapped 2025",
+      "href": "https://chrome.dev/css-wrapped-2025/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Fighting the Client Spaghetti Monster with Rust Traits",
-      "href": "http://www.gnunicorn.org/writings/spaghetti-monster-clients-rust-traits-final-boss/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "10 Years of Let's Encrypt Certificates",
-      "href": "https://letsencrypt.org/2025/12/09/10-years.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
+      "comments": "\n              8 comments\n            ",
+      "index": 17
     },
     {
       "title": "Revisiting \"Let's Build a Compiler\"",
       "href": "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "39C3 Fahrplan 2025",
+      "href": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Prediction: AI will make formal verification go mainstream",
+      "href": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
+      "points": "",
+      "comments": "\n              30 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "No ARIA is better than Bad ARIA",
+      "href": "https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
+      "href": "http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Fighting the Client Spaghetti Monster with Rust Traits",
+      "href": "http://www.gnunicorn.org/writings/spaghetti-monster-clients-rust-traits-final-boss/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 23
+    },
+    {
+      "title": "10 Years of Let's Encrypt Certificates",
+      "href": "https://letsencrypt.org/2025/12/09/10-years.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "Icons in Menus Everywhere — Send Help",
       "href": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "International Workshop on Plan 9: 2026 Edition",
-      "href": "https://iwp9.org",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
