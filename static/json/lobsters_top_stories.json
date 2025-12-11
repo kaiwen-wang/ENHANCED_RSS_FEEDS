@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, December 11, 2025 at 7:50 AM GMT-5",
+  "date": "Thursday, December 11, 2025 at 8:40 AM GMT-5",
   "articles": [
     {
       "title": "Maybe we don't need a server",
       "href": "https://lecaro.me/20251203-maybe-we-do-not-need-a-server.html",
       "points": "",
-      "comments": "\n              41 comments\n            ",
+      "comments": "\n              42 comments\n            ",
       "index": 1
     },
     {
@@ -19,14 +19,14 @@
       "title": "Useful patterns for building HTML tools",
       "href": "https://simonwillison.net/2025/Dec/10/html-tools/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 3
     },
     {
       "title": "Nature's many attempts to evolve a Nostr",
       "href": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 4
     },
     {
@@ -37,31 +37,31 @@
       "index": 5
     },
     {
-      "title": "Rust in the kernel is no longer experimental",
-      "href": "https://lwn.net/Articles/1049831/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 6
-    },
-    {
       "title": "CDKTF has been deprecated",
       "href": "https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af",
       "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 7
+      "comments": "\n              14 comments\n            ",
+      "index": 6
     },
     {
-      "title": "Fish Alpinism",
-      "href": "https://triapul.cz/_/1765291397",
+      "title": "Rust in the kernel is no longer experimental",
+      "href": "https://lwn.net/Articles/1049831/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 8
+      "comments": "\n              16 comments\n            ",
+      "index": 7
     },
     {
       "title": "The Cost Of a Closure in C",
       "href": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Fish Alpinism",
+      "href": "https://triapul.cz/_/1765291397",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 9
     },
     {
@@ -72,59 +72,59 @@
       "index": 10
     },
     {
-      "title": "Compressing embedded files in Go",
-      "href": "https://vincent.bernat.ch/en/blog/2025-go-embed-compressed",
+      "title": "glic: Turn any (npm) library into a command-line utility",
+      "href": "https://github.com/vagos/glic",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 11
     },
     {
-      "title": "glic: Turn any (npm) library into a command-line utility",
-      "href": "https://github.com/vagos/glic",
+      "title": "Compressing embedded files in Go",
+      "href": "https://vincent.bernat.ch/en/blog/2025-go-embed-compressed",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 12
+    },
+    {
+      "title": "Let's Embed a Go Program into the Linux Kernel",
+      "href": "https://sigma-star.at/blog/2023/07/embedded-go-prog/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
     },
     {
       "title": "pg_exporter: A PostgreSQL metric exporter for Prometheus written in Rust",
       "href": "https://github.com/nbari/pg_exporter",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Stop Breaking TLS",
       "href": "https://www.markround.com/blog/2025/12/09/stop-breaking-tls/",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "mmap in Go considered harmful",
       "href": "https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
       "href": "http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Do Not Optimize Away",
       "href": "https://matklad.github.io/2025/12/09/do-not-optimize-away.html",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Voiden: API specs, tests, and docs in one Markdown file",
-      "href": "https://voiden.md",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
@@ -135,43 +135,43 @@
       "index": 19
     },
     {
+      "title": "Getting a Gemini API key is an exercise in frustration",
+      "href": "https://ankursethi.com/blog/gemini-api-key-frustration/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Voiden: API specs, tests, and docs in one Markdown file",
+      "href": "https://voiden.md",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
       "title": "You Don't Need an ORM",
       "href": "https://www.youtube.com/watch?v=XEJxk5VUSTs",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 20
+      "index": 22
     },
     {
       "title": "New tag suggestion: \"genai-assisted\"",
       "href": "/s/po97lh/new_tag_suggestion_genai_assisted",
       "points": "",
-      "comments": "\n              53 comments\n            ",
-      "index": 21
+      "comments": "\n              54 comments\n            ",
+      "index": 23
     },
     {
       "title": "Revisiting \"Let's Build a Compiler\"",
       "href": "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "SWIM: Outsourced Heartbeats",
       "href": "https://benjamincongdon.me/blog/2025/12/09/SWIM-Outsourced-Heartbeats/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "iksemel rusted",
-      "href": "https://thinkerf.blogspot.com/2025/12/iksemel-rusted.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Getting a Gemini API key is an exercise in frustration",
-      "href": "https://ankursethi.com/blog/gemini-api-key-frustration/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
