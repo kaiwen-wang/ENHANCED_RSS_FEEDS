@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, December 11, 2025 at 12:20 AM GMT-5",
+  "date": "Thursday, December 11, 2025 at 1:35 AM GMT-5",
   "articles": [
     {
       "title": "Maybe we don't need a server",
@@ -16,45 +16,45 @@
       "index": 2
     },
     {
+      "title": "Using edge detection to preserve significant features while downsampling",
+      "href": "http://yogthos.net/pixel-mosaic.html",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 3
+    },
+    {
       "title": "Rust in the kernel is no longer experimental",
       "href": "https://lwn.net/Articles/1049831/",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Size of Life",
       "href": "https://neal.fun/size-of-life/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Using edge detection to preserve significant features while downsampling",
-      "href": "http://yogthos.net/pixel-mosaic.html",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 5
     },
     {
       "title": "How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it",
       "href": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 6
+    },
+    {
+      "title": "CDKTF has been deprecated",
+      "href": "https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 7
     },
     {
       "title": "Nature's many attempts to evolve a Nostr",
       "href": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "CDKTF has been deprecated",
-      "href": "https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 8
     },
     {
@@ -65,66 +65,66 @@
       "index": 9
     },
     {
-      "title": "glic: Turn any (npm) library into a command-line utility",
-      "href": "https://github.com/vagos/glic",
+      "title": "Compressing embedded files in Go",
+      "href": "https://vincent.bernat.ch/en/blog/2025-go-embed-compressed",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 10
     },
     {
-      "title": "Compressing embedded files in Go",
-      "href": "https://vincent.bernat.ch/en/blog/2025-go-embed-compressed",
+      "title": "Fish Alpinism",
+      "href": "https://triapul.cz/_/1765291397",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 11
+    },
+    {
+      "title": "glic: Turn any (npm) library into a command-line utility",
+      "href": "https://github.com/vagos/glic",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 12
     },
     {
       "title": "Do Not Optimize Away",
       "href": "https://matklad.github.io/2025/12/09/do-not-optimize-away.html",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "You Don't Need an ORM",
       "href": "https://www.youtube.com/watch?v=XEJxk5VUSTs",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
       "href": "http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "New tag suggestion: \"genai-assisted\"",
-      "href": "/s/po97lh/new_tag_suggestion_genai_assisted",
-      "points": "",
-      "comments": "\n              42 comments\n            ",
       "index": 15
-    },
-    {
-      "title": "Gin is a very bad software library",
-      "href": "https://eblog.fly.dev/ginbad.html",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 16
     },
     {
       "title": "Revisiting \"Let's Build a Compiler\"",
       "href": "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "New tag suggestion: \"genai-assisted\"",
+      "href": "/s/po97lh/new_tag_suggestion_genai_assisted",
+      "points": "",
+      "comments": "\n              44 comments\n            ",
       "index": 17
     },
     {
-      "title": "Fish Alpinism",
-      "href": "https://triapul.cz/_/1765291397",
+      "title": "Gin is a very bad software library",
+      "href": "https://eblog.fly.dev/ginbad.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              23 comments\n            ",
       "index": 18
     },
     {
@@ -138,7 +138,7 @@
       "title": "Zig asserts are not C asserts",
       "href": "https://cryptocode.github.io/blog/docs/assert/",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 20
     },
     {
