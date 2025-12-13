@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, December 13, 2025 at 2:15 PM GMT-5",
+  "date": "Saturday, December 13, 2025 at 3:20 PM GMT-5",
   "articles": [
     {
       "title": "I tried Gleam for Advent of Code",
       "href": "https://blog.tymscar.com/posts/gleamaoc2025/",
-      "points": "97 points",
-      "comments": "47 comments",
+      "points": "147 points",
+      "comments": "76 comments",
       "index": 1
+    },
+    {
+      "title": "Dick Van Dyke turns 100",
+      "href": "https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang",
+      "points": "62 points",
+      "comments": "10 comments",
+      "index": 2
     },
     {
       "title": "Analysis finds anytime electricity from solar available as battery costs plummet",
       "href": "https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/",
-      "points": "47 points",
-      "comments": "37 comments",
-      "index": 2
+      "points": "97 points",
+      "comments": "76 comments",
+      "index": 3
     },
     {
       "title": "Cryptids",
       "href": "https://wiki.bbchallenge.org/wiki/Cryptids",
-      "points": "50 points",
-      "comments": "4 comments",
-      "index": 3
-    },
-    {
-      "title": "SSE sucks for transporting LLM tokens",
-      "href": "https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/",
-      "points": "10 points",
-      "comments": "10 comments",
+      "points": "59 points",
+      "comments": "6 comments",
       "index": 4
     },
     {
-      "title": "Z8086: Rebuilding the 8086 from Original Microcode",
-      "href": "https://nand2mario.github.io/posts/2025/z8086/",
-      "points": "22 points",
+      "title": "Show HN: Trello Clone with Source Code",
+      "href": "https://kanban.demo.codegres.com/",
+      "points": "12 points",
       "comments": "4 comments",
       "index": 5
     },
     {
-      "title": "Java FFM zero-copy transport using io_uring",
-      "href": "https://www.mvp.express/",
-      "points": "76 points",
-      "comments": "27 comments",
+      "title": "Ask HN: How do you handle release notes for multiple audiences?",
+      "href": "item?id=46257486",
+      "points": "8 points",
+      "comments": "1 comment",
       "index": 6
-    },
-    {
-      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
-      "href": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
-      "points": "506 points",
-      "comments": "260 comments",
-      "index": 7
     },
     {
       "title": "Useful patterns for building HTML tools",
       "href": "https://simonwillison.net/2025/Dec/10/html-tools/",
-      "points": "133 points",
-      "comments": "44 comments",
-      "index": 8
+      "points": "161 points",
+      "comments": "53 comments",
+      "index": 7
     },
     {
-      "title": "Photographer built a medium-format rangefinder, and so can you",
-      "href": "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/",
-      "points": "125 points",
-      "comments": "28 comments",
-      "index": 9
+      "title": "Ask HN: How can I get better at using AI for programming?",
+      "href": "item?id=46255285",
+      "points": "80 points",
+      "comments": "91 comments",
+      "index": 8
     },
     {
       "title": "EasyPost (YC S13) Is Hiring",
       "href": "https://www.easypost.com/careers",
       "points": "",
       "comments": "hide",
+      "index": 9
+    },
+    {
+      "title": "Java FFM zero-copy transport using io_uring",
+      "href": "https://www.mvp.express/",
+      "points": "85 points",
+      "comments": "36 comments",
       "index": 10
     },
     {
-      "title": "What is the nicest thing a stranger has ever done for you?",
-      "href": "https://louplummer.lol/nice-stranger/",
-      "points": "165 points",
-      "comments": "101 comments",
+      "title": "SSE sucks for transporting LLM tokens",
+      "href": "https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/",
+      "points": "27 points",
+      "comments": "31 comments",
       "index": 11
     },
     {
       "title": "Go Proposal: Secret Mode",
       "href": "https://antonz.org/accepted/runtime-secret/",
-      "points": "86 points",
-      "comments": "23 comments",
+      "points": "102 points",
+      "comments": "29 comments",
       "index": 12
     },
     {
-      "title": "How exchanges turn order books into distributed logs",
-      "href": "https://quant.engineering/exchange-order-book-distributed-logs.html",
-      "points": "100 points",
-      "comments": "50 comments",
+      "title": "Photographer built a medium-format rangefinder",
+      "href": "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/",
+      "points": "136 points",
+      "comments": "33 comments",
       "index": 13
+    },
+    {
+      "title": "What is the nicest thing a stranger has ever done for you?",
+      "href": "https://louplummer.lol/nice-stranger/",
+      "points": "195 points",
+      "comments": "142 comments",
+      "index": 14
     },
     {
       "title": "Researchers seeking better measures of cognitive fatigue",
       "href": "https://www.nature.com/articles/d41586-025-03974-w",
-      "points": "67 points",
-      "comments": "12 comments",
-      "index": 14
+      "points": "76 points",
+      "comments": "20 comments",
+      "index": 15
     },
     {
-      "title": "Indexing 100M vectors in 20 minutes on PostgreSQL with 12GB RAM",
-      "href": "https://blog.vectorchord.ai/how-we-made-100m-vector-indexing-in-20-minutes-possible-on-postgresql",
-      "points": "65 points",
-      "comments": "11 comments",
-      "index": 15
+      "title": "Z8086: Rebuilding the 8086 from Original Microcode",
+      "href": "https://nand2mario.github.io/posts/2025/z8086/",
+      "points": "29 points",
+      "comments": "5 comments",
+      "index": 16
+    },
+    {
+      "title": "Using Python for Scripting",
+      "href": "https://hypirion.com/musings/use-python-for-scripting",
+      "points": "54 points",
+      "comments": "44 comments",
+      "index": 17
     },
     {
       "title": "A Lisp Interpreter Implemented in Conway's Game of Life (2021)",
       "href": "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html",
-      "points": "66 points",
+      "points": "71 points",
       "comments": "2 comments",
-      "index": 16
-    },
-    {
-      "title": "GNU Unifont",
-      "href": "https://unifoundry.com/unifont/index.html",
-      "points": "303 points",
-      "comments": "70 comments",
-      "index": 17
+      "index": 18
     },
     {
       "title": "A 'toaster with a lens': The story behind the first handheld digital camera",
       "href": "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born",
-      "points": "63 points",
-      "comments": "30 comments",
-      "index": 18
-    },
-    {
-      "title": "Show HN: LinkedQL – Live Queries over Postgres, MySQL, MariaDB",
-      "href": "https://github.com/linked-db/linked-ql",
-      "points": "17 points",
-      "comments": "7 comments",
+      "points": "66 points",
+      "comments": "32 comments",
       "index": 19
     },
     {
-      "title": "Building an efficient hash table in Java",
-      "href": "https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/",
-      "points": "45 points",
-      "comments": "1 comment",
+      "title": "GNU Unifont",
+      "href": "https://unifoundry.com/unifont/index.html",
+      "points": "309 points",
+      "comments": "71 comments",
       "index": 20
-    },
-    {
-      "title": "Dynamic Pong Wars",
-      "href": "https://markodenic.tech/dynamic-pong-wars/",
-      "points": "17 points",
-      "comments": "2 comments",
-      "index": 21
     },
     {
       "title": "Rats Play DOOM",
       "href": "https://ratsplaydoom.com/",
-      "points": "368 points",
-      "comments": "138 comments",
-      "index": 22
-    },
-    {
-      "title": "Computer Animator and Amiga fanatic Dick Van Dyke turns 100",
-      "href": "item?id=46252993",
-      "points": "188 points",
-      "comments": "49 comments",
-      "index": 23
-    },
-    {
-      "title": "Will West Coast Jazz Get Some Respect?",
-      "href": "https://www.honest-broker.com/p/will-west-coast-jazz-finally-get",
-      "points": "40 points",
-      "comments": "18 comments",
-      "index": 24
+      "points": "379 points",
+      "comments": "142 comments",
+      "index": 21
     },
     {
       "title": "Beautiful Abelian Sandpiles",
       "href": "https://eavan.blog/posts/beautiful-sandpiles.html",
-      "points": "113 points",
-      "comments": "17 comments",
+      "points": "122 points",
+      "comments": "19 comments",
+      "index": 22
+    },
+    {
+      "title": "Will West Coast Jazz Get Some Respect?",
+      "href": "https://www.honest-broker.com/p/will-west-coast-jazz-finally-get",
+      "points": "43 points",
+      "comments": "27 comments",
+      "index": 23
+    },
+    {
+      "title": "Dynamic Pong Wars",
+      "href": "https://markodenic.tech/dynamic-pong-wars/",
+      "points": "21 points",
+      "comments": "2 comments",
+      "index": 24
+    },
+    {
+      "title": "Computer Animator and Amiga fanatic Dick Van Dyke turns 100",
+      "href": "item?id=46252993",
+      "points": "200 points",
+      "comments": "49 comments",
       "index": 25
     },
     {
-      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
-      "href": "https://simonwillison.net/2025/Dec/12/openai-skills/",
-      "points": "517 points",
-      "comments": "297 comments",
+      "title": "How exchanges turn order books into distributed logs",
+      "href": "https://quant.engineering/exchange-order-book-distributed-logs.html",
+      "points": "111 points",
+      "comments": "58 comments",
       "index": 26
     },
     {
       "title": "Show HN: I made a spreadsheet where formulas also update backwards",
       "href": "https://victorpoughon.github.io/bidicalc/",
-      "points": "209 points",
-      "comments": "100 comments",
+      "points": "217 points",
+      "comments": "102 comments",
       "index": 27
     },
     {
-      "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
-      "href": "https://github.com/ringtailsoftware/uvm32",
-      "points": "177 points",
-      "comments": "11 comments",
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "href": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "points": "524 points",
+      "comments": "302 comments",
       "index": 28
     },
     {
-      "title": "Show HN: I audited 500 K8s pods. Java wastes ~48% RAM, Go ~18%",
-      "href": "https://github.com/WozzHQ/wozz",
-      "points": "9 points",
-      "comments": "7 comments",
+      "title": "Former Apple, Google designer: \"Are we stuck with the same Desktop UX forever?\" [video]",
+      "href": "https://www.youtube.com/watch?v=1fZTOjd_bOQ",
+      "points": "13 points",
+      "comments": "3 comments",
       "index": 29
     },
     {
-      "title": "Formula One Handovers and Handovers From Surgery to Intensive Care (2008) [pdf]",
-      "href": "https://gwern.net/doc/technology/2008-sower.pdf",
-      "points": "98 points",
-      "comments": "34 comments",
+      "title": "Show HN: LinkedQL – Live Queries over Postgres, MySQL, MariaDB",
+      "href": "https://github.com/linked-db/linked-ql",
+      "points": "19 points",
+      "comments": "7 comments",
       "index": 30
     }
   ]
