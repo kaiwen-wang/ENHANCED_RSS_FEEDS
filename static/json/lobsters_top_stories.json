@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, December 14, 2025 at 8:25 AM GMT-5",
+  "date": "Sunday, December 14, 2025 at 9:20 AM GMT-5",
   "articles": [
-    {
-      "title": "I Tried Gleam for Advent of Code, and I Get the Hype",
-      "href": "https://blog.tymscar.com/posts/gleamaoc2025/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 1
-    },
     {
       "title": "Stop writing if statements for your CLI flags",
       "href": "https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              6 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "I Tried Gleam for Advent of Code, and I Get the Hype",
+      "href": "https://blog.tymscar.com/posts/gleamaoc2025/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
       "index": 2
     },
     {
@@ -44,136 +44,136 @@
       "index": 6
     },
     {
+      "title": "Meta replaces SELinux with eBPF",
+      "href": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 7
+    },
+    {
       "title": "Editors should have an opt-in for less assistance (2024)",
       "href": "https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
-      "title": "Rats Play Doom",
-      "href": "https://ratsplaydoom.com/",
+      "title": "A distraction-free writing environment",
+      "href": "https://github.com/andrewmd5/dawn",
       "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 8
+      "comments": "\n              no comments\n            ",
+      "index": 9
     },
     {
       "title": "Larval stage support engineering: great at what doesn’t scale",
       "href": "https://thundergolfer.com/startups/support/2025/12/13/support-eng-stage-1/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 9
+      "index": 10
+    },
+    {
+      "title": "Rats Play Doom",
+      "href": "https://ratsplaydoom.com/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 11
     },
     {
       "title": "The state of the kernel Rust experiment",
       "href": "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 10
+      "index": 12
     },
     {
-      "title": "Meta replaces SELinux with eBPF",
-      "href": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
+      "title": "Myna v2.0.0 Beta: supports bold, italic, contextual alternates, and even APL programming now",
+      "href": "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
+      "index": 13
+    },
+    {
+      "title": "ACME Device Attestation Extension",
+      "href": "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
     },
     {
       "title": "Indexed Reverse Polish Notation, an Alternative to AST",
       "href": "https://burakemir.ch/post/indexed-rpn/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 12
+      "index": 15
     },
     {
       "title": "The Typeframe PX-88 Portable Computing System",
       "href": "https://www.typeframe.net/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 13
+      "comments": "\n              11 comments\n            ",
+      "index": 16
     },
     {
       "title": "Using nvi as a Minimal and Fast Text Editor",
       "href": "https://git.sr.ht/~r1w1s1/code-notes/blob/main/notes/NVI_Editor_Guide.txt",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 14
+      "index": 17
     },
     {
       "title": "Concrete syntax matters, actually",
       "href": "https://www.youtube.com/watch?v=kQjrcSMYpaA",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 15
+      "index": 18
     },
     {
       "title": "Please stop using middleware to protect your routes (2024)",
       "href": "https://pilcrowonpaper.com/blog/middleware-auth/",
       "points": "",
       "comments": "\n              19 comments\n            ",
-      "index": 16
+      "index": 19
     },
     {
       "title": "Go is portable, until it isn't",
       "href": "https://simpleobservability.com/blog/go-portable-until-isnt",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 17
+      "index": 20
     },
     {
       "title": "Faster double-to-string conversion",
       "href": "https://vitaut.net/posts/2025/faster-dtoa/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 21
     },
     {
       "title": "Goodbye Microservices: From 100s of problem children to 1 superstar",
       "href": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "What's the point of lightweight code with modern computers?",
-      "href": "https://liam-on-linux.dreamwidth.org/97426.html",
-      "points": "",
-      "comments": "\n              32 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "The (Mostly) Complete Unicode Spiral (2022)",
-      "href": "https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "A very unscientific guide to the security of various PQC algorithms",
       "href": "https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "VACUUM Is a Lie: About Your Indexes",
-      "href": "https://boringsql.com/posts/vacuum-is-lie/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 23
     },
     {
-      "title": "Crypto, FIDO and Security Tokens",
-      "href": "https://docs.google.com/spreadsheets/d/1XlwmreiBkt82F4HG965Yp9ncULkgnFpNyfe7WAAtYPk/edit?gid=0#gid=0",
+      "title": "What's the point of lightweight code with modern computers?",
+      "href": "https://liam-on-linux.dreamwidth.org/97426.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              32 comments\n            ",
       "index": 24
     },
     {
-      "title": "Indices point between elements (2015)",
-      "href": "https://blog.nelhage.com/2015/08/indices-point-between-elements/",
+      "title": "The (Mostly) Complete Unicode Spiral (2022)",
+      "href": "https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 25
     }
   ]
