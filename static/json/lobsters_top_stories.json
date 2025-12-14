@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, December 14, 2025 at 11:25 AM GMT-5",
+  "date": "Sunday, December 14, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "Stop writing if statements for your CLI flags",
@@ -37,94 +37,94 @@
       "index": 5
     },
     {
-      "title": "Build Systems A La Carte",
-      "href": "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 6
-    },
-    {
       "title": "icl: Interactive Common Lisp: an enhanced REPL",
       "href": "https://github.com/atgreen/icl",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Build Systems A La Carte (2018)",
+      "href": "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 7
+    },
+    {
+      "title": "BpfJailer: eBPF Mandatory Access Control",
+      "href": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 8
     },
     {
       "title": "what is a build system, anyway?",
       "href": "https://jyn.dev/what-is-a-build-system-anyway/",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "Meta replaces SELinux with eBPF",
-      "href": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 9
-    },
-    {
-      "title": "Editors should have an opt-in for less assistance (2024)",
-      "href": "https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 10
     },
     {
       "title": "ACME Device Attestation Extension",
       "href": "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Editors should have an opt-in for less assistance (2024)",
+      "href": "https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 11
+    },
+    {
+      "title": "A very basic implementation of a virtual continuum fingerboard",
+      "href": "https://continuum.awalgarg.me",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
     },
     {
       "title": "Rats Play Doom",
       "href": "https://ratsplaydoom.com/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Larval stage support engineering: great at what doesn’t scale",
       "href": "https://thundergolfer.com/startups/support/2025/12/13/support-eng-stage-1/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 13
+      "index": 14
+    },
+    {
+      "title": "How I wrote JustHTML using coding agents",
+      "href": "https://friendlybit.com/python/writing-justhtml-with-coding-agents/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
     },
     {
       "title": "The state of the kernel Rust experiment",
       "href": "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "Go is portable, until it isn't",
-      "href": "https://simpleobservability.com/blog/go-portable-until-isnt",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Indexed Reverse Polish Notation, an Alternative to AST",
       "href": "https://burakemir.ch/post/indexed-rpn/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Improved My Feedreader’s Writing to the Web",
-      "href": "https://www.zylstra.org/blog/2025/12/improved-my-feedreaders-writing-to-the-web/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
-      "title": "The Typeframe PX-88 Portable Computing System",
-      "href": "https://www.typeframe.net/",
+      "title": "Goodbye Microservices: From 100s of problem children to 1 superstar",
+      "href": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 18
     },
     {
@@ -135,43 +135,43 @@
       "index": 19
     },
     {
-      "title": "Concrete syntax matters, actually",
-      "href": "https://www.youtube.com/watch?v=kQjrcSMYpaA",
+      "title": "Go is portable, until it isn't",
+      "href": "https://simpleobservability.com/blog/go-portable-until-isnt",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 20
     },
     {
-      "title": "Using nvi as a Minimal and Fast Text Editor",
-      "href": "https://git.sr.ht/~r1w1s1/code-notes/blob/main/notes/NVI_Editor_Guide.txt",
+      "title": "Improved My Feedreader’s Writing to the Web",
+      "href": "https://www.zylstra.org/blog/2025/12/improved-my-feedreaders-writing-to-the-web/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
-      "title": "Faster double-to-string conversion",
-      "href": "https://vitaut.net/posts/2025/faster-dtoa/",
+      "title": "The Typeframe PX-88 Portable Computing System",
+      "href": "https://www.typeframe.net/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 22
     },
     {
-      "title": "Please stop using middleware to protect your routes (2024)",
-      "href": "https://pilcrowonpaper.com/blog/middleware-auth/",
+      "title": "hyper-util Composable Pools",
+      "href": "https://seanmonstar.com/blog/hyper-util-composable-pools/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 23
     },
     {
-      "title": "Goodbye Microservices: From 100s of problem children to 1 superstar",
-      "href": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+      "title": "Shai-Hulud: A complete post-mortem",
+      "href": "https://trigger.dev/blog/shai-hulud-postmortem",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "A very unscientific guide to the security of various PQC algorithms",
-      "href": "https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/",
+      "title": "Faster double-to-string conversion",
+      "href": "https://vitaut.net/posts/2025/faster-dtoa/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
