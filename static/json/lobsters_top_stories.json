@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, December 14, 2025 at 4:20 PM GMT-5",
+  "date": "Sunday, December 14, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
-      "title": "Stop writing if statements for your CLI flags",
-      "href": "https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags",
+      "title": "A distraction-free writing environment",
+      "href": "https://github.com/andrewmd5/dawn",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 1
     },
     {
@@ -16,17 +16,17 @@
       "index": 2
     },
     {
-      "title": "I Tried Gleam for Advent of Code, and I Get the Hype",
-      "href": "https://blog.tymscar.com/posts/gleamaoc2025/",
+      "title": "Stop writing if statements for your CLI flags",
+      "href": "https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 3
     },
     {
-      "title": "A distraction-free writing environment",
-      "href": "https://github.com/andrewmd5/dawn",
+      "title": "I Tried Gleam for Advent of Code, and I Get the Hype",
+      "href": "https://blog.tymscar.com/posts/gleamaoc2025/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 4
     },
     {
@@ -44,80 +44,80 @@
       "index": 6
     },
     {
-      "title": "BpfJailer: eBPF Mandatory Access Control",
-      "href": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
+      "title": "The <time> element should actually do something",
+      "href": "https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 7
+    },
+    {
+      "title": "Build Systems A La Carte (2018)",
+      "href": "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 8
     },
     {
       "title": "Tier list of Linux security mechanisms (2024)",
       "href": "https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 8
+      "index": 9
     },
     {
-      "title": "Build Systems A La Carte (2018)",
-      "href": "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf",
+      "title": "BpfJailer: eBPF Mandatory Access Control",
+      "href": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 9
+      "comments": "\n              1 comment\n            ",
+      "index": 10
     },
     {
       "title": "icl: Interactive Common Lisp: an enhanced REPL",
       "href": "https://github.com/atgreen/icl",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "what is a build system, anyway?",
-      "href": "https://jyn.dev/what-is-a-build-system-anyway/",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
       "index": 11
-    },
-    {
-      "title": "ACME Device Attestation Extension",
-      "href": "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 12
     },
     {
       "title": "A very basic implementation of a virtual continuum fingerboard",
       "href": "https://continuum.awalgarg.me",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 12
     },
     {
-      "title": "Goodbye Microservices: From 100s of problem children to 1 superstar (2018)",
-      "href": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+      "title": "what is a build system, anyway?",
+      "href": "https://jyn.dev/what-is-a-build-system-anyway/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 14
+      "comments": "\n              18 comments\n            ",
+      "index": 13
     },
     {
       "title": "Postfix Macros and let place",
       "href": "https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "ACME Device Attestation Extension",
+      "href": "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 15
+    },
+    {
+      "title": "Goodbye Microservices: From 100s of problem children to 1 superstar (2018)",
+      "href": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 16
     },
     {
       "title": "Shai-Hulud: A complete post-mortem",
       "href": "https://trigger.dev/blog/shai-hulud-postmortem",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Larval stage support engineering: great at what doesn’t scale",
-      "href": "https://thundergolfer.com/startups/support/2025/12/13/support-eng-stage-1/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "Larval stage support engineering: great at what doesn’t scale",
+      "href": "https://thundergolfer.com/startups/support/2025/12/13/support-eng-stage-1/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 19
+    },
+    {
       "title": "Baseline: Operation-Based Evolution and Versioning of Data",
       "href": "https://www.arxiv.org/pdf/2512.09762",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Rats Play Doom",
-      "href": "https://ratsplaydoom.com/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 20
-    },
-    {
-      "title": "Improved My Feedreader’s Writing to the Web",
-      "href": "https://www.zylstra.org/blog/2025/12/improved-my-feedreaders-writing-to-the-web/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "hyper-util Composable Pools",
-      "href": "https://seanmonstar.com/blog/hyper-util-composable-pools/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Indexed Reverse Polish Notation, an Alternative to AST",
-      "href": "https://burakemir.ch/post/indexed-rpn/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Go is portable, until it isn't",
-      "href": "https://simpleobservability.com/blog/go-portable-until-isnt",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 24
     },
     {
       "title": "Spectre/Meltdown Family Tree (2019)",
       "href": "https://transient.fail/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Improved My Feedreader’s Writing to the Web",
+      "href": "https://www.zylstra.org/blog/2025/12/improved-my-feedreaders-writing-to-the-web/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Rats Play Doom",
+      "href": "https://ratsplaydoom.com/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Traceroute Tool from Scratch in Go",
+      "href": "https://kmcd.dev/posts/traceroute/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "Indexed Reverse Polish Notation, an Alternative to AST",
+      "href": "https://burakemir.ch/post/indexed-rpn/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 25
     }
   ]
