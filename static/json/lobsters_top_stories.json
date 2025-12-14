@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, December 14, 2025 at 6:15 AM GMT-5",
+  "date": "Sunday, December 14, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "I Tried Gleam for Advent of Code, and I Get the Hype",
       "href": "https://blog.tymscar.com/posts/gleamaoc2025/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 1
     },
     {
@@ -33,21 +33,21 @@
       "title": "what is a build system, anyway?",
       "href": "https://jyn.dev/what-is-a-build-system-anyway/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 5
-    },
-    {
-      "title": "Editors should have an opt-in for less assistance (2024)",
-      "href": "https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 6
     },
     {
       "title": "Build Systems A La Carte",
       "href": "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 6
+    },
+    {
+      "title": "Editors should have an opt-in for less assistance (2024)",
+      "href": "https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 7
     },
     {
@@ -82,7 +82,7 @@
       "title": "The Typeframe PX-88 Portable Computing System",
       "href": "https://www.typeframe.net/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 12
     },
     {
@@ -107,59 +107,59 @@
       "index": 15
     },
     {
-      "title": "Faster double-to-string conversion",
-      "href": "https://vitaut.net/posts/2025/faster-dtoa/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
       "title": "Go is portable, until it isn't",
       "href": "https://simpleobservability.com/blog/go-portable-until-isnt",
       "points": "",
       "comments": "\n              8 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Faster double-to-string conversion",
+      "href": "https://vitaut.net/posts/2025/faster-dtoa/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 17
+    },
+    {
+      "title": "Meta replaces SELinux with eBPF",
+      "href": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
     },
     {
       "title": "The (Mostly) Complete Unicode Spiral (2022)",
       "href": "https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "What's the point of lightweight code with modern computers?",
       "href": "https://liam-on-linux.dreamwidth.org/97426.html",
       "points": "",
       "comments": "\n              32 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "A very unscientific guide to the security of various PQC algorithms",
       "href": "https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "VACUUM Is a Lie: About Your Indexes",
       "href": "https://boringsql.com/posts/vacuum-is-lie/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Crypto, FIDO and Security Tokens",
       "href": "https://docs.google.com/spreadsheets/d/1XlwmreiBkt82F4HG965Yp9ncULkgnFpNyfe7WAAtYPk/edit?gid=0#gid=0",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "YOCaml a framework used to describe static site generator",
-      "href": "https://yocaml.github.io/tutorial/index.html",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
       "index": 23
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Can I use HTTPS RRs?",
-      "href": "https://www.netmeister.org/blog/https-caniuse.html",
+      "title": "YOCaml a framework used to describe static site generator",
+      "href": "https://yocaml.github.io/tutorial/index.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 25
     }
   ]
