@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, December 14, 2025 at 10:40 PM GMT-5",
+  "date": "Sunday, December 14, 2025 at 11:40 PM GMT-5",
   "articles": [
     {
       "title": "The <time> element should actually do something",
@@ -19,21 +19,21 @@
       "title": "How I wrote JustHTML using coding agents",
       "href": "https://friendlybit.com/python/writing-justhtml-with-coding-agents/",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              25 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "Stop writing if statements for your CLI flags",
-      "href": "https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 4
     },
     {
       "title": "My gift to the rustdoc team",
       "href": "https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Stop writing if statements for your CLI flags",
+      "href": "https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 5
     },
     {
@@ -51,17 +51,17 @@
       "index": 7
     },
     {
-      "title": "Myna v2.0.0 beta: Myna now supports bold/italic variants and even APL programming",
-      "href": "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta",
+      "title": "Let's write a toy UI library",
+      "href": "https://nakst.gitlab.io/tutorial/ui-part-1.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 8
     },
     {
-      "title": "Let's write a toy UI library",
-      "href": "https://nakst.gitlab.io/tutorial/ui-part-1.html",
+      "title": "Myna v2.0.0 beta: Myna now supports bold/italic variants and even APL programming",
+      "href": "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 9
     },
     {
@@ -93,31 +93,31 @@
       "index": 13
     },
     {
+      "title": "L5: A Processing Library in Lua for Interactive Artwork",
+      "href": "https://l5lua.org/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
       "title": "Postfix Macros and let place",
       "href": "https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "BpfJailer: eBPF Mandatory Access Control",
       "href": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "ACME Device Attestation Extension",
       "href": "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "icl: Interactive Common Lisp: an enhanced REPL",
-      "href": "https://github.com/atgreen/icl",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 17
     },
     {
@@ -128,45 +128,45 @@
       "index": 18
     },
     {
-      "title": "what is a build system, anyway?",
-      "href": "https://jyn.dev/what-is-a-build-system-anyway/",
+      "title": "icl: Interactive Common Lisp: an enhanced REPL",
+      "href": "https://github.com/atgreen/icl",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 19
     },
     {
       "title": "Goodbye Microservices: From 100s of problem children to 1 superstar (2018)",
       "href": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 20
+    },
+    {
+      "title": "what is a build system, anyway?",
+      "href": "https://jyn.dev/what-is-a-build-system-anyway/",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 21
     },
     {
       "title": "Traceroute Tool from Scratch in Go",
       "href": "https://kmcd.dev/posts/traceroute/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "L5: A Processing Library in Lua for Interactive Artwork",
-      "href": "https://l5lua.org/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 22
-    },
-    {
-      "title": "Baseline: Operation-Based Evolution and Versioning of Data",
-      "href": "https://www.arxiv.org/pdf/2512.09762",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
     },
     {
       "title": "Editors should have an opt-in for less assistance (2024)",
       "href": "https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html",
       "points": "",
       "comments": "\n              8 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Baseline: Operation-Based Evolution and Versioning of Data",
+      "href": "https://www.arxiv.org/pdf/2512.09762",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
