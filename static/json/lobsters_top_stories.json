@@ -1,5 +1,5 @@
 {
-  "date": "Monday, December 15, 2025 at 1:35 AM GMT-5",
+  "date": "Monday, December 15, 2025 at 2:25 AM GMT-5",
   "articles": [
     {
       "title": "The <time> element should actually do something",
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
-      "title": "Stop writing if statements for your CLI flags",
-      "href": "https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 6
-    },
-    {
       "title": "L5: A Processing Library in Lua for Interactive Artwork",
       "href": "https://l5lua.org/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 6
+    },
+    {
+      "title": "Stop writing if statements for your CLI flags",
+      "href": "https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 7
     },
     {
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
+      "title": "Jubilant: Python subprocess and Go codegen",
+      "href": "https://benhoyt.com/writings/jubilant/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
       "title": "ClickHaskell 1.0.0 is out",
       "href": "https://github.com/KovalevDima/ClickHaskell",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "A very basic implementation of a virtual continuum fingerboard",
       "href": "https://continuum.awalgarg.me",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Build Systems A La Carte (2018)",
       "href": "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Postfix Macros and let place",
-      "href": "https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 15
-    },
-    {
-      "title": "The World Is Not A Desktop (1994)",
-      "href": "https://dl.acm.org/doi/pdf/10.1145/174800.174801",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
-    },
-    {
-      "title": "BpfJailer: eBPF Mandatory Access Control",
-      "href": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 17
-    },
-    {
-      "title": "ACME Device Attestation Extension",
-      "href": "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Shai-Hulud: A complete post-mortem",
-      "href": "https://trigger.dev/blog/shai-hulud-postmortem",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Goodbye Microservices: From 100s of problem children to 1 superstar (2018)",
-      "href": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "icl: Interactive Common Lisp: an enhanced REPL",
-      "href": "https://github.com/atgreen/icl",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "what is a build system, anyway?",
-      "href": "https://jyn.dev/what-is-a-build-system-anyway/",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Traceroute Tool from Scratch in Go",
-      "href": "https://kmcd.dev/posts/traceroute/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
     },
     {
       "title": "TOON: Token-Oriented Object Notation",
       "href": "https://toonformat.dev/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Postfix Macros and let place",
+      "href": "https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
+      "title": "Shai-Hulud: A complete post-mortem",
+      "href": "https://trigger.dev/blog/shai-hulud-postmortem",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "The World Is Not A Desktop (1994)",
+      "href": "https://dl.acm.org/doi/pdf/10.1145/174800.174801",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
+    },
+    {
+      "title": "ACME Device Attestation Extension",
+      "href": "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "BpfJailer: eBPF Mandatory Access Control",
+      "href": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
+    },
+    {
+      "title": "icl: Interactive Common Lisp: an enhanced REPL",
+      "href": "https://github.com/atgreen/icl",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Goodbye Microservices: From 100s of problem children to 1 superstar (2018)",
+      "href": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "what is a build system, anyway?",
+      "href": "https://jyn.dev/what-is-a-build-system-anyway/",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
       "index": 24
     },
     {
-      "title": "Editors should have an opt-in for less assistance (2024)",
-      "href": "https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html",
+      "title": "Traceroute Tool from Scratch in Go",
+      "href": "https://kmcd.dev/posts/traceroute/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
