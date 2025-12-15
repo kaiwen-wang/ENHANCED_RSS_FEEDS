@@ -1,5 +1,5 @@
 {
-  "date": "Monday, December 15, 2025 at 3:35 AM GMT-5",
+  "date": "Monday, December 15, 2025 at 4:30 AM GMT-5",
   "articles": [
     {
       "title": "The <time> element should actually do something",
@@ -12,14 +12,14 @@
       "title": "My gift to the rustdoc team",
       "href": "https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 2
     },
     {
       "title": "A distraction-free writing environment",
       "href": "https://github.com/andrewmd5/dawn",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 3
     },
     {
@@ -51,24 +51,24 @@
       "index": 7
     },
     {
+      "title": "Advent of Swift",
+      "href": "https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 8
+    },
+    {
       "title": "TOON: Token-Oriented Object Notation",
       "href": "https://toonformat.dev/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Tier list of Linux security mechanisms (2024)",
       "href": "https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Advent of Swift",
-      "href": "https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 10
     },
     {
@@ -79,24 +79,24 @@
       "index": 11
     },
     {
+      "title": "Myna v2.0.0 beta: Myna now supports bold/italic variants and even APL programming",
+      "href": "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 12
+    },
+    {
       "title": "ClickHaskell 1.0.0 is out",
       "href": "https://github.com/KovalevDima/ClickHaskell",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "System Observability: Metrics, Sampling, and Tracing",
       "href": "https://entropicthoughts.com/system-observability-metrics-sampling-tracing",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Myna v2.0.0 beta: Myna now supports bold/italic variants and even APL programming",
-      "href": "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 14
     },
     {
@@ -121,22 +121,22 @@
       "index": 17
     },
     {
-      "title": "Postfix Macros and let place",
-      "href": "https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html",
+      "title": "The World Is Not A Desktop (1994)",
+      "href": "https://dl.acm.org/doi/pdf/10.1145/174800.174801",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 18
     },
     {
-      "title": "Shai-Hulud: A complete post-mortem",
-      "href": "https://trigger.dev/blog/shai-hulud-postmortem",
+      "title": "Postfix Macros and let place",
+      "href": "https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 19
     },
     {
-      "title": "The World Is Not A Desktop (1994)",
-      "href": "https://dl.acm.org/doi/pdf/10.1145/174800.174801",
+      "title": "Shai-Hulud: A complete post-mortem",
+      "href": "https://trigger.dev/blog/shai-hulud-postmortem",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 20
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Rust's v0 mangling scheme in a nutshell",
+      "href": "https://purplesyringa.moe/blog/rusts-v0-mangling-scheme-in-a-nutshell/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
       "title": "The experimental Sokol Vulkan backend",
       "href": "https://floooh.github.io/2025/12/01/sokol-vulkan-backend-1.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "icl: Interactive Common Lisp: an enhanced REPL",
       "href": "https://github.com/atgreen/icl",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "BpfJailer: eBPF Mandatory Access Control",
       "href": "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Goodbye Microservices: From 100s of problem children to 1 superstar (2018)",
-      "href": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
