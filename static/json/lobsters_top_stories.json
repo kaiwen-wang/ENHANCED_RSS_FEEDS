@@ -1,11 +1,11 @@
 {
-  "date": "Monday, December 15, 2025 at 1:35 PM GMT-5",
+  "date": "Monday, December 15, 2025 at 2:20 PM GMT-5",
   "articles": [
     {
       "title": "The <time> element should actually do something",
       "href": "https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 1
     },
     {
@@ -16,31 +16,31 @@
       "index": 2
     },
     {
-      "title": "Chafa: Terminal Graphics for the 21st Century",
-      "href": "https://hpjansson.org/chafa/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 3
-    },
-    {
       "title": "Announcing Key Transparency for the Fediverse",
       "href": "https://soatok.blog/2025/12/15/announcing-key-transparency-fediverse/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 4
+      "index": 3
     },
     {
-      "title": "Stopping systemd services under memory pressure",
-      "href": "https://blog.cyplo.dev/stopping-systemd-services-under-memory-pressure.html",
+      "title": "Chafa: Terminal Graphics for the 21st Century",
+      "href": "https://hpjansson.org/chafa/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 5
+      "comments": "\n              1 comment\n            ",
+      "index": 4
     },
     {
       "title": "\"Careless Whisper\" side-channel attack affects WhatsApp and Signal",
       "href": "https://cybernews.com/security/whatsapp-signal-real-time-tracking-battery-drain-flaw/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Stopping systemd services under memory pressure",
+      "href": "https://blog.cyplo.dev/stopping-systemd-services-under-memory-pressure.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 6
     },
     {
@@ -51,24 +51,24 @@
       "index": 7
     },
     {
+      "title": "What are you doing this week?",
+      "href": "/s/gdtrgm/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "Rust's v0 mangling scheme in a nutshell",
       "href": "https://purplesyringa.moe/blog/rusts-v0-mangling-scheme-in-a-nutshell/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/gdtrgm/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
       "index": 9
     },
     {
       "title": "L5: A Processing Library in Lua for Interactive Artwork",
       "href": "https://l5lua.org/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 10
     },
     {
@@ -114,59 +114,59 @@
       "index": 16
     },
     {
-      "title": "A distraction-free writing environment",
-      "href": "https://github.com/andrewmd5/dawn",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 17
-    },
-    {
       "title": "Identity-aware VPN and proxy for remote access",
       "href": "https://github.com/fosrl/pangolin",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 18
+      "index": 17
     },
     {
       "title": "The experimental Sokol Vulkan backend",
       "href": "https://floooh.github.io/2025/12/01/sokol-vulkan-backend-1.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "A distraction-free writing environment",
+      "href": "https://github.com/andrewmd5/dawn",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
       "index": 19
-    },
-    {
-      "title": "Tier list of Linux security mechanisms (2024)",
-      "href": "https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "TOON: Token-Oriented Object Notation",
-      "href": "https://toonformat.dev/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "System Observability: Metrics, Sampling, and Tracing",
-      "href": "https://entropicthoughts.com/system-observability-metrics-sampling-tracing",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
     },
     {
       "title": "Virtualizing NVidia HGX B200 GPUs with Open Source",
       "href": "https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "System Observability: Metrics, Sampling, and Tracing",
+      "href": "https://entropicthoughts.com/system-observability-metrics-sampling-tracing",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "IronFleet: Proving Practical Distributed Systems Correct",
+      "href": "https://www.andrew.cmu.edu/user/bparno/papers/ironfleet.pdf",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Tier list of Linux security mechanisms (2024)",
+      "href": "https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
       "index": 23
     },
     {
-      "title": "Stop writing if statements for your CLI flags",
-      "href": "https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags",
+      "title": "TOON: Token-Oriented Object Notation",
+      "href": "https://toonformat.dev/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 24
     },
     {
