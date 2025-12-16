@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, December 16, 2025 at 9:25 AM GMT-5",
+  "date": "Tuesday, December 16, 2025 at 10:25 AM GMT-5",
   "articles": [
-    {
-      "title": "i'm just having fun",
-      "href": "https://jyn.dev/i-m-just-having-fun/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 1
-    },
     {
       "title": "Writing a blatant Telegram clone using Qt, QML and Rust. And C++",
       "href": "https://kemble.net/blog/provoke/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              11 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "i'm just having fun",
+      "href": "https://jyn.dev/i-m-just-having-fun/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 2
     },
     {
       "title": "\"Super secure\" MAGA-themed messaging app leaks everyone's phone number",
       "href": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 3
     },
     {
@@ -30,38 +30,38 @@
       "index": 4
     },
     {
-      "title": "Top Gun's Carrier Landing: Exposed",
-      "href": "https://relaxing.run/blag/posts/top-gun-landing",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 5
-    },
-    {
       "title": "Radicle: peer-to-peer collaboration with Git (2024)",
       "href": "https://lwn.net/Articles/966869/",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Top Gun's Carrier Landing: Exposed",
+      "href": "https://relaxing.run/blag/posts/top-gun-landing",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 6
+    },
+    {
+      "title": "\"Careless Whisper\" side-channel attack affects WhatsApp and Signal",
+      "href": "https://cybernews.com/security/whatsapp-signal-real-time-tracking-battery-drain-flaw/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 7
     },
     {
       "title": "global known_hosts for ssh services",
       "href": "https://knownhosts.net/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Announcing Key Transparency for the Fediverse",
       "href": "https://soatok.blog/2025/12/15/announcing-key-transparency-fediverse/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "\"Careless Whisper\" side-channel attack affects WhatsApp and Signal",
-      "href": "https://cybernews.com/security/whatsapp-signal-real-time-tracking-battery-drain-flaw/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 9
     },
     {
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
+      "title": "Announcing Vojtux - Accessible Linux distro which is almost pure Fedora",
+      "href": "https://www.freelists.org/post/orca/Announcing-Vojtux-Accessible-Linux-distro-which-is-almost-pure-Fedora",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 12
+    },
+    {
       "title": "The <time> element should actually do something",
       "href": "https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/",
       "points": "",
       "comments": "\n              24 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Stopping systemd services under memory pressure",
-      "href": "https://blog.cyplo.dev/stopping-systemd-services-under-memory-pressure.html",
-      "points": "",
-      "comments": "\n              16 comments\n            ",
       "index": 13
-    },
-    {
-      "title": "TLA+ modeling tips",
-      "href": "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Chafa: Terminal Graphics for the 21st Century",
-      "href": "https://hpjansson.org/chafa/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Tool Safety: A Beautiful Soup zine (2017)",
-      "href": "https://www.crummy.com/software/BeautifulSoup/zine/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "D-Bus is a disgrace to the Linux desktop",
-      "href": "https://blog.vaxry.net/articles/2025-dbusSucks",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 17
     },
     {
       "title": "Optimization Countermeasures",
       "href": "https://mcyoung.xyz/2025/12/15/value-barriers/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Stopping systemd services under memory pressure",
+      "href": "https://blog.cyplo.dev/stopping-systemd-services-under-memory-pressure.html",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "TLA+ modeling tips",
+      "href": "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Chafa: Terminal Graphics for the 21st Century",
+      "href": "https://hpjansson.org/chafa/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Tool Safety: A Beautiful Soup zine (2017)",
+      "href": "https://www.crummy.com/software/BeautifulSoup/zine/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 18
+    },
+    {
+      "title": "D-Bus is a disgrace to the Linux desktop",
+      "href": "https://blog.vaxry.net/articles/2025-dbusSucks",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Liskell - Haskell Semantics with Lisp Syntax (2007)",
+      "href": "http://clemens.endorphin.org/ILC07-Liskell-draft.pdf",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "The Illusion of Shared Understanding",
+      "href": "https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
     },
     {
       "title": "Meet exe.dev, modern VMs",
       "href": "https://blog.exe.dev/meet-exe.dev",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 22
     },
     {
       "title": "Will Turso Be The Better SQLite?",
       "href": "https://www.youtube.com/watch?v=1JHOY0zqNBY",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Using E-Ink tablet as monitor for Linux",
       "href": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "Liskell - Haskell Semantics with Lisp Syntax (2007)",
-      "href": "http://clemens.endorphin.org/ILC07-Liskell-draft.pdf",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "My gift to the rustdoc team",
       "href": "https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team",
       "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "State of HTML 2025 results",
-      "href": "https://2025.stateofhtml.com/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Swift Configuration 1.0 released",
-      "href": "https://swift.org/blog/swift-configuration-1.0-released/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 25
     }
   ]
