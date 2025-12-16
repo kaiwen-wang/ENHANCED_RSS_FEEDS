@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, December 16, 2025 at 4:25 AM GMT-5",
+  "date": "Tuesday, December 16, 2025 at 5:25 AM GMT-5",
   "articles": [
-    {
-      "title": "\"Super secure\" MAGA-themed messaging app leaks everyone's phone number",
-      "href": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 1
-    },
     {
       "title": "i'm just having fun",
       "href": "https://jyn.dev/i-m-just-having-fun/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "\"Super secure\" MAGA-themed messaging app leaks everyone's phone number",
+      "href": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 2
     },
     {
@@ -40,84 +40,84 @@
       "title": "\"Careless Whisper\" side-channel attack affects WhatsApp and Signal",
       "href": "https://cybernews.com/security/whatsapp-signal-real-time-tracking-battery-drain-flaw/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "The <time> element should actually do something",
-      "href": "https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 7
     },
     {
       "title": "Radicle: peer-to-peer collaboration with Git (2024)",
       "href": "https://lwn.net/Articles/966869/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 8
+      "index": 7
     },
     {
       "title": "\"Are you the one?\" is free money",
       "href": "https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "The <time> element should actually do something",
+      "href": "https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
       "index": 9
+    },
+    {
+      "title": "November in Servo: monthly releases, context menus, parallel CSS parsing, and more",
+      "href": "https://servo.org/blog/2025/12/15/november-in-servo/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 10
     },
     {
       "title": "Stopping systemd services under memory pressure",
       "href": "https://blog.cyplo.dev/stopping-systemd-services-under-memory-pressure.html",
       "points": "",
       "comments": "\n              16 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Chafa: Terminal Graphics for the 21st Century",
       "href": "https://hpjansson.org/chafa/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 11
-    },
-    {
-      "title": "Will Turso Be The Better SQLite?",
-      "href": "https://www.youtube.com/watch?v=1JHOY0zqNBY",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
       "index": 12
-    },
-    {
-      "title": "TLA+ modeling tips",
-      "href": "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "My gift to the rustdoc team",
-      "href": "https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Using E-Ink tablet as monitor for Linux",
-      "href": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
     },
     {
       "title": "Torvalds On Linux Security Modules",
       "href": "https://www.phoronix.com/news/Linus-Torvalds-Too-Many-LSM",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "TLA+ modeling tips",
+      "href": "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Will Turso Be The Better SQLite?",
+      "href": "https://www.youtube.com/watch?v=1JHOY0zqNBY",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "My gift to the rustdoc team",
+      "href": "https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
       "index": 16
     },
     {
-      "title": "Liskell - Haskell Semantics with Lisp Syntax (2007)",
-      "href": "http://clemens.endorphin.org/ILC07-Liskell-draft.pdf",
+      "title": "Using E-Ink tablet as monitor for Linux",
+      "href": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 17
     },
     {
@@ -128,24 +128,24 @@
       "index": 18
     },
     {
+      "title": "D-Bus is a disgrace to the Linux desktop",
+      "href": "https://blog.vaxry.net/articles/2025-dbusSucks",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Liskell - Haskell Semantics with Lisp Syntax (2007)",
+      "href": "http://clemens.endorphin.org/ILC07-Liskell-draft.pdf",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 20
+    },
+    {
       "title": "Rust's v0 mangling scheme in a nutshell",
       "href": "https://purplesyringa.moe/blog/rusts-v0-mangling-scheme-in-a-nutshell/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "D-Bus is a disgrace to the Linux desktop",
-      "href": "https://blog.vaxry.net/articles/2025-dbusSucks",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "November in Servo: monthly releases, context menus, parallel CSS parsing, and more",
-      "href": "https://servo.org/blog/2025/12/15/november-in-servo/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
@@ -156,17 +156,17 @@
       "index": 22
     },
     {
-      "title": "global known_hosts for ssh services",
-      "href": "https://knownhosts.net/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 23
-    },
-    {
       "title": "30 Years of <br> Tags",
       "href": "https://www.artmann.co/articles/30-years-of-br-tags",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "global known_hosts for ssh services",
+      "href": "https://knownhosts.net/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 24
     },
     {
