@@ -1,214 +1,214 @@
 {
-  "date": "Tuesday, December 16, 2025 at 8:40 AM GMT-5",
+  "date": "Tuesday, December 16, 2025 at 9:25 AM GMT-5",
   "articles": [
+    {
+      "title": "40 percent of MRI signals do not correspond to actual brain activity",
+      "href": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity",
+      "points": "50 points",
+      "comments": "10 comments",
+      "index": 1
+    },
+    {
+      "title": "This is not the future",
+      "href": "https://blog.mathieui.net/this-is-not-the-future.html",
+      "points": "62 points",
+      "comments": "11 comments",
+      "index": 2
+    },
+    {
+      "title": "Rust GCC back end: Why and how",
+      "href": "https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how",
+      "points": "27 points",
+      "comments": "7 comments",
+      "index": 3
+    },
     {
       "title": "Full Unicode Search at 50× ICU Speed with AVX‑512",
       "href": "https://ashvardanian.com/posts/search-utf8/",
-      "points": "35 points",
-      "comments": "16 comments",
-      "index": 1
+      "points": "64 points",
+      "comments": "30 comments",
+      "index": 4
+    },
+    {
+      "title": "I don't think Lindley's paradox supports p-circling",
+      "href": "https://vilgot-huhn.github.io/mywebsite/posts/20251206_p_circle_lindley/",
+      "points": "7 points",
+      "comments": "discuss",
+      "index": 5
+    },
+    {
+      "title": "Put a ring on it: a lock-free MPMC ring buffer",
+      "href": "https://h4x0r.org/ring/",
+      "points": "16 points",
+      "comments": "2 comments",
+      "index": 6
     },
     {
       "title": "SHARP, an approach to photorealistic view synthesis from a single image",
       "href": "https://apple.github.io/ml-sharp/",
-      "points": "385 points",
-      "comments": "85 comments",
-      "index": 2
+      "points": "400 points",
+      "comments": "90 comments",
+      "index": 7
     },
     {
       "title": "A2UI: A Protocol for Agent-Driven Interfaces",
       "href": "https://a2ui.org/",
-      "points": "74 points",
-      "comments": "23 comments",
-      "index": 3
+      "points": "87 points",
+      "comments": "25 comments",
+      "index": 8
     },
     {
       "title": "Children with cancer scammed out of millions fundraised for their treatment",
       "href": "https://www.bbc.com/news/articles/ckgz318y8elo",
-      "points": "352 points",
-      "comments": "275 comments",
-      "index": 4
-    },
-    {
-      "title": "Quill OS: An open-source OS for Kobo's eReaders",
-      "href": "https://quill-os.org/",
-      "points": "336 points",
-      "comments": "107 comments",
-      "index": 5
-    },
-    {
-      "title": "Be Careful with GIDs in Rails",
-      "href": "https://blog.julik.nl/2025/12/a-trap-with-global-ids",
-      "points": "13 points",
-      "comments": "4 comments",
-      "index": 6
-    },
-    {
-      "title": "Bonsai: A Voxel Engine, from scratch",
-      "href": "https://github.com/scallyw4g/bonsai",
-      "points": "113 points",
-      "comments": "18 comments",
-      "index": 7
-    },
-    {
-      "title": "A linear-time alternative for Dimensionality Reduction and fast visualisation",
-      "href": "https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f",
-      "points": "81 points",
-      "comments": "27 comments",
-      "index": 8
-    },
-    {
-      "title": "ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing",
-      "href": "https://github.com/mantisfury/ArkhamMirror",
-      "points": "41 points",
-      "comments": "17 comments",
+      "points": "384 points",
+      "comments": "306 comments",
       "index": 9
+    },
+    {
+      "title": "Mozilla Appoints New CEO Anthony Enzor-Demeo",
+      "href": "https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/",
+      "points": "38 points",
+      "comments": "23 comments",
+      "index": 10
+    },
+    {
+      "title": "Cekura (YC F24) Is Hiring",
+      "href": "https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us",
+      "points": "",
+      "comments": "hide",
+      "index": 11
     },
     {
       "title": "Should we fear Microsoft's monopoly?",
       "href": "https://www.cursor.tue.nl/en/background/2025/december/week-2/should-we-fear-microsofts-monopoly",
-      "points": "13 points",
-      "comments": "8 comments",
-      "index": 10
-    },
-    {
-      "title": "Erdős Problem #1026",
-      "href": "https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/",
-      "points": "117 points",
-      "comments": "16 comments",
-      "index": 11
-    },
-    {
-      "title": "Internal RFCs saved us months of wasted work",
-      "href": "https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding",
-      "points": "61 points",
+      "points": "38 points",
       "comments": "34 comments",
       "index": 12
     },
     {
+      "title": "Be Careful with GIDs in Rails",
+      "href": "https://blog.julik.nl/2025/12/a-trap-with-global-ids",
+      "points": "19 points",
+      "comments": "11 comments",
+      "index": 13
+    },
+    {
+      "title": "Quill OS: An open-source OS for Kobo's eReaders",
+      "href": "https://quill-os.org/",
+      "points": "346 points",
+      "comments": "113 comments",
+      "index": 14
+    },
+    {
+      "title": "ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing",
+      "href": "https://github.com/mantisfury/ArkhamMirror",
+      "points": "55 points",
+      "comments": "21 comments",
+      "index": 15
+    },
+    {
+      "title": "A brief history of Times New Roman",
+      "href": "https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 16
+    },
+    {
+      "title": "Bonsai: A Voxel Engine, from scratch",
+      "href": "https://github.com/scallyw4g/bonsai",
+      "points": "127 points",
+      "comments": "20 comments",
+      "index": 17
+    },
+    {
       "title": "High Performance SSH/SCP",
       "href": "https://www.psc.edu/hpn-ssh-home/",
-      "points": "24 points",
-      "comments": "8 comments",
-      "index": 13
+      "points": "40 points",
+      "comments": "14 comments",
+      "index": 18
+    },
+    {
+      "title": "A linear-time alternative for Dimensionality Reduction and fast visualisation",
+      "href": "https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f",
+      "points": "82 points",
+      "comments": "27 comments",
+      "index": 19
+    },
+    {
+      "title": "Internal RFCs saved us months of wasted work",
+      "href": "https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding",
+      "points": "66 points",
+      "comments": "43 comments",
+      "index": 20
+    },
+    {
+      "title": "Erdős Problem #1026",
+      "href": "https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/",
+      "points": "120 points",
+      "comments": "18 comments",
+      "index": 21
     },
     {
       "title": "“Are you the one?” is free money",
       "href": "https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/",
-      "points": "378 points",
-      "comments": "83 comments",
-      "index": 14
-    },
-    {
-      "title": "VS Code deactivates IntelliCode in favor of the paid Copilot",
-      "href": "https://www.heise.de/en/news/VS-Code-deactivates-IntelliCode-in-favor-of-the-paid-Copilot-11115783.html",
-      "points": "86 points",
-      "comments": "48 comments",
-      "index": 15
-    },
-    {
-      "title": "Creating C closures from Lua closures",
-      "href": "https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html",
-      "points": "40 points",
-      "comments": "11 comments",
-      "index": 16
+      "points": "394 points",
+      "comments": "94 comments",
+      "index": 22
     },
     {
       "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
       "href": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
-      "points": "592 points",
-      "comments": "197 comments",
-      "index": 17
+      "points": "614 points",
+      "comments": "202 comments",
+      "index": 23
+    },
+    {
+      "title": "Creating C closures from Lua closures",
+      "href": "https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html",
+      "points": "42 points",
+      "comments": "11 comments",
+      "index": 24
+    },
+    {
+      "title": "VS Code deactivates IntelliCode in favor of the paid Copilot",
+      "href": "https://www.heise.de/en/news/VS-Code-deactivates-IntelliCode-in-favor-of-the-paid-Copilot-11115783.html",
+      "points": "123 points",
+      "comments": "78 comments",
+      "index": 25
     },
     {
       "title": "Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite",
       "href": "https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/",
-      "points": "89 points",
-      "comments": "37 comments",
-      "index": 18
+      "points": "90 points",
+      "comments": "39 comments",
+      "index": 26
     },
     {
       "title": "Show HN: I designed my own 3D printer motherboard",
       "href": "https://github.com/KaiPereira/Cheetah-MX4-Mini",
-      "points": "89 points",
-      "comments": "19 comments",
-      "index": 19
+      "points": "93 points",
+      "comments": "22 comments",
+      "index": 27
     },
     {
-      "title": "JetBlue flight averts mid-air collision with US Air Force jet",
-      "href": "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/",
-      "points": "333 points",
-      "comments": "232 comments",
-      "index": 20
-    },
-    {
-      "title": "I'm a Tech Lead, and nobody listens to me. What should I do?",
-      "href": "https://world.hey.com/joaoqalves/i-m-a-tech-lead-and-nobody-listens-to-me-what-should-i-do-e16e454d",
-      "points": "85 points",
-      "comments": "67 comments",
-      "index": 21
-    },
-    {
-      "title": "7 Years, 2 Rebuilds, 40K+ Stars: Milvus Recap and Roadmap",
-      "href": "https://milvus.io/blog/milvus-exceeds-40k-github-stars.md",
-      "points": "28 points",
-      "comments": "9 comments",
-      "index": 22
-    },
-    {
-      "title": "Economics of Orbital vs. Terrestrial Data Centers",
-      "href": "https://andrewmccalip.com/space-datacenters",
-      "points": "136 points",
-      "comments": "193 comments",
-      "index": 23
+      "title": "Mathematicians Crack a Fractal Conjecture on Chaos",
+      "href": "https://www.scientificamerican.com/article/mathematicians-crack-a-fractal-conjecture-on-chaos/",
+      "points": "3 points",
+      "comments": "3 comments",
+      "index": 28
     },
     {
       "title": "Mark V Shaney",
       "href": "https://en.wikipedia.org/wiki/Mark_V._Shaney",
-      "points": "27 points",
+      "points": "31 points",
       "comments": "3 comments",
-      "index": 24
-    },
-    {
-      "title": "Essential Semiconductor Physics [pdf]",
-      "href": "https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf",
-      "points": "201 points",
-      "comments": "9 comments",
-      "index": 25
-    },
-    {
-      "title": "Chafa: Terminal Graphics for the 21st Century",
-      "href": "https://hpjansson.org/chafa/",
-      "points": "182 points",
-      "comments": "29 comments",
-      "index": 26
-    },
-    {
-      "title": "The appropriate amount of effort is zero",
-      "href": "https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/",
-      "points": "155 points",
-      "comments": "90 comments",
-      "index": 27
-    },
-    {
-      "title": "Umbrel – Personal Cloud",
-      "href": "https://umbrel.com",
-      "points": "197 points",
-      "comments": "108 comments",
-      "index": 28
-    },
-    {
-      "title": "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
-      "href": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
-      "points": "480 points",
-      "comments": "116 comments",
       "index": 29
     },
     {
-      "title": "A kernel bug froze my machine: Debugging an async-profiler deadlock",
-      "href": "https://questdb.com/blog/async-profiler-kernel-bug/",
-      "points": "106 points",
-      "comments": "18 comments",
+      "title": "Economics of Orbital vs. Terrestrial Data Centers",
+      "href": "https://andrewmccalip.com/space-datacenters",
+      "points": "148 points",
+      "comments": "200 comments",
       "index": 30
     }
   ]
