@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, December 17, 2025 at 3:30 AM GMT-5",
+  "date": "Wednesday, December 17, 2025 at 4:30 AM GMT-5",
   "articles": [
     {
       "title": "ty: An extremely fast Python type checker and language server",
       "href": "https://astral.sh/blog/ty",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 1
     },
     {
       "title": "vm.overcommit_memory=2 is always the right setting",
       "href": "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 2
     },
     {
@@ -72,106 +72,106 @@
       "index": 10
     },
     {
-      "title": "gh-actions-lockfile: generate and verify lockfiles for GitHub Actions",
-      "href": "https://gh-actions-lockfile.net",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 11
-    },
-    {
       "title": "Rust GCC backend: Why and how",
       "href": "https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 12
+      "index": 11
     },
     {
-      "title": "The Future of [JetBrains] Fleet",
-      "href": "https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "\"Super secure\" MAGA-themed messaging app leaks everyone's phone number",
-      "href": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "global known_hosts for ssh services",
-      "href": "https://knownhosts.net/",
+      "title": "gh-actions-lockfile: generate and verify lockfiles for GitHub Actions",
+      "href": "https://gh-actions-lockfile.net",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 15
+      "index": 12
     },
     {
       "title": "qjp - turn any json file into a quick TUI menu",
       "href": "https://github.com/plainas/qjp",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 13
+    },
+    {
+      "title": "The Future of [JetBrains] Fleet",
+      "href": "https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "\"Super secure\" MAGA-themed messaging app leaks everyone's phone number",
+      "href": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Keeping secrets, or (less than two weeks ago)",
+      "href": "https://kellett.im/a/keeping-secrets",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 16
+    },
+    {
+      "title": "Adventures in the land of Language Servers",
+      "href": "https://speakerdeck.com/kubukoz/adventures-in-the-land-of-language-servers",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
+      "title": "global known_hosts for ssh services",
+      "href": "https://knownhosts.net/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 18
     },
     {
       "title": "Announcing Vojtux - Accessible Linux distro which is almost pure Fedora",
       "href": "https://www.freelists.org/post/orca/Announcing-Vojtux-Accessible-Linux-distro-which-is-almost-pure-Fedora",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Adventures in the land of Language Servers",
-      "href": "https://speakerdeck.com/kubukoz/adventures-in-the-land-of-language-servers",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Maybe consider putting cutlass in your CUDA/Triton kernels",
       "href": "https://maknee.github.io/blog/2025/Maybe-Consider-Putting-Cutlass-In-Your-CUDA-Kernels/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries",
       "href": "https://github.com/CrystallineCore/Biscuit",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Radicle: peer-to-peer collaboration with Git (2024)",
-      "href": "https://lwn.net/Articles/966869/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
       "index": 21
     },
     {
       "title": "Meet exe.dev, modern VMs",
       "href": "https://blog.exe.dev/meet-exe.dev",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 22
+    },
+    {
+      "title": "Radicle: peer-to-peer collaboration with Git (2024)",
+      "href": "https://lwn.net/Articles/966869/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 23
     },
     {
       "title": "Minimum Viable Benchmark (for evaluating LLMs)",
       "href": "http://blog.nilenso.com/blog/2025/11/28/minimum-viable-benchmark/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "AI and GNOME Shell Extensions",
-      "href": "https://blogs.gnome.org/jrahmatzadeh/2025/12/06/ai-and-gnome-shell-extensions/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Optimization Countermeasures",
-      "href": "https://mcyoung.xyz/2025/12/15/value-barriers/",
+      "title": "Amber-Lang - Bash Transpiler is looking for Rust contributors",
+      "href": "/s/stbnfp/amber_lang_bash_transpiler_is_looking_for",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
