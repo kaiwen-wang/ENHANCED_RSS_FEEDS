@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, December 17, 2025 at 2:20 PM GMT-5",
+  "date": "Wednesday, December 17, 2025 at 3:25 PM GMT-5",
   "articles": [
     {
       "title": "Yep, Passkeys Still Have Problems",
@@ -19,7 +19,7 @@
       "title": "ty: An extremely fast Python type checker and language server",
       "href": "https://astral.sh/blog/ty",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              24 comments\n            ",
       "index": 3
     },
     {
@@ -30,24 +30,24 @@
       "index": 4
     },
     {
+      "title": "A Survey of Dynamic Array Structures",
+      "href": "https://azmr.uk/dyn/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Maintaining an open source software during Hacktoberfest",
+      "href": "https://crocidb.com/post/maintaining-an-oss-during-hacktoberfest/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 6
+    },
+    {
       "title": "Opus 1.6 Released",
       "href": "https://opus-codec.org/demo/opus-1.6/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "A Survey of Dynamic Array Structures",
-      "href": "https://azmr.uk/dyn/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "vm.overcommit_memory=2 is always the right setting",
-      "href": "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html",
-      "points": "",
-      "comments": "\n              61 comments\n            ",
       "index": 7
     },
     {
@@ -58,73 +58,73 @@
       "index": 8
     },
     {
-      "title": "Maintaining an open source software during Hacktoberfest",
-      "href": "https://crocidb.com/post/maintaining-an-oss-during-hacktoberfest/",
+      "title": "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
+      "href": "https://www.phoronix.com/news/First-Linux-Rust-CVE",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 9
+    },
+    {
+      "title": "vm.overcommit_memory=2 is always the right setting",
+      "href": "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html",
+      "points": "",
+      "comments": "\n              69 comments\n            ",
+      "index": 10
     },
     {
       "title": "Keeping secrets, or (less than two weeks ago)",
       "href": "https://kellett.im/a/keeping-secrets",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
-      "href": "https://www.phoronix.com/news/First-Linux-Rust-CVE",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 11
-    },
-    {
-      "title": "No Graphics API",
-      "href": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Short-Circuiting Correlated Subqueries in SQLite",
-      "href": "https://emschwartz.me/short-circuiting-correlated-subqueries-in-sqlite/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "File d'attente - file-based job queue tool",
-      "href": "https://git.sr.ht/~marcc/filed",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "qjp - turn any json file into a quick TUI menu",
-      "href": "https://github.com/plainas/qjp",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "Log level 'error' should mean that something needs to be fixed",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "The Wrong Question About Type Systems",
-      "href": "https://furkan3ayraktar.github.io/blog/the-wrong-question-about-type-systems.html",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 17
     },
     {
       "title": "Asahi Linux Progress Report: Linux 6.18",
       "href": "https://asahilinux.org/2025/12/progress-report-6-18/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "No Graphics API",
+      "href": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Short-Circuiting Correlated Subqueries in SQLite",
+      "href": "https://emschwartz.me/short-circuiting-correlated-subqueries-in-sqlite/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "The Wrong Question About Type Systems",
+      "href": "https://furkan3ayraktar.github.io/blog/the-wrong-question-about-type-systems.html",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "qjp - turn any json file into a quick TUI menu",
+      "href": "https://github.com/plainas/qjp",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "File d'attente - file-based job queue tool",
+      "href": "https://git.sr.ht/~marcc/filed",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Log level 'error' should mean that something needs to be fixed",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 18
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
-      "title": "How I Became a Spam Vector",
-      "href": "https://idiallo.com/blog/how-i-became-a-spammer",
+      "title": "Selective Applicative Functors",
+      "href": "https://blog.veritates.love/selective_applicatives_theoretical_basis.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 21
-    },
-    {
-      "title": "What Does a Database for SSDs Look Like?",
-      "href": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "i'm just having fun",
-      "href": "https://jyn.dev/i-m-just-having-fun/",
-      "points": "",
-      "comments": "\n              37 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "kris: Cross-compile Janet projects with Zig",
-      "href": "https://github.com/pyrmont/kris",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 24
     },
     {
       "title": "How do graphics drivers work?",
       "href": "https://timur.hu/blog/2025/how-do-graphics-drivers-work",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "How I Became a Spam Vector",
+      "href": "https://idiallo.com/blog/how-i-became-a-spammer",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "kris: Cross-compile Janet projects with Zig",
+      "href": "https://github.com/pyrmont/kris",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "Inlining - the ultimate optimisation",
+      "href": "https://xania.org/202512/17-inlining-the-ultimate-optimisation",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
