@@ -1,179 +1,179 @@
 {
-  "date": "Thursday, December 18, 2025 at 9:25 AM GMT-5",
+  "date": "Thursday, December 18, 2025 at 10:25 AM GMT-5",
   "articles": [
-    {
-      "title": "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
-      "href": "https://www.phoronix.com/news/First-Linux-Rust-CVE",
-      "points": "",
-      "comments": "\n              16 comments\n            ",
-      "index": 1
-    },
     {
       "title": "Microsoft quietly kills IntelliCode in favor of the paid Copilot",
       "href": "https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "TOML 1.1.0 released",
+      "href": "https://github.com/toml-lang/toml/releases/tag/1.1.0",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 2
     },
     {
-      "title": "Yep, Passkeys Still Have Problems",
-      "href": "https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/",
+      "title": "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
+      "href": "https://www.phoronix.com/news/First-Linux-Rust-CVE",
       "points": "",
-      "comments": "\n              86 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "How did IRC ping timeouts end up in a lawsuit?",
-      "href": "https://mjg59.dreamwidth.org/73777.html",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "The original Mozilla \"Dinosaur\" logo artwork",
-      "href": "https://www.jwz.org/blog/2025/12/the-original-mozilla-dinosaur-logo-artwork/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 5
     },
     {
       "title": "Dear ACM, you're doing AI wrong but you can still get it right",
       "href": "https://anil.recoil.org/notes/acm-ai-recs",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Yep, Passkeys Still Have Problems",
+      "href": "https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/",
+      "points": "",
+      "comments": "\n              88 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "How did IRC ping timeouts end up in a lawsuit?",
+      "href": "https://mjg59.dreamwidth.org/73777.html",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 6
     },
     {
-      "title": "Maintaining an open source software during Hacktoberfest",
-      "href": "https://crocidb.com/post/maintaining-an-oss-during-hacktoberfest/",
+      "title": "The original Mozilla \"Dinosaur\" logo artwork",
+      "href": "https://www.jwz.org/blog/2025/12/the-original-mozilla-dinosaur-logo-artwork/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 7
-    },
-    {
-      "title": "Remote code execution via ND6 Router Advertisements",
-      "href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 8
-    },
-    {
-      "title": "Interactive Fluid Typography",
-      "href": "https://electricmagicfactory.com/articles/interactive-fluid-typography/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 9
     },
     {
       "title": "OBS Studio Gets A New Renderer: How OBS Adopted Metal",
       "href": "https://obsproject.com/blog/obs-studio-gets-a-new-renderer",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Remote code execution via ND6 Router Advertisements",
+      "href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Maintaining an open source software during Hacktoberfest",
+      "href": "https://crocidb.com/post/maintaining-an-oss-during-hacktoberfest/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 10
+    },
+    {
+      "title": "Interactive Fluid Typography",
+      "href": "https://electricmagicfactory.com/articles/interactive-fluid-typography/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 11
+    },
+    {
+      "title": "Partial inlining",
+      "href": "https://xania.org/202512/18-partial-inlining",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
     },
     {
       "title": "secure local configuration in kakoune",
       "href": "https://ficd.sh/blog/kak-secure-local-config/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 11
+      "index": 13
     },
     {
       "title": "Asahi Linux Progress Report: Linux 6.18",
       "href": "https://asahilinux.org/2025/12/progress-report-6-18/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 14
     },
     {
       "title": "NVME is not a hard disk (2021)",
       "href": "https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 13
+      "index": 15
     },
     {
       "title": "lightning-extra: PyTorch Lightning plugins and utilities for cloud-native machine learning",
       "href": "https://github.com/ocramz/lightning-extra",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 14
+      "index": 16
     },
     {
       "title": "Ringspace: A Proposal for the Human Web",
       "href": "https://taggart-tech.com/ringspace/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 15
+      "comments": "\n              6 comments\n            ",
+      "index": 17
     },
     {
       "title": "A Survey of Dynamic Array Structures",
       "href": "https://azmr.uk/dyn/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 16
+      "index": 18
     },
     {
       "title": "A Multimedia Sketchpad",
       "href": "https://beyondloom.com/blog/sketchpad.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "ty: An extremely fast Python type checker and language server",
-      "href": "https://astral.sh/blog/ty",
-      "points": "",
-      "comments": "\n              29 comments\n            ",
-      "index": 18
+      "comments": "\n              1 comment\n            ",
+      "index": 19
     },
     {
       "title": "What Does a Database for SSDs Look Like?",
       "href": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
       "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 19
+      "comments": "\n              7 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "ty: An extremely fast Python type checker and language server",
+      "href": "https://astral.sh/blog/ty",
+      "points": "",
+      "comments": "\n              30 comments\n            ",
+      "index": 21
     },
     {
       "title": "How Twitter is (probably) crawling the Internet for AI",
       "href": "https://kitsunemimi.pw/notes/posts/how-twitter-is-probably-crawling-the-internet-for-ai.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Keeping secrets, or (less than two weeks ago)",
       "href": "https://kellett.im/a/keeping-secrets",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Opus 1.6 Released",
       "href": "https://opus-codec.org/demo/opus-1.6/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Log level 'error' should mean that something needs to be fixed",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
       "points": "",
       "comments": "\n              19 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "vm.overcommit_memory=2 is always the right setting",
-      "href": "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html",
-      "points": "",
-      "comments": "\n              80 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "TOML 1.1.0 released",
-      "href": "https://github.com/toml-lang/toml/releases/tag/1.1.0",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
