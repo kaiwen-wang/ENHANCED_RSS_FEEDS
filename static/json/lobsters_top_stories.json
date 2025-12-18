@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, December 18, 2025 at 4:25 AM GMT-5",
+  "date": "Thursday, December 18, 2025 at 5:25 AM GMT-5",
   "articles": [
-    {
-      "title": "Yep, Passkeys Still Have Problems",
-      "href": "https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/",
-      "points": "",
-      "comments": "\n              58 comments\n            ",
-      "index": 1
-    },
     {
       "title": "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
       "href": "https://www.phoronix.com/news/First-Linux-Rust-CVE",
       "points": "",
       "comments": "\n              15 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "Yep, Passkeys Still Have Problems",
+      "href": "https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/",
+      "points": "",
+      "comments": "\n              63 comments\n            ",
       "index": 2
     },
     {
@@ -44,136 +44,136 @@
       "index": 6
     },
     {
+      "title": "lightning-extra: PyTorch Lightning plugins and utilities for cloud-native machine learning",
+      "href": "https://github.com/ocramz/lightning-extra",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 7
+    },
+    {
       "title": "secure local configuration in kakoune",
       "href": "https://ficd.sh/blog/kak-secure-local-config/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "A Survey of Dynamic Array Structures",
-      "href": "https://azmr.uk/dyn/",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
       "index": 8
-    },
-    {
-      "title": "ty: An extremely fast Python type checker and language server",
-      "href": "https://astral.sh/blog/ty",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Ringspace: A Proposal for the Human Web",
-      "href": "https://taggart-tech.com/ringspace/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "How Twitter is (probably) crawling the Internet for AI",
-      "href": "https://kitsunemimi.pw/notes/posts/how-twitter-is-probably-crawling-the-internet-for-ai.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 11
     },
     {
       "title": "Interactive Fluid Typography",
       "href": "https://electricmagicfactory.com/articles/interactive-fluid-typography/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 9
     },
     {
-      "title": "Keeping secrets, or (less than two weeks ago)",
-      "href": "https://kellett.im/a/keeping-secrets",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Opus 1.6 Released",
-      "href": "https://opus-codec.org/demo/opus-1.6/",
+      "title": "Ringspace: A Proposal for the Human Web",
+      "href": "https://taggart-tech.com/ringspace/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 14
+      "index": 10
     },
     {
-      "title": "What Does a Database for SSDs Look Like?",
-      "href": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
+      "title": "ty: An extremely fast Python type checker and language server",
+      "href": "https://astral.sh/blog/ty",
       "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 15
+      "comments": "\n              28 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "A Survey of Dynamic Array Structures",
+      "href": "https://azmr.uk/dyn/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 12
     },
     {
       "title": "A Multimedia Sketchpad",
       "href": "https://beyondloom.com/blog/sketchpad.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Microsoft quietly kills IntelliCode in favor of the paid Copilot",
+      "href": "https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "How Twitter is (probably) crawling the Internet for AI",
+      "href": "https://kitsunemimi.pw/notes/posts/how-twitter-is-probably-crawling-the-internet-for-ai.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Keeping secrets, or (less than two weeks ago)",
+      "href": "https://kellett.im/a/keeping-secrets",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 16
+    },
+    {
+      "title": "Opus 1.6 Released",
+      "href": "https://opus-codec.org/demo/opus-1.6/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "What Does a Database for SSDs Look Like?",
+      "href": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 18
     },
     {
       "title": "Log level 'error' should mean that something needs to be fixed",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 17
+      "index": 19
     },
     {
       "title": "vm.overcommit_memory=2 is always the right setting",
       "href": "https://ariadne.space/2025/12/16/vmovercommitmemory-is-always-the-right.html",
       "points": "",
       "comments": "\n              80 comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
       "title": "qjp - turn any json file into a quick TUI menu",
       "href": "https://github.com/plainas/qjp",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "lightning-extra: PyTorch Lightning plugins and utilities for cloud-native machine learning",
-      "href": "https://github.com/ocramz/lightning-extra",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Short-Circuiting Correlated Subqueries in SQLite",
       "href": "https://emschwartz.me/short-circuiting-correlated-subqueries-in-sqlite/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "The Wrong Question About Type Systems",
       "href": "https://furkan3ayraktar.github.io/blog/the-wrong-question-about-type-systems.html",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Genuary 2026: Prompts Released",
-      "href": "https://genuary.art",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 23
-    },
-    {
-      "title": "No Graphics API",
-      "href": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 24
     },
     {
       "title": "How do graphics drivers work?",
       "href": "https://timur.hu/blog/2025/how-do-graphics-drivers-work",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "Genuary 2026: Prompts Released",
+      "href": "https://genuary.art",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 25
     }
   ]
