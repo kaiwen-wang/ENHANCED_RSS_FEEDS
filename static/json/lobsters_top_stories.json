@@ -1,18 +1,18 @@
 {
-  "date": "Friday, December 19, 2025 at 3:25 PM GMT-5",
+  "date": "Friday, December 19, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "Go ahead, self-host Postgres",
       "href": "https://pierce.dev/notes/go-ahead-self-host-postgres",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 1
     },
     {
       "title": "WireGuard® implementation written in Rust",
       "href": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 2
     },
     {
@@ -26,77 +26,77 @@
       "title": "A love letter to Raycast",
       "href": "https://rmoff.net/2025/12/18/a-love-letter-to-raycast/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 4
     },
     {
       "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
       "href": "https://obeli.sk/blog/when-scope-lies/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 5
     },
     {
       "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
       "href": "https://github.com/fastserial/lite3",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "8-bit Boléro (the world’s most ambitious chiptune?)",
-      "href": "https://linusakesson.net/music/bolero/index.php",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 7
     },
     {
       "title": "Building a Transparent Keyserver",
       "href": "https://words.filippo.io/keyserver-tlog/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "8-bit Boléro (the world’s most ambitious chiptune?)",
+      "href": "https://linusakesson.net/music/bolero/index.php",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 8
+    },
+    {
+      "title": "map::operator[] should be nodiscard",
+      "href": "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Help my website is too small",
+      "href": "https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 10
     },
     {
       "title": "how to hack discord, vercel and more with one easy trick",
       "href": "https://kibty.town/blog/mintlify/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 9
+      "index": 11
     },
     {
       "title": "TOML 1.1.0 released",
       "href": "https://github.com/toml-lang/toml/releases/tag/1.1.0",
       "points": "",
       "comments": "\n              22 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Help my website is too small",
-      "href": "https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "I got hacked, my server started mining Monero this morning",
-      "href": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
       "index": 12
-    },
-    {
-      "title": "map::operator[] should be nodiscard",
-      "href": "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 13
     },
     {
       "title": "LeaseGuard: Raft Leases Done Right",
       "href": "https://emptysqua.re/blog/leaseguard-raft-leader-leases-done-right/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "I got hacked, my server started mining Monero this morning",
+      "href": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
       "index": 14
     },
     {
@@ -131,7 +131,7 @@
       "title": "Please Just Try HTMX",
       "href": "https://pleasejusttryhtmx.com/",
       "points": "",
-      "comments": "\n              45 comments\n            ",
+      "comments": "\n              47 comments\n            ",
       "index": 19
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "Reinventing the dial-up modem (2019)",
+      "href": "https://saket.me/dtmf-tones/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 22
+    },
+    {
       "title": "Finite-state transducers for substitution tilings",
       "href": "https://arxiv.org/abs/2512.16595",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "Rust’s Block Pattern",
+      "href": "https://notgull.net/block-pattern/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "dogalog: Prolog-based livecoding music environment",
       "href": "https://github.com/danja/dogalog",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Reinventing the dial-up modem (2019)",
-      "href": "https://saket.me/dtmf-tones/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Pi 5 NAS With Custom Carbon Fibre Panels, Made on the Makera Z1",
-      "href": "https://www.the-diy-life.com/pi-5-nas-with-custom-carbon-fibre-panels-made-on-the-makera-z1/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
