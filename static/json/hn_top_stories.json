@@ -1,214 +1,214 @@
 {
-  "date": "Friday, December 19, 2025 at 7:40 AM GMT-5",
+  "date": "Friday, December 19, 2025 at 8:35 AM GMT-5",
   "articles": [
     {
       "title": "GotaTun -- Mullvad's WireGuard Implementation in Rust",
       "href": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
-      "points": "105 points",
-      "comments": "16 comments",
+      "points": "157 points",
+      "comments": "34 comments",
       "index": 1
     },
     {
       "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
       "href": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
-      "points": "96 points",
-      "comments": "36 comments",
+      "points": "145 points",
+      "comments": "67 comments",
       "index": 2
-    },
-    {
-      "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
-      "href": "https://github.com/moasq/production-saas-starter",
-      "points": "24 points",
-      "comments": "15 comments",
-      "index": 3
     },
     {
       "title": "Beginning January 2026, all ACM publications will be made open access",
       "href": "https://dl.acm.org/openaccess",
-      "points": "1796 points",
-      "comments": "221 comments",
-      "index": 4
-    },
-    {
-      "title": "Show HN: Hacker News, but every headline is hysterical clickbait",
-      "href": "https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html",
-      "points": "61 points",
-      "comments": "24 comments",
-      "index": 5
+      "points": "1814 points",
+      "comments": "222 comments",
+      "index": 3
     },
     {
       "title": "Getting bitten by Intel's poor naming schemes",
       "href": "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/",
-      "points": "165 points",
-      "comments": "84 comments",
-      "index": 6
+      "points": "175 points",
+      "comments": "91 comments",
+      "index": 4
     },
     {
       "title": "Texas is suing all of the big TV makers for spying on what you watch",
       "href": "https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying",
-      "points": "885 points",
-      "comments": "449 comments",
-      "index": 7
+      "points": "921 points",
+      "comments": "460 comments",
+      "index": 5
     },
     {
       "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
       "href": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
-      "points": "925 points",
-      "comments": "344 comments",
-      "index": 8
+      "points": "945 points",
+      "comments": "352 comments",
+      "index": 6
+    },
+    {
+      "title": "Show HN: Stepped Actions – distributed workflow orchestration for Rails",
+      "href": "https://github.com/envirobly/stepped",
+      "points": "7 points",
+      "comments": "2 comments",
+      "index": 7
     },
     {
       "title": "1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5",
       "href": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5",
-      "points": "449 points",
-      "comments": "138 comments",
-      "index": 9
+      "points": "463 points",
+      "comments": "147 comments",
+      "index": 8
     },
     {
       "title": "History LLMs: Models trained exclusively on pre-1913 texts",
       "href": "https://github.com/DGoettlich/history-llms",
-      "points": "553 points",
-      "comments": "244 comments",
+      "points": "568 points",
+      "comments": "254 comments",
+      "index": 9
+    },
+    {
+      "title": "How to think about durable execution",
+      "href": "https://hatchet.run/blog/durable-execution",
+      "points": "14 points",
+      "comments": "1 comment",
       "index": 10
     },
     {
       "title": "Show HN: I implemented generics in my programming language",
       "href": "https://axe-docs.pages.dev/features/generics/",
-      "points": "8 points",
-      "comments": "discuss",
+      "points": "16 points",
+      "comments": "4 comments",
       "index": 11
-    },
-    {
-      "title": "Noclip.website – A digital museum of video game levels",
-      "href": "https://noclip.website/",
-      "points": "243 points",
-      "comments": "31 comments",
-      "index": 12
     },
     {
       "title": "From Zero to QED: An informal introduction to formality with Lean 4",
       "href": "https://sdiehl.github.io/zero-to-qed/01_introduction.html",
-      "points": "73 points",
-      "comments": "8 comments",
+      "points": "86 points",
+      "comments": "11 comments",
+      "index": 12
+    },
+    {
+      "title": "Noclip.website – A digital museum of video game levels",
+      "href": "https://noclip.website/",
+      "points": "270 points",
+      "comments": "32 comments",
       "index": 13
-    },
-    {
-      "title": "GPT-5.2-Codex",
-      "href": "https://openai.com/index/introducing-gpt-5-2-codex/",
-      "points": "510 points",
-      "comments": "267 comments",
-      "index": 14
-    },
-    {
-      "title": "Prompt caching for cheaper LLM tokens",
-      "href": "https://ngrok.com/blog/prompt-caching/",
-      "points": "161 points",
-      "comments": "36 comments",
-      "index": 15
-    },
-    {
-      "title": "Making Google Sans Flex",
-      "href": "https://design.google/library/google-sans-flex-font",
-      "points": "69 points",
-      "comments": "45 comments",
-      "index": 16
     },
     {
       "title": "Pingfs: Stores your data in ICMP ping packets",
       "href": "https://github.com/yarrick/pingfs",
-      "points": "28 points",
-      "comments": "2 comments",
+      "points": "39 points",
+      "comments": "10 comments",
+      "index": 14
+    },
+    {
+      "title": "GPT-5.2-Codex",
+      "href": "https://openai.com/index/introducing-gpt-5-2-codex/",
+      "points": "513 points",
+      "comments": "268 comments",
+      "index": 15
+    },
+    {
+      "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
+      "href": "https://github.com/moasq/production-saas-starter",
+      "points": "40 points",
+      "comments": "20 comments",
+      "index": 16
+    },
+    {
+      "title": "Prompt caching for cheaper LLM tokens",
+      "href": "https://ngrok.com/blog/prompt-caching/",
+      "points": "169 points",
+      "comments": "39 comments",
       "index": 17
     },
     {
-      "title": "Show HN: CommerceTXT – An open standard for AI shopping context (like llms.txt)",
-      "href": "https://commercetxt.org/",
-      "points": "4 points",
+      "title": "YouTube Is Degraded",
+      "href": "https://downdetector.co.uk/status/youtube/",
+      "points": "9 points",
       "comments": "2 comments",
       "index": 18
     },
     {
       "title": "How China built its ‘Manhattan Project’ to rival the West in AI chips",
       "href": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
-      "points": "364 points",
-      "comments": "413 comments",
+      "points": "371 points",
+      "comments": "428 comments",
       "index": 19
+    },
+    {
+      "title": "Show HN: CommerceTXT – An open standard for AI shopping context (like llms.txt)",
+      "href": "https://commercetxt.org/",
+      "points": "7 points",
+      "comments": "7 comments",
+      "index": 20
     },
     {
       "title": "Reconstructed Commander Keen 1-3 Source Code",
       "href": "https://pckf.com/viewtopic.php?t=18248",
-      "points": "91 points",
-      "comments": "14 comments",
-      "index": 20
+      "points": "99 points",
+      "comments": "15 comments",
+      "index": 21
     },
     {
       "title": "Designing a Passive Lidar Detector Device",
       "href": "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor",
-      "points": "14 points",
+      "points": "18 points",
       "comments": "discuss",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "Making Google Sans Flex",
+      "href": "https://design.google/library/google-sans-flex-font",
+      "points": "74 points",
+      "comments": "52 comments",
+      "index": 23
     },
     {
       "title": "Show HN: Picknplace.js, an alternative to drag-and-drop",
       "href": "https://jgthms.com/picknplace.js/",
-      "points": "333 points",
+      "points": "341 points",
       "comments": "126 comments",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Property-Based Testing Caught a Security Bug I Never Would Have Found",
       "href": "https://kiro.dev/blog/property-based-testing-fixed-security-bug/",
-      "points": "35 points",
-      "comments": "10 comments",
-      "index": 23
-    },
-    {
-      "title": "SMB Direct – SMB3 over RDMA",
-      "href": "https://docs.kernel.org/filesystems/smb/smbdirect.html",
-      "points": "35 points",
-      "comments": "7 comments",
-      "index": 24
-    },
-    {
-      "title": "Skills for organizations, partners, the ecosystem",
-      "href": "https://claude.com/blog/organization-skills-and-directory",
-      "points": "272 points",
-      "comments": "150 comments",
+      "points": "38 points",
+      "comments": "12 comments",
       "index": 25
     },
     {
       "title": "Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)",
       "href": "https://github.com/vivienhenz24/fuzzy-canary",
-      "points": "270 points",
-      "comments": "190 comments",
+      "points": "280 points",
+      "comments": "199 comments",
       "index": 26
+    },
+    {
+      "title": "Skills for organizations, partners, the ecosystem",
+      "href": "https://claude.com/blog/organization-skills-and-directory",
+      "points": "272 points",
+      "comments": "151 comments",
+      "index": 27
+    },
+    {
+      "title": "SMB Direct – SMB3 over RDMA",
+      "href": "https://docs.kernel.org/filesystems/smb/smbdirect.html",
+      "points": "37 points",
+      "comments": "11 comments",
+      "index": 28
     },
     {
       "title": "Great ideas in theoretical computer science",
       "href": "https://www.cs251.com/",
-      "points": "127 points",
-      "comments": "25 comments",
-      "index": 27
-    },
-    {
-      "title": "2026 Apple introducing more ads to increase opportunity in search results",
-      "href": "https://ads.apple.com/app-store/help/ad-placements/0082-search-results",
-      "points": "201 points",
-      "comments": "189 comments",
-      "index": 28
+      "points": "135 points",
+      "comments": "30 comments",
+      "index": 29
     },
     {
       "title": "Firefox will have an option to disable all AI features",
       "href": "https://mastodon.social/@firefoxwebdevs/115740500373677782",
-      "points": "459 points",
-      "comments": "421 comments",
-      "index": 29
-    },
-    {
-      "title": "Two kinds of vibe coding",
-      "href": "https://davidbau.com/archives/2025/12/16/vibe_coding.html",
-      "points": "106 points",
-      "comments": "67 comments",
+      "points": "470 points",
+      "comments": "434 comments",
       "index": 30
     }
   ]

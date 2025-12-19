@@ -1,25 +1,25 @@
 {
-  "date": "Friday, December 19, 2025 at 7:40 AM GMT-5",
+  "date": "Friday, December 19, 2025 at 8:35 AM GMT-5",
   "articles": [
     {
       "title": "Your job is to deliver code you have proven to work",
       "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
       "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "Go ahead, self-host Postgres",
+      "href": "https://pierce.dev/notes/go-ahead-self-host-postgres",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 2
     },
     {
       "title": "TOML 1.1.0 released",
       "href": "https://github.com/toml-lang/toml/releases/tag/1.1.0",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "Go ahead, self-host Postgres",
-      "href": "https://pierce.dev/notes/go-ahead-self-host-postgres",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "I got hacked, my server started mining Monero this morning",
       "href": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 5
     },
     {
@@ -51,73 +51,73 @@
       "index": 7
     },
     {
+      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
+      "href": "https://obeli.sk/blog/when-scope-lies/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 8
+    },
+    {
       "title": "Please Just Try HTMX",
       "href": "https://pleasejusttryhtmx.com/",
       "points": "",
-      "comments": "\n              27 comments\n            ",
-      "index": 8
+      "comments": "\n              29 comments\n            ",
+      "index": 9
     },
     {
       "title": "headson: head/tail for structured data - summarize/preview JSON/YAML and source code",
       "href": "https://github.com/kantord/headson",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "dogalog: Prolog-based livecoding music environment",
       "href": "https://github.com/danja/dogalog",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 10
+      "index": 11
+    },
+    {
+      "title": "Reinventing the dial-up modem (2019)",
+      "href": "https://saket.me/dtmf-tones/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 12
     },
     {
       "title": "Booleans don't exist in Ruby (2022)",
       "href": "https://thoughtbot.com/blog/what-is-a-boolean",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 11
-    },
-    {
-      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
-      "href": "https://obeli.sk/blog/when-scope-lies/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "My first win building with agents",
       "href": "https://olano.dev/blog/agents2",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Microsoft quietly kills IntelliCode in favor of the paid Copilot",
-      "href": "https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 14
     },
     {
       "title": "Making the Most of Bit Arrays",
       "href": "https://gearsco.de/blog/bit-array-syntax/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 15
+    },
+    {
+      "title": "Microsoft quietly kills IntelliCode in favor of the paid Copilot",
+      "href": "https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 16
     },
     {
       "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
       "href": "https://ngrok.com/blog/prompt-caching/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
-    },
-    {
-      "title": "A testing conundrum",
-      "href": "https://nedbatchelder.com/blog/202512/a_testing_conundrum.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 17
     },
     {
@@ -128,10 +128,10 @@
       "index": 18
     },
     {
-      "title": "Reinventing the dial-up modem (2019)",
-      "href": "https://saket.me/dtmf-tones/",
+      "title": "A testing conundrum",
+      "href": "https://nedbatchelder.com/blog/202512/a_testing_conundrum.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 19
     },
     {
@@ -173,7 +173,7 @@
       "title": "Yep, Passkeys Still Have Problems",
       "href": "https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/",
       "points": "",
-      "comments": "\n              135 comments\n            ",
+      "comments": "\n              137 comments\n            ",
       "index": 25
     }
   ]
