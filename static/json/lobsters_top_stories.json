@@ -1,18 +1,18 @@
 {
-  "date": "Friday, December 19, 2025 at 12:20 AM GMT-5",
+  "date": "Friday, December 19, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "Your job is to deliver code you have proven to work",
       "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 1
     },
     {
       "title": "TOML 1.1.0 released",
       "href": "https://github.com/toml-lang/toml/releases/tag/1.1.0",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 2
     },
     {
@@ -26,14 +26,14 @@
       "title": "I got hacked, my server started mining Monero this morning",
       "href": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 4
     },
     {
       "title": "how to hack discord, vercel and more with one easy trick",
       "href": "https://kibty.town/blog/mintlify/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 5
     },
     {
@@ -47,7 +47,7 @@
       "title": "Please Just Try HTMX",
       "href": "https://pleasejusttryhtmx.com/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 7
     },
     {
@@ -72,31 +72,31 @@
       "index": 10
     },
     {
-      "title": "headson: head/tail for structured data - summarize/preview JSON/YAML and source code",
-      "href": "https://github.com/kantord/headson",
+      "title": "Booleans don't exist in Ruby (2022)",
+      "href": "https://thoughtbot.com/blog/what-is-a-boolean",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 11
     },
     {
-      "title": "Booleans don't exist in Ruby (2022)",
-      "href": "https://thoughtbot.com/blog/what-is-a-boolean",
+      "title": "headson: head/tail for structured data - summarize/preview JSON/YAML and source code",
+      "href": "https://github.com/kantord/headson",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 12
+    },
+    {
+      "title": "Making the Most of Bit Arrays",
+      "href": "https://gearsco.de/blog/bit-array-syntax/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 13
     },
     {
       "title": "Remote code execution via ND6 Router Advertisements",
       "href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Partial inlining",
-      "href": "https://xania.org/202512/18-partial-inlining",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 14
     },
     {
@@ -107,22 +107,22 @@
       "index": 15
     },
     {
-      "title": "Making the Most of Bit Arrays",
-      "href": "https://gearsco.de/blog/bit-array-syntax/",
+      "title": "Partial inlining",
+      "href": "https://xania.org/202512/18-partial-inlining",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 16
     },
     {
-      "title": "LionsOS Design, Implementation and Performance",
-      "href": "https://arxiv.org/html/2501.06234v2",
+      "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
+      "href": "https://ngrok.com/blog/prompt-caching/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
-      "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
-      "href": "https://ngrok.com/blog/prompt-caching/",
+      "title": "LionsOS Design, Implementation and Performance",
+      "href": "https://arxiv.org/html/2501.06234v2",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 18
@@ -138,7 +138,7 @@
       "title": "Yep, Passkeys Still Have Problems",
       "href": "https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/",
       "points": "",
-      "comments": "\n              130 comments\n            ",
+      "comments": "\n              132 comments\n            ",
       "index": 20
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Reinventing the dial-up modem (2019)",
-      "href": "https://saket.me/dtmf-tones/",
+      "title": "pg_textsearch: PostgreSQL extension for BM25 relevance-ranked full-text search",
+      "href": "https://github.com/timescale/pg_textsearch",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
