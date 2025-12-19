@@ -1,11 +1,11 @@
 {
-  "date": "Thursday, December 18, 2025 at 6:20 PM GMT-5",
+  "date": "Thursday, December 18, 2025 at 8:45 PM GMT-5",
   "articles": [
     {
       "title": "Your job is to deliver code you have proven to work",
       "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 1
     },
     {
@@ -26,42 +26,42 @@
       "title": "Hardware-Attested Nix Builds",
       "href": "https://garnix.io/blog/attested-nix-builds/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 4
     },
     {
       "title": "I got hacked, my server started mining Monero this morning",
       "href": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 5
-    },
-    {
-      "title": "Microsoft quietly kills IntelliCode in favor of the paid Copilot",
-      "href": "https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 6
     },
     {
       "title": "how to hack discord, vercel and more with one easy trick",
       "href": "https://kibty.town/blog/mintlify/",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Please Just Try HTMX",
+      "href": "https://pleasejusttryhtmx.com/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
       "index": 7
+    },
+    {
+      "title": "Microsoft quietly kills IntelliCode in favor of the paid Copilot",
+      "href": "https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 8
     },
     {
       "title": "dogalog: Prolog-based livecoding music environment",
       "href": "https://github.com/danja/dogalog",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "Please Just Try HTMX",
-      "href": "https://pleasejusttryhtmx.com/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
       "index": 9
     },
     {
@@ -72,31 +72,31 @@
       "index": 10
     },
     {
-      "title": "Partial inlining",
-      "href": "https://xania.org/202512/18-partial-inlining",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 11
-    },
-    {
       "title": "OBS Studio Gets A New Renderer: How OBS Adopted Metal",
       "href": "https://obsproject.com/blog/obs-studio-gets-a-new-renderer",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 11
     },
     {
-      "title": "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
-      "href": "https://www.phoronix.com/news/First-Linux-Rust-CVE",
+      "title": "Partial inlining",
+      "href": "https://xania.org/202512/18-partial-inlining",
       "points": "",
-      "comments": "\n              20 comments\n            ",
-      "index": 13
+      "comments": "\n              2 comments\n            ",
+      "index": 12
     },
     {
       "title": "Making the Most of Bit Arrays",
       "href": "https://gearsco.de/blog/bit-array-syntax/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 13
+    },
+    {
+      "title": "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
+      "href": "https://www.phoronix.com/news/First-Linux-Rust-CVE",
+      "points": "",
+      "comments": "\n              20 comments\n            ",
       "index": 14
     },
     {
@@ -117,7 +117,7 @@
       "title": "Yep, Passkeys Still Have Problems",
       "href": "https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/",
       "points": "",
-      "comments": "\n              117 comments\n            ",
+      "comments": "\n              124 comments\n            ",
       "index": 17
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "Tuitar – A portable guitar training tool and DIY kit",
+      "href": "https://github.com/orhun/tuitar",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
       "title": "The original Mozilla \"Dinosaur\" logo artwork",
       "href": "https://www.jwz.org/blog/2025/12/the-original-mozilla-dinosaur-logo-artwork/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 20
+      "index": 21
+    },
+    {
+      "title": "LionsOS Design, Implementation and Performance",
+      "href": "https://arxiv.org/html/2501.06234v2",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
     },
     {
       "title": "Interactive Fluid Typography",
       "href": "https://electricmagicfactory.com/articles/interactive-fluid-typography/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Maintaining an open source software during Hacktoberfest",
       "href": "https://crocidb.com/post/maintaining-an-oss-during-hacktoberfest/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "secure local configuration in kakoune",
-      "href": "https://ficd.sh/blog/kak-secure-local-config/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Ringspace: A Proposal for the Human Web",
-      "href": "https://taggart-tech.com/ringspace/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 24
     },
     {
-      "title": "pg_textsearch: PostgreSQL extension for BM25 relevance-ranked full-text search",
-      "href": "https://github.com/timescale/pg_textsearch",
+      "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
+      "href": "https://ngrok.com/blog/prompt-caching/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
