@@ -1,5 +1,5 @@
 {
-  "date": "Friday, December 19, 2025 at 11:25 AM GMT-5",
+  "date": "Friday, December 19, 2025 at 12:20 PM GMT-5",
   "articles": [
     {
       "title": "Go ahead, self-host Postgres",
@@ -23,24 +23,24 @@
       "index": 3
     },
     {
+      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
+      "href": "https://obeli.sk/blog/when-scope-lies/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 4
+    },
+    {
       "title": "TOML 1.1.0 released",
       "href": "https://github.com/toml-lang/toml/releases/tag/1.1.0",
       "points": "",
       "comments": "\n              22 comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "how to hack discord, vercel and more with one easy trick",
       "href": "https://kibty.town/blog/mintlify/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
-      "href": "https://obeli.sk/blog/when-scope-lies/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 6
     },
     {
@@ -75,70 +75,70 @@
       "title": "Booleans don't exist in Ruby (2022)",
       "href": "https://thoughtbot.com/blog/what-is-a-boolean",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 11
-    },
-    {
-      "title": "Please Just Try HTMX",
-      "href": "https://pleasejusttryhtmx.com/",
-      "points": "",
-      "comments": "\n              34 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
-      "href": "https://ngrok.com/blog/prompt-caching/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "headson: head/tail for structured data - summarize/preview JSON/YAML and source code",
-      "href": "https://github.com/kantord/headson",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 14
     },
     {
       "title": "Building a Transparent Keyserver",
       "href": "https://words.filippo.io/keyserver-tlog/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "A love letter to Raycast",
+      "href": "https://rmoff.net/2025/12/18/a-love-letter-to-raycast/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Please Just Try HTMX",
+      "href": "https://pleasejusttryhtmx.com/",
+      "points": "",
+      "comments": "\n              38 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
+      "href": "https://ngrok.com/blog/prompt-caching/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 15
+    },
+    {
+      "title": "headson: head/tail for structured data - summarize/preview JSON/YAML and source code",
+      "href": "https://github.com/kantord/headson",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 16
     },
     {
       "title": "dogalog: Prolog-based livecoding music environment",
       "href": "https://github.com/danja/dogalog",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Reinventing the dial-up modem (2019)",
       "href": "https://saket.me/dtmf-tones/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "Finite-state transducers for substitution tilings",
+      "href": "https://arxiv.org/abs/2512.16595",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
     },
     {
       "title": "My first win building with agents",
       "href": "https://olano.dev/blog/agents2",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Making the Most of Bit Arrays",
-      "href": "https://gearsco.de/blog/bit-array-syntax/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Microsoft quietly kills IntelliCode in favor of the paid Copilot",
-      "href": "https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 20
     },
     {
@@ -149,29 +149,29 @@
       "index": 21
     },
     {
+      "title": "Making the Most of Bit Arrays",
+      "href": "https://gearsco.de/blog/bit-array-syntax/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Microsoft quietly kills IntelliCode in favor of the paid Copilot",
+      "href": "https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 23
+    },
+    {
       "title": "map::operator[] should be nodiscard",
       "href": "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/qebheg/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "A testing conundrum",
-      "href": "https://nedbatchelder.com/blog/202512/a_testing_conundrum.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Finite-state transducers for substitution tilings",
-      "href": "https://arxiv.org/abs/2512.16595",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
