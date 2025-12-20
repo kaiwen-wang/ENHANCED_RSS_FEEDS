@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, December 20, 2025 at 12:20 AM GMT-5",
+  "date": "Saturday, December 20, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "WireGuard® implementation written in Rust",
@@ -23,45 +23,45 @@
       "index": 3
     },
     {
-      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
-      "href": "https://obeli.sk/blog/when-scope-lies/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 4
-    },
-    {
       "title": "Rust’s Block Pattern",
       "href": "https://notgull.net/block-pattern/",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "What do people love about Rust?",
+      "href": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 5
+    },
+    {
+      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
+      "href": "https://obeli.sk/blog/when-scope-lies/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 6
     },
     {
       "title": "UNIX V4 tape from University of Utah",
       "href": "https://archive.org/details/utah_unix_v4_raw",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "What do people love about Rust?",
-      "href": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 7
-    },
-    {
-      "title": "Your job is to deliver code you have proven to work",
-      "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
-      "points": "",
-      "comments": "\n              37 comments\n            ",
-      "index": 8
     },
     {
       "title": "Help my website is too small",
       "href": "https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Your job is to deliver code you have proven to work",
+      "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
+      "points": "",
+      "comments": "\n              39 comments\n            ",
       "index": 9
     },
     {
@@ -75,7 +75,7 @@
       "title": "8-bit Boléro (the world’s most ambitious chiptune?)",
       "href": "https://linusakesson.net/music/bolero/index.php",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 11
     },
     {
@@ -103,7 +103,7 @@
       "title": "map::operator[] should be nodiscard",
       "href": "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 15
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "Pedagogy Recommendations",
+      "href": "https://parentheticallyspeaking.org/articles/pedagogy-recommendations/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Porting an HTML5 Parser to Swift",
+      "href": "https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Understanding Dart Class Modifiers by Using Lattices",
+      "href": "https://modulovalue.com/blog/understanding-dart-class-modifiers-lattices/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
       "title": "Booleans don't exist in Ruby (2022)",
       "href": "https://thoughtbot.com/blog/what-is-a-boolean",
       "points": "",
-      "comments": "\n              19 comments\n            ",
-      "index": 20
+      "comments": "\n              20 comments\n            ",
+      "index": 23
     },
     {
       "title": "Performance Hints",
       "href": "https://abseil.io/fast/hints.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "I got hacked, my server started mining Monero this morning",
       "href": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Exposing game servers over Tailscale",
-      "href": "https://chameth.com/exposing-game-servers-over-tailscale/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Dear ACM, you're doing AI wrong but you can still get it right",
-      "href": "https://anil.recoil.org/notes/acm-ai-recs",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Hardware-Attested Nix Builds",
-      "href": "https://garnix.io/blog/attested-nix-builds/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 25
     }
   ]
