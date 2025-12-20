@@ -1,53 +1,53 @@
 {
-  "date": "Saturday, December 20, 2025 at 11:25 AM GMT-5",
+  "date": "Saturday, December 20, 2025 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "Help my website is too small",
       "href": "https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 1
     },
     {
       "title": "Introducing CSS Grid Lanes",
       "href": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 2
     },
     {
       "title": "The Mysterious Forces Steering Views on Hacker News",
       "href": "https://マリウス.com/the-mysterious-forces-steering-views-on-hacker-news/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "WireGuard® implementation written in Rust",
-      "href": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
-      "points": "",
-      "comments": "\n              27 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "UNIX V4 tape from University of Utah",
-      "href": "https://archive.org/details/utah_unix_v4_raw",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 5
     },
     {
       "title": "Proving bounds for the Randomized MaxCut Approximation algorithm in Lean4",
       "href": "https://abhamra.com/blog/randomized-maxcut/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "WireGuard® implementation written in Rust",
+      "href": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+      "points": "",
+      "comments": "\n              28 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "UNIX V4 tape from University of Utah",
+      "href": "https://archive.org/details/utah_unix_v4_raw",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 6
     },
     {
       "title": "What do people love about Rust?",
       "href": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/",
       "points": "",
-      "comments": "\n              22 comments\n            ",
+      "comments": "\n              24 comments\n            ",
       "index": 7
     },
     {
@@ -58,120 +58,120 @@
       "index": 8
     },
     {
+      "title": "Hash tables in Go and advantage of self-hosted compilers",
+      "href": "https://rushter.com/blog/go-and-hashmaps/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 9
+    },
+    {
       "title": "Rust’s Block Pattern",
       "href": "https://notgull.net/block-pattern/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "A love letter to Raycast",
       "href": "https://rmoff.net/2025/12/18/a-love-letter-to-raycast/",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Hash tables in Go and advantage of self-hosted compilers",
-      "href": "https://rushter.com/blog/go-and-hashmaps/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 11
-    },
-    {
-      "title": "Business SLOs",
-      "href": "https://medium.com/@haagwee/business-slos-4992d7435ff9",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 12
     },
     {
       "title": "Pedagogy Recommendations",
       "href": "https://parentheticallyspeaking.org/articles/pedagogy-recommendations/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 13
+      "index": 12
     },
     {
       "title": "A Decade on Datomic - Davis Shepherd & Jonathan Indig (Netflix)",
       "href": "https://www.youtube.com/watch?v=gJ9UZlr6C6M",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
-      "href": "https://obeli.sk/blog/when-scope-lies/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 15
+      "index": 13
     },
     {
       "title": "Detecting goroutine leaks with synctest/pprof",
       "href": "https://antonz.org/detecting-goroutine-leaks/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 14
     },
     {
-      "title": "Your job is to deliver code you have proven to work",
-      "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
+      "title": "Updated LLM Benchmark (Gemini 3 Flash)",
+      "href": "https://entropicthoughts.com/updated-llm-benchmark",
       "points": "",
-      "comments": "\n              40 comments\n            ",
-      "index": 17
+      "comments": "\n              no comments\n            ",
+      "index": 15
     },
     {
       "title": "Porting an HTML5 Parser to Swift",
       "href": "https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
+      "title": "Business SLOs",
+      "href": "https://medium.com/@haagwee/business-slos-4992d7435ff9",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
+      "href": "https://obeli.sk/blog/when-scope-lies/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 18
+    },
+    {
+      "title": "Your job is to deliver code you have proven to work",
+      "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
+      "points": "",
+      "comments": "\n              40 comments\n            ",
+      "index": 19
     },
     {
       "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
       "href": "https://github.com/fastserial/lite3",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "8-bit Boléro (the world’s most ambitious chiptune?)",
       "href": "https://linusakesson.net/music/bolero/index.php",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "The scariest boot loader code",
       "href": "http://miod.online.fr/software/openbsd/stories/boot_hppa.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "map::operator[] should be nodiscard",
       "href": "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Targeting by Reference in the Shadow DOM",
-      "href": "https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 23
     },
     {
-      "title": "Building a Transparent Keyserver",
-      "href": "https://words.filippo.io/keyserver-tlog/",
+      "title": "Exposing game servers over Tailscale",
+      "href": "https://chameth.com/exposing-game-servers-over-tailscale/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Exposing game servers over Tailscale",
-      "href": "https://chameth.com/exposing-game-servers-over-tailscale/",
+      "title": "Targeting by Reference in the Shadow DOM",
+      "href": "https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
