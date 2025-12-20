@@ -1,25 +1,25 @@
 {
-  "date": "Friday, December 19, 2025 at 8:40 PM GMT-5",
+  "date": "Friday, December 19, 2025 at 10:15 PM GMT-5",
   "articles": [
-    {
-      "title": "Go ahead, self-host Postgres",
-      "href": "https://pierce.dev/notes/go-ahead-self-host-postgres",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 1
-    },
     {
       "title": "WireGuard® implementation written in Rust",
       "href": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
       "points": "",
       "comments": "\n              13 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "Go ahead, self-host Postgres",
+      "href": "https://pierce.dev/notes/go-ahead-self-host-postgres",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
       "index": 2
     },
     {
       "title": "A love letter to Raycast",
       "href": "https://rmoff.net/2025/12/18/a-love-letter-to-raycast/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 3
     },
     {
@@ -51,22 +51,22 @@
       "index": 7
     },
     {
-      "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
-      "href": "https://github.com/fastserial/lite3",
+      "title": "What do people love about Rust?",
+      "href": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "UNIX V4 tape from University of Utah",
+      "href": "https://archive.org/details/utah_unix_v4_raw",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 9
     },
     {
       "title": "Building a Transparent Keyserver",
       "href": "https://words.filippo.io/keyserver-tlog/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "What do people love about Rust?",
-      "href": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 10
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
+      "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
+      "href": "https://github.com/fastserial/lite3",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 12
+    },
+    {
       "title": "The scariest boot loader code",
       "href": "http://miod.online.fr/software/openbsd/stories/boot_hppa.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 12
-    },
-    {
-      "title": "LeaseGuard: Raft Leases Done Right",
-      "href": "https://emptysqua.re/blog/leaseguard-raft-leader-leases-done-right/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 13
     },
     {
@@ -100,17 +100,17 @@
       "index": 14
     },
     {
+      "title": "LeaseGuard: Raft Leases Done Right",
+      "href": "https://emptysqua.re/blog/leaseguard-raft-leader-leases-done-right/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
       "title": "how to hack discord, vercel and more with one easy trick",
       "href": "https://kibty.town/blog/mintlify/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "UNIX V4 tape from University of Utah",
-      "href": "https://archive.org/details/utah_unix_v4_raw",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 16
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "Introducing CSS Grid Lanes",
+      "href": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
       "title": "What are you doing this weekend?",
       "href": "/s/qebheg/what_are_you_doing_this_weekend",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "I got hacked, my server started mining Monero this morning",
       "href": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
       "points": "",
-      "comments": "\n              20 comments\n            ",
-      "index": 19
+      "comments": "\n              21 comments\n            ",
+      "index": 20
     },
     {
       "title": "Booleans don't exist in Ruby (2022)",
       "href": "https://thoughtbot.com/blog/what-is-a-boolean",
       "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 20
+      "comments": "\n              19 comments\n            ",
+      "index": 21
     },
     {
       "title": "Exposing game servers over Tailscale",
       "href": "https://chameth.com/exposing-game-servers-over-tailscale/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Dear ACM, you're doing AI wrong but you can still get it right",
       "href": "https://anil.recoil.org/notes/acm-ai-recs",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Hardware-Attested Nix Builds",
-      "href": "https://garnix.io/blog/attested-nix-builds/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 23
     },
     {
-      "title": "Prompt caching: 10x cheaper LLM tokens, but how?",
-      "href": "https://ngrok.com/blog/prompt-caching/",
+      "title": "Performance Hints",
+      "href": "https://abseil.io/fast/hints.html",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Pi 5 NAS With Custom Carbon Fibre Panels, Made on the Makera Z1",
-      "href": "https://www.the-diy-life.com/pi-5-nas-with-custom-carbon-fibre-panels-made-on-the-makera-z1/",
+      "title": "Pedagogy Recommendations",
+      "href": "https://parentheticallyspeaking.org/articles/pedagogy-recommendations/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
