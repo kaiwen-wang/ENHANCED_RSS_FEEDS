@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, December 20, 2025 at 9:20 AM GMT-5",
+  "date": "Saturday, December 20, 2025 at 10:20 AM GMT-5",
   "articles": [
     {
-      "title": "WireGuard® implementation written in Rust",
-      "href": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+      "title": "Help my website is too small",
+      "href": "https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 1
     },
     {
@@ -16,31 +16,31 @@
       "index": 2
     },
     {
+      "title": "WireGuard® implementation written in Rust",
+      "href": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+      "points": "",
+      "comments": "\n              25 comments\n            ",
+      "index": 3
+    },
+    {
       "title": "UNIX V4 tape from University of Utah",
       "href": "https://archive.org/details/utah_unix_v4_raw",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Go ahead, self-host Postgres",
       "href": "https://pierce.dev/notes/go-ahead-self-host-postgres",
       "points": "",
-      "comments": "\n              34 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "What do people love about Rust?",
-      "href": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              35 comments\n            ",
       "index": 5
     },
     {
-      "title": "Rust’s Block Pattern",
-      "href": "https://notgull.net/block-pattern/",
+      "title": "The Mysterious Forces Steering Views on Hacker News",
+      "href": "https://マリウス.com/the-mysterious-forces-steering-views-on-hacker-news/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 6
     },
     {
@@ -51,73 +51,73 @@
       "index": 7
     },
     {
+      "title": "What do people love about Rust?",
+      "href": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/",
+      "points": "",
+      "comments": "\n              21 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Rust’s Block Pattern",
+      "href": "https://notgull.net/block-pattern/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 9
+    },
+    {
       "title": "Business SLOs",
       "href": "https://medium.com/@haagwee/business-slos-4992d7435ff9",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 8
+      "index": 10
     },
     {
       "title": "A love letter to Raycast",
       "href": "https://rmoff.net/2025/12/18/a-love-letter-to-raycast/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Help my website is too small",
-      "href": "https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
-      "href": "https://obeli.sk/blog/when-scope-lies/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
       "index": 11
     },
     {
       "title": "Pedagogy Recommendations",
       "href": "https://parentheticallyspeaking.org/articles/pedagogy-recommendations/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 12
     },
     {
-      "title": "Porting an HTML5 Parser to Swift",
-      "href": "https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift",
+      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
+      "href": "https://obeli.sk/blog/when-scope-lies/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 13
-    },
-    {
-      "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
-      "href": "https://github.com/fastserial/lite3",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Your job is to deliver code you have proven to work",
-      "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
-      "points": "",
-      "comments": "\n              39 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "The Mysterious Forces Steering Views on Hacker News",
-      "href": "https://マリウス.com/the-mysterious-forces-steering-views-on-hacker-news/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 16
     },
     {
       "title": "A Decade on Datomic - Davis Shepherd & Jonathan Indig (Netflix)",
       "href": "https://www.youtube.com/watch?v=gJ9UZlr6C6M",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Porting an HTML5 Parser to Swift",
+      "href": "https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
+      "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
+      "href": "https://github.com/fastserial/lite3",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Your job is to deliver code you have proven to work",
+      "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
+      "points": "",
+      "comments": "\n              39 comments\n            ",
       "index": 17
     },
     {
@@ -142,17 +142,17 @@
       "index": 20
     },
     {
-      "title": "Building a Transparent Keyserver",
-      "href": "https://words.filippo.io/keyserver-tlog/",
+      "title": "Targeting by Reference in the Shadow DOM",
+      "href": "https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
-      "title": "Understanding Dart Class Modifiers by Using Lattices",
-      "href": "https://modulovalue.com/blog/understanding-dart-class-modifiers-lattices/",
+      "title": "Hash tables in Go and advantage of self-hosted compilers",
+      "href": "https://rushter.com/blog/go-and-hashmaps/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "UnifyBio: Power Tools for Translational Data Science - Benjamin Kamphaus",
-      "href": "https://www.youtube.com/watch?v=HU-uwSUZETw",
+      "title": "Building a Transparent Keyserver",
+      "href": "https://words.filippo.io/keyserver-tlog/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "LeaseGuard: Raft Leases Done Right",
-      "href": "https://emptysqua.re/blog/leaseguard-raft-leader-leases-done-right/",
+      "title": "Understanding Dart Class Modifiers by Using Lattices",
+      "href": "https://modulovalue.com/blog/understanding-dart-class-modifiers-lattices/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 25
     }
   ]
