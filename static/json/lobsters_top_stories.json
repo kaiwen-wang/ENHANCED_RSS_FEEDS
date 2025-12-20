@@ -1,53 +1,53 @@
 {
-  "date": "Saturday, December 20, 2025 at 6:15 AM GMT-5",
+  "date": "Saturday, December 20, 2025 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "WireGuard® implementation written in Rust",
       "href": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "Go ahead, self-host Postgres",
-      "href": "https://pierce.dev/notes/go-ahead-self-host-postgres",
-      "points": "",
-      "comments": "\n              32 comments\n            ",
-      "index": 2
     },
     {
       "title": "UNIX V4 tape from University of Utah",
       "href": "https://archive.org/details/utah_unix_v4_raw",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "Go ahead, self-host Postgres",
+      "href": "https://pierce.dev/notes/go-ahead-self-host-postgres",
+      "points": "",
+      "comments": "\n              34 comments\n            ",
       "index": 3
     },
     {
       "title": "Introducing CSS Grid Lanes",
       "href": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 4
-    },
-    {
-      "title": "Rust’s Block Pattern",
-      "href": "https://notgull.net/block-pattern/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 5
     },
     {
       "title": "What do people love about Rust?",
       "href": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/",
       "points": "",
       "comments": "\n              11 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Rust’s Block Pattern",
+      "href": "https://notgull.net/block-pattern/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 6
     },
     {
       "title": "A love letter to Raycast",
       "href": "https://rmoff.net/2025/12/18/a-love-letter-to-raycast/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 7
     },
     {
@@ -72,17 +72,17 @@
       "index": 10
     },
     {
+      "title": "Porting an HTML5 Parser to Swift",
+      "href": "https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 11
+    },
+    {
       "title": "Your job is to deliver code you have proven to work",
       "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
       "points": "",
       "comments": "\n              39 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
-      "href": "https://github.com/fastserial/lite3",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 12
     },
     {
@@ -93,17 +93,17 @@
       "index": 13
     },
     {
-      "title": "Porting an HTML5 Parser to Swift",
-      "href": "https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift",
+      "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
+      "href": "https://github.com/fastserial/lite3",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 14
     },
     {
-      "title": "8-bit Boléro (the world’s most ambitious chiptune?)",
-      "href": "https://linusakesson.net/music/bolero/index.php",
+      "title": "A Decade on Datomic - Davis Shepherd & Jonathan Indig (Netflix)",
+      "href": "https://www.youtube.com/watch?v=gJ9UZlr6C6M",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 15
     },
     {
@@ -114,17 +114,17 @@
       "index": 16
     },
     {
-      "title": "A Decade on Datomic - Davis Shepherd & Jonathan Indig (Netflix)",
-      "href": "https://www.youtube.com/watch?v=gJ9UZlr6C6M",
+      "title": "8-bit Boléro (the world’s most ambitious chiptune?)",
+      "href": "https://linusakesson.net/music/bolero/index.php",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 17
     },
     {
-      "title": "Understanding Dart Class Modifiers by Using Lattices",
-      "href": "https://modulovalue.com/blog/understanding-dart-class-modifiers-lattices/",
+      "title": "map::operator[] should be nodiscard",
+      "href": "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
-      "title": "map::operator[] should be nodiscard",
-      "href": "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/",
+      "title": "Understanding Dart Class Modifiers by Using Lattices",
+      "href": "https://modulovalue.com/blog/understanding-dart-class-modifiers-lattices/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 20
+    },
+    {
+      "title": "UnifyBio: Power Tools for Translational Data Science - Benjamin Kamphaus",
+      "href": "https://www.youtube.com/watch?v=HU-uwSUZETw",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
     },
     {
       "title": "LeaseGuard: Raft Leases Done Right",
       "href": "https://emptysqua.re/blog/leaseguard-raft-leader-leases-done-right/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "how to hack discord, vercel and more with one easy trick",
-      "href": "https://kibty.town/blog/mintlify/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
       "index": 22
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/qebheg/what_are_you_doing_this_weekend",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 23
     },
     {
       "title": "Exposing game servers over Tailscale",
       "href": "https://chameth.com/exposing-game-servers-over-tailscale/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "how to hack discord, vercel and more with one easy trick",
+      "href": "https://kibty.town/blog/mintlify/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 24
     },
     {
-      "title": "TOML 1.1.0 released",
-      "href": "https://github.com/toml-lang/toml/releases/tag/1.1.0",
+      "title": "What are you doing this weekend?",
+      "href": "/s/qebheg/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              22 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 25
     }
   ]
