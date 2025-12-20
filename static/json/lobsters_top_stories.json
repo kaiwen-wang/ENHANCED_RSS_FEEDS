@@ -1,18 +1,18 @@
 {
-  "date": "Friday, December 19, 2025 at 10:15 PM GMT-5",
+  "date": "Friday, December 19, 2025 at 11:25 PM GMT-5",
   "articles": [
     {
       "title": "WireGuard® implementation written in Rust",
       "href": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 1
     },
     {
       "title": "Go ahead, self-host Postgres",
       "href": "https://pierce.dev/notes/go-ahead-self-host-postgres",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 2
     },
     {
@@ -23,66 +23,66 @@
       "index": 3
     },
     {
-      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
-      "href": "https://obeli.sk/blog/when-scope-lies/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 4
-    },
-    {
       "title": "Rust’s Block Pattern",
       "href": "https://notgull.net/block-pattern/",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
+      "href": "https://obeli.sk/blog/when-scope-lies/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 5
-    },
-    {
-      "title": "Your job is to deliver code you have proven to work",
-      "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
-      "points": "",
-      "comments": "\n              38 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Help my website is too small",
-      "href": "https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 7
     },
     {
       "title": "What do people love about Rust?",
       "href": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 8
+      "comments": "\n              5 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Your job is to deliver code you have proven to work",
+      "href": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
+      "points": "",
+      "comments": "\n              37 comments\n            ",
+      "index": 7
     },
     {
       "title": "UNIX V4 tape from University of Utah",
       "href": "https://archive.org/details/utah_unix_v4_raw",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Help my website is too small",
+      "href": "https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 9
-    },
-    {
-      "title": "Building a Transparent Keyserver",
-      "href": "https://words.filippo.io/keyserver-tlog/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "8-bit Boléro (the world’s most ambitious chiptune?)",
-      "href": "https://linusakesson.net/music/bolero/index.php",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 11
     },
     {
       "title": "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
       "href": "https://github.com/fastserial/lite3",
       "points": "",
       "comments": "\n              6 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "8-bit Boléro (the world’s most ambitious chiptune?)",
+      "href": "https://linusakesson.net/music/bolero/index.php",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Building a Transparent Keyserver",
+      "href": "https://words.filippo.io/keyserver-tlog/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 12
     },
     {
@@ -93,45 +93,45 @@
       "index": 13
     },
     {
+      "title": "Introducing CSS Grid Lanes",
+      "href": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
       "title": "map::operator[] should be nodiscard",
       "href": "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "LeaseGuard: Raft Leases Done Right",
       "href": "https://emptysqua.re/blog/leaseguard-raft-leader-leases-done-right/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "how to hack discord, vercel and more with one easy trick",
       "href": "https://kibty.town/blog/mintlify/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "TOML 1.1.0 released",
-      "href": "https://github.com/toml-lang/toml/releases/tag/1.1.0",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
       "index": 17
-    },
-    {
-      "title": "Introducing CSS Grid Lanes",
-      "href": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 18
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/qebheg/what_are_you_doing_this_weekend",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "TOML 1.1.0 released",
+      "href": "https://github.com/toml-lang/toml/releases/tag/1.1.0",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
       "index": 19
     },
     {
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "Pedagogy Recommendations",
-      "href": "https://parentheticallyspeaking.org/articles/pedagogy-recommendations/",
+      "title": "Hardware-Attested Nix Builds",
+      "href": "https://garnix.io/blog/attested-nix-builds/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 25
     }
   ]
