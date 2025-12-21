@@ -1,25 +1,25 @@
 {
-  "date": "Saturday, December 20, 2025 at 8:50 PM GMT-5",
+  "date": "Saturday, December 20, 2025 at 10:40 PM GMT-5",
   "articles": [
     {
       "title": "Ruby's website got an overhaul",
       "href": "https://www.ruby-lang.org/en/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 1
     },
     {
       "title": "Backing up Spotify",
       "href": "https://annas-archive.li/blog/backing-up-spotify.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 2
     },
     {
       "title": "The Mysterious Forces Steering Views on Hacker News",
       "href": "https://マリウス.com/the-mysterious-forces-steering-views-on-hacker-news/",
       "points": "",
-      "comments": "\n              38 comments\n            ",
+      "comments": "\n              41 comments\n            ",
       "index": 3
     },
     {
@@ -33,28 +33,28 @@
       "title": "Introducing CSS Grid Lanes",
       "href": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 5
     },
     {
       "title": "Help my website is too small",
       "href": "https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "Proving bounds for the Randomized MaxCut Approximation algorithm in Lean4",
-      "href": "https://abhamra.com/blog/randomized-maxcut/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 7
     },
     {
       "title": "Go feature: Modernized go fix",
       "href": "https://antonz.org/accepted/modernized-go-fix/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 7
+    },
+    {
+      "title": "Proving bounds for the Randomized MaxCut Approximation algorithm in Lean4",
+      "href": "https://abhamra.com/blog/randomized-maxcut/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 8
     },
     {
@@ -82,7 +82,7 @@
       "title": "What do people love about Rust?",
       "href": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/",
       "points": "",
-      "comments": "\n              37 comments\n            ",
+      "comments": "\n              38 comments\n            ",
       "index": 12
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "Go ahead, self-host Postgres",
-      "href": "https://pierce.dev/notes/go-ahead-self-host-postgres",
+      "title": "Detecting goroutine leaks with synctest/pprof",
+      "href": "https://antonz.org/detecting-goroutine-leaks/",
       "points": "",
-      "comments": "\n              36 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
+      "title": "Go ahead, self-host Postgres",
+      "href": "https://pierce.dev/notes/go-ahead-self-host-postgres",
+      "points": "",
+      "comments": "\n              36 comments\n            ",
+      "index": 17
+    },
+    {
       "title": "A love letter to Raycast",
       "href": "https://rmoff.net/2025/12/18/a-love-letter-to-raycast/",
       "points": "",
       "comments": "\n              16 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
-      "title": "Detecting goroutine leaks with synctest/pprof",
-      "href": "https://antonz.org/detecting-goroutine-leaks/",
+      "title": "romforth: Ultra Portable, Small, Baremetal Forth for various processors",
+      "href": "https://github.com/romforth/romforth",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 19
+    },
+    {
+      "title": "Faster practical modular inversion",
+      "href": "https://purplesyringa.moe/blog/faster-practical-modular-inversion/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
     },
     {
       "title": "Automated Equality Checks in C++ with Reflection (C++26)",
       "href": "https://lemire.me/blog/2025/11/09/automated-equality-checks-in-c-with-reflection-c26/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Bedrock (2012)",
       "href": "https://infrequently.org/2012/04/bedrock/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 22
+    },
+    {
+      "title": "How capacity hints work in Go",
+      "href": "https://www.grobinson.net/2023/09/30/how-capacity-hints-work-in-go/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "Porting an HTML5 Parser to Swift",
       "href": "https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "A Decade on Datomic - Davis Shepherd & Jonathan Indig (Netflix)",
       "href": "https://www.youtube.com/watch?v=gJ9UZlr6C6M",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "Updated LLM Benchmark (Gemini 3 Flash)",
-      "href": "https://entropicthoughts.com/updated-llm-benchmark",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Business SLOs",
-      "href": "https://medium.com/@haagwee/business-slos-4992d7435ff9",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
-      "href": "https://obeli.sk/blog/when-scope-lies/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
       "index": 25
     }
   ]
