@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, December 21, 2025 at 1:30 AM GMT-5",
+  "date": "Sunday, December 21, 2025 at 2:20 AM GMT-5",
   "articles": [
-    {
-      "title": "Ruby's website got an overhaul",
-      "href": "https://www.ruby-lang.org/en/",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 1
-    },
     {
       "title": "Backing up Spotify",
       "href": "https://annas-archive.li/blog/backing-up-spotify.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "Ruby's website got an overhaul",
+      "href": "https://www.ruby-lang.org/en/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
       "index": 2
     },
     {
@@ -44,17 +44,17 @@
       "index": 6
     },
     {
-      "title": "Introducing CSS Grid Lanes",
-      "href": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 7
-    },
-    {
       "title": "Help my website is too small",
       "href": "https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/",
       "points": "",
       "comments": "\n              21 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "Introducing CSS Grid Lanes",
+      "href": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
       "index": 8
     },
     {
@@ -72,45 +72,45 @@
       "index": 10
     },
     {
-      "title": "romforth: Ultra Portable, Small, Baremetal Forth for various processors",
-      "href": "https://github.com/romforth/romforth",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 11
-    },
-    {
       "title": "I spent a week without IPv4 to understand IPv6 transition mechanisms",
       "href": "https://www.apalrd.net/posts/2023/network_ipv6/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "romforth: Ultra Portable, Small, Baremetal Forth for various processors",
+      "href": "https://github.com/romforth/romforth",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 12
+    },
+    {
+      "title": "Shooting myself in the foot with Git by accident",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 13
     },
     {
       "title": "UNIX V4 tape from University of Utah",
       "href": "https://archive.org/details/utah_unix_v4_raw",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "WireGuard® implementation written in Rust",
       "href": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
       "points": "",
       "comments": "\n              32 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "What do people love about Rust?",
       "href": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/",
       "points": "",
       "comments": "\n              40 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Automated Equality Checks in C++ with Reflection (C++26)",
-      "href": "https://lemire.me/blog/2025/11/09/automated-equality-checks-in-c-with-reflection-c26/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 16
     },
     {
@@ -121,15 +121,15 @@
       "index": 17
     },
     {
-      "title": "An introduction to property-based testing with QuickCheck (2020)",
-      "href": "https://jesper.sikanda.be/posts/quickcheck-intro.html",
+      "title": "Automated Equality Checks in C++ with Reflection (C++26)",
+      "href": "https://lemire.me/blog/2025/11/09/automated-equality-checks-in-c-with-reflection-c26/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
-      "title": "Shooting myself in the foot with Git by accident",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops",
+      "title": "An introduction to property-based testing with QuickCheck (2020)",
+      "href": "https://jesper.sikanda.be/posts/quickcheck-intro.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 19
