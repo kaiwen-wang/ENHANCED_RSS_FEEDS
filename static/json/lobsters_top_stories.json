@@ -1,5 +1,5 @@
 {
-  "date": "Monday, December 22, 2025 at 5:25 AM GMT-5",
+  "date": "Monday, December 22, 2025 at 6:20 AM GMT-5",
   "articles": [
     {
       "title": "Thirteen years of Rust and the birth of Rue",
@@ -19,14 +19,14 @@
       "title": "Debian’s git transition",
       "href": "https://diziet.dreamwidth.org/20436.html",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 3
     },
     {
       "title": "How I protect my forgejo instance from AI Web Crawlers",
       "href": "https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 4
     },
     {
@@ -40,28 +40,28 @@
       "title": "Inverse parentheses",
       "href": "https://kellett.im/a/inverse-parentheses",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "Logging Sucks - Your Logs Are Lying To You",
-      "href": "https://loggingsucks.com/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 7
     },
     {
       "title": "I Program on the Subway",
       "href": "https://www.scd31.com/posts/programming-on-the-subway",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              7 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "Logging Sucks - Your Logs Are Lying To You",
+      "href": "https://loggingsucks.com/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 8
     },
     {
       "title": "Installing Void Linux on ZFS with Hibernation Support",
       "href": "https://it-notes.dragas.net/2025/12/22/void-linux-zfs-hibernation-guide/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 9
     },
     {
@@ -96,7 +96,7 @@
       "title": "What are you doing this week?",
       "href": "/s/k9rvab/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "Build your own RSS daily digest using GitHub Actions/Pages in 5 minutes",
+      "href": "https://github.com/piqoni/go-digest",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
       "title": "ELF Crimes: Program Interpreter Fun",
       "href": "https://nytpu.com/gemlog/2025-12-21",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
+      "index": 17
     },
     {
-      "title": "Backing up Spotify",
-      "href": "https://annas-archive.li/blog/backing-up-spotify.html",
+      "title": "I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants",
+      "href": "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/",
       "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 17
+      "comments": "\n              no comments\n            ",
+      "index": 18
     },
     {
       "title": "Tinyfront",
       "href": "http://tinyfront.mooo.com/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Tag proposal: decentralization",
-      "href": "/s/s8kode/tag_proposal_decentralization",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
       "index": 19
-    },
-    {
-      "title": "The Inner-Platform Effect (2006)",
-      "href": "https://thedailywtf.com/articles/The_Inner-Platform_Effect",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 20
     },
     {
       "title": "typed-arrow: First-class compile‑time Arrow schemas for Rust",
       "href": "https://github.com/tonbo-io/typed-arrow",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Backing up Spotify",
+      "href": "https://annas-archive.li/blog/backing-up-spotify.html",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
       "index": 21
+    },
+    {
+      "title": "When SIMD Fails: Floating Point Associativity",
+      "href": "https://xania.org/202512/21-vectorising-floats",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Tag proposal: decentralization",
+      "href": "/s/s8kode/tag_proposal_decentralization",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "The Inner-Platform Effect (2006)",
+      "href": "https://thedailywtf.com/articles/The_Inner-Platform_Effect",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 24
     },
     {
       "title": "romforth: Ultra Portable, Small, Baremetal Forth for various processors",
       "href": "https://github.com/romforth/romforth",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "The Texas Instruments CC-40 invades Gopherspace (plus TI-74 BASICALC)",
-      "href": "http://oldvcr.blogspot.com/2025/12/the-texas-instruments-cc-40-invades.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Mnemonics for hidden controls in Win32",
-      "href": "https://www.abareplace.com/blog/hidden_mnemonics/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "polyproto: A refreshingly simple decentralised, federated protocol",
-      "href": "https://polyproto.org/",
-      "points": "",
-      "comments": "\n              25 comments\n            ",
       "index": 25
     }
   ]
