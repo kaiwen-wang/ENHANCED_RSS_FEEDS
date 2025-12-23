@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, December 23, 2025 at 4:20 PM GMT-5",
+  "date": "Tuesday, December 23, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "The lightest notes app implementation in 111 loc",
@@ -12,35 +12,35 @@
       "title": "mquickjs: Micro QuickJS Javascript Engine",
       "href": "https://github.com/bellard/mquickjs",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 2
+    },
+    {
+      "title": "The Linux kernel is just a program",
+      "href": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 3
     },
     {
       "title": "folder.zone: Share end-to-end encrypted folders live",
       "href": "https://folder.zone",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Lua 5.5 Released",
       "href": "https://www.lua.org/manual/5.5/readme.html#changes",
       "points": "",
       "comments": "\n              40 comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Are we Loong yet?",
       "href": "https://areweloongyet.com/en/",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "The Linux kernel is just a program",
-      "href": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 6
     },
     {
@@ -51,31 +51,31 @@
       "index": 7
     },
     {
-      "title": "I foretold that Mac app notarization is security theater",
-      "href": "https://lapcatsoftware.com/articles/2025/12/5.html",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 8
-    },
-    {
       "title": "dirlock",
       "href": "https://gitlab.steamos.cloud/holo/dirlock",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 9
+      "index": 8
     },
     {
-      "title": "Instant database clones with PostgreSQL 18",
-      "href": "https://boringsql.com/posts/instant-database-clones/",
+      "title": "I foretold that Mac app notarization is security theater",
+      "href": "https://lapcatsoftware.com/articles/2025/12/5.html",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 10
+      "comments": "\n              23 comments\n            ",
+      "index": 9
     },
     {
       "title": "The wonder of MSBuild",
       "href": "https://mmagueta.capivaras.dev/blog/the-wonder-of-msbuild/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 10
+    },
+    {
+      "title": "Instant database clones with PostgreSQL 18",
+      "href": "https://boringsql.com/posts/instant-database-clones/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 11
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
+      "title": "sqlite-wasm-http: An experimental HTTP VFS driver for SQLite WASM",
+      "href": "https://github.com/mmomtchev/sqlite-wasm-http",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
       "title": "I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants",
       "href": "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/",
       "points": "",
       "comments": "\n              122 comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "What's \"new\" in Miri (and also, there's a Miri paper!)",
       "href": "https://www.ralfj.de/blog/2025/12/22/miri.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "FreeBSD Closes the Laptop Gap: Year One Project Update",
+      "href": "https://freebsdfoundation.org/blog/freebsd-closes-the-laptop-gap-year-one-project-update/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
     },
     {
       "title": "NPM Package With 56K Downloads Caught Stealing WhatsApp Messages",
       "href": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
       "title": "An initial analysis of the discovered Unix V4 tape",
       "href": "https://www.spinellis.gr/blog/20251223/?yc261223",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "sqlite-wasm-http: An experimental HTTP VFS driver for SQLite WASM",
-      "href": "https://github.com/mmomtchev/sqlite-wasm-http",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "FreeBSD Closes the Laptop Gap: Year One Project Update",
-      "href": "https://freebsdfoundation.org/blog/freebsd-closes-the-laptop-gap-year-one-project-update/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 21
+    },
+    {
+      "title": "cpu: cpu command in Go, inspired by the Plan 9 cpu command",
+      "href": "https://github.com/u-root/cpu",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
     },
     {
       "title": "Email Simplicity vs Decentralized Chat",
       "href": "/s/3w65ir/email_simplicity_vs_decentralized_chat",
       "points": "",
       "comments": "\n              37 comments\n            ",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "Your favorite pieces of technical writing?",
+      "href": "/s/8ugoxw/your_favorite_pieces_technical_writing",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 24
     },
     {
       "title": "Introducing Open Forms",
       "href": "https://www.aryank.in/posts/2025-12-21-introducing-open-forms/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Why Quantum Cryptanalysis is Bollocks",
-      "href": "https://youtu.be/xa4Ok7WNFHY",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "LAVD: Meta’s New Default Scheduler",
-      "href": "https://lpc.events/event/19/contributions/2099/attachments/1875/4020/lpc-2025-lavd-meta.pdf",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
