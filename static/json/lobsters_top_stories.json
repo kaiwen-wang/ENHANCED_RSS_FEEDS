@@ -1,53 +1,53 @@
 {
-  "date": "Tuesday, December 23, 2025 at 7:45 AM GMT-5",
+  "date": "Tuesday, December 23, 2025 at 8:35 AM GMT-5",
   "articles": [
+    {
+      "title": "The lightest notes app implementation in 111 loc",
+      "href": "https://github.com/antonmedv/textarea",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 1
+    },
     {
       "title": "Lua 5.5 Released",
       "href": "https://www.lua.org/manual/5.5/readme.html#changes",
       "points": "",
       "comments": "\n              33 comments\n            ",
-      "index": 1
-    },
-    {
-      "title": "The lightest notes app implementation in 111 loc",
-      "href": "https://github.com/antonmedv/textarea",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 2
     },
     {
       "title": "I foretold that Mac app notarization is security theater",
       "href": "https://lapcatsoftware.com/articles/2025/12/5.html",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 3
     },
     {
       "title": "An uncomfortable but necessary discussion about the Debian bug tracker",
       "href": "https://nibblestew.blogspot.com/2025/12/an-uncomfortable-but-necessary.html",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 4
     },
     {
       "title": "I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants",
       "href": "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/",
       "points": "",
-      "comments": "\n              117 comments\n            ",
+      "comments": "\n              116 comments\n            ",
       "index": 5
-    },
-    {
-      "title": "Email Simplicity vs Decentralized Chat",
-      "href": "/s/3w65ir/email_simplicity_vs_decentralized_chat",
-      "points": "",
-      "comments": "\n              29 comments\n            ",
-      "index": 6
     },
     {
       "title": "What's \"new\" in Miri (and also, there's a Miri paper!)",
       "href": "https://www.ralfj.de/blog/2025/12/22/miri.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Email Simplicity vs Decentralized Chat",
+      "href": "/s/3w65ir/email_simplicity_vs_decentralized_chat",
+      "points": "",
+      "comments": "\n              31 comments\n            ",
       "index": 7
     },
     {
@@ -65,24 +65,24 @@
       "index": 9
     },
     {
-      "title": "Are we Loong yet?",
-      "href": "https://areweloongyet.com/en/",
+      "title": "Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)",
+      "href": "https://github.com/chase-lambert/vigil",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 10
     },
     {
-      "title": "Nature Programming Language",
-      "href": "https://nature-lang.org/",
+      "title": "Are we Loong yet?",
+      "href": "https://areweloongyet.com/en/",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 11
     },
     {
-      "title": "Thirteen years of Rust and the birth of Rue",
-      "href": "https://steveklabnik.com/writing/thirteen-years-of-rust-and-the-birth-of-rue/",
+      "title": "Introducing Open Forms",
+      "href": "https://www.aryank.in/posts/2025-12-21-introducing-open-forms/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 12
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
+      "title": "Nature Programming Language",
+      "href": "https://nature-lang.org/",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Web engine CI on a shoestring budget",
+      "href": "https://youtu.be/-W1mSXdlRqA",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
       "title": "Proposed Rust kernel extensions in place of eBPF",
       "href": "https://www.phoronix.com/news/Linux-Kernel-Rust-Rex",
       "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 14
+      "comments": "\n              17 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Thirteen years of Rust and the birth of Rue",
+      "href": "https://steveklabnik.com/writing/thirteen-years-of-rust-and-the-birth-of-rue/",
+      "points": "",
+      "comments": "\n              20 comments\n            ",
+      "index": 17
     },
     {
       "title": "From Zero to QED: An informal introduction to formality in Lean 4",
       "href": "https://sdiehl.github.io/zero-to-qed/01_introduction.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 18
     },
     {
       "title": "Debian’s git transition",
       "href": "https://diziet.dreamwidth.org/20436.html",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Introducing Open Forms",
-      "href": "https://www.aryank.in/posts/2025-12-21-introducing-open-forms/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Why Quantum Cryptanalysis is Bollocks",
       "href": "https://youtu.be/xa4Ok7WNFHY",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
       "title": "Installing Void Linux on ZFS with Hibernation Support",
       "href": "https://it-notes.dragas.net/2025/12/22/void-linux-zfs-hibernation-guide/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "I Program on the Subway",
       "href": "https://www.scd31.com/posts/programming-on-the-subway",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 20
+      "index": 22
     },
     {
       "title": "You Can't Opt-Out of Accessibility",
       "href": "https://vale.rocks/posts/accessibility-importance",
       "points": "",
       "comments": "\n              44 comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Logging Sucks - Your Logs Are Lying To You",
       "href": "https://loggingsucks.com/",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "This Meeting could have been an Email",
       "href": "https://substack.com/inbox/post/182399060",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
-    },
-    {
-      "title": "Feature discussion: replying to multiple comments in story",
-      "href": "/s/owheki/feature_discussion_replying_multiple",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "dumbphone journey -- eight month update",
-      "href": "https://blog.frog.equipment/dumbphone-journey-eight-month-update",
-      "points": "",
-      "comments": "\n              33 comments\n            ",
       "index": 25
     }
   ]
