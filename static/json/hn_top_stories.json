@@ -1,214 +1,214 @@
 {
-  "date": "Monday, December 22, 2025 at 8:45 PM GMT-5",
+  "date": "Monday, December 22, 2025 at 10:25 PM GMT-5",
   "articles": [
+    {
+      "title": "Snitch – a friendly netstat alternative for humans",
+      "href": "https://github.com/karol-broda/snitch",
+      "points": "27 points",
+      "comments": "8 comments",
+      "index": 1
+    },
     {
       "title": "The Illustrated Transformer",
       "href": "https://jalammar.github.io/illustrated-transformer/",
-      "points": "244 points",
-      "comments": "49 comments",
-      "index": 1
+      "points": "286 points",
+      "comments": "58 comments",
+      "index": 2
     },
     {
       "title": "It's Always TCP_NODELAY",
       "href": "https://brooker.co.za/blog/2024/05/09/nagle.html",
-      "points": "126 points",
-      "comments": "32 comments",
-      "index": 2
-    },
-    {
-      "title": "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
-      "href": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
-      "points": "166 points",
+      "points": "170 points",
       "comments": "43 comments",
       "index": 3
     },
     {
       "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
       "href": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
-      "points": "355 points",
-      "comments": "330 comments",
+      "points": "434 points",
+      "comments": "362 comments",
       "index": 4
+    },
+    {
+      "title": "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
+      "href": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
+      "points": "186 points",
+      "comments": "50 comments",
+      "index": 5
     },
     {
       "title": "GLM-4.7: Advancing the Coding Capability",
       "href": "https://z.ai/blog/glm-4.7",
-      "points": "232 points",
-      "comments": "95 comments",
-      "index": 5
-    },
-    {
-      "title": "FPGAs Need a New Future",
-      "href": "https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/",
-      "points": "64 points",
-      "comments": "26 comments",
+      "points": "257 points",
+      "comments": "114 comments",
       "index": 6
-    },
-    {
-      "title": "The Garbage Collection Handbook",
-      "href": "https://gchandbook.org/index.html",
-      "points": "136 points",
-      "comments": "9 comments",
-      "index": 7
     },
     {
       "title": "Claude Code gets native LSP support",
       "href": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-      "points": "300 points",
-      "comments": "160 comments",
+      "points": "324 points",
+      "comments": "175 comments",
+      "index": 7
+    },
+    {
+      "title": "The Garbage Collection Handbook",
+      "href": "https://gchandbook.org/index.html",
+      "points": "156 points",
+      "comments": "11 comments",
       "index": 8
+    },
+    {
+      "title": "Laptop Isn't Ready for LLMs. That's About to Change",
+      "href": "https://spectrum.ieee.org/ai-models-locally",
+      "points": "11 points",
+      "comments": "7 comments",
+      "index": 9
     },
     {
       "title": "NIST was 5 μs off UTC after last week's power cut",
       "href": "https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut",
-      "points": "178 points",
-      "comments": "90 comments",
-      "index": 9
+      "points": "195 points",
+      "comments": "96 comments",
+      "index": 10
     },
     {
-      "title": "Show HN: C-compiler to compile TCC for live-bootstrap",
-      "href": "https://github.com/FransFaase/MES-replacement",
-      "points": "20 points",
-      "comments": "3 comments",
-      "index": 10
+      "title": "Our New Sam Audio Model Transforms Audio Editing",
+      "href": "https://about.fb.com/news/2025/12/our-new-sam-audio-model-transforms-audio-editing/",
+      "points": "29 points",
+      "comments": "5 comments",
+      "index": 11
     },
     {
       "title": "Scaling LLMs to Larger Codebases",
       "href": "https://blog.kierangill.xyz/oversight-and-guidance",
-      "points": "206 points",
-      "comments": "85 comments",
-      "index": 11
-    },
-    {
-      "title": "Cecot – 60 Minutes",
-      "href": "https://archive.org/details/insidececot",
-      "points": "121 points",
-      "comments": "15 comments",
+      "points": "216 points",
+      "comments": "87 comments",
       "index": 12
     },
     {
-      "title": "Lotusbail npm package found to be harvesting WhatsApp messages and contacts",
-      "href": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
-      "points": "204 points",
-      "comments": "133 comments",
+      "title": "Show HN: C-compiler to compile TCC for live-bootstrap",
+      "href": "https://github.com/FransFaase/MES-replacement",
+      "points": "28 points",
+      "comments": "6 comments",
       "index": 13
     },
     {
       "title": "Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)",
       "href": "https://arxiv.org/abs/2512.14693",
-      "points": "61 points",
-      "comments": "6 comments",
+      "points": "67 points",
+      "comments": "7 comments",
       "index": 14
+    },
+    {
+      "title": "FPGAs Need a New Future",
+      "href": "https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/",
+      "points": "87 points",
+      "comments": "64 comments",
+      "index": 15
     },
     {
       "title": "How the RESISTORS put computing into 1960s counter-culture",
       "href": "https://spectrum.ieee.org/teenage-hackers",
-      "points": "30 points",
-      "comments": "5 comments",
-      "index": 15
+      "points": "43 points",
+      "comments": "6 comments",
+      "index": 16
+    },
+    {
+      "title": "Lotusbail npm package found to be harvesting WhatsApp messages and contacts",
+      "href": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
+      "points": "218 points",
+      "comments": "140 comments",
+      "index": 17
     },
     {
       "title": "Satellites reveal heat leaking from largest US cryptocurrency mining center",
       "href": "https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center",
-      "points": "35 points",
-      "comments": "23 comments",
-      "index": 16
-    },
-    {
-      "title": "Tc – Theodore Calvin's language-agnostic testing framework",
-      "href": "https://github.com/ahoward/tc",
-      "points": "13 points",
-      "comments": "4 comments",
-      "index": 17
+      "points": "67 points",
+      "comments": "52 comments",
+      "index": 18
     },
     {
       "title": "The biggest CRT ever made: Sony's PVM-4300",
       "href": "https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/",
-      "points": "219 points",
-      "comments": "140 comments",
-      "index": 18
-    },
-    {
-      "title": "Ask HN: How are most people converting HEIC to jpg?",
-      "href": "item?id=46326261",
-      "points": "9 points",
-      "comments": "29 comments",
+      "points": "225 points",
+      "comments": "145 comments",
       "index": 19
     },
     {
-      "title": "There Is No Future for Online Safety Without Privacy and Security",
-      "href": "https://itsfoss.com/news/alexander-linton-interview/",
-      "points": "40 points",
-      "comments": "18 comments",
+      "title": "Show HN: Python SDK – forecasting with foundation time-series and tabular models",
+      "href": "https://github.com/S-FM/faim-python-client",
+      "points": "3 points",
+      "comments": "discuss",
       "index": 20
     },
     {
-      "title": "US blocks all offshore wind construction, says reason is classified",
-      "href": "https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/",
-      "points": "442 points",
-      "comments": "366 comments",
+      "title": "NYC Spends $200 Million on Cell Service for School Chromebooks",
+      "href": "https://nysfocus.com/2025/12/22/eric-adams-school-chromebooks-contract",
+      "points": "20 points",
+      "comments": "30 comments",
       "index": 21
+    },
+    {
+      "title": "Things I learnt about passkeys when building passkeybot",
+      "href": "https://enzom.dev/b/passkeys/",
+      "points": "104 points",
+      "comments": "60 comments",
+      "index": 22
+    },
+    {
+      "title": "Tc – Theodore Calvin's language-agnostic testing framework",
+      "href": "https://github.com/ahoward/tc",
+      "points": "16 points",
+      "comments": "4 comments",
+      "index": 23
     },
     {
       "title": "Debian's Git Transition",
       "href": "https://diziet.dreamwidth.org/20436.html",
-      "points": "190 points",
-      "comments": "67 comments",
-      "index": 22
+      "points": "199 points",
+      "comments": "71 comments",
+      "index": 24
+    },
+    {
+      "title": "Hybrid Aerial Underwater Drone – Bachelor Project [video]",
+      "href": "https://www.youtube.com/watch?v=g7vmPFZrYAk",
+      "points": "41 points",
+      "comments": "23 comments",
+      "index": 25
     },
     {
       "title": "Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)",
       "href": "https://www.useparallel.com/uplane1/careers",
       "points": "",
       "comments": "hide",
-      "index": 23
-    },
-    {
-      "title": "The Rise of SQL:the second programming language everyone needs to know",
-      "href": "https://spectrum.ieee.org/the-rise-of-sql",
-      "points": "104 points",
-      "comments": "91 comments",
-      "index": 24
-    },
-    {
-      "title": "Hybrid Aerial Underwater Drone – Bachelor Project [video]",
-      "href": "https://www.youtube.com/watch?v=g7vmPFZrYAk",
-      "points": "35 points",
-      "comments": "20 comments",
-      "index": 25
-    },
-    {
-      "title": "Henge Finder",
-      "href": "https://hengefinder.rcdis.co/#learn",
-      "points": "49 points",
-      "comments": "10 comments",
       "index": 26
+    },
+    {
+      "title": "There Is No Future for Online Safety Without Privacy and Security",
+      "href": "https://itsfoss.com/news/alexander-linton-interview/",
+      "points": "59 points",
+      "comments": "34 comments",
+      "index": 27
     },
     {
       "title": "Programming languages used for music",
       "href": "https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes",
-      "points": "241 points",
+      "points": "247 points",
       "comments": "88 comments",
-      "index": 27
-    },
-    {
-      "title": "Jimmy Lai Is a Martyr for Freedom",
-      "href": "https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/",
-      "points": "297 points",
-      "comments": "150 comments",
       "index": 28
     },
     {
-      "title": "Things I learnt about passkeys when building passkeybot",
-      "href": "https://enzom.dev/b/passkeys/",
-      "points": "86 points",
-      "comments": "54 comments",
+      "title": "US blocks all offshore wind construction, says reason is classified",
+      "href": "https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/",
+      "points": "494 points",
+      "comments": "404 comments",
       "index": 29
     },
     {
-      "title": "The ancient monuments saluting the winter solstice",
-      "href": "https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice",
-      "points": "171 points",
-      "comments": "87 comments",
+      "title": "Diesel pollution particles impair lysosomal functions of iPSC-derived microglia",
+      "href": "https://www.sciencedirect.com/science/article/pii/S0160412025002181",
+      "points": "8 points",
+      "comments": "discuss",
       "index": 30
     }
   ]
