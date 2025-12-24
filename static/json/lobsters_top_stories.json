@@ -1,32 +1,32 @@
 {
-  "date": "Wednesday, December 24, 2025 at 9:20 AM GMT-5",
+  "date": "Wednesday, December 24, 2025 at 10:20 AM GMT-5",
   "articles": [
+    {
+      "title": "I'm returning my Framework 16",
+      "href": "https://yorickpeterse.com/articles/im-returning-my-framework-16/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 1
+    },
     {
       "title": "The Linux kernel is just a program",
       "href": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
-      "index": 1
+      "comments": "\n              18 comments\n            ",
+      "index": 2
     },
     {
       "title": "mquickjs: Micro QuickJS Javascript Engine",
       "href": "https://github.com/bellard/mquickjs",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 2
+      "index": 3
     },
     {
       "title": "The lightest notes app implementation in 111 loc",
       "href": "https://github.com/antonmedv/textarea",
       "points": "",
-      "comments": "\n              31 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Meta Is Using The Linux Scheduler Designed For Valve's Steam Deck On Its Servers",
-      "href": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              32 comments\n            ",
       "index": 4
     },
     {
@@ -37,38 +37,38 @@
       "index": 5
     },
     {
-      "title": "I'm returning my Framework 16",
-      "href": "https://yorickpeterse.com/articles/im-returning-my-framework-16/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 6
-    },
-    {
       "title": "folder.zone: Share end-to-end encrypted folders live",
       "href": "https://folder.zone",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 7
+      "index": 6
     },
     {
       "title": "cpu: cpu command in Go, inspired by the Plan 9 cpu command",
       "href": "https://github.com/u-root/cpu",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "Avoid mini-frameworks",
+      "href": "https://laike9m.com/blog/avoid-mini-frameworks,171/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 8
+    },
+    {
+      "title": "Implementation of optimized vector of strings in C++ in SumatraPDF",
+      "href": "https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 9
     },
     {
       "title": "Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)",
       "href": "https://github.com/chase-lambert/vigil",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Are we Loong yet?",
-      "href": "https://areweloongyet.com/en/",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
       "index": 10
     },
     {
@@ -86,85 +86,85 @@
       "index": 12
     },
     {
-      "title": "tygor: Type-safe backend for Go + TypeScript apps",
-      "href": "https://github.com/ahimsalabs/tygor",
+      "title": "Are we Loong yet?",
+      "href": "https://areweloongyet.com/en/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 13
-    },
-    {
-      "title": "An initial analysis of the discovered Unix V4 tape",
-      "href": "https://www.spinellis.gr/blog/20251223/?yc261223",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Implementation of optimized vector of strings in C++ in SumatraPDF",
-      "href": "https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Unix \"find\" expressions compiled to bytecode",
-      "href": "https://nullprogram.com/blog/2025/12/23/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Lua 5.5 Released",
-      "href": "https://www.lua.org/manual/5.5/readme.html#changes",
-      "points": "",
-      "comments": "\n              42 comments\n            ",
-      "index": 17
     },
     {
       "title": "FreeBSD: Installation on a ThinkPad X200 Tablet in 2025",
       "href": "https://rtfm.co.ua/en/freebsd-installation-on-a-thinkpad-x200-tablet-in-2025/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 14
+    },
+    {
+      "title": "tygor: Type-safe backend for Go + TypeScript apps",
+      "href": "https://github.com/ahimsalabs/tygor",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "An initial analysis of the discovered Unix V4 tape",
+      "href": "https://www.spinellis.gr/blog/20251223/?yc261223",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
     },
     {
       "title": "What the Internet Was Like in 2003",
       "href": "https://cybercultural.com/p/internet-2003/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Unix \"find\" expressions compiled to bytecode",
+      "href": "https://nullprogram.com/blog/2025/12/23/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Lua 5.5 Released",
+      "href": "https://www.lua.org/manual/5.5/readme.html#changes",
+      "points": "",
+      "comments": "\n              42 comments\n            ",
       "index": 19
-    },
-    {
-      "title": "dirlock",
-      "href": "https://gitlab.steamos.cloud/holo/dirlock",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Instant database clones with PostgreSQL 18",
-      "href": "https://boringsql.com/posts/instant-database-clones/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Reproducing the NixOS 25.11 Minimal Installation ISO",
-      "href": "https://arnout.engelen.eu/blog/reproducing-nixos-25.11-minimal-iso/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
     },
     {
       "title": "A Couple 3D AABB Tricks",
       "href": "https://gpfault.net/posts/aabb-tricks.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Just in time software",
+      "href": "https://commaok.xyz/ai/just-in-time-software/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "dirlock",
+      "href": "https://gitlab.steamos.cloud/holo/dirlock",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Instant database clones with PostgreSQL 18",
+      "href": "https://boringsql.com/posts/instant-database-clones/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 23
     },
     {
-      "title": "Avoid mini-frameworks",
-      "href": "https://laike9m.com/blog/avoid-mini-frameworks,171/",
+      "title": "Reproducing the NixOS 25.11 Minimal Installation ISO",
+      "href": "https://arnout.engelen.eu/blog/reproducing-nixos-25.11-minimal-iso/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 24
