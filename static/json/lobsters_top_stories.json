@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, December 23, 2025 at 6:20 PM GMT-5",
+  "date": "Tuesday, December 23, 2025 at 8:45 PM GMT-5",
   "articles": [
     {
       "title": "The lightest notes app implementation in 111 loc",
       "href": "https://github.com/antonmedv/textarea",
       "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              26 comments\n            ",
       "index": 1
     },
     {
@@ -19,35 +19,35 @@
       "title": "The Linux kernel is just a program",
       "href": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 3
     },
     {
       "title": "folder.zone: Share end-to-end encrypted folders live",
       "href": "https://folder.zone",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 4
-    },
-    {
-      "title": "Lua 5.5 Released",
-      "href": "https://www.lua.org/manual/5.5/readme.html#changes",
-      "points": "",
-      "comments": "\n              40 comments\n            ",
-      "index": 5
     },
     {
       "title": "Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)",
       "href": "https://github.com/chase-lambert/vigil",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Lua 5.5 Released",
+      "href": "https://www.lua.org/manual/5.5/readme.html#changes",
+      "points": "",
+      "comments": "\n              40 comments\n            ",
       "index": 6
     },
     {
       "title": "Are we Loong yet?",
       "href": "https://areweloongyet.com/en/",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 7
     },
     {
@@ -58,115 +58,115 @@
       "index": 8
     },
     {
+      "title": "Instant database clones with PostgreSQL 18",
+      "href": "https://boringsql.com/posts/instant-database-clones/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "They made me an offer I couldn't refuse (1997)",
+      "href": "http://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 10
+    },
+    {
       "title": "I foretold that Mac app notarization is security theater",
       "href": "https://lapcatsoftware.com/articles/2025/12/5.html",
       "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 9
+      "comments": "\n              24 comments\n            ",
+      "index": 11
     },
     {
       "title": "The wonder of MSBuild",
       "href": "https://mmagueta.capivaras.dev/blog/the-wonder-of-msbuild/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 10
-    },
-    {
-      "title": "Instant database clones with PostgreSQL 18",
-      "href": "https://boringsql.com/posts/instant-database-clones/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Reproducing the NixOS 25.11 Minimal Installation ISO",
-      "href": "https://arnout.engelen.eu/blog/reproducing-nixos-25.11-minimal-iso/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 12
     },
     {
       "title": "Unix \"find\" expressions compiled to bytecode",
       "href": "https://nullprogram.com/blog/2025/12/23/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 13
     },
     {
-      "title": "An uncomfortable but necessary discussion about the Debian bug tracker",
-      "href": "https://nibblestew.blogspot.com/2025/12/an-uncomfortable-but-necessary.html",
+      "title": "Reproducing the NixOS 25.11 Minimal Installation ISO",
+      "href": "https://arnout.engelen.eu/blog/reproducing-nixos-25.11-minimal-iso/",
       "points": "",
-      "comments": "\n              21 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 14
-    },
-    {
-      "title": "Schrödinger’s test: The /dev/mem case",
-      "href": "https://elisa.tech/ambassadors/2025/12/10/schrodingers-test-the-dev-mem-case/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "sqlite-wasm-http: An experimental HTTP VFS driver for SQLite WASM",
-      "href": "https://github.com/mmomtchev/sqlite-wasm-http",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants",
-      "href": "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/",
-      "points": "",
-      "comments": "\n              122 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "What's \"new\" in Miri (and also, there's a Miri paper!)",
-      "href": "https://www.ralfj.de/blog/2025/12/22/miri.html",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "FreeBSD Closes the Laptop Gap: Year One Project Update",
-      "href": "https://freebsdfoundation.org/blog/freebsd-closes-the-laptop-gap-year-one-project-update/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
-    },
-    {
-      "title": "NPM Package With 56K Downloads Caught Stealing WhatsApp Messages",
-      "href": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "An initial analysis of the discovered Unix V4 tape",
-      "href": "https://www.spinellis.gr/blog/20251223/?yc261223",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "They made me an offer I couldn't refuse (1997)",
-      "href": "http://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
-      "href": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 23
     },
     {
       "title": "cpu: cpu command in Go, inspired by the Plan 9 cpu command",
       "href": "https://github.com/u-root/cpu",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "An initial analysis of the discovered Unix V4 tape",
+      "href": "https://www.spinellis.gr/blog/20251223/?yc261223",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "An uncomfortable but necessary discussion about the Debian bug tracker",
+      "href": "https://nibblestew.blogspot.com/2025/12/an-uncomfortable-but-necessary.html",
+      "points": "",
+      "comments": "\n              21 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Schrödinger’s test: The /dev/mem case",
+      "href": "https://elisa.tech/ambassadors/2025/12/10/schrodingers-test-the-dev-mem-case/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "sqlite-wasm-http: An experimental HTTP VFS driver for SQLite WASM",
+      "href": "https://github.com/mmomtchev/sqlite-wasm-http",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
+    },
+    {
+      "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
+      "href": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
+      "title": "NPM Package With 56K Downloads Caught Stealing WhatsApp Messages",
+      "href": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "What's \"new\" in Miri (and also, there's a Miri paper!)",
+      "href": "https://www.ralfj.de/blog/2025/12/22/miri.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants",
+      "href": "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/",
+      "points": "",
+      "comments": "\n              122 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Your favorite pieces of technical writing?",
+      "href": "/s/8ugoxw/your_favorite_pieces_technical_writing",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 24
     },
     {
