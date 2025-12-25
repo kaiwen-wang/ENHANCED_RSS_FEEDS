@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, December 24, 2025 at 10:25 PM GMT-5",
+  "date": "Wednesday, December 24, 2025 at 11:35 PM GMT-5",
   "articles": [
     {
       "title": "I'm returning my Framework 16",
       "href": "https://yorickpeterse.com/articles/im-returning-my-framework-16/",
       "points": "",
-      "comments": "\n              45 comments\n            ",
+      "comments": "\n              46 comments\n            ",
       "index": 1
     },
     {
       "title": "How and why I moved from Apple Services to my own server",
       "href": "https://bastiangruber.ca/posts/mass-quitting-apple/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 2
     },
     {
@@ -26,28 +26,28 @@
       "title": "Package managers keep using git as a database, it never works out",
       "href": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 4
     },
     {
       "title": "Avoid mini-frameworks",
       "href": "https://laike9m.com/blog/avoid-mini-frameworks,171/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 5
+    },
+    {
+      "title": "Newtype Index Pattern In Zig",
+      "href": "https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 6
     },
     {
       "title": "cjanet",
       "href": "https://github.com/janet-lang/spork/blob/cjanet-jit/spork/cjanet.janet",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Wayback 0.3 Released",
-      "href": "https://wayback.freedesktop.org/news/2025/12/22/wayback-0.3-released/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 7
     },
     {
@@ -58,10 +58,10 @@
       "index": 8
     },
     {
-      "title": "Newtype Index Pattern In Zig",
-      "href": "https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html",
+      "title": "Wayback 0.3 Released",
+      "href": "https://wayback.freedesktop.org/news/2025/12/22/wayback-0.3-released/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 9
     },
     {
@@ -100,50 +100,50 @@
       "index": 14
     },
     {
+      "title": "phoenix - A modern X server written from scratch in Zig",
+      "href": "https://git.dec05eba.com/phoenix/about/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
       "title": "The 2025 Matrix Holiday Special",
       "href": "https://matrix.org/blog/2025/12/24/matrix-holiday-special/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Implementation of optimized vector of strings in C++ in SumatraPDF",
       "href": "https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "mquickjs: Micro QuickJS Javascript Engine",
       "href": "https://github.com/bellard/mquickjs",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Advent of Code 2025: Haskell Solution Reflections for all 12 Days",
       "href": "https://blog.jle.im/entry/advent-of-code-2025.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "The lightest notes app implementation in 111 loc",
       "href": "https://github.com/antonmedv/textarea",
       "points": "",
       "comments": "\n              36 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in mind",
       "href": "https://mirari.vitasys.nl/our-story/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "QEMU version 10.2.0 released",
-      "href": "https://www.qemu.org/2025/12/24/qemu-10-2-0/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 21
@@ -152,28 +152,28 @@
       "title": "They made me an offer I couldn't refuse (1997)",
       "href": "http://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 22
     },
     {
-      "title": "Nix State of the SBOM",
-      "href": "https://arnout.engelen.eu/blog/nix-state-of-the-sbom/",
+      "title": "QEMU version 10.2.0 released",
+      "href": "https://www.qemu.org/2025/12/24/qemu-10-2-0/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 23
     },
     {
-      "title": "folder.zone: Share end-to-end encrypted folders live",
-      "href": "https://folder.zone",
+      "title": "Load and store forwarding in the Toy Optimizer",
+      "href": "https://bernsteinbear.com/blog/toy-load-store/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Your favorite pieces of technical writing?",
-      "href": "/s/8ugoxw/your_favorite_pieces_technical_writing",
+      "title": "Using Vectorize to build a search engine in 160 loc",
+      "href": "https://blog.partykit.io/posts/using-vectorize-to-build-search/",
       "points": "",
-      "comments": "\n              28 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
