@@ -1,25 +1,25 @@
 {
-  "date": "Thursday, December 25, 2025 at 8:30 AM GMT-5",
+  "date": "Thursday, December 25, 2025 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Package managers keep using git as a database, it never works out",
       "href": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
       "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "I'm returning my Framework 16",
-      "href": "https://yorickpeterse.com/articles/im-returning-my-framework-16/",
-      "points": "",
-      "comments": "\n              58 comments\n            ",
-      "index": 2
     },
     {
       "title": "Gleam v1.14 - the happy holidays release 2025",
       "href": "https://gleam.run/news/the-happy-holidays-2025-release/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "I'm returning my Framework 16",
+      "href": "https://yorickpeterse.com/articles/im-returning-my-framework-16/",
+      "points": "",
+      "comments": "\n              58 comments\n            ",
       "index": 3
     },
     {
@@ -37,24 +37,24 @@
       "index": 5
     },
     {
-      "title": "Newtype Index Pattern In Zig",
-      "href": "https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 6
-    },
-    {
       "title": "Ruby 4.0.0 Released",
       "href": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 6
+    },
+    {
+      "title": "Newtype Index Pattern In Zig",
+      "href": "https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 7
     },
     {
       "title": "(My) Second Year of the Linux Desktop (For Gaming)",
       "href": "https://blog.matthewbrunelle.com/my-second-year-of-the-linux-desktop-for-gaming/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 8
     },
     {
@@ -72,92 +72,92 @@
       "index": 10
     },
     {
-      "title": "Avoid mini-frameworks",
-      "href": "https://laike9m.com/blog/avoid-mini-frameworks,171/",
-      "points": "",
-      "comments": "\n              24 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Wayback 0.3 Released",
-      "href": "https://wayback.freedesktop.org/news/2025/12/22/wayback-0.3-released/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 12
-    },
-    {
       "title": "How JPEG Screenshots Defeated Our Beautiful H.264 WebCodecs Pipeline",
       "href": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "cjanet",
-      "href": "https://github.com/janet-lang/spork/blob/cjanet-jit/spork/cjanet.janet",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
-      "href": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "\"AI\" is bad UX",
-      "href": "https://buttondown.com/apperceptive/archive/ai-is-bad-ux/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 16
+      "index": 11
     },
     {
       "title": "One formula that demystifies 3D graphics",
       "href": "https://www.youtube.com/watch?v=qjWkNZ0SXfo",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 12
     },
     {
-      "title": "Datafun - functional language that generalizes Datalog",
-      "href": "https://www.rntz.net/datafun/",
+      "title": "Avoid mini-frameworks",
+      "href": "https://laike9m.com/blog/avoid-mini-frameworks,171/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
+      "comments": "\n              24 comments\n            ",
+      "index": 13
     },
     {
       "title": "Load and store forwarding in the Toy Optimizer",
       "href": "https://bernsteinbear.com/blog/toy-load-store/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 14
+    },
+    {
+      "title": "cjanet",
+      "href": "https://github.com/janet-lang/spork/blob/cjanet-jit/spork/cjanet.janet",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Wayback 0.3 Released",
+      "href": "https://wayback.freedesktop.org/news/2025/12/22/wayback-0.3-released/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
+      "href": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "\"AI\" is bad UX",
+      "href": "https://buttondown.com/apperceptive/archive/ai-is-bad-ux/",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 18
     },
     {
       "title": "ZipPop: a space conserving unzipping script",
       "href": "https://github.com/th0ma5w/ZipPop",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "The 2025 Matrix Holiday Special",
+      "href": "https://matrix.org/blog/2025/12/24/matrix-holiday-special/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 20
+    },
+    {
+      "title": "Datafun - functional language that generalizes Datalog",
+      "href": "https://www.rntz.net/datafun/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
     },
     {
       "title": "Announcing rules_img: a faster path to container images in Bazel",
       "href": "https://tweag.io/blog/2025-12-18-rules_img/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Mathematically extra-complicated Secretest Santa 2025",
       "href": "https://youtube.com/watch?v=4pG8_bWpmaE",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "The 2025 Matrix Holiday Special",
-      "href": "https://matrix.org/blog/2025/12/24/matrix-holiday-special/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 23
@@ -170,10 +170,10 @@
       "index": 24
     },
     {
-      "title": "The Linux kernel is just a program",
-      "href": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
+      "title": "Microsoft Is Finally Killing RC4",
+      "href": "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
