@@ -1,25 +1,25 @@
 {
-  "date": "Friday, December 26, 2025 at 5:20 AM GMT-5",
+  "date": "Friday, December 26, 2025 at 6:20 AM GMT-5",
   "articles": [
+    {
+      "title": "Writing an NES emulator in Haskell",
+      "href": "https://arthi-chaud.github.io/posts/funes/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 1
+    },
     {
       "title": "The HTML Elements Time Forgot",
       "href": "https://htmhell.dev/adventcalendar/2025/22/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 1
+      "index": 2
     },
     {
       "title": "Package managers keep using git as a database, it never works out",
       "href": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
       "points": "",
       "comments": "\n              58 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "Writing an NES emulator in Haskell",
-      "href": "https://arthi-chaud.github.io/posts/funes/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 3
     },
     {
@@ -30,150 +30,150 @@
       "index": 4
     },
     {
-      "title": "Gleam v1.14 - the happy holidays release 2025",
-      "href": "https://gleam.run/news/the-happy-holidays-2025-release/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 5
-    },
-    {
       "title": "Are Two Heads Better Than One?",
       "href": "https://eieio.games/blog/two-heads-arent-better-than-one/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Gleam v1.14 - the happy holidays release 2025",
+      "href": "https://gleam.run/news/the-happy-holidays-2025-release/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 6
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/yswcyu/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 7
     },
     {
       "title": "ssh tiny.christmas",
       "href": "https://eieio.games/blog/tiny-christmas/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Sendspin: Music Experience Protocol",
-      "href": "https://www.sendspin-audio.com/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 8
-    },
-    {
-      "title": "Microsoft Is Finally Killing RC4",
-      "href": "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 9
     },
     {
       "title": "Ancient Greek geometry",
       "href": "https://sciencevsmagic.net/geo/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Beautiful reprs",
+      "href": "https://pomponchik.org/notes/beautiful-reprs/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 10
     },
     {
-      "title": "phoenix - A modern X server written from scratch in Zig",
-      "href": "https://git.dec05eba.com/phoenix/about/",
+      "title": "Sendspin: Music Experience Protocol",
+      "href": "https://www.sendspin-audio.com/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 11
     },
     {
-      "title": "Ruby 4.0.0 Released",
-      "href": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "What are you doing this weekend?",
-      "href": "/s/yswcyu/what_are_you_doing_this_weekend",
+      "title": "Microsoft Is Finally Killing RC4",
+      "href": "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 13
+      "index": 12
     },
     {
       "title": "Released KC3 v0.1.16",
       "href": "https://www.kmx.io/blog/released-kc3-v0.1.16",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
+      "index": 13
     },
     {
-      "title": "When a driver challenges the kernel's assumptions",
-      "href": "http://miod.online.fr/software/openbsd/stories/udl.html",
+      "title": "Ruby 4.0.0 Released",
+      "href": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
+      "comments": "\n              7 comments\n            ",
+      "index": 14
     },
     {
       "title": "doubly dual shuffles",
       "href": "https://dotat.at/@/2025-12-25-shuffle.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "phoenix - A modern X server written from scratch in Zig",
+      "href": "https://git.dec05eba.com/phoenix/about/",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 16
+    },
+    {
+      "title": "When a driver challenges the kernel's assumptions",
+      "href": "http://miod.online.fr/software/openbsd/stories/udl.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
     },
     {
       "title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
       "href": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "Toward a policy for machine-learning tools in kernel development",
+      "href": "https://lwn.net/Articles/1049830/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Rob Pike Goes Nuclear over GenAI",
+      "href": "https://imgur.com/nUJCI3o",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
     },
     {
       "title": "Newtype Index Pattern In Zig",
       "href": "https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 18
+      "index": 21
     },
     {
       "title": "I'm returning my Framework 16",
       "href": "https://yorickpeterse.com/articles/im-returning-my-framework-16/",
       "points": "",
-      "comments": "\n              63 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "How and why I moved from Apple Services to my own server",
-      "href": "https://bastiangruber.ca/posts/mass-quitting-apple/",
-      "points": "",
-      "comments": "\n              30 comments\n            ",
-      "index": 20
+      "comments": "\n              64 comments\n            ",
+      "index": 22
     },
     {
       "title": "(My) Second Year of the Linux Desktop (For Gaming)",
       "href": "https://blog.matthewbrunelle.com/my-second-year-of-the-linux-desktop-for-gaming/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 21
+      "index": 23
+    },
+    {
+      "title": "How and why I moved from Apple Services to my own server",
+      "href": "https://bastiangruber.ca/posts/mass-quitting-apple/",
+      "points": "",
+      "comments": "\n              30 comments\n            ",
+      "index": 24
     },
     {
       "title": "Self-referencing Page Tables for the x86-Architecture",
       "href": "https://0l.de/blog/2015/01/bachelor-thesis-abstract/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "One formula that demystifies 3D graphics",
-      "href": "https://www.youtube.com/watch?v=qjWkNZ0SXfo",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Microarchitecture: What Happens Beneath",
-      "href": "https://www.youtube.com/watch?v=BVVNtG5dgks",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Mathematically extra-complicated Secretest Santa 2025",
-      "href": "https://youtube.com/watch?v=4pG8_bWpmaE",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
