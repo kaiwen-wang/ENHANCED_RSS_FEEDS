@@ -1,5 +1,5 @@
 {
-  "date": "Friday, December 26, 2025 at 8:40 PM GMT-5",
+  "date": "Friday, December 26, 2025 at 10:25 PM GMT-5",
   "articles": [
     {
       "title": "TIL: serde's borrowing can be treacherous",
@@ -19,28 +19,28 @@
       "title": "Rob Pike Goes Nuclear over GenAI",
       "href": "https://imgur.com/nUJCI3o",
       "points": "",
-      "comments": "\n              102 comments\n            ",
+      "comments": "\n              103 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "Play the Monty Hall game",
-      "href": "https://monty.donk.systems",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 4
     },
     {
       "title": "Simplifying the build process for vst3-rs",
       "href": "https://micahrj.github.io/posts/vst3/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Play the Monty Hall game",
+      "href": "https://monty.donk.systems",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 5
     },
     {
       "title": "How I think about Kubernetes",
       "href": "https://garnaudov.com/writings/how-i-think-about-kubernetes/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 6
     },
     {
@@ -61,7 +61,7 @@
       "title": "CONTRACT.md: The Naughty List for AI Coding Agents",
       "href": "https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 9
     },
     {
@@ -72,17 +72,17 @@
       "index": 10
     },
     {
-      "title": "llm-grep: Match lines using both classic and semantic regular expressions",
-      "href": "https://github.com/vagos/llm-grep",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
       "title": "What are you doing this weekend?",
       "href": "/s/yswcyu/what_are_you_doing_this_weekend",
       "points": "",
       "comments": "\n              13 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "llm-grep: Match lines using both classic and semantic regular expressions",
+      "href": "https://github.com/vagos/llm-grep",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 12
     },
     {
@@ -107,24 +107,24 @@
       "index": 15
     },
     {
+      "title": "\"Enabling\" C threads in a Python / Wasm environment",
+      "href": "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
       "title": "From Intent to Proof: Dafny Verification for Web Apps",
       "href": "https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "The HTML Elements Time Forgot",
       "href": "https://htmhell.dev/adventcalendar/2025/22/",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "\"Enabling\" C threads in a Python / Wasm environment",
-      "href": "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "Reimplementing FlashAttention for performance and giggles",
+      "href": "https://aminediro.com/posts/flash_attn/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Ancient Greek geometry",
+      "href": "https://sciencevsmagic.net/geo/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "rapace - RPC over SHM / WS / TCP / MEM",
+      "href": "https://rapace.bearcove.eu/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
       "title": "Are Two Heads Better Than One?",
       "href": "https://eieio.games/blog/two-heads-arent-better-than-one/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "Maestro - Desktop AI Agent Command Center (Free/OSS)",
       "href": "https://runmaestro.ai",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Ancient Greek geometry",
-      "href": "https://sciencevsmagic.net/geo/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Reimplementing FlashAttention for performance and giggles",
-      "href": "https://aminediro.com/posts/flash_attn/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Package managers keep using git as a database, it never works out",
-      "href": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
-      "points": "",
-      "comments": "\n              63 comments\n            ",
       "index": 25
     }
   ]
