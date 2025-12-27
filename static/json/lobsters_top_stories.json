@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, December 27, 2025 at 1:30 AM GMT-5",
+  "date": "Saturday, December 27, 2025 at 2:20 AM GMT-5",
   "articles": [
     {
       "title": "TIL: serde's borrowing can be treacherous",
@@ -16,31 +16,31 @@
       "index": 2
     },
     {
+      "title": "pre-commit hooks are fundamentally broken",
+      "href": "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 3
+    },
+    {
       "title": "Rob Pike Goes Nuclear over GenAI",
       "href": "https://imgur.com/nUJCI3o",
       "points": "",
       "comments": "\n              104 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Simplifying the build process for vst3-rs",
       "href": "https://micahrj.github.io/posts/vst3/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Play the Monty Hall game",
       "href": "https://monty.donk.systems",
       "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "pre-commit hooks are fundamentally broken",
-      "href": "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 6
     },
     {
@@ -86,15 +86,15 @@
       "index": 12
     },
     {
-      "title": "llm-grep: Match lines using both classic and semantic regular expressions",
-      "href": "https://github.com/vagos/llm-grep",
+      "title": "\"Enabling\" C threads in a Python / Wasm environment",
+      "href": "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 13
     },
     {
-      "title": "\"Enabling\" C threads in a Python / Wasm environment",
-      "href": "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html",
+      "title": "llm-grep: Match lines using both classic and semantic regular expressions",
+      "href": "https://github.com/vagos/llm-grep",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 14
@@ -124,40 +124,40 @@
       "title": "CONTRACT.md: The Naughty List for AI Coding Agents",
       "href": "https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 18
-    },
-    {
-      "title": "Reimplementing FlashAttention for performance and giggles",
-      "href": "https://aminediro.com/posts/flash_attn/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
     },
     {
       "title": "The Rime of the Ancient Maintainer",
       "href": "https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Reimplementing FlashAttention for performance and giggles",
+      "href": "https://aminediro.com/posts/flash_attn/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 20
+    },
+    {
+      "title": "Calibre adds AI 'discussion' feature",
+      "href": "https://lwn.net/Articles/1049886/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
     },
     {
       "title": "The HTML Elements Time Forgot",
       "href": "https://htmhell.dev/adventcalendar/2025/22/",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "profiling.sampling: Statistical profiler",
       "href": "https://docs.python.org/3.15/library/profiling.sampling.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Calibre adds AI 'discussion' feature",
-      "href": "https://lwn.net/Articles/1049886/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 23
