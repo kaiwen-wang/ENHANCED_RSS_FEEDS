@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, December 27, 2025 at 9:20 AM GMT-5",
+  "date": "Saturday, December 27, 2025 at 10:20 AM GMT-5",
   "articles": [
     {
       "title": "TIL: serde's borrowing can be treacherous",
@@ -12,35 +12,35 @@
       "title": "Arcan 0.7.1 – Minutes To Midnight",
       "href": "https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "How uv got so fast",
-      "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 3
     },
     {
       "title": "pre-commit hooks are fundamentally broken",
       "href": "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              16 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "How uv got so fast",
+      "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
       "index": 4
     },
     {
       "title": "You can't design software you don't work on",
       "href": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 5
     },
     {
       "title": "Rob Pike Goes Nuclear over GenAI",
       "href": "https://imgur.com/nUJCI3o",
       "points": "",
-      "comments": "\n              108 comments\n            ",
+      "comments": "\n              109 comments\n            ",
       "index": 6
     },
     {
@@ -51,66 +51,66 @@
       "index": 7
     },
     {
-      "title": "How I think about Kubernetes",
-      "href": "https://garnaudov.com/writings/how-i-think-about-kubernetes/",
+      "title": "39C3: Power Cycles Streaming",
+      "href": "https://streaming.media.ccc.de/39c3",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 8
+    },
+    {
+      "title": "Why is calling my asm function from Rust slower than calling it from C?",
+      "href": "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 9
     },
     {
       "title": "Simplifying the build process for vst3-rs",
       "href": "https://micahrj.github.io/posts/vst3/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
-      "title": "39C3: Power Cycles Streaming",
-      "href": "https://streaming.media.ccc.de/39c3",
+      "title": "How I think about Kubernetes",
+      "href": "https://garnaudov.com/writings/how-i-think-about-kubernetes/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 10
+      "comments": "\n              10 comments\n            ",
+      "index": 11
     },
     {
       "title": "QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop",
       "href": "https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "From Intent to Proof: Dafny Verification for Web Apps",
       "href": "https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 12
+      "index": 13
+    },
+    {
+      "title": "Commandry - A Command-Line Parser for Standard ML",
+      "href": "https://github.com/PerplexSystems/commandry",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
     },
     {
       "title": "Show: Twine - A tool to dynamically trace calls in production Elixir systems",
       "href": "https://github.com/ollien/twine",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Linux kernel community discussion on ML/LLM tools in kernel development",
-      "href": "https://lwn.net/Articles/1050355/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "llm-grep: Match lines using both classic and semantic regular expressions",
-      "href": "https://github.com/vagos/llm-grep",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 15
     },
     {
-      "title": "The Algebra of Loans in Rust",
-      "href": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html",
+      "title": "Easel Turns One! One year of building my own IDE in Clojure",
+      "href": "https://blog.phronemophobic.com/easel-one-year.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 16
     },
     {
@@ -121,57 +121,57 @@
       "index": 17
     },
     {
+      "title": "Linux kernel community discussion on ML/LLM tools in kernel development",
+      "href": "https://lwn.net/Articles/1050355/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "llm-grep: Match lines using both classic and semantic regular expressions",
+      "href": "https://github.com/vagos/llm-grep",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "The Algebra of Loans in Rust",
+      "href": "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 20
+    },
+    {
       "title": "What are you doing this weekend?",
       "href": "/s/yswcyu/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 18
+      "comments": "\n              18 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "The Rime of the Ancient Maintainer",
+      "href": "https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 22
     },
     {
       "title": "Writing an NES emulator in Haskell",
       "href": "https://arthi-chaud.github.io/posts/funes/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 19
+      "index": 23
     },
     {
       "title": "Meet Critic: Code Inspection System in Opera Software (2019?)",
       "href": "https://sudonull.com/post/135595",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 24
     },
     {
       "title": "\"Enabling\" C threads in a Python / Wasm environment",
       "href": "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "I'm a laptop weirdo and that's why I like my new Framework 13",
-      "href": "https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "The Rime of the Ancient Maintainer",
-      "href": "https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "GNU Mes and the module system",
-      "href": "https://ekaitz.elenq.tech/fasterMes5.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "39C3: Power Cycles- media.ccc.de",
-      "href": "https://media.ccc.de/c/39c3",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
