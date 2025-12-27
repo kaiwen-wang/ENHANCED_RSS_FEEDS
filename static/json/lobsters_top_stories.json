@@ -1,18 +1,18 @@
 {
-  "date": "Saturday, December 27, 2025 at 12:20 AM GMT-5",
+  "date": "Saturday, December 27, 2025 at 1:30 AM GMT-5",
   "articles": [
     {
       "title": "TIL: serde's borrowing can be treacherous",
       "href": "https://yossarian.net/til/post/serde-s-borrowing-can-be-treacherous/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 1
     },
     {
       "title": "How uv got so fast",
       "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 2
     },
     {
@@ -40,28 +40,28 @@
       "title": "pre-commit hooks are fundamentally broken",
       "href": "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 6
     },
     {
       "title": "How I think about Kubernetes",
       "href": "https://garnaudov.com/writings/how-i-think-about-kubernetes/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 7
+    },
+    {
+      "title": "From Intent to Proof: Dafny Verification for Web Apps",
+      "href": "https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 8
     },
     {
       "title": "Show: Twine - A tool to dynamically trace calls in production Elixir systems",
       "href": "https://github.com/ollien/twine",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "From Intent to Proof: Dafny Verification for Web Apps",
-      "href": "https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 9
     },
     {
@@ -93,38 +93,38 @@
       "index": 13
     },
     {
+      "title": "\"Enabling\" C threads in a Python / Wasm environment",
+      "href": "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
       "title": "GNU Mes and the module system",
       "href": "https://ekaitz.elenq.tech/fasterMes5.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "I'm a laptop weirdo and that's why I like my new Framework 13",
       "href": "https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "\"Enabling\" C threads in a Python / Wasm environment",
-      "href": "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 16
-    },
-    {
-      "title": "CONTRACT.md: The Naughty List for AI Coding Agents",
-      "href": "https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 17
     },
     {
       "title": "Automating What Backblaze Lifecycle Rules Don't Do Instantly",
       "href": "https://blog.tymscar.com/posts/backblazeb2cleanup/",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "CONTRACT.md: The Naughty List for AI Coding Agents",
+      "href": "https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 18
     },
     {
@@ -135,29 +135,29 @@
       "index": 19
     },
     {
+      "title": "The Rime of the Ancient Maintainer",
+      "href": "https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
       "title": "The HTML Elements Time Forgot",
       "href": "https://htmhell.dev/adventcalendar/2025/22/",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Calibre adds AI 'discussion' feature",
-      "href": "https://lwn.net/Articles/1049886/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
-      "title": "The Rime of the Ancient Maintainer",
-      "href": "https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/",
+      "title": "profiling.sampling: Statistical profiler",
+      "href": "https://docs.python.org/3.15/library/profiling.sampling.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 22
     },
     {
-      "title": "profiling.sampling: Statistical profiler",
-      "href": "https://docs.python.org/3.15/library/profiling.sampling.html",
+      "title": "Calibre adds AI 'discussion' feature",
+      "href": "https://lwn.net/Articles/1049886/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 23
