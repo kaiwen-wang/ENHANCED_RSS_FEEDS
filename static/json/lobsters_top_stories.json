@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, December 27, 2025 at 3:20 PM GMT-5",
+  "date": "Saturday, December 27, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "Why is calling my asm function from Rust slower than calling it from C?",
       "href": "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 1
     },
     {
@@ -19,14 +19,14 @@
       "title": "Arcan 0.7.1 – Minutes To Midnight",
       "href": "https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 3
     },
     {
       "title": "TIL: serde's borrowing can be treacherous",
       "href": "https://yossarian.net/til/post/serde-s-borrowing-can-be-treacherous/",
       "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 4
     },
     {
@@ -37,141 +37,141 @@
       "index": 5
     },
     {
-      "title": "You can't design software you don't work on",
-      "href": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+      "title": "Commandry - A Command-Line Parser for Standard ML",
+      "href": "https://github.com/PerplexSystems/commandry",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 6
     },
     {
-      "title": "How uv got so fast",
-      "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+      "title": "You can't design software you don't work on",
+      "href": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
       "points": "",
       "comments": "\n              14 comments\n            ",
       "index": 7
     },
     {
-      "title": "Commandry - A Command-Line Parser for Standard ML",
-      "href": "https://github.com/PerplexSystems/commandry",
+      "title": "How uv got so fast",
+      "href": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 8
-    },
-    {
-      "title": "39C3: Power Cycles Streaming",
-      "href": "https://streaming.media.ccc.de/39c3",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 9
     },
     {
       "title": "Windows 2 for the Apricot PC/Xi",
       "href": "https://www.ninakalinina.com/notes/win2apri/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 10
+      "index": 9
     },
     {
       "title": "Easel Turns One! One year of building my own IDE in Clojure",
       "href": "https://blog.phronemophobic.com/easel-one-year.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 11
+      "index": 10
     },
     {
-      "title": "QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop",
-      "href": "https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop",
+      "title": "39C3: Power Cycles Streaming",
+      "href": "https://streaming.media.ccc.de/39c3",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 12
+      "comments": "\n              4 comments\n            ",
+      "index": 11
     },
     {
       "title": "CVE-2025-14847: MongoBleed",
       "href": "https://cybersecuritynews.com/mongobleed-poc-exploit-mongodb/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Play the Monty Hall game",
-      "href": "https://monty.donk.systems",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Rob Pike Goes Nuclear over GenAI",
-      "href": "https://imgur.com/nUJCI3o",
-      "points": "",
-      "comments": "\n              115 comments\n            ",
-      "index": 15
+      "comments": "\n              2 comments\n            ",
+      "index": 12
     },
     {
       "title": "Fastverse: A Suite of High-Performance and Low-Dependency R Packages",
       "href": "https://fastverse.org/fastverse/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop",
+      "href": "https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Play the Monty Hall game",
+      "href": "https://monty.donk.systems",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "On LLMs in programming",
+      "href": "https://blog.danieljanus.pl/2025/12/27/llms/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 16
+    },
+    {
+      "title": "Rob Pike Goes Nuclear over GenAI",
+      "href": "https://imgur.com/nUJCI3o",
+      "points": "",
+      "comments": "\n              116 comments\n            ",
+      "index": 17
     },
     {
       "title": "Getting started with Playdate on Ubuntu",
       "href": "https://sethmlarson.dev/getting-started-with-playdate-on-ubuntu",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "How I think about Kubernetes",
       "href": "https://garnaudov.com/writings/how-i-think-about-kubernetes/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Simplifying the build process for vst3-rs",
       "href": "https://micahrj.github.io/posts/vst3/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "From Intent to Proof: Dafny Verification for Web Apps",
       "href": "https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Show: Twine - A tool to dynamically trace calls in production Elixir systems",
       "href": "https://github.com/ollien/twine",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "The hidden brain power behind programming",
       "href": "https://web.eecs.umich.edu/~weimerw/p/weimer-icse2024-tms.pdf",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "The TTY Layer: the Past, Present, and Future",
       "href": "https://www.youtube.com/watch?v=g4sZUBS57OQ",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Linux kernel community discussion on ML/LLM tools in kernel development",
       "href": "https://lwn.net/Articles/1050355/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "llm-grep: Match lines using both classic and semantic regular expressions",
-      "href": "https://github.com/vagos/llm-grep",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
