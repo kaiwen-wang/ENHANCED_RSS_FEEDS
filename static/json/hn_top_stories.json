@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, December 28, 2025 at 4:20 PM GMT-5",
+  "date": "Sunday, December 28, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "Stepping down as Mockito maintainer after 10 years",
       "href": "https://github.com/mockito/mockito/issues/3777",
-      "points": "59 points",
-      "comments": "4 comments",
+      "points": "117 points",
+      "comments": "30 comments",
       "index": 1
     },
     {
-      "title": "Rust errors without dependencies",
-      "href": "https://vincents.dev/blog/rust-errors-without-dependencies/",
-      "points": "30 points",
-      "comments": "23 comments",
+      "title": "Software engineers should be a little bit cynical",
+      "href": "https://www.seangoedecke.com/a-little-bit-cynical/",
+      "points": "42 points",
+      "comments": "20 comments",
       "index": 2
+    },
+    {
+      "title": "PySDR: A Guide to SDR and DSP Using Python",
+      "href": "https://pysdr.org/content/intro.html",
+      "points": "35 points",
+      "comments": "2 comments",
+      "index": 3
+    },
+    {
+      "title": "MongoBleed Explained Simply",
+      "href": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
+      "points": "18 points",
+      "comments": "3 comments",
+      "index": 4
     },
     {
       "title": "Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert",
       "href": "https://substack.com/inbox/post/182743659",
-      "points": "612 points",
-      "comments": "267 comments",
-      "index": 3
+      "points": "636 points",
+      "comments": "278 comments",
+      "index": 5
     },
     {
       "title": "Remembering Lou Gerstner",
       "href": "https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner",
-      "points": "33 points",
-      "comments": "15 comments",
-      "index": 4
+      "points": "42 points",
+      "comments": "19 comments",
+      "index": 6
+    },
+    {
+      "title": "Show HN: Pion SCTP with RACK is 70% faster with 30% less latency",
+      "href": "https://pion.ly/blog/sctp-and-rack/",
+      "points": "15 points",
+      "comments": "1 comment",
+      "index": 7
     },
     {
       "title": "Calendar",
       "href": "https://neatnik.net/calendar/?year=2026",
-      "points": "871 points",
-      "comments": "108 comments",
-      "index": 5
+      "points": "903 points",
+      "comments": "110 comments",
+      "index": 8
     },
     {
-      "title": "Global Memory Shortage Crisis: Market Analysis",
-      "href": "https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/",
-      "points": "60 points",
-      "comments": "43 comments",
-      "index": 6
+      "title": "Dolphin Progress Release 2512",
+      "href": "https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/",
+      "points": "5 points",
+      "comments": "discuss",
+      "index": 9
     },
     {
       "title": "Building a macOS app to know when my Mac is thermal throttling",
       "href": "https://stanislas.blog/2025/12/macos-thermal-throttling-app/",
-      "points": "171 points",
-      "comments": "75 comments",
-      "index": 7
-    },
-    {
-      "title": "Replacing JavaScript with Just HTML",
-      "href": "https://www.htmhell.dev/adventcalendar/2025/27/",
-      "points": "639 points",
-      "comments": "240 comments",
-      "index": 8
-    },
-    {
-      "title": "Learn computer graphics from scratch and for free",
-      "href": "https://www.scratchapixel.com",
-      "points": "107 points",
-      "comments": "10 comments",
-      "index": 9
-    },
-    {
-      "title": "Never Use Pixelation to Hide Sensitive Text (2014)",
-      "href": "https://dheera.net/posts/20140725-why-you-should-never-use-pixelation/",
-      "points": "96 points",
-      "comments": "30 comments",
+      "points": "190 points",
+      "comments": "88 comments",
       "index": 10
     },
     {
-      "title": "Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
-      "href": "https://arxiv.org/abs/2512.02080",
-      "points": "41 points",
-      "comments": "6 comments",
+      "title": "Show HN: Phantas – A browser-based binaural strobe engine (Web Audio API)",
+      "href": "https://phantas.io",
+      "points": "6 points",
+      "comments": "2 comments",
       "index": 11
     },
     {
-      "title": "One year of keeping a tada list",
-      "href": "https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list",
-      "points": "185 points",
-      "comments": "55 comments",
-      "index": 12
-    },
-    {
-      "title": "tc-ematch(8) extended matches for use with \"basic\", \"cgroup\" or \"flow\" filters",
-      "href": "https://man7.org/linux/man-pages/man8/tc-ematch.8.html",
-      "points": "22 points",
-      "comments": "discuss",
-      "index": 13
-    },
-    {
-      "title": "Vibration Isolation of Precision Objects (2005) [pdf]",
-      "href": "http://www.sandv.com/downloads/0607rivi.pdf",
+      "title": "Show HN: LoongArch Userspace Emulator",
+      "href": "https://github.com/libriscv/libloong",
       "points": "8 points",
-      "comments": "discuss",
-      "index": 14
-    },
-    {
-      "title": "Floor796",
-      "href": "https://floor796.com/",
-      "points": "952 points",
-      "comments": "112 comments",
-      "index": 15
-    },
-    {
-      "title": "2D Signed Distance Functions",
-      "href": "https://iquilezles.org/articles/distfunctions2d/",
-      "points": "54 points",
-      "comments": "5 comments",
-      "index": 16
-    },
-    {
-      "title": "Loss of moist broadleaf forest in Africa has turned a carbon sink into source",
-      "href": "https://www.nature.com/articles/s41598-025-27462-3",
-      "points": "5 points",
-      "comments": "discuss",
-      "index": 17
+      "comments": "1 comment",
+      "index": 12
     },
     {
       "title": "Doublespeak: In-Context Representation Hijacking",
       "href": "https://mentaleap.ai/doublespeak/",
-      "points": "6 points",
-      "comments": "discuss",
+      "points": "18 points",
+      "comments": "1 comment",
+      "index": 13
+    },
+    {
+      "title": "Replacing JavaScript with Just HTML",
+      "href": "https://www.htmhell.dev/adventcalendar/2025/27/",
+      "points": "657 points",
+      "comments": "247 comments",
+      "index": 14
+    },
+    {
+      "title": "Loss of moist broadleaf forest in Africa has turned a carbon sink into source",
+      "href": "https://www.nature.com/articles/s41598-025-27462-3",
+      "points": "31 points",
+      "comments": "3 comments",
+      "index": 15
+    },
+    {
+      "title": "Learn computer graphics from scratch and for free",
+      "href": "https://www.scratchapixel.com",
+      "points": "126 points",
+      "comments": "15 comments",
+      "index": 16
+    },
+    {
+      "title": "One year of keeping a tada list",
+      "href": "https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list",
+      "points": "196 points",
+      "comments": "56 comments",
+      "index": 17
+    },
+    {
+      "title": "Global Memory Shortage Crisis: Market Analysis",
+      "href": "https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/",
+      "points": "64 points",
+      "comments": "59 comments",
       "index": 18
     },
     {
-      "title": "No it's not a Battleship",
-      "href": "https://www.navalgazing.net/No-its-not",
-      "points": "54 points",
-      "comments": "51 comments",
+      "title": "Oral History of Richard Greenblatt (2005) [pdf]",
+      "href": "https://archive.computerhistory.org/resources/text/Oral_History/Greenblatt_Richard/greenblatt.oral_history_transcript.2005.102657935.pdf",
+      "points": "4 points",
+      "comments": "discuss",
       "index": 19
     },
     {
-      "title": "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
-      "href": "https://github.com/rex-rs/rex",
-      "points": "130 points",
-      "comments": "58 comments",
+      "title": "John Malone and the Invention of Liquid-Based Engines",
+      "href": "https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-93-1350-25",
+      "points": "3 points",
+      "comments": "discuss",
       "index": 20
     },
     {
-      "title": "Last Year on My Mac: Look Back in Disbelief",
-      "href": "https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/",
-      "points": "358 points",
-      "comments": "255 comments",
+      "title": "Designing Predictable LLM-Verifier Systems for Formal Method Guarantee",
+      "href": "https://arxiv.org/abs/2512.02080",
+      "points": "45 points",
+      "comments": "8 comments",
       "index": 21
     },
     {
-      "title": "How we lost communication to entertainment",
-      "href": "https://ploum.net/2025-12-15-communication-entertainment.html",
-      "points": "632 points",
-      "comments": "352 comments",
+      "title": "Floor796",
+      "href": "https://floor796.com/",
+      "points": "968 points",
+      "comments": "114 comments",
       "index": 22
+    },
+    {
+      "title": "Vibration Isolation of Precision Objects (2005) [pdf]",
+      "href": "http://www.sandv.com/downloads/0607rivi.pdf",
+      "points": "14 points",
+      "comments": "1 comment",
+      "index": 23
     },
     {
       "title": "Langfuse (YC W23) Is Hiring in Berlin, Germany",
       "href": "https://langfuse.com/careers",
       "points": "",
       "comments": "hide",
-      "index": 23
+      "index": 24
+    },
+    {
+      "title": "2D Signed Distance Functions",
+      "href": "https://iquilezles.org/articles/distfunctions2d/",
+      "points": "63 points",
+      "comments": "8 comments",
+      "index": 25
+    },
+    {
+      "title": "Keep the Robots Out of the Gym",
+      "href": "https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym",
+      "points": "7 points",
+      "comments": "2 comments",
+      "index": 26
+    },
+    {
+      "title": "The Prison of Financial Mediocrity",
+      "href": "https://twitter.com/systematicls/status/2004900241745883205",
+      "points": "26 points",
+      "comments": "2 comments",
+      "index": 27
+    },
+    {
+      "title": "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
+      "href": "https://github.com/rex-rs/rex",
+      "points": "133 points",
+      "comments": "60 comments",
+      "index": 28
+    },
+    {
+      "title": "How we lost communication to entertainment",
+      "href": "https://ploum.net/2025-12-15-communication-entertainment.html",
+      "points": "642 points",
+      "comments": "356 comments",
+      "index": 29
     },
     {
       "title": "We \"solved\" C10K years ago yet we keep reinventing it (2003)",
       "href": "https://www.kegel.com/c10k.html",
-      "points": "86 points",
-      "comments": "52 comments",
-      "index": 24
-    },
-    {
-      "title": "Deathbed Advice/Regret",
-      "href": "https://hazn.com/deathbed-regret",
-      "points": "41 points",
-      "comments": "27 comments",
-      "index": 25
-    },
-    {
-      "title": "Hungry Fat Cells Could Someday Starve Cancer",
-      "href": "https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death",
-      "points": "127 points",
-      "comments": "33 comments",
-      "index": 26
-    },
-    {
-      "title": "Fathers’ choices may be packaged and passed down in sperm RNA",
-      "href": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
-      "points": "274 points",
-      "comments": "169 comments",
-      "index": 27
-    },
-    {
-      "title": "Gpg.fail",
-      "href": "https://gpg.fail",
-      "points": "426 points",
-      "comments": "279 comments",
-      "index": 28
-    },
-    {
-      "title": "Rainbow Six Siege hacked as players get billions of credits and random bans",
-      "href": "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/",
-      "points": "271 points",
-      "comments": "138 comments",
-      "index": 29
-    },
-    {
-      "title": "Dialtone – AOL 3.0 Server",
-      "href": "https://dialtone.live/",
-      "points": "101 points",
-      "comments": "48 comments",
+      "points": "94 points",
+      "comments": "58 comments",
       "index": 30
     }
   ]
