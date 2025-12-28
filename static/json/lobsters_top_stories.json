@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, December 28, 2025 at 11:25 AM GMT-5",
+  "date": "Sunday, December 28, 2025 at 12:20 PM GMT-5",
   "articles": [
-    {
-      "title": "Why is calling my asm function from Rust slower than calling it from C?",
-      "href": "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 1
-    },
     {
       "title": "Replacing JS with just HTML",
       "href": "https://www.htmhell.dev/adventcalendar/2025/27/",
       "points": "",
       "comments": "\n              10 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "Why is calling my asm function from Rust slower than calling it from C?",
+      "href": "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
       "index": 2
     },
     {
@@ -23,45 +23,45 @@
       "index": 3
     },
     {
-      "title": "The dangers of SSL certificates",
-      "href": "https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 4
-    },
-    {
       "title": "39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends",
       "href": "https://media.ccc.de/v/39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 5
+      "index": 4
     },
     {
-      "title": "Rust Errors Without Dependencies",
-      "href": "https://vincents.dev/blog/rust-errors-without-dependencies/",
+      "title": "The dangers of SSL certificates",
+      "href": "https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 6
+      "comments": "\n              9 comments\n            ",
+      "index": 5
     },
     {
       "title": "On LLMs in programming",
       "href": "https://blog.danieljanus.pl/2025/12/27/llms/",
       "points": "",
       "comments": "\n              7 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Rust Errors Without Dependencies",
+      "href": "https://vincents.dev/blog/rust-errors-without-dependencies/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 7
     },
     {
       "title": "The production bug that made me care about undefined behavior",
       "href": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 8
     },
     {
       "title": "Goodbye Sass",
       "href": "https://www.redblobgames.com/blog/2025-12-27-goodbye-sass/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 9
     },
     {
@@ -82,14 +82,14 @@
       "title": "gpg.fail",
       "href": "https://gpg.fail",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 12
     },
     {
       "title": "I was wrong about typescript part 1",
       "href": "https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "CVE-2025-14847: MongoBleed",
-      "href": "https://cybersecuritynews.com/mongobleed-poc-exploit-mongodb/",
+      "title": "Solve Hi-Q with AlphaZero and Curriculum Learning",
+      "href": "https://www.robw.fyi/2025/12/28/solve-hi-q-with-alphazero-and-curriculum-learning/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 15
-    },
-    {
-      "title": "Windows 2 for the Apricot PC/Xi",
-      "href": "https://www.ninakalinina.com/notes/win2apri/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 16
     },
     {
       "title": "Poor code examples cause LLM misalignment in unrelated domains",
       "href": "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "CVE-2025-14847: MongoBleed",
+      "href": "https://cybersecuritynews.com/mongobleed-poc-exploit-mongodb/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 17
+    },
+    {
+      "title": "Windows 2 for the Apricot PC/Xi",
+      "href": "https://www.ninakalinina.com/notes/win2apri/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Building a Multi-Site Kubernetes Cluster with BGP Anycast",
+      "href": "https://kyriakos.papadopoulos.tech/posts/multi-site-kubernetes-bgp/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
+    },
+    {
+      "title": "Have you tried turning it off and on again? (2023)",
+      "href": "https://eblog.fly.dev/onoff.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
     },
     {
       "title": "Easel Turns One! One year of building my own IDE in Clojure",
       "href": "https://blog.phronemophobic.com/easel-one-year.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 18
+      "index": 21
     },
     {
       "title": "Petlibro: Your Pet Feeder Is Feeding Data To Anyone Who Asks",
       "href": "https://bobdahacker.com/blog/petlibro",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 22
     },
     {
       "title": "pre-commit hooks are fundamentally broken",
       "href": "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/",
       "points": "",
       "comments": "\n              36 comments\n            ",
-      "index": 20
+      "index": 23
     },
     {
       "title": "You can't design software you don't work on",
       "href": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
       "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Building a Multi-Site Kubernetes Cluster with BGP Anycast",
-      "href": "https://kyriakos.papadopoulos.tech/posts/multi-site-kubernetes-bgp/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Have you tried turning it off and on again?",
-      "href": "https://eblog.fly.dev/onoff.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 23
+      "comments": "\n              29 comments\n            ",
+      "index": 24
     },
     {
       "title": "TIL: serde's borrowing can be treacherous",
       "href": "https://yossarian.net/til/post/serde-s-borrowing-can-be-treacherous/",
       "points": "",
       "comments": "\n              37 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Commandry - A Command-Line Parser for Standard ML",
-      "href": "https://github.com/PerplexSystems/commandry",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
