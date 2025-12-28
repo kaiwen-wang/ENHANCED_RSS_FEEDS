@@ -1,72 +1,72 @@
 {
-  "date": "Sunday, December 28, 2025 at 5:20 PM GMT-5",
+  "date": "Sunday, December 28, 2025 at 6:20 PM GMT-5",
   "articles": [
-    {
-      "title": "Replacing JS with just HTML",
-      "href": "https://www.htmhell.dev/adventcalendar/2025/27/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 1
-    },
     {
       "title": "MongoBleed explained simply",
       "href": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 1
+    },
+    {
+      "title": "Replacing JS with just HTML",
+      "href": "https://www.htmhell.dev/adventcalendar/2025/27/",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 2
     },
     {
       "title": "Tiny, types-first schema validation for TypeScript",
       "href": "https://github.com/easrng/schema",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "Why is calling my asm function from Rust slower than calling it from C?",
-      "href": "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "On LLMs in programming",
-      "href": "https://blog.danieljanus.pl/2025/12/27/llms/",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "Rust Errors Without Dependencies",
-      "href": "https://vincents.dev/blog/rust-errors-without-dependencies/",
-      "points": "",
-      "comments": "\n              16 comments\n            ",
-      "index": 6
     },
     {
       "title": "Parsing Advances",
       "href": "https://matklad.github.io/2025/12/28/parsing-advances.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Why is calling my asm function from Rust slower than calling it from C?",
+      "href": "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "On LLMs in programming",
+      "href": "https://blog.danieljanus.pl/2025/12/27/llms/",
+      "points": "",
+      "comments": "\n              20 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Rust Errors Without Dependencies",
+      "href": "https://vincents.dev/blog/rust-errors-without-dependencies/",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
       "index": 7
+    },
+    {
+      "title": "The production bug that made me care about undefined behavior",
+      "href": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 8
     },
     {
       "title": "39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends",
       "href": "https://media.ccc.de/v/39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 8
+      "index": 9
     },
     {
       "title": "This PNG will show different version if you open it in Chrome than in Safari",
       "href": "https://lr0.org/blog/p/pngchanges/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "The production bug that made me care about undefined behavior",
-      "href": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
       "points": "",
       "comments": "\n              6 comments\n            ",
       "index": 10
@@ -75,21 +75,21 @@
       "title": "I was wrong about typescript part 1",
       "href": "https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 11
-    },
-    {
-      "title": "Solve Hi-Q with AlphaZero and Curriculum Learning",
-      "href": "https://www.robw.fyi/2025/12/28/solve-hi-q-with-alphazero-and-curriculum-learning/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 12
     },
     {
       "title": "The dangers of SSL certificates",
       "href": "https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/",
       "points": "",
       "comments": "\n              12 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Solve Hi-Q with AlphaZero and Curriculum Learning",
+      "href": "https://www.robw.fyi/2025/12/28/solve-hi-q-with-alphazero-and-curriculum-learning/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 13
     },
     {
@@ -124,56 +124,56 @@
       "title": "gpg.fail",
       "href": "https://gpg.fail",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              24 comments\n            ",
       "index": 18
-    },
-    {
-      "title": "Arcan 0.7.1 – Minutes To Midnight",
-      "href": "https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Poor code examples cause LLM misalignment in unrelated domains",
-      "href": "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "CVE-2025-14847: MongoBleed",
-      "href": "https://cybersecuritynews.com/mongobleed-poc-exploit-mongodb/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Building a Multi-Site Kubernetes Cluster with BGP Anycast",
-      "href": "https://kyriakos.papadopoulos.tech/posts/multi-site-kubernetes-bgp/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "Petlibro: Your Pet Feeder Is Feeding Data To Anyone Who Asks",
-      "href": "https://bobdahacker.com/blog/petlibro",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
     },
     {
       "title": "An experiment in vibe coding",
       "href": "https://nolanlawson.com/2025/12/28/an-experiment-in-vibe-coding/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Arcan 0.7.1 – Minutes To Midnight",
+      "href": "https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Poor code examples cause LLM misalignment in unrelated domains",
+      "href": "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Petlibro: Your Pet Feeder Is Feeding Data To Anyone Who Asks",
+      "href": "https://bobdahacker.com/blog/petlibro",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Slaughtering Competition Problems with Quantifier Elimination",
+      "href": "https://grossack.site/2021/12/22/qe-competition.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "CVE-2025-14847: MongoBleed",
+      "href": "https://cybersecuritynews.com/mongobleed-poc-exploit-mongodb/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 24
     },
     {
-      "title": "Windows 2 for the Apricot PC/Xi",
-      "href": "https://www.ninakalinina.com/notes/win2apri/",
+      "title": "Building a Multi-Site Kubernetes Cluster with BGP Anycast",
+      "href": "https://kyriakos.papadopoulos.tech/posts/multi-site-kubernetes-bgp/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
