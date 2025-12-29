@@ -1,39 +1,39 @@
 {
-  "date": "Monday, December 29, 2025 at 5:20 PM GMT-5",
+  "date": "Monday, December 29, 2025 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "LLMs Are Not Fun",
       "href": "https://orib.dev/nofun.html",
       "points": "",
-      "comments": "\n              27 comments\n            ",
+      "comments": "\n              34 comments\n            ",
       "index": 1
     },
     {
       "title": "What an unprocessed photo looks like",
       "href": "https://maurycyz.com/misc/raw_photo/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 2
     },
     {
       "title": "The Second Great Error Model Convergence",
       "href": "https://matklad.github.io/2025/12/29/second-error-model-convergence.html",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "Git's HTTP server side design does not scale",
-      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 4
     },
     {
       "title": "Static Allocation with Zig",
       "href": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Git's HTTP server side design does not scale",
+      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
       "index": 5
     },
     {
@@ -44,73 +44,73 @@
       "index": 6
     },
     {
+      "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
+      "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 7
+    },
+    {
       "title": "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Garbage collection in Rust got a little better",
       "href": "https://claytonwramsey.com/blog/dumpster2/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 8
+      "index": 9
     },
     {
-      "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
-      "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
+      "title": "Can Bundler Be as Fast as uv?",
+      "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 9
+      "comments": "\n              4 comments\n            ",
+      "index": 10
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/mjmtxx/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              28 comments\n            ",
-      "index": 10
+      "index": 11
+    },
+    {
+      "title": "loss32: let's build a Win32/Linux",
+      "href": "https://loss32.org/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
     },
     {
       "title": "You can make up HTML tags",
       "href": "https://maurycyz.com/misc/make-up-tags/",
       "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 11
+      "comments": "\n              19 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "How to Ruin All of Package Management",
+      "href": "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
     },
     {
       "title": "1ML for non-specialists: introduction",
       "href": "https://pithlessly.github.io/1ml-intro",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Can Bundler Be as Fast as uv?",
-      "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 15
     },
     {
       "title": "Measuring out-of-sync clocks on the Internet",
       "href": "https://alexsci.com/blog/clock-skew/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Huge binaries",
-      "href": "https://fzakaria.com/2025/12/28/huge-binaries",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "Clock Synchronization Is a Nightmare",
-      "href": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 16
     },
     {
@@ -121,17 +121,17 @@
       "index": 17
     },
     {
-      "title": "loss32: let's build a Win32/Linux",
-      "href": "https://loss32.org/",
+      "title": "Huge binaries",
+      "href": "https://fzakaria.com/2025/12/28/huge-binaries",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 18
     },
     {
-      "title": "How to Ruin All of Package Management",
-      "href": "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html",
+      "title": "Clock Synchronization Is a Nightmare",
+      "href": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 19
     },
     {
@@ -156,24 +156,24 @@
       "index": 22
     },
     {
-      "title": "Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here",
-      "href": "https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 23
-    },
-    {
       "title": "Trials and Visions of Internet Relay Chat",
       "href": "https://babbagefiles.xyz/no-one-can-be-told-what-irc-is-you-have-to-logon-for-yourself/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Libgodc: Write Go Programs for Sega Dreamcast",
+      "href": "https://github.com/drpaneas/libgodc",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "2D Distance Functions",
-      "href": "https://iquilezles.org",
+      "title": "Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here",
+      "href": "https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 25
     }
   ]
