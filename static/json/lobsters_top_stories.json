@@ -1,18 +1,18 @@
 {
-  "date": "Monday, December 29, 2025 at 3:25 PM GMT-5",
+  "date": "Monday, December 29, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "LLMs Are Not Fun",
       "href": "https://orib.dev/nofun.html",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 1
     },
     {
       "title": "What an unprocessed photo looks like",
       "href": "https://maurycyz.com/misc/raw_photo/",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 2
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
+      "title": "Git's HTTP server side design does not scale",
+      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 6
+    },
+    {
       "title": "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 6
-    },
-    {
-      "title": "Git's HTTP server side design does not scale",
-      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 7
     },
     {
@@ -61,21 +61,21 @@
       "title": "What are you doing this week?",
       "href": "/s/mjmtxx/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              28 comments\n            ",
       "index": 9
+    },
+    {
+      "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
+      "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 10
     },
     {
       "title": "You can make up HTML tags",
       "href": "https://maurycyz.com/misc/make-up-tags/",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
-      "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 11
     },
     {
@@ -86,50 +86,50 @@
       "index": 12
     },
     {
+      "title": "1ML for non-specialists: introduction",
+      "href": "https://pithlessly.github.io/1ml-intro",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
       "title": "Huge binaries",
       "href": "https://fzakaria.com/2025/12/28/huge-binaries",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "How To Dynamically Install Custom (HTML) Elements",
       "href": "https://heydonworks.com/article/dynamically-loading-custom-elements/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 14
+      "index": 15
+    },
+    {
+      "title": "Clock Synchronization Is a Nightmare",
+      "href": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 16
     },
     {
       "title": "Parsing Advances",
       "href": "https://matklad.github.io/2025/12/28/parsing-advances.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 15
+      "index": 17
     },
     {
       "title": "Consider a Nix Flake for your windows-rs Project",
       "href": "https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "1ML for non-specialists: introduction",
-      "href": "https://pithlessly.github.io/1ml-intro",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here",
-      "href": "https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 18
     },
     {
-      "title": "Clock Synchronization Is a Nightmare",
-      "href": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
+      "title": "Can Bundler Be as Fast as uv?",
+      "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 19
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
-      "title": "2D Distance Functions",
-      "href": "https://iquilezles.org",
+      "title": "How to Ruin All of Package Management",
+      "href": "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
-      "title": "An experiment in vibe coding",
-      "href": "https://nolanlawson.com/2025/12/28/an-experiment-in-vibe-coding/",
+      "title": "Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here",
+      "href": "https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 22
     },
     {
       "title": "Trials and Visions of Internet Relay Chat",
       "href": "https://babbagefiles.xyz/no-one-can-be-told-what-irc-is-you-have-to-logon-for-yourself/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 23
     },
     {
-      "title": "Mini Rack: the Homelab Rabbit Hole",
-      "href": "https://gquetel.fr/misc/mini-rack/",
+      "title": "2D Distance Functions",
+      "href": "https://iquilezles.org",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 24
     },
     {
-      "title": "Tiny, types-first schema validation for TypeScript",
-      "href": "https://github.com/easrng/schema",
+      "title": "An experiment in vibe coding",
+      "href": "https://nolanlawson.com/2025/12/28/an-experiment-in-vibe-coding/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 25
     }
   ]

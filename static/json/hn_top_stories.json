@@ -1,214 +1,214 @@
 {
-  "date": "Monday, December 29, 2025 at 3:25 PM GMT-5",
+  "date": "Monday, December 29, 2025 at 4:20 PM GMT-5",
   "articles": [
+    {
+      "title": "Google is dead. Where do we go now?",
+      "href": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
+      "points": "114 points",
+      "comments": "90 comments",
+      "index": 1
+    },
     {
       "title": "All Delisted Steam Games",
       "href": "https://delistedgames.com/all-delisted-steam-games/",
-      "points": "23 points",
-      "comments": "2 comments",
-      "index": 1
+      "points": "79 points",
+      "comments": "21 comments",
+      "index": 2
     },
     {
       "title": "Flame Graphs vs. Tree Maps vs. Sunburst (2017)",
       "href": "https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html",
-      "points": "34 points",
-      "comments": "3 comments",
-      "index": 2
+      "points": "51 points",
+      "comments": "7 comments",
+      "index": 3
     },
     {
       "title": "Static Allocation with Zig",
       "href": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
-      "points": "113 points",
-      "comments": "61 comments",
-      "index": 3
+      "points": "127 points",
+      "comments": "65 comments",
+      "index": 4
     },
     {
       "title": "List of domains censored by German ISPs",
       "href": "https://cuiiliste.de/domains",
-      "points": "123 points",
-      "comments": "52 comments",
-      "index": 4
+      "points": "170 points",
+      "comments": "65 comments",
+      "index": 5
     },
     {
-      "title": "When someone says they hate your product with a burning passion",
-      "href": "https://www.getflack.com/p/responding-to-negative-feedback",
-      "points": "20 points",
-      "comments": "22 comments",
-      "index": 5
+      "title": "Which Humans?",
+      "href": "https://osf.io/preprints/psyarxiv/5b26t_v1",
+      "points": "12 points",
+      "comments": "discuss",
+      "index": 6
     },
     {
       "title": "The production bug that made me care about undefined behavior",
       "href": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
-      "points": "37 points",
-      "comments": "16 comments",
-      "index": 6
-    },
-    {
-      "title": "Meta's ads tools started switching out top-performing ads with AI-generated ones",
-      "href": "https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10",
-      "points": "50 points",
-      "comments": "26 comments",
+      "points": "54 points",
+      "comments": "28 comments",
       "index": 7
-    },
-    {
-      "title": "Show HN: Superset – Terminal to run 10 parallel coding agents",
-      "href": "https://superset.sh/",
-      "points": "35 points",
-      "comments": "23 comments",
-      "index": 8
-    },
-    {
-      "title": "GOG is getting acquired by its original co-founder",
-      "href": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-      "points": "371 points",
-      "comments": "208 comments",
-      "index": 9
     },
     {
       "title": "Show HN: Aroma: Every TCP Proxy Is Detectable with RTT Fingerprinting",
       "href": "https://github.com/Sakura-sx/Aroma",
-      "points": "13 points",
-      "comments": "3 comments",
-      "index": 10
-    },
-    {
-      "title": "Libgodc: Write Go Programs for Sega Dreamcast",
-      "href": "https://github.com/drpaneas/libgodc",
-      "points": "150 points",
-      "comments": "39 comments",
-      "index": 11
-    },
-    {
-      "title": "Nvidia takes $5B stake in Intel under September agreement",
-      "href": "https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/",
-      "points": "115 points",
-      "comments": "34 comments",
-      "index": 12
-    },
-    {
-      "title": "Kidnapped by Deutsche Bahn",
-      "href": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
-      "points": "771 points",
-      "comments": "746 comments",
-      "index": 13
-    },
-    {
-      "title": "You can make up HTML tags",
-      "href": "https://maurycyz.com/misc/make-up-tags/",
-      "points": "506 points",
-      "comments": "169 comments",
-      "index": 14
-    },
-    {
-      "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
-      "href": "https://github.com/HarryR/z80ai",
-      "points": "436 points",
-      "comments": "97 comments",
-      "index": 15
-    },
-    {
-      "title": "Why is calling my asm function from Rust slower than calling it from C?",
-      "href": "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/",
-      "points": "70 points",
-      "comments": "14 comments",
-      "index": 16
-    },
-    {
-      "title": "You can't design software you don't work on",
-      "href": "https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/",
-      "points": "177 points",
-      "comments": "61 comments",
-      "index": 17
-    },
-    {
-      "title": "Show HN: Per-instance TSP Solver with No Pre-training (1.66% gap on d1291)",
-      "href": "item?id=46420670",
-      "points": "9 points",
-      "comments": "discuss",
-      "index": 18
-    },
-    {
-      "title": "Linux DAW: Help Linux musicians to quickly and easily find the tools they need",
-      "href": "https://linuxdaw.org/",
-      "points": "113 points",
-      "comments": "66 comments",
-      "index": 19
-    },
-    {
-      "title": "Karpathy on Programming: \"I've never felt this much behind\"",
-      "href": "https://twitter.com/karpathy/status/2004607146781278521",
-      "points": "126 points",
-      "comments": "56 comments",
-      "index": 20
-    },
-    {
-      "title": "What an unprocessed photo looks like",
-      "href": "https://maurycyz.com/misc/raw_photo/",
-      "points": "2223 points",
-      "comments": "361 comments",
-      "index": 21
-    },
-    {
-      "title": "Show HN: See what readers who loved your favorite book/author also loved to read",
-      "href": "https://shepherd.com/bboy/2025",
-      "points": "91 points",
-      "comments": "24 comments",
-      "index": 22
-    },
-    {
-      "title": "Show HN: Vibe coding a bookshelf with Claude Code",
-      "href": "https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/",
-      "points": "227 points",
-      "comments": "177 comments",
-      "index": 23
+      "points": "28 points",
+      "comments": "13 comments",
+      "index": 8
     },
     {
       "title": "High-performance C++ hash table using grouped SIMD metadata scanning",
       "href": "https://github.com/Cranot/grouped-simd-hashtable",
-      "points": "3 points",
-      "comments": "discuss",
-      "index": 24
+      "points": "19 points",
+      "comments": "4 comments",
+      "index": 9
     },
     {
-      "title": "Feynman's Hughes Lectures: 950 pages of notes",
-      "href": "https://thehugheslectures.info/the-lectures/",
-      "points": "144 points",
-      "comments": "33 comments",
-      "index": 25
+      "title": "GOG is getting acquired by its original co-founder",
+      "href": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+      "points": "417 points",
+      "comments": "239 comments",
+      "index": 10
     },
     {
-      "title": "Swapping SIM cards used to be easy, and then came eSIM",
-      "href": "https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret/",
-      "points": "143 points",
-      "comments": "139 comments",
-      "index": 26
+      "title": "Show HN: Superset – Terminal to run 10 parallel coding agents",
+      "href": "https://superset.sh/",
+      "points": "44 points",
+      "comments": "32 comments",
+      "index": 11
     },
     {
-      "title": "How Willie Nelson sees America",
-      "href": "https://www.newyorker.com/magazine/2025/12/29/willie-nelson-profile",
-      "points": "42 points",
-      "comments": "1 comment",
-      "index": 27
+      "title": "Left Behind: Futurist Fetishists, Prepping and the Abandonment of Earth",
+      "href": "https://www.boundary2.org/2019/08/sarah-t-roberts-and-mel-hogan-left-behind-futurist-fetishists-prepping-and-the-abandonment-of-earth/",
+      "points": "5 points",
+      "comments": "2 comments",
+      "index": 12
     },
     {
-      "title": "CIA Star Gate Project: An Overview (1993) [pdf]",
-      "href": "https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf",
-      "points": "70 points",
-      "comments": "74 comments",
-      "index": 28
+      "title": "Libgodc: Write Go Programs for Sega Dreamcast",
+      "href": "https://github.com/drpaneas/libgodc",
+      "points": "165 points",
+      "comments": "39 comments",
+      "index": 13
+    },
+    {
+      "title": "Meta's ads tools started switching out top-performing ads with AI-generated ones",
+      "href": "https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10",
+      "points": "76 points",
+      "comments": "45 comments",
+      "index": 14
     },
     {
       "title": "Show HN: Evidex – AI Clinical Search (RAG over PubMed/OpenAlex and SOAP Notes)",
       "href": "https://www.getevidex.com",
-      "points": "5 points",
-      "comments": "discuss",
+      "points": "18 points",
+      "comments": "3 comments",
+      "index": 15
+    },
+    {
+      "title": "Nvidia takes $5B stake in Intel under September agreement",
+      "href": "https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/",
+      "points": "140 points",
+      "comments": "47 comments",
+      "index": 16
+    },
+    {
+      "title": "The Future of Software Development Is Software Developers",
+      "href": "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/",
+      "points": "21 points",
+      "comments": "5 comments",
+      "index": 17
+    },
+    {
+      "title": "Kidnapped by Deutsche Bahn",
+      "href": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
+      "points": "817 points",
+      "comments": "768 comments",
+      "index": 18
+    },
+    {
+      "title": "Static Allocation for Compilers",
+      "href": "https://matklad.github.io/2025/12/23/static-allocation-compilers.html",
+      "points": "10 points",
+      "comments": "3 comments",
+      "index": 19
+    },
+    {
+      "title": "Linux DAW: Help Linux musicians to quickly and easily find the tools they need",
+      "href": "https://linuxdaw.org/",
+      "points": "136 points",
+      "comments": "72 comments",
+      "index": 20
+    },
+    {
+      "title": "Why is calling my asm function from Rust slower than calling it from C?",
+      "href": "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/",
+      "points": "80 points",
+      "comments": "24 comments",
+      "index": 21
+    },
+    {
+      "title": "You can't design software you don't work on",
+      "href": "https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+      "points": "192 points",
+      "comments": "66 comments",
+      "index": 22
+    },
+    {
+      "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
+      "href": "https://github.com/HarryR/z80ai",
+      "points": "448 points",
+      "comments": "100 comments",
+      "index": 23
+    },
+    {
+      "title": "Binance's Trust Wallet extension hacked; users lose $7M",
+      "href": "https://www.web3isgoinggreat.com/?id=trust-wallet-hack",
+      "points": "24 points",
+      "comments": "1 comment",
+      "index": 24
+    },
+    {
+      "title": "Karpathy on Programming: \"I've never felt this much behind\"",
+      "href": "https://twitter.com/karpathy/status/2004607146781278521",
+      "points": "163 points",
+      "comments": "102 comments",
+      "index": 25
+    },
+    {
+      "title": "What an unprocessed photo looks like",
+      "href": "https://maurycyz.com/misc/raw_photo/",
+      "points": "2248 points",
+      "comments": "364 comments",
+      "index": 26
+    },
+    {
+      "title": "Show HN: Per-instance TSP Solver with No Pre-training (1.66% gap on d1291)",
+      "href": "item?id=46420670",
+      "points": "12 points",
+      "comments": "1 comment",
+      "index": 27
+    },
+    {
+      "title": "Feynman's Hughes Lectures: 950 pages of notes",
+      "href": "https://thehugheslectures.info/the-lectures/",
+      "points": "150 points",
+      "comments": "34 comments",
+      "index": 28
+    },
+    {
+      "title": "Show HN: See what readers who loved your favorite book/author also loved to read",
+      "href": "https://shepherd.com/bboy/2025",
+      "points": "99 points",
+      "comments": "24 comments",
       "index": 29
     },
     {
-      "title": "Huge Binaries",
-      "href": "https://fzakaria.com/2025/12/28/huge-binaries",
-      "points": "175 points",
-      "comments": "81 comments",
+      "title": "Show HN: Vibe coding a bookshelf with Claude Code",
+      "href": "https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/",
+      "points": "236 points",
+      "comments": "181 comments",
       "index": 30
     }
   ]
