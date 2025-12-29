@@ -1,11 +1,11 @@
 {
-  "date": "Monday, December 29, 2025 at 4:20 PM GMT-5",
+  "date": "Monday, December 29, 2025 at 5:20 PM GMT-5",
   "articles": [
     {
       "title": "LLMs Are Not Fun",
       "href": "https://orib.dev/nofun.html",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 1
     },
     {
@@ -23,31 +23,31 @@
       "index": 3
     },
     {
+      "title": "Git's HTTP server side design does not scale",
+      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 4
+    },
+    {
       "title": "Static Allocation with Zig",
       "href": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "My First Meshtastic Network",
       "href": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
       "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "Git's HTTP server side design does not scale",
-      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 6
     },
     {
       "title": "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 7
     },
     {
@@ -58,17 +58,17 @@
       "index": 8
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/mjmtxx/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 9
-    },
-    {
       "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
       "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/mjmtxx/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              28 comments\n            ",
       "index": 10
     },
     {
@@ -79,31 +79,31 @@
       "index": 11
     },
     {
-      "title": "Measuring out-of-sync clocks on the Internet",
-      "href": "https://alexsci.com/blog/clock-skew/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 12
-    },
-    {
       "title": "1ML for non-specialists: introduction",
       "href": "https://pithlessly.github.io/1ml-intro",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Can Bundler Be as Fast as uv?",
+      "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 13
+    },
+    {
+      "title": "Measuring out-of-sync clocks on the Internet",
+      "href": "https://alexsci.com/blog/clock-skew/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 14
     },
     {
       "title": "Huge binaries",
       "href": "https://fzakaria.com/2025/12/28/huge-binaries",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "How To Dynamically Install Custom (HTML) Elements",
-      "href": "https://heydonworks.com/article/dynamically-loading-custom-elements/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 15
     },
     {
@@ -114,22 +114,22 @@
       "index": 16
     },
     {
-      "title": "Parsing Advances",
-      "href": "https://matklad.github.io/2025/12/28/parsing-advances.html",
+      "title": "How To Dynamically Install Custom (HTML) Elements",
+      "href": "https://heydonworks.com/article/dynamically-loading-custom-elements/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 17
     },
     {
-      "title": "Consider a Nix Flake for your windows-rs Project",
-      "href": "https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/",
+      "title": "loss32: let's build a Win32/Linux",
+      "href": "https://loss32.org/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
-      "title": "Can Bundler Be as Fast as uv?",
-      "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
+      "title": "How to Ruin All of Package Management",
+      "href": "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 19
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
-      "title": "How to Ruin All of Package Management",
-      "href": "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html",
+      "title": "Consider a Nix Flake for your windows-rs Project",
+      "href": "https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 21
+    },
+    {
+      "title": "Parsing Advances",
+      "href": "https://matklad.github.io/2025/12/28/parsing-advances.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 22
     },
     {
       "title": "Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here",
       "href": "https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Trials and Visions of Internet Relay Chat",
       "href": "https://babbagefiles.xyz/no-one-can-be-told-what-irc-is-you-have-to-logon-for-yourself/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "2D Distance Functions",
       "href": "https://iquilezles.org",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "An experiment in vibe coding",
-      "href": "https://nolanlawson.com/2025/12/28/an-experiment-in-vibe-coding/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 25
     }
   ]
