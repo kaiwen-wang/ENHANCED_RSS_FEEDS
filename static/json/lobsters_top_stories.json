@@ -1,5 +1,5 @@
 {
-  "date": "Monday, December 29, 2025 at 10:25 AM GMT-5",
+  "date": "Monday, December 29, 2025 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "What an unprocessed photo looks like",
@@ -16,24 +16,24 @@
       "index": 2
     },
     {
-      "title": "You can make up HTML tags",
-      "href": "https://maurycyz.com/misc/make-up-tags/",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 3
-    },
-    {
       "title": "The Second Great Error Model Convergence",
       "href": "https://matklad.github.io/2025/12/29/second-error-model-convergence.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 4
+      "comments": "\n              1 comment\n            ",
+      "index": 3
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/mjmtxx/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              17 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "You can make up HTML tags",
+      "href": "https://maurycyz.com/misc/make-up-tags/",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
       "index": 5
     },
     {
@@ -44,73 +44,73 @@
       "index": 6
     },
     {
-      "title": "Huge binaries",
-      "href": "https://fzakaria.com/2025/12/28/huge-binaries",
+      "title": "Garbage collection in Rust got a little better",
+      "href": "https://claytonwramsey.com/blog/dumpster2/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 7
     },
     {
       "title": "Measuring out-of-sync clocks on the Internet",
       "href": "https://alexsci.com/blog/clock-skew/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "Huge binaries",
+      "href": "https://fzakaria.com/2025/12/28/huge-binaries",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 9
     },
     {
       "title": "Parsing Advances",
       "href": "https://matklad.github.io/2025/12/28/parsing-advances.html",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 9
+      "comments": "\n              5 comments\n            ",
+      "index": 10
     },
     {
       "title": "Consider a Nix Flake for your windows-rs Project",
       "href": "https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "How To Dynamically Install Custom (HTML) Elements",
       "href": "https://heydonworks.com/article/dynamically-loading-custom-elements/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "2D Distance Functions",
       "href": "https://iquilezles.org",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 12
+      "comments": "\n              2 comments\n            ",
+      "index": 13
     },
     {
-      "title": "Replacing JS with just HTML",
-      "href": "https://www.htmhell.dev/adventcalendar/2025/27/",
+      "title": "Static Allocation with Zig",
+      "href": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 13
+      "comments": "\n              no comments\n            ",
+      "index": 14
     },
     {
       "title": "Tiny, types-first schema validation for TypeScript",
       "href": "https://github.com/easrng/schema",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "An experiment in vibe coding",
-      "href": "https://nolanlawson.com/2025/12/28/an-experiment-in-vibe-coding/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 15
     },
     {
-      "title": "A Practical Introduction to Finger Trees",
-      "href": "https://chrispenner.ca/posts/intro-to-finger-trees",
+      "title": "Replacing JS with just HTML",
+      "href": "https://www.htmhell.dev/adventcalendar/2025/27/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 16
     },
     {
@@ -121,10 +121,10 @@
       "index": 17
     },
     {
-      "title": "Garbage collection in Rust got a little better",
-      "href": "https://claytonwramsey.com/blog/dumpster2/",
+      "title": "An experiment in vibe coding",
+      "href": "https://nolanlawson.com/2025/12/28/an-experiment-in-vibe-coding/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "A Practical Introduction to Finger Trees",
+      "href": "https://chrispenner.ca/posts/intro-to-finger-trees",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
       "title": "Shower thoughts",
       "href": "https://www.patreon.com/posts/shower-thoughts-146872033",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Slaughtering Competition Problems with Quantifier Elimination",
       "href": "https://grossack.site/2021/12/22/qe-competition.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "The production bug that made me care about undefined behavior",
-      "href": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
       "index": 22
     },
     {
-      "title": "Blocking Queues",
-      "href": "https://arpitbhayani.me/blogs/blocking-queues/",
+      "title": "Clopus-Watcher: An autonomous monitoring agent",
+      "href": "https://denislavgavrilov.com/p/clopus-watcher-an-autonomous-monitoring",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 23
     },
     {
-      "title": "Rust Errors Without Dependencies",
-      "href": "https://vincents.dev/blog/rust-errors-without-dependencies/",
+      "title": "GPS successor may be needed due to jamming vulnerability",
+      "href": "https://undark.org/2025/12/24/gps-attack-new-tech/",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Solve Hi-Q with AlphaZero and Curriculum Learning",
-      "href": "https://www.robw.fyi/2025/12/28/solve-hi-q-with-alphazero-and-curriculum-learning/",
+      "title": "The production bug that made me care about undefined behavior",
+      "href": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 25
     }
   ]
