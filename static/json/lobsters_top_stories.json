@@ -1,46 +1,46 @@
 {
-  "date": "Monday, December 29, 2025 at 12:30 AM GMT-5",
+  "date": "Monday, December 29, 2025 at 1:35 AM GMT-5",
   "articles": [
     {
       "title": "What an unprocessed photo looks like",
       "href": "https://maurycyz.com/misc/raw_photo/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 1
     },
     {
       "title": "Parsing Advances",
       "href": "https://matklad.github.io/2025/12/28/parsing-advances.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 2
     },
     {
       "title": "You can make up HTML tags",
       "href": "https://maurycyz.com/misc/make-up-tags/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "My First Meshtastic Network",
+      "href": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 4
     },
     {
       "title": "Replacing JS with just HTML",
       "href": "https://www.htmhell.dev/adventcalendar/2025/27/",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Consider a Nix Flake for your windows-rs Project",
-      "href": "https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 5
     },
     {
       "title": "Tiny, types-first schema validation for TypeScript",
       "href": "https://github.com/easrng/schema",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 6
     },
     {
@@ -51,101 +51,101 @@
       "index": 7
     },
     {
+      "title": "Consider a Nix Flake for your windows-rs Project",
+      "href": "https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "The production bug that made me care about undefined behavior",
       "href": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "I was wrong about typescript part 1",
-      "href": "https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 9
-    },
-    {
-      "title": "Why is calling my asm function from Rust slower than calling it from C?",
-      "href": "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "On LLMs in programming",
-      "href": "https://blog.danieljanus.pl/2025/12/27/llms/",
-      "points": "",
-      "comments": "\n              24 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Rust Errors Without Dependencies",
-      "href": "https://vincents.dev/blog/rust-errors-without-dependencies/",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 12
     },
     {
       "title": "Slaughtering Competition Problems with Quantifier Elimination",
       "href": "https://grossack.site/2021/12/22/qe-competition.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "I was wrong about typescript part 1",
+      "href": "https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Why is calling my asm function from Rust slower than calling it from C?",
+      "href": "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "On LLMs in programming",
+      "href": "https://blog.danieljanus.pl/2025/12/27/llms/",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
       "index": 13
+    },
+    {
+      "title": "Rust Errors Without Dependencies",
+      "href": "https://vincents.dev/blog/rust-errors-without-dependencies/",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
+      "index": 14
     },
     {
       "title": "A Modern Recommender Model Architecture",
       "href": "https://cprimozic.net/blog/anime-recommender-model-architecture/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends",
-      "href": "https://media.ccc.de/v/39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 15
     },
     {
-      "title": "The dangers of SSL certificates",
-      "href": "https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/",
+      "title": "Huge binaries",
+      "href": "https://fzakaria.com/2025/12/28/huge-binaries",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 16
-    },
-    {
-      "title": "This PNG will show different version if you open it in Chrome than in Safari",
-      "href": "https://lr0.org/blog/p/pngchanges/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 17
     },
     {
       "title": "Solve Hi-Q with AlphaZero and Curriculum Learning",
       "href": "https://www.robw.fyi/2025/12/28/solve-hi-q-with-alphazero-and-curriculum-learning/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
+      "title": "39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends",
+      "href": "https://media.ccc.de/v/39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 18
+    },
+    {
+      "title": "The dangers of SSL certificates",
+      "href": "https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
+      "index": 19
     },
     {
       "title": "Haskelling My Typst",
       "href": "https://unnamed.website/posts/haskelling-my-typst/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Goodbye Sass",
-      "href": "https://www.redblobgames.com/blog/2025-12-27-goodbye-sass/",
-      "points": "",
-      "comments": "\n              16 comments\n            ",
       "index": 20
     },
     {
-      "title": "Release age v1.3.0: post-quantum (and more)",
-      "href": "https://github.com/FiloSottile/age/releases/tag/v1.3.0",
+      "title": "This PNG will show different version if you open it in Chrome than in Safari",
+      "href": "https://lr0.org/blog/p/pngchanges/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 21
     },
     {
@@ -156,22 +156,22 @@
       "index": 22
     },
     {
-      "title": "A Practical Introduction to Finger Trees",
-      "href": "https://chrispenner.ca/posts/intro-to-finger-trees",
+      "title": "Goodbye Sass",
+      "href": "https://www.redblobgames.com/blog/2025-12-27-goodbye-sass/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 23
-    },
-    {
-      "title": "gpg.fail",
-      "href": "https://gpg.fail",
-      "points": "",
-      "comments": "\n              30 comments\n            ",
-      "index": 24
     },
     {
       "title": "2D Distance Functions",
       "href": "https://iquilezles.org",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 24
+    },
+    {
+      "title": "Release age v1.3.0: post-quantum (and more)",
+      "href": "https://github.com/FiloSottile/age/releases/tag/v1.3.0",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
