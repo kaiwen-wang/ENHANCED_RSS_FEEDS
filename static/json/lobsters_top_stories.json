@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, December 30, 2025 at 12:25 AM GMT-5",
+  "date": "Tuesday, December 30, 2025 at 1:35 AM GMT-5",
   "articles": [
     {
       "title": "LLMs Are Not Fun",
@@ -23,17 +23,17 @@
       "index": 3
     },
     {
-      "title": "Static Allocation with Zig",
-      "href": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 4
-    },
-    {
       "title": "The Second Great Error Model Convergence",
       "href": "https://matklad.github.io/2025/12/29/second-error-model-convergence.html",
       "points": "",
       "comments": "\n              13 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Static Allocation with Zig",
+      "href": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 5
     },
     {
@@ -54,35 +54,35 @@
       "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
       "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 8
-    },
-    {
-      "title": "Garbage collection in Rust got a little better",
-      "href": "https://claytonwramsey.com/blog/dumpster2/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 9
     },
     {
       "title": "loss32: let's build a Win32/Linux",
       "href": "https://loss32.org/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 10
+      "index": 9
     },
     {
-      "title": "My First Meshtastic Network",
-      "href": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
+      "title": "Garbage collection in Rust got a little better",
+      "href": "https://claytonwramsey.com/blog/dumpster2/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 11
+      "comments": "\n              3 comments\n            ",
+      "index": 10
     },
     {
       "title": "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "My First Meshtastic Network",
+      "href": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 12
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "Glamorous Christmas: Bringing Charm to Ruby",
+      "href": "https://marcoroth.dev/posts/glamorous-christmas",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
       "title": "Measuring out-of-sync clocks on the Internet",
       "href": "https://alexsci.com/blog/clock-skew/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 18
+      "comments": "\n              5 comments\n            ",
+      "index": 19
     },
     {
       "title": "Replacing python-dateutil to remove six",
       "href": "https://hugovk.dev/blog/2025/minus-six/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
-      "title": "Clock Synchronization Is a Nightmare",
-      "href": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
+      "title": "NES Game Genie Technical Notes (2001)",
+      "href": "https://tuxnes.sourceforge.net/gamegenie.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 20
+      "comments": "\n              1 comment\n            ",
+      "index": 21
     },
     {
       "title": "Huge binaries",
       "href": "https://fzakaria.com/2025/12/28/huge-binaries",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "Clock Synchronization Is a Nightmare",
+      "href": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 23
     },
     {
       "title": "Velox is a port of Tauri to Swift",
       "href": "https://github.com/velox-apps/velox",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "How To Dynamically Install Custom (HTML) Elements",
       "href": "https://heydonworks.com/article/dynamically-loading-custom-elements/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "GPS successor may be needed due to jamming vulnerability",
-      "href": "https://undark.org/2025/12/24/gps-attack-new-tech/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Introducing miniray — a WGSL minifier",
-      "href": "https://hugodaniel.com/posts/miniray/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 25
     }
   ]
