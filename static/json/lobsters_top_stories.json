@@ -1,32 +1,32 @@
 {
-  "date": "Tuesday, December 30, 2025 at 2:15 PM GMT-5",
+  "date": "Tuesday, December 30, 2025 at 3:25 PM GMT-5",
   "articles": [
     {
       "title": "FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands",
       "href": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "LLMs Are Not Fun",
-      "href": "https://orib.dev/nofun.html",
-      "points": "",
-      "comments": "\n              70 comments\n            ",
-      "index": 2
     },
     {
       "title": "Formally speaking, \"Transpiler\" is a useless word",
       "href": "https://people.csail.mit.edu/rachit/post/transpiler-formal/",
       "points": "",
-      "comments": "\n              21 comments\n            ",
+      "comments": "\n              24 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "LLMs Are Not Fun",
+      "href": "https://orib.dev/nofun.html",
+      "points": "",
+      "comments": "\n              71 comments\n            ",
       "index": 3
     },
     {
       "title": "Curl removes all calls to strcpy",
       "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 4
     },
     {
@@ -51,129 +51,129 @@
       "index": 7
     },
     {
+      "title": "Memory Safety Is",
+      "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "Make-shift shebangs for Go",
       "href": "https://lorentz.app/blog-item.html?id=go-shebang",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 8
+      "comments": "\n              9 comments\n            ",
+      "index": 9
     },
     {
       "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
       "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
       "points": "",
       "comments": "\n              25 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
-      "title": "Can Bundler Be as Fast as uv?",
-      "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
+      "title": "A vulnerability in libsodium",
+      "href": "https://00f.net/2025/12/30/libsodium-vulnerability/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 10
+      "comments": "\n              1 comment\n            ",
+      "index": 11
     },
     {
       "title": "Restarting systemd services on sustained CPU abuse",
       "href": "https://taoofmac.com/space/til/2025/12/28/1400",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
-      "title": "Memory Safety Is",
-      "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html",
+      "title": "Can Bundler Be as Fast as uv?",
+      "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 12
+      "comments": "\n              6 comments\n            ",
+      "index": 13
     },
     {
       "title": "The Second Great Error Model Convergence",
       "href": "https://matklad.github.io/2025/12/29/second-error-model-convergence.html",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Static Allocation with Zig",
       "href": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "What an unprocessed photo looks like",
-      "href": "https://maurycyz.com/misc/raw_photo/",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
       "index": 15
-    },
-    {
-      "title": "Git's HTTP server side design does not scale",
-      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 16
     },
     {
       "title": "Hacking washing machines",
       "href": "https://media.ccc.de/v/39c3-hacking-washing-machines",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "What an unprocessed photo looks like",
+      "href": "https://maurycyz.com/misc/raw_photo/",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
       "index": 17
     },
     {
-      "title": "Garbage collection in Rust got a little better",
-      "href": "https://claytonwramsey.com/blog/dumpster2/",
+      "title": "Some flexibility with Go's sumdb",
+      "href": "https://blog.yossarian.net/2025/12/29/Some-flexibility-with-Go-s-sumdb",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 18
-    },
-    {
-      "title": "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
-      "href": "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 19
     },
     {
       "title": "Escaping Containment: A Security Analysis of FreeBSD Jails",
       "href": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Git's HTTP server side design does not scale",
+      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
+      "points": "",
+      "comments": "\n              28 comments\n            ",
       "index": 20
     },
     {
-      "title": "How to Ruin All of Package Management",
-      "href": "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html",
+      "title": "Desktop Classic System — Spacial computing hearkening back to classic Mac OS",
+      "href": "https://mycophobia.org/dcs/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 21
     },
     {
-      "title": "Replacing python-dateutil to remove six",
-      "href": "https://hugovk.dev/blog/2025/minus-six/",
+      "title": "Xous: A Pure-Rust Rethink of the Embedded Operating System",
+      "href": "https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 22
     },
     {
-      "title": "My First Meshtastic Network",
-      "href": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
+      "title": "Garbage collection in Rust got a little better",
+      "href": "https://claytonwramsey.com/blog/dumpster2/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 23
     },
     {
-      "title": "Velox is a port of Tauri to Swift",
-      "href": "https://github.com/velox-apps/velox",
+      "title": "Conditions in the Intel 8087 floating-point chip's microcode",
+      "href": "http://www.righto.com/2025/12/8087-microcode-conditions.html",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "NES Game Genie Technical Notes (2001)",
-      "href": "https://tuxnes.sourceforge.net/gamegenie.html",
+      "title": "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 25
     }
   ]
