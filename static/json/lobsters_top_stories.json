@@ -1,46 +1,46 @@
 {
-  "date": "Tuesday, December 30, 2025 at 12:20 PM GMT-5",
+  "date": "Tuesday, December 30, 2025 at 1:30 PM GMT-5",
   "articles": [
     {
       "title": "LLMs Are Not Fun",
       "href": "https://orib.dev/nofun.html",
       "points": "",
-      "comments": "\n              69 comments\n            ",
+      "comments": "\n              70 comments\n            ",
       "index": 1
     },
     {
       "title": "Formally speaking, \"Transpiler\" is a useless word",
       "href": "https://people.csail.mit.edu/rachit/post/transpiler-formal/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "Curl removes all calls to strcpy",
-      "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 3
     },
     {
       "title": "FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands",
       "href": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
+      "index": 3
+    },
+    {
+      "title": "Curl removes all calls to strcpy",
+      "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
       "index": 4
     },
     {
       "title": "loss32: let's build a Win32/Linux",
       "href": "https://loss32.org/",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              24 comments\n            ",
       "index": 5
     },
     {
       "title": "Glamorous Christmas: Bringing Charm to Ruby",
       "href": "https://marcoroth.dev/posts/glamorous-christmas",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 6
     },
     {
@@ -54,63 +54,63 @@
       "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
       "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              23 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "Make-shift shebangs for Go",
+      "href": "https://lorentz.app/blog-item.html?id=go-shebang",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 9
     },
     {
       "title": "Can Bundler Be as Fast as uv?",
       "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "The Second Great Error Model Convergence",
       "href": "https://matklad.github.io/2025/12/29/second-error-model-convergence.html",
       "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Static Allocation with Zig",
-      "href": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "What an unprocessed photo looks like",
-      "href": "https://maurycyz.com/misc/raw_photo/",
-      "points": "",
       "comments": "\n              19 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Make-shift shebangs for Go",
-      "href": "https://lorentz.app/blog-item.html?id=go-shebang",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Git's HTTP server side design does not scale",
-      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
-      "points": "",
-      "comments": "\n              27 comments\n            ",
-      "index": 14
+      "index": 11
     },
     {
       "title": "Restarting systemd services on sustained CPU abuse",
       "href": "https://taoofmac.com/space/til/2025/12/28/1400",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Static Allocation with Zig",
+      "href": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "What an unprocessed photo looks like",
+      "href": "https://maurycyz.com/misc/raw_photo/",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Memory Safety Is",
+      "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 15
     },
     {
-      "title": "Garbage collection in Rust got a little better",
-      "href": "https://claytonwramsey.com/blog/dumpster2/",
+      "title": "Git's HTTP server side design does not scale",
+      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              28 comments\n            ",
       "index": 16
     },
     {
@@ -121,17 +121,17 @@
       "index": 17
     },
     {
-      "title": "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
-      "href": "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919",
+      "title": "Garbage collection in Rust got a little better",
+      "href": "https://claytonwramsey.com/blog/dumpster2/",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 18
     },
     {
-      "title": "Replacing python-dateutil to remove six",
-      "href": "https://hugovk.dev/blog/2025/minus-six/",
+      "title": "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
+      "href": "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 19
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
-      "title": "Memory Safety Is",
-      "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "My First Meshtastic Network",
-      "href": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Velox is a port of Tauri to Swift",
-      "href": "https://github.com/velox-apps/velox",
+      "title": "Replacing python-dateutil to remove six",
+      "href": "https://hugovk.dev/blog/2025/minus-six/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 23
+      "index": 21
     },
     {
       "title": "NES Game Genie Technical Notes (2001)",
       "href": "https://tuxnes.sourceforge.net/gamegenie.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 22
+    },
+    {
+      "title": "My First Meshtastic Network",
+      "href": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Velox is a port of Tauri to Swift",
+      "href": "https://github.com/velox-apps/velox",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 24
     },
     {
-      "title": "Django On The Med: A Contributor Sprint Retrospective",
-      "href": "https://www.paulox.net/2025/12/30/django-on-the-med-a-contributor-sprint-retrospective/",
+      "title": "xzone malloc: memory allocator for Apple OS platforms",
+      "href": "https://github.com/apple-oss-distributions/libmalloc/blob/af3c5dc3a540eeec030930b35b1349f4de400206/doc/xzone_malloc.md",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 25
     }
   ]
