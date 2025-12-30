@@ -1,11 +1,11 @@
 {
-  "date": "Monday, December 29, 2025 at 8:45 PM GMT-5",
+  "date": "Monday, December 29, 2025 at 10:30 PM GMT-5",
   "articles": [
     {
       "title": "LLMs Are Not Fun",
       "href": "https://orib.dev/nofun.html",
       "points": "",
-      "comments": "\n              49 comments\n            ",
+      "comments": "\n              53 comments\n            ",
       "index": 1
     },
     {
@@ -16,31 +16,31 @@
       "index": 2
     },
     {
+      "title": "Curl removes all calls to strcpy",
+      "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 3
+    },
+    {
       "title": "The Second Great Error Model Convergence",
       "href": "https://matklad.github.io/2025/12/29/second-error-model-convergence.html",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Static Allocation with Zig",
       "href": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Git's HTTP server side design does not scale",
       "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
       "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "Can Bundler Be as Fast as uv?",
-      "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 6
     },
     {
@@ -51,38 +51,38 @@
       "index": 7
     },
     {
-      "title": "Curl removes all calls to strcpy",
-      "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
+      "title": "Can Bundler Be as Fast as uv?",
+      "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 8
     },
     {
       "title": "Garbage collection in Rust got a little better",
       "href": "https://claytonwramsey.com/blog/dumpster2/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 9
+    },
+    {
+      "title": "loss32: let's build a Win32/Linux",
+      "href": "https://loss32.org/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 10
     },
     {
       "title": "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "My First Meshtastic Network",
       "href": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "loss32: let's build a Win32/Linux",
-      "href": "https://loss32.org/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 12
     },
     {
@@ -96,56 +96,56 @@
       "title": "What are you doing this week?",
       "href": "/s/mjmtxx/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              31 comments\n            ",
+      "comments": "\n              32 comments\n            ",
       "index": 14
     },
     {
       "title": "You can make up HTML tags",
       "href": "https://maurycyz.com/misc/make-up-tags/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 15
-    },
-    {
-      "title": "1ML for non-specialists: introduction",
-      "href": "https://pithlessly.github.io/1ml-intro",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
     },
     {
       "title": "xzone malloc: memory allocator for Apple OS platforms",
       "href": "https://github.com/apple-oss-distributions/libmalloc/blob/af3c5dc3a540eeec030930b35b1349f4de400206/doc/xzone_malloc.md",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
+      "title": "1ML for non-specialists: introduction",
+      "href": "https://pithlessly.github.io/1ml-intro",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
       "title": "Measuring out-of-sync clocks on the Internet",
       "href": "https://alexsci.com/blog/clock-skew/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 18
+    },
+    {
+      "title": "Clock Synchronization Is a Nightmare",
+      "href": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Replacing python-dateutil to remove six",
+      "href": "https://hugovk.dev/blog/2025/minus-six/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
     },
     {
       "title": "Huge binaries",
       "href": "https://fzakaria.com/2025/12/28/huge-binaries",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Clock Synchronization Is a Nightmare",
-      "href": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 20
-    },
-    {
-      "title": "GPS successor may be needed due to jamming vulnerability",
-      "href": "https://undark.org/2025/12/24/gps-attack-new-tech/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 21
     },
     {
@@ -156,15 +156,15 @@
       "index": 22
     },
     {
-      "title": "Introducing miniray — a WGSL minifier",
-      "href": "https://hugodaniel.com/posts/miniray/",
+      "title": "GPS successor may be needed due to jamming vulnerability",
+      "href": "https://undark.org/2025/12/24/gps-attack-new-tech/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 23
     },
     {
-      "title": "Replacing python-dateutil to remove six",
-      "href": "https://hugovk.dev/blog/2025/minus-six/",
+      "title": "Introducing miniray — a WGSL minifier",
+      "href": "https://hugodaniel.com/posts/miniray/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 24
