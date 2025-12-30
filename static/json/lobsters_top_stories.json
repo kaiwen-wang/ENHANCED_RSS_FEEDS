@@ -1,39 +1,39 @@
 {
-  "date": "Tuesday, December 30, 2025 at 6:20 AM GMT-5",
+  "date": "Tuesday, December 30, 2025 at 7:45 AM GMT-5",
   "articles": [
     {
       "title": "LLMs Are Not Fun",
       "href": "https://orib.dev/nofun.html",
       "points": "",
-      "comments": "\n              61 comments\n            ",
+      "comments": "\n              63 comments\n            ",
       "index": 1
     },
     {
       "title": "Curl removes all calls to strcpy",
       "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 2
     },
     {
       "title": "loss32: let's build a Win32/Linux",
       "href": "https://loss32.org/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "Glamorous Christmas: Bringing Charm to Ruby",
+      "href": "https://marcoroth.dev/posts/glamorous-christmas",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 4
     },
     {
       "title": "Can Bundler Be as Fast as uv?",
       "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Glamorous Christmas: Bringing Charm to Ruby",
-      "href": "https://marcoroth.dev/posts/glamorous-christmas",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 5
     },
     {
@@ -44,24 +44,24 @@
       "index": 6
     },
     {
+      "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
+      "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 7
+    },
+    {
       "title": "The Second Great Error Model Convergence",
       "href": "https://matklad.github.io/2025/12/29/second-error-model-convergence.html",
       "points": "",
       "comments": "\n              16 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "What an unprocessed photo looks like",
       "href": "https://maurycyz.com/misc/raw_photo/",
       "points": "",
       "comments": "\n              19 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
-      "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
       "index": 9
     },
     {
@@ -72,106 +72,106 @@
       "index": 10
     },
     {
+      "title": "Make-shift shebangs for Go",
+      "href": "https://lorentz.app/blog-item.html?id=go-shebang",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 11
+    },
+    {
       "title": "Garbage collection in Rust got a little better",
       "href": "https://claytonwramsey.com/blog/dumpster2/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
       "href": "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "My First Meshtastic Network",
       "href": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "How to Ruin All of Package Management",
       "href": "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Replacing python-dateutil to remove six",
       "href": "https://hugovk.dev/blog/2025/minus-six/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/mjmtxx/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              33 comments\n            ",
-      "index": 16
+      "comments": "\n              34 comments\n            ",
+      "index": 17
     },
     {
       "title": "xzone malloc: memory allocator for Apple OS platforms",
       "href": "https://github.com/apple-oss-distributions/libmalloc/blob/af3c5dc3a540eeec030930b35b1349f4de400206/doc/xzone_malloc.md",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "NES Game Genie Technical Notes (2001)",
       "href": "https://tuxnes.sourceforge.net/gamegenie.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "1ML for non-specialists: introduction",
       "href": "https://pithlessly.github.io/1ml-intro",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "You can make up HTML tags",
       "href": "https://maurycyz.com/misc/make-up-tags/",
       "points": "",
-      "comments": "\n              24 comments\n            ",
-      "index": 20
+      "comments": "\n              25 comments\n            ",
+      "index": 21
     },
     {
       "title": "Measuring out-of-sync clocks on the Internet",
       "href": "https://alexsci.com/blog/clock-skew/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Finding a broken trace on my old Mac with the help of its ROM diagnostics",
       "href": "https://www.downtowndougbrown.com/2025/12/finding-a-broken-trace-on-my-old-mac-with-the-help-of-its-rom-diagnostics/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Better Code: Concurrency (2017)",
-      "href": "https://www.youtube.com/watch?v=zULU6Hhp42w",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 23
     },
     {
-      "title": "Hacking washing machines",
-      "href": "https://media.ccc.de/v/39c3-hacking-washing-machines",
+      "title": "Velox is a port of Tauri to Swift",
+      "href": "https://github.com/velox-apps/velox",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Make-shift shebangs for Go",
-      "href": "https://lorentz.app/blog-item.html?id=go-shebang",
+      "title": "Better Code: Concurrency (2017)",
+      "href": "https://www.youtube.com/watch?v=zULU6Hhp42w",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
