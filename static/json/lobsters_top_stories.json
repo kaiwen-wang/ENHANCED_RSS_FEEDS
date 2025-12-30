@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday, December 30, 2025 at 3:25 PM GMT-5",
+  "date": "Tuesday, December 30, 2025 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands",
       "href": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 1
     },
     {
       "title": "Formally speaking, \"Transpiler\" is a useless word",
       "href": "https://people.csail.mit.edu/rachit/post/transpiler-formal/",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 2
     },
     {
@@ -58,24 +58,24 @@
       "index": 8
     },
     {
+      "title": "A vulnerability in libsodium",
+      "href": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 9
+    },
+    {
       "title": "Make-shift shebangs for Go",
       "href": "https://lorentz.app/blog-item.html?id=go-shebang",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
       "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
       "points": "",
       "comments": "\n              25 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "A vulnerability in libsodium",
-      "href": "https://00f.net/2025/12/30/libsodium-vulnerability/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 11
     },
     {
@@ -107,66 +107,66 @@
       "index": 15
     },
     {
-      "title": "Hacking washing machines",
-      "href": "https://media.ccc.de/v/39c3-hacking-washing-machines",
+      "title": "Escaping Containment: A Security Analysis of FreeBSD Jails",
+      "href": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 16
     },
     {
-      "title": "What an unprocessed photo looks like",
-      "href": "https://maurycyz.com/misc/raw_photo/",
+      "title": "Hacking washing machines",
+      "href": "https://media.ccc.de/v/39c3-hacking-washing-machines",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 17
-    },
-    {
-      "title": "Some flexibility with Go's sumdb",
-      "href": "https://blog.yossarian.net/2025/12/29/Some-flexibility-with-Go-s-sumdb",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Escaping Containment: A Security Analysis of FreeBSD Jails",
-      "href": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Git's HTTP server side design does not scale",
-      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Desktop Classic System — Spacial computing hearkening back to classic Mac OS",
-      "href": "https://mycophobia.org/dcs/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 21
     },
     {
       "title": "Xous: A Pure-Rust Rethink of the Embedded Operating System",
       "href": "https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 18
     },
     {
-      "title": "Garbage collection in Rust got a little better",
-      "href": "https://claytonwramsey.com/blog/dumpster2/",
+      "title": "What an unprocessed photo looks like",
+      "href": "https://maurycyz.com/misc/raw_photo/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 23
+      "comments": "\n              19 comments\n            ",
+      "index": 19
     },
     {
       "title": "Conditions in the Intel 8087 floating-point chip's microcode",
       "href": "http://www.righto.com/2025/12/8087-microcode-conditions.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Some flexibility with Go's sumdb",
+      "href": "https://blog.yossarian.net/2025/12/29/Some-flexibility-with-Go-s-sumdb",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Git's HTTP server side design does not scale",
+      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
+      "points": "",
+      "comments": "\n              28 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Desktop Classic System — Spacial computing hearkening back to classic Mac OS",
+      "href": "https://mycophobia.org/dcs/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 23
+    },
+    {
+      "title": "Garbage collection in Rust got a little better",
+      "href": "https://claytonwramsey.com/blog/dumpster2/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 24
     },
     {
