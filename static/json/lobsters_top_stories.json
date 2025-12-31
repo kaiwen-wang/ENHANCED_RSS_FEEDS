@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, December 30, 2025 at 8:45 PM GMT-5",
+  "date": "Tuesday, December 30, 2025 at 10:25 PM GMT-5",
   "articles": [
     {
       "title": "FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands",
@@ -12,63 +12,63 @@
       "title": "Formally speaking, \"Transpiler\" is a useless word",
       "href": "https://people.csail.mit.edu/rachit/post/transpiler-formal/",
       "points": "",
-      "comments": "\n              38 comments\n            ",
+      "comments": "\n              43 comments\n            ",
       "index": 2
     },
     {
       "title": "LLMs Are Not Fun",
       "href": "https://orib.dev/nofun.html",
       "points": "",
-      "comments": "\n              84 comments\n            ",
+      "comments": "\n              87 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "Building a React App with Formally Verified State",
+      "href": "https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 4
     },
     {
       "title": "Curl removes all calls to strcpy",
       "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Building a React App with Formally Verified State",
-      "href": "https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 5
     },
     {
       "title": "A vulnerability in libsodium",
       "href": "https://00f.net/2025/12/30/libsodium-vulnerability/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "loss32: let's build a Win32/Linux",
-      "href": "https://loss32.org/",
-      "points": "",
-      "comments": "\n              25 comments\n            ",
-      "index": 7
     },
     {
       "title": "Xous: A Pure-Rust Rethink of the Embedded Operating System",
       "href": "https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 7
+    },
+    {
+      "title": "loss32: let's build a Win32/Linux",
+      "href": "https://loss32.org/",
+      "points": "",
+      "comments": "\n              26 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "Memory Safety Is …",
+      "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 9
     },
     {
       "title": "Glamorous Christmas: Bringing Charm to Ruby",
       "href": "https://marcoroth.dev/posts/glamorous-christmas",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Memory Safety Is …",
-      "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
       "index": 10
     },
     {
@@ -82,21 +82,21 @@
       "title": "Make-shift shebangs for Go",
       "href": "https://lorentz.app/blog-item.html?id=go-shebang",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 12
     },
     {
-      "title": "Restarting systemd services on sustained CPU abuse",
-      "href": "https://taoofmac.com/space/til/2025/12/28/1400",
+      "title": "Why we trust strangers’ open source more than our colleagues’",
+      "href": "https://00f.net/2025/09/01/opensource-by-internal-contributors/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 13
     },
     {
-      "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
-      "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
+      "title": "Escaping Containment: A Security Analysis of FreeBSD Jails",
+      "href": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
       "points": "",
-      "comments": "\n              27 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 14
     },
     {
@@ -107,73 +107,73 @@
       "index": 15
     },
     {
-      "title": "Some flexibility with Go's sumdb",
-      "href": "https://blog.yossarian.net/2025/12/29/Some-flexibility-with-Go-s-sumdb",
+      "title": "Restarting systemd services on sustained CPU abuse",
+      "href": "https://taoofmac.com/space/til/2025/12/28/1400",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 16
     },
     {
+      "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
+      "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
+      "points": "",
+      "comments": "\n              27 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Some flexibility with Go's sumdb",
+      "href": "https://blog.yossarian.net/2025/12/29/Some-flexibility-with-Go-s-sumdb",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
       "title": "Can Bundler Be as Fast as uv?",
       "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 17
+      "comments": "\n              10 comments\n            ",
+      "index": 19
     },
     {
       "title": "Hacking washing machines",
       "href": "https://media.ccc.de/v/39c3-hacking-washing-machines",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
       "title": "Cross-site Scripting-benchmark of python sanitizers against real browsers",
       "href": "https://github.com/EmilStenstrom/justhtml-xss-bench/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
-      "title": "Escaping Containment: A Security Analysis of FreeBSD Jails",
-      "href": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
+      "title": "OpenSSL Performance Still Under Scrutiny",
+      "href": "https://www.feistyduck.com/newsletter/issue_132_openssl_performance_still_under_scrutiny",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 22
     },
     {
       "title": "The Second Great Error Model Convergence",
       "href": "https://matklad.github.io/2025/12/29/second-error-model-convergence.html",
       "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Conditions in the Intel 8087 floating-point chip's microcode",
-      "href": "http://www.righto.com/2025/12/8087-microcode-conditions.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
+      "comments": "\n              22 comments\n            ",
+      "index": 23
     },
     {
       "title": "Static Allocation with Zig",
       "href": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "What an unprocessed photo looks like",
-      "href": "https://maurycyz.com/misc/raw_photo/",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
       "index": 24
     },
     {
-      "title": "Git's HTTP server side design does not scale",
-      "href": "https://xeiaso.net/notes/2025/distributed-git-ddos",
+      "title": "Conditions in the Intel 8087 floating-point chip's microcode",
+      "href": "http://www.righto.com/2025/12/8087-microcode-conditions.html",
       "points": "",
-      "comments": "\n              28 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
