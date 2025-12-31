@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, December 31, 2025 at 2:25 AM GMT-5",
+  "date": "Wednesday, December 31, 2025 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands",
@@ -16,38 +16,38 @@
       "index": 2
     },
     {
+      "title": "What are some interesting projects that you've done this year?",
+      "href": "/s/npnchn/what_are_some_interesting_projects_you_ve",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 3
+    },
+    {
       "title": "LLMs Are Not Fun",
       "href": "https://orib.dev/nofun.html",
       "points": "",
       "comments": "\n              89 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Building a React App with Formally Verified State",
       "href": "https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "What are some interesting projects that you've done this year?",
-      "href": "/s/npnchn/what_are_some_interesting_projects_you_ve",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 5
-    },
-    {
-      "title": "Curl removes all calls to strcpy",
-      "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 6
     },
     {
       "title": "A vulnerability in libsodium",
       "href": "https://00f.net/2025/12/30/libsodium-vulnerability/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Curl removes all calls to strcpy",
+      "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
       "index": 7
     },
     {
@@ -58,24 +58,24 @@
       "index": 8
     },
     {
-      "title": "runST does not prevent resources from escaping",
-      "href": "https://welltypedwit.ch/posts/runst-does-not-prevent-resources-from-escaping.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 9
-    },
-    {
       "title": "Why we trust strangers’ open source more than our colleagues’",
       "href": "https://00f.net/2025/09/01/opensource-by-internal-contributors/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 10
+      "index": 9
     },
     {
       "title": "Memory Safety Is …",
       "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              16 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "runST does not prevent resources from escaping",
+      "href": "https://welltypedwit.ch/posts/runst-does-not-prevent-resources-from-escaping.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 11
     },
     {
@@ -86,10 +86,10 @@
       "index": 12
     },
     {
-      "title": "Glamorous Christmas: Bringing Charm to Ruby",
-      "href": "https://marcoroth.dev/posts/glamorous-christmas",
+      "title": "Make-shift shebangs for Go",
+      "href": "https://lorentz.app/blog-item.html?id=go-shebang",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 13
     },
     {
@@ -100,78 +100,78 @@
       "index": 14
     },
     {
-      "title": "Make-shift shebangs for Go",
-      "href": "https://lorentz.app/blog-item.html?id=go-shebang",
+      "title": "7 Practical std::chrono Calendar Examples (C++20)",
+      "href": "https://www.cppstories.com/2025/chrono-calendar-examples/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 15
     },
     {
-      "title": "Some flexibility with Go's sumdb",
-      "href": "https://blog.yossarian.net/2025/12/29/Some-flexibility-with-Go-s-sumdb",
+      "title": "Mastodon Stories for systemd v259",
+      "href": "https://0pointer.net/blog/mastodon-stories-for-systemd-v259.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 16
+    },
+    {
+      "title": "Glamorous Christmas: Bringing Charm to Ruby",
+      "href": "https://marcoroth.dev/posts/glamorous-christmas",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 17
     },
     {
       "title": "Turning Dafny Sets into Sequences",
       "href": "https://youtu.be/-zAhtW8YFKM?t=210",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 18
+    },
+    {
+      "title": "Some flexibility with Go's sumdb",
+      "href": "https://blog.yossarian.net/2025/12/29/Some-flexibility-with-Go-s-sumdb",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
     },
     {
       "title": "Escaping Containment: A Security Analysis of FreeBSD Jails",
       "href": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
-    },
-    {
-      "title": "7 Practical std::chrono Calendar Examples (C++20)",
-      "href": "https://www.cppstories.com/2025/chrono-calendar-examples/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Desktop Classic System — Spacial computing hearkening back to classic Mac OS",
       "href": "https://mycophobia.org/dcs/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Restarting systemd services on sustained CPU abuse",
       "href": "https://taoofmac.com/space/til/2025/12/28/1400",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
+      "comments": "\n              1 comment\n            ",
+      "index": 22
     },
     {
       "title": "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
       "href": "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61",
       "points": "",
       "comments": "\n              27 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Can Bundler Be as Fast as uv?",
       "href": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Hacking washing machines",
       "href": "https://media.ccc.de/v/39c3-hacking-washing-machines",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "What I've Learned Writing Gleam",
-      "href": "https://nohzafk.github.io/posts/2025-12-27-what-i-ve-learned-writting-gleam/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
