@@ -1,46 +1,46 @@
 {
-  "date": "Wednesday, December 31, 2025 at 2:15 PM GMT-5",
+  "date": "Wednesday, December 31, 2025 at 3:25 PM GMT-5",
   "articles": [
     {
       "title": "A SOLID Load of Bull",
       "href": "https://loup-vaillant.fr/articles/solid-bull",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "What are some interesting projects that you've done this year?",
-      "href": "/s/npnchn/what_are_some_interesting_projects_you_ve",
-      "points": "",
-      "comments": "\n              70 comments\n            ",
-      "index": 2
     },
     {
       "title": "Fixing a Buffer Overflow in UNIX v4 Like It's 1973",
       "href": "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/",
       "points": "",
       "comments": "\n              6 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "On Privacy and control. My tech setup",
+      "href": "https://toidiu.com/blog/2025-12-25-privacy-and-control/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "What are some interesting projects that you've done this year?",
+      "href": "/s/npnchn/what_are_some_interesting_projects_you_ve",
+      "points": "",
+      "comments": "\n              74 comments\n            ",
+      "index": 4
     },
     {
       "title": "Mastodon Stories for systemd v259",
       "href": "https://0pointer.net/blog/mastodon-stories-for-systemd-v259.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Using The Corne Split Keyboard For Half A Year",
       "href": "https://rugu.dev/en/blog/corne/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "On Privacy and control. My tech setup",
-      "href": "https://toidiu.com/blog/2025-12-25-privacy-and-control/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 6
     },
     {
@@ -72,10 +72,10 @@
       "index": 10
     },
     {
-      "title": "I Fed 24 Years of My Blog Posts to a Markov Model",
-      "href": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+      "title": "Apple File System Reference",
+      "href": "https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 11
     },
     {
@@ -89,91 +89,91 @@
       "title": "What I've Learned Writing Gleam",
       "href": "https://nohzafk.github.io/posts/2025-12-27-what-i-ve-learned-writting-gleam/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 13
+    },
+    {
+      "title": "Agents Done Right: A Framework Vision for 2026",
+      "href": "https://blog.bryanl.dev/posts/agent-framework-vision/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
+      "title": "I Fed 24 Years of My Blog Posts to a Markov Model",
+      "href": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
+      "title": "Web engine CI on a shoestring budget",
+      "href": "https://www.azabani.com/2025/12/18/shoestring-web-engine-ci.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
+      "title": "Simple Bidirectional Type Inference",
+      "href": "https://ettolrach.com/blog/bidirectional_inference.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Modular Monolith and Microservices: Data ownership, boundaries, consistency and synchronization",
+      "href": "https://binaryigor.com/modular-monolith-and-microservices-data.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
     },
     {
       "title": "Building a React App with Formally Verified State",
       "href": "https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/",
       "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 14
+      "comments": "\n              25 comments\n            ",
+      "index": 19
     },
     {
       "title": "A vulnerability in libsodium",
       "href": "https://00f.net/2025/12/30/libsodium-vulnerability/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 15
+      "index": 20
     },
     {
       "title": "runST does not prevent resources from escaping",
       "href": "https://welltypedwit.ch/posts/runst-does-not-prevent-resources-from-escaping.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 16
+      "index": 21
     },
     {
       "title": "LLMs Are Not Fun",
       "href": "https://orib.dev/nofun.html",
       "points": "",
       "comments": "\n              91 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Simple Bidirectional Type Inference",
-      "href": "https://ettolrach.com/blog/bidirectional_inference.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 18
+      "index": 22
     },
     {
       "title": "Eliminate Branches by Melding IR Instructions",
       "href": "https://arxiv.org/pdf/2512.22390",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Web engine CI on a shoestring budget",
-      "href": "https://www.azabani.com/2025/12/18/shoestring-web-engine-ci.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Agents Done Right: A Framework Vision for 2026",
-      "href": "https://blog.bryanl.dev/posts/agent-framework-vision/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Xous: A Pure-Rust Rethink of the Embedded Operating System",
       "href": "https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "Apple File System Reference",
-      "href": "https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 23
-    },
-    {
-      "title": "Memory Safety Is …",
-      "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html",
-      "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 24
     },
     {
-      "title": "Curl removes all calls to strcpy",
-      "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
+      "title": "Looking Back at Python Pescara 2025",
+      "href": "https://www.paulox.net/2025/12/31/looking-back-at-python-pescara-2025/",
       "points": "",
-      "comments": "\n              30 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
