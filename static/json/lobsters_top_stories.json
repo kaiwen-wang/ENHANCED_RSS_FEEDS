@@ -1,25 +1,25 @@
 {
-  "date": "Wednesday, December 31, 2025 at 7:45 AM GMT-5",
+  "date": "Wednesday, December 31, 2025 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "What are some interesting projects that you've done this year?",
       "href": "/s/npnchn/what_are_some_interesting_projects_you_ve",
       "points": "",
-      "comments": "\n              29 comments\n            ",
+      "comments": "\n              37 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "A SOLID Load of Bull",
+      "href": "https://loup-vaillant.fr/articles/solid-bull",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 2
     },
     {
       "title": "FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands",
       "href": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "Formally speaking, \"Transpiler\" is a useless word",
-      "href": "https://people.csail.mit.edu/rachit/post/transpiler-formal/",
-      "points": "",
-      "comments": "\n              45 comments\n            ",
       "index": 3
     },
     {
@@ -33,147 +33,147 @@
       "title": "Fixing a Buffer Overflow in UNIX v4 Like It's 1973",
       "href": "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 5
     },
     {
-      "title": "Why we trust strangers’ open source more than our colleagues’",
-      "href": "https://00f.net/2025/09/01/opensource-by-internal-contributors/",
+      "title": "Formally speaking, \"Transpiler\" is a useless word",
+      "href": "https://people.csail.mit.edu/rachit/post/transpiler-formal/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              45 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "A SOLID Load of Bull",
-      "href": "https://loup-vaillant.fr/articles/solid-bull",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Building a React App with Formally Verified State",
-      "href": "https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "LLMs Are Not Fun",
-      "href": "https://orib.dev/nofun.html",
-      "points": "",
-      "comments": "\n              90 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "A vulnerability in libsodium",
-      "href": "https://00f.net/2025/12/30/libsodium-vulnerability/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Modular Monolith and Microservices: Data ownership, boundaries, consistency and synchronization",
-      "href": "https://binaryigor.com/modular-monolith-and-microservices-data.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Curl removes all calls to strcpy",
-      "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
-      "points": "",
-      "comments": "\n              25 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Simple Bidirectional Type Inference",
-      "href": "https://ettolrach.com/blog/bidirectional_inference.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Xous: A Pure-Rust Rethink of the Embedded Operating System",
-      "href": "https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 14
-    },
-    {
-      "title": "7 Practical std::chrono Calendar Examples (C++20)",
-      "href": "https://www.cppstories.com/2025/chrono-calendar-examples/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "runST does not prevent resources from escaping",
-      "href": "https://welltypedwit.ch/posts/runst-does-not-prevent-resources-from-escaping.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Memory Safety Is …",
-      "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 17
     },
     {
       "title": "Using The Corne Split Keyboard For Half A Year",
       "href": "https://rugu.dev/en/blog/corne/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "Why we trust strangers’ open source more than our colleagues’",
+      "href": "https://00f.net/2025/09/01/opensource-by-internal-contributors/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Building a React App with Formally Verified State",
+      "href": "https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/",
+      "points": "",
+      "comments": "\n              21 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "LLMs Are Not Fun",
+      "href": "https://orib.dev/nofun.html",
+      "points": "",
+      "comments": "\n              90 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "A vulnerability in libsodium",
+      "href": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Curl removes all calls to strcpy",
+      "href": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
+      "points": "",
+      "comments": "\n              27 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Modular Monolith and Microservices: Data ownership, boundaries, consistency and synchronization",
+      "href": "https://binaryigor.com/modular-monolith-and-microservices-data.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Simple Bidirectional Type Inference",
+      "href": "https://ettolrach.com/blog/bidirectional_inference.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Xous: A Pure-Rust Rethink of the Embedded Operating System",
+      "href": "https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
+      "title": "7 Practical std::chrono Calendar Examples (C++20)",
+      "href": "https://www.cppstories.com/2025/chrono-calendar-examples/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "runST does not prevent resources from escaping",
+      "href": "https://welltypedwit.ch/posts/runst-does-not-prevent-resources-from-escaping.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Memory Safety Is …",
+      "href": "https://matklad.github.io/2025/12/30/memory-safety-is.html",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
       "index": 18
-    },
-    {
-      "title": "I Fed 24 Years of My Blog Posts to a Markov Model",
-      "href": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Make-shift shebangs for Go",
-      "href": "https://lorentz.app/blog-item.html?id=go-shebang",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "loss32: let's build a Win32/Linux",
-      "href": "https://loss32.org/",
-      "points": "",
-      "comments": "\n              26 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Turning Dafny Sets into Sequences",
-      "href": "https://youtu.be/-zAhtW8YFKM?t=210",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
     },
     {
       "title": "Who Invented the Transistor?",
       "href": "https://people.idsia.ch/~juergen/who-invented-the-transistor.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "What I've Learned Writing Gleam",
+      "href": "https://nohzafk.github.io/posts/2025-12-27-what-i-ve-learned-writting-gleam/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 20
+    },
+    {
+      "title": "Make-shift shebangs for Go",
+      "href": "https://lorentz.app/blog-item.html?id=go-shebang",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "I Fed 24 Years of My Blog Posts to a Markov Model",
+      "href": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "loss32: let's build a Win32/Linux",
+      "href": "https://loss32.org/",
+      "points": "",
+      "comments": "\n              26 comments\n            ",
       "index": 23
+    },
+    {
+      "title": "Turning Dafny Sets into Sequences",
+      "href": "https://youtu.be/-zAhtW8YFKM?t=210",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "Glamorous Christmas: Bringing Charm to Ruby",
       "href": "https://marcoroth.dev/posts/glamorous-christmas",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Some flexibility with Go's sumdb",
-      "href": "https://blog.yossarian.net/2025/12/29/Some-flexibility-with-Go-s-sumdb",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
