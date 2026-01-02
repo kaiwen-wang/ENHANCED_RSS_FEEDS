@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, January 1, 2026 at 10:40 PM GMT-5",
+  "date": "Thursday, January 1, 2026 at 11:40 PM GMT-5",
   "articles": [
     {
       "title": "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
@@ -19,7 +19,7 @@
       "title": "Software taketh away faster than hardware giveth: Why C++ programmers keep growing fast despite competition, safety, and AI",
       "href": "https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 3
     },
     {
@@ -47,7 +47,7 @@
       "title": "How do you secure access to your self-hosted/homelab services?",
       "href": "/s/rmenr4/how_do_you_secure_access_your_self_hosted",
       "points": "",
-      "comments": "\n              48 comments\n            ",
+      "comments": "\n              54 comments\n            ",
       "index": 7
     },
     {
@@ -58,52 +58,52 @@
       "index": 8
     },
     {
-      "title": "A SOLID Load of Bull",
-      "href": "https://loup-vaillant.fr/articles/solid-bull",
-      "points": "",
-      "comments": "\n              51 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "The GDB JIT interface",
-      "href": "https://bernsteinbear.com/blog/gdb-jit/",
+      "title": "xcc700: mini C compiler for esp32",
+      "href": "https://github.com/valdanylchuk/xcc700",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
+      "index": 9
     },
     {
       "title": "Extensibility: The \"100% Lisp\" Fallacy",
       "href": "https://kyo.iroiro.party/en/posts/100-percent-lisp/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "A SOLID Load of Bull",
+      "href": "https://loup-vaillant.fr/articles/solid-bull",
+      "points": "",
+      "comments": "\n              51 comments\n            ",
       "index": 11
     },
     {
-      "title": "xcc700: mini C compiler for esp32",
-      "href": "https://github.com/valdanylchuk/xcc700",
+      "title": "The GDB JIT interface",
+      "href": "https://bernsteinbear.com/blog/gdb-jit/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 12
     },
     {
-      "title": "Statically Linking PipeWire",
-      "href": "https://gamesbymason.com/blog/2025/statically-linking-pipewire/",
+      "title": "Sorting with Fibonacci Numbers and a Knuth Reward Check",
+      "href": "https://orlp.net/blog/fibonacci-sort/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 13
     },
     {
       "title": "HP-UX hits end-of-life today, and I’m sad",
       "href": "https://www.osnews.com/story/144094/hp-ux-hits-end-of-life-today-and-im-sad/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 14
     },
     {
-      "title": "hindsight: GitHub-style git activity visualizer for terminal",
-      "href": "https://github.com/chaosprint/hindsight",
+      "title": "Statically Linking PipeWire",
+      "href": "https://gamesbymason.com/blog/2025/statically-linking-pipewire/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 15
     },
     {
@@ -114,45 +114,45 @@
       "index": 16
     },
     {
+      "title": "hindsight: GitHub-style git activity visualizer for terminal",
+      "href": "https://github.com/chaosprint/hindsight",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
       "title": "What are you planning to learn in 2026?",
       "href": "/s/foipu8/what_are_you_planning_learn_2026",
       "points": "",
       "comments": "\n              70 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Hierarchical Navigable Small World (HNSW) in PHP",
       "href": "https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "2025: The year in LLMs",
       "href": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "corroded: Illegal rust",
       "href": "https://github.com/buyukakyuz/corroded",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Confidential computing for self-hosted communities",
       "href": "/s/0rq8fz/confidential_computing_for_self_hosted",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Sorting with Fibonacci Numbers and a Knuth Reward Check",
-      "href": "https://orlp.net/blog/fibonacci-sort/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 22
     },
     {
@@ -163,15 +163,15 @@
       "index": 23
     },
     {
-      "title": "Parameter-efficient fine-tuning in tinygrad",
-      "href": "https://dxuuu.xyz/peft.html",
+      "title": "Cursed Bundler: Using go get to install Ruby Gems",
+      "href": "https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "LazyPromise: an async primitive that complements Signals and supports typed errors",
-      "href": "https://github.com/lazy-promise/lazy-promise",
+      "title": "Parameter-efficient fine-tuning in tinygrad",
+      "href": "https://dxuuu.xyz/peft.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
