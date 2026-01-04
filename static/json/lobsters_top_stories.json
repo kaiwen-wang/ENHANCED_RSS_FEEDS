@@ -1,39 +1,39 @@
 {
-  "date": "Sunday, January 4, 2026 at 12:25 AM GMT-5",
+  "date": "Sunday, January 4, 2026 at 1:35 AM GMT-5",
   "articles": [
+    {
+      "title": "Building a TLS 1.3 Implementation in Pure Common Lisp",
+      "href": "https://atgreen.github.io/repl-yell/posts/pure-tls/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 1
+    },
     {
       "title": "Who's Hiring? Q1 2026",
       "href": "/s/9zqi2z/who_s_hiring_q1_2026",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 1
+      "index": 2
     },
     {
       "title": "Who Owns the Memory? Part 1: What is an Object?",
       "href": "https://lukefleed.xyz/posts/who-owns-the-memory-pt1/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "Building a TLS 1.3 Implementation in Pure Common Lisp",
-      "href": "https://atgreen.github.io/repl-yell/posts/pure-tls/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 3
-    },
-    {
-      "title": "How I browse the web in 2026",
-      "href": "https://bastiangruber.ca/posts/how-i-browse-the-web-in-2026/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 4
     },
     {
       "title": "KDE onboarding is good now",
       "href": "https://rabbitictranslator.com/kde-onboarding/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "How I browse the web in 2026",
+      "href": "https://bastiangruber.ca/posts/how-i-browse-the-web-in-2026/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 5
     },
     {
@@ -44,38 +44,38 @@
       "index": 6
     },
     {
+      "title": "Street Fighter II, The World Warrier",
+      "href": "https://fabiensanglard.net/sf2_warrier/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 7
+    },
+    {
       "title": "I'm brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on (your) desktop",
       "href": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
       "points": "",
       "comments": "\n              64 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "The Kimwolf Botnet is Stalking Your Local Network",
       "href": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Amiga Desktops Worth Seeing",
       "href": "https://www.datagubbe.se/wbshots/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Why I switched away from Zig to C3",
       "href": "https://lowbytefox.dev/blog/from-zig-to-c3/",
       "points": "",
       "comments": "\n              19 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Street Fighter II, The World Warrier",
-      "href": "https://fabiensanglard.net/sf2_warrier/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 11
     },
     {
@@ -121,57 +121,57 @@
       "index": 17
     },
     {
+      "title": "Unsigned char std::basic_string<> in C++",
+      "href": "https://berthub.eu/articles/posts/unsigned-char-std-string-cpp/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
       "title": "Was it really a Billion Dollar Mistake?",
       "href": "https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/",
       "points": "",
       "comments": "\n              42 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Is tree-sitter good enough? (2022)",
       "href": "https://blog.jez.io/tree-sitter-limitations/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "How HTML changes in ePub",
       "href": "https://www.htmhell.dev/adventcalendar/2025/11/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
-      "title": "Notes on the expression problem and type design",
+      "title": "Notes on the expression problem and type design (2018)",
       "href": "https://www.tedinski.com/2018/03/06/more-on-the-expression-problem.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Linux kernel security work",
       "href": "http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Bypassing RP2350's Secure Boot",
       "href": "https://media.ccc.de/v/39c3-of-boot-vectors-and-double-glitches-bypassing-rp2350-s-secure-boot",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Assorted less(1) tips",
       "href": "https://blog.thechases.com/posts/assorted-less-tips/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Darktable Styles mimicing Fujifilm's Film Simulations",
-      "href": "https://jssfr.de/dtsolve/2026-01-02-darktable-styles-fujifilm.html",
       "points": "",
       "comments": "\n              11 comments\n            ",
       "index": 25
