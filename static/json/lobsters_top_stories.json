@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, January 6, 2026 at 11:30 AM GMT-5",
+  "date": "Tuesday, January 6, 2026 at 12:25 PM GMT-5",
   "articles": [
     {
       "title": "It’s hard to justify Tahoe icons",
@@ -9,38 +9,38 @@
       "index": 1
     },
     {
+      "title": "The Best Line Length is 88",
+      "href": "https://blog.glyph.im/2025/08/the-best-line-length.html",
+      "points": "",
+      "comments": "\n              34 comments\n            ",
+      "index": 2
+    },
+    {
       "title": "Why Markdown emphasis fails in CJK: A deep dive into CommonMark's delimiter rules",
       "href": "https://hackers.pub/@yurume/019b912a-cc3b-7e45-9227-d08f0d1eafe8",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "The Best Line Length is 88",
-      "href": "https://blog.glyph.im/2025/08/the-best-line-length.html",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
       "index": 3
     },
     {
       "title": "I switched from VSCode to Zed",
       "href": "https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 4
     },
     {
       "title": "Go 1.26 interactive tour",
       "href": "https://antonz.org/go-1-26/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 5
     },
     {
-      "title": "Adding insular script like it's 1626",
-      "href": "https://djmurphy.net/blog/clo-gaelach/",
+      "title": "go.sum Is Not a Lockfile",
+      "href": "https://words.filippo.io/gosum/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              23 comments\n            ",
       "index": 6
     },
     {
@@ -51,10 +51,10 @@
       "index": 7
     },
     {
-      "title": "go.sum Is Not a Lockfile",
-      "href": "https://words.filippo.io/gosum/",
+      "title": "Adding insular script like it's 1626",
+      "href": "https://djmurphy.net/blog/clo-gaelach/",
       "points": "",
-      "comments": "\n              21 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 8
     },
     {
@@ -72,66 +72,66 @@
       "index": 10
     },
     {
-      "title": "A field guide to sandboxes for AI",
-      "href": "https://www.luiscardoso.dev/blog/sandboxes-for-ai",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Databases in 2025: A Year in Review",
-      "href": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 12
-    },
-    {
       "title": "JavaScript's for-of loops are actually fast",
       "href": "https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
-      "title": "Who Owns the Memory? Part 3: How Big Is your Type?",
-      "href": "https://lukefleed.xyz/posts/who-owns-the-memory-pt3/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "H-Neurons: On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs",
-      "href": "https://arxiv.org/pdf/2512.01797",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "No, Microsoft Office didn't just get renamed to Microsoft 365 Copilot",
-      "href": "https://www.howtogeek.com/no-microsoft-office-didnt-just-get-renamed-to-microsoft-365-copilot/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 16
+      "index": 11
     },
     {
       "title": "There Were BGP Anomalies During The Venezuela Blackout",
       "href": "https://loworbitsecurity.com/radar/radar16/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 12
     },
     {
-      "title": "BGP in 2025",
-      "href": "https://www.potaroo.net/ispcol/2026-01/bgp2025.html",
+      "title": "H-Neurons: On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs",
+      "href": "https://arxiv.org/pdf/2512.01797",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 13
+    },
+    {
+      "title": "A field guide to sandboxes for AI",
+      "href": "https://www.luiscardoso.dev/blog/sandboxes-for-ai",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Databases in 2025: A Year in Review",
+      "href": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
+      "index": 15
     },
     {
       "title": "A minimal keyboard key effect with CSS",
       "href": "https://pjg1.site/kbd-css.html",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "BGP in 2025",
+      "href": "https://www.potaroo.net/ispcol/2026-01/bgp2025.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "No, Microsoft Office didn't just get renamed to Microsoft 365 Copilot",
+      "href": "https://www.howtogeek.com/no-microsoft-office-didnt-just-get-renamed-to-microsoft-365-copilot/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Who Owns the Memory? Part 3: How Big Is your Type?",
+      "href": "https://lukefleed.xyz/posts/who-owns-the-memory-pt3/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 19
     },
     {
@@ -159,7 +159,7 @@
       "title": "Owning a Domain Increases Digital Self-Reliance",
       "href": "https://chuck.is/self-reliant/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 23
     },
     {
