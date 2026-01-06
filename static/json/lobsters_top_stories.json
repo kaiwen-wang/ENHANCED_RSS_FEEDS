@@ -1,11 +1,11 @@
 {
-  "date": "Tuesday, January 6, 2026 at 5:20 PM GMT-5",
+  "date": "Tuesday, January 6, 2026 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "The Best Line Length is 88",
       "href": "https://blog.glyph.im/2025/08/the-best-line-length.html",
       "points": "",
-      "comments": "\n              68 comments\n            ",
+      "comments": "\n              71 comments\n            ",
       "index": 1
     },
     {
@@ -16,17 +16,17 @@
       "index": 2
     },
     {
+      "title": "Zero heap allocation HTTP server using OxCaml",
+      "href": "https://github.com/avsm/httpz",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 3
+    },
+    {
       "title": "It’s hard to justify Tahoe icons",
       "href": "https://tonsky.me/blog/tahoe-icons/",
       "points": "",
       "comments": "\n              58 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Zero heap allocation HTTP server using OxCaml",
-      "href": "https://github.com/avsm/httpz",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 4
     },
     {
@@ -47,7 +47,7 @@
       "title": "I switched from VSCode to Zed",
       "href": "https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/",
       "points": "",
-      "comments": "\n              28 comments\n            ",
+      "comments": "\n              29 comments\n            ",
       "index": 7
     },
     {
@@ -58,24 +58,24 @@
       "index": 8
     },
     {
+      "title": "JavaScript's for-of loops are actually fast",
+      "href": "https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 9
+    },
+    {
       "title": "Go 1.26 interactive tour",
       "href": "https://antonz.org/go-1-26/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "go.sum Is Not a Lockfile",
       "href": "https://words.filippo.io/gosum/",
       "points": "",
       "comments": "\n              34 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "JavaScript's for-of loops are actually fast",
-      "href": "https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 11
     },
     {
@@ -100,78 +100,78 @@
       "index": 14
     },
     {
-      "title": "I/O is no longer the bottleneck? (2022)",
-      "href": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "H-Neurons: On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs",
-      "href": "https://arxiv.org/pdf/2512.01797",
+      "title": "PostgreSQL Scripting Tips",
+      "href": "https://www.pgrs.net/2026/01/06/postgresql-scripting-tips/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 15
     },
     {
       "title": "High-Performance DBMSs with io_uring: When and How to use it",
       "href": "https://arxiv.org/abs/2512.04859",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
+      "title": "I/O is no longer the bottleneck? (2022)",
+      "href": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 17
     },
     {
-      "title": "A minimal keyboard key effect with CSS",
-      "href": "https://pjg1.site/kbd-css.html",
+      "title": "Where are all the low-level JITs?",
+      "href": "/s/bffnsm/where_are_all_low_level_jits",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 18
+    },
+    {
+      "title": "H-Neurons: On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs",
+      "href": "https://arxiv.org/pdf/2512.01797",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
     },
     {
       "title": "A field guide to sandboxes for AI",
       "href": "https://www.luiscardoso.dev/blog/sandboxes-for-ai",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 19
+      "index": 20
+    },
+    {
+      "title": "A minimal keyboard key effect with CSS",
+      "href": "https://pjg1.site/kbd-css.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 21
     },
     {
       "title": "Self-exchange leaves us in a valid but unspecified state",
       "href": "https://aatango.codeberg.page/cpp-self-exchange.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 20
+      "index": 22
     },
     {
       "title": "Databases in 2025: A Year in Review",
       "href": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "No, Microsoft Office didn't just get renamed to Microsoft 365 Copilot",
       "href": "https://www.howtogeek.com/no-microsoft-office-didnt-just-get-renamed-to-microsoft-365-copilot/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "BGP in 2025",
       "href": "https://www.potaroo.net/ispcol/2026-01/bgp2025.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Who Owns the Memory? Part 3: How Big Is your Type?",
-      "href": "https://lukefleed.xyz/posts/who-owns-the-memory-pt3/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "PostgreSQL Scripting Tips",
-      "href": "https://www.pgrs.net/2026/01/06/postgresql-scripting-tips/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
