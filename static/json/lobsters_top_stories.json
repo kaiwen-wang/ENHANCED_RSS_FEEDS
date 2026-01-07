@@ -1,46 +1,46 @@
 {
-  "date": "Tuesday, January 6, 2026 at 8:45 PM GMT-5",
+  "date": "Tuesday, January 6, 2026 at 10:40 PM GMT-5",
   "articles": [
-    {
-      "title": "The Best Line Length is 88",
-      "href": "https://blog.glyph.im/2025/08/the-best-line-length.html",
-      "points": "",
-      "comments": "\n              74 comments\n            ",
-      "index": 1
-    },
     {
       "title": "why the trans flag emoji is the 5-codepoint sequence it is",
       "href": "https://hecate.pink/blog/2026/trans-flag-emoji/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "Where are all the low-level JITs?",
+      "href": "/s/bffnsm/where_are_all_low_level_jits",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
       "index": 2
+    },
+    {
+      "title": "The Best Line Length is 88",
+      "href": "https://blog.glyph.im/2025/08/the-best-line-length.html",
+      "points": "",
+      "comments": "\n              80 comments\n            ",
+      "index": 3
     },
     {
       "title": "Zero heap allocation HTTP server using OxCaml",
       "href": "https://github.com/avsm/httpz",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "There Were BGP Anomalies During The Venezuela Blackout",
       "href": "https://loworbitsecurity.com/radar/radar16/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Where are all the low-level JITs?",
-      "href": "/s/bffnsm/where_are_all_low_level_jits",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 5
     },
     {
       "title": "It’s hard to justify Tahoe icons",
       "href": "https://tonsky.me/blog/tahoe-icons/",
       "points": "",
-      "comments": "\n              59 comments\n            ",
+      "comments": "\n              60 comments\n            ",
       "index": 6
     },
     {
@@ -54,103 +54,103 @@
       "title": "Why Markdown emphasis fails in CJK: A deep dive into CommonMark's delimiter rules",
       "href": "https://hackers.pub/@yurume/019b912a-cc3b-7e45-9227-d08f0d1eafe8",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "Diffs - JS library for rendering diffs",
+      "href": "https://diffs.com",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 9
     },
     {
       "title": "I switched from VSCode to Zed",
       "href": "https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/",
       "points": "",
       "comments": "\n              30 comments\n            ",
-      "index": 9
+      "index": 10
+    },
+    {
+      "title": "Gemini Protocol Stats",
+      "href": "https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 11
     },
     {
       "title": "Adding insular script like it's 1626",
       "href": "https://djmurphy.net/blog/clo-gaelach/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 10
-    },
-    {
-      "title": "Diffs - JS library for rendering diffs",
-      "href": "https://diffs.com",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Go 1.26 interactive tour",
-      "href": "https://antonz.org/go-1-26/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
       "index": 12
     },
     {
       "title": "Self-exchange leaves us in a valid but unspecified state",
       "href": "https://aatango.codeberg.page/cpp-self-exchange.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 13
     },
     {
       "title": "JavaScript's for-of loops are actually fast",
       "href": "https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 14
-    },
-    {
-      "title": "go.sum Is Not a Lockfile",
-      "href": "https://words.filippo.io/gosum/",
-      "points": "",
-      "comments": "\n              37 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Gemini Protocol Stats",
-      "href": "https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "This Month in Redox - December 2025",
-      "href": "https://www.redox-os.org/news/this-month-251231/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "I/O is no longer the bottleneck? (2022)",
-      "href": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 18
-    },
-    {
-      "title": "so, you want to chunk really fast?",
-      "href": "https://minha.sh/posts/so,-you-want-to-chunk-really-fast",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "PostgreSQL Scripting Tips",
-      "href": "https://www.pgrs.net/2026/01/06/postgresql-scripting-tips/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
     },
     {
       "title": "High-Performance DBMSs with io_uring: When and How to use it",
       "href": "https://arxiv.org/abs/2512.04859",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
+      "index": 15
+    },
+    {
+      "title": "Go 1.26 interactive tour",
+      "href": "https://antonz.org/go-1-26/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "go.sum Is Not a Lockfile",
+      "href": "https://words.filippo.io/gosum/",
+      "points": "",
+      "comments": "\n              37 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "This Month in Redox - December 2025",
+      "href": "https://www.redox-os.org/news/this-month-251231/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "I/O is no longer the bottleneck? (2022)",
+      "href": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
+    },
+    {
+      "title": "so, you want to chunk really fast?",
+      "href": "https://minha.sh/posts/so,-you-want-to-chunk-really-fast",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 20
     },
     {
       "title": "H-Neurons: On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs",
       "href": "https://arxiv.org/pdf/2512.01797",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "PostgreSQL Scripting Tips",
+      "href": "https://www.pgrs.net/2026/01/06/postgresql-scripting-tips/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 22
