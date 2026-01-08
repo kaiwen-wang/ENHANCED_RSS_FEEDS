@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, January 7, 2026 at 8:45 PM GMT-5",
+  "date": "Wednesday, January 7, 2026 at 10:40 PM GMT-5",
   "articles": [
     {
       "title": "A4 Paper Stories",
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
-      "title": "The most popular Go dependency is…",
-      "href": "https://blog.thibaut-rousseau.com/blog/the-most-popular-go-dependency-is/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 5
-    },
-    {
       "title": "ACM is Now Fully Open Access",
       "href": "https://www.acm.org/articles/bulletins/2026/january/acm-open-access",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "The most popular Go dependency is…",
+      "href": "https://blog.thibaut-rousseau.com/blog/the-most-popular-go-dependency-is/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 6
     },
     {
@@ -54,14 +54,14 @@
       "title": "PostgreSQL 18 RETURNING Enhancements: A Game Changer for Modern Applications",
       "href": "https://www.pgedge.com/blog/postgresql-18-returning-enhancements-a-game-changer-for-modern-applications",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 8
     },
     {
       "title": "Practical Collision Attack Against Long Key IDs in PGP",
       "href": "https://soatok.blog/2026/01/07/practical-collision-attack-against-long-key-ids-in-pgp/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 9
     },
     {
@@ -82,68 +82,68 @@
       "title": "Where are all the low-level JITs?",
       "href": "/s/bffnsm/where_are_all_low_level_jits",
       "points": "",
-      "comments": "\n              63 comments\n            ",
+      "comments": "\n              66 comments\n            ",
       "index": 12
-    },
-    {
-      "title": "Myths about Logitech Developer ID certificate expiration",
-      "href": "https://lapcatsoftware.com/articles/2026/1/2.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
-      "title": "c-from-scratch: Learn to build safety-critical systems in C",
-      "href": "https://github.com/williamofai/c-from-scratch",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "XMPP and metadata",
-      "href": "https://blog.mathieui.net/xmpp-and-metadata.html",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 15
     },
     {
       "title": "embassy: Modern embedded framework, using Rust and async",
       "href": "https://github.com/embassy-rs/embassy",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 13
     },
     {
-      "title": "Software craftsmanship is dead",
-      "href": "https://www.pcloadletter.dev/blog/craftsmanship-is-dead/",
+      "title": "Myths about Logitech Developer ID certificate expiration",
+      "href": "https://lapcatsoftware.com/articles/2026/1/2.html",
       "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 17
+      "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
+      "title": "c-from-scratch: Learn to build safety-critical systems in C",
+      "href": "https://github.com/williamofai/c-from-scratch",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "XMPP and metadata",
+      "href": "https://blog.mathieui.net/xmpp-and-metadata.html",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 16
     },
     {
       "title": "Open Source Mapping for News: Reuters",
       "href": "https://scottreinhardmaps.com/blogs/custom-mapping-projects/custom-reuters-open-source-mapping",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Software craftsmanship is dead",
+      "href": "https://www.pcloadletter.dev/blog/craftsmanship-is-dead/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
       "index": 18
+    },
+    {
+      "title": "Hermes Studio demo (my React Native decompiler and disassembler)",
+      "href": "https://www.youtube.com/watch?v=9wi8wMzmg-U",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
     },
     {
       "title": "Some Gleam Projects",
       "href": "https://dusty.phillips.codes/2026/01/05/some-gleam-projects/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "voxtype: Voice-to-text with push-to-talk for Wayland compositors",
       "href": "https://github.com/peteonrails/voxtype",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 20
-    },
-    {
-      "title": "Hermes Studio demo (my React Native decompiler and disassembler)",
-      "href": "https://www.youtube.com/watch?v=9wi8wMzmg-U",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 21
@@ -156,22 +156,22 @@
       "index": 22
     },
     {
+      "title": "Zero heap allocation HTTP server using OxCaml",
+      "href": "https://github.com/avsm/httpz",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 23
+    },
+    {
       "title": "The Best Line Length",
       "href": "https://blog.glyph.im/2025/08/the-best-line-length.html",
       "points": "",
       "comments": "\n              112 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Zero heap allocation HTTP server using OxCaml",
-      "href": "https://github.com/avsm/httpz",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 24
     },
     {
-      "title": "NumPy-QuadDType: A cross-platform Quad (128-bit) float Data-Type for NumPy",
-      "href": "https://numpy.org/numpy-user-dtypes/quaddtype/",
+      "title": "Web dependencies are broken. Can we fix them? • Lea Verou",
+      "href": "https://lea.verou.me/blog/2026/web-deps/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
