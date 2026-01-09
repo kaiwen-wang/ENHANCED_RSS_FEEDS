@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, January 8, 2026 at 8:50 PM GMT-5",
+  "date": "Thursday, January 8, 2026 at 10:40 PM GMT-5",
   "articles": [
     {
       "title": "What Happened To WebAssembly",
@@ -16,17 +16,17 @@
       "index": 2
     },
     {
-      "title": "Tailwind Labs loses 80% of revenue and 75% of engineering due to AI",
-      "href": "https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left",
-      "points": "",
-      "comments": "\n              89 comments\n            ",
-      "index": 3
-    },
-    {
       "title": "jujutsu v0.37.0 released",
       "href": "https://github.com/jj-vcs/jj/releases/tag/v0.37.0",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "Tailwind Labs loses 80% of revenue and 75% of engineering due to AI",
+      "href": "https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left",
+      "points": "",
+      "comments": "\n              90 comments\n            ",
       "index": 4
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
-      "title": "A data model for Git",
-      "href": "https://jvns.ca/blog/2026/01/08/a-data-model-for-git/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 6
-    },
-    {
       "title": "How Terminals Work",
       "href": "https://how-terminals-work.vercel.app/",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "A data model for Git",
+      "href": "https://jvns.ca/blog/2026/01/08/a-data-model-for-git/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 7
     },
     {
@@ -65,94 +65,94 @@
       "index": 9
     },
     {
+      "title": "Why SemVer fails when you patch old versions and what to do instead",
+      "href": "https://beza1e1.tuxen.de/patching_old_versions.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 10
+    },
+    {
       "title": "FreeBSD Home NAS, part 8: Backing up NFS and Samba data with restic",
       "href": "https://rtfm.co.ua/en/freebsd-home-nas-part-8-nfs-and-samba-data-backups-using-restic/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "A4 Paper Stories",
       "href": "https://susam.net/a4-paper-stories.html",
       "points": "",
       "comments": "\n              24 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Relax for the same result (2015)",
       "href": "https://sive.rs/relax",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Per-query energy consumption of LLMs",
       "href": "https://muxup.com/2026q1/per-query-energy-consumption-of-llms",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Cursorless: Voice coding at the speed of thought",
       "href": "https://www.cursorless.org/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
-      "title": "Why SemVer fails when you patch old versions and what to do instead",
-      "href": "https://beza1e1.tuxen.de/patching_old_versions.html",
+      "title": "Dell seems to be the first to realise we don't actually care about AI PCs",
+      "href": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "HTML parsers in Portland",
+      "href": "https://felix.dognebula.com/art/html-parsers-in-portland.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 17
     },
     {
       "title": "Some Things I've Learned About Software",
       "href": "https://www.youtube.com/watch?v=RJgDW2AERr8",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 18
     },
     {
       "title": "Improving the Flatpak Graphics Drivers Situation",
       "href": "https://blog.sebastianwick.net/posts/flatpak-graphics-drivers/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 19
     },
     {
       "title": "What would make OCaml serverless ready?",
       "href": "https://www.chrisarmstrong.dev/posts/what-would-make-ocaml-serverless-ready",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Introduction to SIMD programming in pure Rust",
-      "href": "https://kerkour.com/introduction-rust-simd",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "embassy: Modern embedded framework, using Rust and async",
       "href": "https://github.com/embassy-rs/embassy",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Run Your Project in a Dev Container, in Zed",
-      "href": "https://zed.dev/blog/dev-containers",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 21
     },
     {
-      "title": "The Haskell Debugger for GHC 9.14",
-      "href": "https://discourse.haskell.org/t/the-haskell-debugger-for-ghc-9-14/13499",
+      "title": "Introduction to SIMD programming in pure Rust",
+      "href": "https://kerkour.com/introduction-rust-simd",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "GoTHub SSH Signup",
-      "href": "https://gothub.org/signup.html",
+      "title": "Run Your Project in a Dev Container, in Zed",
+      "href": "https://zed.dev/blog/dev-containers",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 24
     },
     {
-      "title": "Fun with Algebraic Effects - from Toy Examples to Hardcaml Simulations",
-      "href": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
+      "title": "The Haskell Debugger for GHC 9.14",
+      "href": "https://discourse.haskell.org/t/the-haskell-debugger-for-ghc-9-14/13499",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 25
     }
   ]
