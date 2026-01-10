@@ -1,18 +1,18 @@
 {
-  "date": "Saturday, January 10, 2026 at 4:20 PM GMT-5",
+  "date": "Saturday, January 10, 2026 at 5:20 PM GMT-5",
   "articles": [
-    {
-      "title": "How I use Jujutsu",
-      "href": "https://abhinavsarkar.net/posts/jj-usage/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 1
-    },
     {
       "title": "Finding and Fixing Ghostty's Largest Memory Leak",
       "href": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              5 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "How I use Jujutsu",
+      "href": "https://abhinavsarkar.net/posts/jj-usage/",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
       "index": 2
     },
     {
@@ -30,22 +30,22 @@
       "index": 4
     },
     {
-      "title": "Learn C++ Itanium Symbol Mangling",
-      "href": "https://noratrieb.github.io/womangling/",
+      "title": "jj tug",
+      "href": "https://shaddy.dev/notes/jj-tug/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 5
     },
     {
-      "title": "jj tug",
-      "href": "https://shaddy.dev/notes/jj-tug/",
+      "title": "Learn C++ Itanium Symbol Mangling",
+      "href": "https://noratrieb.github.io/womangling/",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 6
     },
     {
-      "title": "Hongdown: An opinionated Markdown formatter in Rust",
-      "href": "https://github.com/dahlia/hongdown",
+      "title": "Pulling a New Proof from Knuth’s Fixed-Point Printer",
+      "href": "https://research.swtch.com/fp-knuth",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 7
@@ -58,31 +58,31 @@
       "index": 8
     },
     {
-      "title": "I Cannot SSH Into My Server Anymore (And That’s Fine)",
-      "href": "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html",
-      "points": "",
-      "comments": "\n              29 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Pulling a New Proof from Knuth’s Fixed-Point Printer",
-      "href": "https://research.swtch.com/fp-knuth",
+      "title": "Hongdown: An opinionated Markdown formatter in Rust",
+      "href": "https://github.com/dahlia/hongdown",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Tag Proposal: logic-lang",
-      "href": "/s/igbrxv/tag_proposal_logic_lang",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 11
+      "index": 9
     },
     {
       "title": "OpenChaos.dev",
       "href": "https://www.openchaos.dev/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "I Cannot SSH Into My Server Anymore (And That’s Fine)",
+      "href": "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html",
+      "points": "",
+      "comments": "\n              30 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Tag Proposal: logic-lang",
+      "href": "/s/igbrxv/tag_proposal_logic_lang",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 12
     },
     {
@@ -96,7 +96,7 @@
       "title": "European Commission issues call for evidence on open source",
       "href": "https://lwn.net/Articles/1053107/",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 14
     },
     {
@@ -114,17 +114,17 @@
       "index": 16
     },
     {
-      "title": "Shell scripts",
-      "href": "https://f5n.org/blog/2026/shell-scripts/",
-      "points": "",
-      "comments": "\n              53 comments\n            ",
-      "index": 17
-    },
-    {
       "title": "Bare metal programming with RISC-V guide (2023)",
       "href": "https://popovicu.com/posts/bare-metal-programming-risc-v/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Shell scripts",
+      "href": "https://f5n.org/blog/2026/shell-scripts/",
+      "points": "",
+      "comments": "\n              53 comments\n            ",
       "index": 18
     },
     {
@@ -135,15 +135,15 @@
       "index": 19
     },
     {
-      "title": "Don’t snipe me in space - intentional flash corruption for STM32 microcontrollers",
-      "href": "https://blog.010.one/Dont-snipe-me-in-space-intentional-flash-corruption-for-stm32-microcontrollers",
+      "title": "annote: Writing java using only annotations",
+      "href": "https://github.com/kusoroadeolu/annote",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 20
     },
     {
-      "title": "annote: Writing java using only annotations",
-      "href": "https://github.com/kusoroadeolu/annote",
+      "title": "Don’t snipe me in space - intentional flash corruption for STM32 microcontrollers",
+      "href": "https://blog.010.one/Dont-snipe-me-in-space-intentional-flash-corruption-for-stm32-microcontrollers",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 21
@@ -152,7 +152,7 @@
       "title": "Phosh 2025 in Retrospect",
       "href": "https://phosh.mobi/posts/phosh-2025-in-retrospect/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 22
     },
     {
@@ -173,7 +173,7 @@
       "title": "What are you doing this weekend?",
       "href": "/s/6rp1jv/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              30 comments\n            ",
+      "comments": "\n              31 comments\n            ",
       "index": 25
     }
   ]
