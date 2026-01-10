@@ -1,32 +1,32 @@
 {
-  "date": "Saturday, January 10, 2026 at 3:25 PM GMT-5",
+  "date": "Saturday, January 10, 2026 at 4:20 PM GMT-5",
   "articles": [
     {
       "title": "How I use Jujutsu",
       "href": "https://abhinavsarkar.net/posts/jj-usage/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "Finding and Fixing Ghostty's Largest Memory Leak",
+      "href": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 2
     },
     {
       "title": "&&&&&&&&&&&&&&str",
       "href": "https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 2
+      "index": 3
     },
     {
       "title": "Prompting 101: Show, don’t tell",
       "href": "https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html",
       "points": "",
       "comments": "\n              22 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Hongdown: An opinionated Markdown formatter in Rust",
-      "href": "https://github.com/dahlia/hongdown",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 4
     },
     {
@@ -37,87 +37,87 @@
       "index": 5
     },
     {
+      "title": "jj tug",
+      "href": "https://shaddy.dev/notes/jj-tug/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Hongdown: An opinionated Markdown formatter in Rust",
+      "href": "https://github.com/dahlia/hongdown",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 7
+    },
+    {
       "title": "Continuous Snapshotting Filesystem",
       "href": "https://nilfs.sourceforge.io/en/index.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 6
+      "index": 8
     },
     {
       "title": "I Cannot SSH Into My Server Anymore (And That’s Fine)",
       "href": "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html",
       "points": "",
       "comments": "\n              29 comments\n            ",
-      "index": 7
+      "index": 9
     },
     {
       "title": "Pulling a New Proof from Knuth’s Fixed-Point Printer",
       "href": "https://research.swtch.com/fp-knuth",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 8
+      "index": 10
     },
     {
       "title": "Tag Proposal: logic-lang",
       "href": "/s/igbrxv/tag_proposal_logic_lang",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 9
+      "index": 11
     },
     {
       "title": "OpenChaos.dev",
       "href": "https://www.openchaos.dev/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
+      "index": 12
     },
     {
       "title": "Type inference of all constructs and the next 15 months",
       "href": "https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 11
+      "index": 13
+    },
+    {
+      "title": "European Commission issues call for evidence on open source",
+      "href": "https://lwn.net/Articles/1053107/",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 14
     },
     {
       "title": "Garbage collected handles are lifetime-contravariant",
       "href": "https://trynova.dev/blog/garbage-collection-is-contrarian",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "European Commission issues call for evidence on open source",
-      "href": "https://lwn.net/Articles/1053107/",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 13
+      "index": 15
     },
     {
       "title": "Celeste & TowerFall Physics",
       "href": "https://www.maddymakesgames.com/articles/celeste_and_towerfall_physics/index.html",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "jj tug",
-      "href": "https://shaddy.dev/notes/jj-tug/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Shell scripts",
       "href": "https://f5n.org/blog/2026/shell-scripts/",
       "points": "",
-      "comments": "\n              52 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Finding and Fixing Ghostty's Largest Memory Leak",
-      "href": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              53 comments\n            ",
       "index": 17
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "annote: Writing java using only annotations",
+      "href": "https://github.com/kusoroadeolu/annote",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Phosh 2025 in Retrospect",
+      "href": "https://phosh.mobi/posts/phosh-2025-in-retrospect/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 22
+    },
+    {
       "title": "Answer Set Programming (2019)",
       "href": "https://www.cs.utexas.edu/~vl/teaching/378/ASP.pdf",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "V16 beacon full uplink conversation",
       "href": "https://destevez.net/2026/01/v16-beacon-full-uplink-conversation/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/6rp1jv/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "How we made Python's packaging library 3x faster",
-      "href": "https://iscinumpy.dev/post/packaging-faster/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Phosh 2025 in Retrospect",
-      "href": "https://phosh.mobi/posts/phosh-2025-in-retrospect/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              30 comments\n            ",
       "index": 25
     }
   ]
