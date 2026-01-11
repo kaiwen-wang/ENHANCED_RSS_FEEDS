@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, January 11, 2026 at 5:20 PM GMT-5",
+  "date": "Sunday, January 11, 2026 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "Don't fall into the anti-AI hype",
       "href": "https://antirez.com/news/158",
       "points": "",
-      "comments": "\n              159 comments\n            ",
+      "comments": "\n              173 comments\n            ",
       "index": 1
     },
     {
@@ -19,21 +19,21 @@
       "title": "LLVM: The bad parts",
       "href": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 3
     },
     {
       "title": "A Unique Performance Optimization for a 3D Geometry Language",
       "href": "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 4
     },
     {
       "title": "Asahi Linux - Porting Linux to Apple Silicon",
       "href": "https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 5
     },
     {
@@ -65,45 +65,45 @@
       "index": 9
     },
     {
-      "title": "I Replaced Redis with PostgreSQL (And It's Faster)",
-      "href": "https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942",
+      "title": "Mitigating the Billion Dollar Mistake",
+      "href": "https://www.gingerbill.org/article/2026/01/11/mitigating-the-billion-dollar-mistake/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 10
     },
     {
       "title": "Keeping 20,000 GPUs healthy",
       "href": "https://modal.com/blog/gpu-health",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 11
+    },
+    {
+      "title": "I Replaced Redis with PostgreSQL (And It's Faster)",
+      "href": "https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 12
     },
     {
       "title": "We default to addition",
       "href": "https://www.ufried.com/blog/addition_bias/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 12
+      "index": 13
+    },
+    {
+      "title": "Who are people currently using as hosting providers?",
+      "href": "/s/hcpnrj/who_are_people_currently_using_as_hosting",
+      "points": "",
+      "comments": "\n              16 comments\n            ",
+      "index": 14
     },
     {
       "title": "PMU Counters on Apple Silicon",
       "href": "https://blog.bugsiki.dev/posts/apple-pmu/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Mitigating the Billion Dollar Mistake",
-      "href": "https://www.gingerbill.org/article/2026/01/11/mitigating-the-billion-dollar-mistake/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Who are people currently using as hosting providers?",
-      "href": "/s/hcpnrj/who_are_people_currently_using_as_hosting",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
       "index": 15
     },
     {
@@ -114,59 +114,59 @@
       "index": 16
     },
     {
+      "title": "Turntiles, an NYT style word game I made for my parents",
+      "href": "https://github.com/wheybags/turntiles",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
       "title": "jj tug",
       "href": "https://shaddy.dev/notes/jj-tug/",
       "points": "",
       "comments": "\n              16 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "1160 PRs to improve Rust in 2025",
       "href": "https://kobzol.github.io/rust/rustc/2026/01/05/my-rust-contributions-in-2025.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "std::move doesn't move anything: A deep dive into Value Categories",
       "href": "https://0xghost.dev/blog/std-move-deep-dive/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "When msvc::musttail attribute silently fails",
       "href": "https://www.abareplace.com/blog/musttail/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "gomponents, HTML components in pure Go",
       "href": "https://www.gomponents.com",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Airfrog: Tiny sub-$5 wireless co-processor for ARM MCUs",
       "href": "https://www.youtube.com/watch?v=XY2RdaR9DeU",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "How Safe is the Rust Ecosystem? A Deep Dive into crates.io",
       "href": "https://mr-leshiy-blog.web.app/blog/crates_io_analysis/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "How I use Jujutsu",
-      "href": "https://abhinavsarkar.net/posts/jj-usage/",
-      "points": "",
-      "comments": "\n              29 comments\n            ",
       "index": 24
     },
     {
