@@ -1,179 +1,179 @@
 {
-  "date": "Sunday, January 11, 2026 at 8:30 AM GMT-5",
+  "date": "Sunday, January 11, 2026 at 9:20 AM GMT-5",
   "articles": [
     {
       "title": "Gentoo Linux 2025 Review",
       "href": "https://www.gentoo.org/news/2026/01/05/new-year.html",
-      "points": "28 points",
-      "comments": "3 comments",
+      "points": "68 points",
+      "comments": "11 comments",
       "index": 1
-    },
-    {
-      "title": "C++ std::move doesn't move anything: A deep dive into Value Categories",
-      "href": "https://0xghost.dev/blog/std-move-deep-dive/",
-      "points": "118 points",
-      "comments": "69 comments",
-      "index": 2
-    },
-    {
-      "title": "Think of Pavlov",
-      "href": "https://boz.com/articles/think-pavlov",
-      "points": "29 points",
-      "comments": "4 comments",
-      "index": 3
     },
     {
       "title": "\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders",
       "href": "https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders",
-      "points": "33 points",
-      "comments": "4 comments",
+      "points": "58 points",
+      "comments": "6 comments",
+      "index": 2
+    },
+    {
+      "title": "C++ std::move doesn't move anything: A deep dive into Value Categories",
+      "href": "https://0xghost.dev/blog/std-move-deep-dive/",
+      "points": "134 points",
+      "comments": "84 comments",
+      "index": 3
+    },
+    {
+      "title": "Think of Pavlov",
+      "href": "https://boz.com/articles/think-pavlov",
+      "points": "38 points",
+      "comments": "10 comments",
       "index": 4
+    },
+    {
+      "title": "BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5",
+      "href": "https://github.com/amcchord/M5Tab-Macintosh",
+      "points": "10 points",
+      "comments": "discuss",
+      "index": 5
     },
     {
       "title": "The Concise TypeScript Book",
       "href": "https://github.com/gibbok/typescript-book",
-      "points": "126 points",
-      "comments": "28 comments",
-      "index": 5
+      "points": "134 points",
+      "comments": "30 comments",
+      "index": 6
     },
     {
       "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
       "href": "https://github.com/vojtapolasek/vojtux",
-      "points": "73 points",
-      "comments": "23 comments",
-      "index": 6
-    },
-    {
-      "title": "More than one hundred years of Film Sizes",
-      "href": "https://wichm.home.xs4all.nl/filmsize.html",
-      "points": "45 points",
-      "comments": "9 comments",
+      "points": "80 points",
+      "comments": "24 comments",
       "index": 7
-    },
-    {
-      "title": "Finding and fixing Ghostty's largest memory leak",
-      "href": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
-      "points": "497 points",
-      "comments": "106 comments",
-      "index": 8
-    },
-    {
-      "title": "Show HN: I used Claude Code to discover connections between 100 books",
-      "href": "https://trails.pieterma.es/",
-      "points": "396 points",
-      "comments": "106 comments",
-      "index": 9
-    },
-    {
-      "title": "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
-      "href": "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/",
-      "points": "54 points",
-      "comments": "22 comments",
-      "index": 10
     },
     {
       "title": "Iran Shuts Down Starlink Internet for First Time",
       "href": "https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/",
-      "points": "27 points",
-      "comments": "4 comments",
+      "points": "76 points",
+      "comments": "33 comments",
+      "index": 8
+    },
+    {
+      "title": "More than one hundred years of Film Sizes",
+      "href": "https://wichm.home.xs4all.nl/filmsize.html",
+      "points": "50 points",
+      "comments": "13 comments",
+      "index": 9
+    },
+    {
+      "title": "Finding and fixing Ghostty's largest memory leak",
+      "href": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+      "points": "508 points",
+      "comments": "109 comments",
+      "index": 10
+    },
+    {
+      "title": "Show HN: I used Claude Code to discover connections between 100 books",
+      "href": "https://trails.pieterma.es/",
+      "points": "404 points",
+      "comments": "118 comments",
       "index": 11
     },
     {
-      "title": "Code and Let Live",
-      "href": "https://fly.io/blog/code-and-let-live/",
-      "points": "367 points",
-      "comments": "129 comments",
+      "title": "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
+      "href": "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/",
+      "points": "57 points",
+      "comments": "23 comments",
       "index": 12
-    },
-    {
-      "title": "CPU Counters on Apple Silicon: article + tool",
-      "href": "https://blog.bugsiki.dev/posts/apple-pmu/",
-      "points": "106 points",
-      "comments": "discuss",
-      "index": 13
-    },
-    {
-      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
-      "href": "https://github.com/OlaProeis/Ferrite",
-      "points": "188 points",
-      "comments": "106 comments",
-      "index": 14
-    },
-    {
-      "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
-      "href": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
-      "points": "75 points",
-      "comments": "20 comments",
-      "index": 15
-    },
-    {
-      "title": "Open Chaos: A self-evolving open-source project",
-      "href": "https://www.openchaos.dev/",
-      "points": "389 points",
-      "comments": "80 comments",
-      "index": 16
-    },
-    {
-      "title": "AI is a business model stress test",
-      "href": "https://dri.es/ai-is-a-business-model-stress-test",
-      "points": "278 points",
-      "comments": "262 comments",
-      "index": 17
-    },
-    {
-      "title": "Verifiable Brute Force Strength",
-      "href": "https://gist.github.com/atoponce/a7715930ae6eb7d6b487f2f76b57a68d",
-      "points": "3 points",
-      "comments": "discuss",
-      "index": 18
     },
     {
       "title": "Google: Don't make \"bite-sized\" content for LLMs",
       "href": "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/",
+      "points": "22 points",
+      "comments": "13 comments",
+      "index": 13
+    },
+    {
+      "title": "Code and Let Live",
+      "href": "https://fly.io/blog/code-and-let-live/",
+      "points": "371 points",
+      "comments": "134 comments",
+      "index": 14
+    },
+    {
+      "title": "CPU Counters on Apple Silicon: article + tool",
+      "href": "https://blog.bugsiki.dev/posts/apple-pmu/",
+      "points": "114 points",
+      "comments": "discuss",
+      "index": 15
+    },
+    {
+      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
+      "href": "https://github.com/OlaProeis/Ferrite",
+      "points": "194 points",
+      "comments": "109 comments",
+      "index": 16
+    },
+    {
+      "title": "Open Chaos: A self-evolving open-source project",
+      "href": "https://www.openchaos.dev/",
+      "points": "392 points",
+      "comments": "81 comments",
+      "index": 17
+    },
+    {
+      "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
+      "href": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
+      "points": "82 points",
+      "comments": "24 comments",
+      "index": 18
+    },
+    {
+      "title": "HTML-only conditional lazy loading (via preload and media)",
+      "href": "https://orga.cat/blog/html-conditional-lazy-loading/",
       "points": "10 points",
-      "comments": "5 comments",
+      "comments": "1 comment",
       "index": 19
+    },
+    {
+      "title": "AI is a business model stress test",
+      "href": "https://dri.es/ai-is-a-business-model-stress-test",
+      "points": "282 points",
+      "comments": "270 comments",
+      "index": 20
+    },
+    {
+      "title": "Max Payne – two decades later – Graphics Critique (2021)",
+      "href": "https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html",
+      "points": "83 points",
+      "comments": "24 comments",
+      "index": 21
     },
     {
       "title": "Overdose deaths are falling in America because of a 'supply shock': study",
       "href": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
-      "points": "163 points",
-      "comments": "136 comments",
-      "index": 20
-    },
-    {
-      "title": "I dumped Windows 11 for Linux, and you should too",
-      "href": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
-      "points": "118 points",
-      "comments": "121 comments",
-      "index": 21
+      "points": "173 points",
+      "comments": "149 comments",
+      "index": 22
     },
     {
       "title": "Show HN: Play poker with LLMs, or watch them play against each other",
       "href": "https://llmholdem.com/",
-      "points": "132 points",
-      "comments": "67 comments",
-      "index": 22
-    },
-    {
-      "title": "LLM poetry and the \"greatness\" question: Experiments by Gwern and Mercor",
-      "href": "https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question",
-      "points": "10 points",
-      "comments": "discuss",
+      "points": "137 points",
+      "comments": "70 comments",
       "index": 23
-    },
-    {
-      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
-      "href": "item?id=46571149",
-      "points": "114 points",
-      "comments": "39 comments",
-      "index": 24
     },
     {
       "title": "Show HN: I built an Open Source screen timer for the m5stickc (Arduino)",
       "href": "https://partridge.works/screenie-christmas-project-2025-26/",
-      "points": "9 points",
+      "points": "12 points",
       "comments": "discuss",
+      "index": 24
+    },
+    {
+      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
+      "href": "item?id=46571149",
+      "points": "115 points",
+      "comments": "40 comments",
       "index": 25
     },
     {
@@ -184,31 +184,31 @@
       "index": 26
     },
     {
-      "title": "Max Payne – two decades later – Graphics Critique (2021)",
-      "href": "https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html",
-      "points": "69 points",
-      "comments": "24 comments",
+      "title": "Verifiable Brute Force Strength",
+      "href": "https://gist.github.com/atoponce/a7715930ae6eb7d6b487f2f76b57a68d",
+      "points": "5 points",
+      "comments": "1 comment",
       "index": 27
     },
     {
       "title": "A battle over Canada’s mystery brain disease",
       "href": "https://www.bbc.com/news/articles/c623r47d67lo",
-      "points": "163 points",
-      "comments": "110 comments",
+      "points": "170 points",
+      "comments": "116 comments",
       "index": 28
+    },
+    {
+      "title": "LLM poetry and the \"greatness\" question: Experiments by Gwern and Mercor",
+      "href": "https://hollisrobbinsanecdotal.substack.com/p/llm-poetry-and-the-greatness-question",
+      "points": "14 points",
+      "comments": "discuss",
+      "index": 29
     },
     {
       "title": "Show HN: Yellopages – New tab Chrome extension",
       "href": "https://yellopages.kawaicheung.io/",
       "points": "28 points",
       "comments": "6 comments",
-      "index": 29
-    },
-    {
-      "title": "Ripple: The Elegant TypeScript UI Framework",
-      "href": "https://jsdev.space/meet-ripple/",
-      "points": "29 points",
-      "comments": "19 comments",
       "index": 30
     }
   ]
