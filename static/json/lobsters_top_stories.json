@@ -1,53 +1,53 @@
 {
-  "date": "Sunday, January 11, 2026 at 10:20 AM GMT-5",
+  "date": "Sunday, January 11, 2026 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "Don't fall into the anti-AI hype",
       "href": "https://antirez.com/news/158",
       "points": "",
-      "comments": "\n              59 comments\n            ",
+      "comments": "\n              88 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "A Unique Performance Optimization for a 3D Geometry Language",
+      "href": "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 2
     },
     {
       "title": "Finding and Fixing Ghostty's Largest Memory Leak",
       "href": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
       "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 2
+      "comments": "\n              14 comments\n            ",
+      "index": 3
     },
     {
       "title": "80% of Rye in 20% of the Time [1/3]",
       "href": "https://ryelang.org/blog/posts/learn_80_rye_in_20_time_code/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "A Unique Performance Optimization for a 3D Geometry Language",
-      "href": "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 4
     },
     {
       "title": "Create a semi-working desktop only based on runtime Windows 3.10 shipped with Windows 95 installer",
       "href": "https://tech.lgbt/@nina_kali_nina/115871854239918291",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 5
     },
     {
       "title": "The Hobbyist Maintainer Economic Gravity Well",
       "href": "https://softwaremaxims.com/blog/hobbyist-gravity-well",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 6
     },
     {
-      "title": "jj tug",
-      "href": "https://shaddy.dev/notes/jj-tug/",
+      "title": "Asahi Linux - Porting Linux to Apple Silicon",
+      "href": "https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 7
     },
     {
@@ -58,31 +58,31 @@
       "index": 8
     },
     {
+      "title": "jj tug",
+      "href": "https://shaddy.dev/notes/jj-tug/",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 9
+    },
+    {
       "title": "How I use Jujutsu",
       "href": "https://abhinavsarkar.net/posts/jj-usage/",
       "points": "",
       "comments": "\n              23 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
-      "title": "Asahi Linux - Porting Linux to Apple Silicon",
-      "href": "https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon",
+      "title": "PMU Counters on Apple Silicon",
+      "href": "https://blog.bugsiki.dev/posts/apple-pmu/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "OpenChaos.dev",
       "href": "https://www.openchaos.dev/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Writing mutexes from scratch in Go",
-      "href": "https://rybicki.io/blog/2026/01/01/mutexes-from-scratch-in-go.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 12
     },
     {
@@ -93,45 +93,45 @@
       "index": 13
     },
     {
-      "title": "PMU Counters on Apple Silicon",
-      "href": "https://blog.bugsiki.dev/posts/apple-pmu/",
+      "title": "Implementing a tiny CPU rasterizer",
+      "href": "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 14
+    },
+    {
+      "title": "Writing mutexes from scratch in Go",
+      "href": "https://rybicki.io/blog/2026/01/01/mutexes-from-scratch-in-go.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
     },
     {
       "title": "Code And Let Live",
       "href": "https://fly.io/blog/code-and-let-live/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
-      "title": "Implementing a tiny CPU rasterizer",
-      "href": "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html",
+      "title": "std::move doesn't move anything: A deep dive into Value Categories",
+      "href": "https://0xghost.dev/blog/std-move-deep-dive/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Pulling a New Proof from Knuth’s Fixed-Point Printer",
       "href": "https://research.swtch.com/fp-knuth",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
+      "comments": "\n              1 comment\n            ",
+      "index": 18
     },
     {
       "title": "whenwords: A relative time formatting library, with no code",
       "href": "https://github.com/dbreunig/whenwords",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Hongdown: An opinionated Markdown formatter in Rust",
-      "href": "https://github.com/dahlia/hongdown",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 19
     },
     {
@@ -142,15 +142,15 @@
       "index": 20
     },
     {
-      "title": "KIM1-Demo: for the KIM-1's 50th birthday",
-      "href": "https://github.com/netzherpes/KIM1-Demo",
+      "title": "Hongdown: An opinionated Markdown formatter in Rust",
+      "href": "https://github.com/dahlia/hongdown",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 21
     },
     {
-      "title": "std::move doesn't move anything: A deep dive into Value Categories",
-      "href": "https://0xghost.dev/blog/std-move-deep-dive/",
+      "title": "KIM1-Demo: for the KIM-1's 50th birthday",
+      "href": "https://github.com/netzherpes/KIM1-Demo",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 22

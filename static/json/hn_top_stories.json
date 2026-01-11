@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, January 11, 2026 at 10:20 AM GMT-5",
+  "date": "Sunday, January 11, 2026 at 11:25 AM GMT-5",
   "articles": [
     {
       "title": "Gentoo Linux 2025 Review",
       "href": "https://www.gentoo.org/news/2026/01/05/new-year.html",
-      "points": "111 points",
-      "comments": "32 comments",
+      "points": "151 points",
+      "comments": "56 comments",
       "index": 1
     },
     {
       "title": "Happy 50th Birthday KIM-1",
       "href": "https://github.com/netzherpes/KIM1-Demo",
-      "points": "13 points",
-      "comments": "2 comments",
+      "points": "26 points",
+      "comments": "8 comments",
       "index": 2
     },
     {
       "title": "\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders",
       "href": "https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders",
-      "points": "92 points",
-      "comments": "22 comments",
+      "points": "129 points",
+      "comments": "35 comments",
       "index": 3
+    },
+    {
+      "title": "Instagram data breach reportedly exposed the personal info of 17.5M users",
+      "href": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html",
+      "points": "62 points",
+      "comments": "21 comments",
+      "index": 4
     },
     {
       "title": "C++ std::move doesn't move anything: A deep dive into Value Categories",
       "href": "https://0xghost.dev/blog/std-move-deep-dive/",
-      "points": "147 points",
-      "comments": "101 comments",
-      "index": 4
-    },
-    {
-      "title": "Think of Pavlov",
-      "href": "https://boz.com/articles/think-pavlov",
-      "points": "52 points",
-      "comments": "17 comments",
+      "points": "161 points",
+      "comments": "118 comments",
       "index": 5
-    },
-    {
-      "title": "BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5",
-      "href": "https://github.com/amcchord/M5Tab-Macintosh",
-      "points": "25 points",
-      "comments": "1 comment",
-      "index": 6
     },
     {
       "title": "I dumped Windows 11 for Linux, and you should too",
       "href": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
-      "points": "192 points",
-      "comments": "191 comments",
+      "points": "282 points",
+      "comments": "276 comments",
+      "index": 6
+    },
+    {
+      "title": "BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5",
+      "href": "https://github.com/amcchord/M5Tab-Macintosh",
+      "points": "40 points",
+      "comments": "5 comments",
       "index": 7
+    },
+    {
+      "title": "Think of Pavlov",
+      "href": "https://boz.com/articles/think-pavlov",
+      "points": "63 points",
+      "comments": "24 comments",
+      "index": 8
     },
     {
       "title": "The Concise TypeScript Book",
       "href": "https://github.com/gibbok/typescript-book",
-      "points": "149 points",
-      "comments": "31 comments",
-      "index": 8
+      "points": "161 points",
+      "comments": "32 comments",
+      "index": 9
     },
     {
       "title": "Show HN: Porting xv6 to HiFive Unmatched board",
       "href": "https://github.com/eyengin/xv6-riscv-unmatched",
-      "points": "8 points",
+      "points": "14 points",
       "comments": "discuss",
-      "index": 9
-    },
-    {
-      "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
-      "href": "https://github.com/vojtapolasek/vojtux",
-      "points": "86 points",
-      "comments": "25 comments",
       "index": 10
     },
     {
       "title": "My Home Fibre Network Disintegrated",
       "href": "https://alienchow.dev/post/fibre_disintegration/",
-      "points": "178 points",
-      "comments": "165 comments",
+      "points": "197 points",
+      "comments": "173 comments",
       "index": 11
-    },
-    {
-      "title": "HTML-only conditional lazy loading (via preload and media)",
-      "href": "https://orga.cat/blog/html-conditional-lazy-loading/",
-      "points": "29 points",
-      "comments": "2 comments",
-      "index": 12
-    },
-    {
-      "title": "More than one hundred years of Film Sizes",
-      "href": "https://wichm.home.xs4all.nl/filmsize.html",
-      "points": "60 points",
-      "comments": "15 comments",
-      "index": 13
     },
     {
       "title": "You are not required to close your <p>, <li>, <img>, or <br> tags in HTML",
       "href": "https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/",
-      "points": "56 points",
-      "comments": "85 comments",
+      "points": "73 points",
+      "comments": "119 comments",
+      "index": 12
+    },
+    {
+      "title": "HTML-only conditional lazy loading (via preload and media)",
+      "href": "https://orga.cat/blog/html-conditional-lazy-loading/",
+      "points": "44 points",
+      "comments": "7 comments",
+      "index": 13
+    },
+    {
+      "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
+      "href": "https://github.com/vojtapolasek/vojtux",
+      "points": "92 points",
+      "comments": "25 comments",
       "index": 14
+    },
+    {
+      "title": "More than one hundred years of Film Sizes",
+      "href": "https://wichm.home.xs4all.nl/filmsize.html",
+      "points": "69 points",
+      "comments": "17 comments",
+      "index": 15
     },
     {
       "title": "Finding and fixing Ghostty's largest memory leak",
       "href": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
-      "points": "527 points",
-      "comments": "116 comments",
-      "index": 15
+      "points": "539 points",
+      "comments": "121 comments",
+      "index": 16
     },
     {
       "title": "Show HN: I used Claude Code to discover connections between 100 books",
       "href": "https://trails.pieterma.es/",
-      "points": "414 points",
-      "comments": "127 comments",
-      "index": 16
+      "points": "430 points",
+      "comments": "132 comments",
+      "index": 17
     },
     {
       "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
       "href": "https://github.com/OlaProeis/Ferrite",
-      "points": "202 points",
-      "comments": "115 comments",
-      "index": 17
-    },
-    {
-      "title": "Outward Signs of Inner Mysteries",
-      "href": "https://lareviewofbooks.org/article/outward-signs-of-inner-mysteries/",
-      "points": "7 points",
-      "comments": "discuss",
+      "points": "210 points",
+      "comments": "119 comments",
       "index": 18
-    },
-    {
-      "title": "Iran Shuts Down Starlink Internet for First Time",
-      "href": "https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/",
-      "points": "130 points",
-      "comments": "70 comments",
-      "index": 19
     },
     {
       "title": "Code and Let Live",
       "href": "https://fly.io/blog/code-and-let-live/",
-      "points": "383 points",
-      "comments": "143 comments",
+      "points": "393 points",
+      "comments": "149 comments",
+      "index": 19
+    },
+    {
+      "title": "Learning from Sudoku Solvers (2007)",
+      "href": "http://ravimohan.blogspot.com/2007/04/learning-from-sudoku-solvers.html",
+      "points": "10 points",
+      "comments": "2 comments",
       "index": 20
     },
     {
       "title": "CPU Counters on Apple Silicon: article + tool",
       "href": "https://blog.bugsiki.dev/posts/apple-pmu/",
-      "points": "126 points",
+      "points": "133 points",
       "comments": "discuss",
       "index": 21
     },
     {
-      "title": "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
-      "href": "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/",
-      "points": "59 points",
-      "comments": "23 comments",
+      "title": "Outward Signs of Inner Mysteries",
+      "href": "https://lareviewofbooks.org/article/outward-signs-of-inner-mysteries/",
+      "points": "11 points",
+      "comments": "discuss",
       "index": 22
     },
     {
-      "title": "Google: Don't make \"bite-sized\" content for LLMs",
-      "href": "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/",
-      "points": "39 points",
-      "comments": "20 comments",
+      "title": "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
+      "href": "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/",
+      "points": "66 points",
+      "comments": "27 comments",
       "index": 23
     },
     {
       "title": "Open Chaos: A self-evolving open-source project",
       "href": "https://www.openchaos.dev/",
-      "points": "395 points",
-      "comments": "82 comments",
+      "points": "401 points",
+      "comments": "83 comments",
       "index": 24
-    },
-    {
-      "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
-      "href": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
-      "points": "89 points",
-      "comments": "24 comments",
-      "index": 25
     },
     {
       "title": "Max Payne – two decades later – Graphics Critique (2021)",
       "href": "https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html",
-      "points": "94 points",
-      "comments": "27 comments",
+      "points": "104 points",
+      "comments": "33 comments",
+      "index": 25
+    },
+    {
+      "title": "Google: Don't make \"bite-sized\" content for LLMs",
+      "href": "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/",
+      "points": "50 points",
+      "comments": "29 comments",
       "index": 26
     },
     {
       "title": "AI is a business model stress test",
       "href": "https://dri.es/ai-is-a-business-model-stress-test",
-      "points": "286 points",
-      "comments": "274 comments",
+      "points": "296 points",
+      "comments": "283 comments",
       "index": 27
     },
     {
       "title": "Don't fall into the anti-AI hype",
       "href": "https://antirez.com/news/158",
-      "points": "231 points",
-      "comments": "349 comments",
+      "points": "289 points",
+      "comments": "410 comments",
       "index": 28
     },
     {
       "title": "Overdose deaths are falling in America because of a 'supply shock': study",
       "href": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
-      "points": "180 points",
-      "comments": "156 comments",
+      "points": "187 points",
+      "comments": "167 comments",
       "index": 29
     },
     {
       "title": "Show HN: Play poker with LLMs, or watch them play against each other",
       "href": "https://llmholdem.com/",
-      "points": "139 points",
-      "comments": "76 comments",
+      "points": "144 points",
+      "comments": "79 comments",
       "index": 30
     }
   ]
