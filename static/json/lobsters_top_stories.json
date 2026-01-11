@@ -1,11 +1,11 @@
 {
-  "date": "Sunday, January 11, 2026 at 7:40 AM GMT-5",
+  "date": "Sunday, January 11, 2026 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "Don't fall into the anti-AI hype",
       "href": "https://antirez.com/news/158",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 1
     },
     {
@@ -26,7 +26,7 @@
       "title": "A Unique Performance Optimization for a 3D Geometry Language",
       "href": "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 4
     },
     {
@@ -44,136 +44,136 @@
       "index": 6
     },
     {
+      "title": "I Replaced Redis with PostgreSQL (And It's Faster)",
+      "href": "https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 7
+    },
+    {
+      "title": "The Hobbyist Maintainer Economic Gravity Well",
+      "href": "https://softwaremaxims.com/blog/hobbyist-gravity-well",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "How I use Jujutsu",
       "href": "https://abhinavsarkar.net/posts/jj-usage/",
       "points": "",
       "comments": "\n              22 comments\n            ",
-      "index": 7
+      "index": 9
     },
     {
       "title": "OpenChaos.dev",
       "href": "https://www.openchaos.dev/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "I Replaced Redis with PostgreSQL (And It's Faster)",
-      "href": "https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Writing mutexes from scratch in Go",
       "href": "https://rybicki.io/blog/2026/01/01/mutexes-from-scratch-in-go.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Code And Let Live",
       "href": "https://fly.io/blog/code-and-let-live/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Pulling a New Proof from Knuth’s Fixed-Point Printer",
-      "href": "https://research.swtch.com/fp-knuth",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 12
-    },
-    {
-      "title": "Hongdown: An opinionated Markdown formatter in Rust",
-      "href": "https://github.com/dahlia/hongdown",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "The Hobbyist Maintainer Economic Gravity Well",
-      "href": "https://softwaremaxims.com/blog/hobbyist-gravity-well",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "whenwords: A relative time formatting library, with no code",
-      "href": "https://github.com/dbreunig/whenwords",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Prompting 101: Show, don’t tell",
-      "href": "https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html",
-      "points": "",
-      "comments": "\n              26 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "&&&&&&&&&&&&&&str",
-      "href": "https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 17
     },
     {
       "title": "How Safe is the Rust Ecosystem? A Deep Dive into crates.io",
       "href": "https://mr-leshiy-blog.web.app/blog/crates_io_analysis/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 13
+    },
+    {
+      "title": "Pulling a New Proof from Knuth’s Fixed-Point Printer",
+      "href": "https://research.swtch.com/fp-knuth",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
     },
     {
       "title": "Markdown Is a Disaster: Why and What to Do Instead",
       "href": "https://www.karl-voit.at/2025/08/17/Markdown-disaster/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              8 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Hongdown: An opinionated Markdown formatter in Rust",
+      "href": "https://github.com/dahlia/hongdown",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "whenwords: A relative time formatting library, with no code",
+      "href": "https://github.com/dbreunig/whenwords",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Prompting 101: Show, don’t tell",
+      "href": "https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html",
+      "points": "",
+      "comments": "\n              26 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "&&&&&&&&&&&&&&str",
+      "href": "https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 19
+    },
+    {
+      "title": "PMU Counters on Apple Silicon",
+      "href": "https://blog.bugsiki.dev/posts/apple-pmu/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
     },
     {
       "title": "Continuous Snapshotting Filesystem",
       "href": "https://nilfs.sourceforge.io/en/index.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Learn C++ Itanium Symbol Mangling",
       "href": "https://noratrieb.github.io/womangling/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "16 Best Practices for Reducing Dependabot Noise",
       "href": "https://nesbitt.io/2026/01/10/16-best-practices-for-reducing-dependabot-noise.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "I Cannot SSH Into My Server Anymore (And That’s Fine)",
       "href": "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html",
       "points": "",
       "comments": "\n              33 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "V16 beacon full uplink conversation",
       "href": "https://destevez.net/2026/01/v16-beacon-full-uplink-conversation/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Tag Proposal: logic-lang",
-      "href": "/s/igbrxv/tag_proposal_logic_lang",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 25
     }
   ]
