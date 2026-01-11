@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, January 10, 2026 at 8:55 PM GMT-5",
+  "date": "Saturday, January 10, 2026 at 10:55 PM GMT-5",
   "articles": [
     {
       "title": "Finding and Fixing Ghostty's Largest Memory Leak",
@@ -12,7 +12,7 @@
       "title": "How I use Jujutsu",
       "href": "https://abhinavsarkar.net/posts/jj-usage/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 2
     },
     {
@@ -26,7 +26,7 @@
       "title": "OpenChaos.dev",
       "href": "https://www.openchaos.dev/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 4
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
-      "title": "Prompting 101: Show, don’t tell",
-      "href": "https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 6
-    },
-    {
       "title": "&&&&&&&&&&&&&&str",
       "href": "https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Prompting 101: Show, don’t tell",
+      "href": "https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
       "index": 7
     },
     {
@@ -65,10 +65,10 @@
       "index": 9
     },
     {
-      "title": "Learn C++ Itanium Symbol Mangling",
-      "href": "https://noratrieb.github.io/womangling/",
+      "title": "Writing mutexes from scratch in Go",
+      "href": "https://rybicki.io/blog/2026/01/01/mutexes-from-scratch-in-go.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 10
     },
     {
@@ -79,24 +79,24 @@
       "index": 11
     },
     {
+      "title": "Learn C++ Itanium Symbol Mangling",
+      "href": "https://noratrieb.github.io/womangling/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 12
+    },
+    {
       "title": "I Cannot SSH Into My Server Anymore (And That’s Fine)",
       "href": "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html",
       "points": "",
       "comments": "\n              30 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Tag Proposal: logic-lang",
       "href": "/s/igbrxv/tag_proposal_logic_lang",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Writing mutexes from scratch in Go",
-      "href": "https://rybicki.io/blog/2026/01/01/mutexes-from-scratch-in-go.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 14
     },
     {
@@ -107,45 +107,45 @@
       "index": 15
     },
     {
-      "title": "Garbage collected handles are lifetime-contravariant",
-      "href": "https://trynova.dev/blog/garbage-collection-is-contrarian",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Bare metal programming with RISC-V guide (2023)",
-      "href": "https://popovicu.com/posts/bare-metal-programming-risc-v/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
       "title": "annote: Writing java using only annotations",
       "href": "https://github.com/kusoroadeolu/annote",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "European Commission issues call for evidence on open source",
-      "href": "https://lwn.net/Articles/1053107/",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Celeste & TowerFall Physics",
-      "href": "https://www.maddymakesgames.com/articles/celeste_and_towerfall_physics/index.html",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 20
+      "index": 16
     },
     {
       "title": "V16 beacon full uplink conversation",
       "href": "https://destevez.net/2026/01/v16-beacon-full-uplink-conversation/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Garbage collected handles are lifetime-contravariant",
+      "href": "https://trynova.dev/blog/garbage-collection-is-contrarian",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Bare metal programming with RISC-V guide (2023)",
+      "href": "https://popovicu.com/posts/bare-metal-programming-risc-v/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "European Commission issues call for evidence on open source",
+      "href": "https://lwn.net/Articles/1053107/",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Celeste & TowerFall Physics",
+      "href": "https://www.maddymakesgames.com/articles/celeste_and_towerfall_physics/index.html",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 21
     },
     {
