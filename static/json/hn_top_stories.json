@@ -1,214 +1,214 @@
 {
-  "date": "Monday, January 12, 2026 at 12:30 AM GMT-5",
+  "date": "Monday, January 12, 2026 at 1:40 AM GMT-5",
   "articles": [
+    {
+      "title": "XFCE Is Great",
+      "href": "https://rubenerd.com/xfce-is-great/",
+      "points": "95 points",
+      "comments": "50 comments",
+      "index": 1
+    },
     {
       "title": "The struggle of resizing windows on macOS Tahoe",
       "href": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-      "points": "1174 points",
-      "comments": "504 comments",
-      "index": 1
+      "points": "1294 points",
+      "comments": "550 comments",
+      "index": 2
     },
     {
       "title": "CLI agents make self-hosting on a home server easier and fun",
       "href": "https://fulghum.io/self-hosting",
-      "points": "389 points",
-      "comments": "256 comments",
-      "index": 2
-    },
-    {
-      "title": "XFCE Is Great",
-      "href": "https://rubenerd.com/xfce-is-great/",
-      "points": "16 points",
-      "comments": "2 comments",
+      "points": "422 points",
+      "comments": "264 comments",
       "index": 3
     },
     {
       "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
       "href": "https://iczelia.net/posts/snake-polyglot/",
-      "points": "128 points",
-      "comments": "37 comments",
+      "points": "147 points",
+      "comments": "43 comments",
       "index": 4
-    },
-    {
-      "title": "iCloud Photos Downloader",
-      "href": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
-      "points": "374 points",
-      "comments": "167 comments",
-      "index": 5
-    },
-    {
-      "title": "Don't fall into the anti-AI hype",
-      "href": "https://antirez.com/news/158",
-      "points": "757 points",
-      "comments": "931 comments",
-      "index": 6
-    },
-    {
-      "title": "Which programming languages are most token-efficient?",
-      "href": "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/",
-      "points": "57 points",
-      "comments": "30 comments",
-      "index": 7
     },
     {
       "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
       "href": "https://www.bbc.com/news/articles/clyndv7zd20o",
-      "points": "22 points",
-      "comments": "1 comment",
+      "points": "43 points",
+      "comments": "9 comments",
+      "index": 5
+    },
+    {
+      "title": "iCloud Photos Downloader",
+      "href": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+      "points": "391 points",
+      "comments": "176 comments",
+      "index": 6
+    },
+    {
+      "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
+      "href": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
+      "points": "24 points",
+      "comments": "discuss",
+      "index": 7
+    },
+    {
+      "title": "Don't fall into the anti-AI hype",
+      "href": "https://antirez.com/news/158",
+      "points": "814 points",
+      "comments": "982 comments",
       "index": 8
+    },
+    {
+      "title": "Which programming languages are most token-efficient?",
+      "href": "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/",
+      "points": "70 points",
+      "comments": "38 comments",
+      "index": 9
     },
     {
       "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
       "href": "https://www.youtube.com/watch?v=il-TXbn5iMA",
-      "points": "236 points",
-      "comments": "31 comments",
-      "index": 9
+      "points": "254 points",
+      "comments": "33 comments",
+      "index": 10
     },
     {
       "title": "Sampling at negative temperature",
       "href": "https://cavendishlabs.org/blog/negative-temperature/",
-      "points": "134 points",
+      "points": "140 points",
       "comments": "43 comments",
-      "index": 10
-    },
-    {
-      "title": "Code is cheap now, but software isn't",
-      "href": "https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt",
-      "points": "87 points",
-      "comments": "41 comments",
       "index": 11
     },
     {
       "title": "FUSE is All You Need – Giving agents access to anything via filesystems",
       "href": "https://jakobemmerling.de/posts/fuse-is-all-you-need/",
-      "points": "97 points",
-      "comments": "47 comments",
+      "points": "100 points",
+      "comments": "48 comments",
       "index": 12
-    },
-    {
-      "title": "Erich von Däniken has died",
-      "href": "https://daniken.com/en/startseite-english/",
-      "points": "47 points",
-      "comments": "78 comments",
-      "index": 13
-    },
-    {
-      "title": "Gadget Exposed a Spy Camera [video]",
-      "href": "https://www.youtube.com/watch?v=1reman2waLs",
-      "points": "22 points",
-      "comments": "11 comments",
-      "index": 14
-    },
-    {
-      "title": "Uncrossy",
-      "href": "https://uncrossy.com/",
-      "points": "23 points",
-      "comments": "8 comments",
-      "index": 15
-    },
-    {
-      "title": "Show HN: An LLM-optimized programming language",
-      "href": "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md",
-      "points": "15 points",
-      "comments": "5 comments",
-      "index": 16
-    },
-    {
-      "title": "Elo – A data expression language which compiles to JavaScript, Ruby, and SQL",
-      "href": "https://elo-lang.org/",
-      "points": "68 points",
-      "comments": "9 comments",
-      "index": 17
     },
     {
       "title": "Garbage collection is contrarian",
       "href": "https://trynova.dev/blog/garbage-collection-is-contrarian",
-      "points": "18 points",
+      "points": "28 points",
       "comments": "1 comment",
-      "index": 18
+      "index": 13
     },
     {
-      "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
-      "href": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
-      "points": "4 points",
-      "comments": "discuss",
-      "index": 19
+      "title": "Show HN: An LLM-optimized programming language",
+      "href": "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md",
+      "points": "21 points",
+      "comments": "6 comments",
+      "index": 14
     },
     {
-      "title": "Perfectly Replicating Coca Cola [video]",
-      "href": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
-      "points": "168 points",
-      "comments": "102 comments",
-      "index": 20
-    },
-    {
-      "title": "Insights into Claude Opus 4.5 from Pokémon",
-      "href": "https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon",
-      "points": "46 points",
-      "comments": "11 comments",
-      "index": 21
+      "title": "Gadget Exposed a Spy Camera [video]",
+      "href": "https://www.youtube.com/watch?v=1reman2waLs",
+      "points": "25 points",
+      "comments": "16 comments",
+      "index": 15
     },
     {
       "title": "The next two years of software engineering",
       "href": "https://addyosmani.com/blog/next-two-years/",
-      "points": "77 points",
-      "comments": "48 comments",
-      "index": 22
+      "points": "87 points",
+      "comments": "53 comments",
+      "index": 16
     },
     {
-      "title": "Moving Scratch generation to Python on browser",
-      "href": "https://kushaldas.in/posts/introducing-ektupy.html",
-      "points": "25 points",
-      "comments": "5 comments",
-      "index": 23
+      "title": "Uncrossy",
+      "href": "https://uncrossy.com/",
+      "points": "32 points",
+      "comments": "13 comments",
+      "index": 17
+    },
+    {
+      "title": "Perfectly Replicating Coca Cola [video]",
+      "href": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
+      "points": "176 points",
+      "comments": "113 comments",
+      "index": 18
+    },
+    {
+      "title": "Elo – A data expression language which compiles to JavaScript, Ruby, and SQL",
+      "href": "https://elo-lang.org/",
+      "points": "69 points",
+      "comments": "10 comments",
+      "index": 19
+    },
+    {
+      "title": "Insights into Claude Opus 4.5 from Pokémon",
+      "href": "https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon",
+      "points": "50 points",
+      "comments": "11 comments",
+      "index": 20
+    },
+    {
+      "title": "Erich von Däniken has died",
+      "href": "https://daniken.com/en/startseite-english/",
+      "points": "57 points",
+      "comments": "88 comments",
+      "index": 21
+    },
+    {
+      "title": "1% vs. 67%: What happened when we stopped trusting embeddings alone",
+      "href": "https://roampal.ai/blog-context-rot.html",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 22
     },
     {
       "title": "Ask HN: What are you working on? (January 2026)",
       "href": "item?id=46577242",
-      "points": "163 points",
-      "comments": "529 comments",
-      "index": 24
+      "points": "169 points",
+      "comments": "547 comments",
+      "index": 23
     },
     {
-      "title": "Powell has highest approval rating of political leaders among US adults (2025)",
-      "href": "https://news.gallup.com/poll/700241/americans-end-year-gloomy-mood.aspx",
-      "points": "32 points",
-      "comments": "4 comments",
-      "index": 25
+      "title": "I'd tell you a UDP joke…",
+      "href": "https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get",
+      "points": "139 points",
+      "comments": "38 comments",
+      "index": 24
     },
     {
       "title": "A set of Idiomatic prod-grade katas for experienced devs transitioning to Go",
       "href": "https://github.com/MedUnes/go-kata",
       "points": "117 points",
       "comments": "16 comments",
+      "index": 25
+    },
+    {
+      "title": "Moving Scratch generation to Python on browser",
+      "href": "https://kushaldas.in/posts/introducing-ektupy.html",
+      "points": "32 points",
+      "comments": "6 comments",
       "index": 26
-    },
-    {
-      "title": "I'd tell you a UDP joke…",
-      "href": "https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get",
-      "points": "130 points",
-      "comments": "34 comments",
-      "index": 27
-    },
-    {
-      "title": "Poison Fountain",
-      "href": "https://rnsaffn.com/poison3/",
-      "points": "183 points",
-      "comments": "113 comments",
-      "index": 28
-    },
-    {
-      "title": "I Cannot SSH into My Server Anymore (and That's Fine)",
-      "href": "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html",
-      "points": "92 points",
-      "comments": "68 comments",
-      "index": 29
     },
     {
       "title": "Show HN: Engineering Schizophrenia: Trusting yourself through Byzantine faults",
       "href": "item?id=46580652",
-      "points": "53 points",
-      "comments": "9 comments",
+      "points": "59 points",
+      "comments": "10 comments",
+      "index": 27
+    },
+    {
+      "title": "I Cannot SSH into My Server Anymore (and That's Fine)",
+      "href": "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html",
+      "points": "98 points",
+      "comments": "73 comments",
+      "index": 28
+    },
+    {
+      "title": "Poison Fountain",
+      "href": "https://rnsaffn.com/poison3/",
+      "points": "185 points",
+      "comments": "115 comments",
+      "index": 29
+    },
+    {
+      "title": "I dumped Windows 11 for Linux, and you should too",
+      "href": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
+      "points": "775 points",
+      "comments": "715 comments",
       "index": 30
     }
   ]
