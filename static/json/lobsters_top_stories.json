@@ -1,53 +1,53 @@
 {
-  "date": "Tuesday, January 13, 2026 at 3:30 AM GMT-5",
+  "date": "Tuesday, January 13, 2026 at 4:30 AM GMT-5",
   "articles": [
     {
       "title": "we rolled our own documentation site",
       "href": "https://blog.tangled.org/docs",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              25 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "How to Make a Damn Website",
-      "href": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "Anthropic blocks third-party tools using Claude Code OAuth tokens",
-      "href": "https://archaeologist.dev/artifacts/anthropic",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 3
     },
     {
       "title": "Your CLI's completion should know what options you've already typed",
       "href": "https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "How to Make a Damn Website",
+      "href": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "Anthropic blocks third-party tools using Claude Code OAuth tokens",
+      "href": "https://archaeologist.dev/artifacts/anthropic",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
       "index": 4
+    },
+    {
+      "title": "How to stick with your projects, even when they're janky",
+      "href": "https://www.youtube.com/watch?v=Alfq8RG80Ns",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 5
     },
     {
       "title": "Text-based web browsers",
       "href": "https://cssence.com/2026/text-based-web-browsers/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 5
+      "comments": "\n              17 comments\n            ",
+      "index": 6
     },
     {
       "title": "Bad Dye Job",
       "href": "https://daringfireball.net/2025/12/bad_dye_job",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "WhatsApp is untrustable",
-      "href": "https://toki.la/posts/whatsapp",
-      "points": "",
-      "comments": "\n              47 comments\n            ",
       "index": 7
     },
     {
@@ -58,10 +58,10 @@
       "index": 8
     },
     {
-      "title": "How to stick with your projects, even when they're janky",
-      "href": "https://www.youtube.com/watch?v=Alfq8RG80Ns",
+      "title": "WhatsApp is untrustable",
+      "href": "https://toki.la/posts/whatsapp",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              47 comments\n            ",
       "index": 9
     },
     {
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
-      "title": "The rise (and future fall) of Discord (2024)",
-      "href": "https://slugcat.systems/post/24-12-12-the-rise-and-future-fall-of-discord/",
+      "title": "State of DataHaskell Q1 2026",
+      "href": "https://datahaskell.org/blog/2026/01/12/state-of-datahaskell-q1-2026.html",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 12
     },
     {
       "title": "Detecting MIME Types in Go",
       "href": "https://rnemeth90.github.io/posts/2024-03-27-golang-detect-file-type/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 13
+    },
+    {
+      "title": "The rise (and future fall) of Discord (2024)",
+      "href": "https://slugcat.systems/post/24-12-12-the-rise-and-future-fall-of-discord/",
+      "points": "",
+      "comments": "\n              26 comments\n            ",
+      "index": 14
     },
     {
       "title": "Rethinking Helix",
       "href": "https://asta.boserup.eu/forest/rethinking-helix/",
       "points": "",
       "comments": "\n              38 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Remarks on SFrame",
-      "href": "https://maskray.me/blog/2025-09-28-remarks-on-sframe",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 15
-    },
-    {
-      "title": "LLVM: The bad parts",
-      "href": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/b5dqak/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "The J Incunabulum",
-      "href": "https://tony-zorman.com/posts/j-incunabulum.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 18
-    },
-    {
-      "title": "Building a High-End AI Desktop",
-      "href": "https://dnhkng.github.io/posts/hopper/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
-    },
-    {
-      "title": "Don't fall into the anti-AI hype",
-      "href": "https://antirez.com/news/158",
-      "points": "",
-      "comments": "\n              272 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Who are people currently using as hosting providers?",
-      "href": "/s/hcpnrj/who_are_people_currently_using_as_hosting",
-      "points": "",
-      "comments": "\n              85 comments\n            ",
-      "index": 21
     },
     {
       "title": "How GitHub could secure npm",
       "href": "https://humanwhocodes.com/blog/2026/01/how-github-could-secure-npm/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Building a High-End AI Desktop",
+      "href": "https://dnhkng.github.io/posts/hopper/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/b5dqak/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              28 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Remarks on SFrame",
+      "href": "https://maskray.me/blog/2025-09-28-remarks-on-sframe",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "LLVM: The bad parts",
+      "href": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "The J Incunabulum",
+      "href": "https://tony-zorman.com/posts/j-incunabulum.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
+    },
+    {
+      "title": "Don't fall into the anti-AI hype",
+      "href": "https://antirez.com/news/158",
+      "points": "",
+      "comments": "\n              272 comments\n            ",
       "index": 22
+    },
+    {
+      "title": "Who are people currently using as hosting providers?",
+      "href": "/s/hcpnrj/who_are_people_currently_using_as_hosting",
+      "points": "",
+      "comments": "\n              85 comments\n            ",
+      "index": 23
     },
     {
       "title": "Building the SCION 25 Gbit/s Workstation",
       "href": "https://github.com/scionassociation/blog-25gbit-workstation",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "The coolest feature in Python 3.14",
       "href": "https://savannah.dev/posts/the-coolest-feature-in-314/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Turntiles, an NYT style word game I made for my parents",
-      "href": "https://github.com/wheybags/turntiles",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 25
     }
   ]
