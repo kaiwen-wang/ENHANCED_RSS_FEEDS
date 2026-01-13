@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, January 13, 2026 at 1:35 PM GMT-5",
+  "date": "Tuesday, January 13, 2026 at 2:20 PM GMT-5",
   "articles": [
     {
       "title": "More assorted notes on Liquid Glass (2025)",
       "href": "https://morrick.me/archives/10068",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 1
     },
     {
       "title": "AI Coding Assistants Are Getting Worse",
       "href": "https://spectrum.ieee.org/ai-coding-degrades",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 2
     },
     {
       "title": "Your CLI's completion should know what options you've already typed",
       "href": "https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 3
     },
     {
@@ -44,22 +44,22 @@
       "index": 6
     },
     {
-      "title": "The hidden cost of PostgreSQL arrays",
-      "href": "https://boringsql.com/posts/good-bad-arrays/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 7
-    },
-    {
       "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
       "href": "https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "The hidden cost of PostgreSQL arrays",
+      "href": "https://boringsql.com/posts/good-bad-arrays/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 8
     },
     {
-      "title": "Win8DE: windows 8 like de for linux",
-      "href": "https://github.com/er-bharat/Win8DE",
+      "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+      "href": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
       "points": "",
       "comments": "\n              5 comments\n            ",
       "index": 9
@@ -72,38 +72,38 @@
       "index": 10
     },
     {
+      "title": "Win8DE: windows 8 like de for linux",
+      "href": "https://github.com/er-bharat/Win8DE",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 11
+    },
+    {
       "title": "How to Make a Damn Website",
       "href": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
       "points": "",
       "comments": "\n              36 comments\n            ",
-      "index": 11
+      "index": 12
+    },
+    {
+      "title": "How to stick with your projects, even when they're janky",
+      "href": "https://www.youtube.com/watch?v=Alfq8RG80Ns",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 13
     },
     {
       "title": "I made a TypeScript to native code compiler via CLR and NativeAOT",
       "href": "https://github.com/tsoniclang/tsonic",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 12
+      "index": 14
     },
     {
       "title": "Bad Dye Job",
       "href": "https://daringfireball.net/2025/12/bad_dye_job",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
-      "title": "How to stick with your projects, even when they're janky",
-      "href": "https://www.youtube.com/watch?v=Alfq8RG80Ns",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
-      "href": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 15
     },
     {
@@ -121,36 +121,36 @@
       "index": 17
     },
     {
-      "title": "State of DataHaskell Q1 2026",
-      "href": "https://datahaskell.org/blog/2026/01/12/state-of-datahaskell-q1-2026.html",
+      "title": "Solving Factorio with Terraform",
+      "href": "https://www.youtube.com/watch?v=uU06vKlCNXk",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
-      "title": "Server-First Web Component Architecture: SXO + Reactive Component",
-      "href": "https://dev.to/gc-victor/the-server-first-web-component-architecture-sxo-reactive-components-n4p",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
       "title": "Text-based web browsers",
       "href": "https://cssence.com/2026/text-based-web-browsers/",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              26 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "State of DataHaskell Q1 2026",
+      "href": "https://datahaskell.org/blog/2026/01/12/state-of-datahaskell-q1-2026.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 20
+    },
+    {
+      "title": "Server-First Web Component Architecture: SXO + Reactive Component",
+      "href": "https://dev.to/gc-victor/the-server-first-web-component-architecture-sxo-reactive-components-n4p",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
     },
     {
       "title": "hybrid quota-linear rate limiter",
       "href": "https://dotat.at/@/2026-01-12-hqlr.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Solving Factorio with Terraform",
-      "href": "https://www.youtube.com/watch?v=uU06vKlCNXk",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 22
