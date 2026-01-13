@@ -1,46 +1,46 @@
 {
-  "date": "Tuesday, January 13, 2026 at 5:20 PM GMT-5",
+  "date": "Tuesday, January 13, 2026 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "More assorted notes on Liquid Glass (2025)",
       "href": "https://morrick.me/archives/10068",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              26 comments\n            ",
       "index": 1
     },
     {
       "title": "AI Coding Assistants Are Getting Worse",
       "href": "https://spectrum.ieee.org/ai-coding-degrades",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 2
     },
     {
       "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
       "href": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 3
-    },
-    {
-      "title": "TruffleRuby 33 is Released",
-      "href": "https://truffleruby.dev/blog/truffleruby-33-is-released",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 4
     },
     {
       "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
       "href": "https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 4
+    },
+    {
+      "title": "TruffleRuby 33 is Released",
+      "href": "https://truffleruby.dev/blog/truffleruby-33-is-released",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 5
     },
     {
       "title": "Your CLI's completion should know what options you've already typed",
       "href": "https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion",
       "points": "",
-      "comments": "\n              21 comments\n            ",
+      "comments": "\n              24 comments\n            ",
       "index": 6
     },
     {
@@ -54,7 +54,7 @@
       "title": "Date is out, Temporal is in",
       "href": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 8
     },
     {
@@ -79,101 +79,101 @@
       "index": 11
     },
     {
+      "title": "Bevy 0.18",
+      "href": "https://bevy.org/news/bevy-0-18/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
       "title": "hybrid quota-linear rate limiter",
       "href": "https://dotat.at/@/2026-01-12-hqlr.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Solving Factorio with Terraform",
       "href": "https://www.youtube.com/watch?v=uU06vKlCNXk",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Forklifts, Facts, and Functions: Building a Warehouse Management System with Clojure+Datomic",
       "href": "https://www.youtube.com/watch?v=NV02r1Y1B-8",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "How to Make a Damn Website",
       "href": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
       "points": "",
-      "comments": "\n              38 comments\n            ",
-      "index": 15
+      "comments": "\n              39 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "The Insecure Evangelism of LLM Maximalists",
+      "href": "https://lewiscampbell.tech/blog/260114.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
     },
     {
       "title": "How to stick with your projects, even when they're janky",
       "href": "https://www.youtube.com/watch?v=Alfq8RG80Ns",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 16
+      "index": 18
     },
     {
       "title": "Server-First Web Component Architecture: SXO + Reactive Component",
       "href": "https://dev.to/gc-victor/the-server-first-web-component-architecture-sxo-reactive-components-n4p",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Bad Dye Job",
       "href": "https://daringfireball.net/2025/12/bad_dye_job",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
       "title": "I made a TypeScript to native code compiler via CLR and NativeAOT",
       "href": "https://github.com/tsoniclang/tsonic",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "State of DataHaskell Q1 2026",
       "href": "https://datahaskell.org/blog/2026/01/12/state-of-datahaskell-q1-2026.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 22
+    },
+    {
+      "title": "Small Kafka: Tansu + SQLite on a free t3.micro (AWS Free Tier)",
+      "href": "https://blog.tansu.io/articles/broker-aws-free-tier",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "Text-based web browsers",
       "href": "https://cssence.com/2026/text-based-web-browsers/",
       "points": "",
-      "comments": "\n              31 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Bevy 0.18",
-      "href": "https://bevy.org/news/bevy-0-18/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
+      "comments": "\n              32 comments\n            ",
+      "index": 24
     },
     {
       "title": "Anthropic blocks third-party tools using Claude Code OAuth tokens",
       "href": "https://archaeologist.dev/artifacts/anthropic",
       "points": "",
-      "comments": "\n              27 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Volumetric Cloud Rendering",
-      "href": "https://www.jacktollenaar.top/articles/clouds.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Grounding LLMs with Recursive Code Execution",
-      "href": "https://yogthos.net/posts/2026-01-12-recursive-language-model.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              28 comments\n            ",
       "index": 25
     }
   ]
