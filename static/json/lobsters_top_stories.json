@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, January 13, 2026 at 6:20 AM GMT-5",
+  "date": "Tuesday, January 13, 2026 at 7:50 AM GMT-5",
   "articles": [
     {
       "title": "we rolled our own documentation site",
@@ -16,108 +16,108 @@
       "index": 2
     },
     {
+      "title": "More assorted notes on Liquid Glass (2025)",
+      "href": "https://morrick.me/archives/10068",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 3
+    },
+    {
       "title": "How to Make a Damn Website",
       "href": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
       "points": "",
-      "comments": "\n              24 comments\n            ",
-      "index": 3
+      "comments": "\n              26 comments\n            ",
+      "index": 4
     },
     {
       "title": "Anthropic blocks third-party tools using Claude Code OAuth tokens",
       "href": "https://archaeologist.dev/artifacts/anthropic",
       "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 4
+      "comments": "\n              25 comments\n            ",
+      "index": 5
     },
     {
       "title": "Bad Dye Job",
       "href": "https://daringfireball.net/2025/12/bad_dye_job",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 5
+      "index": 6
+    },
+    {
+      "title": "The hidden cost of PostgreSQL arrays",
+      "href": "https://boringsql.com/posts/good-bad-arrays/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 7
     },
     {
       "title": "How to stick with your projects, even when they're janky",
       "href": "https://www.youtube.com/watch?v=Alfq8RG80Ns",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Text-based web browsers",
-      "href": "https://cssence.com/2026/text-based-web-browsers/",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Date is out, Temporal is in",
       "href": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Grounding LLMs with Recursive Code Execution",
       "href": "https://yogthos.net/posts/2026-01-12-recursive-language-model.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 9
+      "index": 10
+    },
+    {
+      "title": "Text-based web browsers",
+      "href": "https://cssence.com/2026/text-based-web-browsers/",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
+      "index": 11
     },
     {
       "title": "The struggle of resizing windows on macOS Tahoe",
       "href": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
-      "index": 10
+      "comments": "\n              18 comments\n            ",
+      "index": 12
     },
     {
       "title": "WhatsApp is untrustable",
       "href": "https://toki.la/posts/whatsapp",
       "points": "",
-      "comments": "\n              47 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "The hidden cost of PostgreSQL arrays",
-      "href": "https://boringsql.com/posts/good-bad-arrays/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 12
+      "comments": "\n              48 comments\n            ",
+      "index": 13
     },
     {
       "title": "State of DataHaskell Q1 2026",
       "href": "https://datahaskell.org/blog/2026/01/12/state-of-datahaskell-q1-2026.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Three Inverse Laws of Robotics",
       "href": "https://susam.net/inverse-laws-of-robotics.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "The rise (and future fall) of Discord (2024)",
-      "href": "https://slugcat.systems/post/24-12-12-the-rise-and-future-fall-of-discord/",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
       "index": 15
-    },
-    {
-      "title": "Detecting MIME Types in Go",
-      "href": "https://rnemeth90.github.io/posts/2024-03-27-golang-detect-file-type/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 16
     },
     {
       "title": "Building a High-End AI Desktop",
       "href": "https://dnhkng.github.io/posts/hopper/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "The rise (and future fall) of Discord (2024)",
+      "href": "https://slugcat.systems/post/24-12-12-the-rise-and-future-fall-of-discord/",
+      "points": "",
+      "comments": "\n              29 comments\n            ",
       "index": 17
     },
     {
@@ -128,31 +128,31 @@
       "index": 18
     },
     {
-      "title": "How GitHub could secure npm",
-      "href": "https://humanwhocodes.com/blog/2026/01/how-github-could-secure-npm/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
       "title": "Building the SCION 25 Gbit/s Workstation",
       "href": "https://github.com/scionassociation/blog-25gbit-workstation",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "HiTeX Press: A spam factory for AI-generated books",
+      "href": "https://laurent.le-brun.eu/blog/hitex-a-spam-factory-for-ai-generated-books",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 20
+    },
+    {
+      "title": "How GitHub could secure npm",
+      "href": "https://humanwhocodes.com/blog/2026/01/how-github-could-secure-npm/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
     },
     {
       "title": "The J Incunabulum",
       "href": "https://tony-zorman.com/posts/j-incunabulum.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/b5dqak/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              29 comments\n            ",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
+      "title": "What are you doing this week?",
+      "href": "/s/b5dqak/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              29 comments\n            ",
+      "index": 24
+    },
+    {
       "title": "Remarks on SFrame",
       "href": "https://maskray.me/blog/2025-09-28-remarks-on-sframe",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Don't fall into the anti-AI hype",
-      "href": "https://antirez.com/news/158",
-      "points": "",
-      "comments": "\n              273 comments\n            ",
       "index": 25
     }
   ]
