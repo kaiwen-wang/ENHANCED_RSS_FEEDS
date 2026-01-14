@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, January 14, 2026 at 7:50 AM GMT-5",
+  "date": "Wednesday, January 14, 2026 at 8:40 AM GMT-5",
   "articles": [
     {
-      "title": "Servo 2025 Stats",
-      "href": "https://blogs.igalia.com/mrego/servo-2025-stats/",
-      "points": "38 points",
-      "comments": "3 comments",
+      "title": "Is Rust faster than C?",
+      "href": "https://steveklabnik.com/writing/is-rust-faster-than-c/",
+      "points": "47 points",
+      "comments": "21 comments",
       "index": 1
     },
     {
       "title": "There's a ridiculous amount of tech in a disposable vape",
       "href": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
-      "points": "474 points",
-      "comments": "403 comments",
+      "points": "503 points",
+      "comments": "441 comments",
       "index": 2
     },
     {
-      "title": "I Love You, Redis, but I'm Leaving You for SolidQueue",
+      "title": "I’m leaving Redis for SolidQueue",
       "href": "https://www.simplethread.com/redis-solidqueue/",
-      "points": "113 points",
-      "comments": "43 comments",
+      "points": "141 points",
+      "comments": "53 comments",
       "index": 3
     },
     {
-      "title": "I Hate GitHub Actions with Passion",
-      "href": "https://xlii.space/eng/i-hate-github-actions-with-passion/",
-      "points": "19 points",
-      "comments": "16 comments",
+      "title": "Why NUKEMAP isn't on Google Maps anymore (2019)",
+      "href": "https://blog.nuclearsecrecy.com/2019/12/13/why-nukemap-isnt-on-google-maps-anymore/",
+      "points": "41 points",
+      "comments": "2 comments",
       "index": 4
     },
     {
       "title": "Show HN: Tiny FOSS Compass and Navigation App (<2MB)",
       "href": "https://github.com/CompassMB/MBCompass",
-      "points": "29 points",
-      "comments": "14 comments",
+      "points": "42 points",
+      "comments": "18 comments",
       "index": 5
     },
     {
       "title": "1000 Blank White Cards",
       "href": "https://en.wikipedia.org/wiki/1000_Blank_White_Cards",
-      "points": "215 points",
-      "comments": "37 comments",
+      "points": "232 points",
+      "comments": "42 comments",
       "index": 6
+    },
+    {
+      "title": "ASCII Clouds",
+      "href": "https://caidan.dev/portfolio/ascii_clouds/",
+      "points": "238 points",
+      "comments": "44 comments",
+      "index": 7
     },
     {
       "title": "Lago (Open-Source Billing) is hiring across teams and geos",
       "href": "item?id=46615235",
       "points": "",
       "comments": "hide",
-      "index": 7
-    },
-    {
-      "title": "ASCII Clouds",
-      "href": "https://caidan.dev/portfolio/ascii_clouds/",
-      "points": "227 points",
-      "comments": "39 comments",
       "index": 8
-    },
-    {
-      "title": "Systematically generating tests that would have caught Anthropic's top‑K bug",
-      "href": "https://theorem.dev/blog/anthropic-bug-test/",
-      "points": "22 points",
-      "comments": "3 comments",
-      "index": 9
-    },
-    {
-      "title": "A 40-line fix eliminated a 400x performance gap",
-      "href": "https://questdb.com/blog/jvm-current-thread-user-time/",
-      "points": "289 points",
-      "comments": "62 comments",
-      "index": 10
     },
     {
       "title": "Every GitHub object has two IDs",
       "href": "https://www.greptile.com/blog/github-ids",
-      "points": "261 points",
+      "points": "269 points",
       "comments": "64 comments",
-      "index": 11
+      "index": 9
     },
     {
       "title": "Putting the \"You\" in CPU (2023)",
       "href": "https://cpu.land/",
-      "points": "57 points",
+      "points": "67 points",
+      "comments": "10 comments",
+      "index": 10
+    },
+    {
+      "title": "A 40-line fix eliminated a 400x performance gap",
+      "href": "https://questdb.com/blog/jvm-current-thread-user-time/",
+      "points": "296 points",
+      "comments": "63 comments",
+      "index": 11
+    },
+    {
+      "title": "Systematically generating tests that would have caught Anthropic's top‑K bug",
+      "href": "https://theorem.dev/blog/anthropic-bug-test/",
+      "points": "27 points",
       "comments": "5 comments",
       "index": 12
     },
     {
+      "title": "Servo 2025 Stats",
+      "href": "https://blogs.igalia.com/mrego/servo-2025-stats/",
+      "points": "97 points",
+      "comments": "26 comments",
+      "index": 13
+    },
+    {
       "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
       "href": "https://epstein.trynia.ai/",
-      "points": "116 points",
-      "comments": "40 comments",
-      "index": 13
+      "points": "123 points",
+      "comments": "51 comments",
+      "index": 14
     },
     {
       "title": "The Gleam Programming Language",
       "href": "https://gleam.run/",
-      "points": "161 points",
-      "comments": "88 comments",
-      "index": 14
-    },
-    {
-      "title": "Show HN: Seapie – a Python debugger where breakpoints drop into a REPL",
-      "href": "https://github.com/hirsimaki-markus/seapie",
-      "points": "10 points",
-      "comments": "7 comments",
+      "points": "172 points",
+      "comments": "93 comments",
       "index": 15
     },
     {
-      "title": "UK secures record supply of offshore wind projects",
-      "href": "https://www.bbc.co.uk/news/articles/cn9zyx150xdo",
-      "points": "26 points",
-      "comments": "32 comments",
+      "title": "System Programming in Linux: A Hands-On Introduction \"Demo\" Programs",
+      "href": "https://github.com/stewartweiss/intro-linux-sys-prog",
+      "points": "15 points",
+      "comments": "discuss",
       "index": 16
+    },
+    {
+      "title": "I Hate GitHub Actions with Passion",
+      "href": "https://xlii.space/eng/i-hate-github-actions-with-passion/",
+      "points": "58 points",
+      "comments": "44 comments",
+      "index": 17
     },
     {
       "title": "No management needed: anti-patterns in early-stage engineering teams",
       "href": "https://www.ablg.io/blog/no-management-needed",
-      "points": "218 points",
-      "comments": "226 comments",
-      "index": 17
-    },
-    {
-      "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
-      "href": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
-      "points": "250 points",
-      "comments": "54 comments",
+      "points": "231 points",
+      "comments": "239 comments",
       "index": 18
     },
     {
       "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
       "href": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
-      "points": "117 points",
-      "comments": "37 comments",
+      "points": "121 points",
+      "comments": "40 comments",
       "index": 19
+    },
+    {
+      "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
+      "href": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
+      "points": "263 points",
+      "comments": "54 comments",
+      "index": 20
     },
     {
       "title": "Show HN: 1D-Pong Game at 39C3",
       "href": "https://github.com/ogermer/1d-pong",
-      "points": "43 points",
+      "points": "46 points",
       "comments": "9 comments",
-      "index": 20
+      "index": 21
     },
     {
       "title": "The $LANG Programming Language",
       "href": "item?id=46610557",
-      "points": "221 points",
-      "comments": "42 comments",
-      "index": 21
-    },
-    {
-      "title": "System Programming in Linux: A Hands-On Introduction \"Demo\" Programs",
-      "href": "https://github.com/stewartweiss/intro-linux-sys-prog",
-      "points": "7 points",
-      "comments": "discuss",
+      "points": "226 points",
+      "comments": "44 comments",
       "index": 22
     },
     {
       "title": "Are two heads better than one?",
       "href": "https://eieio.games/blog/two-heads-arent-better-than-one/",
-      "points": "175 points",
-      "comments": "55 comments",
+      "points": "178 points",
+      "comments": "56 comments",
       "index": 23
     },
     {
       "title": "The Emacs Widget Library: A Critique and Case Study",
       "href": "https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library",
-      "points": "83 points",
+      "points": "87 points",
       "comments": "29 comments",
       "index": 24
     },
     {
       "title": "Show HN: The Tsonic Programming Language",
       "href": "https://tsonic.org",
-      "points": "38 points",
+      "points": "42 points",
       "comments": "9 comments",
       "index": 25
     },
     {
-      "title": "April 9, 1940 a Dish Best Served Cold",
+      "title": "April 9, 1940 a Dish Best Served Cold (2021)",
       "href": "https://todayinhistory.blog/2021/04/09/april-9-1940-a-dish-best-served-cold/",
-      "points": "54 points",
-      "comments": "5 comments",
+      "points": "64 points",
+      "comments": "8 comments",
       "index": 26
-    },
-    {
-      "title": "Handling secrets (somewhat) securely in shells",
-      "href": "https://linus.schreibt.jetzt/posts/shell-secrets.html",
-      "points": "75 points",
-      "comments": "39 comments",
-      "index": 27
-    },
-    {
-      "title": "Show HN: Cachekit – High performance caching policies library in Rust",
-      "href": "https://github.com/OxidizeLabs/cachekit",
-      "points": "41 points",
-      "comments": "7 comments",
-      "index": 28
     },
     {
       "title": "The Tulip Creative Computer",
       "href": "https://github.com/shorepine/tulipcc",
-      "points": "221 points",
+      "points": "229 points",
       "comments": "53 comments",
-      "index": 29
+      "index": 27
     },
     {
       "title": "AI generated music barred from Bandcamp",
       "href": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
-      "points": "830 points",
-      "comments": "598 comments",
+      "points": "851 points",
+      "comments": "619 comments",
+      "index": 28
+    },
+    {
+      "title": "How to make a damn website (2024)",
+      "href": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
+      "points": "217 points",
+      "comments": "70 comments",
+      "index": 29
+    },
+    {
+      "title": "Scott Adams has died",
+      "href": "https://www.youtube.com/watch?v=Rs_JrOIo3SE",
+      "points": "999 points",
+      "comments": "1525 comments",
       "index": 30
     }
   ]
