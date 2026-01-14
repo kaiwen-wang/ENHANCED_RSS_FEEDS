@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, January 14, 2026 at 8:40 AM GMT-5",
+  "date": "Wednesday, January 14, 2026 at 9:25 AM GMT-5",
   "articles": [
     {
       "title": "Just the Browser",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
-      "title": "How a 40-Line Fix Eliminated a 400x Performance Gap",
-      "href": "https://questdb.com/blog/jvm-current-thread-user-time/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 2
-    },
-    {
       "title": "Interactive eBPF playground",
       "href": "https://ebpf.party",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 2
+    },
+    {
+      "title": "How a 40-Line Fix Eliminated a 400x Performance Gap",
+      "href": "https://questdb.com/blog/jvm-current-thread-user-time/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
-      "title": "TruffleRuby 33 is Released",
-      "href": "https://truffleruby.dev/blog/truffleruby-33-is-released",
+      "title": "Servo 2025 Stats",
+      "href": "https://blogs.igalia.com/mrego/servo-2025-stats/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 5
     },
     {
-      "title": "More assorted notes on Liquid Glass (2025)",
-      "href": "https://morrick.me/archives/10068",
+      "title": "Rust at Volvo Cars",
+      "href": "https://www.youtube.com/watch?v=vBofCW8j70A",
       "points": "",
-      "comments": "\n              34 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 6
     },
     {
@@ -51,31 +51,31 @@
       "index": 7
     },
     {
-      "title": "Rust at Volvo Cars",
-      "href": "https://www.youtube.com/watch?v=vBofCW8j70A",
+      "title": "TruffleRuby 33 is Released",
+      "href": "https://truffleruby.dev/blog/truffleruby-33-is-released",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "More assorted notes on Liquid Glass (2025)",
+      "href": "https://morrick.me/archives/10068",
+      "points": "",
+      "comments": "\n              34 comments\n            ",
+      "index": 9
     },
     {
       "title": "Bevy 0.18",
       "href": "https://bevy.org/news/bevy-0-18/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 9
-    },
-    {
-      "title": "Servo 2025 Stats",
-      "href": "https://blogs.igalia.com/mrego/servo-2025-stats/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 10
     },
     {
       "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
       "href": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
       "points": "",
-      "comments": "\n              40 comments\n            ",
+      "comments": "\n              41 comments\n            ",
       "index": 11
     },
     {
@@ -107,59 +107,59 @@
       "index": 15
     },
     {
+      "title": "Stop using natural language interfaces",
+      "href": "https://tidepool.leaflet.pub/3mcbegnuf2k2i",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
       "title": "Black-White Array: A New Data Structure for Dynamic Data Sets",
       "href": "https://arxiv.org/abs/2004.09051",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Your CLI's completion should know what options you've already typed",
       "href": "https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion",
       "points": "",
       "comments": "\n              30 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "HiTeX Press: A spam factory for AI-generated books",
       "href": "https://laurent.le-brun.eu/blog/hitex-a-spam-factory-for-ai-generated-books",
       "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 18
+      "comments": "\n              8 comments\n            ",
+      "index": 19
     },
     {
       "title": "Date is out, Temporal is in",
       "href": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Stop using natural language interfaces",
-      "href": "https://tidepool.leaflet.pub/3mcbegnuf2k2i",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 20
-    },
-    {
-      "title": "How to Build Good Software",
-      "href": "https://knowledge.csc.gov.sg/ethos-issue-21/how-to-build-good-software/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "The hidden cost of PostgreSQL arrays",
-      "href": "https://boringsql.com/posts/good-bad-arrays/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 22
     },
     {
       "title": "Win8DE: windows 8 like de for linux",
       "href": "https://github.com/er-bharat/Win8DE",
       "points": "",
       "comments": "\n              7 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "How to Build Good Software",
+      "href": "https://knowledge.csc.gov.sg/ethos-issue-21/how-to-build-good-software/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 22
+    },
+    {
+      "title": "The hidden cost of PostgreSQL arrays",
+      "href": "https://boringsql.com/posts/good-bad-arrays/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 23
     },
     {
