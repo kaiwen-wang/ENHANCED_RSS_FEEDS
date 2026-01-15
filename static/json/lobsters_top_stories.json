@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, January 15, 2026 at 2:25 AM GMT-5",
+  "date": "Thursday, January 15, 2026 at 3:30 AM GMT-5",
   "articles": [
     {
       "title": "SelfCI - a minimalistic local-first Unix-philosophy-abiding CI",
       "href": "https://app.radicle.xyz/nodes/radicle.dpc.pw/rad:z2tDzYbAXxTQEKTGFVwiJPajkbeDU",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              25 comments\n            ",
       "index": 1
     },
     {
       "title": "Just the Browser",
       "href": "https://justthebrowser.com/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 2
     },
     {
@@ -47,7 +47,7 @@
       "title": "What does it take to ship Rust in safety-critical?",
       "href": "https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 7
     },
     {
@@ -58,31 +58,31 @@
       "index": 8
     },
     {
+      "title": "Finding and Fixing a 50,000 Goroutine Leak That Nearly Killed Production",
+      "href": "https://skoredin.pro/blog/golang/goroutine-leak-debugging",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Claude Cowork Exfiltrates Files",
+      "href": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
       "title": "Chat is the least interesting interface to LLMs",
       "href": "https://www.haskellforall.com/2026/01/chat-is-least-interesting-interface-to.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 9
+      "index": 11
     },
     {
       "title": "Coding on a Phone: What I Learned Building Software on Mobile in the Last Three Weeks",
       "href": "https://rahulpandita.me/blog/2026-01-14-Mobile-Development",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Finding and Fixing a 50,000 Goroutine Leak That Nearly Killed Production",
-      "href": "https://skoredin.pro/blog/golang/goroutine-leak-debugging",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 11
-    },
-    {
-      "title": "Scaling long-running autonomous coding",
-      "href": "https://cursor.com/blog/scaling-agents",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 12
     },
     {
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
+      "title": "Scaling long-running autonomous coding",
+      "href": "https://cursor.com/blog/scaling-agents",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 14
+    },
+    {
       "title": "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
       "href": "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Scrollbars in Scrollbars",
       "href": "https://matoseb.com/scrollbars-scrollbars/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "How a 40-Line Fix Eliminated a 400x Performance Gap",
       "href": "https://questdb.com/blog/jvm-current-thread-user-time/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Why We Don't Use AI",
-      "href": "https://yarnspinner.dev/blog/why-we-dont-use-ai/",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 17
-    },
-    {
-      "title": "Rust at Volvo Cars",
-      "href": "https://www.youtube.com/watch?v=vBofCW8j70A",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Porting MiniJinja to Go With an Agent",
-      "href": "https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 19
     },
     {
       "title": "Writing Anteforth, a Forth-like in SPARK",
       "href": "https://pyjarrett.github.io/2026/01/13/anteforth.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Why We Don't Use AI",
+      "href": "https://yarnspinner.dev/blog/why-we-dont-use-ai/",
+      "points": "",
+      "comments": "\n              30 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Rust at Volvo Cars",
+      "href": "https://www.youtube.com/watch?v=vBofCW8j70A",
+      "points": "",
+      "comments": "\n              20 comments\n            ",
       "index": 20
     },
     {
-      "title": "Artificial StupidIntelligence and Airport Sinks",
-      "href": "https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/",
+      "title": "Porting MiniJinja to Go With an Agent",
+      "href": "https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 21
-    },
-    {
-      "title": "TruffleRuby 33 is Released",
-      "href": "https://truffleruby.dev/blog/truffleruby-33-is-released",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 22
     },
     {
       "title": "My AI got a Github account",
       "href": "https://www.maragu.dev/blog/my-ai-got-a-github-account",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
-      "href": "https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 24
+      "index": 22
     },
     {
       "title": "Rickroll in rustc",
       "href": "https://github.com/rust-lang/rust/blob/main/tests/ui/attributes/check-cfg_attr-ice.rs#L9-L68",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Artificial StupidIntelligence and Airport Sinks",
+      "href": "https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "TruffleRuby 33 is Released",
+      "href": "https://truffleruby.dev/blog/truffleruby-33-is-released",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 25
     }
   ]
