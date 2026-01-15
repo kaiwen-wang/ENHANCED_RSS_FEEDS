@@ -1,46 +1,46 @@
 {
-  "date": "Thursday, January 15, 2026 at 6:20 AM GMT-5",
+  "date": "Thursday, January 15, 2026 at 7:50 AM GMT-5",
   "articles": [
     {
       "title": "SelfCI - a minimalistic local-first Unix-philosophy-abiding CI",
       "href": "https://app.radicle.xyz/nodes/radicle.dpc.pw/rad:z2tDzYbAXxTQEKTGFVwiJPajkbeDU",
       "points": "",
-      "comments": "\n              29 comments\n            ",
+      "comments": "\n              30 comments\n            ",
       "index": 1
     },
     {
       "title": "Alternatives to MinIO for single-node local S3",
       "href": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 2
     },
     {
       "title": "Lobsters Battlestations and Screenshots (2026)",
       "href": "/s/r7rdk7/lobsters_battlestations_screenshots",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "What does it take to ship Rust in safety-critical?",
+      "href": "https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 4
     },
     {
       "title": "Just the Browser",
       "href": "https://justthebrowser.com/",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 4
+      "index": 5
     },
     {
       "title": "Interactive eBPF playground",
       "href": "https://ebpf.party",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "What does it take to ship Rust in safety-critical?",
-      "href": "https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
       "index": 6
     },
     {
@@ -68,7 +68,7 @@
       "title": "My Opinion on Spelling Run Time vs. Run-time vs. Runtime",
       "href": "https://bobrubbens.nl/post/my-opinion-on-spelling-runtime/",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 10
     },
     {
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
-      "title": "Chat is the least interesting interface to LLMs",
-      "href": "https://www.haskellforall.com/2026/01/chat-is-least-interesting-interface-to.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 12
-    },
-    {
       "title": "Stop using MySQL in 2026, it is not true open source",
       "href": "https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/",
       "points": "",
       "comments": "\n              5 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Chat is the least interesting interface to LLMs",
+      "href": "https://www.haskellforall.com/2026/01/chat-is-least-interesting-interface-to.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 13
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "Why Senior Engineers Let Bad Projects Fail",
+      "href": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
       "title": "Scaling long-running autonomous coding",
       "href": "https://cursor.com/blog/scaling-agents",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "MySQL vs PostgreSQL Performance: throughput & latency, reads & writes",
       "href": "https://binaryigor.com/mysql-vs-postgresql-performance.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Rickroll in rustc",
       "href": "https://github.com/rust-lang/rust/blob/main/tests/ui/attributes/check-cfg_attr-ice.rs#L9-L68",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Scrollbars in Scrollbars",
-      "href": "https://matoseb.com/scrollbars-scrollbars/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 21
-    },
-    {
-      "title": "How a 40-Line Fix Eliminated a 400x Performance Gap",
-      "href": "https://questdb.com/blog/jvm-current-thread-user-time/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Finding and Fixing a 50,000 Goroutine Leak That Nearly Killed Production",
-      "href": "https://skoredin.pro/blog/golang/goroutine-leak-debugging",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 23
     },
     {
       "title": "The discoveries of continuations",
       "href": "https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "The people who built Wikipedia, technically (2021)",
+      "href": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2021-01-31/Technology_report",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 23
+    },
+    {
+      "title": "Scrollbars in Scrollbars",
+      "href": "https://matoseb.com/scrollbars-scrollbars/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 24
     },
     {
-      "title": "Why We Don't Use AI",
-      "href": "https://yarnspinner.dev/blog/why-we-dont-use-ai/",
+      "title": "How a 40-Line Fix Eliminated a 400x Performance Gap",
+      "href": "https://questdb.com/blog/jvm-current-thread-user-time/",
       "points": "",
-      "comments": "\n              44 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 25
     }
   ]
