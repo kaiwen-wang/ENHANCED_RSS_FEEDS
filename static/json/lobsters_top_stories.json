@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, January 15, 2026 at 12:25 AM GMT-5",
+  "date": "Thursday, January 15, 2026 at 1:35 AM GMT-5",
   "articles": [
     {
       "title": "SelfCI - a minimalistic local-first Unix-philosophy-abiding CI",
@@ -26,7 +26,7 @@
       "title": "Servo 2025 Stats",
       "href": "https://blogs.igalia.com/mrego/servo-2025-stats/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 4
     },
     {
@@ -54,7 +54,7 @@
       "title": "What does it take to ship Rust in safety-critical?",
       "href": "https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 8
     },
     {
@@ -68,7 +68,7 @@
       "title": "Coding on a Phone: What I Learned Building Software on Mobile in the Last Three Weeks",
       "href": "https://rahulpandita.me/blog/2026-01-14-Mobile-Development",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 10
     },
     {
@@ -79,38 +79,38 @@
       "index": 11
     },
     {
-      "title": "Stop using MySQL in 2026, it is not true open source",
-      "href": "https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/",
+      "title": "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
+      "href": "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 12
-    },
-    {
-      "title": "How a 40-Line Fix Eliminated a 400x Performance Gap",
-      "href": "https://questdb.com/blog/jvm-current-thread-user-time/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 13
     },
     {
       "title": "Scrollbars in Scrollbars",
       "href": "https://matoseb.com/scrollbars-scrollbars/",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Stop using MySQL in 2026, it is not true open source",
+      "href": "https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 14
+    },
+    {
+      "title": "How a 40-Line Fix Eliminated a 400x Performance Gap",
+      "href": "https://questdb.com/blog/jvm-current-thread-user-time/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 15
     },
     {
       "title": "Why We Don't Use AI",
       "href": "https://yarnspinner.dev/blog/why-we-dont-use-ai/",
       "points": "",
-      "comments": "\n              26 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
-      "href": "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              28 comments\n            ",
       "index": 16
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "TruffleRuby 33 is Released",
+      "href": "https://truffleruby.dev/blog/truffleruby-33-is-released",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Finding and Fixing a 50,000 Goroutine Leak That Nearly Killed Production",
+      "href": "https://skoredin.pro/blog/golang/goroutine-leak-debugging",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
       "title": "My AI got a Github account",
       "href": "https://www.maragu.dev/blog/my-ai-got-a-github-account",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
       "href": "https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "TruffleRuby 33 is Released",
-      "href": "https://truffleruby.dev/blog/truffleruby-33-is-released",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Rickroll in rustc",
       "href": "https://github.com/rust-lang/rust/blob/main/tests/ui/attributes/check-cfg_attr-ice.rs#L9-L68",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Black-White Array: A New Data Structure for Dynamic Data Sets",
-      "href": "https://arxiv.org/abs/2004.09051",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 25
     }
   ]
