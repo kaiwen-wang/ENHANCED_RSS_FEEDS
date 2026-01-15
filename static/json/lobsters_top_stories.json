@@ -1,81 +1,81 @@
 {
-  "date": "Thursday, January 15, 2026 at 5:25 AM GMT-5",
+  "date": "Thursday, January 15, 2026 at 6:20 AM GMT-5",
   "articles": [
     {
       "title": "SelfCI - a minimalistic local-first Unix-philosophy-abiding CI",
       "href": "https://app.radicle.xyz/nodes/radicle.dpc.pw/rad:z2tDzYbAXxTQEKTGFVwiJPajkbeDU",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              29 comments\n            ",
       "index": 1
     },
     {
       "title": "Alternatives to MinIO for single-node local S3",
       "href": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 2
+    },
+    {
+      "title": "Lobsters Battlestations and Screenshots (2026)",
+      "href": "/s/r7rdk7/lobsters_battlestations_screenshots",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 3
     },
     {
       "title": "Just the Browser",
       "href": "https://justthebrowser.com/",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 3
+      "index": 4
     },
     {
       "title": "Interactive eBPF playground",
       "href": "https://ebpf.party",
       "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 4
+      "comments": "\n              13 comments\n            ",
+      "index": 5
     },
     {
-      "title": "Servo 2025 Stats",
-      "href": "https://blogs.igalia.com/mrego/servo-2025-stats/",
+      "title": "What does it take to ship Rust in safety-critical?",
+      "href": "https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 5
+      "comments": "\n              12 comments\n            ",
+      "index": 6
     },
     {
       "title": "The State of OpenSSL for pyca/cryptography",
       "href": "https://cryptography.io/en/latest/statements/state-of-openssl/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Lobsters Battlestations and Screenshots (2026)",
-      "href": "/s/r7rdk7/lobsters_battlestations_screenshots",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 7
     },
     {
-      "title": "My Opinion on Spelling Run Time vs. Run-time vs. Runtime",
-      "href": "https://bobrubbens.nl/post/my-opinion-on-spelling-runtime/",
+      "title": "Servo 2025 Stats",
+      "href": "https://blogs.igalia.com/mrego/servo-2025-stats/",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 8
-    },
-    {
-      "title": "What does it take to ship Rust in safety-critical?",
-      "href": "https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "My Gripes with Prolog",
-      "href": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 10
     },
     {
       "title": "Claude Cowork Exfiltrates Files",
       "href": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "My Opinion on Spelling Run Time vs. Run-time vs. Runtime",
+      "href": "https://bobrubbens.nl/post/my-opinion-on-spelling-runtime/",
+      "points": "",
+      "comments": "\n              26 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "My Gripes with Prolog",
+      "href": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
       "index": 11
     },
     {
@@ -89,21 +89,21 @@
       "title": "Stop using MySQL in 2026, it is not true open source",
       "href": "https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 13
+    },
+    {
+      "title": "Codeless Code - Fables & Koans for the Software Engineer",
+      "href": "https://thecodelesscode.com",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 14
     },
     {
       "title": "Coding on a Phone: What I Learned Building Software on Mobile in the Last Three Weeks",
       "href": "https://rahulpandita.me/blog/2026-01-14-Mobile-Development",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Codeless Code - Fables & Koans for the Software Engineer",
-      "href": "https://thecodelesscode.com",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
-      "title": "Scaling long-running autonomous coding",
-      "href": "https://cursor.com/blog/scaling-agents",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 17
-    },
-    {
       "title": "Writing Anteforth, a Forth-like in SPARK",
       "href": "https://pyjarrett.github.io/2026/01/13/anteforth.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Scaling long-running autonomous coding",
+      "href": "https://cursor.com/blog/scaling-agents",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 18
+    },
+    {
+      "title": "MySQL vs PostgreSQL Performance: throughput & latency, reads & writes",
+      "href": "https://binaryigor.com/mysql-vs-postgresql-performance.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Rickroll in rustc",
+      "href": "https://github.com/rust-lang/rust/blob/main/tests/ui/attributes/check-cfg_attr-ice.rs#L9-L68",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
     },
     {
       "title": "Scrollbars in Scrollbars",
       "href": "https://matoseb.com/scrollbars-scrollbars/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Finding and Fixing a 50,000 Goroutine Leak That Nearly Killed Production",
-      "href": "https://skoredin.pro/blog/golang/goroutine-leak-debugging",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "How a 40-Line Fix Eliminated a 400x Performance Gap",
       "href": "https://questdb.com/blog/jvm-current-thread-user-time/",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "Finding and Fixing a 50,000 Goroutine Leak That Nearly Killed Production",
+      "href": "https://skoredin.pro/blog/golang/goroutine-leak-debugging",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 23
     },
     {
       "title": "The discoveries of continuations",
       "href": "https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Why We Don't Use AI",
       "href": "https://yarnspinner.dev/blog/why-we-dont-use-ai/",
       "points": "",
-      "comments": "\n              42 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Rust at Volvo Cars",
-      "href": "https://www.youtube.com/watch?v=vBofCW8j70A",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "On FLOSS and training LLMs",
-      "href": "https://chronicles.mad-scientist.club/tales/on-floss-and-training-llms/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              44 comments\n            ",
       "index": 25
     }
   ]
