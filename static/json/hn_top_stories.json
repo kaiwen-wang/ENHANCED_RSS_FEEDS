@@ -1,214 +1,214 @@
 {
-  "date": "Friday, January 16, 2026 at 4:20 PM GMT-5",
+  "date": "Friday, January 16, 2026 at 5:20 PM GMT-5",
   "articles": [
+    {
+      "title": "East Germany balloon escape",
+      "href": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+      "points": "119 points",
+      "comments": "25 comments",
+      "index": 1
+    },
     {
       "title": "Cloudflare acquires Astro",
       "href": "https://astro.build/blog/joining-cloudflare/",
-      "points": "592 points",
-      "comments": "292 comments",
-      "index": 1
+      "points": "624 points",
+      "comments": "305 comments",
+      "index": 2
     },
     {
       "title": "6-Day and IP Address Certificates Are Generally Available",
       "href": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
-      "points": "256 points",
-      "comments": "160 comments",
-      "index": 2
+      "points": "285 points",
+      "comments": "179 comments",
+      "index": 3
     },
     {
       "title": "Michelangelo's first painting, created when he was 12 or 13",
       "href": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
-      "points": "250 points",
-      "comments": "138 comments",
-      "index": 3
+      "points": "268 points",
+      "comments": "146 comments",
+      "index": 4
     },
     {
       "title": "Cursor's latest “browser experiment” implied success without evidence",
       "href": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
-      "points": "237 points",
-      "comments": "110 comments",
-      "index": 4
+      "points": "288 points",
+      "comments": "127 comments",
+      "index": 5
     },
     {
       "title": "Just the Browser",
       "href": "https://justthebrowser.com/",
-      "points": "424 points",
-      "comments": "216 comments",
-      "index": 5
+      "points": "446 points",
+      "comments": "226 comments",
+      "index": 6
+    },
+    {
+      "title": "LLM Structured Outputs Handbook",
+      "href": "https://nanonets.com/cookbooks/structured-llm-outputs",
+      "points": "14 points",
+      "comments": "discuss",
+      "index": 7
     },
     {
       "title": "Lock-Picking Robot",
       "href": "https://github.com/etinaude/Lock-Picking-Robot",
-      "points": "207 points",
-      "comments": "88 comments",
-      "index": 6
-    },
-    {
-      "title": "Elasticsearch was never a database",
-      "href": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database",
-      "points": "64 points",
-      "comments": "52 comments",
-      "index": 7
-    },
-    {
-      "title": "Launch HN: Indy (YC S21) – A support app designed for ADHD brains",
-      "href": "https://www.shimmer.care/indy-redirect",
-      "points": "50 points",
-      "comments": "58 comments",
+      "points": "217 points",
+      "comments": "100 comments",
       "index": 8
+    },
+    {
+      "title": "Slop is everywhere for those with eyes to see",
+      "href": "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/",
+      "points": "95 points",
+      "comments": "52 comments",
+      "index": 9
+    },
+    {
+      "title": "Releasing rainbow tables to accelerate protocol deprecation",
+      "href": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
+      "points": "9 points",
+      "comments": "2 comments",
+      "index": 10
     },
     {
       "title": "STFU",
       "href": "https://github.com/Pankajtanwarbanna/stfu",
-      "points": "447 points",
-      "comments": "329 comments",
-      "index": 9
-    },
-    {
-      "title": "Slop Is Everywhere for Those with Eyes to See",
-      "href": "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/",
-      "points": "53 points",
-      "comments": "17 comments",
-      "index": 10
+      "points": "505 points",
+      "comments": "364 comments",
+      "index": 11
     },
     {
       "title": "Reading across books with Claude Code",
       "href": "https://pieterma.es/syntopic-reading-claude/",
-      "points": "19 points",
-      "comments": "6 comments",
-      "index": 11
+      "points": "28 points",
+      "comments": "12 comments",
+      "index": 12
     },
     {
-      "title": "East Germany balloon escape",
-      "href": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
-      "points": "8 points",
-      "comments": "discuss",
-      "index": 12
+      "title": "Launch HN: Indy (YC S21) – A support app designed for ADHD brains",
+      "href": "https://www.shimmer.care/indy-redirect",
+      "points": "55 points",
+      "comments": "63 comments",
+      "index": 13
+    },
+    {
+      "title": "Drawbot: Let's hack something cute (2025)",
+      "href": "https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute",
+      "points": "5 points",
+      "comments": "2 comments",
+      "index": 14
+    },
+    {
+      "title": "Why DuckDB is my first choice for data processing",
+      "href": "https://www.robinlinacre.com/recommend_duckdb/",
+      "points": "172 points",
+      "comments": "67 comments",
+      "index": 15
     },
     {
       "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
       "href": "https://dl.acm.org/doi/10.1145/3780063.3780066",
-      "points": "85 points",
-      "comments": "103 comments",
-      "index": 13
-    },
-    {
-      "title": "Read_once(), Write_once(), but Not for Rust",
-      "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
-      "points": "89 points",
-      "comments": "26 comments",
-      "index": 14
+      "points": "92 points",
+      "comments": "115 comments",
+      "index": 16
     },
     {
       "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
       "href": "https://www.ycombinator.com/companies/zep-ai/jobs/",
       "points": "",
       "comments": "hide",
-      "index": 15
-    },
-    {
-      "title": "Why DuckDB is my first choice for data processing",
-      "href": "https://www.robinlinacre.com/recommend_duckdb/",
-      "points": "147 points",
-      "comments": "60 comments",
-      "index": 16
-    },
-    {
-      "title": "The Alignment Game (2023)",
-      "href": "https://dmvaldman.github.io/alignment-game/",
-      "points": "23 points",
-      "comments": "4 comments",
       "index": 17
-    },
-    {
-      "title": "LWN is currently under the heaviest scraper attack seen yet",
-      "href": "https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO",
-      "points": "67 points",
-      "comments": "17 comments",
-      "index": 18
-    },
-    {
-      "title": "Our approach to advertising",
-      "href": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
-      "points": "136 points",
-      "comments": "96 comments",
-      "index": 19
     },
     {
       "title": "Independent Guest Virtual Machine (IGVM) File Format",
       "href": "https://github.com/microsoft/igvm",
-      "points": "7 points",
+      "points": "14 points",
       "comments": "discuss",
+      "index": 18
+    },
+    {
+      "title": "LWN is currently under the heaviest scraper attack seen yet",
+      "href": "https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO",
+      "points": "109 points",
+      "comments": "51 comments",
+      "index": 19
+    },
+    {
+      "title": "Read_once(), Write_once(), but Not for Rust",
+      "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
+      "points": "97 points",
+      "comments": "30 comments",
       "index": 20
     },
     {
-      "title": "Emoji Use in the Electronic Health Record is Increasing",
-      "href": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883",
-      "points": "29 points",
-      "comments": "28 comments",
+      "title": "Elasticsearch was never a database",
+      "href": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database",
+      "points": "74 points",
+      "comments": "66 comments",
       "index": 21
     },
     {
       "title": "Show HN: 1Code – Open-source Cursor-like UI for Claude Code",
       "href": "https://github.com/21st-dev/1code",
-      "points": "33 points",
-      "comments": "19 comments",
+      "points": "39 points",
+      "comments": "22 comments",
       "index": 22
     },
     {
-      "title": "List of individual trees",
-      "href": "https://en.wikipedia.org/wiki/List_of_individual_trees",
-      "points": "333 points",
-      "comments": "109 comments",
+      "title": "The Alignment Game (2023)",
+      "href": "https://dmvaldman.github.io/alignment-game/",
+      "points": "27 points",
+      "comments": "4 comments",
       "index": 23
     },
     {
-      "title": "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
-      "href": "https://www.domainlanguage.com/articles/ai-components-deterministic-system/",
-      "points": "18 points",
-      "comments": "9 comments",
+      "title": "Emoji Use in the Electronic Health Record is Increasing",
+      "href": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883",
+      "points": "37 points",
+      "comments": "36 comments",
       "index": 24
     },
     {
-      "title": "Feature Selection: A Primer",
-      "href": "https://ikromshi.com/2025/12/30/feature-selection-primer.html",
-      "points": "12 points",
-      "comments": "discuss",
+      "title": "The First PC Virus",
+      "href": "https://www.bbc.com/audio/play/w3ct7479",
+      "points": "9 points",
+      "comments": "1 comment",
       "index": 25
     },
     {
-      "title": "Training my smartwatch to track intelligence",
-      "href": "https://dmvaldman.github.io/rooklift/",
-      "points": "121 points",
-      "comments": "52 comments",
+      "title": "Our approach to advertising",
+      "href": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
+      "points": "161 points",
+      "comments": "120 comments",
       "index": 26
     },
     {
       "title": "psc: The ps utility, with an eBPF twist and container context",
       "href": "https://github.com/loresuso/psc",
-      "points": "63 points",
+      "points": "70 points",
       "comments": "25 comments",
       "index": 27
     },
     {
-      "title": "Interactive eBPF",
-      "href": "https://ebpf.party/",
-      "points": "191 points",
-      "comments": "8 comments",
+      "title": "Feature Selection: A Primer",
+      "href": "https://ikromshi.com/2025/12/30/feature-selection-primer.html",
+      "points": "17 points",
+      "comments": "discuss",
       "index": 28
     },
     {
-      "title": "Ask HN: Claude Opus performance affected by time of day?",
-      "href": "item?id=46648900",
-      "points": "4 points",
-      "comments": "discuss",
+      "title": "Interactive eBPF",
+      "href": "https://ebpf.party/",
+      "points": "199 points",
+      "comments": "9 comments",
       "index": 29
     },
     {
-      "title": "Earth from Space: The Fate of a Giant",
-      "href": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant",
-      "points": "19 points",
-      "comments": "2 comments",
+      "title": "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
+      "href": "https://www.domainlanguage.com/articles/ai-components-deterministic-system/",
+      "points": "23 points",
+      "comments": "16 comments",
       "index": 30
     }
   ]
