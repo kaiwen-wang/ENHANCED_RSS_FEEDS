@@ -1,32 +1,32 @@
 {
-  "date": "Thursday, January 15, 2026 at 6:20 PM GMT-5",
+  "date": "Thursday, January 15, 2026 at 8:50 PM GMT-5",
   "articles": [
     {
       "title": "Why Senior Engineers Let Bad Projects Fail",
       "href": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 1
     },
     {
       "title": "Alternatives to MinIO for single-node local S3",
       "href": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 2
     },
     {
       "title": "Forgejo v14.0 is available",
       "href": "https://forgejo.org/2026-01-release-v14-0/",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 3
     },
     {
       "title": "Lobsters Battlestations and Screenshots (2026)",
       "href": "/s/r7rdk7/lobsters_battlestations_screenshots",
       "points": "",
-      "comments": "\n              81 comments\n            ",
+      "comments": "\n              87 comments\n            ",
       "index": 4
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
+      "title": "HTTP RateLimit headers",
+      "href": "https://dotat.at/@/2026-01-13-http-ratelimit.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 6
+    },
+    {
       "title": "MySQL vs PostgreSQL Performance: throughput & latency, reads & writes",
       "href": "https://binaryigor.com/mysql-vs-postgresql-performance.html",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Going immutable on macOS",
-      "href": "https://carette.xyz/posts/going_immutable_macos/",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 7
     },
     {
@@ -58,10 +58,10 @@
       "index": 8
     },
     {
-      "title": "New Social Web Working Group at W3C",
-      "href": "https://socialwebfoundation.org/2026/01/15/new-social-web-working-group-at-w3c/",
+      "title": "Going immutable on macOS",
+      "href": "https://carette.xyz/posts/going_immutable_macos/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 9
     },
     {
@@ -72,108 +72,108 @@
       "index": 10
     },
     {
+      "title": "New Social Web Working Group at W3C",
+      "href": "https://socialwebfoundation.org/2026/01/15/new-social-web-working-group-at-w3c/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 11
+    },
+    {
       "title": "To those who fired or didn't hire tech writers because of AI",
       "href": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "The people who built Wikipedia, technically (2021)",
       "href": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2021-01-31/Technology_report",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Claude Cowork Exfiltrates Files",
-      "href": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 13
-    },
-    {
-      "title": "I’m The Captain Now: Hijacking a global ocean supply chain network",
-      "href": "https://eaton-works.com/2026/01/14/bluspark-bluvoyix-hack/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "The State of OpenSSL for pyca/cryptography",
-      "href": "https://cryptography.io/en/latest/statements/state-of-openssl/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "What does it take to ship Rust in safety-critical?",
-      "href": "https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/",
-      "points": "",
-      "comments": "\n              27 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "The discoveries of continuations",
-      "href": "https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Just the Browser",
-      "href": "https://justthebrowser.com/",
-      "points": "",
-      "comments": "\n              24 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Interactive eBPF playground",
-      "href": "https://ebpf.party",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "TWC Security Party - Group education event for tech workers to improve their privacy and make friends - Jan 26, 17:30 ET",
-      "href": "https://dev.techworkerscoalition.org/u/secparty",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 20
-    },
-    {
-      "title": "Servo 2025 Stats",
-      "href": "https://blogs.igalia.com/mrego/servo-2025-stats/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Stop using MySQL in 2026, it is not true open source",
-      "href": "https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "My Gripes with Prolog",
-      "href": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "My Opinion on Spelling Run Time vs. Run-time vs. Runtime",
-      "href": "https://bobrubbens.nl/post/my-opinion-on-spelling-runtime/",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 24
     },
     {
       "title": "How to parametrize exception testing in PyTest?",
       "href": "https://borutzki.github.io/2026/01/15/how-to-parametrize-exception-testing-in-pytest.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
+      "title": "Why is Zig so Cool?",
+      "href": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "I’m The Captain Now: Hijacking a global ocean supply chain network",
+      "href": "https://eaton-works.com/2026/01/14/bluspark-bluvoyix-hack/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Claude Cowork Exfiltrates Files",
+      "href": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "The State of OpenSSL for pyca/cryptography",
+      "href": "https://cryptography.io/en/latest/statements/state-of-openssl/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "The discoveries of continuations",
+      "href": "https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "What does it take to ship Rust in safety-critical?",
+      "href": "https://blog.rust-lang.org/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/",
+      "points": "",
+      "comments": "\n              27 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Reverse engineering my cloud-connected e-scooter and finding the master key to unlock all scooters",
+      "href": "https://blog.nns.ee/2026/01/06/aike-ble/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
+    },
+    {
+      "title": "Just the Browser",
+      "href": "https://justthebrowser.com/",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Interactive eBPF playground",
+      "href": "https://ebpf.party",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "TWC Security Party - Group education event for tech workers to improve their privacy and make friends - Jan 26, 17:30 ET",
+      "href": "https://dev.techworkerscoalition.org/u/secparty",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 24
+    },
+    {
+      "title": "My Gripes with Prolog",
+      "href": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
+      "points": "",
+      "comments": "\n              23 comments\n            ",
       "index": 25
     }
   ]
