@@ -1,32 +1,32 @@
 {
-  "date": "Saturday, January 17, 2026 at 1:30 PM GMT-5",
+  "date": "Saturday, January 17, 2026 at 2:15 PM GMT-5",
   "articles": [
     {
       "title": "I set all 376 Vim options and I'm still a fool",
       "href": "https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 1
     },
     {
       "title": "A Website To End All Websites",
       "href": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
-      "href": "https://alexharri.com/blog/ascii-rendering",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 3
     },
     {
       "title": "kip: A programming language based on grammatical cases of Turkish",
       "href": "https://github.com/joom/kip",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+      "href": "https://alexharri.com/blog/ascii-rendering",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 4
     },
     {
@@ -72,10 +72,10 @@
       "index": 10
     },
     {
-      "title": "Modern Java",
-      "href": "https://javabook.mccue.dev",
+      "title": "My new minimal static site generator",
+      "href": "https://maurycyz.com/misc/new_ssg/",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 11
     },
     {
@@ -86,94 +86,94 @@
       "index": 12
     },
     {
-      "title": "Patching the Wii News Channel to serve local news",
-      "href": "https://raulnegron.me/2025/wii-news-pr/",
+      "title": "Modern Java",
+      "href": "https://javabook.mccue.dev",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 13
+    },
+    {
+      "title": "What are your favorite drawing libraries?",
+      "href": "/s/dtnmwy/what_are_your_favorite_drawing_libraries",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 14
     },
     {
       "title": "6-day and IP Address Certificates are Generally Available",
       "href": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
-      "title": "What are your favorite drawing libraries?",
-      "href": "/s/dtnmwy/what_are_your_favorite_drawing_libraries",
+      "title": "Patching the Wii News Channel to serve local news",
+      "href": "https://raulnegron.me/2025/wii-news-pr/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 15
+      "comments": "\n              no comments\n            ",
+      "index": 16
     },
     {
       "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
       "href": "https://neodyme.io/en/blog/drone_hacking_part_1",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "My new minimal static site generator",
-      "href": "https://maurycyz.com/misc/new_ssg/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 17
-    },
-    {
-      "title": "Fun things to do with your VM/370 machine",
-      "href": "https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Designated Initializers, the best feature of C++20",
-      "href": "https://mropert.github.io/2026/01/15/designed_initializers/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 19
     },
     {
       "title": "Pushing the smallest possible change to production",
       "href": "https://ankursethi.com/blog/smallest-possible-change/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Fun things to do with your VM/370 machine",
+      "href": "https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Designated Initializers, the best feature of C++20",
+      "href": "https://mropert.github.io/2026/01/15/designed_initializers/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 20
+    },
+    {
+      "title": "AI Plays Rollercoaster Tycoon",
+      "href": "https://labs.ramp.com/rct",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Rust's Culture of Semantic Precision",
+      "href": "https://www.alilleybrinker.com/mini/rusts-culture-of-semantic-precision/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "The Malloc Maleficarum (2005)",
+      "href": "https://seclists.org/bugtraq/2005/Oct/118",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "READ_ONCE(), WRITE_ONCE(), but not for Rust",
       "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing",
       "href": "https://eprint.iacr.org/2026/061.pdf",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Myths we tell ourselves about software engineering",
-      "href": "https://medium.com/feenk/rewilding-software-engineering-ca3ad1e612d8",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "The Magic of the Better Software Conference",
-      "href": "https://www.rfleury.com/p/the-magic-of-the-better-software",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "HTTP RateLimit headers",
-      "href": "https://dotat.at/@/2026-01-13-http-ratelimit.html",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 25
     }
   ]
