@@ -1,60 +1,60 @@
 {
-  "date": "Saturday, January 17, 2026 at 5:20 PM GMT-5",
+  "date": "Saturday, January 17, 2026 at 6:20 PM GMT-5",
   "articles": [
-    {
-      "title": "I set all 376 Vim options and I'm still a fool",
-      "href": "https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/",
-      "points": "",
-      "comments": "\n              27 comments\n            ",
-      "index": 1
-    },
     {
       "title": "A Website To End All Websites",
       "href": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
       "points": "",
       "comments": "\n              16 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "I set all 376 Vim options and I'm still a fool",
+      "href": "https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/",
+      "points": "",
+      "comments": "\n              27 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
-      "href": "https://alexharri.com/blog/ascii-rendering",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "I hotreload Rust and so can you",
-      "href": "https://kampffrosch94.github.io/posts/hotreloading_rust/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 4
-    },
-    {
-      "title": "kip: A programming language based on grammatical cases of Turkish",
-      "href": "https://github.com/joom/kip",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 5
     },
     {
       "title": "Rust's Culture of Semantic Precision",
       "href": "https://www.alilleybrinker.com/mini/rusts-culture-of-semantic-precision/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 6
+      "index": 3
+    },
+    {
+      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+      "href": "https://alexharri.com/blog/ascii-rendering",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "I hotreload Rust and so can you",
+      "href": "https://kampffrosch94.github.io/posts/hotreloading_rust/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 5
     },
     {
       "title": "How Many Pixels Do You Really Need?",
       "href": "https://rldane.space/how-many-pixels-do-you-really-need.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 7
+      "comments": "\n              5 comments\n            ",
+      "index": 6
     },
     {
       "title": "Malware Peddlers Are Now Hijacking Snap Publisher Domains",
       "href": "https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "kip: A programming language based on grammatical cases of Turkish",
+      "href": "https://github.com/joom/kip",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 8
     },
     {
@@ -86,59 +86,59 @@
       "index": 12
     },
     {
+      "title": "If writing the code is the easy part, why would I want someone else to write it?",
+      "href": "https://tldraw.dev/blog/stay-away-from-my-trash",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 13
+    },
+    {
+      "title": "Why We've Tried to Replace Developers Every Decade Since 1969",
+      "href": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
       "title": "How ClickHouse handles strings",
       "href": "https://rushter.com/blog/clickhouse-strings/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 13
+      "index": 15
     },
     {
       "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
       "href": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "If writing the code is the easy part, why would I want someone else to write it?",
-      "href": "https://tldraw.dev/blog/stay-away-from-my-trash",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Pushing the smallest possible change to production",
       "href": "https://ankursethi.com/blog/smallest-possible-change/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "6-day and IP Address Certificates are Generally Available",
       "href": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "Histomat of F/OSS: We should reclaim LLMs, not reject them",
       "href": "https://writings.hongminhee.org/2026/01/histomat-foss-llm/",
       "points": "",
       "comments": "\n              31 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Modern Java",
       "href": "https://javabook.mccue.dev",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "AI Plays Rollercoaster Tycoon",
-      "href": "https://labs.ramp.com/rct",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 20
     },
     {
@@ -149,31 +149,31 @@
       "index": 21
     },
     {
+      "title": "AI Plays Rollercoaster Tycoon",
+      "href": "https://labs.ramp.com/rct",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 22
+    },
+    {
       "title": "Patching the Wii News Channel to serve local news",
       "href": "https://raulnegron.me/2025/wii-news-pr/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "“You Had One Job”: Why Twenty Years of DevOps Has Failed to Do it",
       "href": "https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
       "href": "https://neodyme.io/en/blog/drone_hacking_part_1",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Designated Initializers, the best feature of C++20",
-      "href": "https://mropert.github.io/2026/01/15/designed_initializers/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
       "index": 25
     }
   ]
