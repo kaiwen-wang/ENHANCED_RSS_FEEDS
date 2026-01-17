@@ -1,60 +1,60 @@
 {
-  "date": "Saturday, January 17, 2026 at 6:15 AM GMT-5",
+  "date": "Saturday, January 17, 2026 at 7:40 AM GMT-5",
   "articles": [
     {
       "title": "I set all 376 Vim options and I'm still a fool",
       "href": "https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 1
     },
     {
       "title": "Cutting LLM token Usage by ~80% using REPL driven document analysis",
       "href": "https://yogthos.net/posts/2026-01-16-lattice-mcp.html",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 2
+    },
+    {
+      "title": "kip: A programming language based on grammatical cases of Turkish",
+      "href": "https://github.com/joom/kip",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 3
     },
     {
       "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
       "href": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 3
+      "index": 4
+    },
+    {
+      "title": "smalloc: a simple memory allocator",
+      "href": "https://github.com/zooko/smalloc",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 5
     },
     {
       "title": "Histomat of F/OSS: We should reclaim LLMs, not reject them",
       "href": "https://writings.hongminhee.org/2026/01/histomat-foss-llm/",
       "points": "",
       "comments": "\n              29 comments\n            ",
-      "index": 4
+      "index": 6
     },
     {
       "title": "Patching the Wii News Channel to serve local news",
       "href": "https://raulnegron.me/2025/wii-news-pr/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 5
+      "index": 7
     },
     {
       "title": "Modern Java",
       "href": "https://javabook.mccue.dev",
       "points": "",
       "comments": "\n              12 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "smalloc: a simple memory allocator",
-      "href": "https://github.com/zooko/smalloc",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "6-day and IP Address Certificates are Generally Available",
-      "href": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 8
     },
     {
@@ -72,10 +72,10 @@
       "index": 10
     },
     {
-      "title": "kip: A programming language based on grammatical cases of Turkish",
-      "href": "https://github.com/joom/kip",
+      "title": "6-day and IP Address Certificates are Generally Available",
+      "href": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 11
     },
     {
@@ -100,31 +100,31 @@
       "index": 14
     },
     {
-      "title": "GitHub Copilot now supports OpenCode",
-      "href": "https://github.blog/changelog/2026-01-16-github-copilot-now-supports-opencode/",
+      "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
+      "href": "https://neodyme.io/en/blog/drone_hacking_part_1",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 15
     },
     {
-      "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
-      "href": "https://neodyme.io/en/blog/drone_hacking_part_1",
+      "title": "Myths we tell ourselves about software engineering",
+      "href": "https://medium.com/feenk/rewilding-software-engineering-ca3ad1e612d8",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 16
-    },
-    {
-      "title": "Why Senior Engineers Let Bad Projects Fail",
-      "href": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 17
     },
     {
       "title": "HTTP RateLimit headers",
       "href": "https://dotat.at/@/2026-01-13-http-ratelimit.html",
       "points": "",
       "comments": "\n              7 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Why Senior Engineers Let Bad Projects Fail",
+      "href": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
+      "points": "",
+      "comments": "\n              23 comments\n            ",
       "index": 18
     },
     {
@@ -135,24 +135,24 @@
       "index": 19
     },
     {
-      "title": "Myths we tell ourselves about software engineering",
-      "href": "https://medium.com/feenk/rewilding-software-engineering-ca3ad1e612d8",
+      "title": "Pushing the smallest possible change to production —",
+      "href": "https://ankursethi.com/blog/smallest-possible-change/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 20
+    },
+    {
+      "title": "GitHub Copilot now supports OpenCode",
+      "href": "https://github.blog/changelog/2026-01-16-github-copilot-now-supports-opencode/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
     },
     {
       "title": "The Astro Technology Company joins Cloudflare",
       "href": "https://astro.build/blog/joining-cloudflare/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
-    },
-    {
-      "title": "Glasgow Interface Explorer Code of Conduct",
-      "href": "https://glasgow-embedded.org/latest/conduct.html",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
       "index": 22
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "What are you doing this weekend?",
-      "href": "/s/jkxpni/what_are_you_doing_this_weekend",
+      "title": "Glasgow Interface Explorer Code of Conduct",
+      "href": "https://glasgow-embedded.org/latest/conduct.html",
       "points": "",
-      "comments": "\n              34 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 24
     },
     {
-      "title": "Forgejo v14.0 is available",
-      "href": "https://forgejo.org/2026-01-release-v14-0/",
+      "title": "What are you doing this weekend?",
+      "href": "/s/jkxpni/what_are_you_doing_this_weekend",
       "points": "",
-      "comments": "\n              30 comments\n            ",
+      "comments": "\n              38 comments\n            ",
       "index": 25
     }
   ]
