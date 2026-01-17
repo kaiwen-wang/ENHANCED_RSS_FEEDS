@@ -1,5 +1,5 @@
 {
-  "date": "Saturday, January 17, 2026 at 3:25 AM GMT-5",
+  "date": "Saturday, January 17, 2026 at 4:20 AM GMT-5",
   "articles": [
     {
       "title": "I set all 376 Vim options and I'm still a fool",
@@ -47,7 +47,7 @@
       "title": "smalloc: a simple memory allocator",
       "href": "https://github.com/zooko/smalloc",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 7
     },
     {
@@ -72,108 +72,108 @@
       "index": 10
     },
     {
-      "title": "READ_ONCE(), WRITE_ONCE(), but not for Rust",
-      "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
+      "title": "Emoji Design Convergence Review: 2018 - 2026",
+      "href": "https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 11
     },
     {
-      "title": "The Magic of the Better Software Conference",
-      "href": "https://www.rfleury.com/p/the-magic-of-the-better-software",
+      "title": "READ_ONCE(), WRITE_ONCE(), but not for Rust",
+      "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 12
-    },
-    {
-      "title": "Why Senior Engineers Let Bad Projects Fail",
-      "href": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "HTTP RateLimit headers",
-      "href": "https://dotat.at/@/2026-01-13-http-ratelimit.html",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Myths we tell ourselves about software engineering",
-      "href": "https://medium.com/feenk/rewilding-software-engineering-ca3ad1e612d8",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Glasgow Interface Explorer Code of Conduct",
-      "href": "https://glasgow-embedded.org/latest/conduct.html",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 16
     },
     {
       "title": "kip: A programming language based on grammatical cases of Turkish",
       "href": "https://github.com/joom/kip",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 13
     },
     {
-      "title": "Why is Zig so Cool?",
-      "href": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "title": "The Magic of the Better Software Conference",
+      "href": "https://www.rfleury.com/p/the-magic-of-the-better-software",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 18
+      "index": 14
     },
     {
-      "title": "What are you doing this weekend?",
-      "href": "/s/jkxpni/what_are_you_doing_this_weekend",
+      "title": "Why Senior Engineers Let Bad Projects Fail",
+      "href": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
       "points": "",
-      "comments": "\n              34 comments\n            ",
-      "index": 19
+      "comments": "\n              23 comments\n            ",
+      "index": 15
     },
     {
-      "title": "The Astro Technology Company joins Cloudflare",
-      "href": "https://astro.build/blog/joining-cloudflare/",
+      "title": "HTTP RateLimit headers",
+      "href": "https://dotat.at/@/2026-01-13-http-ratelimit.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 20
-    },
-    {
-      "title": "Emoji Design Convergence Review: 2018 - 2026",
-      "href": "https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
+      "comments": "\n              7 comments\n            ",
+      "index": 16
     },
     {
       "title": "How ClickHouse handles strings",
       "href": "https://rushter.com/blog/clickhouse-strings/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Myths we tell ourselves about software engineering",
+      "href": "https://medium.com/feenk/rewilding-software-engineering-ca3ad1e612d8",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Glasgow Interface Explorer Code of Conduct",
+      "href": "https://glasgow-embedded.org/latest/conduct.html",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Why is Zig so Cool?",
+      "href": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "What are you doing this weekend?",
+      "href": "/s/jkxpni/what_are_you_doing_this_weekend",
+      "points": "",
+      "comments": "\n              34 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "The Astro Technology Company joins Cloudflare",
+      "href": "https://astro.build/blog/joining-cloudflare/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 22
+    },
+    {
+      "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
+      "href": "https://neodyme.io/en/blog/drone_hacking_part_1",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "Forgejo v14.0 is available",
       "href": "https://forgejo.org/2026-01-release-v14-0/",
       "points": "",
       "comments": "\n              30 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "GitHub Copilot now supports OpenCode",
       "href": "https://github.blog/changelog/2026-01-16-github-copilot-now-supports-opencode/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Ergonomic abstractions for numerical computing: My story so far",
-      "href": "http://ocramz.github.io/posts/2026-01-16-ergonomics-numerical.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
