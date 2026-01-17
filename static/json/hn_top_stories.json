@@ -1,214 +1,214 @@
 {
-  "date": "Saturday, January 17, 2026 at 7:40 AM GMT-5",
+  "date": "Saturday, January 17, 2026 at 8:30 AM GMT-5",
   "articles": [
     {
       "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
       "href": "https://alexharri.com/blog/ascii-rendering",
-      "points": "75 points",
-      "comments": "6 comments",
+      "points": "145 points",
+      "comments": "18 comments",
       "index": 1
-    },
-    {
-      "title": "ClickHouse acquires Langfuse",
-      "href": "https://langfuse.com/blog/joining-clickhouse",
-      "points": "82 points",
-      "comments": "20 comments",
-      "index": 2
-    },
-    {
-      "title": "The 600-year-old origins of the word 'hello'",
-      "href": "https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal",
-      "points": "14 points",
-      "comments": "3 comments",
-      "index": 3
     },
     {
       "title": "The Dilbert Afterlife",
       "href": "https://www.astralcodexten.com/p/the-dilbert-afterlife",
-      "points": "24 points",
-      "comments": "8 comments",
+      "points": "69 points",
+      "comments": "27 comments",
+      "index": 2
+    },
+    {
+      "title": "ClickHouse acquires Langfuse",
+      "href": "https://langfuse.com/blog/joining-clickhouse",
+      "points": "101 points",
+      "comments": "25 comments",
+      "index": 3
+    },
+    {
+      "title": "The 600-year-old origins of the word 'hello'",
+      "href": "https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal",
+      "points": "19 points",
+      "comments": "5 comments",
       "index": 4
     },
     {
       "title": "Map To Poster – Create Art of your favourite city",
       "href": "https://github.com/originalankur/maptoposter",
-      "points": "41 points",
-      "comments": "21 comments",
+      "points": "58 points",
+      "comments": "24 comments",
       "index": 5
-    },
-    {
-      "title": "Show HN: Streaming gigabyte medical images from S3 without downloading them",
-      "href": "https://github.com/PABannier/WSIStreamer",
-      "points": "49 points",
-      "comments": "9 comments",
-      "index": 6
-    },
-    {
-      "title": "US electricity demand surged in 2025 – solar handled 61% of it",
-      "href": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
-      "points": "71 points",
-      "comments": "27 comments",
-      "index": 7
-    },
-    {
-      "title": "East Germany balloon escape",
-      "href": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
-      "points": "550 points",
-      "comments": "217 comments",
-      "index": 8
-    },
-    {
-      "title": "After 25 years, Wikipedia has proved that news doesn't need to look like news",
-      "href": "https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/",
-      "points": "88 points",
-      "comments": "57 comments",
-      "index": 9
     },
     {
       "title": "Architecture for Disposable Systems",
       "href": "https://tuananh.net/2026/01/15/architecture-for-disposable-systems/",
-      "points": "8 points",
-      "comments": "3 comments",
+      "points": "19 points",
+      "comments": "5 comments",
+      "index": 6
+    },
+    {
+      "title": "Finding and Fixing a 50k Goroutine Leak That Nearly Killed Production",
+      "href": "https://skoredin.pro/blog/golang/goroutine-leak-debugging",
+      "points": "18 points",
+      "comments": "7 comments",
+      "index": 7
+    },
+    {
+      "title": "US electricity demand surged in 2025 – solar handled 61% of it",
+      "href": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
+      "points": "94 points",
+      "comments": "50 comments",
+      "index": 8
+    },
+    {
+      "title": "Show HN: Streaming gigabyte medical images from S3 without downloading them",
+      "href": "https://github.com/PABannier/WSIStreamer",
+      "points": "58 points",
+      "comments": "9 comments",
+      "index": 9
+    },
+    {
+      "title": "East Germany balloon escape",
+      "href": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+      "points": "563 points",
+      "comments": "222 comments",
       "index": 10
+    },
+    {
+      "title": "After 25 years, Wikipedia has proved that news doesn't need to look like news",
+      "href": "https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/",
+      "points": "107 points",
+      "comments": "86 comments",
+      "index": 11
     },
     {
       "title": "Cloudflare acquires Astro",
       "href": "https://astro.build/blog/joining-cloudflare/",
-      "points": "846 points",
-      "comments": "366 comments",
-      "index": 11
+      "points": "858 points",
+      "comments": "367 comments",
+      "index": 12
+    },
+    {
+      "title": "Fitdrop: Personal exploration of fashion from 1980 to 2025",
+      "href": "https://fitdrop.cc/",
+      "points": "9 points",
+      "comments": "discuss",
+      "index": 13
     },
     {
       "title": "Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless",
       "href": "https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless",
-      "points": "40 points",
-      "comments": "19 comments",
-      "index": 12
-    },
-    {
-      "title": "PCs refuse to shut down after Microsoft patch",
-      "href": "https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/",
-      "points": "39 points",
-      "comments": "39 comments",
-      "index": 13
-    },
-    {
-      "title": "High-Level Is the Goal",
-      "href": "https://bvisness.me/high-level/",
-      "points": "167 points",
-      "comments": "80 comments",
+      "points": "50 points",
+      "comments": "23 comments",
       "index": 14
+    },
+    {
+      "title": "The 'untouchable hacker god' behind Finland's biggest ever crime",
+      "href": "https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes",
+      "points": "52 points",
+      "comments": "45 comments",
+      "index": 15
     },
     {
       "title": "Cursor's latest “browser experiment” implied success without evidence",
       "href": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
-      "points": "590 points",
-      "comments": "257 comments",
-      "index": 15
+      "points": "594 points",
+      "comments": "260 comments",
+      "index": 16
+    },
+    {
+      "title": "High-Level Is the Goal",
+      "href": "https://bvisness.me/high-level/",
+      "points": "175 points",
+      "comments": "80 comments",
+      "index": 17
     },
     {
       "title": "FLUX.2 [Klein]: Towards Interactive Visual Intelligence",
       "href": "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence",
-      "points": "166 points",
-      "comments": "48 comments",
-      "index": 16
+      "points": "171 points",
+      "comments": "49 comments",
+      "index": 18
     },
     {
       "title": "6-Day and IP Address Certificates Are Generally Available",
       "href": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
-      "points": "427 points",
-      "comments": "240 comments",
-      "index": 17
+      "points": "430 points",
+      "comments": "242 comments",
+      "index": 19
+    },
+    {
+      "title": "PCs refuse to shut down after Microsoft patch",
+      "href": "https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/",
+      "points": "48 points",
+      "comments": "64 comments",
+      "index": 20
+    },
+    {
+      "title": "LLM Structured Outputs Handbook",
+      "href": "https://nanonets.com/cookbooks/structured-llm-outputs",
+      "points": "288 points",
+      "comments": "47 comments",
+      "index": 21
     },
     {
       "title": "AV1 Image File Format Specification Gets an Upgrade with AVIF v1.2.0",
       "href": "https://aomedia.org/blog%20posts/AV1-Image-File-Format-Specification-Gets-an-Upgrade-with-AVIF/",
-      "points": "14 points",
+      "points": "20 points",
       "comments": "discuss",
-      "index": 18
+      "index": 22
+    },
+    {
+      "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
+      "href": "https://neodyme.io/en/blog/drone_hacking_part_1/",
+      "points": "91 points",
+      "comments": "11 comments",
+      "index": 23
+    },
+    {
+      "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
+      "href": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
+      "points": "128 points",
+      "comments": "73 comments",
+      "index": 24
     },
     {
       "title": "Post-PARA: What survived 4 years of real use",
       "href": "https://cortwave.github.io/posts/post-para/",
       "points": "9 points",
       "comments": "discuss",
-      "index": 19
-    },
-    {
-      "title": "LLM Structured Outputs Handbook",
-      "href": "https://nanonets.com/cookbooks/structured-llm-outputs",
-      "points": "277 points",
-      "comments": "45 comments",
-      "index": 20
-    },
-    {
-      "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
-      "href": "https://neodyme.io/en/blog/drone_hacking_part_1/",
-      "points": "86 points",
-      "comments": "10 comments",
-      "index": 21
-    },
-    {
-      "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
-      "href": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
-      "points": "127 points",
-      "comments": "72 comments",
-      "index": 22
+      "index": 25
     },
     {
       "title": "Dell UltraSharp 52 Thunderbolt Hub Monitor",
       "href": "https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories",
-      "points": "239 points",
-      "comments": "300 comments",
-      "index": 23
+      "points": "242 points",
+      "comments": "302 comments",
+      "index": 26
     },
     {
       "title": "STFU",
       "href": "https://github.com/Pankajtanwarbanna/stfu",
-      "points": "875 points",
-      "comments": "531 comments",
-      "index": 24
+      "points": "890 points",
+      "comments": "537 comments",
+      "index": 27
+    },
+    {
+      "title": "Ask HN: Is it still worth pursuing a software startup?",
+      "href": "item?id=46654726",
+      "points": "71 points",
+      "comments": "53 comments",
+      "index": 28
     },
     {
       "title": "Reading across books with Claude Code",
       "href": "https://pieterma.es/syntopic-reading-claude/",
-      "points": "108 points",
-      "comments": "23 comments",
-      "index": 25
+      "points": "113 points",
+      "comments": "26 comments",
+      "index": 29
     },
     {
       "title": "Gut micro-organisms associated with health, nutrition and dietary intervention",
       "href": "https://www.nature.com/articles/s41586-025-09854-7?lid=t94o71j7gslg",
-      "points": "11 points",
+      "points": "16 points",
       "comments": "1 comment",
-      "index": 26
-    },
-    {
-      "title": "Keifu – A TUI for navigating commit graphs with color and clarity",
-      "href": "https://github.com/trasta298/keifu",
-      "points": "53 points",
-      "comments": "8 comments",
-      "index": 27
-    },
-    {
-      "title": "Show HN: Fun things to do with your VM/370 machine",
-      "href": "https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html",
-      "points": "9 points",
-      "comments": "3 comments",
-      "index": 28
-    },
-    {
-      "title": "The five orders of ignorance (2000)",
-      "href": "https://cacm.acm.org/opinion/the-five-orders-of-ignorance/",
-      "points": "73 points",
-      "comments": "18 comments",
-      "index": 29
-    },
-    {
-      "title": "Which is \"Bouba\", and which is \"Kiki\"? [video]",
-      "href": "https://www.youtube.com/watch?v=1TDIAObsqcs",
-      "points": "20 points",
-      "comments": "17 comments",
       "index": 30
     }
   ]
