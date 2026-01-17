@@ -1,39 +1,39 @@
 {
-  "date": "Saturday, January 17, 2026 at 11:25 AM GMT-5",
+  "date": "Saturday, January 17, 2026 at 12:15 PM GMT-5",
   "articles": [
     {
       "title": "I set all 376 Vim options and I'm still a fool",
       "href": "https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              26 comments\n            ",
       "index": 1
     },
     {
       "title": "kip: A programming language based on grammatical cases of Turkish",
       "href": "https://github.com/joom/kip",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 2
     },
     {
       "title": "A Website To End All Websites",
       "href": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+      "href": "https://alexharri.com/blog/ascii-rendering",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 4
     },
     {
       "title": "Cutting LLM token Usage by ~80% using REPL driven document analysis",
       "href": "https://yogthos.net/posts/2026-01-16-lattice-mcp.html",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "smalloc: a simple memory allocator",
-      "href": "https://github.com/zooko/smalloc",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
       "index": 5
     },
     {
@@ -44,136 +44,136 @@
       "index": 6
     },
     {
+      "title": "smalloc: a simple memory allocator",
+      "href": "https://github.com/zooko/smalloc",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 7
+    },
+    {
       "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
       "href": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
-      "href": "https://alexharri.com/blog/ascii-rendering",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 8
-    },
-    {
-      "title": "Modern Java",
-      "href": "https://javabook.mccue.dev",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Patching the Wii News Channel to serve local news",
-      "href": "https://raulnegron.me/2025/wii-news-pr/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 10
     },
     {
       "title": "Histomat of F/OSS: We should reclaim LLMs, not reject them",
       "href": "https://writings.hongminhee.org/2026/01/histomat-foss-llm/",
       "points": "",
       "comments": "\n              29 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Modern Java",
+      "href": "https://javabook.mccue.dev",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Patching the Wii News Channel to serve local news",
+      "href": "https://raulnegron.me/2025/wii-news-pr/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 11
+    },
+    {
+      "title": "How ClickHouse handles strings",
+      "href": "https://rushter.com/blog/clickhouse-strings/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 12
     },
     {
       "title": "6-day and IP Address Certificates are Generally Available",
       "href": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html",
       "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 12
+      "comments": "\n              8 comments\n            ",
+      "index": 13
     },
     {
       "title": "What are your favorite drawing libraries?",
       "href": "/s/dtnmwy/what_are_your_favorite_drawing_libraries",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
-      "title": "How ClickHouse handles strings",
-      "href": "https://rushter.com/blog/clickhouse-strings/",
+      "title": "My new minimal static site generator",
+      "href": "https://maurycyz.com/misc/new_ssg/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
+      "comments": "\n              1 comment\n            ",
+      "index": 15
     },
     {
       "title": "Fun things to do with your VM/370 machine",
       "href": "https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Designated Initializers, the best feature of C++20",
-      "href": "https://mropert.github.io/2026/01/15/designed_initializers/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
       "index": 16
-    },
-    {
-      "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
-      "href": "https://neodyme.io/en/blog/drone_hacking_part_1",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "READ_ONCE(), WRITE_ONCE(), but not for Rust",
-      "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Pushing the smallest possible change to production",
-      "href": "https://ankursethi.com/blog/smallest-possible-change/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
     },
     {
       "title": "I hotreload Rust and so can you",
       "href": "https://kampffrosch94.github.io/posts/hotreloading_rust/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Designated Initializers, the best feature of C++20",
+      "href": "https://mropert.github.io/2026/01/15/designed_initializers/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
+      "href": "https://neodyme.io/en/blog/drone_hacking_part_1",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing",
+      "href": "https://eprint.iacr.org/2026/061.pdf",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 20
+    },
+    {
+      "title": "READ_ONCE(), WRITE_ONCE(), but not for Rust",
+      "href": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Pushing the smallest possible change to production",
+      "href": "https://ankursethi.com/blog/smallest-possible-change/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
     },
     {
       "title": "Myths we tell ourselves about software engineering",
       "href": "https://medium.com/feenk/rewilding-software-engineering-ca3ad1e612d8",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "The Astro Technology Company joins Cloudflare",
-      "href": "https://astro.build/blog/joining-cloudflare/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "HTTP RateLimit headers",
-      "href": "https://dotat.at/@/2026-01-13-http-ratelimit.html",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
       "index": 23
-    },
-    {
-      "title": "Why Senior Engineers Let Bad Projects Fail",
-      "href": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 24
     },
     {
       "title": "The Magic of the Better Software Conference",
       "href": "https://www.rfleury.com/p/the-magic-of-the-better-software",
       "points": "",
       "comments": "\n              12 comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "The Astro Technology Company joins Cloudflare",
+      "href": "https://astro.build/blog/joining-cloudflare/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
