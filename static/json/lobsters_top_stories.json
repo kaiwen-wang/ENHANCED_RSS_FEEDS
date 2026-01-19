@@ -1,5 +1,5 @@
 {
-  "date": "Monday, January 19, 2026 at 5:20 PM GMT-5",
+  "date": "Monday, January 19, 2026 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "How the Lobsters front page works",
@@ -12,42 +12,42 @@
       "title": "People cannot \"just pay attention\" to (boring, routine) things",
       "href": "https://utcc.utoronto.ca/~cks/space/blog/tech/PeopleCannotPayAttention",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 2
     },
     {
       "title": "Agent Psychosis: Are We Going Insane?",
       "href": "https://lucumr.pocoo.org/2026/1/18/agent-psychosis/",
       "points": "",
-      "comments": "\n              87 comments\n            ",
+      "comments": "\n              92 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "Are arrays functions?",
+      "href": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "The Only Two Markup Languages",
+      "href": "https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 5
     },
     {
       "title": "My thoughts on Gas Town after 10,000 hours of Claude Code",
       "href": "https://simonhartcher.com/posts/2026-01-19-my-thoughts-on-gas-town-after-10000-hours-of-claude-code",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Are arrays functions?",
-      "href": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
       "title": "A Tale of UDP tracking: Hytale server auto stop and start with systemd",
       "href": "https://nwildner.com/posts/2026-01-19-hytale/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Creating virtual block devices with ublk",
-      "href": "https://jpospisil.com/posts/2026-01-13-creating-virtual-block-devices-with-ublk",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 7
     },
     {
@@ -58,80 +58,80 @@
       "index": 8
     },
     {
+      "title": "Understanding C++ Ownership System",
+      "href": "https://blog.aiono.dev/posts/understanding-c++-ownership-system.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Creating virtual block devices with ublk",
+      "href": "https://jpospisil.com/posts/2026-01-13-creating-virtual-block-devices-with-ublk",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 10
+    },
+    {
       "title": "What are you doing this week?",
       "href": "/s/2u1av3/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "The Only Two Markup Languages",
-      "href": "https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Faster restart of Windows 95 when you hold the shift key",
       "href": "https://devblogs.microsoft.com/oldnewthing/20260119-06/?p=111995",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Understanding C++ Ownership System",
-      "href": "https://blog.aiono.dev/posts/understanding-c++-ownership-system.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 12
-    },
-    {
-      "title": "AVX-512: First impressions on performance and programmability",
-      "href": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "some C habits I employ for the modern day",
-      "href": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Follow-Up: New Sponsors Strengthen Alpine Linux’s Infrastructure and CI Ecosystem",
-      "href": "https://alpinelinux.org/posts/2026-01-18-new-sponsors-strenghten-infrastructure.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 15
     },
     {
       "title": "Floating-Point Printing and Parsing Can Be Simple And Fast",
       "href": "https://research.swtch.com/fp",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "river-classic: river 0.3.x forever",
-      "href": "https://codeberg.org/river/river-classic",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 17
+      "index": 13
     },
     {
       "title": "Personal infrastructure setup 2026",
       "href": "https://linderud.dev/blog/personal-infrastructure-setup-2026/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 14
+    },
+    {
+      "title": "AVX-512: First impressions on performance and programmability",
+      "href": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Follow-Up: New Sponsors Strengthen Alpine Linux’s Infrastructure and CI Ecosystem",
+      "href": "https://alpinelinux.org/posts/2026-01-18-new-sponsors-strenghten-infrastructure.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "some C habits I employ for the modern day",
+      "href": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
+      "index": 17
     },
     {
       "title": "Everything Wrong with Material 3 Expressive",
       "href": "https://xylight.dev/posts/everything-wrong-with-m3e",
       "points": "",
       "comments": "\n              8 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "river-classic: river 0.3.x forever",
+      "href": "https://codeberg.org/river/river-classic",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
       "index": 19
     },
     {
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
+      "title": "computing with projected light: the folk computer",
+      "href": "https://youtu.be/hrXEtG3JILo",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
       "title": "Simulating the ladybug clock puzzle",
       "href": "https://austinhenley.com/blog/ladybugclock.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "How to find things (an intro to binary search)",
+      "href": "https://drmaciver.substack.com/p/how-to-find-things-an-intro-to-binary",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "Creusot 0.9.0: Launching the Creusot Devlog",
       "href": "https://creusot-rs.github.io/devlog/2026-01-19/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Cardputer uLisp Machine",
       "href": "http://www.ulisp.com/show?52G4",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "computing with projected light: the folk computer",
-      "href": "https://youtu.be/hrXEtG3JILo",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "A Social Filesystem",
-      "href": "https://overreacted.io/a-social-filesystem/",
-      "points": "",
-      "comments": "\n              20 comments\n            ",
       "index": 25
     }
   ]
