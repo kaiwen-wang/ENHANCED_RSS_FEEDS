@@ -1,18 +1,18 @@
 {
-  "date": "Sunday, January 18, 2026 at 6:20 PM GMT-5",
+  "date": "Sunday, January 18, 2026 at 8:55 PM GMT-5",
   "articles": [
-    {
-      "title": "Agent Psychosis: Are We Going Insane?",
-      "href": "https://lucumr.pocoo.org/2026/1/18/agent-psychosis/",
-      "points": "",
-      "comments": "\n              55 comments\n            ",
-      "index": 1
-    },
     {
       "title": "How the Lobsters front page works",
       "href": "https://atharvaraykar.com/lobsters/",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              16 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "Agent Psychosis: Are We Going Insane?",
+      "href": "https://lucumr.pocoo.org/2026/1/18/agent-psychosis/",
+      "points": "",
+      "comments": "\n              62 comments\n            ",
       "index": 2
     },
     {
@@ -37,122 +37,122 @@
       "index": 5
     },
     {
+      "title": "Removal of GTK2 from forky (Debian 14)",
+      "href": "https://lists.debian.org/debian-devel/2026/01/msg00090.html",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "river-classic: river 0.3.x forever",
+      "href": "https://codeberg.org/river/river-classic",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 7
+    },
+    {
       "title": "Malware Peddlers Are Now Hijacking Snap Publisher Domains",
       "href": "https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Removal of GTK2 from forky (Debian 14)",
-      "href": "https://lists.debian.org/debian-devel/2026/01/msg00090.html",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "The Gnome Village",
-      "href": "https://happihacking.com/blog/posts/2025/the-gnome-village/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 8
     },
     {
       "title": "Rust's Culture of Semantic Precision",
       "href": "https://www.alilleybrinker.com/mini/rusts-culture-of-semantic-precision/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 9
+    },
+    {
+      "title": "The Gnome Village",
+      "href": "https://happihacking.com/blog/posts/2025/the-gnome-village/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 10
     },
     {
       "title": "Clan 2025 Wrap-Up: From Infrastructure to a New Computing Paradigm",
       "href": "https://clan.lol/blog/2025-wrap-up/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "CROW: CROBOTS robotic combat for training World Model AIs",
-      "href": "https://github.com/dcgrigsby/crow",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 11
-    },
-    {
-      "title": "How Many Pixels Do You Really Need?",
-      "href": "https://rldane.space/how-many-pixels-do-you-really-need.html",
-      "points": "",
-      "comments": "\n              29 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "A Website To End All Websites",
-      "href": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
-      "points": "",
-      "comments": "\n              32 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
-      "href": "https://alexharri.com/blog/ascii-rendering",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "More HTTP/3 focus, one backend less",
-      "href": "https://daniel.haxx.se/blog/2026/01/17/more-http-3-focus-one-backend-less/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Time in C++: Creating Your Own Clocks with <chrono>",
-      "href": "https://www.sandordargo.com/blog/2026/01/14/clocks-part-7-custom-clocks",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Why We've Tried to Replace Developers Every Decade Since 1969",
-      "href": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "air traffic control: the IBM 9020",
-      "href": "https://computer.rip/2026-01-17-air-traffic-control-9020.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 18
-    },
-    {
-      "title": "Installing Android on the Nintendo Switch",
-      "href": "https://blog.omgmog.net/post/android-on-the-nintendo-switch/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Daniel's first 20,000 curl commits",
-      "href": "https://daniel.haxx.se/blog/2026/01/17/my-first-20000-curl-commits/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
     },
     {
       "title": "Everything Wrong with Material 3 Expressive",
       "href": "https://xylight.dev/posts/everything-wrong-with-m3e",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "How Many Pixels Do You Really Need?",
+      "href": "https://rldane.space/how-many-pixels-do-you-really-need.html",
+      "points": "",
+      "comments": "\n              30 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "CROW: CROBOTS robotic combat for training World Model AIs",
+      "href": "https://github.com/dcgrigsby/crow",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Installing Android on the Nintendo Switch",
+      "href": "https://blog.omgmog.net/post/android-on-the-nintendo-switch/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Writing First, Tooling Second",
+      "href": "https://susam.net/writing-first-tooling-second.html",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "A Website To End All Websites",
+      "href": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
+      "points": "",
+      "comments": "\n              32 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "More HTTP/3 focus, one backend less",
+      "href": "https://daniel.haxx.se/blog/2026/01/17/more-http-3-focus-one-backend-less/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+      "href": "https://alexharri.com/blog/ascii-rendering",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Time in C++: Creating Your Own Clocks with <chrono>",
+      "href": "https://www.sandordargo.com/blog/2026/01/14/clocks-part-7-custom-clocks",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Why We've Tried to Replace Developers Every Decade Since 1969",
+      "href": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
       "index": 21
     },
     {
-      "title": "I set all 376 Vim options and I'm still a fool",
-      "href": "https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/",
+      "title": "air traffic control: the IBM 9020",
+      "href": "https://computer.rip/2026-01-17-air-traffic-control-9020.html",
       "points": "",
-      "comments": "\n              28 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 22
     },
     {
@@ -163,15 +163,15 @@
       "index": 23
     },
     {
-      "title": "Writing First, Tooling Second",
-      "href": "https://susam.net/writing-first-tooling-second.html",
+      "title": "Daniel's first 20,000 curl commits",
+      "href": "https://daniel.haxx.se/blog/2026/01/17/my-first-20000-curl-commits/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Wasm-Mutate: Fast and Effective Binary Diversification for WebAssembly",
-      "href": "https://arxiv.org/pdf/2309.07638",
+      "title": "Debian Taco - Towards a GitSecDevOps Debian",
+      "href": "https://blog.josefsson.org/2026/01/09/debian-taco-towards-a-gitsecdevops-debian/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
