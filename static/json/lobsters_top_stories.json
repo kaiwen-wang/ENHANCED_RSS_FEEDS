@@ -1,25 +1,25 @@
 {
-  "date": "Wednesday, January 21, 2026 at 5:25 PM GMT-5",
+  "date": "Wednesday, January 21, 2026 at 6:25 PM GMT-5",
   "articles": [
     {
       "title": "FOSS for digital sovereignty in the EU",
       "href": "https://www.more-magic.net/posts/open-source-in-the-eu.html",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 1
     },
     {
       "title": "So, why *should* GNOME support server side decorations?",
       "href": "https://blister.zip/posts/gnome-ssd/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 2
     },
     {
       "title": "Hate is a strong word, but I really really really don’t like Windows 11",
       "href": "https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don't-like-windows-11",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 3
     },
     {
@@ -33,7 +33,7 @@
       "title": "Reliable Signals of Honest Intent",
       "href": "https://zanlib.dev/blog/reliable-signals-of-honest-intent/",
       "points": "",
-      "comments": "\n              26 comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 5
     },
     {
@@ -51,45 +51,45 @@
       "index": 7
     },
     {
-      "title": "Building a javascript runtime in one month",
-      "href": "https://s.tail.so/js-in-one-month",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 8
-    },
-    {
       "title": "Lobsters Blog Carnival Announcement",
       "href": "/s/lz7hxw/lobsters_blog_carnival_announcement",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Building a javascript runtime in one month",
+      "href": "https://s.tail.so/js-in-one-month",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
       "index": 9
-    },
-    {
-      "title": "Giving University Exams in the Age of Chatbots",
-      "href": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
-      "points": "",
-      "comments": "\n              29 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "The Art of Craftsmanship (Monozukuri) in the Age of AI",
-      "href": "https://rapha.land/the-art-of-craftsmanship-monozukuri-in-the-age-of-ai/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
     },
     {
       "title": "Vibecoding #2",
       "href": "https://matklad.github.io/2026/01/20/vibecoding-2.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Giving University Exams in the Age of Chatbots",
+      "href": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
+      "points": "",
+      "comments": "\n              29 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "The Art of Craftsmanship (Monozukuri) in the Age of AI",
+      "href": "https://rapha.land/the-art-of-craftsmanship-monozukuri-in-the-age-of-ai/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 12
     },
     {
-      "title": "pandas 3.0.0 released",
-      "href": "https://github.com/pandas-dev/pandas/releases/tag/v3.0.0",
+      "title": "Making an LSP for great good",
+      "href": "https://thunderseethe.dev/posts/lsp-base/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 13
     },
     {
@@ -100,57 +100,57 @@
       "index": 14
     },
     {
-      "title": "Making an LSP for great good",
-      "href": "https://thunderseethe.dev/posts/lsp-base/",
+      "title": "pandas 3.0.0 released",
+      "href": "https://github.com/pandas-dev/pandas/releases/tag/v3.0.0",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 15
-    },
-    {
-      "title": "Real programming vs. interviews: A dyslexic perspective",
-      "href": "/s/lesn5t/real_programming_vs_interviews_dyslexic",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Unconventional PostgreSQL Optimizations",
-      "href": "https://hakibenita.com/postgresql-unconventional-optimizations",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Why ALTER TABLE is such a problem for SQLite",
-      "href": "https://www.sqlite.org/lang_altertable.html#why_alter_table_is_such_a_problem_for_sqlite",
-      "points": "",
-      "comments": "\n              24 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Building a Blog in Gleam",
-      "href": "https://gearsco.de/blog/blog-in-gleam/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "How Binary Dependencies Work Across Different Languages",
-      "href": "https://vlad.website/how-binary-dependencies-work/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
     },
     {
       "title": "FSNotes 7 - Remarkable fast plain text notes",
       "href": "https://fsnot.es/v7/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 16
     },
     {
       "title": "libcurl memory use some years later",
       "href": "https://daniel.haxx.se/blog/2026/01/21/libcurl-memory-use-some-years-later/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Real programming vs. interviews: A dyslexic perspective",
+      "href": "/s/lesn5t/real_programming_vs_interviews_dyslexic",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Unconventional PostgreSQL Optimizations",
+      "href": "https://hakibenita.com/postgresql-unconventional-optimizations",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Building a Blog in Gleam",
+      "href": "https://gearsco.de/blog/blog-in-gleam/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Why ALTER TABLE is such a problem for SQLite",
+      "href": "https://www.sqlite.org/lang_altertable.html#why_alter_table_is_such_a_problem_for_sqlite",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "How Binary Dependencies Work Across Different Languages",
+      "href": "https://vlad.website/how-binary-dependencies-work/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 22
