@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, January 21, 2026 at 4:35 AM GMT-5",
+  "date": "Wednesday, January 21, 2026 at 5:30 AM GMT-5",
   "articles": [
     {
       "title": "I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format",
@@ -23,38 +23,38 @@
       "index": 3
     },
     {
-      "title": "Unconventional PostgreSQL Optimizations",
-      "href": "https://hakibenita.com/postgresql-unconventional-optimizations",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 4
-    },
-    {
       "title": "Building a javascript runtime in one month",
       "href": "https://s.tail.so/js-in-one-month",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Unconventional PostgreSQL Optimizations",
+      "href": "https://hakibenita.com/postgresql-unconventional-optimizations",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 5
     },
     {
       "title": "Why ALTER TABLE is such a problem for SQLite",
       "href": "https://www.sqlite.org/lang_altertable.html#why_alter_table_is_such_a_problem_for_sqlite",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              13 comments\n            ",
       "index": 6
+    },
+    {
+      "title": "I Made Zig Compute 33 Million Satellite Positions in 3 Seconds. No GPU Required",
+      "href": "https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 7
     },
     {
       "title": "Type-safe eval in Grace",
       "href": "https://haskellforall.com/2026/01/typesafe-eval",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "I Made Zig Compute 33 Million Satellite Positions in 3 Seconds. No GPU Required",
-      "href": "https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 8
     },
     {
@@ -72,17 +72,17 @@
       "index": 10
     },
     {
-      "title": "A static site generator written in POSIX shell",
-      "href": "https://aashvik.com/posts/shell-ssg",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 11
-    },
-    {
       "title": "Little Sound Dj",
       "href": "https://www.littlesounddj.com/lsd/index.php",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "A static site generator written in POSIX shell",
+      "href": "https://aashvik.com/posts/shell-ssg",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 12
     },
     {
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
-      "title": "The Only Two Markup Languages",
-      "href": "https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/",
-      "points": "",
-      "comments": "\n              62 comments\n            ",
-      "index": 18
-    },
-    {
       "title": "Building Critical Infrastructure with htmx: Network Automation for the Paris 2024 Olympics",
       "href": "https://htmx.org/essays/paris-2024-olympics-htmx-network-automation/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "The Only Two Markup Languages",
+      "href": "https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/",
+      "points": "",
+      "comments": "\n              62 comments\n            ",
       "index": 19
     },
     {
-      "title": "AI Is still making code worse: A new CMU study confirms (2025)",
-      "href": "https://blog.robbowley.net/2025/12/04/ai-is-still-making-code-worse-a-new-cmu-study-confirms/",
+      "title": "An introduction to XET, Hugging Face's storage system (part 1)",
+      "href": "https://00f.net/2026/01/19/xet-intro-1/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 20
-    },
-    {
-      "title": "Faster horses, not trains",
-      "href": "https://blog.robbowley.net/2025/12/16/faster-horses-not-trains-yet/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "IP Addresses Through 2025",
-      "href": "https://www.potaroo.net/ispcol/2026-01/addr2025.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
     },
     {
       "title": "On coding with LLMs",
       "href": "https://www.abareplace.com/blog/ai/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 21
+    },
+    {
+      "title": "Designing a service with IndieAuth and email-based login",
+      "href": "https://jamesg.blog/2026/01/20/indieauth-email-login-design/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "AI Is still making code worse: A new CMU study confirms (2025)",
+      "href": "https://blog.robbowley.net/2025/12/04/ai-is-still-making-code-worse-a-new-cmu-study-confirms/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 23
     },
     {
-      "title": "Personal infrastructure setup 2026",
-      "href": "https://linderud.dev/blog/personal-infrastructure-setup-2026/",
+      "title": "Faster horses, not trains",
+      "href": "https://blog.robbowley.net/2025/12/16/faster-horses-not-trains-yet/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Visualizing Delaunay Triangulation (2022)",
-      "href": "https://ianthehenry.com/posts/delaunay/",
+      "title": "IP Addresses Through 2025",
+      "href": "https://www.potaroo.net/ispcol/2026-01/addr2025.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
