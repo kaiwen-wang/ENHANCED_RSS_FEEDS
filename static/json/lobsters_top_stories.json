@@ -1,25 +1,25 @@
 {
-  "date": "Wednesday, January 21, 2026 at 3:35 AM GMT-5",
+  "date": "Wednesday, January 21, 2026 at 4:35 AM GMT-5",
   "articles": [
+    {
+      "title": "I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format",
+      "href": "https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 1
+    },
     {
       "title": "Giving University Exams in the Age of Chatbots",
       "href": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
       "points": "",
-      "comments": "\n              16 comments\n            ",
-      "index": 1
+      "comments": "\n              17 comments\n            ",
+      "index": 2
     },
     {
       "title": "Reliable Signals of Honest Intent",
       "href": "https://zanlib.dev/blog/reliable-signals-of-honest-intent/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format",
-      "href": "https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
-      "title": "Why ALTER TABLE is such a problem for SQLite",
-      "href": "https://www.sqlite.org/lang_altertable.html#why_alter_table_is_such_a_problem_for_sqlite",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 5
-    },
-    {
       "title": "Building a javascript runtime in one month",
       "href": "https://s.tail.so/js-in-one-month",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Why ALTER TABLE is such a problem for SQLite",
+      "href": "https://www.sqlite.org/lang_altertable.html#why_alter_table_is_such_a_problem_for_sqlite",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 6
     },
     {
@@ -65,38 +65,38 @@
       "index": 9
     },
     {
-      "title": "A static site generator written in POSIX shell",
-      "href": "https://aashvik.com/posts/shell-ssg",
-      "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 10
-    },
-    {
       "title": "Why not tail recursion?",
       "href": "https://futhark-lang.org/blog/2026-01-20-why-not-tail-recursion.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "A static site generator written in POSIX shell",
+      "href": "https://aashvik.com/posts/shell-ssg",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 11
     },
     {
-      "title": "Rust's standard library on the GPU",
-      "href": "https://vectorware.com/blog/rust-std-on-gpu/",
+      "title": "Little Sound Dj",
+      "href": "https://www.littlesounddj.com/lsd/index.php",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 12
     },
     {
       "title": "Prediction: Within 15 years Microsoft will discontinue Windows in favor of a Windows themed Linux distribution",
       "href": "https://gamesbymason.com/blog/2026/microsoft/",
       "points": "",
-      "comments": "\n              92 comments\n            ",
+      "comments": "\n              95 comments\n            ",
       "index": 13
     },
     {
-      "title": "Little Sound Dj",
-      "href": "https://www.littlesounddj.com/lsd/index.php",
+      "title": "Rust's standard library on the GPU",
+      "href": "https://vectorware.com/blog/rust-std-on-gpu/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 14
     },
     {
@@ -142,36 +142,36 @@
       "index": 20
     },
     {
+      "title": "Faster horses, not trains",
+      "href": "https://blog.robbowley.net/2025/12/16/faster-horses-not-trains-yet/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
       "title": "IP Addresses Through 2025",
       "href": "https://www.potaroo.net/ispcol/2026-01/addr2025.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
+    },
+    {
+      "title": "On coding with LLMs",
+      "href": "https://www.abareplace.com/blog/ai/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 23
     },
     {
       "title": "Personal infrastructure setup 2026",
       "href": "https://linderud.dev/blog/personal-infrastructure-setup-2026/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Designing a service with IndieAuth and email-based login",
-      "href": "https://jamesg.blog/2026/01/20/indieauth-email-login-design/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "An introduction to XET, Hugging Face's storage system (part 1)",
-      "href": "https://00f.net/2026/01/19/xet-intro-1/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Venus v5 released: Modern OO standard library (and more) for Perl 5",
-      "href": "https://www.reddit.com/r/perl/comments/1qi4sf8/venus_v5_released_modern_oo_standard_library_and/",
+      "title": "Visualizing Delaunay Triangulation (2022)",
+      "href": "https://ianthehenry.com/posts/delaunay/",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 25
