@@ -1,32 +1,32 @@
 {
-  "date": "Thursday, January 22, 2026 at 5:25 PM GMT-5",
+  "date": "Thursday, January 22, 2026 at 6:20 PM GMT-5",
   "articles": [
     {
       "title": "Your App Subscription Is Now My Weekend Project",
       "href": "https://rselbach.com/your-sub-is-now-my-weekend-project/",
       "points": "",
-      "comments": "\n              38 comments\n            ",
+      "comments": "\n              42 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "SSH has no Host header",
+      "href": "https://blog.exe.dev/ssh-host-header",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 2
     },
     {
       "title": "Announcing Rust 1.93.0",
       "href": "https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 2
+      "comments": "\n              14 comments\n            ",
+      "index": 3
     },
     {
       "title": "An adversarial coding test",
       "href": "https://runjak.codes/posts/2026-01-21-adversarial-coding-test/",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "SSH has no Host header",
-      "href": "https://blog.exe.dev/ssh-host-header",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 4
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
+      "title": "Secure Boot, TPM and Anti-Cheat Engines",
+      "href": "https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/",
+      "points": "",
+      "comments": "\n              20 comments\n            ",
+      "index": 6
+    },
+    {
       "title": "Don't Trip[wire] Yourself: Testing Error Recovery in Zig",
       "href": "https://mitchellh.com/writing/tripwire",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Secure Boot, TPM and Anti-Cheat Engines",
-      "href": "https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
       "index": 7
     },
     {
@@ -72,10 +72,10 @@
       "index": 10
     },
     {
-      "title": "Results from the 2025 Go Developer Survey",
-      "href": "https://go.dev/blog/survey2025",
+      "title": "CTA Hierarchy in the Wild",
+      "href": "https://blog.jim-nielsen.com/2026/cta-hierarchy/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 11
     },
     {
@@ -86,59 +86,59 @@
       "index": 12
     },
     {
-      "title": "remotely unlocking an encrypted hard disk with systemd initrd on Arch",
-      "href": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
+      "title": "Results from the 2025 Go Developer Survey",
+      "href": "https://go.dev/blog/survey2025",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 13
     },
     {
       "title": "Hate is a strong word, but I really really really don’t like Windows 11",
       "href": "https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don't-like-windows-11",
       "points": "",
-      "comments": "\n              43 comments\n            ",
+      "comments": "\n              44 comments\n            ",
       "index": 14
+    },
+    {
+      "title": "remotely unlocking an encrypted hard disk with systemd initrd on Arch",
+      "href": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
     },
     {
       "title": "RPi3 running FreeBSD 12 clocks 390 days uptime as a Radius server",
       "href": "https://bsky.app/profile/atmosx.bsky.social/post/3mcz5g6vpmc2l",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Ghost in the Wi-Fi",
       "href": "https://josephmate.github.io/2026-01-20-ghost-in-the-wifi/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
-      "title": "CTA Hierarchy in the Wild",
-      "href": "https://blog.jim-nielsen.com/2026/cta-hierarchy/",
+      "title": "You CAN Average Percentiles (2016)",
+      "href": "https://rpubs.com/jrauser/percentiles",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 17
+      "comments": "\n              no comments\n            ",
+      "index": 18
     },
     {
       "title": "vnccc: vnc wrapped claude code",
       "href": "https://github.com/pgray/vnccc",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "The Code-Only Agent",
       "href": "https://rijnard.com/blog/the-code-only-agent",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 19
-    },
-    {
-      "title": "A Protocol for Package Management",
-      "href": "https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 20
     },
     {
@@ -149,17 +149,17 @@
       "index": 21
     },
     {
+      "title": "A Protocol for Package Management",
+      "href": "https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
       "title": "JS Returns Undefined",
       "href": "https://ylovits.github.io/returns-undefined/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 22
-    },
-    {
-      "title": "You CAN Average Percentiles (2016)",
-      "href": "https://rpubs.com/jrauser/percentiles",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 23
     },
     {
