@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, January 22, 2026 at 12:30 AM GMT-5",
+  "date": "Thursday, January 22, 2026 at 1:35 AM GMT-5",
   "articles": [
     {
       "title": "FOSS for digital sovereignty in the EU",
@@ -19,7 +19,7 @@
       "title": "Hate is a strong word, but I really really really don’t like Windows 11",
       "href": "https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don't-like-windows-11",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 3
     },
     {
@@ -30,10 +30,10 @@
       "index": 4
     },
     {
-      "title": "I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format",
-      "href": "https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/",
+      "title": "Don't Trip[wire] Yourself: Testing Error Recovery in Zig",
+      "href": "https://mitchellh.com/writing/tripwire",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 5
     },
     {
@@ -44,36 +44,36 @@
       "index": 6
     },
     {
-      "title": "Reliable Signals of Honest Intent",
-      "href": "https://zanlib.dev/blog/reliable-signals-of-honest-intent/",
-      "points": "",
-      "comments": "\n              28 comments\n            ",
-      "index": 7
-    },
-    {
       "title": "FSNotes 7 - Remarkable fast plain text notes",
       "href": "https://fsnot.es/v7/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format",
+      "href": "https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/",
+      "points": "",
+      "comments": "\n              20 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "Reliable Signals of Honest Intent",
+      "href": "https://zanlib.dev/blog/reliable-signals-of-honest-intent/",
+      "points": "",
+      "comments": "\n              28 comments\n            ",
+      "index": 9
     },
     {
       "title": "Results from the 2025 Go Developer Survey",
       "href": "https://go.dev/blog/survey2025",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Nested Code Fences in Markdown",
       "href": "https://susam.net/nested-code-fences.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Don't Trip[wire] Yourself: Testing Error Recovery in Zig",
-      "href": "https://mitchellh.com/writing/tripwire",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 11
@@ -93,15 +93,15 @@
       "index": 13
     },
     {
-      "title": "Making an LSP for great good",
-      "href": "https://thunderseethe.dev/posts/lsp-base/",
+      "title": "pandas 3.0.0 released",
+      "href": "https://github.com/pandas-dev/pandas/releases/tag/v3.0.0",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 14
     },
     {
-      "title": "pandas 3.0.0 released",
-      "href": "https://github.com/pandas-dev/pandas/releases/tag/v3.0.0",
+      "title": "Making an LSP for great good",
+      "href": "https://thunderseethe.dev/posts/lsp-base/",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 15
@@ -128,50 +128,50 @@
       "index": 18
     },
     {
+      "title": "Best Practices for Ownership in GLib",
+      "href": "https://blog.sebastianwick.net/posts/glib-ownership-best-practices/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
       "title": "I Made Zig Compute 33 Million Satellite Positions in 3 Seconds. No GPU Required",
       "href": "https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Inside StarRocks: Why Joins Are Faster Than You’d Expect",
       "href": "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Real programming vs. interviews: A dyslexic perspective",
       "href": "/s/lesn5t/real_programming_vs_interviews_dyslexic",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Unconventional PostgreSQL Optimizations",
       "href": "https://hakibenita.com/postgresql-unconventional-optimizations",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Why ALTER TABLE is such a problem for SQLite",
-      "href": "https://www.sqlite.org/lang_altertable.html#why_alter_table_is_such_a_problem_for_sqlite",
-      "points": "",
-      "comments": "\n              26 comments\n            ",
       "index": 23
     },
     {
-      "title": "Field Notes on Scaling MoE Expert Parallelism with DeepEP",
-      "href": "https://nousresearch.com/moe-scaling-field-notes/",
+      "title": "Building a Blog in Gleam",
+      "href": "https://gearsco.de/blog/blog-in-gleam/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "Building a Blog in Gleam",
-      "href": "https://gearsco.de/blog/blog-in-gleam/",
+      "title": "A high-level quality-of-service interface",
+      "href": "https://lwn.net/Articles/1051982/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
