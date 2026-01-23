@@ -1,25 +1,25 @@
 {
-  "date": "Friday, January 23, 2026 at 10:25 AM GMT-5",
+  "date": "Friday, January 23, 2026 at 11:30 AM GMT-5",
   "articles": [
-    {
-      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
-      "href": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 1
-    },
     {
       "title": "AGENTS.md as a dark signal",
       "href": "https://joshmock.com/post/2026-agents-md-as-a-dark-signal/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
+      "index": 1
+    },
+    {
+      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+      "href": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 2
     },
     {
-      "title": "Maintaining shadow branches for GitHub PRs",
-      "href": "https://maskray.me/blog/2026-01-22-maintaining-shadow-branches-for-github-prs",
+      "title": "What has Docker become?",
+      "href": "https://tuananh.net/2026/01/20/what-has-docker-become/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
+      "title": "Maintaining shadow branches for GitHub PRs",
+      "href": "https://maskray.me/blog/2026-01-22-maintaining-shadow-branches-for-github-prs",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 5
+    },
+    {
       "title": "SSH has no Host header",
       "href": "https://blog.exe.dev/ssh-host-header",
       "points": "",
       "comments": "\n              34 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "What has Docker become?",
-      "href": "https://tuananh.net/2026/01/20/what-has-docker-become/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 6
     },
     {
@@ -54,14 +54,14 @@
       "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
       "href": "https://github.com/soegaard/webracket",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 8
     },
     {
-      "title": "Why does SSH send 100 packets per keystroke?",
-      "href": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
+      "title": "Interfaces and traits in C",
+      "href": "https://antonz.org/interfaces-in-c/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 9
     },
     {
@@ -72,10 +72,10 @@
       "index": 10
     },
     {
-      "title": "Announcing Rust 1.93.0",
-      "href": "https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/",
+      "title": "Why does SSH send 100 packets per keystroke?",
+      "href": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
       "points": "",
-      "comments": "\n              33 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 11
     },
     {
@@ -86,94 +86,94 @@
       "index": 12
     },
     {
+      "title": "Announcing Rust 1.93.0",
+      "href": "https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/",
+      "points": "",
+      "comments": "\n              34 comments\n            ",
+      "index": 13
+    },
+    {
       "title": "Your App Subscription Is Now My Weekend Project",
       "href": "https://rselbach.com/your-sub-is-now-my-weekend-project/",
       "points": "",
       "comments": "\n              58 comments\n            ",
-      "index": 13
+      "index": 14
+    },
+    {
+      "title": "Achieving a 0-CVE OS for VMs: The End of Traditional Patching",
+      "href": "https://tuananh.net/2026/01/21/achieving-a-0-cve-os-for-vms-the-end-of-traditional-patching/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
     },
     {
       "title": "An adversarial coding test",
       "href": "https://runjak.codes/posts/2026-01-21-adversarial-coding-test/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 14
+      "comments": "\n              18 comments\n            ",
+      "index": 16
     },
     {
-      "title": "Interfaces and traits in C",
-      "href": "https://antonz.org/interfaces-in-c/",
+      "title": "The Moral Character of Cryptographic Work (2015)",
+      "href": "https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 15
+      "index": 17
     },
     {
       "title": "We built a museum exhibit about a 1990s game hint line, with a physical binder",
       "href": "https://yarnspinner.dev/blog/hint-line-93/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
+      "index": 18
+    },
+    {
+      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+      "href": "https://openai.com/index/scaling-postgresql/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
     },
     {
       "title": "Exploit Cursor Agents to create persistent, distributed threats",
       "href": "https://ike.io/open-a-folder-all-your-agents-are-mine/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 20
     },
     {
       "title": "Post-Agentic Code Forges",
       "href": "https://sluongng.substack.com/p/post-agentic-code-forges",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 21
     },
     {
       "title": "CTA Hierarchy in the Wild",
       "href": "https://blog.jim-nielsen.com/2026/cta-hierarchy/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "AI: Good Instructor, Terrible Educator",
-      "href": "https://www.linkedin.com/pulse/ai-good-instructor-terrible-educator-nadim-kobeissi-qcmnf",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "remotely unlocking an encrypted hard disk with systemd initrd on Arch",
-      "href": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
       "href": "https://gptzero.me/news/neurips/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 22
+      "index": 23
+    },
+    {
+      "title": "remotely unlocking an encrypted hard disk with systemd initrd on Arch",
+      "href": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 24
     },
     {
       "title": "Compiling Scheme to WebAssembly",
       "href": "https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Ghost in the Wi-Fi",
-      "href": "https://josephmate.github.io/2026-01-20-ghost-in-the-wifi/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "A Protocol for Package Management",
-      "href": "https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 25
     }
   ]
