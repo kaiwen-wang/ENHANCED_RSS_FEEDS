@@ -1,5 +1,5 @@
 {
-  "date": "Friday, January 23, 2026 at 11:30 AM GMT-5",
+  "date": "Friday, January 23, 2026 at 12:25 PM GMT-5",
   "articles": [
     {
       "title": "AGENTS.md as a dark signal",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
-      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
-      "href": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 2
-    },
-    {
       "title": "What has Docker become?",
       "href": "https://tuananh.net/2026/01/20/what-has-docker-become/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              9 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+      "href": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
       "index": 3
     },
     {
@@ -33,14 +33,14 @@
       "title": "Maintaining shadow branches for GitHub PRs",
       "href": "https://maskray.me/blog/2026-01-22-maintaining-shadow-branches-for-github-prs",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              14 comments\n            ",
       "index": 5
     },
     {
       "title": "SSH has no Host header",
       "href": "https://blog.exe.dev/ssh-host-header",
       "points": "",
-      "comments": "\n              34 comments\n            ",
+      "comments": "\n              35 comments\n            ",
       "index": 6
     },
     {
@@ -51,120 +51,120 @@
       "index": 7
     },
     {
-      "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
-      "href": "https://github.com/soegaard/webracket",
+      "title": "Interfaces and traits in C",
+      "href": "https://antonz.org/interfaces-in-c/",
       "points": "",
       "comments": "\n              3 comments\n            ",
       "index": 8
     },
     {
-      "title": "Interfaces and traits in C",
-      "href": "https://antonz.org/interfaces-in-c/",
+      "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
+      "href": "https://github.com/soegaard/webracket",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 9
-    },
-    {
-      "title": "Selectively Disabling HTTP/1.0 and HTTP/1.1",
-      "href": "https://markmcb.com/web/selectively_disabling_http_1/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 10
     },
     {
       "title": "Why does SSH send 100 packets per keystroke?",
       "href": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Selectively Disabling HTTP/1.0 and HTTP/1.1",
+      "href": "https://markmcb.com/web/selectively_disabling_http_1/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 11
+    },
+    {
+      "title": "Achieving a 0-CVE OS for VMs: The End of Traditional Patching",
+      "href": "https://tuananh.net/2026/01/21/achieving-a-0-cve-os-for-vms-the-end-of-traditional-patching/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 12
     },
     {
       "title": "Firefox & Linux in 2025",
       "href": "https://mastransky.wordpress.com/2026/01/23/firefox-linux-in-2025/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "Announcing Rust 1.93.0",
       "href": "https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/",
       "points": "",
       "comments": "\n              34 comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "Your App Subscription Is Now My Weekend Project",
-      "href": "https://rselbach.com/your-sub-is-now-my-weekend-project/",
-      "points": "",
-      "comments": "\n              58 comments\n            ",
       "index": 14
-    },
-    {
-      "title": "Achieving a 0-CVE OS for VMs: The End of Traditional Patching",
-      "href": "https://tuananh.net/2026/01/21/achieving-a-0-cve-os-for-vms-the-end-of-traditional-patching/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "An adversarial coding test",
-      "href": "https://runjak.codes/posts/2026-01-21-adversarial-coding-test/",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "The Moral Character of Cryptographic Work (2015)",
-      "href": "https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 17
-    },
-    {
-      "title": "We built a museum exhibit about a 1990s game hint line, with a physical binder",
-      "href": "https://yarnspinner.dev/blog/hint-line-93/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 18
     },
     {
       "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
       "href": "https://openai.com/index/scaling-postgresql/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
+      "title": "Portable (cartesian) brace expansion in your shell",
+      "href": "https://neosmart.net/blog/portable-cartesian-brace-expansion-in-your-shell/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Your App Subscription Is Now My Weekend Project",
+      "href": "https://rselbach.com/your-sub-is-now-my-weekend-project/",
+      "points": "",
+      "comments": "\n              59 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "The Moral Character of Cryptographic Work (2015)",
+      "href": "https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 18
+    },
+    {
+      "title": "We built a museum exhibit about a 1990s game hint line, with a physical binder",
+      "href": "https://yarnspinner.dev/blog/hint-line-93/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 19
+    },
+    {
+      "title": "An adversarial coding test",
+      "href": "https://runjak.codes/posts/2026-01-21-adversarial-coding-test/",
+      "points": "",
+      "comments": "\n              19 comments\n            ",
+      "index": 20
     },
     {
       "title": "Exploit Cursor Agents to create persistent, distributed threats",
       "href": "https://ike.io/open-a-folder-all-your-agents-are-mine/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Post-Agentic Code Forges",
       "href": "https://sluongng.substack.com/p/post-agentic-code-forges",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
-      "title": "CTA Hierarchy in the Wild",
-      "href": "https://blog.jim-nielsen.com/2026/cta-hierarchy/",
+      "title": "teemux: Zero-config log multiplexer with built-in MCP server",
+      "href": "https://github.com/gajus/teemux",
       "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 22
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
       "href": "https://gptzero.me/news/neurips/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 23
-    },
-    {
-      "title": "remotely unlocking an encrypted hard disk with systemd initrd on Arch",
-      "href": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 24
