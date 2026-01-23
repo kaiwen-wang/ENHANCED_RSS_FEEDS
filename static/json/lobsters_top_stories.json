@@ -1,46 +1,46 @@
 {
-  "date": "Friday, January 23, 2026 at 4:30 AM GMT-5",
+  "date": "Friday, January 23, 2026 at 5:25 AM GMT-5",
   "articles": [
     {
       "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
       "href": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 1
     },
     {
       "title": "SSH has no Host header",
       "href": "https://blog.exe.dev/ssh-host-header",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              21 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "Announcing Rust 1.93.0",
-      "href": "https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/",
-      "points": "",
-      "comments": "\n              29 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "Your App Subscription Is Now My Weekend Project",
-      "href": "https://rselbach.com/your-sub-is-now-my-weekend-project/",
-      "points": "",
-      "comments": "\n              55 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "An adversarial coding test",
-      "href": "https://runjak.codes/posts/2026-01-21-adversarial-coding-test/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 5
     },
     {
       "title": "Maintaining shadow branches for GitHub PRs",
       "href": "https://maskray.me/blog/2026-01-22-maintaining-shadow-branches-for-github-prs",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 3
+    },
+    {
+      "title": "Announcing Rust 1.93.0",
+      "href": "https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/",
+      "points": "",
+      "comments": "\n              29 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Your App Subscription Is Now My Weekend Project",
+      "href": "https://rselbach.com/your-sub-is-now-my-weekend-project/",
+      "points": "",
+      "comments": "\n              56 comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "An adversarial coding test",
+      "href": "https://runjak.codes/posts/2026-01-21-adversarial-coding-test/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
       "index": 6
     },
     {
@@ -51,52 +51,52 @@
       "index": 7
     },
     {
-      "title": "CTA Hierarchy in the Wild",
-      "href": "https://blog.jim-nielsen.com/2026/cta-hierarchy/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 8
-    },
-    {
       "title": "Why does SSH send 100 packets per keystroke?",
       "href": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "CTA Hierarchy in the Wild",
+      "href": "https://blog.jim-nielsen.com/2026/cta-hierarchy/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
       "index": 9
+    },
+    {
+      "title": "We built a museum exhibit about a 1990s game hint line, with a physical binder",
+      "href": "https://yarnspinner.dev/blog/hint-line-93/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 10
     },
     {
       "title": "remotely unlocking an encrypted hard disk with systemd initrd on Arch",
       "href": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Selectively Disabling HTTP/1.0 and HTTP/1.1",
       "href": "https://markmcb.com/web/selectively_disabling_http_1/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "We built a museum exhibit about a 1990s game hint line, with a physical binder",
-      "href": "https://yarnspinner.dev/blog/hint-line-93/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 12
-    },
-    {
-      "title": "FOSS for digital sovereignty in the EU",
-      "href": "https://www.more-magic.net/posts/open-source-in-the-eu.html",
-      "points": "",
-      "comments": "\n              41 comments\n            ",
-      "index": 13
     },
     {
       "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
       "href": "https://github.com/soegaard/webracket",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "FOSS for digital sovereignty in the EU",
+      "href": "https://www.more-magic.net/posts/open-source-in-the-eu.html",
+      "points": "",
+      "comments": "\n              41 comments\n            ",
       "index": 14
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
+      "title": "Explainer: Tree-sitter vs. LSP",
+      "href": "https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
       "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
       "href": "https://blog.kagi.com/waiting-dawn-search",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "A Protocol for Package Management",
       "href": "https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Secure Boot, TPM and Anti-Cheat Engines",
       "href": "https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/",
       "points": "",
       "comments": "\n              28 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Learning Low-Level Computing and C++ by Making a Game Boy Emulator - The Making of GameByte",
       "href": "https://byteofmelon.com/blog/2026/making-of-gamebyte",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Don't Trip[wire] Yourself: Testing Error Recovery in Zig",
       "href": "https://mitchellh.com/writing/tripwire",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Implementation of the Apollo Guidance Computer in an FPGA",
       "href": "https://github.com/mikeakohn/apollo11_fpga",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "GoodJob, Solid Queue, Sidekiq, Active Job, in 2026",
       "href": "https://island94.org/2026/01/goodjob-solid-queue-sidekiq-active-job-in-2026",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-      "href": "https://gptzero.me/news/neurips/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "So, why *should* GNOME support server side decorations?",
-      "href": "https://blister.zip/posts/gnome-ssd/",
+      "title": "Replacing Protobuf with Rust to go 5 times faster",
+      "href": "https://pgdog.dev/blog/replace-protobuf-with-rust",
       "points": "",
-      "comments": "\n              35 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
