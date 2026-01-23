@@ -1,214 +1,214 @@
 {
-  "date": "Friday, January 23, 2026 at 1:35 PM GMT-5",
+  "date": "Friday, January 23, 2026 at 2:25 PM GMT-5",
   "articles": [
     {
       "title": "Proof of Corn",
       "href": "https://proofofcorn.com/",
-      "points": "47 points",
-      "comments": "27 comments",
+      "points": "121 points",
+      "comments": "81 comments",
       "index": 1
     },
     {
       "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
       "href": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
-      "points": "77 points",
-      "comments": "48 comments",
+      "points": "201 points",
+      "comments": "160 comments",
       "index": 2
     },
     {
       "title": "Radicle: The Sovereign Forge",
       "href": "https://radicle.xyz",
-      "points": "201 points",
-      "comments": "94 comments",
+      "points": "216 points",
+      "comments": "101 comments",
       "index": 3
+    },
+    {
+      "title": "Claude.ai silently failing since Jan 14, no official acknowledgment",
+      "href": "https://github.com/anthropics/claude-code/issues/18866",
+      "points": "18 points",
+      "comments": "5 comments",
+      "index": 4
+    },
+    {
+      "title": "Route leak incident on January 22, 2026",
+      "href": "https://blog.cloudflare.com/route-leak-incident-january-22-2026/",
+      "points": "23 points",
+      "comments": "discuss",
+      "index": 5
     },
     {
       "title": "KORG phase8 – Acoustic Synthesizer",
       "href": "https://www.korg.com/us/products/dj/phase8/",
-      "points": "83 points",
-      "comments": "46 comments",
-      "index": 4
+      "points": "101 points",
+      "comments": "59 comments",
+      "index": 6
     },
     {
       "title": "AI is a horse (2024)",
       "href": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
-      "points": "359 points",
-      "comments": "181 comments",
-      "index": 5
-    },
-    {
-      "title": "Booting from a vinyl record (2020)",
-      "href": "https://boginjr.com/it/sw/dev/vinyl-boot/",
-      "points": "211 points",
-      "comments": "60 comments",
-      "index": 6
-    },
-    {
-      "title": "Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale",
-      "href": "https://maggieappleton.com/gastown",
-      "points": "114 points",
-      "comments": "122 comments",
+      "points": "389 points",
+      "comments": "189 comments",
       "index": 7
-    },
-    {
-      "title": "Show HN: Zsweep – Play Minesweeper using only Vim motions",
-      "href": "https://zsweep.com",
-      "points": "33 points",
-      "comments": "11 comments",
-      "index": 8
-    },
-    {
-      "title": "Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",
-      "href": "https://github.com/ramonvermeulen/whosthere",
-      "points": "133 points",
-      "comments": "53 comments",
-      "index": 9
     },
     {
       "title": "Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG",
       "href": "https://markgascoyne.co.uk/posts/ebpf-bng/",
-      "points": "7 points",
-      "comments": "1 comment",
+      "points": "24 points",
+      "comments": "7 comments",
+      "index": 8
+    },
+    {
+      "title": "Booting from a vinyl record (2020)",
+      "href": "https://boginjr.com/it/sw/dev/vinyl-boot/",
+      "points": "221 points",
+      "comments": "68 comments",
+      "index": 9
+    },
+    {
+      "title": "Show HN: Zsweep – Play Minesweeper using only Vim motions",
+      "href": "https://zsweep.com",
+      "points": "42 points",
+      "comments": "16 comments",
       "index": 10
+    },
+    {
+      "title": "Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",
+      "href": "https://github.com/ramonvermeulen/whosthere",
+      "points": "151 points",
+      "comments": "57 comments",
+      "index": 11
     },
     {
       "title": "Proton Spam and the AI Consent Problem",
       "href": "https://dbushell.com/2026/01/22/proton-spam/",
-      "points": "394 points",
-      "comments": "246 comments",
-      "index": 11
+      "points": "411 points",
+      "comments": "258 comments",
+      "index": 12
+    },
+    {
+      "title": "Notes on the Intel 8086 processor's arithmetic-logic unit",
+      "href": "https://www.righto.com/2026/01/notes-on-intel-8086-processors.html",
+      "points": "9 points",
+      "comments": "1 comment",
+      "index": 13
     },
     {
       "title": "I built a light that reacts to radio waves [video]",
       "href": "https://www.youtube.com/watch?v=moBCOEiqiPs",
-      "points": "384 points",
-      "comments": "83 comments",
-      "index": 12
+      "points": "400 points",
+      "comments": "89 comments",
+      "index": 14
+    },
+    {
+      "title": "Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale",
+      "href": "https://maggieappleton.com/gastown",
+      "points": "132 points",
+      "comments": "139 comments",
+      "index": 15
     },
     {
       "title": "Show HN: New 3D Mapping website - Create heli orbits and \"playable\" map tours.",
       "href": "https://www.easy3dmaps.com/gallery",
+      "points": "12 points",
+      "comments": "4 comments",
+      "index": 16
+    },
+    {
+      "title": "Nobody likes lag: How to make low-latency dev sandboxes",
+      "href": "https://www.compyle.ai/blog/nobody-likes-lag/",
       "points": "7 points",
-      "comments": "4 comments",
-      "index": 13
-    },
-    {
-      "title": "Updates to our web search products and  Programmable Search Engine capabilities",
-      "href": "https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html",
-      "points": "180 points",
-      "comments": "153 comments",
-      "index": 14
-    },
-    {
-      "title": "Three RCEs in Ilias Learning Management System",
-      "href": "https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce",
-      "points": "15 points",
-      "comments": "4 comments",
-      "index": 15
+      "comments": "discuss",
+      "index": 17
     },
     {
       "title": "European Alternatives",
       "href": "https://european-alternatives.eu",
-      "points": "308 points",
-      "comments": "131 comments",
-      "index": 16
-    },
-    {
-      "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-      "href": "https://cannoneyed.com/isometric-nyc/",
-      "points": "1194 points",
-      "comments": "220 comments",
-      "index": 17
-    },
-    {
-      "title": "Kotlin's Rich Errors: Native, Typed Errors Without Exceptions",
-      "href": "https://cekrem.github.io/posts/kotlin-rich-errors-elm-union-types/",
-      "points": "9 points",
-      "comments": "3 comments",
+      "points": "365 points",
+      "comments": "160 comments",
       "index": 18
+    },
+    {
+      "title": "House Vote Keeps Federal \"Kill Switch\" Vehicle Mandate",
+      "href": "https://reclaimthenet.org/house-vote-keeps-federal-kill-switch-vehicle-mandat",
+      "points": "36 points",
+      "comments": "23 comments",
+      "index": 19
+    },
+    {
+      "title": "Updates to our web search products and  Programmable Search Engine capabilities",
+      "href": "https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html",
+      "points": "184 points",
+      "comments": "158 comments",
+      "index": 20
     },
     {
       "title": "Flying with Photons: Rendering Novel Views of Propagating Light",
       "href": "https://anaghmalik.com/FlyingWithPhotons/",
-      "points": "21 points",
-      "comments": "5 comments",
-      "index": 19
-    },
-    {
-      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-      "href": "https://gptzero.me/news/neurips/",
-      "points": "915 points",
-      "comments": "489 comments",
-      "index": 20
-    },
-    {
-      "title": "What has Docker become?",
-      "href": "https://tuananh.net/2026/01/20/what-has-docker-become/",
-      "points": "191 points",
-      "comments": "207 comments",
+      "points": "26 points",
+      "comments": "8 comments",
       "index": 21
     },
     {
-      "title": "Capital One to acquire Brex for $5.15B",
-      "href": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
-      "points": "370 points",
-      "comments": "295 comments",
+      "title": "Zotero 8",
+      "href": "https://www.zotero.org/blog/zotero-8/",
+      "points": "30 points",
+      "comments": "1 comment",
       "index": 22
-    },
-    {
-      "title": "AI Usage Policy",
-      "href": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
-      "points": "432 points",
-      "comments": "214 comments",
-      "index": 23
-    },
-    {
-      "title": "Presence in Death",
-      "href": "https://rubinmuseum.org/presence-in-death/",
-      "points": "58 points",
-      "comments": "16 comments",
-      "index": 24
-    },
-    {
-      "title": "Why does SSH send 100 packets per keystroke?",
-      "href": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
-      "points": "619 points",
-      "comments": "328 comments",
-      "index": 25
-    },
-    {
-      "title": "I was banned from Claude for scaffolding a Claude.md file?",
-      "href": "https://hugodaniel.com/posts/claude-code-banned-me/",
-      "points": "677 points",
-      "comments": "588 comments",
-      "index": 26
     },
     {
       "title": "Replacing Protobuf with Rust to go 5 times faster",
       "href": "https://pgdog.dev/blog/replace-protobuf-with-rust",
-      "points": "139 points",
-      "comments": "101 comments",
+      "points": "153 points",
+      "comments": "104 comments",
+      "index": 23
+    },
+    {
+      "title": "Three RCEs in Ilias Learning Management System",
+      "href": "https://srlabs.de/blog/breaking-ilias-part-2-three-to-rce",
+      "points": "17 points",
+      "comments": "3 comments",
+      "index": 24
+    },
+    {
+      "title": "Kotlin's Rich Errors: Native, Typed Errors Without Exceptions",
+      "href": "https://cekrem.github.io/posts/kotlin-rich-errors-elm-union-types/",
+      "points": "13 points",
+      "comments": "7 comments",
+      "index": 25
+    },
+    {
+      "title": "The Unexpected Logic of Art Economics: Arts and Inequality in 80s NY (2020)",
+      "href": "https://www.gothamcenter.org/blog/unexpected-logic-art-economics",
+      "points": "3 points",
+      "comments": "discuss",
+      "index": 26
+    },
+    {
+      "title": "Waypoint-1: Real-Time Interactive Video Diffusion from Overworld",
+      "href": "https://huggingface.co/blog/waypoint-1",
+      "points": "4 points",
+      "comments": "discuss",
       "index": 27
     },
     {
-      "title": "The state of modern AI text to speech systems for screen reader users",
-      "href": "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html",
-      "points": "68 points",
-      "comments": "29 comments",
+      "title": "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
+      "href": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
+      "points": "104 points",
+      "comments": "22 comments",
       "index": 28
     },
     {
-      "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
-      "href": "https://qwen.ai/blog?id=qwen3tts-0115",
-      "points": "694 points",
-      "comments": "211 comments",
+      "title": "Capital One to acquire Brex for $5.15B",
+      "href": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
+      "points": "371 points",
+      "comments": "303 comments",
       "index": 29
     },
     {
-      "title": "Douglas Adams on the English–American cultural divide over \"heroes\"",
-      "href": "https://shreevatsa.net/post/douglas-adams-cultural-divide/",
-      "points": "526 points",
-      "comments": "520 comments",
+      "title": "What has Docker become?",
+      "href": "https://tuananh.net/2026/01/20/what-has-docker-become/",
+      "points": "206 points",
+      "comments": "223 comments",
       "index": 30
     }
   ]
