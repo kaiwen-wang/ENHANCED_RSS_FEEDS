@@ -1,214 +1,214 @@
 {
-  "date": "Sunday, January 25, 2026 at 3:25 PM GMT-5",
+  "date": "Sunday, January 25, 2026 at 4:20 PM GMT-5",
   "articles": [
     {
-      "title": "First, Make Me Care",
+      "title": "First, make me care",
       "href": "https://gwern.net/blog/2026/make-me-care",
-      "points": "34 points",
-      "comments": "5 comments",
+      "points": "127 points",
+      "comments": "47 comments",
       "index": 1
+    },
+    {
+      "title": "OnePlus update blocks downgrades and custom ROMs by blowing a fuse",
+      "href": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
+      "points": "67 points",
+      "comments": "7 comments",
+      "index": 2
     },
     {
       "title": "A macOS app that blurs your screen when you slouch",
       "href": "https://github.com/tldev/posturr",
-      "points": "338 points",
-      "comments": "123 comments",
-      "index": 2
+      "points": "375 points",
+      "comments": "134 comments",
+      "index": 3
     },
     {
       "title": "Spanish track was fractured before high-speed train disaster, report finds",
       "href": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
-      "points": "29 points",
-      "comments": "11 comments",
-      "index": 3
+      "points": "59 points",
+      "comments": "39 comments",
+      "index": 4
     },
     {
       "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
       "href": "https://www.diljitpr.net/blog-post-postgresql-dlq",
-      "points": "114 points",
-      "comments": "28 comments",
-      "index": 4
+      "points": "125 points",
+      "comments": "34 comments",
+      "index": 5
     },
     {
       "title": "Doom has been ported to an earbud",
       "href": "https://doombuds.com",
-      "points": "252 points",
-      "comments": "83 comments",
-      "index": 5
-    },
-    {
-      "title": "A flawed paper in Management Science has been cited more than 6,000 times",
-      "href": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
-      "points": "548 points",
-      "comments": "292 comments",
+      "points": "273 points",
+      "comments": "90 comments",
       "index": 6
     },
     {
-      "title": "World’s most powerful literary critic is on TikTok",
-      "href": "https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok",
-      "points": "40 points",
-      "comments": "36 comments",
+      "title": "A flawed paper in management science has been cited more than 6k times",
+      "href": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
+      "points": "572 points",
+      "comments": "303 comments",
       "index": 7
+    },
+    {
+      "title": "I was right about ATProto key management",
+      "href": "https://notes.nora.codes/atproto-again/",
+      "points": "14 points",
+      "comments": "1 comment",
+      "index": 8
+    },
+    {
+      "title": "AI Tribalism",
+      "href": "https://nolanlawson.com/2026/01/24/ai-tribalism/",
+      "points": "16 points",
+      "comments": "discuss",
+      "index": 9
     },
     {
       "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
       "href": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
-      "points": "545 points",
-      "comments": "575 comments",
-      "index": 8
+      "points": "566 points",
+      "comments": "603 comments",
+      "index": 10
     },
     {
       "title": "Web-based image editor modeled after Deluxe Paint",
       "href": "https://github.com/steffest/DPaint-js",
-      "points": "125 points",
-      "comments": "7 comments",
-      "index": 9
+      "points": "143 points",
+      "comments": "8 comments",
+      "index": 11
+    },
+    {
+      "title": "ICE using Palantir tool that feeds on Medicaid data",
+      "href": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+      "points": "546 points",
+      "comments": "275 comments",
+      "index": 12
     },
     {
       "title": "Publishing on the ATmosphere",
       "href": "https://tynanistyping.offprint.app/a/3mcsvjjceei23-publishing-on-the-atmosphere",
-      "points": "21 points",
-      "comments": "8 comments",
-      "index": 10
+      "points": "28 points",
+      "comments": "14 comments",
+      "index": 13
     },
     {
       "title": "Introduction to PostgreSQL Indexes",
       "href": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
-      "points": "242 points",
-      "comments": "12 comments",
-      "index": 11
-    },
-    {
-      "title": "ICE Using Palantir Tool That Feeds on Medicaid Data",
-      "href": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-      "points": "436 points",
-      "comments": "222 comments",
-      "index": 12
+      "points": "252 points",
+      "comments": "13 comments",
+      "index": 14
     },
     {
       "title": "Show HN: Bonsplit – Tabs and splits for native macOS apps",
       "href": "https://bonsplit.alasdairmonk.com",
-      "points": "150 points",
-      "comments": "22 comments",
-      "index": 13
+      "points": "164 points",
+      "comments": "24 comments",
+      "index": 15
     },
     {
       "title": "Show HN: TUI for managing XDG default applications",
       "href": "https://github.com/mitjafelicijan/xdgctl",
-      "points": "94 points",
-      "comments": "28 comments",
-      "index": 14
+      "points": "97 points",
+      "comments": "32 comments",
+      "index": 16
     },
     {
       "title": "ANN v3: 200ms p99 query latency over 100B vectors",
       "href": "https://turbopuffer.com/blog/ann-v3",
-      "points": "80 points",
-      "comments": "31 comments",
-      "index": 15
+      "points": "85 points",
+      "comments": "40 comments",
+      "index": 17
+    },
+    {
+      "title": "Data Leak Exposes 149M Logins, Including Gmail, Facebook",
+      "href": "https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/",
+      "points": "34 points",
+      "comments": "2 comments",
+      "index": 18
     },
     {
       "title": "Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions",
       "href": "https://github.com/Use-Tusk/fence",
-      "points": "35 points",
-      "comments": "8 comments",
-      "index": 16
+      "points": "42 points",
+      "comments": "10 comments",
+      "index": 19
     },
     {
-      "title": "Jurassic Park - Tablet device on Nedry's desk? (2012)",
-      "href": "https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/",
-      "points": "126 points",
-      "comments": "47 comments",
-      "index": 17
+      "title": "150k lines of vibe coded Elixir: The good, the bad and the ugly",
+      "href": "https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly",
+      "points": "57 points",
+      "comments": "45 comments",
+      "index": 20
+    },
+    {
+      "title": "Optimizing GPU Programs from Java Using Babylon and Hat",
+      "href": "https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul",
+      "points": "8 points",
+      "comments": "discuss",
+      "index": 21
     },
     {
       "title": "Nango (YC W23, Dev Infrastructure) Is Hiring Remotely",
       "href": "https://jobs.ashbyhq.com/Nango",
       "points": "",
       "comments": "hide",
-      "index": 18
+      "index": 22
     },
     {
-      "title": "Social Dynamics at Arm's Length",
-      "href": "https://www.jenn.site/social-truths-at-arms-length/",
-      "points": "13 points",
-      "comments": "9 comments",
-      "index": 19
+      "title": "Jurassic Park - Tablet device on Nedry's desk? (2012)",
+      "href": "https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/",
+      "points": "130 points",
+      "comments": "51 comments",
+      "index": 23
     },
     {
-      "title": "The Rebirth of Pennsylvania's Infamous Burning Town",
-      "href": "https://www.atlasobscura.com/articles/centralia-pennsylvania-rebirth",
-      "points": "61 points",
-      "comments": "25 comments",
-      "index": 20
+      "title": "FAA institutes nationwide drone no-fly zones around ICE operations",
+      "href": "https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs",
+      "points": "160 points",
+      "comments": "101 comments",
+      "index": 24
     },
     {
-      "title": "Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux",
-      "href": "https://www.phoronix.com/news/Wine-Staging-11.1",
-      "points": "97 points",
-      "comments": "33 comments",
-      "index": 21
+      "title": "Deutsche Telekom is throttling the internet",
+      "href": "https://netzbremse.de/en/",
+      "points": "532 points",
+      "comments": "255 comments",
+      "index": 25
     },
     {
       "title": "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
       "href": "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/",
-      "points": "131 points",
-      "comments": "62 comments",
-      "index": 22
+      "points": "138 points",
+      "comments": "65 comments",
+      "index": 26
+    },
+    {
+      "title": "World’s most powerful literary critic is on TikTok",
+      "href": "https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok",
+      "points": "46 points",
+      "comments": "40 comments",
+      "index": 27
+    },
+    {
+      "title": "The Rebirth of Pennsylvania's Infamous Burning Town",
+      "href": "https://www.atlasobscura.com/articles/centralia-pennsylvania-rebirth",
+      "points": "64 points",
+      "comments": "27 comments",
+      "index": 28
+    },
+    {
+      "title": "Social Dynamics at Arm's Length",
+      "href": "https://www.jenn.site/social-truths-at-arms-length/",
+      "points": "18 points",
+      "comments": "12 comments",
+      "index": 29
     },
     {
       "title": "A Lament for Aperture",
       "href": "https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/",
-      "points": "205 points",
+      "points": "214 points",
       "comments": "50 comments",
-      "index": 23
-    },
-    {
-      "title": "Show HN: Netfence – Like Envoy for eBPF Filters",
-      "href": "https://github.com/danthegoodman1/netfence",
-      "points": "31 points",
-      "comments": "6 comments",
-      "index": 24
-    },
-    {
-      "title": "Sony Data Discman",
-      "href": "https://huguesjohnson.com/random/sony-ebook/",
-      "points": "81 points",
-      "comments": "16 comments",
-      "index": 25
-    },
-    {
-      "title": "Data Leak Exposes 149M Logins, Including Gmail, Facebook",
-      "href": "https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/",
-      "points": "6 points",
-      "comments": "discuss",
-      "index": 26
-    },
-    {
-      "title": "Bridging the Gap Between PLECS and SPICE",
-      "href": "https://erickschulz.dev/posts/plecs-spice/",
-      "points": "26 points",
-      "comments": "8 comments",
-      "index": 27
-    },
-    {
-      "title": "Alarm overload is undermining safety at sea as crews face thousands of alerts",
-      "href": "https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/",
-      "points": "124 points",
-      "comments": "81 comments",
-      "index": 28
-    },
-    {
-      "title": "Hands-On with Two Apple Network Server Prototype ROMs",
-      "href": "http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html",
-      "points": "55 points",
-      "comments": "1 comment",
-      "index": 29
-    },
-    {
-      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
-      "href": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
-      "points": "552 points",
-      "comments": "538 comments",
       "index": 30
     }
   ]
