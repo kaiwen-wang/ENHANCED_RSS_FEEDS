@@ -1,11 +1,11 @@
 {
-  "date": "Monday, January 26, 2026 at 5:25 PM GMT-5",
+  "date": "Monday, January 26, 2026 at 6:25 PM GMT-5",
   "articles": [
     {
       "title": "Why there’s no European Google?",
       "href": "https://ploum.net/2026-01-22-why-no-european-google.html",
       "points": "",
-      "comments": "\n              62 comments\n            ",
+      "comments": "\n              63 comments\n            ",
       "index": 1
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
-      "title": "Apple, What Have You Done?",
-      "href": "https://onlinegoddess.net/2026/01/apple-what-have-you-done/",
-      "points": "",
-      "comments": "\n              23 comments\n            ",
-      "index": 6
-    },
-    {
       "title": "Fedora Asahi Remix is now working on Apple M3",
       "href": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Apple, What Have You Done?",
+      "href": "https://onlinegoddess.net/2026/01/apple-what-have-you-done/",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
       "index": 7
     },
     {
@@ -61,98 +61,98 @@
       "title": "I Was Right About ATProto Key Management",
       "href": "https://notes.nora.codes/atproto-again/",
       "points": "",
-      "comments": "\n              101 comments\n            ",
+      "comments": "\n              102 comments\n            ",
       "index": 9
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/rjfmon/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "Porting DOOM to my WebAssembly VM",
-      "href": "https://irreducible.io/blog/porting-doom-to-wasm/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
     },
     {
       "title": "Godot 4.6 Release: It's all about your flow",
       "href": "https://godotengine.org/releases/4.6/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
+      "index": 10
     },
     {
-      "title": "The Intent Envelope: Proofs for Completeness, Not Just Soundness",
-      "href": "https://midspiral.com/blog/intent-envelope-proofs-for-completeness-not-just-soundness/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
-      "title": "JuiceSSH - Give me my pro features back",
-      "href": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Screeps: How a game about programming exposed thousands of players to remote code execution",
-      "href": "https://outsidetheasylum.blog/screeps/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Exploring Linux on a LoongArch Mini PC",
-      "href": "https://www.wezm.net/v2/posts/2026/loongarch-mini-pc-m700s/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "How to think about Gas Town",
-      "href": "https://steveklabnik.com/writing/how-to-think-about-gas-town/",
-      "points": "",
-      "comments": "\n              20 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "sysp: Systems Lisp compiling to C with homoiconic macros, refcounted memory, Hindley-Milner type inference",
-      "href": "https://github.com/karans4/sysp",
+      "title": "What are you doing this week?",
+      "href": "/s/rjfmon/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 18
+      "index": 11
     },
     {
-      "title": "Long branches in compilers, assemblers, and linkers",
-      "href": "https://maskray.me/blog/2026-01-25-long-branches-in-compilers-assemblers-and-linkers",
+      "title": "Porting DOOM to my WebAssembly VM",
+      "href": "https://irreducible.io/blog/porting-doom-to-wasm/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 12
     },
     {
       "title": "Home Lab Developments",
       "href": "https://zitseng.com/archives/25229",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 20
+      "index": 13
     },
     {
-      "title": "Allowlist for .gitignore",
-      "href": "https://blog.izissise.net/posts/gitignoreallowlist/",
+      "title": "JuiceSSH - Give me my pro features back",
+      "href": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 21
+      "comments": "\n              3 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Exploring Linux on a LoongArch Mini PC",
+      "href": "https://www.wezm.net/v2/posts/2026/loongarch-mini-pc-m700s/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "The Intent Envelope: Proofs for Completeness, Not Just Soundness",
+      "href": "https://midspiral.com/blog/intent-envelope-proofs-for-completeness-not-just-soundness/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
+      "title": "sysp: Systems Lisp compiling to C with homoiconic macros, refcounted memory, Hindley-Milner type inference",
+      "href": "https://github.com/karans4/sysp",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Screeps: How a game about programming exposed thousands of players to remote code execution",
+      "href": "https://outsidetheasylum.blog/screeps/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "How to think about Gas Town",
+      "href": "https://steveklabnik.com/writing/how-to-think-about-gas-town/",
+      "points": "",
+      "comments": "\n              21 comments\n            ",
+      "index": 19
     },
     {
       "title": "Implementing the transcendental functions in Ivy",
       "href": "https://commandcenter.blogspot.com/2026/01/implementing-transcendental-functions.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Long branches in compilers, assemblers, and linkers",
+      "href": "https://maskray.me/blog/2026-01-25-long-branches-in-compilers-assemblers-and-linkers",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Allowlist for .gitignore",
+      "href": "https://blog.izissise.net/posts/gitignoreallowlist/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
       "index": 22
     },
     {
