@@ -1,214 +1,214 @@
 {
-  "date": "Monday, January 26, 2026 at 8:45 AM GMT-5",
+  "date": "Monday, January 26, 2026 at 9:30 AM GMT-5",
   "articles": [
     {
       "title": "MapLibre Tile: a modern and efficient vector tile format",
       "href": "https://maplibre.org/news/2026-01-23-mlt-release/",
-      "points": "152 points",
-      "comments": "31 comments",
+      "points": "182 points",
+      "comments": "36 comments",
       "index": 1
     },
     {
       "title": "Vibe Coding Kills Open Source",
       "href": "https://arxiv.org/abs/2601.15494",
-      "points": "13 points",
-      "comments": "1 comment",
+      "points": "120 points",
+      "comments": "92 comments",
       "index": 2
+    },
+    {
+      "title": "After two years of vibecoding, I'm back to writing by hand",
+      "href": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
+      "points": "52 points",
+      "comments": "28 comments",
+      "index": 3
     },
     {
       "title": "Transfering Files with gRPC",
       "href": "https://kreya.app/blog/transfering-files-with-grpc/",
-      "points": "9 points",
-      "comments": "discuss",
-      "index": 3
+      "points": "23 points",
+      "comments": "2 comments",
+      "index": 4
     },
     {
       "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
       "href": "https://github.com/quaadgras/graphics.gd/discussions/242",
-      "points": "99 points",
-      "comments": "76 comments",
-      "index": 4
+      "points": "114 points",
+      "comments": "90 comments",
+      "index": 5
+    },
+    {
+      "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
+      "href": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
+      "points": "10 points",
+      "comments": "3 comments",
+      "index": 6
     },
     {
       "title": "Things I've learned in my 10 years as an engineering manager",
       "href": "https://www.jampa.dev/p/lessons-learned-after-10-years-as",
-      "points": "264 points",
-      "comments": "47 comments",
-      "index": 5
+      "points": "293 points",
+      "comments": "59 comments",
+      "index": 7
     },
     {
       "title": "The browser is the sandbox",
       "href": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
-      "points": "209 points",
-      "comments": "125 comments",
-      "index": 6
+      "points": "233 points",
+      "comments": "135 comments",
+      "index": 8
     },
     {
       "title": "First, make me care",
       "href": "https://gwern.net/blog/2026/make-me-care",
-      "points": "656 points",
-      "comments": "202 comments",
-      "index": 7
+      "points": "667 points",
+      "comments": "204 comments",
+      "index": 9
+    },
+    {
+      "title": "Show HN: Only 1 LLM can fly a drone",
+      "href": "https://github.com/kxzk/snapbench",
+      "points": "24 points",
+      "comments": "9 comments",
+      "index": 10
+    },
+    {
+      "title": "Water 'Bankruptcy' Era Has Begun for Billions, Scientists Say",
+      "href": "https://www.bloomberg.com/news/articles/2026-01-20/water-bankruptcy-era-has-begun-for-billions-scientists-say",
+      "points": "30 points",
+      "comments": "23 comments",
+      "index": 11
     },
     {
       "title": "Text Is King",
       "href": "https://www.experimental-history.com/p/text-is-king",
-      "points": "41 points",
-      "comments": "25 comments",
-      "index": 8
+      "points": "55 points",
+      "comments": "28 comments",
+      "index": 12
     },
     {
       "title": "Scientists identify brain waves that define the limits of 'you'",
       "href": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
-      "points": "229 points",
-      "comments": "59 comments",
-      "index": 9
-    },
-    {
-      "title": "Wind Chime Length Calculator (2022)",
-      "href": "https://www.snyderfamily.com/chimecalcs/",
-      "points": "15 points",
-      "comments": "6 comments",
-      "index": 10
+      "points": "238 points",
+      "comments": "64 comments",
+      "index": 13
     },
     {
       "title": "A macOS app that blurs your screen when you slouch",
       "href": "https://github.com/tldev/posturr",
-      "points": "626 points",
-      "comments": "203 comments",
-      "index": 11
+      "points": "635 points",
+      "comments": "206 comments",
+      "index": 14
     },
     {
-      "title": "San Francisco Graffiti",
-      "href": "https://walzr.com/sf-graffiti",
-      "points": "41 points",
-      "comments": "31 comments",
-      "index": 12
+      "title": "Wind Chime Length Calculator (2022)",
+      "href": "https://www.snyderfamily.com/chimecalcs/",
+      "points": "18 points",
+      "comments": "6 comments",
+      "index": 15
     },
     {
       "title": "The future of software engineering is SRE",
       "href": "https://swizec.com/blog/the-future-of-software-engineering-is-sre/",
-      "points": "167 points",
-      "comments": "74 comments",
-      "index": 13
-    },
-    {
-      "title": "Emissary, a fast open-source Java messaging library",
-      "href": "https://github.com/joel-jeremy/emissary",
-      "points": "21 points",
-      "comments": "9 comments",
-      "index": 14
-    },
-    {
-      "title": "A static site generator written in POSIX shell",
-      "href": "https://aashvik.com/posts/shell-ssg/",
-      "points": "48 points",
-      "comments": "27 comments",
-      "index": 15
-    },
-    {
-      "title": "Clinic-in-the-Loop",
-      "href": "https://www.asimov.press/p/clinic-loop",
-      "points": "5 points",
-      "comments": "discuss",
+      "points": "177 points",
+      "comments": "85 comments",
       "index": 16
     },
     {
       "title": "LED lighting undermines visual performance unless supplemented by wider spectra",
       "href": "https://www.nature.com/articles/s41598-026-35389-6",
-      "points": "124 points",
-      "comments": "108 comments",
+      "points": "134 points",
+      "comments": "116 comments",
       "index": 17
     },
     {
-      "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
-      "href": "https://www.diljitpr.net/blog-post-postgresql-dlq",
-      "points": "229 points",
-      "comments": "72 comments",
+      "title": "Clinic-in-the-Loop",
+      "href": "https://www.asimov.press/p/clinic-loop",
+      "points": "8 points",
+      "comments": "1 comment",
       "index": 18
     },
     {
-      "title": "Running the Stupid Cricut Software on Linux",
-      "href": "https://arthur.pizza/2025/12/running-stupid-cricut-software-under-linux/",
-      "points": "33 points",
-      "comments": "4 comments",
+      "title": "A static site generator written in POSIX shell",
+      "href": "https://aashvik.com/posts/shell-ssg/",
+      "points": "53 points",
+      "comments": "28 comments",
       "index": 19
+    },
+    {
+      "title": "Emissary, a fast open-source Java messaging library",
+      "href": "https://github.com/joel-jeremy/emissary",
+      "points": "21 points",
+      "comments": "10 comments",
+      "index": 20
     },
     {
       "title": "Video Games as Art",
       "href": "https://gwern.net/video-game-art",
-      "points": "82 points",
-      "comments": "51 comments",
-      "index": 20
-    },
-    {
-      "title": "Water 'Bankruptcy' Era Has Begun for Billions, Scientists Say",
-      "href": "https://www.bloomberg.com/news/articles/2026-01-20/water-bankruptcy-era-has-begun-for-billions-scientists-say",
-      "points": "5 points",
-      "comments": "1 comment",
+      "points": "85 points",
+      "comments": "52 comments",
       "index": 21
     },
     {
-      "title": "I was right about ATProto key management",
-      "href": "https://notes.nora.codes/atproto-again/",
-      "points": "158 points",
-      "comments": "146 comments",
+      "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+      "href": "https://www.diljitpr.net/blog-post-postgresql-dlq",
+      "points": "233 points",
+      "comments": "72 comments",
       "index": 22
+    },
+    {
+      "title": "Running the Stupid Cricut Software on Linux",
+      "href": "https://arthur.pizza/2025/12/running-stupid-cricut-software-under-linux/",
+      "points": "37 points",
+      "comments": "6 comments",
+      "index": 23
     },
     {
       "title": "Guix for Development",
       "href": "https://dthompson.us/posts/guix-for-development.html",
-      "points": "106 points",
-      "comments": "44 comments",
-      "index": 23
+      "points": "113 points",
+      "comments": "45 comments",
+      "index": 24
     },
     {
       "title": "Case study: Creative math – How AI fakes proofs",
       "href": "https://tomaszmachnik.pl/case-study-math-en.html",
-      "points": "104 points",
-      "comments": "71 comments",
-      "index": 24
+      "points": "111 points",
+      "comments": "74 comments",
+      "index": 25
+    },
+    {
+      "title": "I was right about ATProto key management",
+      "href": "https://notes.nora.codes/atproto-again/",
+      "points": "163 points",
+      "comments": "157 comments",
+      "index": 26
+    },
+    {
+      "title": "TSMC Risk",
+      "href": "https://stratechery.com/2026/tsmc-risk/",
+      "points": "4 points",
+      "comments": "2 comments",
+      "index": 27
     },
     {
       "title": "Clawdbot - open source personal AI assistant",
       "href": "https://github.com/clawdbot/clawdbot",
-      "points": "291 points",
-      "comments": "185 comments",
-      "index": 25
+      "points": "307 points",
+      "comments": "189 comments",
+      "index": 28
     },
     {
       "title": "Show HN: An interactive map of US lighthouses and navigational aids",
       "href": "https://www.lighthouses.app/",
-      "points": "82 points",
+      "points": "87 points",
       "comments": "19 comments",
-      "index": 26
-    },
-    {
-      "title": "The Science of Fermentation [audio]",
-      "href": "https://www.bbc.co.uk/programmes/m002pqg6",
-      "points": "58 points",
-      "comments": "18 comments",
-      "index": 27
-    },
-    {
-      "title": "Compiling models to megakernels",
-      "href": "https://blog.luminal.com/p/compiling-models-to-megakernels",
-      "points": "28 points",
-      "comments": "14 comments",
-      "index": 28
+      "index": 29
     },
     {
       "title": "SFPark: Interactive map of SF parking regulations",
       "href": "https://hugues.betakappaphi.com/2026/01/21/sfpark/",
-      "points": "11 points",
-      "comments": "5 comments",
-      "index": 29
-    },
-    {
-      "title": "Iran's internet blackout may become permanent, with access for elites only",
-      "href": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
-      "points": "340 points",
-      "comments": "261 comments",
+      "points": "12 points",
+      "comments": "6 comments",
       "index": 30
     }
   ]
