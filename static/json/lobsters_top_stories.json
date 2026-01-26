@@ -1,23 +1,23 @@
 {
-  "date": "Sunday, January 25, 2026 at 9:00 PM GMT-5",
+  "date": "Sunday, January 25, 2026 at 11:00 PM GMT-5",
   "articles": [
     {
       "title": "I Was Right About ATProto Key Management",
       "href": "https://notes.nora.codes/atproto-again/",
       "points": "",
-      "comments": "\n              67 comments\n            ",
+      "comments": "\n              72 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "zerobrew is a Rust-based, 5-20x faster drop-in Homebrew alternative",
+      "href": "https://github.com/lucasgelfond/zerobrew",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 2
     },
     {
       "title": "Software patches in NixOS for fun and productivity",
       "href": "https://log.pfad.fr/2026/software-patching-in-nixos/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 2
-    },
-    {
-      "title": "Allowlist for .gitignore",
-      "href": "https://blog.izissise.net/posts/gitignoreallowlist/",
       "points": "",
       "comments": "\n              3 comments\n            ",
       "index": 3
@@ -26,147 +26,147 @@
       "title": "How to think about Gas Town",
       "href": "https://steveklabnik.com/writing/how-to-think-about-gas-town/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 4
+    },
+    {
+      "title": "Allowlist for .gitignore",
+      "href": "https://blog.izissise.net/posts/gitignoreallowlist/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 5
     },
     {
       "title": "Welcome to the \"Email Expiration Date\" initiative",
       "href": "https://www.zerocarbon.email/",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "AI tribalism",
-      "href": "https://nolanlawson.com/2026/01/24/ai-tribalism/",
-      "points": "",
-      "comments": "\n              118 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "A Lament For Aperture, The App We'll Never Get Over Losing",
-      "href": "https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Home router recommendations",
-      "href": "/s/7hxrjv/home_router_recommendations",
-      "points": "",
-      "comments": "\n              75 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "The Value of Things",
-      "href": "https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/",
-      "points": "",
-      "comments": "\n              20 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "The IndieWeb and Small web",
-      "href": "https://christiano.dev/post/indieweb_smallweb/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 10
     },
     {
       "title": "Screeps: How a game about programming exposed thousands of players to remote code execution",
       "href": "https://outsidetheasylum.blog/screeps/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "A Lament For Aperture, The App We'll Never Get Over Losing",
+      "href": "https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "AI tribalism",
+      "href": "https://nolanlawson.com/2026/01/24/ai-tribalism/",
+      "points": "",
+      "comments": "\n              118 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Home router recommendations",
+      "href": "/s/7hxrjv/home_router_recommendations",
+      "points": "",
+      "comments": "\n              77 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "The Value of Things",
+      "href": "https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/",
+      "points": "",
+      "comments": "\n              25 comments\n            ",
       "index": 11
     },
     {
-      "title": "Hands-on with two Apple Network Server prototype ROMs",
-      "href": "http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Visitor as a sum type (2018)",
-      "href": "https://blog.ploeh.dk/2018/06/25/visitor-as-a-sum-type/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
-      "title": "zerobrew is a Rust-based, 5-20x faster drop-in Homebrew alternative",
-      "href": "https://github.com/lucasgelfond/zerobrew",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Hand-Crafting Domain-Specific Compression with an LLM",
-      "href": "https://engineering.nanit.com/hand-crafting-domain-specific-compression-with-an-llm-3c42f5c2b070",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Obvious Things C Should Do",
-      "href": "https://www.digitalmars.com/articles/Cobvious.html",
-      "points": "",
-      "comments": "\n              52 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Bouncy Ball will always bounce back",
-      "href": "https://filipfila.wordpress.com/2026/01/25/bouncy-ball-will-always-bounce-back/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Is It Worth It?",
-      "href": "https://griffin.com/blog/is-it-worth-it",
+      "title": "The IndieWeb and Small web",
+      "href": "https://christiano.dev/post/indieweb_smallweb/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "e9p - pure Erlang 9p implementation",
-      "href": "https://tangled.org/hauleth.dev/e9p",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 12
     },
     {
       "title": "sysp: Systems Lisp compiling to C with homoiconic macros, refcounted memory, Hindley-Milner type inference",
       "href": "https://github.com/karans4/sysp",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 13
     },
     {
-      "title": "cppstat - C and C++ Compiler Support Status",
-      "href": "https://cppstat.dev/",
+      "title": "Hands-on with two Apple Network Server prototype ROMs",
+      "href": "http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 21
+      "comments": "\n              5 comments\n            ",
+      "index": 14
     },
     {
-      "title": "Testing: exceptions and caches",
-      "href": "https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches",
+      "title": "Visitor as a sum type (2018)",
+      "href": "https://blog.ploeh.dk/2018/06/25/visitor-as-a-sum-type/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
+    },
+    {
+      "title": "Bouncy Ball will always bounce back",
+      "href": "https://filipfila.wordpress.com/2026/01/25/bouncy-ball-will-always-bounce-back/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 16
     },
     {
-      "title": "Because coordination is expensive",
-      "href": "https://surfingcomplexity.blog/2026/01/24/because-coordination-is-expensive/",
+      "title": "Obvious Things C Should Do",
+      "href": "https://www.digitalmars.com/articles/Cobvious.html",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 23
+      "comments": "\n              54 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Hand-Crafting Domain-Specific Compression with an LLM",
+      "href": "https://engineering.nanit.com/hand-crafting-domain-specific-compression-with-an-llm-3c42f5c2b070",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
     },
     {
       "title": "spreadsheets + vi + json",
       "href": "https://awalgarg.me/untitled_project",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Is It Worth It?",
+      "href": "https://griffin.com/blog/is-it-worth-it",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "e9p - pure Erlang 9p implementation",
+      "href": "https://tangled.org/hauleth.dev/e9p",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "cppstat - C and C++ Compiler Support Status",
+      "href": "https://cppstat.dev/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Testing: exceptions and caches",
+      "href": "https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Because coordination is expensive",
+      "href": "https://surfingcomplexity.blog/2026/01/24/because-coordination-is-expensive/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 24
     },
     {
