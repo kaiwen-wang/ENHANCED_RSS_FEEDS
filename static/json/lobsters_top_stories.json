@@ -1,32 +1,32 @@
 {
-  "date": "Monday, January 26, 2026 at 6:25 PM GMT-5",
+  "date": "Monday, January 26, 2026 at 8:55 PM GMT-5",
   "articles": [
     {
       "title": "Why there’s no European Google?",
       "href": "https://ploum.net/2026-01-22-why-no-european-google.html",
       "points": "",
-      "comments": "\n              63 comments\n            ",
+      "comments": "\n              65 comments\n            ",
       "index": 1
     },
     {
       "title": "The state of Linux music players in 2026",
       "href": "https://crescentro.se/posts/linux-music-players-2026/",
       "points": "",
-      "comments": "\n              31 comments\n            ",
+      "comments": "\n              38 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "zerobrew is a Rust-based, 5-20x faster drop-in Homebrew alternative",
-      "href": "https://github.com/lucasgelfond/zerobrew",
-      "points": "",
-      "comments": "\n              25 comments\n            ",
-      "index": 3
     },
     {
       "title": "The Enclosure feedback loop, or how LLMs sabotage existing programming practices by privatizing a public good",
       "href": "https://michiel.buddingh.eu/enclosure-feedback-loop",
       "points": "",
-      "comments": "\n              23 comments\n            ",
+      "comments": "\n              26 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "zerobrew is a Rust-based, 5-20x faster drop-in Homebrew alternative",
+      "href": "https://github.com/lucasgelfond/zerobrew",
+      "points": "",
+      "comments": "\n              27 comments\n            ",
       "index": 4
     },
     {
@@ -47,7 +47,7 @@
       "title": "Apple, What Have You Done?",
       "href": "https://onlinegoddess.net/2026/01/apple-what-have-you-done/",
       "points": "",
-      "comments": "\n              24 comments\n            ",
+      "comments": "\n              26 comments\n            ",
       "index": 7
     },
     {
@@ -58,31 +58,31 @@
       "index": 8
     },
     {
-      "title": "I Was Right About ATProto Key Management",
-      "href": "https://notes.nora.codes/atproto-again/",
-      "points": "",
-      "comments": "\n              102 comments\n            ",
-      "index": 9
-    },
-    {
       "title": "Godot 4.6 Release: It's all about your flow",
       "href": "https://godotengine.org/releases/4.6/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
+      "index": 9
     },
     {
-      "title": "What are you doing this week?",
-      "href": "/s/rjfmon/what_are_you_doing_this_week",
+      "title": "I Was Right About ATProto Key Management",
+      "href": "https://notes.nora.codes/atproto-again/",
       "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 11
+      "comments": "\n              105 comments\n            ",
+      "index": 10
     },
     {
       "title": "Porting DOOM to my WebAssembly VM",
       "href": "https://irreducible.io/blog/porting-doom-to-wasm/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/rjfmon/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 12
     },
     {
@@ -93,24 +93,24 @@
       "index": 13
     },
     {
-      "title": "JuiceSSH - Give me my pro features back",
-      "href": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
+      "title": "The Intent Envelope: Proofs for Completeness, Not Just Soundness",
+      "href": "https://midspiral.com/blog/intent-envelope-proofs-for-completeness-not-just-soundness/",
       "points": "",
       "comments": "\n              3 comments\n            ",
       "index": 14
+    },
+    {
+      "title": "JuiceSSH - Give me my pro features back",
+      "href": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 15
     },
     {
       "title": "Exploring Linux on a LoongArch Mini PC",
       "href": "https://www.wezm.net/v2/posts/2026/loongarch-mini-pc-m700s/",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "The Intent Envelope: Proofs for Completeness, Not Just Soundness",
-      "href": "https://midspiral.com/blog/intent-envelope-proofs-for-completeness-not-just-soundness/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 16
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "Simplify Your Code: Functional Core, Imperative Shell",
+      "href": "https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
+    },
+    {
       "title": "How to think about Gas Town",
       "href": "https://steveklabnik.com/writing/how-to-think-about-gas-town/",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 19
+      "index": 20
+    },
+    {
+      "title": "sra-archive: Very simple random access archive format",
+      "href": "https://github.com/sorvi-platform/sra-archive",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Microsoft obeys court orders to provide Windows BitLocker recovery keys",
+      "href": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
     },
     {
       "title": "Implementing the transcendental functions in Ivy",
       "href": "https://commandcenter.blogspot.com/2026/01/implementing-transcendental-functions.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Long branches in compilers, assemblers, and linkers",
       "href": "https://maskray.me/blog/2026-01-25-long-branches-in-compilers-assemblers-and-linkers",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "Allowlist for .gitignore",
       "href": "https://blog.izissise.net/posts/gitignoreallowlist/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Software patches in NixOS for fun and productivity",
-      "href": "https://log.pfad.fr/2026/software-patching-in-nixos/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission",
-      "href": "https://grahamhelton.com/blog/nodes-proxy-rce",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Reversing abstractions: an existential crisis",
-      "href": "https://www.humprog.org/~stephen/blog/research/recovering-abstraction.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 25
     }
   ]
