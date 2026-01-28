@@ -1,18 +1,18 @@
 {
-  "date": "Wednesday, January 28, 2026 at 3:30 PM GMT-5",
+  "date": "Wednesday, January 28, 2026 at 4:30 PM GMT-5",
   "articles": [
+    {
+      "title": "make.ts",
+      "href": "https://matklad.github.io/2026/01/27/make-ts.html",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 1
+    },
     {
       "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
       "href": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
       "points": "",
       "comments": "\n              41 comments\n            ",
-      "index": 1
-    },
-    {
-      "title": "make.ts",
-      "href": "https://matklad.github.io/2026/01/27/make-ts.html",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
       "index": 2
     },
     {
@@ -26,7 +26,7 @@
       "title": "I Started Identifying Corporate Devices in My Software",
       "href": "https://lgug2z.com/articles/i-started-identifying-corporate-devices-in-my-software/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 4
     },
     {
@@ -72,108 +72,108 @@
       "index": 10
     },
     {
-      "title": "A \"Pure Go\" Linux environment, written by Claude",
-      "href": "https://www.jtolio.com/2026/01/a-pure-go-linux-environment-written-by-claude-directed-by-fabrice-bellard/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 11
-    },
-    {
       "title": "There and Back Again: From Quickstrom to Bombadil",
       "href": "https://wickstrom.tech/2026-01-28-there-and-back-again-from-quickstrom-to-bombadil.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 12
+      "index": 11
     },
     {
       "title": "\"a bootstrap chain for NixOS which builds the whole system from a small hand-auditable binary seed\"",
       "href": "https://mastodon.social/@nzbr@chaos.social/115973847937505106",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 12
+    },
+    {
+      "title": "Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust",
+      "href": "https://github.com/ariel-os/ariel-os",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 13
+    },
+    {
+      "title": "A \"Pure Go\" Linux environment, written by Claude",
+      "href": "https://www.jtolio.com/2026/01/a-pure-go-linux-environment-written-by-claude-directed-by-fabrice-bellard/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Barev - XMPP flavoured p2p protocol",
+      "href": "https://discourse.imfreedom.org/t/barev-xmpp-flavoured-p2p-protocol/348",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 15
     },
     {
       "title": "Bugs Apple Loves",
       "href": "https://www.bugsappleloves.com/",
       "points": "",
       "comments": "\n              24 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "t: a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq",
-      "href": "https://github.com/alecthomas/t",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust",
-      "href": "https://github.com/ariel-os/ariel-os",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 16
     },
     {
-      "title": "Barev - XMPP flavoured p2p protocol",
-      "href": "https://discourse.imfreedom.org/t/barev-xmpp-flavoured-p2p-protocol/348",
+      "title": "Accessing LUKS and ext4 drives from macOS",
+      "href": "https://nmattia.com/posts/2026-01-13-using-luks-on-macos/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 17
-    },
-    {
-      "title": "But how to get to that European cloud?",
-      "href": "https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/",
-      "points": "",
-      "comments": "\n              30 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "MonkeyBall Online",
-      "href": "https://monkeyball-online.pages.dev/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Xfwl4: The roadmap for a Xfce Wayland Compositor",
-      "href": "https://alexxcons.github.io/blogpost_15.html",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Breaking Thunderbird Free from Linux Package Lag",
-      "href": "https://blog.melashri.net/posts/thunderbird-auto-update-linux/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "After two years of vibecoding, I'm back to writing by hand",
-      "href": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "The C-Shaped Hole in Package Management",
-      "href": "https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 23
     },
     {
       "title": "Why I still teach OpenGL ES 3.0",
       "href": "https://eliasfarhan.ch/jekyll/update/2026/01/27/why-i-teach-opengles.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "t: a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq",
+      "href": "https://github.com/alecthomas/t",
+      "points": "",
+      "comments": "\n              24 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "But how to get to that European cloud?",
+      "href": "https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/",
+      "points": "",
+      "comments": "\n              31 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "MonkeyBall Online",
+      "href": "https://monkeyball-online.pages.dev/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Xfwl4: The roadmap for a Xfce Wayland Compositor",
+      "href": "https://alexxcons.github.io/blogpost_15.html",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Breaking Thunderbird Free from Linux Package Lag",
+      "href": "https://blog.melashri.net/posts/thunderbird-auto-update-linux/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "After two years of vibecoding, I'm back to writing by hand",
+      "href": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 24
     },
     {
-      "title": "Accessing LUKS and ext4 drives from macOS",
-      "href": "https://nmattia.com/posts/2026-01-13-using-luks-on-macos/",
+      "title": "The C-Shaped Hole in Package Management",
+      "href": "https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 25
     }
   ]
