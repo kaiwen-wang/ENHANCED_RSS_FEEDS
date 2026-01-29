@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, January 29, 2026 at 12:45 AM GMT-5",
+  "date": "Thursday, January 29, 2026 at 1:50 AM GMT-5",
   "articles": [
     {
       "title": "I still don't understand this SYN attack, but now I can block it easily",
       "href": "https://boston.conman.org/2026/01/28.2",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 1
     },
     {
       "title": "make.ts",
       "href": "https://matklad.github.io/2026/01/27/make-ts.html",
       "points": "",
-      "comments": "\n              22 comments\n            ",
+      "comments": "\n              23 comments\n            ",
       "index": 2
     },
     {
@@ -40,28 +40,28 @@
       "title": "I Started Identifying Corporate Devices in My Software",
       "href": "https://lgug2z.com/articles/i-started-identifying-corporate-devices-in-my-software/",
       "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 6
     },
     {
       "title": "Lobsters Vibecoding Challenge (Winter 2025-2026)",
       "href": "https://gist.github.com/MostAwesomeDude/bb8cbfd005a33f5dd262d1f20a63a693",
       "points": "",
-      "comments": "\n              57 comments\n            ",
+      "comments": "\n              60 comments\n            ",
       "index": 7
-    },
-    {
-      "title": "Time Machine inside a FreeBSD jail",
-      "href": "https://it-notes.dragas.net/2026/01/28/time-machine-freebsd-jail/",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 8
     },
     {
       "title": "Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust",
       "href": "https://github.com/ariel-os/ariel-os",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Time Machine inside a FreeBSD jail",
+      "href": "https://it-notes.dragas.net/2026/01/28/time-machine-freebsd-jail/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
       "index": 9
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
+      "title": "Some notes on starting to use Django",
+      "href": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Can AI companies become profitable?",
+      "href": "https://epoch.ai/gradient-updates/can-ai-companies-become-profitable",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
       "title": "Accessing LUKS and ext4 drives from macOS",
       "href": "https://nmattia.com/posts/2026-01-13-using-luks-on-macos/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "A \"Pure Go\" Linux environment, written by Claude",
-      "href": "https://www.jtolio.com/2026/01/a-pure-go-linux-environment-written-by-claude-directed-by-fabrice-bellard/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Why I still teach OpenGL ES 3.0",
       "href": "https://eliasfarhan.ch/jekyll/update/2026/01/27/why-i-teach-opengles.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
-      "title": "Some notes on starting to use Django",
-      "href": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
+      "title": "A \"Pure Go\" Linux environment, written by Claude",
+      "href": "https://www.jtolio.com/2026/01/a-pure-go-linux-environment-written-by-claude-directed-by-fabrice-bellard/",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
+      "comments": "\n              8 comments\n            ",
+      "index": 19
     },
     {
       "title": "Barev - XMPP flavoured p2p protocol",
       "href": "https://discourse.imfreedom.org/t/barev-xmpp-flavoured-p2p-protocol/348",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 19
+      "index": 20
+    },
+    {
+      "title": "Isolation & Permissiveness of Distributed Transactions in MongoDB",
+      "href": "https://www.mongodb.com/company/blog/engineering/formal-methods-beyond-correctness-isolation-permissiveness-distributed-transactions",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "ARM MTE Performance in Practice (Extended Version)",
+      "href": "https://arxiv.org/pdf/2601.11786",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
     },
     {
       "title": "MonkeyBall Online",
       "href": "https://monkeyball-online.pages.dev/",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 20
+      "index": 23
+    },
+    {
+      "title": "Why you should probably tell your audience what your blog posts are about as early as possible",
+      "href": "https://www.marginalia.nu/log/a_129_finding_audience/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "Breaking Thunderbird Free from Linux Package Lag",
       "href": "https://blog.melashri.net/posts/thunderbird-auto-update-linux/",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Bugs Apple Loves",
-      "href": "https://www.bugsappleloves.com/",
-      "points": "",
-      "comments": "\n              25 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "t: a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq",
-      "href": "https://github.com/alecthomas/t",
-      "points": "",
-      "comments": "\n              24 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Bf-Tree A Modern Concurrent Larger-Than-Memory Range Index",
-      "href": "https://github.com/microsoft/bf-tree/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "But how to get to that European cloud?",
-      "href": "https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/",
-      "points": "",
-      "comments": "\n              31 comments\n            ",
       "index": 25
     }
   ]
