@@ -1,18 +1,18 @@
 {
-  "date": "Thursday, January 29, 2026 at 3:40 AM GMT-5",
+  "date": "Thursday, January 29, 2026 at 4:40 AM GMT-5",
   "articles": [
     {
       "title": "I still don't understand this SYN attack, but now I can block it easily",
       "href": "https://boston.conman.org/2026/01/28.2",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 1
     },
     {
       "title": "make.ts",
       "href": "https://matklad.github.io/2026/01/27/make-ts.html",
       "points": "",
-      "comments": "\n              25 comments\n            ",
+      "comments": "\n              26 comments\n            ",
       "index": 2
     },
     {
@@ -26,7 +26,7 @@
       "title": "Some notes on starting to use Django",
       "href": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 4
     },
     {
@@ -44,24 +44,24 @@
       "index": 6
     },
     {
+      "title": "Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust",
+      "href": "https://github.com/ariel-os/ariel-os",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 7
+    },
+    {
       "title": "I Started Identifying Corporate Devices in My Software",
       "href": "https://lgug2z.com/articles/i-started-identifying-corporate-devices-in-my-software/",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust",
-      "href": "https://github.com/ariel-os/ariel-os",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 8
     },
     {
       "title": "Lobsters Vibecoding Challenge (Winter 2025-2026)",
       "href": "https://gist.github.com/MostAwesomeDude/bb8cbfd005a33f5dd262d1f20a63a693",
       "points": "",
-      "comments": "\n              62 comments\n            ",
+      "comments": "\n              65 comments\n            ",
       "index": 9
     },
     {
@@ -75,7 +75,7 @@
       "title": "Blocking Claude",
       "href": "https://aphyr.com/posts/403-blocking-claude",
       "points": "",
-      "comments": "\n              35 comments\n            ",
+      "comments": "\n              37 comments\n            ",
       "index": 11
     },
     {
@@ -96,84 +96,84 @@
       "title": "It is incorrect to “normalize” // in HTTP URL paths",
       "href": "https://runxiyu.org/comp/doubleslash/",
       "points": "",
-      "comments": "\n              48 comments\n            ",
+      "comments": "\n              49 comments\n            ",
       "index": 14
+    },
+    {
+      "title": "9front \"GEFS SERVICE PACK 1\" released",
+      "href": "https://9front.org/releases/2026/01/24/0/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "30 years of ReactOS",
+      "href": "https://reactos.org/blogs/30yrs-of-ros/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
     },
     {
       "title": "Use “\\A...\\z”, not “^...$” with Python regular expressions",
       "href": "https://sethmlarson.dev/use-backslash-A-and-z-not-%5E-and-%24-with-python-regular-expressions",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 15
+      "index": 17
     },
     {
       "title": "Can AI companies become profitable?",
       "href": "https://epoch.ai/gradient-updates/can-ai-companies-become-profitable",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 16
+      "index": 18
     },
     {
       "title": "There and Back Again: From Quickstrom to Bombadil",
       "href": "https://wickstrom.tech/2026-01-28-there-and-back-again-from-quickstrom-to-bombadil.html",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Why I still teach OpenGL ES 3.0",
       "href": "https://eliasfarhan.ch/jekyll/update/2026/01/27/why-i-teach-opengles.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
       "title": "Accessing LUKS and ext4 drives from macOS",
       "href": "https://nmattia.com/posts/2026-01-13-using-luks-on-macos/",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "ARM MTE Performance in Practice (Extended Version)",
       "href": "https://arxiv.org/pdf/2601.11786",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 22
+    },
+    {
+      "title": "Phantom Obligation",
+      "href": "https://terrygodier.com/phantom-obligation",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "Bf-Tree A Modern Concurrent Larger-Than-Memory Range Index",
       "href": "https://github.com/microsoft/bf-tree/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "A \"Pure Go\" Linux environment, written by Claude",
       "href": "https://www.jtolio.com/2026/01/a-pure-go-linux-environment-written-by-claude-directed-by-fabrice-bellard/",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Barev - XMPP flavoured p2p protocol",
-      "href": "https://discourse.imfreedom.org/t/barev-xmpp-flavoured-p2p-protocol/348",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Why you should probably tell your audience what your blog posts are about as early as possible",
-      "href": "https://www.marginalia.nu/log/a_129_finding_audience/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Code review is dead, long live code review",
-      "href": "https://evnm.substack.com/p/code-review-is-dead-long-live-code",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
