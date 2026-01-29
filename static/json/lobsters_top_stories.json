@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, January 29, 2026 at 11:45 AM GMT-5",
+  "date": "Thursday, January 29, 2026 at 12:35 PM GMT-5",
   "articles": [
     {
       "title": "30 years of ReactOS",
@@ -12,7 +12,7 @@
       "title": "Phantom Obligation",
       "href": "https://terrygodier.com/phantom-obligation",
       "points": "",
-      "comments": "\n              12 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 2
     },
     {
@@ -37,17 +37,17 @@
       "index": 5
     },
     {
+      "title": "How to Choose Colors for Your CLI Applications",
+      "href": "https://blog.xoria.org/terminal-colors/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 6
+    },
+    {
       "title": "Announcing winapp, the Windows App Development CLI",
       "href": "https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Looi — A Minimal, Customizable New Tab Page for Firefox, Chrome(with Widgets & GitHub Sync)",
-      "href": "https://github.com/prinzpiuz/looi",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 7
     },
     {
@@ -58,10 +58,10 @@
       "index": 8
     },
     {
-      "title": "make.ts",
-      "href": "https://matklad.github.io/2026/01/27/make-ts.html",
+      "title": "Looi — A Minimal, Customizable New Tab Page for Firefox, Chrome(with Widgets & GitHub Sync)",
+      "href": "https://github.com/prinzpiuz/looi",
       "points": "",
-      "comments": "\n              27 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 9
     },
     {
@@ -72,15 +72,15 @@
       "index": 10
     },
     {
-      "title": "Narwhal: an extensible pub/sub messaging server for edge applications",
-      "href": "https://github.com/narwhal-io/narwhal",
+      "title": "make.ts",
+      "href": "https://matklad.github.io/2026/01/27/make-ts.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              27 comments\n            ",
       "index": 11
     },
     {
-      "title": "History of Greenfield (in-browser Wayland compositor)",
-      "href": "https://wayouttheresoftware.blogspot.com/2023/07/some-history-about-greenfield.html",
+      "title": "Narwhal: an extensible pub/sub messaging server for edge applications",
+      "href": "https://github.com/narwhal-io/narwhal",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 12
@@ -93,87 +93,87 @@
       "index": 13
     },
     {
-      "title": "How to Choose Colors for Your CLI Applications",
-      "href": "https://blog.xoria.org/terminal-colors/",
+      "title": "Bf-Tree A Modern Concurrent Larger-Than-Memory Range Index",
+      "href": "https://github.com/microsoft/bf-tree/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "History of Greenfield (in-browser Wayland compositor)",
+      "href": "https://wayouttheresoftware.blogspot.com/2023/07/some-history-about-greenfield.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust",
       "href": "https://github.com/ariel-os/ariel-os",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Bf-Tree A Modern Concurrent Larger-Than-Memory Range Index",
-      "href": "https://github.com/microsoft/bf-tree/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 16
-    },
-    {
-      "title": "UEFIGame: \"Win -> Boot, Lose -> Shutdown\"",
-      "href": "https://github.com/mycroftsnm/UEFIGame",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 17
-    },
-    {
-      "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
-      "href": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
-      "points": "",
-      "comments": "\n              47 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "The Rise of Sanityware",
-      "href": "https://thatshubham.com/blog/2026.html",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "I Started Identifying Corporate Devices in My Software",
-      "href": "https://lgug2z.com/articles/i-started-identifying-corporate-devices-in-my-software/",
-      "points": "",
-      "comments": "\n              22 comments\n            ",
-      "index": 20
     },
     {
       "title": "Pagelove: Building a better web — for humans and machines",
       "href": "https://page.love/blog/04-the-shape-of-pagelove.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Time Machine inside a FreeBSD jail",
-      "href": "https://it-notes.dragas.net/2026/01/28/time-machine-freebsd-jail/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 22
+      "comments": "\n              1 comment\n            ",
+      "index": 17
     },
     {
       "title": "Category Theory and Inclusivity",
       "href": "https://youtu.be/HVMxSbJPr4g",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "UEFIGame: \"Win -> Boot, Lose -> Shutdown\"",
+      "href": "https://github.com/mycroftsnm/UEFIGame",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 19
+    },
+    {
+      "title": "Beta testing of WebUSBUnpinner - a tool to investigate platform worker's privacy and rights violations",
+      "href": "https://reversing.works/posts/2026/01/help-reversing.works-empower-workers-by-testing-our-tool/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
+      "href": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
+      "points": "",
+      "comments": "\n              47 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "The Rise of Sanityware",
+      "href": "https://thatshubham.com/blog/2026.html",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "I Started Identifying Corporate Devices in My Software",
+      "href": "https://lgug2z.com/articles/i-started-identifying-corporate-devices-in-my-software/",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
       "index": 23
+    },
+    {
+      "title": "Time Machine inside a FreeBSD jail",
+      "href": "https://it-notes.dragas.net/2026/01/28/time-machine-freebsd-jail/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 24
     },
     {
       "title": "Lobsters Vibecoding Challenge (Winter 2025-2026)",
       "href": "https://gist.github.com/MostAwesomeDude/bb8cbfd005a33f5dd262d1f20a63a693",
       "points": "",
       "comments": "\n              70 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "MicroPythonOS - The Ultimate MicroPython Operating System",
-      "href": "https://micropythonos.com/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
