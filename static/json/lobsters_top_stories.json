@@ -1,5 +1,5 @@
 {
-  "date": "Thursday, January 29, 2026 at 8:00 AM GMT-5",
+  "date": "Thursday, January 29, 2026 at 9:00 AM GMT-5",
   "articles": [
     {
       "title": "I still don't understand this SYN attack, but now I can block it easily",
@@ -9,17 +9,17 @@
       "index": 1
     },
     {
-      "title": "30 years of ReactOS",
-      "href": "https://reactos.org/blogs/30yrs-of-ros/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 2
-    },
-    {
       "title": "Zig and the M×N Supply Chain Problem",
       "href": "https://nesbitt.io/2026/01/29/zig-and-the-mxn-supply-chain-problem.html",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "30 years of ReactOS",
+      "href": "https://reactos.org/blogs/30yrs-of-ros/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 3
     },
     {
@@ -30,38 +30,38 @@
       "index": 4
     },
     {
+      "title": "9front \"GEFS SERVICE PACK 1\" released",
+      "href": "https://9front.org/releases/2026/01/24/0/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 5
+    },
+    {
       "title": "\"a bootstrap chain for NixOS which builds the whole system from a small hand-auditable binary seed\"",
       "href": "https://chaos.social/@nzbr/115973847897716839",
       "points": "",
       "comments": "\n              3 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "make.ts",
-      "href": "https://matklad.github.io/2026/01/27/make-ts.html",
-      "points": "",
-      "comments": "\n              27 comments\n            ",
       "index": 6
     },
     {
       "title": "Phantom Obligation",
       "href": "https://terrygodier.com/phantom-obligation",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              11 comments\n            ",
       "index": 7
-    },
-    {
-      "title": "9front \"GEFS SERVICE PACK 1\" released",
-      "href": "https://9front.org/releases/2026/01/24/0/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 8
     },
     {
       "title": "Announcing winapp, the Windows App Development CLI",
       "href": "https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              8 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "make.ts",
+      "href": "https://matklad.github.io/2026/01/27/make-ts.html",
+      "points": "",
+      "comments": "\n              27 comments\n            ",
       "index": 9
     },
     {
@@ -72,73 +72,73 @@
       "index": 10
     },
     {
-      "title": "Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust",
-      "href": "https://github.com/ariel-os/ariel-os",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
-      "href": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
-      "points": "",
-      "comments": "\n              45 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "UEFIGame: \"Win -> Boot, Lose -> Shutdown\"",
-      "href": "https://github.com/mycroftsnm/UEFIGame",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 13
-    },
-    {
       "title": "Looi — A Minimal, Customizable New Tab Page for Firefox, Chrome(with Widgets & GitHub Sync)",
       "href": "https://github.com/prinzpiuz/looi",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 11
     },
     {
       "title": "A simple HTTP tunnel ngrok alternative (2024)",
       "href": "https://github.com/peter-leonov/webhooks-proxy-tunnel",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust",
+      "href": "https://github.com/ariel-os/ariel-os",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
+      "href": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
+      "points": "",
+      "comments": "\n              46 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "UEFIGame: \"Win -> Boot, Lose -> Shutdown\"",
+      "href": "https://github.com/mycroftsnm/UEFIGame",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 15
-    },
-    {
-      "title": "I Started Identifying Corporate Devices in My Software",
-      "href": "https://lgug2z.com/articles/i-started-identifying-corporate-devices-in-my-software/",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Time Machine inside a FreeBSD jail",
-      "href": "https://it-notes.dragas.net/2026/01/28/time-machine-freebsd-jail/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Lobsters Vibecoding Challenge (Winter 2025-2026)",
-      "href": "https://gist.github.com/MostAwesomeDude/bb8cbfd005a33f5dd262d1f20a63a693",
-      "points": "",
-      "comments": "\n              67 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "The Rise of Sanityware",
-      "href": "https://thatshubham.com/blog/2026.html",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 19
     },
     {
       "title": "Bf-Tree A Modern Concurrent Larger-Than-Memory Range Index",
       "href": "https://github.com/microsoft/bf-tree/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 16
+    },
+    {
+      "title": "I Started Identifying Corporate Devices in My Software",
+      "href": "https://lgug2z.com/articles/i-started-identifying-corporate-devices-in-my-software/",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Time Machine inside a FreeBSD jail",
+      "href": "https://it-notes.dragas.net/2026/01/28/time-machine-freebsd-jail/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Lobsters Vibecoding Challenge (Winter 2025-2026)",
+      "href": "https://gist.github.com/MostAwesomeDude/bb8cbfd005a33f5dd262d1f20a63a693",
+      "points": "",
+      "comments": "\n              68 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "The Rise of Sanityware",
+      "href": "https://thatshubham.com/blog/2026.html",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 20
     },
     {
@@ -159,14 +159,14 @@
       "title": "It is incorrect to “normalize” // in HTTP URL paths",
       "href": "https://runxiyu.org/comp/doubleslash/",
       "points": "",
-      "comments": "\n              59 comments\n            ",
+      "comments": "\n              62 comments\n            ",
       "index": 23
     },
     {
       "title": "Use “\\A...\\z”, not “^...$” with Python regular expressions",
       "href": "https://sethmlarson.dev/use-backslash-A-and-z-not-%5E-and-%24-with-python-regular-expressions",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 24
     },
     {
