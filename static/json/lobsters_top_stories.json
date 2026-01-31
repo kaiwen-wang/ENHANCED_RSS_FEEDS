@@ -1,11 +1,11 @@
 {
-  "date": "Saturday, January 31, 2026 at 10:25 AM GMT-5",
+  "date": "Saturday, January 31, 2026 at 11:30 AM GMT-5",
   "articles": [
     {
       "title": "Guix System First Impressions as a Nix User",
       "href": "https://nemin.hu/guix.html",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "The State Of Garnet, 2026",
       "href": "https://wiki.alopex.li/TheStateOfGarnet2026",
       "points": "",
-      "comments": "\n              3 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 3
     },
     {
@@ -37,94 +37,94 @@
       "index": 5
     },
     {
-      "title": "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
-      "href": "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 6
-    },
-    {
       "title": "Automatic programming",
       "href": "https://antirez.com/news/159",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              8 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
+      "href": "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
       "index": 7
+    },
+    {
+      "title": "Manual programming",
+      "href": "https://illegalcode.net/rfcs/manual_programming.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 8
     },
     {
       "title": "Coding Is When We’re Least Productive",
       "href": "https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 8
+      "index": 9
     },
     {
       "title": "Subtypes and status-dependent data: pure relational approach",
       "href": "https://minimalmodeling.substack.com/p/subtypes-and-status-dependent-data",
       "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 9
+      "comments": "\n              9 comments\n            ",
+      "index": 10
     },
     {
       "title": "Backseat Software",
       "href": "https://blog.mikeswanson.com/backseat-software/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 10
+      "comments": "\n              16 comments\n            ",
+      "index": 11
     },
     {
       "title": "No, Cloudflare's Matrix server isn't an earnest project",
       "href": "https://nexy.blog/2026/01/28/cf-matrix-workers/",
       "points": "",
       "comments": "\n              20 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "Six Simple Sudoku Solvers: Prolog",
       "href": "https://blog.veitheller.de/Six_Simple_Sudoku_Solvers_III:_Prolog.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "How AI Impacts Skill Formation",
-      "href": "https://arxiv.org/abs/2601.20245",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 13
-    },
-    {
-      "title": "The imminent risk of vibe coding",
-      "href": "https://basta.substack.com/p/the-imminent-risk-of-vibe-coding",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Building a browser API in one shot",
-      "href": "https://nolanlawson.com/2026/01/31/building-a-browser-api-in-one-shot/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Book of Verse",
-      "href": "https://verselang.github.io/book/",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Trustworthy Technology",
-      "href": "https://aol.codeberg.page/eci/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
     },
     {
       "title": "Simple Sudoku Solvers: Dyalog APL",
       "href": "https://blog.veitheller.de/Simple_Sudoku_Solvers_SII,_EI:_Dyalog_APL.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "How AI Impacts Skill Formation",
+      "href": "https://arxiv.org/abs/2601.20245",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "The imminent risk of vibe coding",
+      "href": "https://basta.substack.com/p/the-imminent-risk-of-vibe-coding",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Building a browser API in one shot",
+      "href": "https://nolanlawson.com/2026/01/31/building-a-browser-api-in-one-shot/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Book of Verse",
+      "href": "https://verselang.github.io/book/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
       "index": 18
     },
     {
@@ -135,17 +135,17 @@
       "index": 19
     },
     {
+      "title": "Trustworthy Technology",
+      "href": "https://aol.codeberg.page/eci/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 20
+    },
+    {
       "title": "GNU Units",
       "href": "https://www.gnu.org/software/units/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Manual programming",
-      "href": "https://illegalcode.net/rfcs/manual_programming.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
