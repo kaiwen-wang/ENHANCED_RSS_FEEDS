@@ -1,53 +1,53 @@
 {
-  "date": "Saturday, January 31, 2026 at 7:50 AM GMT-5",
+  "date": "Saturday, January 31, 2026 at 8:40 AM GMT-5",
   "articles": [
     {
       "title": "Guix System First Impressions as a Nix User",
       "href": "https://nemin.hu/guix.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 1
+    },
+    {
+      "title": "FOSDEM 2026 - Live Streaming",
+      "href": "https://fosdem.org/2026/schedule/streaming/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 2
     },
     {
       "title": "Email experiments: filtering out external images",
       "href": "https://www.terracrypt.net/posts/email-experiments-image-filtering.html",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 2
+      "index": 3
     },
     {
       "title": "The State Of Garnet, 2026",
       "href": "https://wiki.alopex.li/TheStateOfGarnet2026",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 3
-    },
-    {
-      "title": "FOSDEM 2026 - Live Streaming",
-      "href": "https://fosdem.org/2026/schedule/streaming/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 4
     },
     {
       "title": "Some Data Should Be Code",
       "href": "https://borretti.me/article/some-data-should-be-code",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 5
+    },
+    {
+      "title": "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
+      "href": "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 6
     },
     {
       "title": "Coding Is When We’re Least Productive",
       "href": "https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
-      "href": "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
       "index": 7
     },
     {
@@ -79,85 +79,85 @@
       "index": 11
     },
     {
+      "title": "The imminent risk of vibe coding",
+      "href": "https://basta.substack.com/p/the-imminent-risk-of-vibe-coding",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 12
+    },
+    {
       "title": "Book of Verse",
       "href": "https://verselang.github.io/book/",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 12
+      "index": 13
     },
     {
-      "title": "The imminent risk of vibe coding",
-      "href": "https://basta.substack.com/p/the-imminent-risk-of-vibe-coding",
+      "title": "Trustworthy Technology",
+      "href": "https://aol.codeberg.page/eci/",
       "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 13
+      "comments": "\n              no comments\n            ",
+      "index": 14
     },
     {
       "title": "Six Simple Sudoku Solvers: Prolog",
       "href": "https://blog.veitheller.de/Six_Simple_Sudoku_Solvers_III:_Prolog.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "Simple Sudoku Solvers: Dyalog APL",
       "href": "https://blog.veitheller.de/Simple_Sudoku_Solvers_SII,_EI:_Dyalog_APL.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "GNU Units",
       "href": "https://www.gnu.org/software/units/",
       "points": "",
       "comments": "\n              14 comments\n            ",
-      "index": 16
+      "index": 17
     },
     {
       "title": "Automatic programming",
       "href": "https://antirez.com/news/159",
       "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 17
+      "comments": "\n              3 comments\n            ",
+      "index": 18
     },
     {
       "title": "What are you doing this weekend?",
       "href": "/s/p3nxq9/what_are_you_doing_this_weekend",
       "points": "",
       "comments": "\n              48 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "pydoit",
       "href": "https://pydoit.org",
       "points": "",
       "comments": "\n              4 comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Google Disrupts Large Residential Proxy Network",
       "href": "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network",
       "points": "",
       "comments": "\n              8 comments\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Reference Target: having your encapsulation and eating it too",
       "href": "https://blogs.igalia.com/alice/reference-target-having-your-encapsulation-and-eating-it-too/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "qeep: Deep Learning framework in Go with Tensors, AutoGrad, and GPU acceleration",
       "href": "https://github.com/sahandsafizadeh/qeep",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Trustworthy Technology",
-      "href": "https://aol.codeberg.page/eci/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 23
@@ -173,7 +173,7 @@
       "title": "The Dank Case For Scrolling Window Managers",
       "href": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
       "points": "",
-      "comments": "\n              19 comments\n            ",
+      "comments": "\n              20 comments\n            ",
       "index": 25
     }
   ]
