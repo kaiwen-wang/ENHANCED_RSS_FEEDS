@@ -1,39 +1,39 @@
 {
-  "date": "Sunday, February 1, 2026 at 9:25 AM GMT-5",
+  "date": "Sunday, February 1, 2026 at 10:25 AM GMT-5",
   "articles": [
     {
       "title": "In Praise of –dry-run",
       "href": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 1
     },
     {
       "title": "Guix System First Impressions as a Nix User",
       "href": "https://nemin.hu/guix.html",
       "points": "",
-      "comments": "\n              22 comments\n            ",
+      "comments": "\n              23 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "git-cola: The highly caffeinated Git GUI",
-      "href": "https://github.com/git-cola/git-cola",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 3
-    },
-    {
-      "title": "The surprising attention on sprites, exe.dev, and shellbox",
-      "href": "https://lalitm.com/trying-sprites-exedev-shellbox/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 4
     },
     {
       "title": "Coding Agent VMs on NixOS with microvm.nix",
       "href": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "git-cola: The highly caffeinated Git GUI",
+      "href": "https://github.com/git-cola/git-cola",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "The surprising attention on sprites, exe.dev, and shellbox",
+      "href": "https://lalitm.com/trying-sprites-exedev-shellbox/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 5
     },
     {
@@ -44,52 +44,52 @@
       "index": 6
     },
     {
+      "title": "A way to run Ansible 2.19 on old operating systems like Ubuntu 18.04 with working Apt",
+      "href": "https://raymii.org/s/blog/Ansible_2.19_on_old_ubuntu_18.04_with_working_apt.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 7
+    },
+    {
+      "title": "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
+      "href": "https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "Ashby taught us we have to fight fire with fire",
       "href": "https://surfingcomplexity.blog/2026/01/31/ashby-taught-us-we-have-to-fight-fire-with-fire/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 7
+      "index": 9
     },
     {
       "title": "Ship Your Toolchain, Not Just Infrastructure",
       "href": "https://www.maxdaten.io/2026-01-31-ship-your-toolchain-not-just-infrastructure",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 8
-    },
-    {
-      "title": "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
-      "href": "https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Pi: The Minimal Agent Within OpenClaw",
       "href": "https://lucumr.pocoo.org/2026/1/31/pi/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 10
-    },
-    {
-      "title": "A way to run Ansible 2.19 on old operating systems like Ubuntu 18.04 with working Apt",
-      "href": "https://raymii.org/s/blog/Ansible_2.19_on_old_ubuntu_18.04_with_working_apt.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Outsourcing thinking",
-      "href": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
-      "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 12
+      "index": 11
     },
     {
       "title": "Contracts in Nix",
       "href": "https://sraka.xyz/posts/contracts.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Outsourcing thinking",
+      "href": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 13
     },
     {
@@ -163,17 +163,17 @@
       "index": 23
     },
     {
-      "title": "Some Data Should Be Code",
-      "href": "https://borretti.me/article/some-data-should-be-code",
-      "points": "",
-      "comments": "\n              24 comments\n            ",
-      "index": 24
-    },
-    {
       "title": "Libreboot 26.01 “Magnanimous Max” released",
       "href": "https://libreboot.org/news/libreboot2601.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "Some Data Should Be Code",
+      "href": "https://borretti.me/article/some-data-should-be-code",
+      "points": "",
+      "comments": "\n              25 comments\n            ",
       "index": 25
     }
   ]
