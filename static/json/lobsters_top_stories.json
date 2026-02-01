@@ -1,5 +1,5 @@
 {
-  "date": "Sunday, February 1, 2026 at 12:00 AM GMT-5",
+  "date": "Sunday, February 1, 2026 at 1:50 AM GMT-5",
   "articles": [
     {
       "title": "Guix System First Impressions as a Nix User",
@@ -16,24 +16,24 @@
       "index": 2
     },
     {
-      "title": "Pi: The Minimal Agent Within OpenClaw",
-      "href": "https://lucumr.pocoo.org/2026/1/31/pi/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 3
-    },
-    {
       "title": "In Praise of –dry-run",
       "href": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 4
+      "index": 3
     },
     {
       "title": "Outsourcing thinking",
       "href": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 4
+    },
+    {
+      "title": "Pi: The Minimal Agent Within OpenClaw",
+      "href": "https://lucumr.pocoo.org/2026/1/31/pi/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 5
     },
     {
@@ -44,52 +44,52 @@
       "index": 6
     },
     {
+      "title": "Automatic programming",
+      "href": "https://antirez.com/news/159",
+      "points": "",
+      "comments": "\n              20 comments\n            ",
+      "index": 7
+    },
+    {
       "title": "The State Of Garnet, 2026",
       "href": "https://wiki.alopex.li/TheStateOfGarnet2026",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
-      "title": "Automatic programming",
-      "href": "https://antirez.com/news/159",
+      "title": "git-cola: The highly caffeinated Git GUI",
+      "href": "https://github.com/git-cola/git-cola",
       "points": "",
-      "comments": "\n              19 comments\n            ",
-      "index": 8
+      "comments": "\n              no comments\n            ",
+      "index": 9
     },
     {
       "title": "Faster package builds using Icecream and a Mac",
       "href": "https://iovec.net/2026-01-26",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "Some Data Should Be Code",
       "href": "https://borretti.me/article/some-data-should-be-code",
       "points": "",
       "comments": "\n              23 comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "Andreessen’s Folly - The False Dichotomy of Software and Hardware",
       "href": "https://www.youtube.com/watch?v=v0JjG0Qfwi8",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "This year in LLVM (2025)",
-      "href": "https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 12
     },
     {
-      "title": "Email experiments: filtering out external images",
-      "href": "https://www.terracrypt.net/posts/email-experiments-image-filtering.html",
+      "title": "A 9M-parameter Mandarin pronunciation tutor",
+      "href": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
       "points": "",
-      "comments": "\n              17 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 13
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
-      "title": "A 9M-parameter Mandarin pronunciation tutor",
-      "href": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+      "title": "This year in LLVM (2025)",
+      "href": "https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 15
     },
     {
-      "title": "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
-      "href": "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/",
+      "title": "Email experiments: filtering out external images",
+      "href": "https://www.terracrypt.net/posts/email-experiments-image-filtering.html",
       "points": "",
-      "comments": "\n              22 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 16
-    },
-    {
-      "title": "git-cola: The highly caffeinated Git GUI",
-      "href": "https://github.com/git-cola/git-cola",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
     },
     {
       "title": "How Apple Hooks Fifty Thousand Methods",
       "href": "https://www.youtube.com/watch?v=SuQGQ1vh9k0",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
+      "title": "Solving Package Management via Hypergraph Dependency Resolution",
+      "href": "https://arxiv.org/pdf/2506.10803",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 18
+    },
+    {
+      "title": "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
+      "href": "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
+      "index": 19
     },
     {
       "title": "Improving Unnesting of Complex Queries",
       "href": "https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
     },
     {
       "title": "Six Simple Sudoku Solvers: Prolog",
       "href": "https://blog.veitheller.de/Six_Simple_Sudoku_Solvers_III:_Prolog.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 21
     },
     {
       "title": "Building a browser API in one shot",
       "href": "https://nolanlawson.com/2026/01/31/building-a-browser-api-in-one-shot/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Coding Is When We’re Least Productive",
       "href": "https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/",
       "points": "",
       "comments": "\n              22 comments\n            ",
-      "index": 22
+      "index": 23
     },
     {
       "title": "Simple Sudoku Solvers: Dyalog APL",
       "href": "https://blog.veitheller.de/Simple_Sudoku_Solvers_SII,_EI:_Dyalog_APL.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 23
+      "index": 24
     },
     {
       "title": "pydoit",
       "href": "https://pydoit.org",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "The imminent risk of vibe coding",
-      "href": "https://basta.substack.com/p/the-imminent-risk-of-vibe-coding",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 25
     }
   ]
