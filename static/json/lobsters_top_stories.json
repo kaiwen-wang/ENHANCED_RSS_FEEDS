@@ -1,32 +1,32 @@
 {
-  "date": "Sunday, February 1, 2026 at 7:50 AM GMT-5",
+  "date": "Sunday, February 1, 2026 at 8:45 AM GMT-5",
   "articles": [
     {
       "title": "In Praise of –dry-run",
       "href": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 1
     },
     {
       "title": "Guix System First Impressions as a Nix User",
       "href": "https://nemin.hu/guix.html",
       "points": "",
-      "comments": "\n              20 comments\n            ",
+      "comments": "\n              22 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "The surprising attention on sprites, exe.dev, and shellbox",
-      "href": "https://lalitm.com/trying-sprites-exedev-shellbox/",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 3
     },
     {
       "title": "Coding Agent VMs on NixOS with microvm.nix",
       "href": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "The surprising attention on sprites, exe.dev, and shellbox",
+      "href": "https://lalitm.com/trying-sprites-exedev-shellbox/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 4
     },
     {
@@ -37,78 +37,78 @@
       "index": 5
     },
     {
-      "title": "Outsourcing thinking",
-      "href": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 6
-    },
-    {
       "title": "Solving Package Management via Hypergraph Dependency Resolution",
       "href": "https://arxiv.org/pdf/2506.10803",
       "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 7
+      "comments": "\n              1 comment\n            ",
+      "index": 6
     },
     {
       "title": "Pi: The Minimal Agent Within OpenClaw",
       "href": "https://lucumr.pocoo.org/2026/1/31/pi/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
+      "index": 7
+    },
+    {
+      "title": "Outsourcing thinking",
+      "href": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "Ship Your Toolchain, Not Just Infrastructure",
+      "href": "https://www.maxdaten.io/2026-01-31-ship-your-toolchain-not-just-infrastructure",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 9
     },
     {
       "title": "This year in LLVM (2025)",
       "href": "https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 9
+      "index": 10
     },
     {
-      "title": "Ship Your Toolchain, Not Just Infrastructure",
-      "href": "https://www.maxdaten.io/2026-01-31-ship-your-toolchain-not-just-infrastructure",
+      "title": "Contracts in Nix",
+      "href": "https://sraka.xyz/posts/contracts.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 10
+      "index": 11
     },
     {
       "title": "FOSDEM 2026 - Live Streaming",
       "href": "https://fosdem.org/2026/schedule/streaming/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 11
+      "index": 12
     },
     {
       "title": "How Apple Hooks Fifty Thousand Methods",
       "href": "https://www.youtube.com/watch?v=SuQGQ1vh9k0",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 12
+      "index": 13
     },
     {
       "title": "A way to run Ansible 2.19 on old operating systems like Ubuntu 18.04 with working Apt",
       "href": "https://raymii.org/s/blog/Ansible_2.19_on_old_ubuntu_18.04_with_working_apt.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Andreessen’s Folly - The False Dichotomy of Software and Hardware",
       "href": "https://www.youtube.com/watch?v=v0JjG0Qfwi8",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 14
+      "index": 15
     },
     {
       "title": "CG/SQL - SQL dialect compiler to C for sqlite3 mimicking stored procedures",
       "href": "https://ricomariani.github.io/CG-SQL-author/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Contracts in Nix",
-      "href": "https://sraka.xyz/posts/contracts.html",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 16
@@ -121,59 +121,59 @@
       "index": 17
     },
     {
+      "title": "The State Of Garnet, 2026",
+      "href": "https://wiki.alopex.li/TheStateOfGarnet2026",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
+      "href": "https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
       "title": "Automatic programming",
       "href": "https://antirez.com/news/159",
       "points": "",
       "comments": "\n              21 comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
-      "title": "The State Of Garnet, 2026",
-      "href": "https://wiki.alopex.li/TheStateOfGarnet2026",
+      "title": "How to Scale a System from 0 to 10 million+ Users",
+      "href": "https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users",
       "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 19
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Code signing Windows apps with Azure Artifact service",
+      "href": "https://devclass.com/2026/01/14/code-signing-windows-apps-may-be-easier-and-more-secure-with-new-azure-artifact-service/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
     },
     {
       "title": "A 9M-parameter Mandarin pronunciation tutor",
       "href": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 20
+      "index": 23
     },
     {
       "title": "Some Data Should Be Code",
       "href": "https://borretti.me/article/some-data-should-be-code",
       "points": "",
       "comments": "\n              24 comments\n            ",
-      "index": 21
+      "index": 24
     },
     {
       "title": "Libreboot 26.01 “Magnanimous Max” released",
       "href": "https://libreboot.org/news/libreboot2601.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Building Modern Databases with the FDAP Stack",
-      "href": "https://gotopia.tech/articles/412/building-modern-databases-with-the-fdap-stack",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Email experiments: filtering out external images",
-      "href": "https://www.terracrypt.net/posts/email-experiments-image-filtering.html",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
-      "href": "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/",
-      "points": "",
-      "comments": "\n              25 comments\n            ",
       "index": 25
     }
   ]
