@@ -1,32 +1,32 @@
 {
-  "date": "Monday, February 2, 2026 at 4:50 AM GMT-5",
+  "date": "Monday, February 2, 2026 at 5:45 AM GMT-5",
   "articles": [
     {
       "title": "Notepad++ Hijacked by State-Sponsored Hackers",
       "href": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 1
     },
     {
       "title": "archive.today is directing a DDOS attack against my blog",
       "href": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
+      "comments": "\n              19 comments\n            ",
       "index": 2
     },
     {
       "title": "My (very) fast zero-allocation webserver using OxCaml",
       "href": "https://anil.recoil.org/notes/oxcaml-httpz",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 3
     },
     {
       "title": "Defeating a 40-year-old copy protection dongle",
       "href": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 4
     },
     {
@@ -40,35 +40,35 @@
       "title": "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
       "href": "https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/",
       "points": "",
-      "comments": "\n              40 comments\n            ",
+      "comments": "\n              41 comments\n            ",
       "index": 6
-    },
-    {
-      "title": "Selfish AI",
-      "href": "https://www.garfieldtech.com/blog/selfish-ai",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 7
     },
     {
       "title": "The Disconnected Git Workflow",
       "href": "https://ploum.net/2026-01-31-offline-git-send-email.html",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 8
+      "index": 7
     },
     {
       "title": "Vibe: Easy VM sandboxes for LLM agents on MacOS",
       "href": "https://github.com/lynaghk/vibe/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 9
+      "index": 8
     },
     {
       "title": "Resurrecting Crimsonland",
       "href": "https://banteg.xyz/posts/crimsonland/",
       "points": "",
       "comments": "\n              2 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "Ending 15 years of subprocess polling",
+      "href": "https://gmpy.dev/blog/2026/event-driven-process-waiting",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 10
     },
     {
@@ -79,17 +79,17 @@
       "index": 11
     },
     {
-      "title": "Ending 15 years of subprocess polling",
-      "href": "https://gmpy.dev/blog/2026/event-driven-process-waiting",
+      "title": "Compiling Rust to readable C with Eurydice",
+      "href": "https://lwn.net/SubscriberLink/1055211/6f51ebe751ce69a9/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 12
     },
     {
-      "title": "Compiling Rust to readable C with Eurydice",
-      "href": "https://lwn.net/SubscriberLink/1055211/6f51ebe751ce69a9/",
+      "title": "Building blocks for peer-to-peer applications",
+      "href": "https://p2panda.org/",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 13
     },
     {
@@ -100,10 +100,10 @@
       "index": 14
     },
     {
-      "title": "Building blocks for peer-to-peer applications",
-      "href": "https://p2panda.org/",
+      "title": "Trust in Ranking",
+      "href": "https://www.marginalia.nu/log/a_130_trust_in_ranking/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 15
     },
     {
@@ -114,66 +114,66 @@
       "index": 16
     },
     {
+      "title": "Selfish AI",
+      "href": "https://www.garfieldtech.com/blog/selfish-ai",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 17
+    },
+    {
       "title": "Coding Agent VMs on NixOS with microvm.nix",
       "href": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 17
+      "index": 18
     },
     {
       "title": "In Praise of –dry-run",
       "href": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 18
+      "index": 19
     },
     {
       "title": "Programming Principles in the Age of AI: DRY",
       "href": "https://kirilltolmachev.dev/is-dry-dying",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 19
-    },
-    {
-      "title": "Audio on hp300",
-      "href": "http://miod.online.fr/software/openbsd/stories/arcofi.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 20
-    },
-    {
-      "title": "Converting floats to strings quickly",
-      "href": "https://lemire.me/blog/2026/02/01/converting-floats-to-strings-quickly/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "A way to run Ansible 2.19 on old operating systems like Ubuntu 18.04 with working Apt",
-      "href": "https://raymii.org/s/blog/Ansible_2.19_on_old_ubuntu_18.04_with_working_apt.html",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "TablaM",
-      "href": "https://www.tablam.org",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
     },
     {
       "title": "Remarkable Pro Colors",
       "href": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 24
+      "index": 21
+    },
+    {
+      "title": "Audio on hp300",
+      "href": "http://miod.online.fr/software/openbsd/stories/arcofi.html",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 22
+    },
+    {
+      "title": "Converting floats to strings quickly",
+      "href": "https://lemire.me/blog/2026/02/01/converting-floats-to-strings-quickly/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 23
     },
     {
       "title": "This year, I will write a GUI for my Emacs clone",
       "href": "https://kyo.iroiro.party/en/posts/this-year-a-shitty-gui/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "A way to run Ansible 2.19 on old operating systems like Ubuntu 18.04 with working Apt",
+      "href": "https://raymii.org/s/blog/Ansible_2.19_on_old_ubuntu_18.04_with_working_apt.html",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
       "index": 25
     }
   ]
