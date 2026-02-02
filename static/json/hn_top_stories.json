@@ -1,214 +1,214 @@
 {
-  "date": "Monday, February 2, 2026 at 8:00 AM GMT-5",
+  "date": "Monday, February 2, 2026 at 9:40 AM GMT-5",
   "articles": [
     {
-      "title": "Termux",
-      "href": "https://github.com/termux/termux-app",
-      "points": "64 points",
-      "comments": "25 comments",
+      "title": "Nano-vLLM: How a vLLM-style inference engine works",
+      "href": "https://neutree.ai/blog/nano-vllm-part-1",
+      "points": "40 points",
+      "comments": "1 comment",
       "index": 1
+    },
+    {
+      "title": "Adboost: A browser extension that adds ads to every webpage",
+      "href": "https://github.com/surprisetalk/AdBoost",
+      "points": "28 points",
+      "comments": "29 comments",
+      "index": 2
     },
     {
       "title": "Defeating a 40-year-old copy protection dongle",
       "href": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "points": "637 points",
-      "comments": "187 comments",
-      "index": 2
+      "points": "680 points",
+      "comments": "206 comments",
+      "index": 3
+    },
+    {
+      "title": "My fast zero-allocation webserver using OxCaml",
+      "href": "https://anil.recoil.org/notes/oxcaml-httpz",
+      "points": "42 points",
+      "comments": "8 comments",
+      "index": 4
+    },
+    {
+      "title": "Termux",
+      "href": "https://github.com/termux/termux-app",
+      "points": "174 points",
+      "comments": "88 comments",
+      "index": 5
+    },
+    {
+      "title": "Hypergrowth isn’t always easy",
+      "href": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
+      "points": "26 points",
+      "comments": "11 comments",
+      "index": 6
+    },
+    {
+      "title": "MaliciousCorgi: AI Extensions send your code to China",
+      "href": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
+      "points": "29 points",
+      "comments": "27 comments",
+      "index": 7
     },
     {
       "title": "Claude Code is suddenly everywhere inside Microsoft",
       "href": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "points": "36 points",
-      "comments": "18 comments",
-      "index": 3
-    },
-    {
-      "title": "My (very) fast zero-allocation webserver using OxCaml",
-      "href": "https://anil.recoil.org/notes/oxcaml-httpz",
-      "points": "13 points",
-      "comments": "2 comments",
-      "index": 4
+      "points": "70 points",
+      "comments": "62 comments",
+      "index": 8
     },
     {
       "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
       "href": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-      "points": "333 points",
-      "comments": "152 comments",
-      "index": 5
+      "points": "357 points",
+      "comments": "168 comments",
+      "index": 9
     },
     {
       "title": "Apple's MacBook Pro DFU port documentation is wrong",
       "href": "https://lapcatsoftware.com/articles/2026/2/1.html",
-      "points": "128 points",
-      "comments": "38 comments",
-      "index": 6
-    },
-    {
-      "title": "Applications where agents are first-class citizens",
-      "href": "https://every.to/guides/agent-native",
-      "points": "17 points",
-      "comments": "16 comments",
-      "index": 7
+      "points": "146 points",
+      "comments": "57 comments",
+      "index": 10
     },
     {
       "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
       "href": "https://github.com/rustrum/apate",
-      "points": "8 points",
-      "comments": "3 comments",
-      "index": 8
+      "points": "18 points",
+      "comments": "8 comments",
+      "index": 11
     },
     {
-      "title": "Ratchets in Software Development",
+      "title": "Ratchets in software development (2021)",
       "href": "https://qntm.org/ratchet",
-      "points": "53 points",
-      "comments": "19 comments",
-      "index": 9
+      "points": "74 points",
+      "comments": "24 comments",
+      "index": 12
     },
     {
       "title": "Show HN: Wikipedia as a doomscrollable social media feed",
       "href": "https://xikipedia.org",
-      "points": "266 points",
-      "comments": "99 comments",
-      "index": 10
+      "points": "301 points",
+      "comments": "111 comments",
+      "index": 13
     },
     {
       "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
       "href": "https://github.com/gavrielc/nanoclaw",
-      "points": "411 points",
-      "comments": "151 comments",
-      "index": 11
-    },
-    {
-      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
-      "href": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
-      "points": "97 points",
-      "comments": "47 comments",
-      "index": 12
-    },
-    {
-      "title": "Contracts in Nix",
-      "href": "https://sraka.xyz/posts/contracts.html",
-      "points": "70 points",
-      "comments": "16 comments",
-      "index": 13
-    },
-    {
-      "title": "Apple I Advertisement (1976)",
-      "href": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "points": "246 points",
-      "comments": "134 comments",
+      "points": "441 points",
+      "comments": "157 comments",
       "index": 14
     },
     {
-      "title": "Adventure Game Studio: OSS software for creating adventure games",
-      "href": "https://www.adventuregamestudio.co.uk/",
-      "points": "344 points",
-      "comments": "70 comments",
+      "title": "Library of Juggling",
+      "href": "https://libraryofjuggling.com/",
+      "points": "41 points",
+      "comments": "5 comments",
       "index": 15
     },
     {
       "title": "Ian's Shoelace Site",
       "href": "https://www.fieggen.com/shoelace/",
-      "points": "215 points",
-      "comments": "38 comments",
+      "points": "269 points",
+      "comments": "42 comments",
       "index": 16
+    },
+    {
+      "title": "Best Gas Masks",
+      "href": "https://www.theverge.com/policy/868571/best-gas-masks",
+      "points": "222 points",
+      "comments": "50 comments",
+      "index": 17
+    },
+    {
+      "title": "Contracts in Nix",
+      "href": "https://sraka.xyz/posts/contracts.html",
+      "points": "79 points",
+      "comments": "16 comments",
+      "index": 18
+    },
+    {
+      "title": "Apple I Advertisement (1976)",
+      "href": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
+      "points": "254 points",
+      "comments": "138 comments",
+      "index": 19
+    },
+    {
+      "title": "Adventure Game Studio: OSS software for creating adventure games",
+      "href": "https://www.adventuregamestudio.co.uk/",
+      "points": "354 points",
+      "comments": "77 comments",
+      "index": 20
+    },
+    {
+      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
+      "href": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
+      "points": "106 points",
+      "comments": "53 comments",
+      "index": 21
     },
     {
       "title": "EU launches government satcom program in sovereignty push",
       "href": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
-      "points": "59 points",
-      "comments": "28 comments",
-      "index": 17
+      "points": "89 points",
+      "comments": "46 comments",
+      "index": 22
     },
     {
-      "title": "Hypergrowth isn't always easy",
-      "href": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
-      "points": "3 points",
-      "comments": "2 comments",
-      "index": 18
-    },
-    {
-      "title": "Treasures found on HS2 route stored in secret warehouse",
-      "href": "https://www.bbc.com/news/articles/c93v21q5xdvo",
-      "points": "76 points",
-      "comments": "42 comments",
-      "index": 19
-    },
-    {
-      "title": "Library of Juggling",
-      "href": "https://libraryofjuggling.com/",
-      "points": "16 points",
-      "comments": "2 comments",
-      "index": 20
-    },
-    {
-      "title": "Rev Up the Viral Factories",
+      "title": "Rev up the viral factories",
       "href": "https://www.science.org/content/blog-post/rev-viral-factories",
-      "points": "21 points",
+      "points": "29 points",
       "comments": "1 comment",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
       "href": "https://www.wired.com/story/the-red-bull-leaks/",
-      "points": "158 points",
-      "comments": "85 comments",
-      "index": 22
+      "points": "195 points",
+      "comments": "102 comments",
+      "index": 24
     },
     {
       "title": "Building Your Own Efficient uint128 in C++",
       "href": "https://solidean.com/blog/2026/building-your-own-u128/",
-      "points": "90 points",
-      "comments": "35 comments",
-      "index": 23
-    },
-    {
-      "title": "Efficient String Compression for Modern Database Systems",
-      "href": "https://cedardb.com/blog/string_compression/",
-      "points": "138 points",
-      "comments": "34 comments",
-      "index": 24
-    },
-    {
-      "title": "High performance, open source RAFT clustered database: RooDB",
-      "href": "https://github.com/jgarzik/roodb",
-      "points": "7 points",
-      "comments": "discuss",
+      "points": "96 points",
+      "comments": "41 comments",
       "index": 25
-    },
-    {
-      "title": "Board Games in Ancient Fiction: Egypt, Iran, Greece",
-      "href": "https://reference-global.com/article/10.2478/bgs-2022-0016",
-      "points": "16 points",
-      "comments": "3 comments",
-      "index": 26
-    },
-    {
-      "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
-      "href": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
-      "points": "227 points",
-      "comments": "93 comments",
-      "index": 27
-    },
-    {
-      "title": "Two kinds of AI users are emerging",
-      "href": "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/",
-      "points": "244 points",
-      "comments": "224 comments",
-      "index": 28
     },
     {
       "title": "Microsoft is walking back Windows 11's AI overload",
       "href": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
-      "points": "52 points",
-      "comments": "50 comments",
+      "points": "99 points",
+      "comments": "134 comments",
+      "index": 26
+    },
+    {
+      "title": "Board Games in Ancient Fiction: Egypt, Iran, Greece",
+      "href": "https://reference-global.com/article/10.2478/bgs-2022-0016",
+      "points": "26 points",
+      "comments": "8 comments",
+      "index": 27
+    },
+    {
+      "title": "Efficient String Compression for Modern Database Systems",
+      "href": "https://cedardb.com/blog/string_compression/",
+      "points": "141 points",
+      "comments": "39 comments",
+      "index": 28
+    },
+    {
+      "title": "Two kinds of AI users are emerging",
+      "href": "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/",
+      "points": "267 points",
+      "comments": "249 comments",
       "index": 29
     },
     {
-      "title": "Founding is a snowball",
-      "href": "https://blog.bawolf.com/p/founding-is-a-snowball",
-      "points": "94 points",
-      "comments": "32 comments",
+      "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
+      "href": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
+      "points": "236 points",
+      "comments": "98 comments",
       "index": 30
     }
   ]
