@@ -1,18 +1,18 @@
 {
-  "date": "Monday, February 2, 2026 at 11:40 AM GMT-5",
+  "date": "Monday, February 2, 2026 at 12:40 PM GMT-5",
   "articles": [
     {
       "title": "Notepad++ Hijacked by State-Sponsored Hackers",
       "href": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
       "points": "",
-      "comments": "\n              27 comments\n            ",
+      "comments": "\n              29 comments\n            ",
       "index": 1
     },
     {
       "title": "Technology: The (nearly) perfect USB cable tester does exist",
       "href": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 2
     },
     {
@@ -23,59 +23,59 @@
       "index": 3
     },
     {
+      "title": "Defeating a 40-year-old copy protection dongle",
+      "href": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 4
+    },
+    {
       "title": "Migrating to GTK3 – Re: Factor",
       "href": "https://re.factorcode.org/2025/12/migrating-to-gtk3.html",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Defeating a 40-year-old copy protection dongle",
-      "href": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 5
-    },
-    {
-      "title": "archive.today is directing a DDOS attack against my blog",
-      "href": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
-      "points": "",
-      "comments": "\n              20 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "My (very) fast zero-allocation webserver using OxCaml",
-      "href": "https://anil.recoil.org/notes/oxcaml-httpz",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "Vibe: Easy VM sandboxes for LLM agents on MacOS",
-      "href": "https://github.com/lynaghk/vibe/",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "My experience with vibe coding",
-      "href": "https://haskellforall.com/2026/02/my-experience-with-vibe-coding",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Ending 15 years of subprocess polling",
-      "href": "https://gmpy.dev/blog/2026/event-driven-process-waiting",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 10
     },
     {
       "title": "Intro to CSTML (or: XML meets JSON)",
       "href": "https://docs.bablr.org/guides/cstml/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Vibe: Easy VM sandboxes for LLM agents on MacOS",
+      "href": "https://github.com/lynaghk/vibe/",
+      "points": "",
+      "comments": "\n              8 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "Ending 15 years of subprocess polling",
+      "href": "https://gmpy.dev/blog/2026/event-driven-process-waiting",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "archive.today is directing a DDOS attack against my blog",
+      "href": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
+      "points": "",
+      "comments": "\n              20 comments\n            ",
+      "index": 9
+    },
+    {
+      "title": "My experience with vibe coding",
+      "href": "https://haskellforall.com/2026/02/my-experience-with-vibe-coding",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "My (very) fast zero-allocation webserver using OxCaml",
+      "href": "https://anil.recoil.org/notes/oxcaml-httpz",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 11
     },
     {
@@ -89,42 +89,42 @@
       "title": "What are you doing this week?",
       "href": "/s/qgioeo/what_are_you_doing_this_week",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 13
+    },
+    {
+      "title": "AI Coding Assistants Secretly Copying All Code to China",
+      "href": "https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "MaliciousCorgi: The Cute-Looking AI Extensions Leaking Code from 1.5 Million Developers",
+      "href": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
     },
     {
       "title": "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
       "href": "https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/",
       "points": "",
       "comments": "\n              56 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Resurrecting Crimsonland",
-      "href": "https://banteg.xyz/posts/crimsonland/",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "Compiling Rust to readable C with Eurydice",
       "href": "https://lwn.net/SubscriberLink/1055211/6f51ebe751ce69a9/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Lambda cube",
-      "href": "https://en.wikipedia.org/wiki/Lambda_cube",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
-      "title": "Forget technical debt",
-      "href": "https://www.ufried.com/blog/forget_technical_debt/",
+      "title": "Resurrecting Crimsonland",
+      "href": "https://banteg.xyz/posts/crimsonland/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              4 comments\n            ",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
-      "title": "AI Coding Assistants Secretly Copying All Code to China",
-      "href": "https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html",
+      "title": "Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls Wrong",
+      "href": "https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026",
       "points": "",
       "comments": "\n              2 comments\n            ",
       "index": 20
     },
     {
+      "title": "Forget technical debt",
+      "href": "https://www.ufried.com/blog/forget_technical_debt/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Lambda cube",
+      "href": "https://en.wikipedia.org/wiki/Lambda_cube",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 22
+    },
+    {
       "title": "Selfish AI",
       "href": "https://www.garfieldtech.com/blog/selfish-ai",
       "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 21
+      "comments": "\n              8 comments\n            ",
+      "index": 23
     },
     {
       "title": "Inside Lodash’s Security Reset and Maintenance Reboot",
       "href": "https://socket.dev/blog/inside-lodash-security-reset",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "uk-fuel-price-map: A web ui for the uk fuel price data",
       "href": "https://github.com/markwylde/uk-fuel-price-map",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Building blocks for peer-to-peer applications",
-      "href": "https://p2panda.org/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 24
-    },
-    {
-      "title": "Apple’s MacBook Pro DFU port documentation is wrong",
-      "href": "https://lapcatsoftware.com/articles/2026/2/1.html",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
