@@ -1,214 +1,214 @@
 {
-  "date": "Monday, February 2, 2026 at 10:35 AM GMT-5",
+  "date": "Monday, February 2, 2026 at 11:40 AM GMT-5",
   "articles": [
+    {
+      "title": "Ask HN: Who is hiring? (February 2026)",
+      "href": "item?id=46857488",
+      "points": "29 points",
+      "comments": "56 comments",
+      "index": 1
+    },
     {
       "title": "Nano-vLLM: How a vLLM-style inference engine works",
       "href": "https://neutree.ai/blog/nano-vllm-part-1",
-      "points": "80 points",
-      "comments": "4 comments",
-      "index": 1
+      "points": "116 points",
+      "comments": "13 comments",
+      "index": 2
     },
     {
       "title": "Geologists may have solved mystery of Green River's 'uphill' route",
       "href": "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html",
-      "points": "21 points",
-      "comments": "2 comments",
-      "index": 2
-    },
-    {
-      "title": "My fast zero-allocation webserver using OxCaml",
-      "href": "https://anil.recoil.org/notes/oxcaml-httpz",
-      "points": "60 points",
-      "comments": "13 comments",
+      "points": "49 points",
+      "comments": "9 comments",
       "index": 3
     },
     {
       "title": "4x faster network file sync with rclone (vs rsync) (2025)",
       "href": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
-      "points": "36 points",
-      "comments": "6 comments",
+      "points": "85 points",
+      "comments": "32 comments",
       "index": 4
+    },
+    {
+      "title": "Waymo Seeking About $16B Near $110B Valuation",
+      "href": "https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation",
+      "points": "81 points",
+      "comments": "74 comments",
+      "index": 5
+    },
+    {
+      "title": "My fast zero-allocation webserver using OxCaml",
+      "href": "https://anil.recoil.org/notes/oxcaml-httpz",
+      "points": "77 points",
+      "comments": "19 comments",
+      "index": 6
     },
     {
       "title": "Defeating a 40-year-old copy protection dongle",
       "href": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "points": "716 points",
-      "comments": "220 comments",
-      "index": 5
-    },
-    {
-      "title": "Termux",
-      "href": "https://github.com/termux/termux-app",
-      "points": "213 points",
-      "comments": "106 comments",
-      "index": 6
+      "points": "740 points",
+      "comments": "232 comments",
+      "index": 7
     },
     {
       "title": "Hypergrowth isn’t always easy",
       "href": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
-      "points": "42 points",
-      "comments": "20 comments",
-      "index": 7
+      "points": "62 points",
+      "comments": "30 comments",
+      "index": 8
+    },
+    {
+      "title": "IsoCoaster – Theme Park Builder",
+      "href": "https://iso-coaster.com/",
+      "points": "18 points",
+      "comments": "3 comments",
+      "index": 9
+    },
+    {
+      "title": "Show HN: Stelvio – Ship Python to AWS",
+      "href": "https://stelvio.dev/",
+      "points": "7 points",
+      "comments": "1 comment",
+      "index": 10
+    },
+    {
+      "title": "Termux",
+      "href": "https://github.com/termux/termux-app",
+      "points": "244 points",
+      "comments": "122 comments",
+      "index": 11
+    },
+    {
+      "title": "Kernighan on Programming",
+      "href": "item?id=46857444",
+      "points": "18 points",
+      "comments": "1 comment",
+      "index": 12
     },
     {
       "title": "Claude Code is suddenly everywhere inside Microsoft",
       "href": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "points": "113 points",
-      "comments": "141 comments",
-      "index": 8
-    },
-    {
-      "title": "MaliciousCorgi: AI Extensions send your code to China",
-      "href": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
-      "points": "53 points",
-      "comments": "42 comments",
-      "index": 9
+      "points": "160 points",
+      "comments": "209 comments",
+      "index": 13
     },
     {
       "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
       "href": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-      "points": "371 points",
-      "comments": "176 comments",
-      "index": 10
+      "points": "383 points",
+      "comments": "179 comments",
+      "index": 14
     },
     {
       "title": "Apple's MacBook Pro DFU port documentation is wrong",
       "href": "https://lapcatsoftware.com/articles/2026/2/1.html",
-      "points": "153 points",
-      "comments": "59 comments",
-      "index": 11
-    },
-    {
-      "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
-      "href": "https://github.com/rustrum/apate",
-      "points": "22 points",
-      "comments": "8 comments",
-      "index": 12
+      "points": "162 points",
+      "comments": "60 comments",
+      "index": 15
     },
     {
       "title": "Show HN: Wikipedia as a doomscrollable social media feed",
       "href": "https://xikipedia.org",
-      "points": "325 points",
-      "comments": "115 comments",
-      "index": 13
-    },
-    {
-      "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
-      "href": "https://github.com/gavrielc/nanoclaw",
-      "points": "451 points",
-      "comments": "171 comments",
-      "index": 14
-    },
-    {
-      "title": "Ratchets in software development (2021)",
-      "href": "https://qntm.org/ratchet",
-      "points": "78 points",
-      "comments": "25 comments",
-      "index": 15
-    },
-    {
-      "title": "Best Gas Masks",
-      "href": "https://www.theverge.com/policy/868571/best-gas-masks",
-      "points": "291 points",
-      "comments": "65 comments",
+      "points": "346 points",
+      "comments": "120 comments",
       "index": 16
-    },
-    {
-      "title": "Ian's Shoelace Site",
-      "href": "https://www.fieggen.com/shoelace/",
-      "points": "293 points",
-      "comments": "48 comments",
-      "index": 17
     },
     {
       "title": "Library of Juggling",
       "href": "https://libraryofjuggling.com/",
-      "points": "50 points",
-      "comments": "6 comments",
+      "points": "62 points",
+      "comments": "10 comments",
+      "index": 17
+    },
+    {
+      "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
+      "href": "https://github.com/gavrielc/nanoclaw",
+      "points": "461 points",
+      "comments": "177 comments",
       "index": 18
+    },
+    {
+      "title": "Best Gas Masks",
+      "href": "https://www.theverge.com/policy/868571/best-gas-masks",
+      "points": "358 points",
+      "comments": "84 comments",
+      "index": 19
+    },
+    {
+      "title": "Ratchets in software development (2021)",
+      "href": "https://qntm.org/ratchet",
+      "points": "87 points",
+      "comments": "31 comments",
+      "index": 20
+    },
+    {
+      "title": "Ian's Shoelace Site",
+      "href": "https://www.fieggen.com/shoelace/",
+      "points": "323 points",
+      "comments": "56 comments",
+      "index": 21
+    },
+    {
+      "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
+      "href": "https://github.com/rustrum/apate",
+      "points": "23 points",
+      "comments": "8 comments",
+      "index": 22
+    },
+    {
+      "title": "Swift in the Browser with ElementaryUI (Swift FOSDEM 2026 Talk) [video]",
+      "href": "https://www.youtube.com/watch?v=OmQ881sOTIc",
+      "points": "9 points",
+      "comments": "1 comment",
+      "index": 23
+    },
+    {
+      "title": "MaliciousCorgi: AI Extensions send your code to China",
+      "href": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
+      "points": "75 points",
+      "comments": "63 comments",
+      "index": 24
     },
     {
       "title": "Adventure Game Studio: OSS software for creating adventure games",
       "href": "https://www.adventuregamestudio.co.uk/",
-      "points": "364 points",
-      "comments": "77 comments",
-      "index": 19
+      "points": "371 points",
+      "comments": "78 comments",
+      "index": 25
     },
     {
       "title": "Apple I Advertisement (1976)",
       "href": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "points": "261 points",
-      "comments": "140 comments",
-      "index": 20
-    },
-    {
-      "title": "Greenland tensions harden Europe's push for energy independence",
-      "href": "https://www.ft.com/content/e9c90df9-ee03-4c51-bbd3-dad45e212961",
-      "points": "5 points",
-      "comments": "discuss",
-      "index": 21
-    },
-    {
-      "title": "EU launches government satcom program in sovereignty push",
-      "href": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
-      "points": "112 points",
-      "comments": "50 comments",
-      "index": 22
-    },
-    {
-      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
-      "href": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
-      "points": "114 points",
-      "comments": "58 comments",
-      "index": 23
-    },
-    {
-      "title": "Contracts in Nix",
-      "href": "https://sraka.xyz/posts/contracts.html",
-      "points": "83 points",
-      "comments": "16 comments",
-      "index": 24
+      "points": "263 points",
+      "comments": "141 comments",
+      "index": 26
     },
     {
       "title": "Board Games in Ancient Fiction: Egypt, Iran, Greece",
       "href": "https://reference-global.com/article/10.2478/bgs-2022-0016",
-      "points": "30 points",
-      "comments": "10 comments",
-      "index": 25
-    },
-    {
-      "title": "Rev up the viral factories",
-      "href": "https://www.science.org/content/blog-post/rev-viral-factories",
-      "points": "33 points",
-      "comments": "1 comment",
-      "index": 26
-    },
-    {
-      "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
-      "href": "https://www.wired.com/story/the-red-bull-leaks/",
-      "points": "215 points",
-      "comments": "115 comments",
+      "points": "35 points",
+      "comments": "11 comments",
       "index": 27
     },
     {
-      "title": "Building Your Own Efficient uint128 in C++",
-      "href": "https://solidean.com/blog/2026/building-your-own-u128/",
-      "points": "102 points",
-      "comments": "44 comments",
+      "title": "Contracts in Nix",
+      "href": "https://sraka.xyz/posts/contracts.html",
+      "points": "87 points",
+      "comments": "16 comments",
       "index": 28
     },
     {
-      "title": "Efficient String Compression for Modern Database Systems",
-      "href": "https://cedardb.com/blog/string_compression/",
-      "points": "143 points",
-      "comments": "41 comments",
+      "title": "We asked 15,000 European devs about jobs, salaries, and AI [pdf]",
+      "href": "https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf",
+      "points": "12 points",
+      "comments": "2 comments",
       "index": 29
     },
     {
-      "title": "Microsoft is walking back Windows 11's AI overload",
-      "href": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
-      "points": "139 points",
-      "comments": "191 comments",
+      "title": "EU launches government satcom program in sovereignty push",
+      "href": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
+      "points": "125 points",
+      "comments": "62 comments",
       "index": 30
     }
   ]
