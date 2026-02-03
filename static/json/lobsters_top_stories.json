@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, February 3, 2026 at 12:50 AM GMT-5",
+  "date": "Tuesday, February 3, 2026 at 1:50 AM GMT-5",
   "articles": [
     {
       "title": "zig libc",
@@ -19,7 +19,7 @@
       "title": "My experience with vibe coding",
       "href": "https://haskellforall.com/2026/02/my-experience-with-vibe-coding",
       "points": "",
-      "comments": "\n              5 comments\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 3
     },
     {
@@ -30,17 +30,17 @@
       "index": 4
     },
     {
+      "title": "What's your email setup?",
+      "href": "/s/bywnqo/what_s_your_email_setup",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
+      "index": 5
+    },
+    {
       "title": "Removing Tahoe’s Unwanted Menu Icons",
       "href": "https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/",
       "points": "",
       "comments": "\n              11 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "What's your email setup?",
-      "href": "/s/bywnqo/what_s_your_email_setup",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
       "index": 6
     },
     {
@@ -54,12 +54,12 @@
       "title": "Intro to CSTML (or: XML meets JSON)",
       "href": "https://docs.bablr.org/guides/cstml/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 8
     },
     {
-      "title": "The largest number representable in 64 bits",
-      "href": "https://tromp.github.io/blog/2026/01/28/largest-number-revised",
+      "title": "Rust in the NetBSD Kernel, and other odd decisions",
+      "href": "https://bentsukun.ch/posts/netbsd-rust-kernel/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 9
@@ -68,21 +68,21 @@
       "title": "The Retro Web",
       "href": "https://theretroweb.com/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 10
+    },
+    {
+      "title": "The largest number representable in 64 bits",
+      "href": "https://tromp.github.io/blog/2026/01/28/largest-number-revised",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 11
     },
     {
       "title": "Rust 1.93 performance improvements in format! and friends",
       "href": "https://hachyderm.io/@Mara/115542621720999480",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "Ending 15 years of subprocess polling",
-      "href": "https://gmpy.dev/blog/2026/event-driven-process-waiting",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
       "index": 12
     },
     {
@@ -93,31 +93,31 @@
       "index": 13
     },
     {
+      "title": "Rust Coreutils Continues Working Toward 100% GNU Compatibility",
+      "href": "https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "Ending 15 years of subprocess polling",
+      "href": "https://gmpy.dev/blog/2026/event-driven-process-waiting",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 15
+    },
+    {
       "title": "Migrating to GTK3 – Re: Factor",
       "href": "https://re.factorcode.org/2025/12/migrating-to-gtk3.html",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Rust in the NetBSD Kernel, and other odd decisions",
-      "href": "https://bentsukun.ch/posts/netbsd-rust-kernel/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 15
-    },
-    {
-      "title": "Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls Wrong",
-      "href": "https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
       "index": 16
     },
     {
-      "title": "Vibe: Easy VM sandboxes for LLM agents on MacOS",
-      "href": "https://github.com/lynaghk/vibe/",
+      "title": "Plasma Effect",
+      "href": "https://www.4rknova.com/blog/2016/11/01/plasma",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
@@ -128,52 +128,52 @@
       "index": 18
     },
     {
+      "title": "Vibe: Easy VM sandboxes for LLM agents on MacOS",
+      "href": "https://github.com/lynaghk/vibe/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 19
+    },
+    {
       "title": "Defeating a 40-year-old copy protection dongle",
       "href": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Game of Trees Hub's web interface is live. And we need more subscribers",
-      "href": "https://opencollective.com/gothub/updates/web-interface-is-now-enabled-and-we-need-more-subscribers",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 20
-    },
-    {
-      "title": "Resurrecting Email Notifications on a Legacy NAS",
-      "href": "https://rhardih.io/2026/02/resurrecting-email-notifications-on-a-legacy-nas/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "How I Built QZ—and How Echelon Is Now Breaking It (2025)",
-      "href": "https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "archive.today is directing a DDOS attack against my blog",
-      "href": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
-      "points": "",
-      "comments": "\n              21 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "My (very) fast zero-allocation webserver using OxCaml",
-      "href": "https://anil.recoil.org/notes/oxcaml-httpz",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 24
     },
     {
       "title": "Stelvio: ship Python to AWS",
       "href": "http://github.com/stelviodev/stelvio",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
+      "title": "Game of Trees Hub's web interface is live. And we need more subscribers",
+      "href": "https://opencollective.com/gothub/updates/web-interface-is-now-enabled-and-we-need-more-subscribers",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 22
+    },
+    {
+      "title": "Resurrecting Email Notifications on a Legacy NAS",
+      "href": "https://rhardih.io/2026/02/resurrecting-email-notifications-on-a-legacy-nas/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "How I Built QZ—and How Echelon Is Now Breaking It (2025)",
+      "href": "https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "archive.today is directing a DDOS attack against my blog",
+      "href": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
+      "points": "",
+      "comments": "\n              21 comments\n            ",
       "index": 25
     }
   ]
