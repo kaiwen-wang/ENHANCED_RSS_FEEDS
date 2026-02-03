@@ -1,53 +1,53 @@
 {
-  "date": "Tuesday, February 3, 2026 at 10:50 AM GMT-5",
+  "date": "Tuesday, February 3, 2026 at 11:55 AM GMT-5",
   "articles": [
     {
       "title": "zig libc",
       "href": "https://ziglang.org/devlog/2026/#2026-01-31",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 1
-    },
-    {
-      "title": "Rust in the NetBSD Kernel, and other odd decisions",
-      "href": "https://bentsukun.ch/posts/netbsd-rust-kernel/",
-      "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 2
     },
     {
       "title": "What’s up with all those equals signs anyway?",
       "href": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 2
+    },
+    {
+      "title": "Rust in the NetBSD Kernel, and other odd decisions",
+      "href": "https://bentsukun.ch/posts/netbsd-rust-kernel/",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "Hacking Moltbook: AI Social Network Reveals 1.5M API Keys",
+      "href": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 4
     },
     {
       "title": "WhatsApp Encryption, a Lawsuit, and a Lot of Noise",
       "href": "https://blog.cryptographyengineering.com/2026/02/02/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/",
       "points": "",
       "comments": "\n              9 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Hacking Moltbook: AI Social Network Reveals 1.5M API Keys",
-      "href": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
       "index": 5
-    },
-    {
-      "title": "What's your email setup?",
-      "href": "/s/bywnqo/what_s_your_email_setup",
-      "points": "",
-      "comments": "\n              53 comments\n            ",
-      "index": 6
     },
     {
       "title": "One machine can go pretty far if you build things properly (2022)",
       "href": "https://rachelbythebay.com/w/2022/01/27/scale/",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              8 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "What's your email setup?",
+      "href": "/s/bywnqo/what_s_your_email_setup",
+      "points": "",
+      "comments": "\n              55 comments\n            ",
       "index": 7
     },
     {
@@ -65,115 +65,115 @@
       "index": 9
     },
     {
-      "title": "Removing Tahoe’s Unwanted Menu Icons",
-      "href": "https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/",
+      "title": "FLOPPINUX - An Embedded Linux on a Single Floppy - 2025 Edition",
+      "href": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 10
-    },
-    {
-      "title": "Technology: The (nearly) perfect USB cable tester does exist",
-      "href": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 11
     },
     {
       "title": "Implementing the Temporal proposal in JavaScriptCore",
       "href": "https://blogs.igalia.com/compilers/2026/02/02/implementing-the-temporal-proposal-in-javascriptcore/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Removing Tahoe’s Unwanted Menu Icons",
+      "href": "https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
       "index": 12
+    },
+    {
+      "title": "Technology: The (nearly) perfect USB cable tester does exist",
+      "href": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 13
+    },
+    {
+      "title": "Easily write Bash with a transpiler",
+      "href": "https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 14
     },
     {
       "title": "Plasma Effect",
       "href": "https://www.4rknova.com/blog/2016/11/01/plasma",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 13
-    },
-    {
-      "title": "The Disconnected Git Workflow",
-      "href": "https://ploum.net/2026-01-31-offline-git-send-email.html",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "The largest number representable in 64 bits",
-      "href": "https://tromp.github.io/blog/2026/01/28/largest-number-revised",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 15
-    },
-    {
-      "title": "Intro to CSTML (or: XML meets JSON)",
-      "href": "https://docs.bablr.org/guides/cstml/",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "FOSDEM 2026 - Amber Lang - Easily write Bash with a transpiler",
-      "href": "https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
     },
     {
       "title": "Eigen: Building a Workspace",
       "href": "https://reindernijhoff.net/2025/10/eigen-building-a-workspace/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "Your App Shouldn't Have a Happy Path",
+      "href": "https://erickhun.com/posts/coding-agents-no-happy-path/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
+      "title": "Your CLAUDE.md is doing too much",
+      "href": "https://visr.dev/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 18
+    },
+    {
+      "title": "Intro to CSTML (or: XML meets JSON)",
+      "href": "https://docs.bablr.org/guides/cstml/",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "The Disconnected Git Workflow",
+      "href": "https://ploum.net/2026-01-31-offline-git-send-email.html",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "The largest number representable in 64 bits",
+      "href": "https://tromp.github.io/blog/2026/01/28/largest-number-revised",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 21
+    },
+    {
+      "title": "Writing an Async Runtime in Rust",
+      "href": "https://michaelhelvey.dev/posts/rust_async_runtime",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 22
     },
     {
       "title": "Rust 1.93 performance improvements in format! and friends",
       "href": "https://hachyderm.io/@Mara/115542621720999480",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 19
+      "index": 23
     },
     {
       "title": "The Retro Web",
       "href": "https://theretroweb.com/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 20
-    },
-    {
-      "title": "Your App Shouldn't Have a Happy Path",
-      "href": "https://erickhun.com/posts/coding-agents-no-happy-path/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "FLOPPINUX - An Embedded Linux on a Single Floppy - 2025 Edition",
-      "href": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "Rust Coreutils Continues Working Toward 100% GNU Compatibility",
       "href": "https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Millets: a practical memory-safety and thread-safety experiment",
-      "href": "https://eagledot.xyz/millets.md.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Writing an Async Runtime in Rust",
-      "href": "https://michaelhelvey.dev/posts/rust_async_runtime",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 25
     }
   ]
