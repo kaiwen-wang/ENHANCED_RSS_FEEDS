@@ -1,214 +1,214 @@
 {
-  "date": "Tuesday, February 3, 2026 at 4:35 PM GMT-5",
+  "date": "Tuesday, February 3, 2026 at 5:30 PM GMT-5",
   "articles": [
     {
-      "title": "Qwen3-Coder-Next",
-      "href": "https://qwen.ai/blog?id=qwen3-coder-next",
-      "points": "480 points",
-      "comments": "276 comments",
+      "title": "FlashAttention-T: Towards Tensorized Attention",
+      "href": "https://dl.acm.org/doi/10.1145/3774934.3786425",
+      "points": "27 points",
+      "comments": "6 comments",
       "index": 1
     },
     {
       "title": "Deno Sandbox",
       "href": "https://deno.com/blog/introducing-deno-sandbox",
-      "points": "214 points",
-      "comments": "80 comments",
+      "points": "256 points",
+      "comments": "93 comments",
       "index": 2
+    },
+    {
+      "title": "Qwen3-Coder-Next",
+      "href": "https://qwen.ai/blog?id=qwen3-coder-next",
+      "points": "517 points",
+      "comments": "307 comments",
+      "index": 3
     },
     {
       "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
       "href": "https://github.com/alibaba/AliSQL",
-      "points": "87 points",
-      "comments": "9 comments",
-      "index": 3
+      "points": "112 points",
+      "comments": "15 comments",
+      "index": 4
+    },
+    {
+      "title": "Lessons Learned Shipping 500 Units of My First Hardware Product",
+      "href": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
+      "points": "36 points",
+      "comments": "17 comments",
+      "index": 5
     },
     {
       "title": "Agent Skills",
       "href": "https://agentskills.io/home",
-      "points": "308 points",
-      "comments": "182 comments",
-      "index": 4
-    },
-    {
-      "title": "Xcode 26.3 unlocks the power of agentic coding",
-      "href": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
-      "points": "182 points",
-      "comments": "129 comments",
-      "index": 5
+      "points": "327 points",
+      "comments": "188 comments",
+      "index": 6
     },
     {
       "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
       "href": "https://github.com/j178/prek",
-      "points": "142 points",
-      "comments": "63 comments",
-      "index": 6
+      "points": "158 points",
+      "comments": "77 comments",
+      "index": 7
+    },
+    {
+      "title": "OpenClaw (a.k.a. Moltbot) Is Everywhere All at Once, and a Disaster",
+      "href": "https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/",
+      "points": "59 points",
+      "comments": "22 comments",
+      "index": 8
     },
     {
       "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
       "href": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
-      "points": "534 points",
-      "comments": "302 comments",
-      "index": 7
+      "points": "614 points",
+      "comments": "355 comments",
+      "index": 9
     },
     {
       "title": "What's up with all those equals signs anyway?",
       "href": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
-      "points": "546 points",
-      "comments": "166 comments",
-      "index": 8
+      "points": "567 points",
+      "comments": "171 comments",
+      "index": 10
     },
     {
-      "title": "When rust ≠ performance. a lesson in developer experience",
-      "href": "https://suriya.cc/tech/performance/oxen-add/",
-      "points": "26 points",
-      "comments": "9 comments",
-      "index": 9
+      "title": "Xcode 26.3 unlocks the power of agentic coding",
+      "href": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+      "points": "192 points",
+      "comments": "151 comments",
+      "index": 11
     },
     {
       "title": "Sandboxing AI Agents in Linux",
       "href": "https://blog.senko.net/sandboxing-ai-agents-in-linux",
-      "points": "45 points",
-      "comments": "29 comments",
-      "index": 10
-    },
-    {
-      "title": "Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework",
-      "href": "item?id=46872733",
-      "points": "52 points",
-      "comments": "26 comments",
-      "index": 11
-    },
-    {
-      "title": "Bunny Database",
-      "href": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
-      "points": "208 points",
-      "comments": "96 comments",
+      "points": "65 points",
+      "comments": "36 comments",
       "index": 12
     },
     {
       "title": "Puget Systems Most Reliable Hardware of 2025",
       "href": "https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/",
-      "points": "42 points",
-      "comments": "10 comments",
+      "points": "59 points",
+      "comments": "23 comments",
       "index": 13
+    },
+    {
+      "title": "Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework",
+      "href": "item?id=46872733",
+      "points": "54 points",
+      "comments": "29 comments",
+      "index": 14
+    },
+    {
+      "title": "Bunny Database",
+      "href": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
+      "points": "222 points",
+      "comments": "100 comments",
+      "index": 15
+    },
+    {
+      "title": "China Moon Mission: Aiming for 2030 lunar landing",
+      "href": "https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis",
+      "points": "71 points",
+      "comments": "64 comments",
+      "index": 16
     },
     {
       "title": "Another London: Excavating the disenchanted city",
       "href": "https://harpers.org/archive/2026/02/another-london-situationists-hari-kunzru/",
-      "points": "19 points",
+      "points": "24 points",
       "comments": "discuss",
-      "index": 14
+      "index": 17
     },
     {
       "title": "Heritability of intrinsic human life span is about 50%",
       "href": "https://www.science.org/doi/10.1126/science.adz1187",
-      "points": "119 points",
-      "comments": "78 comments",
-      "index": 15
+      "points": "123 points",
+      "comments": "83 comments",
+      "index": 18
     },
     {
-      "title": "How Vibe Coding Is Killing Open Source",
-      "href": "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/",
-      "points": "57 points",
-      "comments": "33 comments",
-      "index": 16
-    },
-    {
-      "title": "China Moon Mission: Aiming for 2030 Lunar Landing",
-      "href": "https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis",
-      "points": "58 points",
-      "comments": "44 comments",
-      "index": 17
+      "title": "Bruce Schneier: AI and the scaling of betrayal (2023)",
+      "href": "https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html",
+      "points": "64 points",
+      "comments": "10 comments",
+      "index": 19
     },
     {
       "title": "The Everdeck: A Universal Card System (2019)",
       "href": "https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/",
-      "points": "85 points",
-      "comments": "20 comments",
-      "index": 18
-    },
-    {
-      "title": "Show HN: Octosphere, a tool to decentralise scientific publishing",
-      "href": "https://octosphere.social/",
-      "points": "31 points",
-      "comments": "12 comments",
-      "index": 19
-    },
-    {
-      "title": "OpenClaw (a.k.a. Moltbot) Is Everywhere All at Once, and a Disaster",
-      "href": "https://cacm.acm.org/blogcacm/openclaw-a-k-a-moltbot-is-everywhere-all-at-once-and-a-disaster-waiting-to-happen/",
-      "points": "12 points",
-      "comments": "2 comments",
+      "points": "90 points",
+      "comments": "21 comments",
       "index": 20
-    },
-    {
-      "title": "Defining Safe Hardware Design [pdf]",
-      "href": "https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf",
-      "points": "31 points",
-      "comments": "4 comments",
-      "index": 21
     },
     {
       "title": "X offices raided in France",
       "href": "https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc",
-      "points": "189 points",
-      "comments": "153 comments",
+      "points": "226 points",
+      "comments": "212 comments",
+      "index": 21
+    },
+    {
+      "title": "Data centers in space makes no sense",
+      "href": "https://civai.org/blog/space-data-centers",
+      "points": "41 points",
+      "comments": "40 comments",
       "index": 22
     },
     {
-      "title": "Show HN: C discrete event SIM w stackful coroutines runs 45x faster than SimPy",
-      "href": "https://github.com/ambonvik/cimba",
-      "points": "39 points",
-      "comments": "15 comments",
+      "title": "Show HN: Octosphere, a tool to decentralise scientific publishing",
+      "href": "https://octosphere.social/",
+      "points": "33 points",
+      "comments": "12 comments",
       "index": 23
+    },
+    {
+      "title": "Tadpole – A modular and extensible DSL built for web scraping",
+      "href": "https://tadpolehq.com/",
+      "points": "34 points",
+      "comments": "5 comments",
+      "index": 24
+    },
+    {
+      "title": "Anthropic AI tool sparks selloff from software to broader market",
+      "href": "https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool",
+      "points": "55 points",
+      "comments": "24 comments",
+      "index": 25
+    },
+    {
+      "title": "Defining Safe Hardware Design [pdf]",
+      "href": "https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf",
+      "points": "32 points",
+      "comments": "4 comments",
+      "index": 26
     },
     {
       "title": "Emerge Career (YC S22) is hiring a product designer",
       "href": "https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer",
       "points": "",
       "comments": "hide",
-      "index": 24
-    },
-    {
-      "title": "Anthropic AI Tool Sparks Selloff from Software to Broader Market",
-      "href": "https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool",
-      "points": "32 points",
-      "comments": "7 comments",
-      "index": 25
-    },
-    {
-      "title": "Tadpole – A modular and extensible DSL built for web scraping",
-      "href": "https://tadpolehq.com/",
-      "points": "30 points",
-      "comments": "5 comments",
-      "index": 26
-    },
-    {
-      "title": "Bruce Schneier: AI and the scaling of betrayal",
-      "href": "https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html",
-      "points": "18 points",
-      "comments": "2 comments",
       "index": 27
     },
     {
       "title": "Show HN: Sandboxing untrusted code using WebAssembly",
       "href": "https://github.com/mavdol/capsule",
-      "points": "57 points",
-      "comments": "18 comments",
+      "points": "65 points",
+      "comments": "19 comments",
       "index": 28
+    },
+    {
+      "title": "Show HN: C discrete event SIM w stackful coroutines runs 45x faster than SimPy",
+      "href": "https://github.com/ambonvik/cimba",
+      "points": "44 points",
+      "comments": "16 comments",
+      "index": 29
     },
     {
       "title": "Migrate Wizard – IMAP Based Email Migration Tool",
       "href": "https://migratewizard.com/#features",
-      "points": "20 points",
-      "comments": "18 comments",
-      "index": 29
-    },
-    {
-      "title": "Show HN: I built \"AI Wattpad\" to eval LLMs on fiction",
-      "href": "https://narrator.sh/llm-leaderboard",
-      "points": "17 points",
-      "comments": "23 comments",
+      "points": "22 points",
+      "comments": "21 comments",
       "index": 30
     }
   ]
