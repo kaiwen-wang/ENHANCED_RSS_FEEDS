@@ -1,5 +1,5 @@
 {
-  "date": "Tuesday, February 3, 2026 at 1:50 AM GMT-5",
+  "date": "Tuesday, February 3, 2026 at 2:40 AM GMT-5",
   "articles": [
     {
       "title": "zig libc",
@@ -33,7 +33,7 @@
       "title": "What's your email setup?",
       "href": "/s/bywnqo/what_s_your_email_setup",
       "points": "",
-      "comments": "\n              22 comments\n            ",
+      "comments": "\n              24 comments\n            ",
       "index": 5
     },
     {
@@ -44,38 +44,38 @@
       "index": 6
     },
     {
+      "title": "Rust in the NetBSD Kernel, and other odd decisions",
+      "href": "https://bentsukun.ch/posts/netbsd-rust-kernel/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 7
+    },
+    {
       "title": "The Disconnected Git Workflow",
       "href": "https://ploum.net/2026-01-31-offline-git-send-email.html",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 7
+      "index": 8
+    },
+    {
+      "title": "One machine can go pretty far if you build things properly (2022)",
+      "href": "https://rachelbythebay.com/w/2022/01/27/scale/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 9
     },
     {
       "title": "Intro to CSTML (or: XML meets JSON)",
       "href": "https://docs.bablr.org/guides/cstml/",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "Rust in the NetBSD Kernel, and other odd decisions",
-      "href": "https://bentsukun.ch/posts/netbsd-rust-kernel/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 9
+      "index": 10
     },
     {
       "title": "The Retro Web",
       "href": "https://theretroweb.com/",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "The largest number representable in 64 bits",
-      "href": "https://tromp.github.io/blog/2026/01/28/largest-number-revised",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 11
     },
     {
@@ -86,66 +86,66 @@
       "index": 12
     },
     {
-      "title": "One machine can go pretty far if you build things properly (2022)",
-      "href": "https://rachelbythebay.com/w/2022/01/27/scale/",
+      "title": "The largest number representable in 64 bits",
+      "href": "https://tromp.github.io/blog/2026/01/28/largest-number-revised",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 13
-    },
-    {
-      "title": "Rust Coreutils Continues Working Toward 100% GNU Compatibility",
-      "href": "https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026",
-      "points": "",
-      "comments": "\n              4 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Ending 15 years of subprocess polling",
-      "href": "https://gmpy.dev/blog/2026/event-driven-process-waiting",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Migrating to GTK3 – Re: Factor",
-      "href": "https://re.factorcode.org/2025/12/migrating-to-gtk3.html",
-      "points": "",
-      "comments": "\n              7 comments\n            ",
-      "index": 16
     },
     {
       "title": "Plasma Effect",
       "href": "https://www.4rknova.com/blog/2016/11/01/plasma",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 17
+      "index": 14
+    },
+    {
+      "title": "Rust Coreutils Continues Working Toward 100% GNU Compatibility",
+      "href": "https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Ending 15 years of subprocess polling",
+      "href": "https://gmpy.dev/blog/2026/event-driven-process-waiting",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 16
     },
     {
       "title": "What are you doing this week?",
       "href": "/s/qgioeo/what_are_you_doing_this_week",
       "points": "",
       "comments": "\n              11 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Migrating to GTK3 – Re: Factor",
+      "href": "https://re.factorcode.org/2025/12/migrating-to-gtk3.html",
+      "points": "",
+      "comments": "\n              7 comments\n            ",
       "index": 18
-    },
-    {
-      "title": "Vibe: Easy VM sandboxes for LLM agents on MacOS",
-      "href": "https://github.com/lynaghk/vibe/",
-      "points": "",
-      "comments": "\n              10 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Defeating a 40-year-old copy protection dongle",
-      "href": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 20
     },
     {
       "title": "Stelvio: ship Python to AWS",
       "href": "http://github.com/stelviodev/stelvio",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "Vibe: Easy VM sandboxes for LLM agents on MacOS",
+      "href": "https://github.com/lynaghk/vibe/",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Defeating a 40-year-old copy protection dongle",
+      "href": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
       "index": 21
     },
     {
