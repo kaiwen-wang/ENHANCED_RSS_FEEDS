@@ -1,32 +1,32 @@
 {
-  "date": "Monday, February 2, 2026 at 9:10 PM GMT-5",
+  "date": "Monday, February 2, 2026 at 11:45 PM GMT-5",
   "articles": [
     {
       "title": "zig libc",
       "href": "https://ziglang.org/devlog/2026/#2026-01-31",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 1
     },
     {
       "title": "Notepad++ Hijacked by State-Sponsored Hackers",
       "href": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
       "points": "",
-      "comments": "\n              49 comments\n            ",
+      "comments": "\n              50 comments\n            ",
       "index": 2
-    },
-    {
-      "title": "Technology: The (nearly) perfect USB cable tester does exist",
-      "href": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 3
     },
     {
       "title": "My experience with vibe coding",
       "href": "https://haskellforall.com/2026/02/my-experience-with-vibe-coding",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 3
+    },
+    {
+      "title": "Technology: The (nearly) perfect USB cable tester does exist",
+      "href": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
       "index": 4
     },
     {
@@ -40,7 +40,7 @@
       "title": "What's your email setup?",
       "href": "/s/bywnqo/what_s_your_email_setup",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              18 comments\n            ",
       "index": 6
     },
     {
@@ -51,31 +51,31 @@
       "index": 7
     },
     {
+      "title": "Intro to CSTML (or: XML meets JSON)",
+      "href": "https://docs.bablr.org/guides/cstml/",
+      "points": "",
+      "comments": "\n              9 comments\n            ",
+      "index": 8
+    },
+    {
       "title": "The largest number representable in 64 bits",
       "href": "https://tromp.github.io/blog/2026/01/28/largest-number-revised",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 8
-    },
-    {
-      "title": "Intro to CSTML (or: XML meets JSON)",
-      "href": "https://docs.bablr.org/guides/cstml/",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 9
-    },
-    {
-      "title": "Rust 1.93 performance improvements in format! and friends",
-      "href": "https://hachyderm.io/@Mara/115542621720999480",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 10
     },
     {
       "title": "The Retro Web",
       "href": "https://theretroweb.com/",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Rust 1.93 performance improvements in format! and friends",
+      "href": "https://hachyderm.io/@Mara/115542621720999480",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 11
     },
     {
@@ -86,45 +86,45 @@
       "index": 12
     },
     {
+      "title": "One machine can go pretty far if you build things properly (2022)",
+      "href": "https://rachelbythebay.com/w/2022/01/27/scale/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 13
+    },
+    {
       "title": "Migrating to GTK3 – Re: Factor",
       "href": "https://re.factorcode.org/2025/12/migrating-to-gtk3.html",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 13
+      "index": 14
+    },
+    {
+      "title": "Rust in the NetBSD Kernel, and other odd decisions",
+      "href": "https://bentsukun.ch/posts/netbsd-rust-kernel/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 15
     },
     {
       "title": "Vibe: Easy VM sandboxes for LLM agents on MacOS",
       "href": "https://github.com/lynaghk/vibe/",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 14
+      "index": 16
+    },
+    {
+      "title": "What are you doing this week?",
+      "href": "/s/qgioeo/what_are_you_doing_this_week",
+      "points": "",
+      "comments": "\n              11 comments\n            ",
+      "index": 17
     },
     {
       "title": "Defeating a 40-year-old copy protection dongle",
       "href": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
       "points": "",
       "comments": "\n              5 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "What are you doing this week?",
-      "href": "/s/qgioeo/what_are_you_doing_this_week",
-      "points": "",
-      "comments": "\n              9 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Game of Trees Hub's web interface is live. And we need more subscribers",
-      "href": "https://opencollective.com/gothub/updates/web-interface-is-now-enabled-and-we-need-more-subscribers",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "Resurrecting Email Notifications on a Legacy NAS",
-      "href": "https://rhardih.io/2026/02/resurrecting-email-notifications-on-a-legacy-nas/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 18
     },
     {
@@ -135,45 +135,45 @@
       "index": 19
     },
     {
+      "title": "Game of Trees Hub's web interface is live. And we need more subscribers",
+      "href": "https://opencollective.com/gothub/updates/web-interface-is-now-enabled-and-we-need-more-subscribers",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Resurrecting Email Notifications on a Legacy NAS",
+      "href": "https://rhardih.io/2026/02/resurrecting-email-notifications-on-a-legacy-nas/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
+    },
+    {
       "title": "archive.today is directing a DDOS attack against my blog",
       "href": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
       "points": "",
-      "comments": "\n              20 comments\n            ",
-      "index": 20
+      "comments": "\n              21 comments\n            ",
+      "index": 22
     },
     {
       "title": "My (very) fast zero-allocation webserver using OxCaml",
       "href": "https://anil.recoil.org/notes/oxcaml-httpz",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 21
+      "index": 23
     },
     {
       "title": "Stelvio: ship Python to AWS",
       "href": "http://github.com/stelviodev/stelvio",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 22
+      "index": 24
     },
     {
       "title": "MaliciousCorgi: The Cute-Looking AI Extensions Leaking Code from 1.5 Million Developers",
       "href": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 23
-    },
-    {
-      "title": "One machine can go pretty far if you build things properly (2022)",
-      "href": "https://rachelbythebay.com/w/2022/01/27/scale/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "AI Coding Assistants Secretly Copying All Code to China",
-      "href": "https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
       "index": 25
     }
   ]
