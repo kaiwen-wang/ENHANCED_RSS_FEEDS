@@ -1,214 +1,214 @@
 {
-  "date": "Tuesday, February 3, 2026 at 8:00 AM GMT-5",
+  "date": "Tuesday, February 3, 2026 at 9:40 AM GMT-5",
   "articles": [
+    {
+      "title": "Agent Skills",
+      "href": "https://agentskills.io/home",
+      "points": "27 points",
+      "comments": "11 comments",
+      "index": 1
+    },
     {
       "title": "What's up with all those equals signs anyway?",
       "href": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
-      "points": "198 points",
-      "comments": "59 comments",
-      "index": 1
+      "points": "293 points",
+      "comments": "94 comments",
+      "index": 2
+    },
+    {
+      "title": "Decentralizing my smartphone with single purpose devices",
+      "href": "https://ambertherambler.bearblog.dev/decentralizing-my-smartphone-with-single-purpose-devices/",
+      "points": "21 points",
+      "comments": "8 comments",
+      "index": 3
     },
     {
       "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
       "href": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "points": "173 points",
-      "comments": "109 comments",
-      "index": 2
+      "points": "188 points",
+      "comments": "112 comments",
+      "index": 4
     },
     {
-      "title": "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
-      "href": "https://github.com/whispem/minikv",
-      "points": "24 points",
-      "comments": "4 comments",
-      "index": 3
+      "title": "Show HN: Inverting Agent Model (App as Clients, Chat as Server and Reflection)",
+      "href": "https://github.com/RAIL-Suite/RAIL",
+      "points": "4 points",
+      "comments": "discuss",
+      "index": 5
+    },
+    {
+      "title": "Ask HN: Is there anyone here who still uses slide rules?",
+      "href": "item?id=46871179",
+      "points": "17 points",
+      "comments": "21 comments",
+      "index": 6
     },
     {
       "title": "Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)",
       "href": "https://safe-now.live",
-      "points": "42 points",
-      "comments": "8 comments",
-      "index": 4
+      "points": "85 points",
+      "comments": "19 comments",
+      "index": 7
     },
     {
       "title": "The Codex App",
       "href": "https://openai.com/index/introducing-the-codex-app/",
-      "points": "702 points",
-      "comments": "524 comments",
-      "index": 5
+      "points": "736 points",
+      "comments": "550 comments",
+      "index": 8
     },
     {
-      "title": "LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
-      "href": "https://github.com/KrystianJonca/lnai",
-      "points": "36 points",
-      "comments": "16 comments",
-      "index": 6
+      "title": "Show HN: difi – A Git diff TUI with Neovim integration (written in Go)",
+      "href": "https://github.com/oug-t/difi",
+      "points": "3 points",
+      "comments": "1 comment",
+      "index": 9
+    },
+    {
+      "title": "Emerge Career (YC S22) is hiring a product designer",
+      "href": "https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer",
+      "points": "",
+      "comments": "hide",
+      "index": 10
     },
     {
       "title": "Anki ownership transferred to AnkiHub",
       "href": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
-      "points": "451 points",
-      "comments": "173 comments",
-      "index": 7
+      "points": "481 points",
+      "comments": "188 comments",
+      "index": 11
     },
     {
-      "title": "Emerge Career (YC S22) Is Hiring a Founding Product Designer",
-      "href": "https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer",
-      "points": "",
-      "comments": "hide",
-      "index": 8
+      "title": "LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
+      "href": "https://github.com/KrystianJonca/lnai",
+      "points": "46 points",
+      "comments": "20 comments",
+      "index": 12
     },
     {
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "href": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "points": "206 points",
-      "comments": "56 comments",
-      "index": 9
+      "title": "Banning lead in gas worked. The proof is in our hair",
+      "href": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
+      "points": "130 points",
+      "comments": "29 comments",
+      "index": 13
     },
     {
       "title": "Todd C. Miller – Sudo maintainer for over 30 years",
       "href": "https://www.millert.dev/",
-      "points": "497 points",
-      "comments": "258 comments",
-      "index": 10
+      "points": "527 points",
+      "comments": "269 comments",
+      "index": 14
+    },
+    {
+      "title": "How does misalignment scale with model intelligence and task complexity?",
+      "href": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "points": "214 points",
+      "comments": "67 comments",
+      "index": 15
     },
     {
       "title": "GitHub experience various partial-outages/degradations",
       "href": "https://www.githubstatus.com?todayis=2026-02-02",
-      "points": "231 points",
-      "comments": "79 comments",
-      "index": 11
+      "points": "237 points",
+      "comments": "85 comments",
+      "index": 16
     },
     {
       "title": "See how many words you have written in Hacker News comments",
       "href": "https://serjaimelannister.github.io/hn-words/",
-      "points": "93 points",
-      "comments": "140 comments",
-      "index": 12
+      "points": "103 points",
+      "comments": "160 comments",
+      "index": 17
     },
     {
-      "title": "Archive.today is directing a DDoS attack against my blog?",
-      "href": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
-      "points": "209 points",
-      "comments": "86 comments",
-      "index": 13
+      "title": "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
+      "href": "https://github.com/whispem/minikv",
+      "points": "50 points",
+      "comments": "17 comments",
+      "index": 18
     },
     {
       "title": "Ask HN: Who is hiring? (February 2026)",
       "href": "item?id=46857488",
-      "points": "282 points",
-      "comments": "356 comments",
-      "index": 14
-    },
-    {
-      "title": "Why The Jetsons still matters (2012)",
-      "href": "https://www.smithsonianmag.com/history/50-years-of-the-jetsons-why-the-show-still-matters-43459669/",
-      "points": "22 points",
-      "comments": "3 comments",
-      "index": 15
+      "points": "288 points",
+      "comments": "364 comments",
+      "index": 19
     },
     {
       "title": "The Connection Machine CM-1 \"Feynman\" T-shirt",
       "href": "https://tamikothiel.com/cm/cm-tshirt.html",
-      "points": "90 points",
-      "comments": "19 comments",
-      "index": 16
+      "points": "99 points",
+      "comments": "24 comments",
+      "index": 20
     },
     {
       "title": "xAI joins SpaceX",
       "href": "https://www.spacex.com/updates#xai-joins-spacex",
-      "points": "750 points",
-      "comments": "1673 comments",
-      "index": 17
+      "points": "787 points",
+      "comments": "1747 comments",
+      "index": 21
     },
     {
-      "title": "Carnegie Mellon Unversity Computer Club FTP Server",
-      "href": "http://128.237.157.9/pub/",
-      "points": "99 points",
-      "comments": "19 comments",
-      "index": 18
-    },
-    {
-      "title": "Rentahuman – The Meatspace Layer for AI",
-      "href": "https://rentahuman.ai",
-      "points": "55 points",
-      "comments": "43 comments",
-      "index": 19
-    },
-    {
-      "title": "Hacking Moltbook",
-      "href": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
-      "points": "347 points",
-      "comments": "199 comments",
-      "index": 20
+      "title": "Archive.today is directing a DDoS attack against my blog?",
+      "href": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
+      "points": "231 points",
+      "comments": "107 comments",
+      "index": 22
     },
     {
       "title": "4x faster network file sync with rclone (vs rsync) (2025)",
       "href": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
-      "points": "323 points",
-      "comments": "147 comments",
-      "index": 21
+      "points": "341 points",
+      "comments": "150 comments",
+      "index": 23
     },
     {
-      "title": "Linux From Scratch ends SysVinit support",
-      "href": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
-      "points": "187 points",
-      "comments": "256 comments",
-      "index": 22
+      "title": "Hacking Moltbook",
+      "href": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+      "points": "360 points",
+      "comments": "217 comments",
+      "index": 24
     },
     {
       "title": "The TSA's New $45 Fee to Fly Without ID Is Illegal",
       "href": "https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/",
-      "points": "453 points",
-      "comments": "528 comments",
-      "index": 23
+      "points": "511 points",
+      "comments": "574 comments",
+      "index": 25
+    },
+    {
+      "title": "Linux From Scratch ends SysVinit support",
+      "href": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
+      "points": "198 points",
+      "comments": "279 comments",
+      "index": 26
+    },
+    {
+      "title": "Why The Jetsons still matters (2012)",
+      "href": "https://www.smithsonianmag.com/history/50-years-of-the-jetsons-why-the-show-still-matters-43459669/",
+      "points": "29 points",
+      "comments": "12 comments",
+      "index": 27
+    },
+    {
+      "title": "Carnegie Mellon Unversity Computer Club FTP Server",
+      "href": "http://128.237.157.9/pub/",
+      "points": "108 points",
+      "comments": "21 comments",
+      "index": 28
     },
     {
       "title": "Zig Libc",
       "href": "https://ziglang.org/devlog/2026/#2026-01-31",
-      "points": "294 points",
-      "comments": "119 comments",
-      "index": 24
-    },
-    {
-      "title": "Court orders restart of all US offshore wind power construction",
-      "href": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/",
-      "points": "410 points",
-      "comments": "274 comments",
-      "index": 25
+      "points": "317 points",
+      "comments": "131 comments",
+      "index": 29
     },
     {
       "title": "Pretty soon, heat pumps will be able to store and distribute heat as needed",
       "href": "https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/",
-      "points": "219 points",
-      "comments": "189 comments",
-      "index": 26
-    },
-    {
-      "title": "Phenakistoscopes (1833)",
-      "href": "https://publicdomainreview.org/collection/phenakistoscopes-1833/",
-      "points": "20 points",
-      "comments": "discuss",
-      "index": 27
-    },
-    {
-      "title": "Nano-vLLM: How a vLLM-style inference engine works",
-      "href": "https://neutree.ai/blog/nano-vllm-part-1",
-      "points": "260 points",
-      "comments": "26 comments",
-      "index": 28
-    },
-    {
-      "title": "Julia",
-      "href": "https://borretti.me/fiction/julia",
-      "points": "129 points",
-      "comments": "22 comments",
-      "index": 29
-    },
-    {
-      "title": "Joedb, the Journal-Only Embedded Database",
-      "href": "https://www.joedb.org/index.html",
-      "points": "74 points",
-      "comments": "9 comments",
+      "points": "241 points",
+      "comments": "200 comments",
       "index": 30
     }
   ]
