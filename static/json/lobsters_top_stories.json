@@ -1,25 +1,25 @@
 {
-  "date": "Tuesday, February 3, 2026 at 9:05 PM GMT-5",
+  "date": "Tuesday, February 3, 2026 at 11:30 PM GMT-5",
   "articles": [
     {
       "title": "Easily write Bash with a transpiler",
       "href": "https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 1
     },
     {
       "title": "What’s up with all those equals signs anyway?",
       "href": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
       "points": "",
-      "comments": "\n              7 comments\n            ",
+      "comments": "\n              8 comments\n            ",
       "index": 2
     },
     {
       "title": "zig libc",
       "href": "https://ziglang.org/devlog/2026/#2026-01-31",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 3
     },
     {
@@ -30,10 +30,10 @@
       "index": 4
     },
     {
-      "title": "java sucks (2000)",
-      "href": "https://www.jwz.org/doc/java.html",
+      "title": "Fitting Some Files Through A Stdout-Shaped Hole",
+      "href": "https://rtpg.co/2026/02/03/fitting-some-files-through-a-stdout-shaped-hole/",
       "points": "",
-      "comments": "\n              13 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 5
     },
     {
@@ -44,52 +44,52 @@
       "index": 6
     },
     {
-      "title": "Rust in the NetBSD Kernel, and other odd decisions",
-      "href": "https://bentsukun.ch/posts/netbsd-rust-kernel/",
+      "title": "java sucks (2000)",
+      "href": "https://www.jwz.org/doc/java.html",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 7
     },
     {
-      "title": "Fitting Some Files Through A Stdout-Shaped Hole",
-      "href": "https://rtpg.co/2026/02/03/fitting-some-files-through-a-stdout-shaped-hole/",
+      "title": "The smallest build system",
+      "href": "https://neugierig.org/software/blog/2026/01/smallest-build-system.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              6 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "Rust in the NetBSD Kernel, and other odd decisions",
+      "href": "https://bentsukun.ch/posts/netbsd-rust-kernel/",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
+      "index": 9
     },
     {
       "title": "WhatsApp Encryption, a Lawsuit, and a Lot of Noise",
       "href": "https://blog.cryptographyengineering.com/2026/02/02/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/",
       "points": "",
-      "comments": "\n              11 comments\n            ",
-      "index": 9
+      "comments": "\n              14 comments\n            ",
+      "index": 10
     },
     {
       "title": "GDPR Enforcement Is Broken",
       "href": "https://nikolak.com/gdpr-failure/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "The smallest build system",
-      "href": "https://neugierig.org/software/blog/2026/01/smallest-build-system.html",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
       "index": 11
-    },
-    {
-      "title": "One machine can go pretty far if you build things properly (2022)",
-      "href": "https://rachelbythebay.com/w/2022/01/27/scale/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 12
     },
     {
       "title": "FLOPPINUX - An Embedded Linux on a Single Floppy - 2025 Edition",
       "href": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              5 comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "One machine can go pretty far if you build things properly (2022)",
+      "href": "https://rachelbythebay.com/w/2022/01/27/scale/",
+      "points": "",
+      "comments": "\n              17 comments\n            ",
       "index": 13
     },
     {
@@ -107,71 +107,71 @@
       "index": 15
     },
     {
-      "title": "Taming the Flat AST: Ergonomics in the Age of Zero Allocations",
-      "href": "http://modern-c.blogspot.com/2026/02/taming-flat-ast-ergonomics-in-age-of.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
       "title": "Expensively Quadratic: the LLM Agent Cost Curve",
       "href": "https://blog.exe.dev/expensively-quadratic",
       "points": "",
       "comments": "\n              3 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "html tables revisted",
+      "href": "https://www.toolofthought.com/posts/html-tables-revisited",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
       "index": 17
+    },
+    {
+      "title": "Taming the Flat AST: Ergonomics in the Age of Zero Allocations",
+      "href": "http://modern-c.blogspot.com/2026/02/taming-flat-ast-ergonomics-in-age-of.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "33 Hot Takes on Systems Programming",
+      "href": "https://m.youtube.com/watch?v=g5rgIdy51vQ",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
     },
     {
       "title": "Notepad++ Hijacked by State-Sponsored Hackers",
       "href": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
       "points": "",
       "comments": "\n              56 comments\n            ",
-      "index": 18
+      "index": 20
     },
     {
       "title": "My experience with vibe coding",
       "href": "https://haskellforall.com/2026/02/my-experience-with-vibe-coding",
       "points": "",
       "comments": "\n              6 comments\n            ",
-      "index": 19
+      "index": 21
     },
     {
       "title": "Removing Tahoe’s Unwanted Menu Icons",
       "href": "https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 20
+      "index": 22
+    },
+    {
+      "title": "What arguments was Python called with?",
+      "href": "https://davidism.com/python-args/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
     },
     {
       "title": "Technology: The (nearly) perfect USB cable tester does exist",
       "href": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Plasma Effect",
-      "href": "https://www.4rknova.com/blog/2016/11/01/plasma",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "Eigen: Building a Workspace",
-      "href": "https://reindernijhoff.net/2025/10/eigen-building-a-workspace/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Notation as a tool for thought: Wavelets in J",
-      "href": "https://scottlocklin.wordpress.com/2014/11/14/notation-as-a-tool-for-thought-wavelets-in-j/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "OSMC 2025 - Easy logging refinement with FlowG",
-      "href": "https://www.youtube.com/watch?v=zrvc6hPmNYI",
+      "title": "Mechanical Sympathy (2014)",
+      "href": "https://www.infoq.com/presentations/mechanical-sympathy/",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 25
