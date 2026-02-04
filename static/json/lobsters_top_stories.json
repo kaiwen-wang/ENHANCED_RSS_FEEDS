@@ -1,11 +1,11 @@
 {
-  "date": "Wednesday, February 4, 2026 at 1:55 AM GMT-5",
+  "date": "Wednesday, February 4, 2026 at 2:45 AM GMT-5",
   "articles": [
     {
       "title": "Easily write Bash with a transpiler",
       "href": "https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "What’s up with all those equals signs anyway?",
       "href": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
       "points": "",
-      "comments": "\n              8 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 3
     },
     {
@@ -54,35 +54,35 @@
       "title": "The smallest build system",
       "href": "https://neugierig.org/software/blog/2026/01/smallest-build-system.html",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              9 comments\n            ",
       "index": 8
-    },
-    {
-      "title": "Rust in the NetBSD Kernel, and other odd decisions",
-      "href": "https://bentsukun.ch/posts/netbsd-rust-kernel/",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 9
     },
     {
       "title": "GDPR Enforcement Is Broken",
       "href": "https://nikolak.com/gdpr-failure/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 10
+      "index": 9
     },
     {
-      "title": "WhatsApp Encryption, a Lawsuit, and a Lot of Noise",
-      "href": "https://blog.cryptographyengineering.com/2026/02/02/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/",
+      "title": "Rust in the NetBSD Kernel, and other odd decisions",
+      "href": "https://bentsukun.ch/posts/netbsd-rust-kernel/",
       "points": "",
-      "comments": "\n              14 comments\n            ",
-      "index": 11
+      "comments": "\n              18 comments\n            ",
+      "index": 10
     },
     {
       "title": "Taming the Flat AST: Ergonomics in the Age of Zero Allocations",
       "href": "http://modern-c.blogspot.com/2026/02/taming-flat-ast-ergonomics-in-age-of.html",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "WhatsApp Encryption, a Lawsuit, and a Lot of Noise",
+      "href": "https://blog.cryptographyengineering.com/2026/02/02/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/",
+      "points": "",
+      "comments": "\n              14 comments\n            ",
       "index": 12
     },
     {
@@ -100,80 +100,80 @@
       "index": 14
     },
     {
+      "title": "Implementing the Temporal proposal in JavaScriptCore",
+      "href": "https://blogs.igalia.com/compilers/2026/02/02/implementing-the-temporal-proposal-in-javascriptcore/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 15
+    },
+    {
       "title": "One machine can go pretty far if you build things properly (2022)",
       "href": "https://rachelbythebay.com/w/2022/01/27/scale/",
       "points": "",
       "comments": "\n              17 comments\n            ",
-      "index": 15
+      "index": 16
     },
     {
       "title": "html tables revisted",
       "href": "https://www.toolofthought.com/posts/html-tables-revisited",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Implementing the Temporal proposal in JavaScriptCore",
-      "href": "https://blogs.igalia.com/compilers/2026/02/02/implementing-the-temporal-proposal-in-javascriptcore/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 17
     },
     {
       "title": "What's your email setup?",
       "href": "/s/bywnqo/what_s_your_email_setup",
       "points": "",
-      "comments": "\n              70 comments\n            ",
+      "comments": "\n              71 comments\n            ",
       "index": 18
+    },
+    {
+      "title": "Mobile carriers can get your GPS location",
+      "href": "https://an.dywa.ng/carrier-gnss.html",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
     },
     {
       "title": "What arguments was Python called with?",
       "href": "https://davidism.com/python-args/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 19
+      "index": 20
+    },
+    {
+      "title": "Competence as Tragedy",
+      "href": "https://crowprose.com/blog/competence-as-tragedy",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 21
     },
     {
       "title": "33 Hot Takes on Systems Programming",
       "href": "https://m.youtube.com/watch?v=g5rgIdy51vQ",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 20
+      "index": 22
+    },
+    {
+      "title": "rust-dlopen: A dynamic linker fully implemented in Rust",
+      "href": "https://github.com/weizhiao/rust-dlopen",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 23
+    },
+    {
+      "title": "Commodore, IBM, OS/2, ARexx: Deal or no deal?",
+      "href": "https://datagubbe.se/os2/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
     },
     {
       "title": "Why charging overnight doesn't ruin the battery anymore",
       "href": "https://lowendmac.com/2026/why-charging-overnight-doesnt-ruin-the-battery-anymore/",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "Notepad++ Hijacked by State-Sponsored Hackers",
-      "href": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
-      "points": "",
-      "comments": "\n              56 comments\n            ",
-      "index": 22
-    },
-    {
-      "title": "My experience with vibe coding",
-      "href": "https://haskellforall.com/2026/02/my-experience-with-vibe-coding",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "Removing Tahoe’s Unwanted Menu Icons",
-      "href": "https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/",
-      "points": "",
-      "comments": "\n              13 comments\n            ",
-      "index": 24
-    },
-    {
-      "title": "Technology: The (nearly) perfect USB cable tester does exist",
-      "href": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
       "index": 25
     }
   ]
