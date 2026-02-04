@@ -1,74 +1,74 @@
 {
-  "date": "Wednesday, February 4, 2026 at 9:40 AM GMT-5",
+  "date": "Wednesday, February 4, 2026 at 10:40 AM GMT-5",
   "articles": [
     {
       "title": "Competence as Tragedy",
       "href": "https://crowprose.com/blog/competence-as-tragedy",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 1
     },
     {
       "title": "writing an RSS reader in 80 lines of bash",
       "href": "https://yobibyte.github.io/yr.html",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 2
     },
     {
       "title": "Mobile carriers can get your GPS location",
       "href": "https://an.dywa.ng/carrier-gnss.html",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 3
     },
     {
-      "title": "Fitting Some Files Through A Stdout-Shaped Hole",
-      "href": "https://rtpg.co/2026/02/03/fitting-some-files-through-a-stdout-shaped-hole/",
+      "title": "Sukr: A minimal static site compiler in Rust with zero-JS output",
+      "href": "https://sukr.io",
       "points": "",
-      "comments": "\n              6 comments\n            ",
+      "comments": "\n              2 comments\n            ",
       "index": 4
     },
     {
-      "title": "Easily write Bash with a transpiler",
-      "href": "https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/",
+      "title": "Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back",
+      "href": "https://xakpc.dev/windows-widgets/history/",
       "points": "",
-      "comments": "\n              32 comments\n            ",
+      "comments": "\n              5 comments\n            ",
       "index": 5
-    },
-    {
-      "title": "I prefer to pass secrets between programs through standard input",
-      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin",
-      "points": "",
-      "comments": "\n              3 comments\n            ",
-      "index": 6
     },
     {
       "title": "I miss thinking hard",
       "href": "https://www.jernesto.com/articles/thinking_hard",
       "points": "",
       "comments": "\n              4 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "Fitting Some Files Through A Stdout-Shaped Hole",
+      "href": "https://rtpg.co/2026/02/03/fitting-some-files-through-a-stdout-shaped-hole/",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
       "index": 7
     },
     {
-      "title": "Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back",
-      "href": "https://xakpc.dev/windows-widgets/history/",
+      "title": "I prefer to pass secrets between programs through standard input",
+      "href": "https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 8
+    },
+    {
+      "title": "Easily write Bash with a transpiler",
+      "href": "https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/",
+      "points": "",
+      "comments": "\n              34 comments\n            ",
+      "index": 9
     },
     {
       "title": "LFS/BLFS will no longer be developing the System V versions",
       "href": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 9
-    },
-    {
-      "title": "java sucks (2000)",
-      "href": "https://www.jwz.org/doc/java.html",
-      "points": "",
-      "comments": "\n              29 comments\n            ",
       "index": 10
     },
     {
@@ -79,78 +79,78 @@
       "index": 11
     },
     {
+      "title": "java sucks (2000)",
+      "href": "https://www.jwz.org/doc/java.html",
+      "points": "",
+      "comments": "\n              31 comments\n            ",
+      "index": 12
+    },
+    {
       "title": "What’s up with all those equals signs anyway?",
       "href": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
       "points": "",
       "comments": "\n              10 comments\n            ",
-      "index": 12
-    },
-    {
-      "title": "Sukr: A minimal static site compiler in Rust with zero-JS output",
-      "href": "https://sukr.io",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 13
-    },
-    {
-      "title": "zig libc",
-      "href": "https://ziglang.org/devlog/2026/#2026-01-31",
-      "points": "",
-      "comments": "\n              20 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Taming the Flat AST: Ergonomics in the Age of Zero Allocations",
-      "href": "http://modern-c.blogspot.com/2026/02/taming-flat-ast-ergonomics-in-age-of.html",
-      "points": "",
-      "comments": "\n              6 comments\n            ",
-      "index": 15
-    },
-    {
-      "title": "Hacking Moltbook: AI Social Network Reveals 1.5M API Keys",
-      "href": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "Wirth's Revenge",
-      "href": "https://jmoiron.net/blog/wirths-revenge/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "The smallest build system",
-      "href": "https://neugierig.org/software/blog/2026/01/smallest-build-system.html",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "GDPR Enforcement Is Broken",
-      "href": "https://nikolak.com/gdpr-failure/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 19
-    },
-    {
-      "title": "Defining Safe Hardware Design",
-      "href": "https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 20
     },
     {
       "title": "Broken proofs and broken provers",
       "href": "https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 14
+    },
+    {
+      "title": "zig libc",
+      "href": "https://ziglang.org/devlog/2026/#2026-01-31",
+      "points": "",
+      "comments": "\n              22 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Taming the Flat AST: Ergonomics in the Age of Zero Allocations",
+      "href": "http://modern-c.blogspot.com/2026/02/taming-flat-ast-ergonomics-in-age-of.html",
+      "points": "",
+      "comments": "\n              6 comments\n            ",
+      "index": 16
+    },
+    {
+      "title": "The smallest build system",
+      "href": "https://neugierig.org/software/blog/2026/01/smallest-build-system.html",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
+      "index": 17
+    },
+    {
+      "title": "Hacking Moltbook: AI Social Network Reveals 1.5M API Keys",
+      "href": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "Wirth's Revenge",
+      "href": "https://jmoiron.net/blog/wirths-revenge/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 19
+    },
+    {
+      "title": "GDPR Enforcement Is Broken",
+      "href": "https://nikolak.com/gdpr-failure/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 20
+    },
+    {
+      "title": "Xikipedia Algorithm",
+      "href": "https://github.com/rebane2001/xikipedia?tab=readme-ov-file#algorithm",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
       "index": 21
     },
     {
-      "title": "Xikipedia (potentially NSFW)",
-      "href": "https://xikipedia.org/",
+      "title": "Defining Safe Hardware Design",
+      "href": "https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 22
