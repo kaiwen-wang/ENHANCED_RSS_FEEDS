@@ -1,214 +1,214 @@
 {
-  "date": "Wednesday, February 4, 2026 at 6:30 PM GMT-5",
+  "date": "Wednesday, February 4, 2026 at 9:05 PM GMT-5",
   "articles": [
+    {
+      "title": "OpenClaw Is What Apple Intelligence Should Have Been",
+      "href": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+      "points": "95 points",
+      "comments": "70 comments",
+      "index": 1
+    },
     {
       "title": "Voxtral Transcribe 2",
       "href": "https://mistral.ai/news/voxtral-transcribe-2",
-      "points": "640 points",
-      "comments": "157 comments",
-      "index": 1
+      "points": "729 points",
+      "comments": "175 comments",
+      "index": 2
+    },
+    {
+      "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+      "href": "https://sqldef.github.io/",
+      "points": "56 points",
+      "comments": "11 comments",
+      "index": 3
     },
     {
       "title": "Claude Code: connect to a local model when your quota runs out",
       "href": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-      "points": "136 points",
-      "comments": "45 comments",
-      "index": 2
-    },
-    {
-      "title": "Claude Code for Infrastructure",
-      "href": "https://www.fluid.sh/",
-      "points": "107 points",
-      "comments": "88 comments",
-      "index": 3
-    },
-    {
-      "title": "A real-world benchmark for AI code review",
-      "href": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
-      "points": "27 points",
-      "comments": "11 comments",
+      "points": "188 points",
+      "comments": "96 comments",
       "index": 4
     },
     {
       "title": "AI is killing B2B SaaS",
       "href": "https://nmn.gl/blog/ai-killing-b2b-saas",
-      "points": "171 points",
-      "comments": "273 comments",
+      "points": "224 points",
+      "comments": "379 comments",
       "index": 5
-    },
-    {
-      "title": "Building a 24-bit arcade CRT display adapter from scratch",
-      "href": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-      "points": "97 points",
-      "comments": "27 comments",
-      "index": 6
     },
     {
       "title": "Remarkable Pro Colors",
       "href": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
-      "points": "28 points",
-      "comments": "13 comments",
-      "index": 7
+      "points": "61 points",
+      "comments": "22 comments",
+      "index": 6
     },
     {
-      "title": "Tractor",
-      "href": "https://incoherency.co.uk/blog/stories/tractor.html",
-      "points": "131 points",
-      "comments": "44 comments",
-      "index": 8
+      "title": "Claude Code for Infrastructure",
+      "href": "https://www.fluid.sh/",
+      "points": "141 points",
+      "comments": "126 comments",
+      "index": 7
     },
     {
       "title": "As Rocks May Think",
       "href": "https://evjang.com/2026/02/04/rocks.html",
-      "points": "4 points",
-      "comments": "discuss",
-      "index": 9
+      "points": "54 points",
+      "comments": "42 comments",
+      "index": 8
     },
     {
-      "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
-      "href": "https://arxiv.org/abs/2602.00294",
-      "points": "139 points",
-      "comments": "74 comments",
-      "index": 10
+      "title": "Building a 24-bit arcade CRT display adapter from scratch",
+      "href": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+      "points": "124 points",
+      "comments": "34 comments",
+      "index": 9
     },
     {
       "title": "Microsoft's Copilot chatbot is running into problems",
       "href": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
-      "points": "73 points",
-      "comments": "82 comments",
+      "points": "128 points",
+      "comments": "155 comments",
+      "index": 10
+    },
+    {
+      "title": "Tractor",
+      "href": "https://incoherency.co.uk/blog/stories/tractor.html",
+      "points": "148 points",
+      "comments": "48 comments",
       "index": 11
+    },
+    {
+      "title": "Sam Altman responds to Anthropic's \"Ads are coming to AI. But not to Claude\" ads",
+      "href": "https://xcancel.com/sama/status/2019139174339928189",
+      "points": "31 points",
+      "comments": "27 comments",
+      "index": 12
+    },
+    {
+      "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
+      "href": "https://arxiv.org/abs/2602.00294",
+      "points": "152 points",
+      "comments": "82 comments",
+      "index": 13
     },
     {
       "title": "A sane but bull case on Clawdbot / OpenClaw",
       "href": "https://brandon.wang/2026/clawdbot",
-      "points": "230 points",
-      "comments": "365 comments",
-      "index": 12
+      "points": "252 points",
+      "comments": "395 comments",
+      "index": 14
+    },
+    {
+      "title": "Lily Programming Language",
+      "href": "https://lily-lang.org",
+      "points": "7 points",
+      "comments": "2 comments",
+      "index": 15
     },
     {
       "title": "RS-SDK: Drive RuneScape with Claude Code",
       "href": "https://github.com/MaxBittker/rs-sdk",
-      "points": "83 points",
-      "comments": "29 comments",
-      "index": 13
+      "points": "98 points",
+      "comments": "39 comments",
+      "index": 16
     },
     {
-      "title": "Litestream Writable VFS",
-      "href": "https://fly.io/blog/litestream-writable-vfs/",
-      "points": "7 points",
-      "comments": "8 comments",
-      "index": 14
+      "title": "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
+      "href": "https://morphllm.com/products/glance",
+      "points": "19 points",
+      "comments": "10 comments",
+      "index": 17
     },
     {
-      "title": "The Great Unwind",
-      "href": "https://occupywallst.com/yen",
-      "points": "213 points",
-      "comments": "156 comments",
-      "index": 15
+      "title": "Claude is a space to think",
+      "href": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "points": "369 points",
+      "comments": "198 comments",
+      "index": 18
+    },
+    {
+      "title": "A real-world benchmark for AI code review",
+      "href": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
+      "points": "38 points",
+      "comments": "15 comments",
+      "index": 19
+    },
+    {
+      "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
+      "href": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
+      "points": "88 points",
+      "comments": "77 comments",
+      "index": 20
     },
     {
       "title": "Data Poems",
       "href": "https://dr.eamer.dev/datavis/poems/",
-      "points": "11 points",
-      "comments": "discuss",
-      "index": 16
+      "points": "22 points",
+      "comments": "4 comments",
+      "index": 21
     },
     {
       "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
       "href": "https://www.runconverge.com/careers/product-engineer",
       "points": "",
       "comments": "hide",
-      "index": 17
-    },
-    {
-      "title": "Arcan-A12: Weaving a Different Web",
-      "href": "https://www.divergent-desktop.org/blog/2026/01/26/a12web/",
-      "points": "42 points",
-      "comments": "14 comments",
-      "index": 18
-    },
-    {
-      "title": "Tell HN: Another round of Zendesk email spam",
-      "href": "item?id=46890418",
-      "points": "60 points",
-      "comments": "21 comments",
-      "index": 19
-    },
-    {
-      "title": "Turn any website into a live, structured data feed",
-      "href": "https://www.meter.sh/",
-      "points": "18 points",
-      "comments": "14 comments",
-      "index": 20
-    },
-    {
-      "title": "The Codex app illustrates the shift left of IDEs and coding GUIs",
-      "href": "https://www.benshoemaker.us/writing/codex-app-launch/",
-      "points": "44 points",
-      "comments": "97 comments",
-      "index": 21
+      "index": 22
     },
     {
       "title": "Coding Agent VMs on NixOS with Microvm.nix",
       "href": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
-      "points": "75 points",
-      "comments": "36 comments",
-      "index": 22
-    },
-    {
-      "title": "Show HN: Interactive California Budget (By Claude Code)",
-      "href": "https://california-budget.com",
-      "points": "24 points",
-      "comments": "11 comments",
+      "points": "83 points",
+      "comments": "39 comments",
       "index": 23
     },
     {
-      "title": "Claude is a space to think",
-      "href": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-      "points": "318 points",
-      "comments": "167 comments",
+      "title": "Show HN: Bunqueue – Job queue for Bun using SQLite instead of Redis",
+      "href": "https://github.com/egeominotti/bunqueue",
+      "points": "9 points",
+      "comments": "2 comments",
       "index": 24
     },
     {
-      "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
-      "href": "https://github.com/bethington/ghidra-mcp",
-      "points": "263 points",
-      "comments": "63 comments",
+      "title": "Arcan-A12: Weaving a Different Web",
+      "href": "https://www.divergent-desktop.org/blog/2026/01/26/a12web/",
+      "points": "49 points",
+      "comments": "14 comments",
       "index": 25
     },
     {
-      "title": "Technocracy 2.0",
-      "href": "https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/",
-      "points": "57 points",
-      "comments": "31 comments",
+      "title": "The Codex app illustrates the shift left of IDEs and coding GUIs",
+      "href": "https://www.benshoemaker.us/writing/codex-app-launch/",
+      "points": "63 points",
+      "comments": "133 comments",
       "index": 26
     },
     {
-      "title": "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
-      "href": "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management",
-      "points": "21 points",
-      "comments": "8 comments",
+      "title": "Debian's Challenge When Its Developers Drift Away",
+      "href": "https://www.phoronix.com/news/Debian-Developers-Quiet-Away",
+      "points": "41 points",
+      "comments": "1 comment",
       "index": 27
+    },
+    {
+      "title": "Tell HN: Another round of Zendesk email spam",
+      "href": "item?id=46890418",
+      "points": "76 points",
+      "comments": "30 comments",
+      "index": 28
     },
     {
       "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
       "href": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
-      "points": "233 points",
-      "comments": "94 comments",
-      "index": 28
-    },
-    {
-      "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
-      "href": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
-      "points": "52 points",
-      "comments": "43 comments",
+      "points": "262 points",
+      "comments": "118 comments",
       "index": 29
     },
     {
-      "title": "Writing an optimizing tensor compiler from scratch",
-      "href": "https://michaelmoroz.github.io/WritingAnOptimizingTensorCompilerFromScratch/",
-      "points": "4 points",
-      "comments": "discuss",
+      "title": "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
+      "href": "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management",
+      "points": "29 points",
+      "comments": "15 comments",
       "index": 30
     }
   ]
