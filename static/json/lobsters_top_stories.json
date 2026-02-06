@@ -1,179 +1,179 @@
 {
-  "date": "Friday, February 6, 2026 at 8:00 AM GMT-5",
+  "date": "Friday, February 6, 2026 at 9:40 AM GMT-5",
   "articles": [
     {
       "title": "GitHub Actions Is Slowly Killing Your Engineering Team",
       "href": "https://iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
       "points": "",
-      "comments": "\n              69 comments\n            ",
+      "comments": "\n              72 comments\n            ",
       "index": 1
     },
     {
       "title": "The RCE that AMD won't fix",
       "href": "https://mrbruh.com/amd/",
       "points": "",
-      "comments": "\n              4 comments\n            ",
+      "comments": "\n              7 comments\n            ",
       "index": 2
     },
     {
       "title": "No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator",
       "href": "https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              16 comments\n            ",
       "index": 3
     },
     {
       "title": "My AI Adoption Journey",
       "href": "https://mitchellh.com/writing/my-ai-adoption-journey",
       "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 4
-    },
-    {
-      "title": "Building a C compiler with a team of parallel Claudes",
-      "href": "https://www.anthropic.com/engineering/building-c-compiler",
-      "points": "",
-      "comments": "\n              27 comments\n            ",
-      "index": 5
-    },
-    {
-      "title": "nix-run: run nix derivations without nix3 or flakes",
-      "href": "https://tangled.org/weethet.bsky.social/nix-run",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "jujutsu v0.38.0 released",
-      "href": "https://github.com/jj-vcs/jj/releases/tag/v0.38.0",
-      "points": "",
-      "comments": "\n              8 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "FOSDEM 26 - My Hallway Track Takeaways",
-      "href": "https://sluongng.substack.com/p/fosdem-26-my-hallway-track-takeaways",
-      "points": "",
-      "comments": "\n              15 comments\n            ",
-      "index": 8
-    },
-    {
-      "title": "(Un)portable defer in C",
-      "href": "https://antonz.org/defer-in-c/",
-      "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "Owning a $5M data center",
-      "href": "https://blog.comma.ai/datacenter/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 10
-    },
-    {
-      "title": "monty: A minimal, secure Python interpreter written in Rust for use by AI",
-      "href": "https://github.com/pydantic/monty",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 11
-    },
-    {
-      "title": "On the Promises of 'High-Assurance' Cryptography",
-      "href": "https://symbolic.software/blog/2026-02-05-cryspen/",
-      "points": "",
-      "comments": "\n              17 comments\n            ",
-      "index": 12
+      "index": 4
     },
     {
       "title": "Tactical tornado is the new default",
       "href": "https://olano.dev/blog/tactical-tornado",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 5
+    },
+    {
+      "title": "Building a C compiler with a team of parallel Claudes",
+      "href": "https://www.anthropic.com/engineering/building-c-compiler",
+      "points": "",
+      "comments": "\n              29 comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "nix-run: run nix derivations without nix3 or flakes",
+      "href": "https://tangled.org/weethet.bsky.social/nix-run",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "jujutsu v0.38.0 released",
+      "href": "https://github.com/jj-vcs/jj/releases/tag/v0.38.0",
+      "points": "",
+      "comments": "\n              10 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "Hackers (1995) Animated Experience",
+      "href": "https://hackers-1995.vercel.app/",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 9
+    },
+    {
+      "title": "FOSDEM 26 - My Hallway Track Takeaways",
+      "href": "https://sluongng.substack.com/p/fosdem-26-my-hallway-track-takeaways",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 10
+    },
+    {
+      "title": "Owning a $5M data center",
+      "href": "https://blog.comma.ai/datacenter/",
+      "points": "",
+      "comments": "\n              3 comments\n            ",
+      "index": 11
+    },
+    {
+      "title": "Text classification with Python 3.14's zstd module",
+      "href": "https://maxhalford.github.io/blog/text-classification-zstd/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "(Un)portable defer in C",
+      "href": "https://antonz.org/defer-in-c/",
+      "points": "",
+      "comments": "\n              13 comments\n            ",
       "index": 13
+    },
+    {
+      "title": "monty: A minimal, secure Python interpreter written in Rust for use by AI",
+      "href": "https://github.com/pydantic/monty",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 14
+    },
+    {
+      "title": "On the Promises of 'High-Assurance' Cryptography",
+      "href": "https://symbolic.software/blog/2026-02-05-cryspen/",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "Sysadmin In The LLM Age",
+      "href": "https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 16
     },
     {
       "title": "Recreating Epstein PDFs from raw encoded attachments",
       "href": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
       "points": "",
       "comments": "\n              18 comments\n            ",
-      "index": 14
+      "index": 17
     },
     {
       "title": "On craft and AI",
       "href": "https://slightknack.dev/daily/2026-02-04/",
       "points": "",
       "comments": "\n              1 comment\n            ",
-      "index": 15
+      "index": 18
     },
     {
       "title": "How to program computers (kOS) (2015)",
       "href": "https://fall.tr/kos",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 16
-    },
-    {
-      "title": "We are QA Engineers now",
-      "href": "https://serce.me/posts/2026-02-05-we-are-qa-engineers-now",
-      "points": "",
-      "comments": "\n              5 comments\n            ",
-      "index": 17
+      "index": 19
     },
     {
       "title": "Vibe Coding Kills Open Source",
       "href": "https://arxiv.org/pdf/2601.15494",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 18
-    },
-    {
-      "title": "Trust signals are broken",
-      "href": "https://ordep.dev/posts/trust-signals-are-broken",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 19
-    },
-    {
-      "title": "Blinc: A declarative, reactive UI system with first-class state machines, spring physics animations, and GPU-accelerated rendering",
-      "href": "https://github.com/project-blinc/Blinc",
-      "points": "",
-      "comments": "\n              no comments\n            ",
       "index": 20
+    },
+    {
+      "title": "We are QA Engineers now",
+      "href": "https://serce.me/posts/2026-02-05-we-are-qa-engineers-now",
+      "points": "",
+      "comments": "\n              5 comments\n            ",
+      "index": 21
     },
     {
       "title": "elfconv: AOT binary translator of Linux/ELF -> WebAssembly",
       "href": "https://github.com/yomaytk/elfconv",
       "points": "",
       "comments": "\n              no comments\n            ",
-      "index": 21
-    },
-    {
-      "title": "The Future Was Federated",
-      "href": "https://news.dyne.org/the-future-was-federated/",
-      "points": "",
-      "comments": "\n              19 comments\n            ",
       "index": 22
     },
     {
-      "title": "Build Systems and Build Philosophy (2020)",
-      "href": "https://abseil.io/resources/swe-book/html/ch18.html",
+      "title": "Introducing VillageSQL: A New Path for MySQL in the Agentic AI Era",
+      "href": "https://villagesql.com/blog/introducing-villagesql/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 23
     },
     {
-      "title": "CSRF protection in Phoenix with Sec-Fetch-Site",
-      "href": "https://mediremi.com/writing/phoenix-csrf-protection-with-sec-fetch-site/",
+      "title": "Using microvm.nix to sandbox Openclaw",
+      "href": "https://buduroiu.com/blog/openclaw-microvm/",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 24
     },
     {
-      "title": "The LLM spectrum and responsible LLM use",
-      "href": "https://martin.janiczek.cz/2026/02/05/the-llm-spectrum-and-responsible-llm-use.html",
+      "title": "bliss music analyzer library",
+      "href": "https://lelele.io/bliss.html",
       "points": "",
-      "comments": "\n              no comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 25
     }
   ]
