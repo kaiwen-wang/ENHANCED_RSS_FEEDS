@@ -1,214 +1,214 @@
 {
-  "date": "Friday, February 6, 2026 at 12:55 AM GMT-5",
+  "date": "Friday, February 6, 2026 at 1:55 AM GMT-5",
   "articles": [
     {
       "title": "Claude Opus 4.6",
       "href": "https://www.anthropic.com/news/claude-opus-4-6",
-      "points": "1773 points",
-      "comments": "746 comments",
+      "points": "1825 points",
+      "comments": "760 comments",
       "index": 1
+    },
+    {
+      "title": "Things Unix can do atomically (2010)",
+      "href": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+      "points": "32 points",
+      "comments": "6 comments",
+      "index": 2
     },
     {
       "title": "Systems Thinking",
       "href": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
-      "points": "12 points",
-      "comments": "2 comments",
-      "index": 2
+      "points": "34 points",
+      "comments": "12 comments",
+      "index": 3
     },
     {
       "title": "GPT-5.3-Codex",
       "href": "https://openai.com/index/introducing-gpt-5-3-codex/",
-      "points": "1185 points",
-      "comments": "456 comments",
-      "index": 3
-    },
-    {
-      "title": "Things Unix can do atomically",
-      "href": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
-      "points": "11 points",
-      "comments": "discuss",
+      "points": "1222 points",
+      "comments": "468 comments",
       "index": 4
     },
     {
       "title": "My AI Adoption Journey",
       "href": "https://mitchellh.com/writing/my-ai-adoption-journey",
-      "points": "470 points",
-      "comments": "138 comments",
+      "points": "500 points",
+      "comments": "156 comments",
       "index": 5
     },
     {
       "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
       "href": "https://www.anthropic.com/engineering/building-c-compiler",
-      "points": "473 points",
-      "comments": "431 comments",
+      "points": "484 points",
+      "comments": "453 comments",
       "index": 6
+    },
+    {
+      "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
+      "href": "https://github.com/artifact-keeper",
+      "points": "12 points",
+      "comments": "2 comments",
+      "index": 7
     },
     {
       "title": "Recreating Epstein PDFs from raw encoded attachments",
       "href": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
-      "points": "289 points",
-      "comments": "86 comments",
-      "index": 7
+      "points": "305 points",
+      "comments": "94 comments",
+      "index": 8
     },
     {
       "title": "Unlocking high-performance PostgreSQL with key memory optimizations",
       "href": "https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations",
-      "points": "19 points",
-      "comments": "discuss",
-      "index": 8
+      "points": "26 points",
+      "comments": "1 comment",
+      "index": 9
     },
     {
       "title": "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
       "href": "https://vespalec.com/blog/tower-of-flaws/",
-      "points": "32 points",
-      "comments": "9 comments",
-      "index": 9
+      "points": "40 points",
+      "comments": "13 comments",
+      "index": 10
     },
     {
       "title": "Animated Knots",
       "href": "https://www.animatedknots.com/",
-      "points": "120 points",
-      "comments": "16 comments",
-      "index": 10
+      "points": "142 points",
+      "comments": "18 comments",
+      "index": 11
     },
     {
       "title": "GitHub Actions is slowly killing engineering teams",
       "href": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
-      "points": "118 points",
-      "comments": "45 comments",
-      "index": 11
-    },
-    {
-      "title": "Review of 1984 by Isaac Asimov (1980)",
-      "href": "https://www.newworker.org/ncptrory/1984.htm",
-      "points": "124 points",
-      "comments": "54 comments",
+      "points": "156 points",
+      "comments": "68 comments",
       "index": 12
     },
     {
-      "title": "MenuetOS – a GUI OS that boots from a single floppy disk",
-      "href": "https://www.menuetos.net/",
-      "points": "130 points",
-      "comments": "24 comments",
+      "title": "How to carry more than your own bodyweight (2025)",
+      "href": "https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight",
+      "points": "7 points",
+      "comments": "3 comments",
       "index": 13
-    },
-    {
-      "title": "The RCE that AMD won't fix",
-      "href": "https://mrbruh.com/amd/",
-      "points": "120 points",
-      "comments": "57 comments",
-      "index": 14
     },
     {
       "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
       "href": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
-      "points": "6 points",
-      "comments": "discuss",
+      "points": "15 points",
+      "comments": "1 comment",
+      "index": 14
+    },
+    {
+      "title": "Review of 1984 by Isaac Asimov (1980)",
+      "href": "https://www.newworker.org/ncptrory/1984.htm",
+      "points": "128 points",
+      "comments": "59 comments",
       "index": 15
     },
     {
-      "title": "The browser catches homograph attacks, the terminal doesn't",
-      "href": "https://github.com/sheeki03/tirith",
-      "points": "36 points",
-      "comments": "7 comments",
+      "title": "MenuetOS – a GUI OS that boots from a single floppy disk",
+      "href": "https://www.menuetos.net/",
+      "points": "133 points",
+      "comments": "27 comments",
       "index": 16
+    },
+    {
+      "title": "The RCE that AMD won't fix",
+      "href": "https://mrbruh.com/amd/",
+      "points": "140 points",
+      "comments": "60 comments",
+      "index": 17
     },
     {
       "title": "Claude Opus 4.6 extra usage promo",
       "href": "https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo",
-      "points": "143 points",
-      "comments": "41 comments",
-      "index": 17
+      "points": "149 points",
+      "comments": "43 comments",
+      "index": 18
     },
     {
       "title": "LinkedIn checks for 2953 browser extensions",
       "href": "https://github.com/mdp/linkedin-extension-fingerprinting",
-      "points": "354 points",
-      "comments": "176 comments",
-      "index": 18
-    },
-    {
-      "title": "Same Radio, Different Citizens",
-      "href": "https://blog.cosmos-institute.org/p/same-radio-different-citizens",
-      "points": "6 points",
-      "comments": "discuss",
+      "points": "362 points",
+      "comments": "178 comments",
       "index": 19
     },
     {
       "title": "Hypernetworks: Neural Networks for Hierarchical Data",
       "href": "https://blog.sturdystatistics.com/posts/hnet_part_I/",
-      "points": "54 points",
+      "points": "59 points",
       "comments": "4 comments",
       "index": 20
     },
     {
-      "title": "Generative Pen-Trained Transformer",
-      "href": "https://theodore.net/projects/Polargraph/",
-      "points": "3 points",
-      "comments": "discuss",
+      "title": "The time I didn't meet Jeffrey Epstein",
+      "href": "https://scottaaronson.blog/?p=9534",
+      "points": "123 points",
+      "comments": "113 comments",
       "index": 21
     },
     {
-      "title": "The time I didn't meet Jeffrey Epstein",
-      "href": "https://scottaaronson.blog/?p=9534",
-      "points": "102 points",
-      "comments": "94 comments",
+      "title": "Generative Pen-Trained Transformer",
+      "href": "https://theodore.net/projects/Polargraph/",
+      "points": "5 points",
+      "comments": "discuss",
       "index": 22
     },
     {
       "title": "Orchestrate teams of Claude Code sessions",
       "href": "https://code.claude.com/docs/en/agent-teams",
-      "points": "332 points",
-      "comments": "186 comments",
+      "points": "338 points",
+      "comments": "190 comments",
       "index": 23
     },
     {
       "title": "What if writing tests was a joyful experience? (2023)",
       "href": "https://blog.janestreet.com/the-joy-of-expect-tests/",
-      "points": "51 points",
-      "comments": "18 comments",
+      "points": "54 points",
+      "comments": "20 comments",
       "index": 24
-    },
-    {
-      "title": "Show HN: Local task classifier and dispatcher on RTX 3080",
-      "href": "https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel",
-      "points": "12 points",
-      "comments": "discuss",
-      "index": 25
-    },
-    {
-      "title": "Company as Code",
-      "href": "https://blog.42futures.com/p/company-as-code",
-      "points": "231 points",
-      "comments": "115 comments",
-      "index": 26
-    },
-    {
-      "title": "Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka",
-      "href": "https://github.com/calf-ai/calfkit-sdk",
-      "points": "8 points",
-      "comments": "discuss",
-      "index": 27
     },
     {
       "title": "C isn't a programming language anymore (2022)",
       "href": "https://faultlore.com/blah/c-isnt-a-language/",
-      "points": "58 points",
-      "comments": "56 comments",
+      "points": "64 points",
+      "comments": "72 comments",
+      "index": 25
+    },
+    {
+      "title": "Show HN: Local task classifier and dispatcher on RTX 3080",
+      "href": "https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel",
+      "points": "16 points",
+      "comments": "discuss",
+      "index": 26
+    },
+    {
+      "title": "Company as Code",
+      "href": "https://blog.42futures.com/p/company-as-code",
+      "points": "235 points",
+      "comments": "117 comments",
+      "index": 27
+    },
+    {
+      "title": "Same Radio, Different Citizens",
+      "href": "https://blog.cosmos-institute.org/p/same-radio-different-citizens",
+      "points": "7 points",
+      "comments": "2 comments",
       "index": 28
     },
     {
-      "title": "The New Collabora Office for Desktop",
-      "href": "https://www.collaboraonline.com/collabora-office/",
-      "points": "157 points",
-      "comments": "100 comments",
+      "title": "The browser catches homograph attacks, the terminal doesn't",
+      "href": "https://github.com/sheeki03/tirith",
+      "points": "43 points",
+      "comments": "9 comments",
       "index": 29
     },
     {
-      "title": "Don't rent the cloud, own instead",
-      "href": "https://blog.comma.ai/datacenter/",
-      "points": "1114 points",
-      "comments": "462 comments",
+      "title": "Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka",
+      "href": "https://github.com/calf-ai/calfkit-sdk",
+      "points": "9 points",
+      "comments": "discuss",
       "index": 30
     }
   ]
