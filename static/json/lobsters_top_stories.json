@@ -1,5 +1,5 @@
 {
-  "date": "Friday, February 6, 2026 at 5:40 AM GMT-5",
+  "date": "Friday, February 6, 2026 at 6:35 AM GMT-5",
   "articles": [
     {
       "title": "GitHub Actions Is Slowly Killing Your Engineering Team",
@@ -12,126 +12,126 @@
       "title": "My AI Adoption Journey",
       "href": "https://mitchellh.com/writing/my-ai-adoption-journey",
       "points": "",
-      "comments": "\n              9 comments\n            ",
+      "comments": "\n              10 comments\n            ",
       "index": 2
     },
     {
       "title": "The RCE that AMD won't fix",
       "href": "https://mrbruh.com/amd/",
       "points": "",
-      "comments": "\n              2 comments\n            ",
+      "comments": "\n              3 comments\n            ",
       "index": 3
+    },
+    {
+      "title": "No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator",
+      "href": "https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/",
+      "points": "",
+      "comments": "\n              4 comments\n            ",
+      "index": 4
     },
     {
       "title": "Building a C compiler with a team of parallel Claudes",
       "href": "https://www.anthropic.com/engineering/building-c-compiler",
       "points": "",
-      "comments": "\n              25 comments\n            ",
-      "index": 4
+      "comments": "\n              26 comments\n            ",
+      "index": 5
     },
     {
       "title": "jujutsu v0.38.0 released",
       "href": "https://github.com/jj-vcs/jj/releases/tag/v0.38.0",
       "points": "",
       "comments": "\n              7 comments\n            ",
-      "index": 5
+      "index": 6
     },
     {
       "title": "FOSDEM 26 - My Hallway Track Takeaways",
       "href": "https://sluongng.substack.com/p/fosdem-26-my-hallway-track-takeaways",
       "points": "",
       "comments": "\n              15 comments\n            ",
-      "index": 6
+      "index": 7
     },
     {
       "title": "(Un)portable defer in C",
       "href": "https://antonz.org/defer-in-c/",
       "points": "",
       "comments": "\n              13 comments\n            ",
-      "index": 7
+      "index": 8
     },
     {
       "title": "Owning a $5M data center",
       "href": "https://blog.comma.ai/datacenter/",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 8
+      "index": 9
+    },
+    {
+      "title": "monty: A minimal, secure Python interpreter written in Rust for use by AI",
+      "href": "https://github.com/pydantic/monty",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 10
     },
     {
       "title": "On the Promises of 'High-Assurance' Cryptography",
       "href": "https://symbolic.software/blog/2026-02-05-cryspen/",
       "points": "",
-      "comments": "\n              16 comments\n            ",
-      "index": 9
-    },
-    {
-      "title": "No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator",
-      "href": "https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 10
-    },
-    {
-      "title": "Recreating Epstein PDFs from raw encoded attachments",
-      "href": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
-      "points": "",
-      "comments": "\n              18 comments\n            ",
+      "comments": "\n              17 comments\n            ",
       "index": 11
-    },
-    {
-      "title": "On craft and AI",
-      "href": "https://slightknack.dev/daily/2026-02-04/",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
-      "index": 12
     },
     {
       "title": "nix-run: run nix derivations without nix3 or flakes",
       "href": "https://tangled.org/weethet.bsky.social/nix-run",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 12
+    },
+    {
+      "title": "Recreating Epstein PDFs from raw encoded attachments",
+      "href": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
+      "points": "",
+      "comments": "\n              18 comments\n            ",
       "index": 13
     },
     {
-      "title": "monty: A minimal, secure Python interpreter written in Rust for use by AI",
-      "href": "https://github.com/pydantic/monty",
+      "title": "On craft and AI",
+      "href": "https://slightknack.dev/daily/2026-02-04/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 14
-    },
-    {
-      "title": "How to program computers (kOS) (2015)",
-      "href": "https://fall.tr/kos",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 15
     },
     {
       "title": "We are QA Engineers now",
       "href": "https://serce.me/posts/2026-02-05-we-are-qa-engineers-now",
       "points": "",
       "comments": "\n              5 comments\n            ",
+      "index": 15
+    },
+    {
+      "title": "How to program computers (kOS) (2015)",
+      "href": "https://fall.tr/kos",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 16
-    },
-    {
-      "title": "Vibe Coding Kills Open Source",
-      "href": "https://arxiv.org/pdf/2601.15494",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 17
-    },
-    {
-      "title": "elfconv: AOT binary translator of Linux/ELF -> WebAssembly",
-      "href": "https://github.com/yomaytk/elfconv",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 18
     },
     {
       "title": "Trust signals are broken",
       "href": "https://ordep.dev/posts/trust-signals-are-broken",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 17
+    },
+    {
+      "title": "Vibe Coding Kills Open Source",
+      "href": "https://arxiv.org/pdf/2601.15494",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 18
+    },
+    {
+      "title": "elfconv: AOT binary translator of Linux/ELF -> WebAssembly",
+      "href": "https://github.com/yomaytk/elfconv",
+      "points": "",
+      "comments": "\n              no comments\n            ",
       "index": 19
     },
     {
