@@ -1,11 +1,11 @@
 {
-  "date": "Friday, February 6, 2026 at 1:55 AM GMT-5",
+  "date": "Friday, February 6, 2026 at 2:50 AM GMT-5",
   "articles": [
     {
       "title": "GitHub Actions Is Slowly Killing Your Engineering Team",
       "href": "https://iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
       "points": "",
-      "comments": "\n              58 comments\n            ",
+      "comments": "\n              60 comments\n            ",
       "index": 1
     },
     {
@@ -19,7 +19,7 @@
       "title": "Building a C compiler with a team of parallel Claudes",
       "href": "https://www.anthropic.com/engineering/building-c-compiler",
       "points": "",
-      "comments": "\n              14 comments\n            ",
+      "comments": "\n              15 comments\n            ",
       "index": 3
     },
     {
@@ -33,35 +33,35 @@
       "title": "On the Promises of 'High-Assurance' Cryptography",
       "href": "https://symbolic.software/blog/2026-02-05-cryspen/",
       "points": "",
-      "comments": "\n              10 comments\n            ",
+      "comments": "\n              12 comments\n            ",
       "index": 5
-    },
-    {
-      "title": "FOSDEM 26 - My Hallway Track Takeaways",
-      "href": "https://sluongng.substack.com/p/fosdem-26-my-hallway-track-takeaways",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 6
-    },
-    {
-      "title": "Owning a $5M data center",
-      "href": "https://blog.comma.ai/datacenter/",
-      "points": "",
-      "comments": "\n              2 comments\n            ",
-      "index": 7
-    },
-    {
-      "title": "(Un)portable defer in C",
-      "href": "https://antonz.org/defer-in-c/",
-      "points": "",
-      "comments": "\n              12 comments\n            ",
-      "index": 8
     },
     {
       "title": "The RCE that AMD won't fix",
       "href": "https://mrbruh.com/amd/",
       "points": "",
       "comments": "\n              no comments\n            ",
+      "index": 6
+    },
+    {
+      "title": "FOSDEM 26 - My Hallway Track Takeaways",
+      "href": "https://sluongng.substack.com/p/fosdem-26-my-hallway-track-takeaways",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
+      "index": 7
+    },
+    {
+      "title": "Owning a $5M data center",
+      "href": "https://blog.comma.ai/datacenter/",
+      "points": "",
+      "comments": "\n              2 comments\n            ",
+      "index": 8
+    },
+    {
+      "title": "(Un)portable defer in C",
+      "href": "https://antonz.org/defer-in-c/",
+      "points": "",
+      "comments": "\n              12 comments\n            ",
       "index": 9
     },
     {
@@ -86,31 +86,31 @@
       "index": 12
     },
     {
+      "title": "Trust signals are broken",
+      "href": "https://ordep.dev/posts/trust-signals-are-broken",
+      "points": "",
+      "comments": "\n              1 comment\n            ",
+      "index": 13
+    },
+    {
       "title": "The Future Was Federated",
       "href": "https://news.dyne.org/the-future-was-federated/",
       "points": "",
       "comments": "\n              16 comments\n            ",
-      "index": 13
+      "index": 14
     },
     {
       "title": "Build Systems and Build Philosophy (2020)",
       "href": "https://abseil.io/resources/swe-book/html/ch18.html",
       "points": "",
       "comments": "\n              2 comments\n            ",
-      "index": 14
-    },
-    {
-      "title": "Trust signals are broken",
-      "href": "https://ordep.dev/posts/trust-signals-are-broken",
-      "points": "",
-      "comments": "\n              1 comment\n            ",
       "index": 15
     },
     {
-      "title": "CSRF protection in Phoenix with Sec-Fetch-Site",
-      "href": "https://mediremi.com/writing/phoenix-csrf-protection-with-sec-fetch-site/",
+      "title": "monty: A minimal, secure Python interpreter written in Rust for use by AI",
+      "href": "https://github.com/pydantic/monty",
       "points": "",
-      "comments": "\n              1 comment\n            ",
+      "comments": "\n              no comments\n            ",
       "index": 16
     },
     {
@@ -128,8 +128,8 @@
       "index": 18
     },
     {
-      "title": "Django: profile memory usage with Memray",
-      "href": "https://adamj.eu/tech/2026/01/29/django-profile-memray/",
+      "title": "CSRF protection in Phoenix with Sec-Fetch-Site",
+      "href": "https://mediremi.com/writing/phoenix-csrf-protection-with-sec-fetch-site/",
       "points": "",
       "comments": "\n              1 comment\n            ",
       "index": 19
@@ -142,38 +142,38 @@
       "index": 20
     },
     {
-      "title": "Calling Lean Functions As Python Functions",
-      "href": "https://www.philipzucker.com/leancall/",
+      "title": "voxtral.c: Pure C inference of Mistral Voxtral Realtime 4B speech to text model",
+      "href": "https://github.com/antirez/voxtral.c",
       "points": "",
       "comments": "\n              no comments\n            ",
       "index": 21
     },
     {
-      "title": "Sukr: A minimal static site compiler in Rust with zero-JS output",
-      "href": "https://sukr.io",
+      "title": "Django: profile memory usage with Memray",
+      "href": "https://adamj.eu/tech/2026/01/29/django-profile-memray/",
       "points": "",
-      "comments": "\n              15 comments\n            ",
+      "comments": "\n              1 comment\n            ",
       "index": 22
-    },
-    {
-      "title": "Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant",
-      "href": "https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 23
-    },
-    {
-      "title": "The LLM spectrum and responsible LLM use",
-      "href": "https://martin.janiczek.cz/2026/02/05/the-llm-spectrum-and-responsible-llm-use.html",
-      "points": "",
-      "comments": "\n              no comments\n            ",
-      "index": 24
     },
     {
       "title": "Agentic Proof-Oriented Programming",
       "href": "https://risemsr.github.io/blog/2026-02-04-nik-agentic-pop/",
       "points": "",
       "comments": "\n              1 comment\n            ",
+      "index": 23
+    },
+    {
+      "title": "Calling Lean Functions As Python Functions",
+      "href": "https://www.philipzucker.com/leancall/",
+      "points": "",
+      "comments": "\n              no comments\n            ",
+      "index": 24
+    },
+    {
+      "title": "Sukr: A minimal static site compiler in Rust with zero-JS output",
+      "href": "https://sukr.io",
+      "points": "",
+      "comments": "\n              15 comments\n            ",
       "index": 25
     }
   ]
